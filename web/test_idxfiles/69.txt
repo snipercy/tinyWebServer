@@ -1,0 +1,2492 @@
+Set-cookie: RMID=0734175201e14ed9132f9ef7; expires=Saturday, 01-Dec-2012 18:04:31 GMT; path=/; domain=.nytimes.com
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Multimedia and Photos - The New York Times</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="noarchive">
+<meta name="description" content="Find multimedia and interactive features including audio slide shows, photos, special reports and video on travel, politics, autos, movies, fashion, science and more." />
+<meta name="keywords" content="Wildlife Conservation Society,Jenkins, Jerry,Global Warming,Adirondack Mountains (NY),Defense and Military Forces,Dogs,Art,Metropolitan Museum of Art,Japan,Theater,Basketball,Soccer,Horsemanship and Equestrian Events,Swimming,Rugby (Game),Travel and Vacations,Atlanta (Ga),Quebec Province (Canada),Interior Design and Furnishings,Architecture,Tasmania (Australia),Medicine and Health,Oil (Petroleum) and Gasoline,Land Use Policies,Natural Gas,Fashion and Apparel,Metropolitan Opera,Opera,Interior Design and Furnishings,San Francisco (Calif),Art Basel (Festival),Art,Parties (Social),Art Basel Miami Beach,Libya,Iraq,Algeria,Yemen,Tunisia,Mortgages,Morocco,Iran,Middle East,Sudan,Egypt,Bahrain,Middle East and North Africa Unrest (2010- ),Kuwait,Saudi Arabia,Fox Broadcasting Co,Presidential Election of 2012,Park City (Utah),Rural Areas,Urban Areas,Boston (Mass),Hawaii,Real Estate and Housing (Residential),Fashion and Apparel,Dresses,Shopping and Retail,Fashion and Apparel,Fashion Institute of Technology,Museums,Athletics and Sports,Boxing,Skiing,Presidential Election of 2012,Polls and Public Opinion,United States Economy,Obama, Barack,Scranton (Pa),Soccer,Billiards,Baseball,Cricket (Game),Skiing,Art,Art Basel Miami Beach,Miami (Fla),Santa Claus,Congo, Democratic Republic of (Congo-Kinshasa),President Joseph Kabila,Etienne Tshisekedi,Art,Books and Literature,Casanova, Giacomo,National Library of France,Libraries and Librarians,Soccer,Tennis,Cricket (Game),Horsemanship and Equestrian Events,Volleyball,New York Giants,New Orleans Saints,Dancing,Balanchine, George,Soccer,Assaults,Argentina,Bushmaster,Firearms,Remington,Freedom Group,Mergers, Acquisitions and Divestitures,Football,College Athletics,Soccer,Golf,Cheerleaders,Figure Skating,Formula One,Rugby (Game),Skiing,Ice Dancing,Fencing (Sport),Automobiles,Books and Literature,Movies,Schizophrenia,Oil (Petroleum) and Gasoline,Real Estate and Housing (Residential),North Dakota,Fashion and Apparel,Cunningham, Bill,Travel and Vacations,Moscow (Russia),Urban Areas,Real Estate and Housing (Residential),Glendale (NY),Softball,Cuba,Black Friday (Shopping),Shopping and Retail,Restaurants,Travel and Vacations,Wisconsin,Movies,Monroe, Marilyn,Williams, Michelle,Actors and Actresses,Iraq War (2003- ),United States Agency for International Development,Widows and Widowers,Travel and Vacations,Himalayas,International Trade and World Market,Black Friday (Shopping),South Korea,Postal Service and Post Offices,Thanksgiving Day,Tlaxcala (Mexico),Travel and Vacations,Oporto (Portugal),Travel and Vacations,Art,Macy's Inc,Parades,Thanksgiving Day,New York State,Historic Buildings and Sites,Medical Marijuana,California,Sana (Yemen),Middle East and North Africa Unrest (2010- ),Yemen,Barns,Catskills (NYS Area),Interior Design and Furnishings,Real Estate and Housing (Residential),Ulster County (NY),Trees and Shrubs,Nuts,Interior Design and Furnishings,Social Conditions and Trends,Art,Parties (Social),Museums,Tableware,Shopping and Retail,Thanksgiving Day,Presidential Election of 2012,Illegal Immigrants,Immigration and Emigration,Immigration and Customs Enforcement (US),Egypt,Assad, Bashar Al-,Transitional National Council (Libya),Khalifa, Hamad Bin Isa al-,Saleh, Ali Abdullah,Qaddafi, Muammar el-,Syria,Medicine and Health,Tuscany (Italy),Rural Areas,Real Estate and Housing (Residential),Interior Design and Furnishings,Urban Areas,Real Estate and Housing (Residential),Amsterdam (Netherlands),Soccer,Surfing,Boxing,Handball,Tennis,Cameras,Photography,South Dakota,New Hampshire,Atlanta (Ga),Madonna,Photography,Klein, Steven,Jolie, Angelina,Lady Gaga,Pitt, Brad,Dancing,Ballet Next,Hamas,Gaza Strip,Middle East,Bachmann, Michele M,Perry, Rick,Romney, Mitt,Gingrich, Newt,Paul, Ron,Huntsman, Jon M Jr,Debates (Political),Presidential Election of 2012,Republican Party,Three-Dimensional Devices and Effects,Movies,Scorsese, Martin,Weight,Medicine and Health,Exercise,Trucks and Trucking,West Village (NYC),Real Estate and Housing (Residential),Music,Art,New Orleans (La),SAT (College Admission Test),Education (K-12),Boston (Mass),Colleges and Universities,Music,Soccer,Contador, Alberto,Tennis,Bicycles and Bicycling,Music,Books and Literature,Ertegun, Ahmet,Gymnastics,Soccer,Nascar Sprint Cup Series,Football,Netherlands,Travel and Vacations,England,Egypt,Demonstrations, Protests, and Riots,Middle East and North Africa Unrest (2010- ),Libya,Demonstrations, Protests, and Riots,Qaddafi, Muammar el-,Middle East and North Africa Unrest (2010- ),Japan Earthquake and Tsunami (2011),Fukushima Daiichi Nuclear Power Plant (Japan),Nuclear Energy,Japan,Japan Earthquake and Tsunami (2011),Fukushima Daiichi Nuclear Power Plant (Japan),Maps,New York City,Roads and Traffic,Historic Buildings and Sites,Artificial Intelligence,Polls and Public Opinion,Medicine and Health,Happiness,Gallup Poll,Genealogy,United States,Race and Ethnicity,Afghanistan War (2001- ),United States Defense and Military Forces,State of the Union Message (US),Gulf of Mexico,Transocean Inc,Accidents and Safety,Explosions,Oil (Petroleum) and Gasoline,BP Plc,Offshore Drilling and Exploration,Dementia,Alzheimer's Disease,Elderly,South Korea,Freedom Tower (NYC),Building (Construction),September 11 (2001),World Trade Center (NYC),Swat (Pakistan),Floods,Pakistan,Hicks, Tyler,Rivera, Mariano,New York Yankees,Baseball,New York City,Crime and Criminals,Police Department (NYC),Downes, Rackstraw,Art,International Business Machines Corporation,Supercomputers,Artificial Intelligence,Prospect Park (NYC),Central Park (NYC),Parks and Other Recreation Areas,Theater,Earthquakes,Haiti,Refugees and Displaced Persons,Earthquakes,Haiti,Earthquakes,Haiti,Epidemics,Haiti,Earthquakes,Orphans and Orphanages,Haiti" />
+<meta name="asset_id" content="">
+<meta name="CG" content="multimedia">
+<meta name="SCG" content="">
+<meta name="PT" content="Section Front">
+<meta name="PST" content="">
+<link rel="canonical" href="http://www.nytimes.com/pages/multimedia/index.html">
+<meta name="msapplication-starturl" content="http://www.nytimes.com/" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.nytimes.com/services/xml/rss/nyt/Multimedia.xml"/>
+
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/build/sectionfront/multimedia/styles.css" />
+<link rel="stylesheet" type="text/css" media="print" href="http://graphics8.nytimes.com/css/0.1/print/styles.css">
+<!--[if IE]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie.css);
+	    </style>
+	<![endif]-->
+<!--[if IE 6]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie6.css);
+	    </style>
+	<![endif]-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/DropDown.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/util/tooltip.js"></script>
+<script type="text/JavaScript">
+		var static_kw = "Wildlife Conservation Society;Jenkins; Jerry;Global Warming;Adirondack Mountains (NY);Defense and Military Forces;Dogs;Art;Metropolitan Museum of Art;Japan;Theater;Basketball;Soccer;Horsemanship and Equestrian Events;Swimming;Rugby (Game);Travel and Vacations;Atlanta (Ga);Quebec Province (Canada);Interior Design and Furnishings;Architecture;Tasmania (Australia);Medicine and Health;Oil (Petroleum) and Gasoline;Land Use Policies;Natural Gas;Fashion and Apparel;Metropolitan Opera;Opera;Interior Design and Furnishings;San Francisco (Calif);Art Basel (Festival);Art;Parties (Social);Art Basel Miami Beach;Libya;Iraq;Algeria;Yemen;Tunisia;Mortgages;Morocco;Iran;Middle East;Sudan;Egypt;Bahrain;Middle East and North Africa Unrest (2010- );Kuwait;Saudi Arabia;Fox Broadcasting Co;Presidential Election of 2012;Park City (Utah);Rural Areas;Urban Areas;Boston (Mass);Hawaii;Real Estate and Housing (Residential);Fashion and Apparel;Dresses;Shopping and Retail;Fashion and Apparel;Fashion Institute of Technology;Museums;Athletics and Sports;Boxing;Skiing;Presidential Election of 2012;Polls and Public Opinion;United States Economy;Obama; Barack;Scranton (Pa);Soccer;Billiards;Baseball;Cricket (Game);Skiing;Art;Art Basel Miami Beach;Miami (Fla);Santa Claus;Congo; Democratic Republic of (Congo-Kinshasa);President Joseph Kabila;Etienne Tshisekedi;Art;Books and Literature;Casanova; Giacomo;National Library of France;Libraries and Librarians;Soccer;Tennis;Cricket (Game);Horsemanship and Equestrian Events;Volleyball;New York Giants;New Orleans Saints;Dancing;Balanchine; George;Soccer;Assaults;Argentina;Bushmaster;Firearms;Remington;Freedom Group;Mergers; Acquisitions and Divestitures;Football;College Athletics;Soccer;Golf;Cheerleaders;Figure Skating;Formula One;Rugby (Game);Skiing;Ice Dancing;Fencing (Sport);Automobiles;Books and Literature;Movies;Schizophrenia;Oil (Petroleum) and Gasoline;Real Estate and Housing (Residential);North Dakota;Fashion and Apparel;Cunningham; Bill;Travel and Vacations;Moscow (Russia);Urban Areas;Real Estate and Housing (Residential);Glendale (NY);Softball;Cuba;Black Friday (Shopping);Shopping and Retail;Restaurants;Travel and Vacations;Wisconsin;Movies;Monroe; Marilyn;Williams; Michelle;Actors and Actresses;Iraq War (2003- );United States Agency for International Development;Widows and Widowers;Travel and Vacations;Himalayas;International Trade and World Market;Black Friday (Shopping);South Korea;Postal Service and Post Offices;Thanksgiving Day;Tlaxcala (Mexico);Travel and Vacations;Oporto (Portugal);Travel and Vacations;Art;Macy's Inc;Parades;Thanksgiving Day;New York State;Historic Buildings and Sites;Medical Marijuana;California;Sana (Yemen);Middle East and North Africa Unrest (2010- );Yemen;Barns;Catskills (NYS Area);Interior Design and Furnishings;Real Estate and Housing (Residential);Ulster County (NY);Trees and Shrubs;Nuts;Interior Design and Furnishings;Social Conditions and Trends;Art;Parties (Social);Museums;Tableware;Shopping and Retail;Thanksgiving Day;Presidential Election of 2012;Illegal Immigrants;Immigration and Emigration;Immigration and Customs Enforcement (US);Egypt;Assad; Bashar Al-;Transitional National Council (Libya);Khalifa; Hamad Bin Isa al-;Saleh; Ali Abdullah;Qaddafi; Muammar el-;Syria;Medicine and Health;Tuscany (Italy);Rural Areas;Real Estate and Housing (Residential);Interior Design and Furnishings;Urban Areas;Real Estate and Housing (Residential);Amsterdam (Netherlands);Soccer;Surfing;Boxing;Handball;Tennis;Cameras;Photography;South Dakota;New Hampshire;Atlanta (Ga);Madonna;Photography;Klein; Steven;Jolie; Angelina;Lady Gaga;Pitt; Brad;Dancing;Ballet Next;Hamas;Gaza Strip;Middle East;Bachmann; Michele M;Perry; Rick;Romney; Mitt;Gingrich; Newt;Paul; Ron;Huntsman; Jon M Jr;Debates (Political);Presidential Election of 2012;Republican Party;Three-Dimensional Devices and Effects;Movies;Scorsese; Martin;Weight;Medicine and Health;Exercise;Trucks and Trucking;West Village (NYC);Real Estate and Housing (Residential);Music;Art;New Orleans (La);SAT (College Admission Test);Education (K-12);Boston (Mass);Colleges and Universities;Music;Soccer;Contador; Alberto;Tennis;Bicycles and Bicycling;Music;Books and Literature;Ertegun; Ahmet;Gymnastics;Soccer;Nascar Sprint Cup Series;Football;Netherlands;Travel and Vacations;England;Egypt;Demonstrations; Protests; and Riots;Middle East and North Africa Unrest (2010- );Libya;Demonstrations; Protests; and Riots;Qaddafi; Muammar el-;Middle East and North Africa Unrest (2010- );Japan Earthquake and Tsunami (2011);Fukushima Daiichi Nuclear Power Plant (Japan);Nuclear Energy;Japan;Japan Earthquake and Tsunami (2011);Fukushima Daiichi Nuclear Power Plant (Japan);Maps;New York City;Roads and Traffic;Historic Buildings and Sites;Artificial Intelligence;Polls and Public Opinion;Medicine and Health;Happiness;Gallup Poll;Genealogy;United States;Race and Ethnicity;Afghanistan War (2001- );United States Defense and Military Forces;State of the Union Message (US);Gulf of Mexico;Transocean Inc;Accidents and Safety;Explosions;Oil (Petroleum) and Gasoline;BP Plc;Offshore Drilling and Exploration;Dementia;Alzheimer's Disease;Elderly;South Korea;Freedom Tower (NYC);Building (Construction);September 11 (2001);World Trade Center (NYC);Swat (Pakistan);Floods;Pakistan;Hicks; Tyler;Rivera; Mariano;New York Yankees;Baseball;New York City;Crime and Criminals;Police Department (NYC);Downes; Rackstraw;Art;International Business Machines Corporation;Supercomputers;Artificial Intelligence;Prospect Park (NYC);Central Park (NYC);Parks and Other Recreation Areas;Theater;Earthquakes;Haiti;Refugees and Displaced Persons;Earthquakes;Haiti;Earthquakes;Haiti;Epidemics;Haiti;Earthquakes;Orphans and Orphanages;Haiti";
+		var dynamic_kw = "Wildlife+Conservation+Society;Jenkins;+Jerry;Global+Warming;Adirondack+Mountains+%28NY%29;Defense+and+Military+Forces;Dogs;Art;Metropolitan+Museum+of+Art;Japan;Theater;Basketball;Soccer;Horsemanship+and+Equestrian+Events;Swimming;Rugby+%28Game%29;Travel+and+Vacations;Atlanta+%28Ga%29;Quebec+Province+%28Canada%29;Interior+Design+and+Furnishings;Architecture;Tasmania+%28Australia%29;Medicine+and+Health;Oil+%28Petroleum%29+and+Gasoline;Land+Use+Policies;Natural+Gas;Fashion+and+Apparel;Metropolitan+Opera;Opera;Interior+Design+and+Furnishings;San+Francisco+%28Calif%29;Art+Basel+%28Festival%29;Art;Parties+%28Social%29;Art+Basel+Miami+Beach;Libya;Iraq;Algeria;Yemen;Tunisia;Mortgages;Morocco;Iran;Middle+East;Sudan;Egypt;Bahrain;Middle+East+and+North+Africa+Unrest+%282010-+%29;Kuwait;Saudi+Arabia;Fox+Broadcasting+Co;Presidential+Election+of+2012;Park+City+%28Utah%29;Rural+Areas;Urban+Areas;Boston+%28Mass%29;Hawaii;Real+Estate+and+Housing+%28Residential%29;Fashion+and+Apparel;Dresses;Shopping+and+Retail;Fashion+and+Apparel;Fashion+Institute+of+Technology;Museums;Athletics+and+Sports;Boxing;Skiing;Presidential+Election+of+2012;Polls+and+Public+Opinion;United+States+Economy;Obama;+Barack;Scranton+%28Pa%29;Soccer;Billiards;Baseball;Cricket+%28Game%29;Skiing;Art;Art+Basel+Miami+Beach;Miami+%28Fla%29;Santa+Claus;Congo;+Democratic+Republic+of+%28Congo-Kinshasa%29;President+Joseph+Kabila;Etienne+Tshisekedi;Art;Books+and+Literature;Casanova;+Giacomo;National+Library+of+France;Libraries+and+Librarians;Soccer;Tennis;Cricket+%28Game%29;Horsemanship+and+Equestrian+Events;Volleyball;New+York+Giants;New+Orleans+Saints;Dancing;Balanchine;+George;Soccer;Assaults;Argentina;Bushmaster;Firearms;Remington;Freedom+Group;Mergers;+Acquisitions+and+Divestitures;Football;College+Athletics;Soccer;Golf;Cheerleaders;Figure+Skating;Formula+One;Rugby+%28Game%29;Skiing;Ice+Dancing;Fencing+%28Sport%29;Automobiles;Books+and+Literature;Movies;Schizophrenia;Oil+%28Petroleum%29+and+Gasoline;Real+Estate+and+Housing+%28Residential%29;North+Dakota;Fashion+and+Apparel;Cunningham;+Bill;Travel+and+Vacations;Moscow+%28Russia%29;Urban+Areas;Real+Estate+and+Housing+%28Residential%29;Glendale+%28NY%29;Softball;Cuba;Black+Friday+%28Shopping%29;Shopping+and+Retail;Restaurants;Travel+and+Vacations;Wisconsin;Movies;Monroe;+Marilyn;Williams;+Michelle;Actors+and+Actresses;Iraq+War+%282003-+%29;United+States+Agency+for+International+Development;Widows+and+Widowers;Travel+and+Vacations;Himalayas;International+Trade+and+World+Market;Black+Friday+%28Shopping%29;South+Korea;Postal+Service+and+Post+Offices;Thanksgiving+Day;Tlaxcala+%28Mexico%29;Travel+and+Vacations;Oporto+%28Portugal%29;Travel+and+Vacations;Art;Macy%27s+Inc;Parades;Thanksgiving+Day;New+York+State;Historic+Buildings+and+Sites;Medical+Marijuana;California;Sana+%28Yemen%29;Middle+East+and+North+Africa+Unrest+%282010-+%29;Yemen;Barns;Catskills+%28NYS+Area%29;Interior+Design+and+Furnishings;Real+Estate+and+Housing+%28Residential%29;Ulster+County+%28NY%29;Trees+and+Shrubs;Nuts;Interior+Design+and+Furnishings;Social+Conditions+and+Trends;Art;Parties+%28Social%29;Museums;Tableware;Shopping+and+Retail;Thanksgiving+Day;Presidential+Election+of+2012;Illegal+Immigrants;Immigration+and+Emigration;Immigration+and+Customs+Enforcement+%28US%29;Egypt;Assad;+Bashar+Al-;Transitional+National+Council+%28Libya%29;Khalifa;+Hamad+Bin+Isa+al-;Saleh;+Ali+Abdullah;Qaddafi;+Muammar+el-;Syria;Medicine+and+Health;Tuscany+%28Italy%29;Rural+Areas;Real+Estate+and+Housing+%28Residential%29;Interior+Design+and+Furnishings;Urban+Areas;Real+Estate+and+Housing+%28Residential%29;Amsterdam+%28Netherlands%29;Soccer;Surfing;Boxing;Handball;Tennis;Cameras;Photography;South+Dakota;New+Hampshire;Atlanta+%28Ga%29;Madonna;Photography;Klein;+Steven;Jolie;+Angelina;Lady+Gaga;Pitt;+Brad;Dancing;Ballet+Next;Hamas;Gaza+Strip;Middle+East;Bachmann;+Michele+M;Perry;+Rick;Romney;+Mitt;Gingrich;+Newt;Paul;+Ron;Huntsman;+Jon+M+Jr;Debates+%28Political%29;Presidential+Election+of+2012;Republican+Party;Three-Dimensional+Devices+and+Effects;Movies;Scorsese;+Martin;Weight;Medicine+and+Health;Exercise;Trucks+and+Trucking;West+Village+%28NYC%29;Real+Estate+and+Housing+%28Residential%29;Music;Art;New+Orleans+%28La%29;SAT+%28College+Admission+Test%29;Education+%28K-12%29;Boston+%28Mass%29;Colleges+and+Universities;Music;Soccer;Contador;+Alberto;Tennis;Bicycles+and+Bicycling;Music;Books+and+Literature;Ertegun;+Ahmet;Gymnastics;Soccer;Nascar+Sprint+Cup+Series;Football;Netherlands;Travel+and+Vacations;England;Egypt;Demonstrations;+Protests;+and+Riots;Middle+East+and+North+Africa+Unrest+%282010-+%29;Libya;Demonstrations;+Protests;+and+Riots;Qaddafi;+Muammar+el-;Middle+East+and+North+Africa+Unrest+%282010-+%29;Japan+Earthquake+and+Tsunami+%282011%29;Fukushima+Daiichi+Nuclear+Power+Plant+%28Japan%29;Nuclear+Energy;Japan;Japan+Earthquake+and+Tsunami+%282011%29;Fukushima+Daiichi+Nuclear+Power+Plant+%28Japan%29;Maps;New+York+City;Roads+and+Traffic;Historic+Buildings+and+Sites;Artificial+Intelligence;Polls+and+Public+Opinion;Medicine+and+Health;Happiness;Gallup+Poll;Genealogy;United+States;Race+and+Ethnicity;Afghanistan+War+%282001-+%29;United+States+Defense+and+Military+Forces;State+of+the+Union+Message+%28US%29;Gulf+of+Mexico;Transocean+Inc;Accidents+and+Safety;Explosions;Oil+%28Petroleum%29+and+Gasoline;BP+Plc;Offshore+Drilling+and+Exploration;Dementia;Alzheimer%27s+Disease;Elderly;South+Korea;Freedom+Tower+%28NYC%29;Building+%28Construction%29;September+11+%282001%29;World+Trade+Center+%28NYC%29;Swat+%28Pakistan%29;Floods;Pakistan;Hicks;+Tyler;Rivera;+Mariano;New+York+Yankees;Baseball;New+York+City;Crime+and+Criminals;Police+Department+%28NYC%29;Downes;+Rackstraw;Art;International+Business+Machines+Corporation;Supercomputers;Artificial+Intelligence;Prospect+Park+%28NYC%29;Central+Park+%28NYC%29;Parks+and+Other+Recreation+Areas;Theater;Earthquakes;Haiti;Refugees+and+Displaced+Persons;Earthquakes;Haiti;Earthquakes;Haiti;Epidemics;Haiti;Earthquakes;Orphans+and+Orphanages;Haiti";
+		var nyt_google_contents = dynamic_kw + static_kw;
+		var nyt_google_ad_channel = "multimedia";
+	</script>
+<script type="text/javascript" src="http://use.typekit.com/fml4qar.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" src="http://js.nyt.com/js2/build/sitewide/sitewide.js"></script>
+<script type="text/javascript" src="http://js.nyt.com/js/app/lib/jquery/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+</head>
+<body>
+<a name="top"></a>
+<div id="shell">
+
+<ul id="memberTools">
+
+ 
+                        <li><a id="memberToolsLogin" href="https://myaccount.nytimes.com/auth/login">Log In</a></li>
+            <li><a href="https://myaccount.nytimes.com/gst/regi.html">Register Now</a></li>
+                            
+
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+</ul>
+<div class="tabsContainer">
+<ul id="mainTabs" class="tabs">
+<li class="first mainTabHome"><a href="http://www.nytimes.com">Home Page</a></li>
+<li class="mainTabTodaysPaper"><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+<li class="mainTabVideo"><a href="http://www.nytimes.com/video">Video</a></li>
+<li class="mainTabMostPopular"><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+<li class="mainTabTimesTopics"><a href="http://topics.nytimes.com/top/reference/timestopics">Times Topics</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+</script>	<div id="page" class="tabContent active">
+<div class="clearfix" id="masthead">
+
+<div class="singleAd" id="Middle1C">
+<!-- ADXINFO classification="button" campaign="ING_DirectSiteSearchQ111_1694929-nyt1"--><A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/multimedia/index.html&pos=Middle1C&sn2=a447cf81/68fe838b&sn1=59756299/46b02203&camp=ING_DirectSiteSearchQ111_1694929-nyt1&ad=NEW.88x31.SiteSearch.Wizard&goto=http://ad.doubleclick.net/jump/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.31" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.31"
+ BORDER=0 WIDTH=88 HEIGHT=31
+ ALT="Click Here"></A>
+</div>
+
+<div id="searchWidget">
+<div class="inlineSearchControl">
+<form enctype="application/x-www-form-urlencoded" action="http://query.nytimes.com/search/sitesearch" method="get" name="searchForm" id="searchForm">
+<input type="hidden" value="full" name="date_select"/>
+<label for="searchQuery">Search All NYTimes.com</label>
+<input type="text" class="text" value="" size="" name="query" id="searchQuery"/>
+<input type="hidden" id="searchAll" name="type" value="nyt"/>
+<input type="image" id="searchSubmit" title="Search" alt="Search" width="22" height="19" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"/>
+</form>
+</div>
+</div>
+
+<div id="branding" >
+<a href="http://www.nytimes.com"><img src="http://graphics8.nytimes.com/images/misc/nytlogo152x23.gif" alt="New York Times" id="NYTLogo"/></a>
+</div>
+
+<div id="date">
+<p>
+Friday, December  2, 2011
+</p>
+</div>
+
+<h2>
+<a href="http://www.nytimes.com/pages/multimedia/index.html">Multimedia/Photos</a>
+</h2>
+
+</div>
+<div class="navigation tabsContainer">
+<ul class="tabs">
+<li id="navWorld" class="first ">
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>	<li id="navUs" >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>	<li id="navNyregion" >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>	<li id="navBusiness" >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>	<li id="navTechnology" >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>	<li id="navScience" >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>	<li id="navHealth" >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>	<li id="navSports" >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>	<li id="navOpinion" >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>	<li id="navArts" >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>	<li id="navStyle" >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>	<li id="navTravel" >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>	<li id="navJobs" >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>	<li id="navRealestate" >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>	<li id="navAutomobiles" >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li></ul>
+</div>
+
+<div class="singleAd" id="TopAd">
+<!-- ADXINFO classification="Leaderboard" campaign="CARTIER_1773172_ND11_INT_US"--><script src="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=rsb&c=28&pli=3535487&PluID=0&w=960&h=90&ord=2011.12.02.18.04.31&ucm=true"></script>
+<noscript>
+<a href="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=brd&FlightID=3535487&Page=&PluID=0&Pos=4415" target="_blank"><img src="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=bsr&FlightID=3535487&Page=&PluID=0&Pos=4415" border=0 width=960 height=90></a>
+</noscript>
+
+</div>
+
+<div id="main">
+<div class="spanAB wrap">
+<div class="wideA">
+<div class="abColumn">
+<div class="aColumn">
+<!--cur:LedeStory395 prev:-->
+<div class="columnGroup first">
+<div class="ledeStory">
+<div class="storyHeader">
+<h1><a href="http://www.nytimes.com/2011/12/02/nyregion/fearing-climate-changes-effects-on-the-adirondacks.html?ref=multimedia">
+Savoring Bogs and Moose, Fearing They’ll Vanish as the Adirondacks Warm</a></h1>
+<h6 class="byline">
+By LISA W. FODERARO            </h6>
+</div>
+<div class="ledePhoto">
+<div class="image">
+<a href="http://www.nytimes.com/2011/12/02/nyregion/fearing-climate-changes-effects-on-the-adirondacks.html?ref=multimedia"><img src="http://graphics8.nytimes.com/images/2011/12/02/nyregion/ADIRONDACKS1/ADIRONDACKS1-sfSpan-v2.jpg" border="0" width="395" height="270" alt="A full moon rising over Osgood Pond near Paul Smiths, N.Y." /></a>
+</div>
+<h6 class="credit">Ruth Fremson/The New York Times</h6>
+<p class="caption">A full moon rising over Osgood Pond near Paul Smiths, N.Y.</p>
+</div>
+<p class="summary">
+Jerry Jenkins, an ecologist, documents the ecosystem of the Adirondacks and laments its future in the face of global climate change’s local effects.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/slideshow/2011/12/02/nyregion/02Adirondacks.html"><span class="icon slideshow">Slide Show</span>: Documenting Climate Change in the Adirondacks</a></li>
+</ul>
+</div>
+</div>
+<!--cur:StandardThumb prev:LedeStory395-->
+<div class="columnGroup last">
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/12/01/us/20111202-canine-ss.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/us/20111202-canine-ss-slide-YF95/20111202-canine-ss-slide-YF95-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/12/01/us/20111202-canine-ss.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+The Dogs of War</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+The number of working dogs on active duty has risen to 2,700, from 1,800 in 2001, and the training school at Lackland Air Force Base in San Antonio, Texas, prepares about 500 dogs a year.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/12/02/arts/design/20111202_STORYTELLING.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/arts/20111202_STORYTELLING-slide-L4BF/20111202_STORYTELLING-slide-L4BF-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/12/02/arts/design/20111202_STORYTELLING.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+‘Storytelling in Japanese Art’</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Images from the new exhibition at the Metropolitan Museum of Art.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/12/02/arts/design/storytelling-in-japanese-art-at-the-met-review.html">Art Review</a></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/12/02/theater/20111202-bonnie.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/theater/20111202-bonnie-slide-9ESN/20111202-bonnie-slide-9ESN-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/12/02/theater/20111202-bonnie.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+‘Bonnie & Clyde’</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Photos from the new Broadway musical.</p>
+<ul class="refer">
+<li><a href="http://theater.nytimes.com/2011/12/02/theater/reviews/bonnie-clyde-with-laura-osnes-and-jeremy-jordan-review.html"> Related Review </a></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/12/01/sports/20111201-photoreplay.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/sports/20111201-photoreplay-slide-7EIV/20111201-photoreplay-slide-7EIV-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/12/01/sports/20111201-photoreplay.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Photo Replay: Dec.1</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A look at the day in sports, including USA Swimming’s winter national championships in Atlanta and Europa League soccer matches in Germany and Greece.</p>
+</div>
+<div class="story">
+<h6 class="kicker">SURFACING</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/12/01/travel/04SURFACING.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/travel/04SURFACING-slide-Z6D7/04SURFACING-slide-Z6D7-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/12/01/travel/04SURFACING.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Dr. Martin Luther King Jr.’s Atlanta Neighborhood on the Upswing</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+As a cradle of culinary and artistic innovation, the area is seeing a wave of new art galleries, nightclubs and restaurants.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/11/28/greathomesanddestinations/20111204IHHQUEBEC.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/28/greathomesanddestinations/20111204IHHQUEBEC-custom3.75.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/11/28/greathomesanddestinations/20111204IHHQUEBEC.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+A Quebec Country House on 253-Acres</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+An eight-bedroom stone and wood country home built in 1825 on 253 acres near Quebec City is on the market for $2.8 million.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/11/30/greathomesanddestinations/20111130_tasmania.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/greathomesanddestinations/20111130_tasmania-custom1.75.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/11/30/greathomesanddestinations/20111130_tasmania.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+In Tasmania, Nature on Display</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+For one couple, a home in the midst of Tasmania’s untamed beauty seemed like a once-in-a-lifetime opportunity.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/12/02/health/20111202_healthquiz.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/health/02health_75.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/12/02/health/20111202_healthquiz.html?ref=multimedia">
+<span class="media icon interactive">Interactive Feature: </span>
+The Weekly Health Quiz</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+In the news: dental work, sustainable fish and childbirth. Test your knowledge of this week’s health news.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/12/02/us/oil-and-gas-leases.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/us/new_lease_shot_small.png" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/12/02/us/oil-and-gas-leases.html?ref=multimedia">
+<span class="media icon document">Document: </span>
+Drilling Down: Archive of Oil and Gas Leases</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+The New York Times has collected over 110,000 oil and gas leases and related documentation through open records requests sent about hydraulic fracturing and land leases in more than six dozen counties in which the practice is common.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/12/02/business/how-the-auto-industry-fared.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/business/1202-biz-webAUTO-75px.gif" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/12/02/business/how-the-auto-industry-fared.html?ref=multimedia">
+<span class="media icon graphic">Graphic: </span>
+How the Auto Industry Fared</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Winners and losers in the auto industry.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/12/01/fashion/20111201-SCOTT.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/fashion/20111201-SCOTT-slide-6TQT/20111201-SCOTT-slide-6TQT-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/12/01/fashion/20111201-SCOTT.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Jeremy Scott, Fashion’s Last Rebel</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Jeremy Scott, survivor of the anti-fashion era.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/12/01/arts/artsspecial/20111201FAUST.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/arts/artsspecial/20111201FAUST-slide-F1AL/20111201FAUST-slide-F1AL-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/12/01/arts/artsspecial/20111201FAUST.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+‘Faust’ at the Met</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+The Metropolitan Opera presented Gounod’s “Faust” on Tuesday night, a co-production with the English National Opera.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/12/01/garden/20111201-LOCATION.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/garden/20111201-LOCATION-slide-9LDH/20111201-LOCATION-slide-9LDH-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/12/01/garden/20111201-LOCATION.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+A Live-Work Space in San Francisco</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Raveevarn Choksombatchai, a Thai-born architect and artist, lives and works in a ramshackle 2,000-square-foot building in SoMa.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/12/01/fashion/20111201-SCENE.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/fashion/20111201-SCENE-slide-FFBB/20111201-SCENE-slide-FFBB-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/12/01/fashion/20111201-SCENE.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Art Basel Miami Beach: Tuesday Night</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Parties for Ferrari and White Cube gallery kick off the10th year of Art Basel Miami Beach.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/12/01/arts/dance/2011121SUPERNATURAL.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/arts/dance/2011121SUPERNATURAL-slide-EZFB/2011121SUPERNATURAL-slide-EZFB-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/12/01/arts/dance/2011121SUPERNATURAL.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Big Dance Theater at BAM</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+The company presented “Supernatural Wife” in its Brooklyn Academy of Music debut on Tuesday evening.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/12/01/arts/dance/big-dance-theater-in-supernatural-wife-review.html"> Related Review </a></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/world/middleeast/middle-east-hub.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/02/21/world/21libya_map/21libya_map-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/world/middleeast/middle-east-hub.html?ref=multimedia">
+<span class="media icon interactive">Interactive Feature: </span>
+Arab World Uprisings: A Country-by-Country Look</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+The convulsions of the Arab Spring find new life as a new wave of protests rock Egypt, and Yemen’s leader agrees — in writing — to step down after 33 years of rule.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/11/30/us/politics/candidates-on-fox.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/us/politics/foxx75.png" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/11/30/us/politics/candidates-on-fox.html?ref=multimedia">
+<span class="media icon interactive">Interactive Graphic: </span>
+Campaigning on Fox</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Some candidates have been relying on television appearances on Fox to get out their messages.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/11/30/greathomesanddestinations/20111204WYG.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/greathomesanddestinations/20111204WYG-custom1.75.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/11/30/greathomesanddestinations/20111204WYG.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Homes for $1.36 Million</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A penthouse overlooking Boston harbor, a beachfront cabin in Hawaii, and an 1895 Victorian in Park City, Utah</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/12/01/fashion/20111201-BROWSING.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/fashion/20111101-BROWSING-slide-70IJ/20111101-BROWSING-slide-70IJ-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/12/01/fashion/20111201-BROWSING.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Shopping Snapshots: Dec. 1</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+French import Sandro opens; Camel colored coats; a Pamela Love Trunk Show and more.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/12/01/business/economy/most-regions-experienced-modest-growth.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/business/economy/1201-biz-webBEIGE-BOOK-75px.gif" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/12/01/business/economy/most-regions-experienced-modest-growth.html?ref=multimedia">
+<span class="media icon graphic">Graphic: </span>
+Most Regions Experienced Modest Growth</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A roundup of regional economic conditions in the Federal Reserve’s 12 districts.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/12/01/fashion/20111201-FRONTROW.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/fashion/20111201-FRONTROW-slide-7UGB/20111201-FRONTROW-slide-7UGB-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/12/01/fashion/20111201-FRONTROW.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+‘The Great Designers’ at the Museum at the Fashion Institute of Technology</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A two-part survey from the permanent collection of the Museum at the Fashion Institute of Technology.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/30/sports/20111130-SptPhotoReplay.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/sports/20111130-SptPhotoReplay-slide-26PJ/20111130-SptPhotoReplay-slide-26PJ-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/30/sports/20111130-SptPhotoReplay.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Photo Replay: Nov. 30</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A look back at the day in sports, from women’s boxing in Tokyo to alpine skiing in Colorado.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/30/us/politics/30scranton.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/us/politics/30scranton-slide-F3EO/30scranton-slide-F3EO-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/30/us/politics/30scranton.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Democratic Voters Waver in Scranton</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+President Obama faces a replay of ‘08 hurdles in ‘Hillary Country,’ Pa.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/29/sports/20111129-photoreplay.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/29/sports/20111129-photoreplay-slide-MIJD/20111129-photoreplay-slide-MIJD-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/29/sports/20111129-photoreplay.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Photo Replay: Nov.29</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+South Korea’s Samsung Lions won the 2011 Asia Series, the Los Angeles Galaxy of M.L.S. toured Asia and the world snooker championships continued in India.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/29/arts/artsspecial/MIAMIART.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/29/arts/artsspecial/MIAMIART-slide-QUOP/MIAMIART-slide-QUOP-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/29/arts/artsspecial/MIAMIART.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Miami’s Still-Maturing Art Scene</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Art Basel Miami, which begins Thursday, has helped bolster the city’s galleries and develop local artists.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/11/30/us/rates-of-increase-in-subsidized-lunches.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/us/1130-nat-webLUNCH-75px.gif" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/11/30/us/rates-of-increase-in-subsidized-lunches.html?ref=multimedia">
+<span class="media icon interactive">Interactive Map: </span>
+Rates of Increase in Subsidized Lunches</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+The proportion of fourth graders eligible for the federal government’s school meals program has increased nationwide since 2007.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/11/30/us/politics/ups-and-downs-of-the-cain-candidacy.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/us/politics/1130-nat-CAIN-75px.gif" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/11/30/us/politics/ups-and-downs-of-the-cain-candidacy.html?ref=multimedia">
+<span class="media icon graphic">Graphic: </span>
+Ups and Downs of the Cain Candidacy</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Herman Cain has been losing his standing in the polls since claims of sexual harassment surfaced last month.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/11/30/business/another-airline-seeks-help-with-court-protection.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/business/1130-biz-webAIR-75px.gif" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/11/30/business/another-airline-seeks-help-with-court-protection.html?ref=multimedia">
+<span class="media icon graphic">Graphic: </span>
+Another Airline Seeks Help With Court Protection</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Rivals of AMR, the parent company of American Airlines, have emerged stronger after going through bankruptcy protection.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/24/us/20111125_SANTA.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/24/us/20111125_SANTA-slide-NIZ7/20111125_SANTA-slide-NIZ7-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/24/us/20111125_SANTA.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Santas Schooled in Restraint</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+The economic downturn is forcing some to help curb children’s expectations.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/28/world/africa/20111129-CONGO.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/28/world/africa/20111129-CONGO-slide-CMBJ/20111129-CONGO-slide-CMBJ-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/28/world/africa/20111129-CONGO.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Millions Vote in the Democratic Republic of Congo</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Voters in this vast, turbulent and pivotal country in the lush heart of Africa streamed into the polls on Monday, and many were already bracing for serious unrest.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/29/arts/design/casanova.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/29/arts/design/casanova-slide-HZS7/casanova-slide-HZS7-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/29/arts/design/casanova.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Seduction As Art</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Images from the exhibition “Casanova — The Passion for Freedom.”</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/28/sports/20111128-photoreplay.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/28/sports/20111128-photoreplay-slide-0Q3V/20111128-photoreplay-slide-0Q3V-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/28/sports/20111128-photoreplay.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Photo Replay: Nov. 28</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A view of the day in sports included flag waving at cricket matches, a volleyball spike, and perhaps a cue shot at the world snooker championships that began in India.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/11/29/business/top-online-sales-days-in-2010.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/29/business/1129-biz-webCYBER-75px.gif" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/11/29/business/top-online-sales-days-in-2010.html?ref=multimedia">
+<span class="media icon graphic">Graphic: </span>
+Top Online Sales Days in 2010</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+In 2010, the Monday after Thanksgiving was the largest online sales day to date.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/11/28/world/middleeast/voting-schedule-for-egypt-parliament.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/28/world/middleeast/1129-for-sub-EGYPT-75px.gif" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/11/28/world/middleeast/voting-schedule-for-egypt-parliament.html?ref=multimedia">
+<span class="media icon graphic">Graphic: </span>
+Voting Schedule for Egypt Parliament</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Egyptian parliament elections will occur in three voting phases.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/11/29/business/electric-car-battery-packs.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/29/business/1129-biz-AUTO-75px.gif" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/11/29/business/electric-car-battery-packs.html?ref=multimedia">
+<span class="media icon graphic">Graphic: </span>
+Electric Car Battery Packs</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+An investigation into the safety of the Chevrolet Volt’s battery pack could chill interest in the electric car market.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/28/sports/football/SPTSGIANTS1128.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/28/sports/football/SPTSGIANTS1128-slide-0U3H/SPTSGIANTS1128-slide-0U3H-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/28/sports/football/SPTSGIANTS1128.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Giants Replay: Week 12</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Images from the Giants’ 49-24 loss to the Saints in New Orleans on Nov. 28.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/28/arts/dance/20111128-nutcracker.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/28/arts/dance/20111128-nutcracker-slide-HDZN/20111128-nutcracker-slide-HDZN-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/28/arts/dance/20111128-nutcracker.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+‘The Nutcracker’</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Photos of ‘George Balanchine’s The Nutcracker’ at Lincoln Center.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/11/28/arts/dance/george-balanchines-the-nutcracker-at-lincoln-center.html">Dance Review</a></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/27/sports/27argentina_ss.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/sports/27argentina_ss-slide-GC1Y/27argentina_ss-slide-GC1Y-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/27/sports/27argentina_ss.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+A History of Violence</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+In Argentina, a rise in street crime is reflected in the increasing aggression among groups of soccer hooligans.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/11/27/sports/soccer/in-argentina-violence-is-part-of-the-soccer-culture.html">Related Article</a></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/27/business/27gun-ss.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/business/27gun-ss-slide-XBYW/27gun-ss-slide-XBYW-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/27/business/27gun-ss.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+A Stealth Giant in the Gun Industry</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Many major gun makers, including the 195-year-old Remington Arms, have quietly passed into the hands of one private company, the Freedom Group.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/26/sports/SPTSCOLLEGE1126.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/26/sports/SPTSCOLLEGE1126-slide-CFBE/SPTSCOLLEGE1126-slide-CFBE-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/26/sports/SPTSCOLLEGE1126.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+College Football Replay: Nov. 26</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Rivalries mark the last big weekend of the regular season, with Michigan defeating Ohio State, Auburn battling Alabama and Kentucky notching its first win against Tennessee in 26 years.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/26/sports/SPTSREPLAY1126.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/26/sports/SPTSREPLAY1126-slide-ZRPC/SPTSREPLAY1126-slide-ZRPC-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/26/sports/SPTSREPLAY1126.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Photo Replay: Nov. 26</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A view of the day in sports, from golf amid the lush foliage of southern China to soccer on the sands of Dubai.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/27/automobiles/27tintin-slideshow.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/automobiles/27tintin-slideshow-slide-TU6J/27tintin-slideshow-slide-TU6J-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/27/automobiles/27tintin-slideshow.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+More Than Just Scenery</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Georges Remi, the artist behind “The Adventures of Tintin,” was an avid car collector whose passion for automobiles was revealed in his work.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://video.nytimes.com/video/2011/11/25/health/100000001183299/lives-restored-milton-greek.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/science/video-lives-milton/video-lives-milton-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://video.nytimes.com/video/2011/11/25/health/100000001183299/lives-restored-milton-greek.html?ref=multimedia">
+<span class="media icon video">Video: </span>
+Meaning in Madness</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Milton Greek, who has been diagnosed with schizophrenia, believes that decoding the messages in delusions can help some people recover.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/20/us/MANCAMPS.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/20/us/MANCAMPS-slide-WJ2V/MANCAMPS-slide-WJ2V-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/20/us/MANCAMPS.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+A Housing Shortage’s Imperfect Solution</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Man camps are filling the holes for housing as thousands of workers floods parts of North Dakota to work the bustling oil fields.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/11/26/us/north-dakota-oil-boom-creates-camps-of-men.html">Related Article</a></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://video.nytimes.com/video/2011/11/25/fashion/100000001191900/grrr.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/25/fashion/video-1127billcunningham/video-1127billcunningham-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://video.nytimes.com/video/2011/11/25/fashion/100000001191900/grrr.html?ref=multimedia">
+<span class="media icon video">Video: </span>
+Bill Cunningham | Spotting Cats</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+One of the few discernible fashion trends is the prevalence of spotted cat. It is most often sighted in shoulder bags and scarves.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/27/travel/27MOSCOW.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/travel/27MOSCOW-slide-Q1QI/27MOSCOW-slide-Q1QI-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/27/travel/27MOSCOW.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Winter in Moscow</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+The colder months don’t stop the city from enjoying itself. Just bundle up, go ice skating and follow the locals into bustling shops and restaurants.</p>
+<ul class="refer">
+<li><a href="http://travel.nytimes.com/2011/11/27/travel/moscow-in-the-winter-alive-and-illuminated.html"> Related Article </a></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/11/27/realestate/20111127livinginglendale.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/realestate/crop_4395827344547200303.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/11/27/realestate/20111127livinginglendale.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Living In | Glendale, Queens</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Glendale has a varied housing stock, from one-family Tudors to semidetached and two-family colonials.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/25/sports/26softball_ss.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/25/sports/26softball_ss-slide-VNGX/26softball_ss-slide-VNGX-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/25/sports/26softball_ss.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Road Trip to Cuba</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Players from the Eastern Massachusetts Senior Softball League traveled to play a series of games against teams in Cuba, the league’s fourth such visit there since 2009.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/11/26/sports/us-softball-ambassadors-to-cuba.html">Related Article</a></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/25/business/20111125blackfriday.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/25/business/20111125blackfriday-slide-ADDG/20111125blackfriday-slide-ADDG-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/25/business/20111125blackfriday.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Black Friday Shoppers Come Out at Night</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+With many stores moving back their opening times for Black Friday deals to Thanksgiving night, some shoppers said they came for the deals, and others to extend their holiday celebrations.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/27/travel/27WISCONSIN.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/travel/27WISCONSIN-slide-EPPW/27WISCONSIN-slide-EPPW-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/27/travel/27WISCONSIN.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+The Supper Clubs of Wisconsin</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+From Madison to Milwaukee, these old-fashioned fine-dining establishments are still going strong.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/26/obituaries/20111126_WICKER.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/26/obituaries/20111126_WICKER-slide-4P7R/20111126_WICKER-slide-4P7R-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/26/obituaries/20111126_WICKER.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Tom Wicker, a Columnist Not Afraid of Controversy</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Tom Wicker, an iconoclastic columnist for The New York Times, became one of postwar America’s most distinguished journalists.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/25/sports/20111125-photoreplay.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/25/sports/20111125-photoreplay-slide-FVH7/20111125-photoreplay-slide-FVH7-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/25/sports/20111125-photoreplay.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Photo Replay: Nov.25</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A look at the day in sports, from golf in China to rugby in Australia.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/27/fashion/20111127-MAINCOURSE.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/fashion/20111127-MAINCOURSE-slide-NQOT/20111127-MAINCOURSE-slide-NQOT-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/27/fashion/20111127-MAINCOURSE.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+A Strange New Role: The Star</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Photographs of Michelle Williams throughout her acting career.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/25/world/middleeast/20111125Widow.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/25/world/middleeast/20111125Widow-slide-21DE/20111125Widow-slide-21DE-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/25/world/middleeast/20111125Widow.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Iraq’s War Widows Find Little Comfort</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Iraq faces a gender imbalance as decades of conflict have left an estimated one million widows. Many hope, against the odds, to marry again.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/11/25/world/middleeast/iraqi-widows-numbers-have-grown-but-aid-lags.html"> Related Article </a></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/27/travel/27CHADAR.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/travel/27CHADAR-slide-KUWO/27CHADAR-slide-KUWO-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/27/travel/27CHADAR.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Himalayan Highway</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A frozen river becomes a highway connecting Zanskar’s few dozen villages to the rest of the world during a two-month window in the heart of the Himalayan winter.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/26/business/weekly-business-photos.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/26/business/Bizpix-slide-VTBT/Bizpix-slide-VTBT-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/26/business/weekly-business-photos.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+The Week’s Business News in Pictures</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Financial woes at the United States Postal Service, a vote on a free trade pact in South Korea, a tempest in the fair trade movement and the (barely) post-Thanksgiving start to the holiday season were among the week’s top business stories.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/27/travel/27TLAXCALA.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/travel/27TLAXCALA-slide-MY10/27TLAXCALA-slide-MY10-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/27/travel/27TLAXCALA.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Haciendas and Pulque in Tlaxcala, Mexico,</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Escaping the hazy-brown air of Mexico City for a traditional rural town of big skies and history.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/27/travel/27HOURS.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/travel/27HOURS-slide-GHVY/27HOURS-slide-GHVY-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/27/travel/27HOURS.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+36 Hours in Porto, Portugal</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Portugal’s second-largest metropolis has a jam-packed new nightlife district and a blossoming creative scene.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/26/arts/Week-In-Culture-Pictures.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/26/arts/Week-In-Culture-Pictures-slide-TIR6/Week-In-Culture-Pictures-slide-TIR6-thumbStandard.jpg" width="75" height="75" alt="Anthony Gonzalez of M83, left, face-to-face with Morgan Kibby on keyboards at Webster Hall in Manhattan on Tuesday." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/26/arts/Week-In-Culture-Pictures.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+The Week in Culture Pictures, Nov. 25</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A slide show of photographs of cultural events from this week.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/24/nyregion/20111124_PARADE.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/24/nyregion/20111124_PARADE-slide-W79L/20111124_PARADE-slide-W79L-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/24/nyregion/20111124_PARADE.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Macy’s Thanksgiving Day Parade</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Thousands came out to watch the 85th annual Macy’s Thanksgiving Day Parade in New York City.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/24/nyregion/War-of-1812.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/24/nyregion/War-of-1812-slide-I1LS/War-of-1812-slide-I1LS-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/24/nyregion/War-of-1812.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+War of 1812</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+War of 1812 sites around New York, as well as the State Archives and other historical organizations, are planning events to celebrate the bicentennial of the war.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/23/us/POT.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/23/us/POT-slide-EVWN/POT-slide-EVWN-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/23/us/POT.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Medical Marijuana in a Legal Limbo</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Operators of legal medical marijuana dispensaries in California are nervous in the face of stepped-up federal government efforts to shut them down.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/23/world/middleeast/20111124-Yemen.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/23/world/middleeast/20111124-Yemen-slide-WBNJ/20111124-Yemen-slide-WBNJ-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/23/world/middleeast/20111124-Yemen.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Yemeni President Agrees to Step Down</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+President Ali Abdullah Saleh has agreed to transfer power to his vice president, but Mr. Saleh has figured out ways to hang on to control when he has been threatened in the past.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/24/garden/20111124-ULSTER.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/24/garden/20111124-ULSTER-slide-WIFQ/20111124-ULSTER-slide-WIFQ-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/24/garden/20111124-ULSTER.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Back to the Land in the Catskills</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+The farm where Fabio Chizzola, a fashion photographer, and his wife, Laura Ferrara, a stylist, have made a home.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/24/garden/20111124-CHESTNUTS.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/24/garden/Chestnuts-slide-7DDG/Chestnuts-slide-7DDG-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/24/garden/20111124-CHESTNUTS.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Harvesting Chestnuts</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Chestnuts ripen at Mark Shepard’s orchard near Viola, Wis.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/24/garden/20111124-TEEN.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/24/garden/20111124-TEEN-slide-VH43/20111124-TEEN-slide-VH43-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/24/garden/20111124-TEEN.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Inside Sam Allen’s World</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A look at the 19-year-old interior designer’s work.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/22/fashion/20111124_scenecity.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/22/fashion/20111124_scenecity-slide-MNQ2/20111124_scenecity-slide-MNQ2-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/22/fashion/20111124_scenecity.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Spencer Sweeney’s ‘Pharaoh’s Lounge’</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+The exhibition, including a sauna, opened at Gavin Brown’s Enterprise gallery in the West Village to a downtown crowd.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/11/24/fashion/spencer-sweeneys-pharaohs-lounge-scene-city.html">Scene City: The Art of Perpetual Motion</a></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/11/24/garden/20111124-shopping.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/24/garden/24shopping_75.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/11/24/garden/20111124-shopping.html?ref=multimedia">
+<span class="media icon interactive">Interactive Feature: </span>
+Shopping for Carving Sets</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Jessica Applestone of Fleisher’s Grass-Fed and Organic Meats searched for distinctive carving sets.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/11/24/us/politics/candidate-immigration-positions.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/24/us/politics/GINGRICHx75.png" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/11/24/us/politics/candidate-immigration-positions.html?ref=multimedia">
+<span class="media icon graphic">Graphic: </span>
+Where the Candidates Stand on Immigration</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A heated discussion on immigration took place during Tuesday night’s Republican presidential debate.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/11/23/world/middleeast/Arab-Spring-and-Fall.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/23/world/middleeast/1023-for-web-LEADERS-75.gif" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/11/23/world/middleeast/Arab-Spring-and-Fall.html?ref=multimedia">
+<span class="media icon interactive">Interactive Graphic: </span>
+Arab Spring and Fall</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+An update on the leaders and countries where protests have turned violent.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/11/24/health/20111124_healthquiz.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/24/health/24health_75.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/11/24/health/20111124_healthquiz.html?ref=multimedia">
+<span class="media icon interactive">Interactive Feature: </span>
+The Weekly Health Quiz</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+In the news: Fat truckers, the fat gene and acupuncture. Test your knowledge of this week’s health news.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/11/24/greathomesanddestinations/20111124IHHTuscany.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/24/greathomesanddestinations/2111127IHHTuscany-custom4.75.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/11/24/greathomesanddestinations/20111124IHHTuscany.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+A Restored 18th-Century Farmhouse in Tuscany</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+This five-bedroom stone farmhouse dates to the 1700s and was restored 10 years ago.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/11/24/greathomesanddestinations/20111123_amsterdam.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/24/greathomesanddestinations/20111123_amsterdam3-custom1.75.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/11/24/greathomesanddestinations/20111123_amsterdam.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+A ‘Slice of Heaven’ in Amsterdam</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A couple converted a former factory into a sleekly designed four-story home with a new double-height window and a central atrium.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/23/sports/2011112-photoreplay.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/23/sports/2011112-photoreplay-slide-C20V/2011112-photoreplay-slide-C20V-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/23/sports/2011112-photoreplay.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Photo Replay: Nov. 23</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A view of the day in sports, with show horses in Spain and smoke-clouded soccer in Russia.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/23/technology/personaltech/20111124-POGUE.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/23/technology/personaltech/20111124-POGUE-slide-WWVN/20111124-POGUE-slide-WWVN-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/23/technology/personaltech/20111124-POGUE.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Small Cameras, Big Sensors</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Sony, Samsung and Cannon are all working to make smaller cameras deliver more professional-looking photographs.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/11/24/greathomesanddestinations/20111124WYG.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/24/greathomesanddestinations/120111127WYG-custom1.75.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/11/24/greathomesanddestinations/20111124WYG.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Real Estate for $375,000</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+An 1837 cape in New Hampshire, an apartment in a converted factory in Atlanta, and a cabin in South Dakota.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/24/fashion/20111124-KLEIN.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/24/fashion/20111124-KLEIN-slide-7Z3N/20111124-KLEIN-slide-7Z3N-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/24/fashion/20111124-KLEIN.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Steven Klein’s Photographs</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+The photographer’s work over the past decade.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/23/arts/dance/Ballet-Next.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/23/arts/dance/Ballet-Next-slide-AOM4/Ballet-Next-slide-AOM4-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/23/arts/dance/Ballet-Next.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Ballet Next at the Joyce Theater</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+The company had its inaugural performance Monday night at the Joyce Theater.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/22/world/middleeast/20111123-HAMAS.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/22/world/middleeast/20111123-HAMAS-slide-R074/20111123-HAMAS-slide-R074-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/22/world/middleeast/20111123-HAMAS.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+New Momentum for Hamas Entering Talks With Fatah</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Hamas’s leader, Khalid Meshal, arrives at talks in Cairo this week with Mahmoud Abbas, president of the Palestinian Authority, with a sense of regional winds at his back, as Islamic-inspired movements replace dictators.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/11/23/world/middleeast/hamas-gains-momentum-in-palestinian-rivalry.html">Related Article</a></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/23/us/20111123_DEBATE.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/23/us/20111123_DEBATE-slide-P1YI/20111123_DEBATE-slide-P1YI-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/23/us/20111123_DEBATE.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Republicans Debate National Security</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+The candidates differed over the pace of withdrawal from Afghanistan, aid to Pakistan and what to do with illegal immigrants in the United States.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/11/23/us/politics/security-and-foreign-policies-dominate-republican-debate.html"> Related Article </a></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/11/06/magazine/mag-06hugo.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/06/magazine/75.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/11/06/magazine/mag-06hugo.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Behind the Scenes With Scorsese</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Photographs from Martin Scorsese’s first movie in 3-D, “Hugo.”</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/11/22/health/20111122_trucker-health.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/22/health/trucker_75.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/11/22/health/20111122_trucker-health.html?ref=multimedia">
+<span class="media icon interactive">Interactive Feature: </span>
+The Long Haul</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Between sitting all day, eating fast food and sleeping poorly, truckers have major challenges when it comes to staying healthy. Here, five truckers speak about what they are doing to try to drop few pounds and get fit.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/11/22/health/a-hard-turn-truck-drivers-try-steering-from-bad-diets.html">Related Article: A Hard Turn: Steering Away From Bad Diets</a></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/22/nyregion/22APPRAISAL.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/22/nyregion/22APPRAISAL-slide-UY4P/22APPRAISAL-slide-UY4P-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/22/nyregion/22APPRAISAL.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Artists at Home</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Many of the original residents of Westbeth, which opened as subsidized housing for artists in 1970, still live there.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/21/arts/design/20111122-swoon-ss.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/21/arts/design/20111122-swoon-ss-slide-082C/20111122-swoon-ss-slide-082C-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/21/arts/design/20111122-swoon-ss.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+House Music in New Orleans</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+The Music Box is an interactive art installation composed of structures that double as musical instruments.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/21/us/20111121_WINERIP.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/21/us/20111121_WINERIP-slide-5V63/20111121_WINERIP-slide-5V63-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/21/us/20111121_WINERIP.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Driven to Get Into College</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Nathaly Lopera has excelled at Newton North High, a school with enormous resources, in part by figuring out whom to ask for help.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/21/arts/music/20111121-cotton.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/21/arts/music/20111121-cotton-slide-C1L7/20111121-cotton-slide-C1L7-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/21/arts/music/20111121-cotton.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+‘Cotton Club Parade’</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Photos from the show at City Center.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/11/21/arts/music/cotton-club-parade-at-city-center-a-hothouse-of-swing.html">Music Review</a></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/21/sports/20111121-photoreplay.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/21/sports/20111121-photoreplay-slide-Y2VD/20111121-photoreplay-slide-Y2VD-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/21/sports/20111121-photoreplay.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Photo Replay: Nov. 21</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+The day in sports worldwide, from college basketball in Hawaii to a soccer final in Indonesia, where two people died as a wave of fans entered the stadium.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/21/books/20111121-ertegun.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/21/books/20111121-ertegun-slide-F910/20111121-ertegun-slide-F910-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/21/books/20111121-ertegun.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+‘The Last Sultan’</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A new book looks at the career of the music executive Ahmet Ertegun.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/11/21/books/the-last-sultan-by-robert-greenfield-review.html">Books Review</a></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/20/sports/football/SPTSREPLAY1120.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/20/sports/football/SPTSREPLAY1120-slide-E4C9/SPTSREPLAY1120-slide-E4C9-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/20/sports/football/SPTSREPLAY1120.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Photo Replay: Nov. 20</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A view of the day in sports, including soccer, gymnastics, football and auto racing.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/20/travel/20PILGRIMS.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/20/travel/20PILGRIMS-slide-VRR0/20PILGRIMS-slide-VRR0-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/20/travel/20PILGRIMS.html?ref=multimedia">
+<span class="media icon slideshow">Slide Show: </span>
+Tracing the History of the Pilgrims</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Walking in the footsteps of America’s first settlers, from English farmlands to the urban streets of the Netherlands.</p>
+<ul class="refer">
+<li><a href="http://travel.nytimes.com/2011/11/20/travel/on-the-pilgrims-path-through-england-and-the-netherlands.html"> Related Article </a></li>
+</ul>
+</div>
+</div>
+<div id="adxSponLink" class="columnGroup singleRule"></div>
+</div><!--close .aColumn -->
+<div class="bColumn">
+<div class="columnGroup SectionFront3Col first">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<div class="columnGroup first">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/world/africa/2011-egypt-slide-show-new.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/11/25/world/middleeast/20111126Egypt-slide-968Z/20111126Egypt-slide-968Z-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay photo">Photographs</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/interactive/world/africa/2011-egypt-slide-show-new.html?ref=multimedia">
+Turmoil in Egypt</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+No one knows what the revolution in the Arab world’s largest and once most important country will bring — a state dominated by Islamists perhaps, or a country mired in misery, disappointment or simmering unrest.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/11/30/world/middleeast/voting-in-historic-egyptian-elections-enters-second-day.html">Related Article</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/world/africa/2011-libya-index.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/03/22/world/22libyagall/22libyagall-custom2.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay photo">Photographs</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/interactive/world/africa/2011-libya-index.html?ref=multimedia">
+Battle for Libya</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Eight months of images from the fighting between rebels and forces loyal to Col. Muammar el-Qaddafi in Libya.</p>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/2011/03/16/world/asia/reactors-status.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/03/16/world/asia/reactor.190.gif" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay interactive">Interactive Graphic</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/interactive/2011/03/16/world/asia/reactors-status.html?ref=multimedia">
+Status of the Nuclear Reactors at the Fukushima Daiichi Power Plant</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+At the Fukushima Daiichi Power Plant, explosions have damaged four of the buildings, and fuel is in danger of melting and releasing radioactive materials.</p>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/2011/03/13/world/asia/satellite-photos-japan-before-and-after-tsunami.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/03/12/world/asia/13natori_190.jpg" width="190" height="126" alt="" border="0" />
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/interactive/2011/03/13/world/asia/satellite-photos-japan-before-and-after-tsunami.html?ref=multimedia">
+Satellite Photos of Japan, Before and After the Quake and Tsunami</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Compare satellite images of areas of Japan before and after the disaster.</p>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/2011/03/21/nyregion/map-of-how-manhattan-grid-grew.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/03/21/nyregion/wide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay interactive">Interactive Map</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/interactive/2011/03/21/nyregion/map-of-how-manhattan-grid-grew.html?ref=multimedia">
+How Manhattan’s Grid Grew</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Compare the proposed street grid for Manhattan, from 1811, with the current layout.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/03/21/nyregion/21grid.html">Related Article</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/science/rock-paper-scissors.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/03/04/science/rock-paper-scissors.190.jpg" width="190" height="126" alt="" border="0" />
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/interactive/science/rock-paper-scissors.html?ref=multimedia">
+Rock-Paper-Scissors: You vs. the Computer</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Test your strategy against the computer in this rock-paper-scissors game illustrating basic artificial intelligence.</p>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/2011/03/06/weekinreview/20110306-happiness.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/03/06/weekinreview/06happy-grfk/06happy-grfk-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay interactive">Interactive Map</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/interactive/2011/03/06/weekinreview/20110306-happiness.html?ref=multimedia">
+Mapping the Nation’s Well-Being</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Americans’ health, well-being and happiness.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/03/06/weekinreview/06happy.html">Discovered: The Happiest Man in America</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/us/family-trees.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/01/27/us/family-trees-190x126.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay interactive">Interactive</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/interactive/us/family-trees.html?ref=multimedia">
+Mixed America’s Family Trees</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Examine the mixed-race family trees submitted by readers and listen to them describe their families, then submit your own.</p>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/world/battalion.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2010/06/25/world/battalion-WT.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay interactive">Interactive Feature</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/interactive/world/battalion.html?ref=multimedia">
+A Year at War</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Over their yearlong deployment, The New York Times followed the stories of the men and women of the First Battalion, 87th Infantry of the 10th Mountain Division.</p>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div style="padding-bottom:8px;"><a href="http://www.nytimes.com/yearinpictures"><img src="http://graphics8.nytimes.com/packages/images/photo/2010/YIP_FEATURE/yearpictures_190.gif" alt="2010: The Year in Pictures" height="20" width="190"/></a></div>
+<!--BEGIN EMBED CODE -->
+<script language="javascript" type="text/javascript" src="http://graphics8.nytimes.com/packages/js/multimedia/bundles/FadingSlideShow.js"></script>
+<script language="javascript" type="text/javascript" src="http://graphics8.nytimes.com/packages/js/multimedia/data/FadingSlideShow/20101230_YiP_inline_promo.js"></script>
+<link type="text/css" rel="stylesheet" href="http://graphics8.nytimes.com/packages/css/multimedia/bundles/FadingSlideShow.css" />
+<div id="NYTMM_Embed984" class="NYTMM_Embed">
+</div>
+<script> var _obj = new NYTMM.FadingSlideShow($("NYTMM_Embed984"),190,127,chameleonData); _obj.setPhotoData(chameleonData.photos); </script>
+<!--END EMBED CODE -->
+<div class="story">
+<p class="summary">
+A selection of the <a href="http://www.nytimes.com/packages/html/photo/2010-year-in-pictures">best photographs</a> of the year. 
+</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2010/12/26/weekinreview/26kamber.html"> Bearing Witness to History</a></li>
+<!--li><strong><a href="http://www.nytimes.com/yearinpictures">More of the Year in Pictures:</a></strong>
+<a href="TKTK">Culture</a> | <a href="TKTK">Sports</a> | <a href="http://lens.blogs.nytimes.com/2010/12/22/metropolitan-pictures-of-the-year-2010/">New York</a>
+  </li-->
+</ul>
+</div>        	</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/2011/01/25/us/politics/sotu-closer-look.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/01/25/us/politics/seatinggraphic190.png" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay interactive">Interactive Feature</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/interactive/2011/01/25/us/politics/sotu-closer-look.html?ref=multimedia">
+Who Sat Where: The State of the Union Seating Chart</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Many lawmakers broke the tradition of sitting with their own parties at the State of the Union address.</p>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/2010/12/26/us/20101226-deepwater-horizon-rig-video-diagram.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2010/12/26/us/rig-promo-190x126.png" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay interactive">Interactive Feature</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/interactive/2010/12/26/us/20101226-deepwater-horizon-rig-video-diagram.html?ref=multimedia">
+How the Rig Crew Responded to the Blowout</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Video and diagram showing the final moments of the Deepwater Horizon oil rig.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2010/12/26/us/26spill.html">Related Article</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://video.nytimes.com/video/2010/11/25/science/1248069368369/south-korea-s-war-on-dementia.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2010/11/25/science/9925_1_korea-alzheimers_190x126.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay video">Video</span>
+</a>
+</div>
+<h5><a href="http://video.nytimes.com/video/2010/11/25/science/1248069368369/south-korea-s-war-on-dementia.html?ref=multimedia">
+South Korea's War on Dementia</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+In South Korea, thousands of people, including children, are being trained to help care for dementia patients.</p>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/2010/09/10/nyregion/2010-wtc.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2010/09/10/nyregion/zerointeractiv19.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay interactive">Interactive Feature</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/interactive/2010/09/10/nyregion/2010-wtc.html?ref=multimedia">
+Reviving Ground Zero</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+The Times’s David W. Dunlap describes how the new World Trade Center complex is taking shape.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/interactive/2010/09/05/nyregion/20100905-Zer0-SS.html"><img src="http://graphics8.nytimes.com/images/multimedia/icons/photo_icon.gif" alt="Photographs" width="12" height="10" border="0"> Slide Show: Tangible Progress</a></li>
+<li><a href="http://cityroom.blogs.nytimes.com/2010/09/10/tribute-in-light-will-keep-shining-this-year-and-the-next/">‘Tribute in Light’ Will Keep Shining, This Year and the Next</a></li>
+<li><a href="http://topics.nytimes.com/top/reference/timestopics/subjects/s/sept_11_2001/reconstruction/index.html">Times Topics: Reconstruction</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="columnGroup first">
+<div style="margin: 0pt 0pt 8px;"><a href="http://www.nytimes.com/interactive/world/battalion.html#/NYT/20"><img src="http://graphics8.nytimes.com/images/2010/06/27/us/190ayearatwar/190ayearatwar-articleInline-v2.gif" alt="A Year at War"/></a></div>
+</div>
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/world/battalion.html#/NYT/20">
+<img src="http://graphics8.nytimes.com/packages/flash/us/2010_battalion/shorts/1-87-memorial-WT.jpg" border="0" height="126" width="190"/>
+<span class="mediaOverlay interactive">Interactive Feature</span>
+</a>
+</div>
+<p class="summary">
+Some 30,000 American soldiers are taking part in the Afghanistan surge. Here are the stories of the men and women of First Battalion, 87th Infantry.</p>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/slideshow/2010/09/14/world/asia/20100914_PSTAN.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2010/09/05/world/20100906_PSTAN-slide-O77Y/20100906_PSTAN-slide-O77Y-thumbWide.jpg" width="190" height="126" alt="People in farming communities face a triple threat: loss of crops, loss of seed for the next planting season and the loss of a daily income.  The Swat Valley, which was severely damaged by the flooding, seen from a helicopter." border="0" />
+<span class="mediaOverlay slideshow">Slide Show</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/slideshow/2010/09/14/world/asia/20100914_PSTAN.html?ref=multimedia">
+The Swat Valley, After the Flood</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Pakistani troops are being diverted from combating Islamist militants in the Swat Valley to help the nation recover from the worst floods in its history.</p>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/2010/06/29/magazine/rivera-pitches.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2010/06/29/magazine/rivera190.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay interactive">Interactive Feature</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/interactive/2010/06/29/magazine/rivera-pitches.html?ref=multimedia">
+How Mariano Rivera Dominates Hitters</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+The closer has confounded hitters with mostly one pitch: his signature cutter.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2010/07/04/magazine/04Rivera-t.html?hp">Related Article: Rivera, King of the Closers</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/2010/07/11/nyregion/20100711-stop-and-frisk.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2010/07/11/nyregion/frisk190.gif" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay interactive">Interactive Feature</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/interactive/2010/07/11/nyregion/20100711-stop-and-frisk.html?ref=multimedia">
+Stop, Question and Frisk in New York Neighborhoods</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Where the police stopped and questioned passersby in 2009.</p>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/2010/07/16/arts/design/20100716-rackstraw-downes-panoramic-paintings.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2010/07/16/arts/design/Downesm2.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay interactive">Interactive</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/interactive/2010/07/16/arts/design/20100716-rackstraw-downes-panoramic-paintings.html?ref=multimedia">
+Beautifully Bleak</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+An interactive look at the work of the artist Rackstraw Downes.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2010/07/16/arts/design/16rackstraw.html">Related Review</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/2010/06/16/magazine/watson-trivia-game.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2010/06/16/magazine/watson190.jpg" width="190" height="126" alt="" border="0" />
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/interactive/2010/06/16/magazine/watson-trivia-game.html?ref=multimedia">
+The Watson Trivia Challenge</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Test your knowledge of trivia against I.B.M.'s question-answering supercomputer.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2010/06/20/magazine/20Computer-t.html?hp">Related Article</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/2010/06/02/health/research/colombia-alzheimers.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2010/06/02/health/research/02alzheimers_vid-190x126.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay video">Video Feature</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/interactive/2010/06/02/health/research/colombia-alzheimers.html?ref=multimedia">
+The Vanishing Mind</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+By studying an extended family in Colombia where Alzheimer’s is seen in the early 40s, scientists hope to find a treatment for Alzheimer’s patients worldwide.</p>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/slideshow/2010/07/11/nyregion/PARKS.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2010/07/11/nyregion/PARKS-slide-6CZB/PARKS-slide-6CZB-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay slideshow">Slide Show</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/slideshow/2010/07/11/nyregion/PARKS.html?ref=multimedia">
+The Pride of Their Boroughs</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Central Park in Manhattan and Prospect Park in Brooklyn both can lay claim to being the pride of their boroughs. How do they compare? </p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2010/07/11/nyregion/11parks.html">Related Article</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/2010/04/30/theater/stages.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2010/04/30/theater/StageM.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay interactive">Interactive Feature</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/interactive/2010/04/30/theater/stages.html?ref=multimedia">
+The Houses of Broadway</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+An interactive tour through the Jacobs and the Broadway theaters and an expanded interactive look at the histories of each theater on Broadway.</p>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/2010/01/17/world/americas/haiti-earthquake-multimedia.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2010/01/17/world/americas/earthquakearchive.190.126.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay interactive">Interactive Feature</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/interactive/2010/01/17/world/americas/haiti-earthquake-multimedia.html?ref=multimedia">
+Haiti Earthquake Multimedia</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Videos, photographs and interactive features documenting the desperation in Haiti in the weeks after a powerful earthquake devastated the country on Jan. 12.</p>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/2010/07/11/world/americas/11haiti-seekingshelter-interactive.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2010/07/10/world/americas/11haiti.promo.190.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay interactive">Interactive Feature</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/interactive/2010/07/11/world/americas/11haiti-seekingshelter-interactive.html?ref=multimedia">
+Seeking Shelter in Haiti</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+In four different neighborhoods, residents face a spectrum of circumstances, from neglected encampments to planned tent cities to gleaming new shelters.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2010/07/11/world/americas/11haiti.html">Related Article</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="javascript:pop_me_up2('http://www.nytimes.com/interactive/2010/04/12/world/americas/13FORTNATIONAL_SS/index.html?ref=multimedia','680_583','width=680,height=583,location=no,scrollbars=yes,toolbars=no,resizable=yes')">
+<img src="http://graphics8.nytimes.com/images/2010/04/12/world/americas/13FORTNATIONAL_SS/190.126.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay audio">Audio & Photos</span>
+</a>
+</div>
+<h6 class="kicker">Audio & Photos</h6>
+<h5><a href="javascript:pop_me_up2('http://www.nytimes.com/interactive/2010/04/12/world/americas/13FORTNATIONAL_SS/index.html?ref=multimedia','680_583','width=680,height=583,location=no,scrollbars=yes,toolbars=no,resizable=yes')">
+Choosing to Stay, Fighting to Rebuild</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+After January’s quake in Haiti, most residents of Fort National fled their homes. Some, however, stayed behind.</p>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/2010/02/07/world/grand-rue-pano.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2010/02/07/world/grandpano.190c.jpg" width="190" height="126" alt="" border="0" />
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/interactive/2010/02/07/world/grand-rue-pano.html?ref=multimedia">
+Scenes From a Ruined Boulevard</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A view of the destruction along a quarter-mile stretch <br />of Boulevard Jean-Jacques Dessalines, one of the main commercial arteries in the heart of Port-au-Prince, Haiti.</p>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/slideshow/2010/02/19/world/americas/0220HAITI_index.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2010/02/19/world/americas/0220HAITI-B.JPG" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay slideshow">Slide Show</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/slideshow/2010/02/19/world/americas/0220HAITI_index.html?ref=multimedia">
+A Growing Risk in Haiti</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+The problem of human waste disposal has become impossible to overlook in Port-au-Prince, with the stench of decomposing bodies replaced by that of excrement.</p>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/slideshow/2010/02/07/world/0207-TRAFFICKING_index.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2010/02/07/world/0207-TRAFFICKING-B.JPG" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay slideshow">Slide Show</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/slideshow/2010/02/07/world/0207-TRAFFICKING_index.html?ref=multimedia">
+Orphanages in Haiti</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Since the earthquake, chronic problems in Haiti's orphanages -- like inadequate services and overwhelming poverty -- have only intensified.</p>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/2010/06/07/technology/20100607-task-switching-demo.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2010/06/07/technology/promo-1.png" width="190" height="126" alt="" border="0" />
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/interactive/2010/06/07/technology/20100607-task-switching-demo.html?ref=multimedia">
+Test How Fast You Juggle Tasks</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Measure your cost of switching between different tasks in the test based on a Stanford study.</p>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/2010/06/07/technology/20100607-distraction-filtering-demo.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2010/06/07/technology/06brain-promo-images-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay interactive">Interactive Feature</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/interactive/2010/06/07/technology/20100607-distraction-filtering-demo.html?ref=multimedia">
+Test Your Focus</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Measure your ability to filter out distractions in this test based on a Stanford study.</p>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<a href="http://www.nytimes.com/packages/html/nyregion/1-in-8-million/index.html"><img src="http://www.nytimes.com/packages/images/nyregion/onein8/onein8_190.gif" width="190" height="50" alt="One in 8 Million: New Yorkers in Sound and Images" /></a>        	</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/packages/html/nyregion/1-in-8-million/index.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2009/12/24/nyregion/onein8_cotton_190.jpg" width="190" height="126" alt="" border="0" />
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/packages/html/nyregion/1-in-8-million/index.html?ref=multimedia">
+</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+An Emmy Award-winning collection of 55 profiles of New Yorkers in audio and photographs.</p>
+<ul class="refer flush"><li><a href="http://www.nytimes.com/packages/html/nyregion/1-in-8-million/index.html">Explore the Collection   &raquo;</a></li>
+</ul></div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="columnGroup first">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://projects.nytimes.com/held-by-the-taliban/#intro">
+<img src="http://graphics8.nytimes.com/images/2009/10/22/world/held_static_promo2.gif" alt="Held by the Taliban" border="0" width="190" height="155" />
+</a>
+</div>
+<h5><a href="http://projects.nytimes.com/held-by-the-taliban/#intro"><img src="http://graphics.nytimes.com/images/multimedia/icons/interactive_icon.gif" alt="Interactive" width="9" height="9" border="0" /> View the Interactive Feature</a></h5>
+</div>
+<div class="story">
+<h6 class="kicker">Part One</h6>
+<h5><a href="http://www.nytimes.com/2009/10/18/world/asia/18hostage.html">7 Months, 10 Days in Captivity</a></h5>
+</div>
+<p>A series about the Taliban kidnapping of The Times's David Rohde and his two Afghan colleagues.</p>
+<div class="story">
+<h6 class="kicker">More in the Series</h6>
+<h5><a href="http://www.nytimes.com/2009/10/19/world/asia/19hostage.html">2</a> | <a href="http://www.nytimes.com/2009/10/20/world/asia/20hostage.html">3</a> | <a href="http://www.nytimes.com/2009/10/21/world/asia/21hostage.html">4</a> | <a href="http://www.nytimes.com/2009/10/22/world/asia/22hostage.html">5</a> | <a href="http://www.nytimes.com/2009/10/22/world/asia/22epilogue.html">Epilogue</a></h5>
+</div>
+</div>        	</div>
+<div class="columnGroup singleRule ">
+<div style="margin: 0 0 4px 0;"><a href="http://www.nytimes.com/packages/html/business/2009-private-equity/index.html"><img src="http://graphics8.nytimes.com/images/2009/10/04/business/flipped163.png" width="163" alt="Flipped" /></a></div>        	</div>
+<div class="columnGroup singleRule last">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/packages/html/business/2009-private-equity/index.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2010/01/11/business/economy/flipped-190.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay video">Video Feature</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/packages/html/business/2009-private-equity/index.html?ref=multimedia">
+Flipped: Inside the Private Equity Game</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A look at how private equity dealmakers can win while their companies, like Simmons Bedding, lose.</p>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">Talk to the Newsroom</h6><div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2009/08/03/business/media/03askthetimes.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2009/08/04/nyregion/onein8_logo_75.jpg" width="75" height="75" alt="The One in 8 Million production team: From left, Andrew DeVigal, Jodi Rudoren, Juliet Gorman, Todd Heisler, Meaghan Looram, Lexi Mainland, Tom Jackson and Sarah Kramer. " border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2009/08/03/business/media/03askthetimes.html?ref=multimedia">
+Talk to The Times: One in 8 Million</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+The staff members involved with One in 8 Million answered questions.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2009/06/22/business/media/22askthetimes.html?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2009/06/18/business/media/18mcnally-75.jpg" width="75" height="75" alt="Michele McNally" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2009/06/22/business/media/22askthetimes.html?ref=multimedia">
+Talk to the Newsroom: Assistant Managing Editor Michele McNally</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Michele McNally, who oversees photography, answered questions from readers.</p>
+</div>
+</div>
+<div class="columnGroup doubleRule last">
+
+
+</div>
+</div><!--close .bColumn -->
+</div><!--close .abColumn -->
+<div class="cColumn">
+<!--Ads  -->                    <div class="columnGroup first">
+
+</div>
+<!--StandardThumb Ads -->                    <div class="columnGroup ">
+<div class="story">
+<h6 class="kicker">Lens Blog</h6>
+<div class="thumbnail">
+<a href="http://lens.blogs.nytimes.com/2011/12/01/pictures-of-the-day-pakistan-and-elsewhere-24/?ref=multimedia">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/blogs/20111201POD-slide-MIHV/20111201POD-slide-MIHV-thumbStandard.jpg" width="75" height="75" alt="Pictures of the Day: Pakistan and Elsewhere" border="0" />
+</a>
+</div>
+<h3><a href="http://lens.blogs.nytimes.com/2011/12/01/pictures-of-the-day-pakistan-and-elsewhere-24/?ref=multimedia">
+Pictures of the Day: Pakistan and Elsewhere</a></h3>
+<h6 class="byline">
+By THE NEW YORK TIMES	    </h6>
+<p class="summary">
+Photographs from Pakistan, Myanmar, Yemen and Uganda.</p>
+</div>
+</div>
+<!--Simple StandardThumb -->                    <div class="columnGroup ">
+<div class="story">
+<div class="refer"><a href="http://lens.blogs.nytimes.com/category/pictures-of-the-day/">Previous Pictures of the Day »</a></div>
+</div>          	</div>
+<!--Simple Simple -->                    <div class="columnGroup ">
+<div class="singleRule">
+<h3 class="sectionHeader">Multimedia Search</h3>
+<form action="http://query.nytimes.com/beta/search/query" name="multimediasearch" method="get" id="multimediasearch">
+<div class="inlineSearchControl">
+<label class="">Search multimedia since Jan. 1, 2000.</label>
+<input type="hidden" value="multimedia" name="more"/>
+<input type="text" value="" name="query" class="text"/>
+<input type="image" width="40" height="19" src="http://graphics8.nytimes.com/images/global/global_search/search_button40x19.gif" alt="Submit" class="button" />
+</div>
+</form>   
+</div>        	</div>
+<!--Ads Simple -->                    <div class="columnGroup ">
+
+			
+<div class="bigAd" id="SFMiddle">
+<!-- ADXINFO classification="bigad" campaign="CARTIER_1773172_ND11_INT_US"--><script src="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=rsb&c=28&pli=3535484&PluID=0&w=336&h=280&ord=2011.12.02.18.04.31&dlm=3&ucm=true"></script>
+<noscript>
+<a href="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=brd&FlightID=3535484&Page=&PluID=0&Pos=828" target="_blank"><img src="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=bsr&FlightID=3535484&Page=&PluID=0&Pos=828" border=0 width=336 height=280></a>
+</noscript>
+</div>
+
+
+
+
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<div class="singleRule">
+<h3 class="sectionHeader">Audio</h3>
+<h5><a href="http://www.nytimes.com/podcasts">NYTimes.com Podcasts</a></h5> 
+<p class="summary">Listen to New York Times editors, critics and reporters discuss the day’s news and features.</p>  
+</div>        	</div>
+<!--Ads Simple -->                    <div class="columnGroup ">
+			
+
+
+
+
+<!--[TwoColumnAdLeft - Begin] -->
+<!--[TwoColumnAdLeft - End] -->
+<div class="advertisementColumnGroup">
+<!--[MarketPlaceGridAd - Begin] -->
+
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+    <!--[MarketPlaceGridAd - End] -->
+</div>
+</div>
+<!--Ads Ads -->                    <div class="columnGroup last">
+
+<div class="singleAd" id="Feature1">
+<!-- ADXINFO classification="hp-module" campaign="feature1-CanyonRanch-1764607-cla"--><!--Ad Template Begins Here -->
+<div class="story advertisement">
+<div class="callout">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/multimedia/index.html&pos=Feature1&sn2=f911d145/bb625b43&sn1=5e1dcb15/121849b2&camp=feature1-CanyonRanch-1764607-cla&ad=3.11.11-CanyonRanch-173x98-SFM&goto=http%3A%2F%2Fwww%2Ecanyonranchlivingmiamibeach%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/26/01/ad.260145/2.9.11_173x98.jpg"" width="173" height="98" border="0" alt="Photo"></a>
+</div>
+<h5>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/multimedia/index.html&pos=Feature1&sn2=f911d145/bb625b43&sn1=5e1dcb15/121849b2&camp=feature1-CanyonRanch-1764607-cla&ad=3.11.11-CanyonRanch-173x98-SFM&goto=http%3A%2F%2Fwww%2Ecanyonranchlivingmiamibeach%2Ecom" target="_blank"></a>
+</h5>
+<p class="summary"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/multimedia/index.html&pos=Feature1&sn2=f911d145/bb625b43&sn1=5e1dcb15/121849b2&camp=feature1-CanyonRanch-1764607-cla&ad=3.11.11-CanyonRanch-173x98-SFM&goto=http%3A%2F%2Fwww%2Ecanyonranchlivingmiamibeach%2Ecom" target="_blank"><font size=1>A life of wellness is just a click away.  One to to three bedrooms from the 400s to over $3MM.</font></a>
+</p>
+<div class="adCreative">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/multimedia/index.html&pos=Feature1&sn2=f911d145/bb625b43&sn1=5e1dcb15/121849b2&camp=feature1-CanyonRanch-1764607-cla&ad=3.11.11-CanyonRanch-173x98-SFM&goto=http%3A%2F%2Fwww%2Ecanyonranchlivingmiamibeach%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/26/01/ad.260145/2.9.11_logo.gif" width="78" height="36"></a>
+</div>
+
+<p class="summary"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/multimedia/index.html&pos=Feature1&sn2=f911d145/bb625b43&sn1=5e1dcb15/121849b2&camp=feature1-CanyonRanch-1764607-cla&ad=3.11.11-CanyonRanch-173x98-SFM&goto=http%3A%2F%2Fwww%2Ecanyonranchlivingmiamibeach%2Ecom" target="_blank"><font size=1>CANYONRANCHLIVINGMIAMIBEACH.COM</font></a>
+</p>
+</div>
+<!--Ad Template Ends Here -->
+</div>
+
+
+</div>
+</div><!--close cColumn -->
+</div><!--close wideA -->
+</div><!--close spanAB -->
+</div><!--close main -->
+<div id="footer">
+<ul class="first">
+<li class="first"><a href="http://www.nytimes.com">Home</a></li>
+<li >
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li>
+<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+</ul>    <ul>
+<li class="first"><a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&copy; 2011</a> <a href="http://www.nytco.com/">The New York Times Company</a></li>
+<li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Terms of Service</a></li>
+<li class="termsOfSale"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+<li><a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a></li>
+<li><a class="rssButton" href="http://www.nytimes.com/rss">RSS</a></li>
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+<li><a href="http://www.nytco.com/careers">Work for Us</a></li>
+<li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+</ul>
+</div>
+</div><!--close page -->
+</div><!--close shell -->
+
+
+
+
+
+
+
+<IMG SRC="/adx/bin/clientside/255a5c1bQ2FQ3BNQ5DQ5C3nQ5EQ2FQ2ANbYQ7CbKdKnrYQ22Q5CQ2FrQ5C" height="1" width="3">
+
+<script type="text/javascript" language="JavaScript">
+// Written by /usr/local/knews/bin/commentcount.pl Fri Dec  2 13:02:02 2011
+var NYTArticleCommentCounts = {
+"100000001190843":{count:147, commentsEnabled:false},
+"100000001190858":{count:204, commentsEnabled:false},
+"100000001190907":{count:49, commentsEnabled:false},
+"100000001191255":{count:237, commentsEnabled:false},
+"100000001191704":{count:133, commentsEnabled:false},
+"100000001191724":{count:100, commentsEnabled:false},
+"100000001191950":{count:122, commentsEnabled:false},
+"100000001192133":{count:307, commentsEnabled:false},
+"100000001192329":{count:76, commentsEnabled:false},
+"100000001190961":{count:19, commentsEnabled:false},
+"100000001177231":{count:1, commentsEnabled:true},
+"100000001177245":{count:74, commentsEnabled:true},
+"100000001179958":{count:24, commentsEnabled:false},
+"100000001180322":{count:227, commentsEnabled:true},
+"100000001183078":{count:44, commentsEnabled:false},
+"100000001183080":{count:327, commentsEnabled:false},
+"100000001183081":{count:7, commentsEnabled:false},
+"100000001183084":{count:235, commentsEnabled:false},
+"100000001183087":{count:11, commentsEnabled:false},
+"100000001183089":{count:14, commentsEnabled:false},
+"100000001183090":{count:11, commentsEnabled:false},
+"100000001183091":{count:3, commentsEnabled:false},
+"100000001183094":{count:14, commentsEnabled:false},
+"100000001184186":{count:79, commentsEnabled:false},
+"100000001184524":{count:149, commentsEnabled:false},
+"100000001186117":{count:1, commentsEnabled:false},
+"100000001186193":{count:12, commentsEnabled:true},
+"100000001186569":{count:190, commentsEnabled:false},
+"100000001189184":{count:49, commentsEnabled:false},
+"100000001190721":{count:71, commentsEnabled:false},
+"100000001191577":{count:224, commentsEnabled:false},
+"100000001191688":{count:28, commentsEnabled:false},
+"100000001191719":{count:107, commentsEnabled:false},
+"100000001191931":{count:121, commentsEnabled:false},
+"100000001191985":{count:110, commentsEnabled:false},
+"100000001192057":{count:211, commentsEnabled:false},
+"100000001192188":{count:141, commentsEnabled:false},
+"100000001192496":{count:52, commentsEnabled:false},
+"100000001192500":{count:206, commentsEnabled:false},
+"100000001192600":{count:224, commentsEnabled:false},
+"100000001192611":{count:167, commentsEnabled:false},
+"100000001193250":{count:67, commentsEnabled:false},
+"100000001193262":{count:37, commentsEnabled:false},
+"100000001193344":{count:98, commentsEnabled:false},
+"100000001193527":{count:27, commentsEnabled:false},
+"100000001193629":{count:10, commentsEnabled:false},
+"100000001193702":{count:17, commentsEnabled:false},
+"100000001193743":{count:108, commentsEnabled:false},
+"100000001193763":{count:516, commentsEnabled:false},
+"100000001193825":{count:86, commentsEnabled:false},
+"100000001193857":{count:48, commentsEnabled:false},
+"100000001193859":{count:160, commentsEnabled:false},
+"100000001193890":{count:117, commentsEnabled:false},
+"100000001193920":{count:44, commentsEnabled:false},
+"100000001193944":{count:303, commentsEnabled:false},
+"100000001193948":{count:7, commentsEnabled:false},
+"100000001194088":{count:51, commentsEnabled:false},
+"100000001194098":{count:17, commentsEnabled:true},
+"100000001194137":{count:109, commentsEnabled:false},
+"100000001194342":{count:159, commentsEnabled:false},
+"100000001194394":{count:68, commentsEnabled:false},
+"100000001194454":{count:36, commentsEnabled:false},
+"100000001194795":{count:192, commentsEnabled:false},
+"100000001194808":{count:628, commentsEnabled:false},
+"100000001194892":{count:125, commentsEnabled:false},
+"100000001195360":{count:33, commentsEnabled:false},
+"100000001195689":{count:178, commentsEnabled:false},
+"100000001195802":{count:10, commentsEnabled:false},
+"100000001195854":{count:304, commentsEnabled:false},
+"100000001195914":{count:48, commentsEnabled:false},
+"100000001195920":{count:17, commentsEnabled:false},
+"100000001195923":{count:44, commentsEnabled:false},
+"100000001195938":{count:138, commentsEnabled:false},
+"100000001195940":{count:10, commentsEnabled:false},
+"100000001195947":{count:92, commentsEnabled:false},
+"100000001195952":{count:162, commentsEnabled:false},
+"100000001195976":{count:141, commentsEnabled:false},
+"100000001195982":{count:283, commentsEnabled:false},
+"100000001196229":{count:42, commentsEnabled:false},
+"100000001196250":{count:104, commentsEnabled:true},
+"100000001196432":{count:333, commentsEnabled:false},
+"100000001196658":{count:42, commentsEnabled:false},
+"100000001196737":{count:28, commentsEnabled:true},
+"100000001196861":{count:18, commentsEnabled:false},
+"100000001196955":{count:71, commentsEnabled:true},
+"100000001196963":{count:143, commentsEnabled:false},
+"100000001197064":{count:68, commentsEnabled:false},
+"100000001197489":{count:3, commentsEnabled:false},
+"100000001197999":{count:75, commentsEnabled:false},
+"100000001198014":{count:290, commentsEnabled:false},
+"100000001198050":{count:69, commentsEnabled:true},
+"100000001198076":{count:32, commentsEnabled:true},
+"100000001198092":{count:204, commentsEnabled:false},
+"100000001198110":{count:424, commentsEnabled:false},
+"100000001198123":{count:343, commentsEnabled:false},
+"100000001198126":{count:62, commentsEnabled:false},
+"100000001198138":{count:163, commentsEnabled:false},
+"100000001198377":{count:143, commentsEnabled:true},
+"100000001198446":{count:23, commentsEnabled:true},
+"100000001198471":{count:52, commentsEnabled:true},
+"100000001198476":{count:157, commentsEnabled:true},
+"100000001198581":{count:48, commentsEnabled:true},
+"100000001198642":{count:253, commentsEnabled:false},
+"100000001199366":{count:136, commentsEnabled:true},
+"100000001199374":{count:114, commentsEnabled:true},
+"100000001199444":{count:155, commentsEnabled:false},
+"100000001199658":{count:4, commentsEnabled:true},
+"100000001200046":{count:884, commentsEnabled:true},
+"100000001200335":{count:165, commentsEnabled:false},
+"100000001200378":{count:192, commentsEnabled:false},
+"100000001200458":{count:77, commentsEnabled:false},
+"100000001200844":{count:23, commentsEnabled:true},
+"100000001201276":{count:88, commentsEnabled:true},
+"100000001201525":{count:188, commentsEnabled:true},
+"100000001202361":{count:0, commentsEnabled:true},
+"100000001202521":{count:27, commentsEnabled:true},
+"100000001202701":{count:270, commentsEnabled:false},
+"100000001202807":{count:17, commentsEnabled:true},
+"100000001202815":{count:116, commentsEnabled:false},
+"100000001202831":{count:232, commentsEnabled:true},
+"100000001202861":{count:95, commentsEnabled:true},
+"100000001202869":{count:39, commentsEnabled:true},
+"100000001202871":{count:23, commentsEnabled:true},
+"100000001202889":{count:54, commentsEnabled:true},
+"100000001202895":{count:33, commentsEnabled:true},
+"100000001202901":{count:90, commentsEnabled:true},
+"100000001203208":{count:19, commentsEnabled:true},
+"100000001203416":{count:220, commentsEnabled:true},
+"100000001203664":{count:0, commentsEnabled:true},
+"100000001188908":{count:16, commentsEnabled:true},
+"100000001194403":{count:0, commentsEnabled:true},
+"100000001194404":{count:0, commentsEnabled:true},
+"100000001194405":{count:71, commentsEnabled:true},
+"100000001194406":{count:0, commentsEnabled:true},
+"100000001194419":{count:1, commentsEnabled:true},
+"100000001194423":{count:58, commentsEnabled:true},
+"100000001194424":{count:0, commentsEnabled:true},
+"100000001194425":{count:0, commentsEnabled:true},
+"100000001194427":{count:0, commentsEnabled:true},
+"100000001194843":{count:51, commentsEnabled:true},
+"100000001197746":{count:1, commentsEnabled:true},
+"100000001201815":{count:0, commentsEnabled:true},
+"100000001201989":{count:0, commentsEnabled:true}
+};
+</script>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/homepage/articleCommentCounts.js"></script>
+<script type="text/javascript" language="JavaScript">
+    ArticleCommentCounts.apply()
+    </script>
+
+			
+		<!-- Start UPT call -->
+		<img height="1" width="3" border=0 src="http://up.nytimes.com/?d=0//&t=3&s=0&ui=&r=&u=www%2enytimes%2ecom%2fpages%2fmultimedia%2findex%2ehtml%3f">
+		<!-- End UPT call -->
+	
+		
+        <script language="JavaScript"><!--
+          var dcsvid="";
+          var regstatus="non-registered";
+        //--></script>
+        <script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+        <noscript>
+          <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div>
+        </noscript>
+   
+</body>
+</html>

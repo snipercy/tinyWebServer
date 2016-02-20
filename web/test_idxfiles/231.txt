@@ -1,0 +1,3 @@
+Location: http://www.nytimes.com/glogin?URI=http://www.nytimes.com/2011/12/02/world/asia/for-afghan-woman-justice-runs-into-the-static-wall-of-custom.html&OQ=_rQ3D1Q26hpw&OP=5d839435Q2FJQ5BI(JQ5C9Q24Dv99wnJnQ5DppJpnJQ5DnJQ5B9vyQ5CJuD,uJ_9vQ27u_cQ7Eu3Q27Q5B9Q26u3Q27z)Dw,Q24IQ27v)3DQ27,3w9Q27wQ7EIQ27Dwuw,Q24Q27Q5BuyyQ279_Q27Q24)Dw9Q26Q3AQ7EwQ26y
+Connection: keep-alive
+

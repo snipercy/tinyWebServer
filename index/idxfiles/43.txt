@@ -1,0 +1,19 @@
+Connection: close
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Last-Modified: Wed, 03 Jun 2015 08:00:10 GMT
+Pramga: no-cache
+Cache-Control: no-cache, no-store
+Location: http://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=http%3A%2F%2Fweibo.com%2F%2F&domain=.weibo.com&ua=php-sso_sdk_client-0.6.11&_rand=1433318410.5396
+DPOOL_HEADER: dagda29
+Set-Cookie: YF-Ugrow-G0=1eba44dbebf62c27ae66e16d40e02964;Path=/
+LB_HEADER: venus238
+
+Date: Wed, 03 Jun 2015 08:12:54 GMT
+Location: http://tieba.baidu.com/
+P3p: CP=" OTI DSP COR IVA OUR IND COM "
+Server: Apache
+Set-Cookie: BAIDUID=5E4D2E7261784884DAE9692E7495D669:FG=1; expires=Thu, 02-Jun-16 08:12:54 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+Tracecode: 07747146200273034762060316
+Tracecode: 07747146200292958218060316
+Content-Length: 0
+

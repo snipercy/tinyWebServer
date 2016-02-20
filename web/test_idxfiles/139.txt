@@ -1,0 +1,3 @@
+Location: http://www.nytimes.com/glogin?URI=http://www.nytimes.com/aponline/2011/12/02/us/AP-US-FAMU-Student-Dead.html&OQ=_rQ3D1Q26hp&OP=62c125e9Q2FnMQ3C-nj6kQ5Ch66Q51Q2BnW36fQ23afQ3CnQ2BQ5E88n8Q2BnQ5EQ2BnTQ5CnQ3D.VAcVQ7CQ3D(AVcQ51TjQ3CfQ51VdQ3CWjYQ26Q51Q27Q23
+Connection: keep-alive
+

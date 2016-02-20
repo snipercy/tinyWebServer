@@ -1,0 +1,525 @@
+
+chdir(/etc)
+fchdir() to previous dir
+sourcing "/etc/vimrc"
+chdir(/usr/share/vim/vim72/syntax)
+fchdir() to previous dir
+line 50: sourcing "/usr/share/vim/vim72/syntax/syntax.vim"
+Searching for "syntax/synload.vim" in "/home/chengyang/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim72,/usr/share/vim/vimfiles/after,/home/chengyang/.vim/after"
+Searching for "/home/chengyang/.vim/syntax/synload.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/synload.vim"
+Searching for "/usr/share/vim/vim72/syntax/synload.vim"
+chdir(/usr/share/vim/vim72/syntax)
+fchdir() to previous dir
+line 19: sourcing "/usr/share/vim/vim72/syntax/synload.vim"
+Searching for "syntax/syncolor.vim" in "/home/chengyang/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim72,/usr/share/vim/vimfiles/after,/home/chengyang/.vim/after"
+Searching for "/home/chengyang/.vim/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vim72/syntax/syncolor.vim"
+chdir(/usr/share/vim/vim72/syntax)
+fchdir() to previous dir
+line 21: sourcing "/usr/share/vim/vim72/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim72/syntax/syncolor.vim
+continuing in /usr/share/vim/vim72/syntax/synload.vim
+Searching for "/usr/share/vim/vimfiles/after/syntax/syncolor.vim"
+Searching for "/home/chengyang/.vim/after/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim72/syntax/synload.vim
+continuing in /usr/share/vim/vim72/syntax/syntax.vim
+Searching for "filetype.vim" in "/home/chengyang/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim72,/usr/share/vim/vimfiles/after,/home/chengyang/.vim/after"
+Searching for "/home/chengyang/.vim/filetype.vim"
+Searching for "/usr/share/vim/vimfiles/filetype.vim"
+Searching for "/usr/share/vim/vim72/filetype.vim"
+chdir(/usr/share/vim/vim72)
+fchdir() to previous dir
+line 25: sourcing "/usr/share/vim/vim72/filetype.vim"
+Searching for "ftdetect/*.vim" in "/home/chengyang/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim72,/usr/share/vim/vimfiles/after,/home/chengyang/.vim/after"
+Searching for "/home/chengyang/.vim/ftdetect/*.vim"
+Searching for "/usr/share/vim/vimfiles/ftdetect/*.vim"
+Searching for "/usr/share/vim/vim72/ftdetect/*.vim"
+Searching for "/usr/share/vim/vimfiles/after/ftdetect/*.vim"
+Searching for "/home/chengyang/.vim/after/ftdetect/*.vim"
+not found in 'runtimepath': "ftdetect/*.vim"
+finished sourcing /usr/share/vim/vim72/filetype.vim
+continuing in /usr/share/vim/vim72/syntax/syntax.vim
+Searching for "/usr/share/vim/vimfiles/after/filetype.vim"
+Searching for "/home/chengyang/.vim/after/filetype.vim"
+finished sourcing /usr/share/vim/vim72/syntax/syntax.vim
+continuing in /etc/vimrc
+Searching for "filetype.vim" in "/home/chengyang/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim72,/usr/share/vim/vimfiles/after,/home/chengyang/.vim/after"
+Searching for "/home/chengyang/.vim/filetype.vim"
+Searching for "/usr/share/vim/vimfiles/filetype.vim"
+Searching for "/usr/share/vim/vim72/filetype.vim"
+chdir(/usr/share/vim/vim72)
+fchdir() to previous dir
+line 54: sourcing "/usr/share/vim/vim72/filetype.vim"
+finished sourcing /usr/share/vim/vim72/filetype.vim
+continuing in /etc/vimrc
+Searching for "/usr/share/vim/vimfiles/after/filetype.vim"
+Searching for "/home/chengyang/.vim/after/filetype.vim"
+Searching for "ftplugin.vim" in "/home/chengyang/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim72,/usr/share/vim/vimfiles/after,/home/chengyang/.vim/after"
+Searching for "/home/chengyang/.vim/ftplugin.vim"
+Searching for "/usr/share/vim/vimfiles/ftplugin.vim"
+Searching for "/usr/share/vim/vim72/ftplugin.vim"
+chdir(/usr/share/vim/vim72)
+fchdir() to previous dir
+line 54: sourcing "/usr/share/vim/vim72/ftplugin.vim"
+finished sourcing /usr/share/vim/vim72/ftplugin.vim
+continuing in /etc/vimrc
+Searching for "/usr/share/vim/vimfiles/after/ftplugin.vim"
+Searching for "/home/chengyang/.vim/after/ftplugin.vim"
+finished sourcing /etc/vimrc
+chdir(/home/chengyang)
+fchdir() to previous dir
+sourcing "$HOME/.vimrc"
+chdir(/usr/share/vim/vim72/syntax)
+fchdir() to previous dir
+line 63: sourcing "/usr/share/vim/vim72/syntax/syntax.vim"
+chdir(/usr/share/vim/vim72/syntax)
+fchdir() to previous dir
+line 15: sourcing "/usr/share/vim/vim72/syntax/nosyntax.vim"
+finished sourcing /usr/share/vim/vim72/syntax/nosyntax.vim
+continuing in /usr/share/vim/vim72/syntax/syntax.vim
+Searching for "syntax/synload.vim" in "/home/chengyang/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim72,/usr/share/vim/vimfiles/after,/home/chengyang/.vim/after"
+Searching for "/home/chengyang/.vim/syntax/synload.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/synload.vim"
+Searching for "/usr/share/vim/vim72/syntax/synload.vim"
+chdir(/usr/share/vim/vim72/syntax)
+fchdir() to previous dir
+line 19: sourcing "/usr/share/vim/vim72/syntax/synload.vim"
+Searching for "syntax/syncolor.vim" in "/home/chengyang/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim72,/usr/share/vim/vimfiles/after,/home/chengyang/.vim/after"
+Searching for "/home/chengyang/.vim/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vim72/syntax/syncolor.vim"
+chdir(/usr/share/vim/vim72/syntax)
+fchdir() to previous dir
+line 21: sourcing "/usr/share/vim/vim72/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim72/syntax/syncolor.vim
+continuing in /usr/share/vim/vim72/syntax/synload.vim
+Searching for "/usr/share/vim/vimfiles/after/syntax/syncolor.vim"
+Searching for "/home/chengyang/.vim/after/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim72/syntax/synload.vim
+continuing in /usr/share/vim/vim72/syntax/syntax.vim
+finished sourcing /usr/share/vim/vim72/syntax/syntax.vim
+continuing in /home/chengyang/.vimrc
+Searching for "filetype.vim" in "/home/chengyang/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim72,/usr/share/vim/vimfiles/after,/home/chengyang/.vim/after"
+Searching for "/home/chengyang/.vim/filetype.vim"
+Searching for "/usr/share/vim/vimfiles/filetype.vim"
+Searching for "/usr/share/vim/vim72/filetype.vim"
+chdir(/usr/share/vim/vim72)
+fchdir() to previous dir
+line 67: sourcing "/usr/share/vim/vim72/filetype.vim"
+finished sourcing /usr/share/vim/vim72/filetype.vim
+continuing in /home/chengyang/.vimrc
+Searching for "/usr/share/vim/vimfiles/after/filetype.vim"
+Searching for "/home/chengyang/.vim/after/filetype.vim"
+Searching for "ftplugin.vim" in "/home/chengyang/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim72,/usr/share/vim/vimfiles/after,/home/chengyang/.vim/after"
+Searching for "/home/chengyang/.vim/ftplugin.vim"
+Searching for "/usr/share/vim/vimfiles/ftplugin.vim"
+Searching for "/usr/share/vim/vim72/ftplugin.vim"
+chdir(/usr/share/vim/vim72)
+fchdir() to previous dir
+line 67: sourcing "/usr/share/vim/vim72/ftplugin.vim"
+finished sourcing /usr/share/vim/vim72/ftplugin.vim
+continuing in /home/chengyang/.vimrc
+Searching for "/usr/share/vim/vimfiles/after/ftplugin.vim"
+Searching for "/home/chengyang/.vim/after/ftplugin.vim"
+finished sourcing $HOME/.vimrc
+Searching for "plugin/**/*.vim" in "/home/chengyang/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim72,/usr/share/vim/vimfiles/after,/home/chengyang/.vim/after"
+Searching for "/home/chengyang/.vim/plugin/**/*.vim"
+Searching for "/usr/share/vim/vimfiles/plugin/**/*.vim"
+Searching for "/usr/share/vim/vim72/plugin/**/*.vim"
+chdir(/usr/share/vim/vim72/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim72/plugin/filetype.vim"
+finished sourcing /usr/share/vim/vim72/plugin/filetype.vim
+chdir(/usr/share/vim/vim72/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim72/plugin/getscriptPlugin.vim"
+finished sourcing /usr/share/vim/vim72/plugin/getscriptPlugin.vim
+chdir(/usr/share/vim/vim72/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim72/plugin/gzip.vim"
+finished sourcing /usr/share/vim/vim72/plugin/gzip.vim
+chdir(/usr/share/vim/vim72/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim72/plugin/matchparen.vim"
+finished sourcing /usr/share/vim/vim72/plugin/matchparen.vim
+chdir(/usr/share/vim/vim72/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim72/plugin/netrwPlugin.vim"
+finished sourcing /usr/share/vim/vim72/plugin/netrwPlugin.vim
+chdir(/usr/share/vim/vim72/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim72/plugin/rrhelper.vim"
+finished sourcing /usr/share/vim/vim72/plugin/rrhelper.vim
+chdir(/usr/share/vim/vim72/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim72/plugin/spellfile.vim"
+finished sourcing /usr/share/vim/vim72/plugin/spellfile.vim
+chdir(/usr/share/vim/vim72/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim72/plugin/tarPlugin.vim"
+finished sourcing /usr/share/vim/vim72/plugin/tarPlugin.vim
+chdir(/usr/share/vim/vim72/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim72/plugin/tohtml.vim"
+finished sourcing /usr/share/vim/vim72/plugin/tohtml.vim
+chdir(/usr/share/vim/vim72/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim72/plugin/vimballPlugin.vim"
+finished sourcing /usr/share/vim/vim72/plugin/vimballPlugin.vim
+chdir(/usr/share/vim/vim72/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim72/plugin/zipPlugin.vim"
+finished sourcing /usr/share/vim/vim72/plugin/zipPlugin.vim
+Searching for "/usr/share/vim/vimfiles/after/plugin/**/*.vim"
+Searching for "/home/chengyang/.vim/after/plugin/**/*.vim"
+Reading viminfo file "/home/chengyang/.viminfo" info oldfiles
+"stest6.html" 
+"stest6.html" 2L, 71C
+Reading viminfo file "/home/chengyang/.viminfo" marks
+Executing BufRead Auto commands for "*.html"
+autocommand call s:FThtml()
+
+Executing FileType Auto commands for "*"
+autocommand call s:LoadFTPlugin()
+
+Searching for "ftplugin/html.vim ftplugin/html_*.vim ftplugin/html/*.vim" in "/home/chengyang/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim72,/usr/share/vim/vimfiles/after,/home/chengyang/.vim/after"
+Searching for "/home/chengyang/.vim/ftplugin/html.vim"
+Searching for "/home/chengyang/.vim/ftplugin/html_*.vim"
+Searching for "/home/chengyang/.vim/ftplugin/html/*.vim"
+Searching for "/usr/share/vim/vimfiles/ftplugin/html.vim"
+Searching for "/usr/share/vim/vimfiles/ftplugin/html_*.vim"
+Searching for "/usr/share/vim/vimfiles/ftplugin/html/*.vim"
+Searching for "/usr/share/vim/vim72/ftplugin/html.vim"
+chdir(/usr/share/vim/vim72/ftplugin)
+fchdir() to previous dir
+line 17: sourcing "/usr/share/vim/vim72/ftplugin/html.vim"
+finished sourcing /usr/share/vim/vim72/ftplugin/html.vim
+continuing in function <SNR>6_LoadFTPlugin
+Searching for "/usr/share/vim/vim72/ftplugin/html_*.vim"
+Searching for "/usr/share/vim/vim72/ftplugin/html/*.vim"
+Searching for "/usr/share/vim/vimfiles/after/ftplugin/html.vim"
+Searching for "/usr/share/vim/vimfiles/after/ftplugin/html_*.vim"
+Searching for "/usr/share/vim/vimfiles/after/ftplugin/html/*.vim"
+Searching for "/home/chengyang/.vim/after/ftplugin/html.vim"
+Searching for "/home/chengyang/.vim/after/ftplugin/html_*.vim"
+Searching for "/home/chengyang/.vim/after/ftplugin/html/*.vim"
+Executing FileType Auto commands for "*"
+autocommand exe "set syntax=" . expand("<amatch>")
+
+Executing Syntax Auto commands for "*"
+autocommand call s:SynSet()
+
+Searching for "syntax/html.vim syntax/html/*.vim" in "/home/chengyang/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim72,/usr/share/vim/vimfiles/after,/home/chengyang/.vim/after"
+Searching for "/home/chengyang/.vim/syntax/html.vim"
+Searching for "/home/chengyang/.vim/syntax/html/*.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/html.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/html/*.vim"
+Searching for "/usr/share/vim/vim72/syntax/html.vim"
+chdir(/usr/share/vim/vim72/syntax)
+fchdir() to previous dir
+line 22: sourcing "/usr/share/vim/vim72/syntax/html.vim"
+Searching for "syntax/javascript.vim" in "/home/chengyang/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim72,/usr/share/vim/vimfiles/after,/home/chengyang/.vim/after"
+Searching for "/home/chengyang/.vim/syntax/javascript.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/javascript.vim"
+Searching for "/usr/share/vim/vim72/syntax/javascript.vim"
+chdir(/usr/share/vim/vim72/syntax)
+fchdir() to previous dir
+line 165: sourcing "/usr/share/vim/vim72/syntax/javascript.vim"
+finished sourcing /usr/share/vim/vim72/syntax/javascript.vim
+continuing in /usr/share/vim/vim72/syntax/html.vim
+Searching for "/usr/share/vim/vimfiles/after/syntax/javascript.vim"
+Searching for "/home/chengyang/.vim/after/syntax/javascript.vim"
+Searching for "syntax/vb.vim" in "/home/chengyang/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim72,/usr/share/vim/vimfiles/after,/home/chengyang/.vim/after"
+Searching for "/home/chengyang/.vim/syntax/vb.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/vb.vim"
+Searching for "/usr/share/vim/vim72/syntax/vb.vim"
+chdir(/usr/share/vim/vim72/syntax)
+fchdir() to previous dir
+line 190: sourcing "/usr/share/vim/vim72/syntax/vb.vim"
+finished sourcing /usr/share/vim/vim72/syntax/vb.vim
+continuing in /usr/share/vim/vim72/syntax/html.vim
+Searching for "/usr/share/vim/vimfiles/after/syntax/vb.vim"
+Searching for "/home/chengyang/.vim/after/syntax/vb.vim"
+Searching for "syntax/css.vim" in "/home/chengyang/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim72,/usr/share/vim/vimfiles/after,/home/chengyang/.vim/after"
+Searching for "/home/chengyang/.vim/syntax/css.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/css.vim"
+Searching for "/usr/share/vim/vim72/syntax/css.vim"
+chdir(/usr/share/vim/vim72/syntax)
+fchdir() to previous dir
+line 200: sourcing "/usr/share/vim/vim72/syntax/css.vim"
+finished sourcing /usr/share/vim/vim72/syntax/css.vim
+continuing in /usr/share/vim/vim72/syntax/html.vim
+Searching for "/usr/share/vim/vimfiles/after/syntax/css.vim"
+Searching for "/home/chengyang/.vim/after/syntax/css.vim"
+finished sourcing /usr/share/vim/vim72/syntax/html.vim
+continuing in function <SNR>3_SynSet
+Searching for "/usr/share/vim/vim72/syntax/html/*.vim"
+Searching for "/usr/share/vim/vimfiles/after/syntax/html.vim"
+Searching for "/usr/share/vim/vimfiles/after/syntax/html/*.vim"
+Searching for "/home/chengyang/.vim/after/syntax/html.vim"
+Searching for "/home/chengyang/.vim/after/syntax/html/*.vim"
+Executing BufRead Auto commands for "*"
+autocommand if !did_filetype() && expand("<amatch>") !~ g:ft_ignore_pat | runtime! scripts.vim | endif
+
+Executing BufRead Auto commands for "*"
+autocommand if !did_filetype() && expand("<amatch>") !~ g:ft_ignore_pat    && (getline(1) =~ '^#' || getline(2) =~ '^#' || getline(3) =~ '^#'^I|| getline(4) =~ '^#' || getline(5) =~ '^#') |   setf conf | endif
+
+Executing BufRead Auto commands for "*"
+autocommand if line("'\"") > 0 && line ("'\"") <= line("$") |   exe "normal! g'\"" | endif
+
+Executing BufEnter Auto commands for "*"
+autocommand silent! call s:LocalBrowse(expand("<amatch>"))
+
+Executing CursorMoved Auto commands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Auto commands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Auto commands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Auto commands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Auto commands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+
+chdir(/home/chengyang/test/csapp-web/test)
+fchdir() to previous dir
+"test6.html" 
+"test6.html" 4L, 142C
+                     Reading viminfo file "/home/chengyang/.viminfo" marks
+                     Executing BufRead Auto commands for "*.html"
+                     autocommand call s:FThtml()
+
+                     Executing FileType Auto commands for "*"
+                     autocommand call s:LoadFTPlugin()
+
+                     Searching for "ftplugin/html.vim ftplugin/html_*.vim ftplugin/html/*.vim" in "/home/chengyang/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim72,/usr/share/vim/vimfiles/after,/home/chengyang/.vim/after"
+                     Searching for "/home/chengyang/.vim/ftplugin/html.vim"
+                     Searching for "/home/chengyang/.vim/ftplugin/html_*.vim"
+                     Searching for "/home/chengyang/.vim/ftplugin/html/*.vim"
+                     Searching for "/usr/share/vim/vimfiles/ftplugin/html.vim"
+                     Searching for "/usr/share/vim/vimfiles/ftplugin/html_*.vim"
+                     Searching for "/usr/share/vim/vimfiles/ftplugin/html/*.vim"
+                     Searching for "/usr/share/vim/vim72/ftplugin/html.vim"
+                     chdir(/usr/share/vim/vim72/ftplugin)
+                     fchdir() to previous dir
+                     line 17: sourcing "/usr/share/vim/vim72/ftplugin/html.vim"
+                     finished sourcing /usr/share/vim/vim72/ftplugin/html.vim
+                     continuing in function <SNR>6_LoadFTPlugin
+                     Searching for "/usr/share/vim/vim72/ftplugin/html_*.vim"
+                     Searching for "/usr/share/vim/vim72/ftplugin/html/*.vim"
+                     Searching for "/usr/share/vim/vimfiles/after/ftplugin/html.vim"
+                     Searching for "/usr/share/vim/vimfiles/after/ftplugin/html_*.vim"
+                     Searching for "/usr/share/vim/vimfiles/after/ftplugin/html/*.vim"
+                     Searching for "/home/chengyang/.vim/after/ftplugin/html.vim"
+                     Searching for "/home/chengyang/.vim/after/ftplugin/html_*.vim"
+                     Searching for "/home/chengyang/.vim/after/ftplugin/html/*.vim"
+                     Executing FileType Auto commands for "*"
+                     autocommand exe "set syntax=" . expand("<amatch>")
+
+                     Executing Syntax Auto commands for "*"
+                     autocommand call s:SynSet()
+
+                     Searching for "syntax/html.vim syntax/html/*.vim" in "/home/chengyang/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim72,/usr/share/vim/vimfiles/after,/home/chengyang/.vim/after"
+                     Searching for "/home/chengyang/.vim/syntax/html.vim"
+                     Searching for "/home/chengyang/.vim/syntax/html/*.vim"
+                     Searching for "/usr/share/vim/vimfiles/syntax/html.vim"
+                     Searching for "/usr/share/vim/vimfiles/syntax/html/*.vim"
+                     Searching for "/usr/share/vim/vim72/syntax/html.vim"
+                     chdir(/usr/share/vim/vim72/syntax)
+                     fchdir() to previous dir
+                     line 22: sourcing "/usr/share/vim/vim72/syntax/html.vim"
+                     Searching for "syntax/javascript.vim" in "/home/chengyang/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim72,/usr/share/vim/vimfiles/after,/home/chengyang/.vim/after"
+                     Searching for "/home/chengyang/.vim/syntax/javascript.vim"
+                     Searching for "/usr/share/vim/vimfiles/syntax/javascript.vim"
+                     Searching for "/usr/share/vim/vim72/syntax/javascript.vim"
+                     chdir(/usr/share/vim/vim72/syntax)
+                     fchdir() to previous dir
+                     line 165: sourcing "/usr/share/vim/vim72/syntax/javascript.vim"
+                     finished sourcing /usr/share/vim/vim72/syntax/javascript.vim
+                     continuing in /usr/share/vim/vim72/syntax/html.vim
+                     Searching for "/usr/share/vim/vimfiles/after/syntax/javascript.vim"
+                     Searching for "/home/chengyang/.vim/after/syntax/javascript.vim"
+                     Searching for "syntax/vb.vim" in "/home/chengyang/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim72,/usr/share/vim/vimfiles/after,/home/chengyang/.vim/after"
+                     Searching for "/home/chengyang/.vim/syntax/vb.vim"
+                     Searching for "/usr/share/vim/vimfiles/syntax/vb.vim"
+                     Searching for "/usr/share/vim/vim72/syntax/vb.vim"
+                     chdir(/usr/share/vim/vim72/syntax)
+                     fchdir() to previous dir
+                     line 190: sourcing "/usr/share/vim/vim72/syntax/vb.vim"
+                     finished sourcing /usr/share/vim/vim72/syntax/vb.vim
+                     continuing in /usr/share/vim/vim72/syntax/html.vim
+                     Searching for "/usr/share/vim/vimfiles/after/syntax/vb.vim"
+                     Searching for "/home/chengyang/.vim/after/syntax/vb.vim"
+                     Searching for "syntax/css.vim" in "/home/chengyang/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim72,/usr/share/vim/vimfiles/after,/home/chengyang/.vim/after"
+                     Searching for "/home/chengyang/.vim/syntax/css.vim"
+                     Searching for "/usr/share/vim/vimfiles/syntax/css.vim"
+                     Searching for "/usr/share/vim/vim72/syntax/css.vim"
+                     chdir(/usr/share/vim/vim72/syntax)
+                     fchdir() to previous dir
+                     line 200: sourcing "/usr/share/vim/vim72/syntax/css.vim"
+                     finished sourcing /usr/share/vim/vim72/syntax/css.vim
+                     continuing in /usr/share/vim/vim72/syntax/html.vim
+                     Searching for "/usr/share/vim/vimfiles/after/syntax/css.vim"
+                     Searching for "/home/chengyang/.vim/after/syntax/css.vim"
+                     finished sourcing /usr/share/vim/vim72/syntax/html.vim
+                     continuing in function <SNR>3_SynSet
+                     Searching for "/usr/share/vim/vim72/syntax/html/*.vim"
+                     Searching for "/usr/share/vim/vimfiles/after/syntax/html.vim"
+                     Searching for "/usr/share/vim/vimfiles/after/syntax/html/*.vim"
+                     Searching for "/home/chengyang/.vim/after/syntax/html.vim"
+                     Searching for "/home/chengyang/.vim/after/syntax/html/*.vim"
+                     Executing BufRead Auto commands for "*"
+                     autocommand if !did_filetype() && expand("<amatch>") !~ g:ft_ignore_pat | runtime! scripts.vim | endif
+
+                     Executing BufRead Auto commands for "*"
+                     autocommand if !did_filetype() && expand("<amatch>") !~ g:ft_ignore_pat    && (getline(1) =~ '^#' || getline(2) =~ '^#' || getline(3) =~ '^#'^I|| getline(4) =~ '^#' || getline(5) =~ '^#') |   setf conf | endif
+
+                     Executing BufRead Auto commands for "*"
+                     autocommand if line("'\"") > 0 && line ("'\"") <= line("$") |   exe "normal! g'\"" | endif
+
+Executing BufEnter Auto commands for "*"
+autocommand silent! call s:LocalBrowse(expand("<amatch>"))
+
+Executing CursorMoved Auto commands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Auto commands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Auto commands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Auto commands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Auto commands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Auto commands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Auto commands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Auto commands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Auto commands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+
+E165: Cannot go beyond last file
+
+chdir(/home/chengyang/test/csapp-web/test)
+fchdir() to previous dir
+"stest6.html" 
+"stest6.html" 2L, 71C
+                     Executing BufRead Auto commands for "*.html"
+                     autocommand call s:FThtml()
+
+                     Executing FileType Auto commands for "*"
+                     autocommand call s:LoadFTPlugin()
+
+                     Searching for "ftplugin/html.vim ftplugin/html_*.vim ftplugin/html/*.vim" in "/home/chengyang/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim72,/usr/share/vim/vimfiles/after,/home/chengyang/.vim/after"
+                     Searching for "/home/chengyang/.vim/ftplugin/html.vim"
+                     Searching for "/home/chengyang/.vim/ftplugin/html_*.vim"
+                     Searching for "/home/chengyang/.vim/ftplugin/html/*.vim"
+                     Searching for "/usr/share/vim/vimfiles/ftplugin/html.vim"
+                     Searching for "/usr/share/vim/vimfiles/ftplugin/html_*.vim"
+                     Searching for "/usr/share/vim/vimfiles/ftplugin/html/*.vim"
+                     Searching for "/usr/share/vim/vim72/ftplugin/html.vim"
+                     chdir(/usr/share/vim/vim72/ftplugin)
+                     fchdir() to previous dir
+                     line 17: sourcing "/usr/share/vim/vim72/ftplugin/html.vim"
+                     finished sourcing /usr/share/vim/vim72/ftplugin/html.vim
+                     continuing in function <SNR>6_LoadFTPlugin
+                     Searching for "/usr/share/vim/vim72/ftplugin/html_*.vim"
+                     Searching for "/usr/share/vim/vim72/ftplugin/html/*.vim"
+                     Searching for "/usr/share/vim/vimfiles/after/ftplugin/html.vim"
+                     Searching for "/usr/share/vim/vimfiles/after/ftplugin/html_*.vim"
+                     Searching for "/usr/share/vim/vimfiles/after/ftplugin/html/*.vim"
+                     Searching for "/home/chengyang/.vim/after/ftplugin/html.vim"
+                     Searching for "/home/chengyang/.vim/after/ftplugin/html_*.vim"
+                     Searching for "/home/chengyang/.vim/after/ftplugin/html/*.vim"
+                     Executing FileType Auto commands for "*"
+                     autocommand exe "set syntax=" . expand("<amatch>")
+
+                     Executing Syntax Auto commands for "*"
+                     autocommand call s:SynSet()
+
+                     Searching for "syntax/html.vim syntax/html/*.vim" in "/home/chengyang/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim72,/usr/share/vim/vimfiles/after,/home/chengyang/.vim/after"
+                     Searching for "/home/chengyang/.vim/syntax/html.vim"
+                     Searching for "/home/chengyang/.vim/syntax/html/*.vim"
+                     Searching for "/usr/share/vim/vimfiles/syntax/html.vim"
+                     Searching for "/usr/share/vim/vimfiles/syntax/html/*.vim"
+                     Searching for "/usr/share/vim/vim72/syntax/html.vim"
+                     chdir(/usr/share/vim/vim72/syntax)
+                     fchdir() to previous dir
+                     line 22: sourcing "/usr/share/vim/vim72/syntax/html.vim"
+                     Searching for "syntax/javascript.vim" in "/home/chengyang/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim72,/usr/share/vim/vimfiles/after,/home/chengyang/.vim/after"
+                     Searching for "/home/chengyang/.vim/syntax/javascript.vim"
+                     Searching for "/usr/share/vim/vimfiles/syntax/javascript.vim"
+                     Searching for "/usr/share/vim/vim72/syntax/javascript.vim"
+                     chdir(/usr/share/vim/vim72/syntax)
+                     fchdir() to previous dir
+                     line 165: sourcing "/usr/share/vim/vim72/syntax/javascript.vim"
+                     finished sourcing /usr/share/vim/vim72/syntax/javascript.vim
+                     continuing in /usr/share/vim/vim72/syntax/html.vim
+                     Searching for "/usr/share/vim/vimfiles/after/syntax/javascript.vim"
+                     Searching for "/home/chengyang/.vim/after/syntax/javascript.vim"
+                     Searching for "syntax/vb.vim" in "/home/chengyang/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim72,/usr/share/vim/vimfiles/after,/home/chengyang/.vim/after"
+                     Searching for "/home/chengyang/.vim/syntax/vb.vim"
+                     Searching for "/usr/share/vim/vimfiles/syntax/vb.vim"
+                     Searching for "/usr/share/vim/vim72/syntax/vb.vim"
+                     chdir(/usr/share/vim/vim72/syntax)
+                     fchdir() to previous dir
+                     line 190: sourcing "/usr/share/vim/vim72/syntax/vb.vim"
+                     finished sourcing /usr/share/vim/vim72/syntax/vb.vim
+                     continuing in /usr/share/vim/vim72/syntax/html.vim
+                     Searching for "/usr/share/vim/vimfiles/after/syntax/vb.vim"
+                     Searching for "/home/chengyang/.vim/after/syntax/vb.vim"
+                     Searching for "syntax/css.vim" in "/home/chengyang/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim72,/usr/share/vim/vimfiles/after,/home/chengyang/.vim/after"
+                     Searching for "/home/chengyang/.vim/syntax/css.vim"
+                     Searching for "/usr/share/vim/vimfiles/syntax/css.vim"
+                     Searching for "/usr/share/vim/vim72/syntax/css.vim"
+                     chdir(/usr/share/vim/vim72/syntax)
+                     fchdir() to previous dir
+                     line 200: sourcing "/usr/share/vim/vim72/syntax/css.vim"
+                     finished sourcing /usr/share/vim/vim72/syntax/css.vim
+                     continuing in /usr/share/vim/vim72/syntax/html.vim
+                     Searching for "/usr/share/vim/vimfiles/after/syntax/css.vim"
+                     Searching for "/home/chengyang/.vim/after/syntax/css.vim"
+                     finished sourcing /usr/share/vim/vim72/syntax/html.vim
+                     continuing in function <SNR>3_SynSet
+                     Searching for "/usr/share/vim/vim72/syntax/html/*.vim"
+                     Searching for "/usr/share/vim/vimfiles/after/syntax/html.vim"
+                     Searching for "/usr/share/vim/vimfiles/after/syntax/html/*.vim"
+                     Searching for "/home/chengyang/.vim/after/syntax/html.vim"
+                     Searching for "/home/chengyang/.vim/after/syntax/html/*.vim"
+                     Executing BufRead Auto commands for "*"
+                     autocommand if !did_filetype() && expand("<amatch>") !~ g:ft_ignore_pat | runtime! scripts.vim | endif
+
+                     Executing BufRead Auto commands for "*"
+                     autocommand if !did_filetype() && expand("<amatch>") !~ g:ft_ignore_pat    && (getline(1) =~ '^#' || getline(2) =~ '^#' || getline(3) =~ '^#'^I|| getline(4) =~ '^#' || getline(5) =~ '^#') |   setf conf | endif
+
+                     Executing BufRead Auto commands for "*"
+                     autocommand if line("'\"") > 0 && line ("'\"") <= line("$") |   exe "normal! g'\"" | endif
+
+Executing BufEnter Auto commands for "*"
+autocommand silent! call s:LocalBrowse(expand("<amatch>"))
+
+Executing CursorMoved Auto commands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Auto commands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+
+Writing viminfo file "/home/chengyang/.viminfo"

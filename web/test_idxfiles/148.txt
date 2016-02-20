@@ -1,0 +1,41 @@
+Content-Length: 3060
+Connection: close
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>The New York Times - Replica Edition</title>
+<link rel="stylesheet" type="text/css" href="/styles/landing.css" />
+<script src="/scripts/footerscript.js" type="text/javascript" language="javascript"></script>
+<script src="/scripts/googleanalytics.js" type="text/javascript" language="javascript"></script>
+</head>
+<body>
+
+<div id="wrap">
+<div id="header">
+	<div id="login_links">
+		<p>Replica Edition subscribers <a href="http://eedition.nytimes.com/cgi-bin/nyt.cgi">log in here</a></p>
+		<p>Home Delivery subscribers <a href="https://homedelivery.nytimes.com/" target="_blank">click here</a> and log in for free access</p>
+	</div>
+</div>
+
+<div id="main">
+<img src="/images/gfx_rule.gif" width="750" height="10" /><br />
+<img src="/images/txt_main_header.gif" alt="Experience the world's finest newspaper. Minus the paper." width="750" height="135" border="0" class="padd" /><br />
+<img src="/images/txt_offer.gif" alt="Try The New York Times Replica Edition FREE for 2 weeks." width="615" height="31" /><a href="https://eedition.nytimes.com/cgi-bin/signup.cgi?rm=step1"><img src="/images/btn_signup.gif" alt="Sign Up Now" width="135" height="31" border="0" /></a><br />
+<img src="/images/gfx_rule.gif" width="750" height="10" class="rule_padd" /><br />
+<p>With The New York Times Replica Edition, powered by Newsstand, every page of The Times on your computer looks exactly as it was published in print. It&#39;s not a Web site, but a digital reproduction of the nation&#39;s most honored newspaper page by page, including every article, photograph and advertisement&mdash;even the crossword. There&#39;s no software to download, special programs to install or extra devices to buy.</p>
+<img src="/images/gfx_features.jpg" alt="Plus, there's so much more you can do." width="750" height="210" /><br />
+<img src="/images/gfx_rule.gif" width="750" height="10" /><br />
+<p class="offer">
+It&#39;s easy to use and now it&#39;s yours to try <strong>FREE</strong> for 2 weeks.<br />
+It&#39;s a risk-free trial; you can cancel at any time.<br />
+<a href="https://eedition.nytimes.com/cgi-bin/signup.cgi?rm=step1"><img src="/images/btn_signup_big.gif" alt="Sign up for your free trial now!" width="560" height="50" border="0" style="margin-top:15px" /></a></p>
+</div>
+<div id="footer">
+	<a href="http://www.nytimes.com/ref/membercenter/help/copyright.html" style="font-weight:normal;color:#333333;" target="_blank">&copy; Copyright 2010</a> <a href="http://www.nytco.com/" style="font-weight:normal;color:#333333;" target="_blank">The New York Times Company</a> | <a href="http://eedition.nytimes.com/privacy_policy.html" style="font-weight:normal;color:#333333;" target="_blank">Privacy</a> | <a href=javascript:faq()>FAQ</a> | <a href="javascript:termsOfService()">Terms of Service</a>
+</div>
+</div>
+</body>
+</html>

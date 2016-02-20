@@ -1,0 +1,3 @@
+Location: http://www.nytimes.com/glogin?URI=http://www.nytimes.com/2011/12/03/business/economy/us-adds-120000-jobs-unemployment-drops-to-8-6.html&OQ=_rQ3D1Q26hpw&OP=6da35540Q2FUkgLUQ2Aw-9Q2FwwlQ7CUQ7CQ7B00U0Q7CUQ7BQ27ULp9hRg99Ug-wRwmQ2BUp9sMQ2AQ2A9s0Q7CQ7BQ7BQ7BQ7BscwL9spRgmQ23Q3CwQ2BmgRlsQ2AQ2FwQ239slwsQ3Fs!xQ60lmQ3C
+Connection: keep-alive
+

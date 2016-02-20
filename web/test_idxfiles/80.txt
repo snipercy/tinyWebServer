@@ -1,0 +1,6 @@
+Connection: keep-alive
+Set-cookie: RMID=1dda115f6ca14ed9132f1b65; expires=Saturday, 01-Dec-2012 18:04:31 GMT; path=/; domain=.nytimes.com
+Content-length: 1
+Location: http://theater.nytimes.com/show/buy-ticket.html
+
+

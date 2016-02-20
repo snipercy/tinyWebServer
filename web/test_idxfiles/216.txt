@@ -1,0 +1,3 @@
+Location: http://www.nytimes.com/glogin?URI=http://www.nytimes.com/2011/12/02/sports/kelly-cobb-leads-duke-to-womens-national-semifinals.html&OQ=_rQ3D1&OP=74288355Q2FjrJhjuDt.Q23DDiEjEQ7DQ5CQ5CjQ5CEjQ7DEj.dDQ23i.jLJeeV4tDhh4eJfu.4uqLJ4iD4rDQ7EJx.4xfizDxfe4.JQ7EzQ20zxfe.!Q51iQ7Ee
+Connection: keep-alive
+

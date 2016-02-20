@@ -1,0 +1,28 @@
+Set-cookie: RMID=05e89f6740b64ed9132ea3c1; expires=Saturday, 01-Dec-2012 18:04:30 GMT; path=/; domain=.nytimes.com
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Set-cookie: adxcs=si=0:1; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+<html><head>
+<meta http-equiv=refresh content="7;url=/pages/fashion/weddings/index.html?adxnnl=1&adxnnlx=1322849070-97DOfIsQSg0HSrHD1TX4Og">
+<title>NY Times Advertisement</title></head>
+<body marginheight="5" marginwidth="0" leftmargin="0" topmargin="5" link="#000066" bgcolor="#ffffff" alink="#990000" vlink="#444464" text="#000000">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr>
+    <td align="left"><img src="http://graphics8.nytimes.com/ads/interstitial/nyt_adv.gif" width="341" height="30"></td>
+    <td align="right"><a href="/pages/fashion/weddings/index.html?adxnnl=1&adxnnlx=1322849070-97DOfIsQSg0HSrHD1TX4Og" onMouseOver="document.skip.src = 'http://graphics8.nytimes.com/ads/interstitial/skip_1.gif'" onMouseOut="document.skip.src='http://graphics8.nytimes.com/ads/interstitial/skip_0.gif'"><img name="skip" src="http://graphics8.nytimes.com/ads/interstitial/skip_0.gif" width="69" height="30" border="0"></a>   </td></tr>
+  <tr>
+    <td colspan="2" bgcolor="#EDEDED" align="center"><!-- ADXINFO classification="interstitial-article" campaign="i_int-Banana_RepublicGG-1781004-nyt8"--><!--adx-interstitial timeout=7-->
+<div align="center">
+<SCRIPT type="text/javascript" SRC="http://ad.doubleclick.net/adj/N2949.nytimes.comSD6440/B6060247;sz=640x480;pc=nyt174571A285374;ord=2011.12.02.18.04.30?;click=http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=interstitial:www.nytimes.com/pages/fashion&pos=Interstitial&camp=i_int-Banana_RepublicGG-1781004-nyt8&ad=banana_640x480_B6060247&sn2=6bebd04c/4f779f5a&snr=doubleclick&snx=1322848851&sn1=29dc7375/74c6f073&goto=">
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=interstitial:www.nytimes.com/pages/fashion&pos=Interstitial&sn2=6bebd04c/4f779f5a&sn1=314cc426/66b8ff09&camp=i_int-Banana_RepublicGG-1781004-nyt8&ad=banana_640x480_B6060247&goto=http://ad.doubleclick.net/jump/N2949.nytimes.comSD6440/B6060247;sz=640x480;pc=nyt174571A285374;ord=2011.12.02.18.04.30?" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N2949.nytimes.comSD6440/B6060247;sz=640x480;pc=nyt174571A285374;ord=2011.12.02.18.04.30?"
+ BORDER=0 WIDTH=640 HEIGHT=480
+ ALT="Click Here"></A>
+</NOSCRIPT>
+</div><IMG SRC="/adx/bin/clientside/6bce6a7aQ2FoqQ7DckCnxqQ5BrGQ5Bc0Q5EkiQ7DcQ7EniQ5E" height="1" width="3"></td></tr></table></body></html>

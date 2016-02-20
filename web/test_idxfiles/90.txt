@@ -1,0 +1,444 @@
+
+<!doctype html>
+
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8"/>
+		<title>Home : New York Times</title>
+<link rel="ico" href="http://nytimes.whsites.net/timestalks/public/favicon.ico" type="image/x-icon" /> 
+<link rel="shortcut icon" href="http://nytimes.whsites.net/timestalks/public/favicon.ico" type="image/x-icon" /> 
+		<link rel="stylesheet" href="http://nytimes.whsites.net/timestalks/public/styles/html5reset-1.4.1.css" media="all"/>
+		<link rel="stylesheet" href="http://nytimes.whsites.net/timestalks/public/styles/screen.css" media="all"/>
+		<link rel="stylesheet" href="http://nytimes.whsites.net/timestalks/public/styles/dark-hive/jquery-ui-1.8.custom.css" media="all"/>		
+		<!--[if IE]><script src="http://nytimes.whsites.net/timestalks/public/scripts/html5.js"></script><![endif]-->
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.0/jquery-ui.min.js"></script>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>		
+		<script src="http://nytimes.whsites.net/timestalks/public/scripts/jquery.labelify.js"></script>
+		<script src="http://nytimes.whsites.net/timestalks/public/scripts/jquery.form.js"></script>		
+		
+		
+		<!-- AddThis Button BEGIN -->
+		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4bc28e7b4b08fd9b"></script>
+		<!-- AddThis Button END -->
+
+		<script type="text/javascript"> base_url = 'http://nytimes.whsites.net/timestalks/';</script>
+		<script type="text/javascript">
+		$(document).ready(function() {
+			// Inline label
+			$("#email").labelify();
+
+			$("#email-signup-form").submit(function(e) {
+				
+				var $email = $(this).find("#email");
+				var address = $email.val();
+				
+				var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+
+				if(reg.test(address) == false) {
+			      $email.after('<p class="error">Invalid email address</p>');
+			      return false;
+			   	} 			
+			});
+
+			$("#nav-home").addClass("active");
+			
+			$("article.podcast a.player, article.video a.player").mouseenter(function() {
+				$(this).closest("article").addClass("hover");
+			});
+			
+			$("article.podcast a.player, article.video a.player").mouseleave(function() {
+				$(this).closest("article").removeClass("hover");
+			});
+						
+			$("article.podcast a.player, article.video a.player").click(function(e) {
+				e.preventDefault();
+
+				// Dialog DIV to populate with data
+				var $dialog = $("#dialog");						
+
+
+				var $article = $(this).closest("article");		// Article container
+
+				var dialogWidth;
+
+				if ($article.is(".video")) {
+					dialogWidth = 645; // Default dialog width for videos				
+				} else {
+					dialogWidth = 410; // Default dialog width for podcasts				
+				}
+				
+				var href = $(this).attr("href");
+				var title = $article.find("h3").html();			// Article title text for dialog window
+				
+				// Close dialog in case it is open, and clear out contents
+				$dialog.dialog("close").html("Loading player...");				
+				
+				$.ajax({ 
+					url: href, 
+					context: $dialog,
+					success: function(data, textStatus) {
+        				$(this).html(data);
+
+        				// Bind addthis buttons
+        				$(".addthis_button").each(function(){
+							$(this).attr("onMouseOver", "return addthis_open(this, '', '"+window.location+"', '"+document.title+"');");
+						});
+						
+						// Google analytics
+						//pageTracker._trackPageview(href);
+						_gaq.push(['_trackPageview', href]);
+				    }
+				});
+
+				// Pop up dialog
+				$dialog.show().dialog({
+					modal: true,
+					title: title,
+					width: dialogWidth
+				});
+				
+			});
+			
+		});
+		</script>
+	</head>
+
+<body id="page-home" >
+	<!-- <a name="top"></a> -->
+	<div id="wrapper" class="clearfix">
+		<header>
+			<h1 id="logo" class="gl"><span></span>TimesTalks</h1>
+		</header>
+		<aside id="home-aux">
+			<nav>
+	<ul>
+		<li id="nav-home"><a href="http://nytimes.whsites.net/timestalks/">Home</a></li>
+				<li id="nav-contact"><a href="http://www.facebook.com/timestalks?sk=app_142371818162
+		">Webcast</a></li>
+		<li id="nav-videos"><a href="http://nytimes.whsites.net/timestalks/videos">Videos</a></li>
+		<li id="nav-podcasts"><a href="http://nytimes.whsites.net/timestalks/podcasts">Podcasts</a></li>
+		<li id="nav-info-directions"><a href="http://nytimes.whsites.net/timestalks/info-directions">Info &amp; Directions</a></li>
+		<li id="nav-contact"><a href="http://nytimes.whsites.net/timestalks/contact">Contact</a></li>
+		
+	</ul>
+
+<!--
+	<h3>Sort By Topic</h3>
+	<ul class="sort">
+		<li><a href="">Art</a></li>
+		<li><a href="">Books</a></li>
+		<li><a href="">Current Affairs</a></li>
+		<li><a href="">Film</a></li>
+		<li><a href="">Music</a></li>
+		<li><a href="">Politics</a></li>
+		<li><a href="">Science</a></li>
+		<li><a href="">Theater</a></li>
+		<li><a href="">TV</a></li>
+
+		<li class="alt"><a href="">Sort by date</a></li>
+
+		<li class="alt"><a href="">Sort by popularity</a></li>
+	</ul>
+-->
+
+</nav>
+
+<section id="email-signup">
+	<form id="email-signup-form" method="post" action="http://www.imakenews.com/eletra/mod_input_proc.cfm" enctype="iso-8859-1"> 
+		<h3>Be the first to know. Sign up for our <span>e-newsletter</span></h3>
+		<input type="hidden" name="XXDESXXuser" value="nytevents" /> 
+		<input type="hidden" name="XXDESXXuser" value="nytevents" /> 
+		<input type="hidden" name="XXDESXXbackto" value="http://nytimes.whsites.net/timestalks/email-signup-thanks/http%3A%2F%2Fnytimes.whsites.net%2Ftimestalks%2F" /> 
+		<input type="hidden" name="mod_name" value="subscription" /> 
+		<input type="hidden" name="XXDESXXlist" value="1" /> 
+		<input type="text" title="email address" class= "textinput" name="XXDESXXemail_address"  id="email" maxlength="100" value="" />
+		<input type="submit" value="Submit" name="add" class="go" />
+	</form> 
+</section>
+
+<section id="social-media">
+
+<ul>
+	<li><a href="http://artsandleisureweekend.com/" target="_blank" style="color:#3399cc;font-weight:bold;">Arts &amp; Leisure Weekend</a><br />
+	<a href="http://www.nyttravelshow.com/" target="_blank" style="color:#3399cc;font-weight:bold;">The New York Times Travel Show</a><br />
+	<a href="http://tasteoft.com/" target="_blank" style="color:#3399cc;font-weight:bold;">A Taste of T</a><br /></li>
+		<li>Gary Oldman event in collaboration with<br><br>
+		<img src="http://nytimes.whsites.net/timestalks/public/images/ifp_gothams_150x94.gif" alt="Gotham Independent Film Awards" width="150" height="94" />
+		<br><br></li>	
+<li>
+	Follow us
+			<a href="http://twitter.com/TimesTalks" target="_blank" title="Click here to follow us on Twitter"><img src="http://nytimes.whsites.net/timestalks/public/images/twitter.png" alt="Twitter" width="100" height="30" /></a>
+		</li>
+
+		<li>
+			Become a fan
+			<a href="http://www.facebook.com/pages/TimesTalks/90726807687?ref=mf" target="_blank" title="Click here to become a fan on Facebook"><img src="http://nytimes.whsites.net/timestalks/public/images/facebook.png" alt="Facebook" width="100" height="30" /></a>
+		</li>
+	</ul>
+</section>
+
+<!--
+<section id="ad-skyscraper">
+	<img src="http://nytimes.whsites.net/timestalks/public/images/fpo/ad_skyscraper.jpg" alt="ad_skyscraper" width="160" height="600" />
+</section>
+-->
+
+<section id="promos">
+	<ul>
+		<li>
+			Find out about events happening throughout the year at
+			<a href="http://www.newyorktimeslive.com" id="nytimes-live" title="Click here for New York Times Live">New York Times Live</a>
+		</li>
+
+	</ul>
+</section>		</aside>
+		
+		
+
+<section id="home-events" class="home-panels">
+	<h2>Upcoming Events</h2>
+	
+			
+		<article class="event clearfix">
+								<header class="custom" style="background-image:url(http://nytimes.whsites.net/timestalks/public/uploads/costas_bubble.jpg);">
+					<hgroup>
+						<h3>Bob Costas & Bob Lipsyte</h3>
+											</hgroup>
+	
+					<section class="details">
+						<p class="datetime">
+							Wednesday, December 7<!-- Tuesday | November 10 --><br />
+							6:30 PM															- 8:00 PM													</p>
+						<p class="location">
+							The TimesCenter<br />
+242 West 41st St. NYC						</p>
+					</section>
+				</header>
+
+								
+			<!-- End Hidden SEO Content -->
+			<!--
+<figure class="hero">
+				<img src="http://nytimes.whsites.net/timestalks/public/uploads/costas_bubble.jpg" alt="" width="375" height="195" />
+			</figure>
+-->
+			<section class="description vertical">
+			<p><b>TimesTalks:</b><br />
+Don’t miss the chance to hear these two veteran sports journalists&#8212;<b>Bob Costas</b> of NBC Sports, author of the best-seller “Fair Ball, A Fan’s Case for Baseball,” and <b>Bob Lipsyte</b>, longtime New York Times sports columnist and author of the memoir “An Accidental Sportswriter.”<br><br><b>Tickets</b>: $30
+</p>			
+							<p class="action buy"><a href="https://web.ovationtix.com/trs/pe/9357115" class="buy">Buy Tickets</a></p>
+						</section>
+			<figure class="people vertical">
+			<ul>
+												<li>
+					<img src="http://nytimes.whsites.net/timestalks/public/uploads/CROP_Lipsyte,_Robert_cr_Sandy_Geis.jpg" alt="" width="110" height="115" />
+					<figcaption>Bob Lipsyte</figcaption>
+				</li>
+																																								
+			</ul>
+			</figure>
+			
+		</article>
+		
+		<article class="event clearfix">
+								<header class="custom" style="background-image:url(http://nytimes.whsites.net/timestalks/public/uploads/c_theron_bubble.jpg);">
+					<hgroup>
+						<h3>Charlize Theron & Jason Reitman</h3>
+											</hgroup>
+	
+					<section class="details">
+						<p class="datetime">
+							Friday, December 9<!-- Tuesday | November 10 --><br />
+							7:00 PM															- 8:30 PM													</p>
+						<p class="location">
+							The TimesCenter<br />
+242 West 41st St. NYC						</p>
+					</section>
+				</header>
+
+								
+			<!-- End Hidden SEO Content -->
+			<!--
+<figure class="hero">
+				<img src="http://nytimes.whsites.net/timestalks/public/uploads/c_theron_bubble.jpg" alt="" width="375" height="195" />
+			</figure>
+-->
+			<section class="description vertical">
+			<p><b>TimesTalks:</b><br />
+See Oscar-winning actress <b>Charlize Theron</b> and four-time Oscar nominee <b>Jason Reitman</b>, the star and the director of the new film written by Diablo Cody, “Young Adult.” Interviewed by New York Times writer at large <b>Charles McGrath</b>.<br><br><b>Tickets</b>: $30
+</p>			
+							<p class="action buy"><a href="https://web.ovationtix.com/trs/pe/9357135" class="buy">Buy Tickets</a></p>
+						</section>
+			<figure class="people vertical">
+			<ul>
+												<li>
+					<img src="http://nytimes.whsites.net/timestalks/public/uploads/CROP_JasonReitman.jpg" alt="" width="110" height="115" />
+					<figcaption>Jason Reitman</figcaption>
+				</li>
+																																								
+			</ul>
+			</figure>
+			
+		</article>
+		
+		<article class="event clearfix">
+								<header class="generic">
+					<div id="event98">
+					The Economy & the Campaign										Monday, December 12					6:30 PM											- 8:00 PM										Jack Morton Auditorium<br />
+805 21st Street, NW<br />
+Washington, D.C.					</div>
+				</header>
+				
+				<script type="text/javascript">
+								var flashvars = {
+					"eventTitle" : "The+Economy+%26+the+Campaign"
+					,"eventSubtitle" : ""
+					,"eventDateTime" : "Monday%2C+December+12%0A6%3A30+PM+-+8%3A00+PM"
+					,"eventAddress" : "Jack+Morton+Auditorium%0A805+21st+Street%2C+NW%0AWashington%2C+D.C."
+				};
+				var params = {};
+				var attributes = {};
+				
+				swfobject.embedSWF("http://nytimes.whsites.net/timestalks/public/eventTimes.swf", "event98", "375", "195", "9.0.0","expressInstall.swf", flashvars, params, attributes);
+				
+				</script>
+								
+			<!-- End Hidden SEO Content -->
+			<!--
+<figure class="hero">
+				<img src="http://nytimes.whsites.net/timestalks/public/uploads/" alt="" width="375" height="195" />
+			</figure>
+-->
+			<section class="description horizontal">
+			<p>Join <b>David Leonhardt</b>, the Washington bureau chief of The New York Times, for a compelling conversation about what promises to be the main theme of the race for the presidency and the 2012 elections&#8212;economic concerns and our country&#8217;s financial prospects — with Times Washington bureau  journalists  <b>Binyamin Appelbaum, Jackie Calmes</b> and <b>John Harwood</b>.<br><br><b>CANCELED</b>
+</p>			
+						</section>
+			<figure class="people horizontal">
+			<ul>
+								<li>
+					<img src="http://nytimes.whsites.net/timestalks/public/uploads/CROP_David_Leonhardt2011.jpeg" alt="" width="110" height="115" />
+					<figcaption>David Leonhardt</figcaption>
+				</li>
+												<li>
+					<img src="http://nytimes.whsites.net/timestalks/public/uploads/CROP_Harwood,_John.jpg" alt="" width="110" height="115" />
+					<figcaption>John Harwood</figcaption>
+				</li>
+												<li>
+					<img src="http://nytimes.whsites.net/timestalks/public/uploads/CROP_Calmes,_Jackie_20081.jpg" alt="" width="110" height="115" />
+					<figcaption>Jackie Calmes</figcaption>
+				</li>
+												<li>
+					<img src="http://nytimes.whsites.net/timestalks/public/uploads/CROP_Appelbaum,_Binyamin_2011.JPG" alt="" width="110" height="115" />
+					<figcaption>Binyamin Appelbaum</figcaption>
+				</li>
+																																
+			</ul>
+			</figure>
+			
+		</article>
+		</section> <!-- #home-events -->
+
+<section id="home-podcasts" class="home-panels">
+	<h2>Podcasts</h2>		
+	
+				<article class="podcast">
+			<a href="http://nytimes.whsites.net/timestalks/podcast/1686" class="player"><h3>A Conversation with Mark Ruffalo</h3></a>
+			<p>The actor discusses his past roles as well as his latest project, “Sympathy for Delicious,” with Times culture reporter Melena Ryzik.</p>
+			<a href="http://nytimes.whsites.net/timestalks/podcast/1686" class="player play gl"><span></span>Play</a>
+		</article>	
+			<article class="podcast">
+			<a href="http://nytimes.whsites.net/timestalks/podcast/1687" class="player"><h3>A Conversation with Michael Stipe</h3></a>
+			<p>The REM frontman discusses the “Collapse Into Now Film Project” with New York Times Magazine editor Hugo Lindgren.</p>
+			<a href="http://nytimes.whsites.net/timestalks/podcast/1687" class="player play gl"><span></span>Play</a>
+		</article>	
+			<article class="podcast">
+			<a href="http://nytimes.whsites.net/timestalks/podcast/1688" class="player"><h3>Emmylou Harris: A Conversation with Music</h3></a>
+			<p>Emmylou Harris discusses her career with New York Times assistant editor Dana Jennings and performs from her album, “Hard Bargain.”</p>
+			<a href="http://nytimes.whsites.net/timestalks/podcast/1688" class="player play gl"><span></span>Play</a>
+		</article>	
+			<article class="podcast">
+			<a href="http://nytimes.whsites.net/timestalks/podcast/1689" class="player"><h3>Disunion: The Civil War</h3></a>
+			<p>Yale professor David W. Blight, filmmaker Ken Burns and historian Adam Goodheart discuss the start of the Civil War 150 years ago and it’s consequences with NYTimes.com Disunion series lead writer Jamie Malanowski.</p>
+			<a href="http://nytimes.whsites.net/timestalks/podcast/1689" class="player play gl"><span></span>Play</a>
+		</article>	
+			
+	<a href="http://nytimes.whsites.net/timestalks/podcasts" class="more">More Podcasts</a>		
+</section> <!-- #home-podcasts -->
+
+<section id="home-videos" class="home-panels">
+	<h2>Video Clips</h2>
+				<article class="video">
+			<a href="http://nytimes.whsites.net/timestalks/video/90" class="player"><h3>TimesTalks: Roger Ebert Live</h3></a>
+			<h4>Hear this Pulitzer Prize-winning film critic speak — through his computer-aided voice — about movies, film criticism and his life, as told in his memoir, “Life Itself.”</h4>
+			<figure>
+				<a href="http://nytimes.whsites.net/timestalks/video/90" class="player"><img src="http://nytimes.whsites.net/timestalks/public/uploads/ebert.jpg" alt="" width="150" height="85" /></a>
+				<a href="http://nytimes.whsites.net/timestalks/video/90" class="player play gl"><span></span>Play</a>
+			</figure>
+		</article>	
+			<article class="video">
+			<a href="http://nytimes.whsites.net/timestalks/video/89" class="player"><h3>Guy Fieri</h3></a>
+			<h4>The popular cookbook author, restaurateur and Food Network star is a little bit chef-sports-fan and a little bit chef-rock-and-roll.</h4>
+			<figure>
+				<a href="http://nytimes.whsites.net/timestalks/video/89" class="player"><img src="http://nytimes.whsites.net/timestalks/public/uploads/fieri.jpg" alt="" width="150" height="85" /></a>
+				<a href="http://nytimes.whsites.net/timestalks/video/89" class="player play gl"><span></span>Play</a>
+			</figure>
+		</article>	
+			<article class="video">
+			<a href="http://nytimes.whsites.net/timestalks/video/88" class="player"><h3>Jacques Pepin</h3></a>
+			<h4>Award-winning chef, television personality and author Jacques Pepin.</h4>
+			<figure>
+				<a href="http://nytimes.whsites.net/timestalks/video/88" class="player"><img src="http://nytimes.whsites.net/timestalks/public/uploads/pepin.jpg" alt="" width="150" height="85" /></a>
+				<a href="http://nytimes.whsites.net/timestalks/video/88" class="player play gl"><span></span>Play</a>
+			</figure>
+		</article>	
+			<article class="video">
+			<a href="http://nytimes.whsites.net/timestalks/video/87" class="player"><h3>Phineas & Ferb</h3></a>
+			<h4>The stars of Disney's Emmy Award-winning animated hit TV series, “Phineas and Ferb.”</h4>
+			<figure>
+				<a href="http://nytimes.whsites.net/timestalks/video/87" class="player"><img src="http://nytimes.whsites.net/timestalks/public/uploads/phinferb.jpg" alt="" width="150" height="85" /></a>
+				<a href="http://nytimes.whsites.net/timestalks/video/87" class="player play gl"><span></span>Play</a>
+			</figure>
+		</article>	
+			
+		
+	<a href="http://nytimes.whsites.net/timestalks/videos" class="more">More Videos</a>		
+</section> <!-- #home-videos -->
+
+		
+		<footer class="clearfix">
+			<p>
+	Copyright 2010 The New York Times. All Rights Reserved.<br>
+	<a href="http://www.nytimes.com/ref/membercenter/help/privacysummary.html" target="_blank">Privacy Policy</a> | 
+	<a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html" target="_blank">Contact Us</a> | 
+	<a href="http://homedelivery.nytimes.com/" target="_blank">Subscribe to The New York Times</a> | 
+	<a href="http://www.nytco.com/" target="_blank">The New York Times Company</a>
+</p> 		</footer>
+
+	</div> <!-- #shell -->
+
+	<!-- ui-dialog --> 
+	<div id="dialog" title="" style=""> 
+
+	</div>
+
+<script type="text/javascript">
+
+ var _gaq = _gaq || [];
+ _gaq.push(['_setAccount', 'UA-5449348-17']);
+ _gaq.push(['_trackPageview']);
+
+ (function() {
+   var ga = document.createElement('script'); ga.type = 'text/javascript';
+ga.async = true;
+   ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
+'http://www') + '.google-analytics.com/ga.js';
+   var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+ })();
+
+</script> 
+	</body>
+
+</html>

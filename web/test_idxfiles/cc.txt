@@ -1,0 +1,30 @@
+/*$Id: ie6.css 103311 2012-07-11 19:53:20Z konige $
+/css/0.1/screen/build/homepage/ie6.css 
+(c)2006 - 2008 The New York Times Company 
+Description: This file is for rules pertaining to IE6, only IE6 rules should exist here.
+*/
+
+@import url(/css/0.1/screen/common/ie6.css);
+
+/* START tweaks for toolbar promo */
+.toolbarPromo {
+    position: relative;
+    margin-bottom: -6px;
+}
+/* END tweaks for toolbar promo */
+
+/* Position the Expanded Tabbed News Module */
+.expandedTabbedNewsModule .tabContent .inset #ledePhoto {
+  margin-right:-11px;
+}
+
+.expandedTabbedNewsModule,
+.expandedTabbedNewsModule .inset {
+  position: relative;
+}
+
+.expandedTabbedNewsModule #ledePhoto img {
+  position: relative;
+  margin-left: 0;
+}
+/* End Expanded Tabbed News fixes */

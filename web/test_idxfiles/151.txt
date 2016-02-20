@@ -1,0 +1,3 @@
+Location: http://www.nytimes.com/glogin?URI=http://www.nytimes.com/2011/12/02/opinion/the-fed-and-the-euro.htm&OQ=_rQ3D1&OP=2318c106Q2FQ2AbxmQ2AQ26Q60_qOQ60Q60NoQ2AoQ3AAAQ2AAoQ2AQ3AoQ2AQ60sQ5CQ5DQ5CQ60Q5DQ2ANQ3FxKQ7DxQ26KEQ5DQ26KNQ3FxKxQ20OQ60Q25Q3FN-
+Connection: keep-alive
+

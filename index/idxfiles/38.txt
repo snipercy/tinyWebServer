@@ -1,0 +1,30 @@
+Content-Length: 260
+Connection: close
+Location: http://www.taobao.com/home/error.php
+Expires: Wed, 03 Jun 2015 08:00:10 GMT
+Cache-Control: max-age=0
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+<head><title>302 Found</title></head>
+<body bgcolor="white">
+<h1>302 Found</h1>
+<p>The requested resource resides temporarily under a different URI.</p>
+<hr/>Powered by Tengine
+</body>
+</html>
+Date: Wed, 03 Jun 2015 08:12:54 GMT
+Location: http://baike.baidu.com/error.html?status=404&uri=/search/word&args=pic=1&sug=1&enc=utf8'
+P3p: CP=" OTI DSP COR IVA OUR IND COM "
+Server: Apache
+Set-Cookie: BAIDUID=937859A07364F0B39E205685EE19BA58:FG=1; expires=Thu, 02-Jun-16 08:12:54 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+Tracecode: 07746991290656814602060316
+Content-Length: 154
+
+<html>
+<head><title>302 Found</title></head>
+<body bgcolor="white">
+<center><h1>302 Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

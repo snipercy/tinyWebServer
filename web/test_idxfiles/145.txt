@@ -1,0 +1,3 @@
+Location: http://www.nytimes.com/glogin?URI=http://www.nytimes.com/2011/12/02/opinion/brooks-the-spirit-of-enterprise.html&OQ=_rQ3D1Q26hp&OP=2f01aec2Q2F7ujC7YmLeGmmQ5ET7ThQ22Q227Q22T7hT7m)2P2mP7CGmm-eaQ5EQ5Cjae)2G2Q5EamqajPQ5EjG)G2ejQ3AQ5CQ5EKb
+Connection: keep-alive
+

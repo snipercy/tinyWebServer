@@ -1,0 +1,1546 @@
+Set-cookie: RMID=0bd8082a26394ed9132d7263; expires=Saturday, 01-Dec-2012 18:04:29 GMT; path=/; domain=.nytimes.com
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Set-cookie: adxcs=s*28147=0:1; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>National News - The New York Times</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="noarchive">
+<meta name="description" content="Find breaking news and multimedia on health care, the Supreme Court, NASA, politics and government, taxes, the White House, education and business." />
+<meta name="keywords" content="Renting and Leasing (Real Estate),Series,Wells,Hydraulic Fracturing,Chesapeake Energy Corporation,Oil (Petroleum) and Gasoline,Water Pollution,Land Use Policies,Drilling and Boring,Cabot Oil &amp; Gas Corporation,Water,Natural Gas,Post-Traumatic Stress Disorder,United States Defense and Military Forces,Veterinary Medicine,Dogs,Afghanistan War (2001- ),Iraq War (2003- ),Economic Conditions and Trends,Philanthropy,Jews and Judaism,Recession and Depression,Rafferty, Brogan,Ohio,Beasley, Richard J.,Online Advertising,Murders and Attempted Murders,Classified Advertising,Labor and Jobs,Craigslist,Acquired Immune Deficiency Syndrome,Global Fund to Fight AIDS, Tuberculosis and Malaria,Obama, Barack,Los Angeles (Calif),Power Outages and Blackouts,Oxnard (Calif),Disasters and Emergencies,Pasadena (Calif),Wind,California,National Weather Service,Mines and Mining,Virginia Uranium,Chatham (Va),Virginia,Uranium,Water Pollution,Coles, Walter,Nuclear Energy,Presidential Election of 2012,Romney, Mitt,Republican Party,Gingrich, Newt,Obama, Barack,Democratic Party,Income Inequality,Republican Party,Presidential Election of 2012,United States Politics and Government,Payroll Tax,Obama, Barack,Campaign Finance,Edwards, John,Sexual Harassment,Richardson, Bill,New Mexico,Presidential Election of 2012,Arizona,Hispanic-Americans,Illegal Immigrants,Immigration and Emigration,Obama, Barack,Cain, Herman,Presidential Election of 2012,United States Politics and Government,Roemer, Buddy,United States Politics and Government,Presidential Elections (US),United States Defense and Military Forces,Law and Legislation,Al Qaeda,Terrorism,Senate,Detainees,United States Politics and Government,Layoffs and Job Reductions,Michigan,Bing, Dave,Budgets and Budgeting,Snyder, Richard Dale,Detroit (Mich),Politics and Government,Clean Air Act,Power Outages and Blackouts,Regulation and Deregulation of Industry,Energy Department,Air Pollution,North American Electric Reliability Corp,Electric Light and Power,Environmental Protection Agency,United States Politics and Government,Baby Boomers,Population,Elderly,Census,Census Bureau,Wages and Salaries,Unemployment,Layoffs and Job Reductions,United States Economy,Rutgers, The State University of New Jersey,Labor and Jobs,Same-Sex Marriage, Civil Unions and Domestic Partnerships,Cuomo, Andrew M,Campaign Finance,Politics and Government,New York State,bin Laden, Osama,Al Qaeda,Zawahri, Ayman Al-,Weinstein, Warren,Terrorism,Hostages,Kidnapping,Pakistan,United States,Bridges and Tunnels,Drugs (Pharmaceuticals),Tijuana (Mexico),Drug Abuse and Traffic,United States,Massachusetts,Suits and Litigation,Mortgages,Wells Fargo &amp; Company,Coakley, Martha M,Citigroup Inc,JPMorgan Chase &amp; Company,Bank of America Corporation,Mortgage Electronic Registration Systems,Banking and Financial Institutions,Foreclosures,GMAC LLC,Subprime Mortgage Crisis,Morgan Stanley,Federal Reserve System,Subprime Mortgage Crisis,United States Politics and Government,Mortgages,Real Estate and Housing (Residential),United States Economy,Andrew J. Kleinfeld,Decisions and Verdicts,Bone Marrow,Stem Cells,Transplants,Suits and Litigation,Campaign Finance,Elections,House of Representatives,Law and Legislation,Presidential Elections (US),Colleges and Universities,Champion, Robert,Marching Bands,Florida,Hazing,Florida A&amp;M University,Demonstrations, Protests, and Riots,Occupy Wall Street,Boston (Mass),McIntyre, Frances,Transgender and Transsexual,United States Defense and Military Forces,Bullies,Religion and Belief,Homosexuality,Teenagers and Adolescence,Iraq War (2003- ),Deaths (Fatalities),Afghanistan War (2001- ),Campaign Finance,Romney, Mitt,Elections,Presidential Election of 2012,Politics and Government,Mormons (Church of Jesus Christ of Latter-Day Saints),United States Economy,Michigan,Santa Claus,Finances,Texas,Decisions and Verdicts,Taxation,Education (K-12),Economic Conditions and Trends,Foster Care,Poverty,Texas,Child Abuse and Neglect,Layoffs and Job Reductions,Education (K-12),United States Politics and Government,Campaign Finance,Reform and Reorganization,Chicago (Ill),Stand for Children,Art,Graffiti,Chicago (Ill),Oakland (Calif),Pop-Up Stores and Restaurants,Shopping and Retail,University of California,Newsom, Gavin,California State University,California,Demonstrations, Protests, and Riots,Tuition" />
+<meta name="asset_id" content="">
+<meta name="CG" content="us">
+<meta name="SCG" content="">
+<meta name="PT" content="Section Front">
+<meta name="PST" content="">
+<link rel="canonical" href="http://www.nytimes.com/pages/national/index.html">
+<meta name="msapplication-starturl" content="http://www.nytimes.com/" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.nytimes.com/services/xml/rss/nyt/US.xml"/>
+
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/build/sectionfront/us/styles.css" />
+<link rel="stylesheet" type="text/css" media="print" href="http://graphics8.nytimes.com/css/0.1/print/styles.css">
+<!--[if IE]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie.css);
+	    </style>
+	<![endif]-->
+<!--[if IE 6]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie6.css);
+	    </style>
+	<![endif]-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/DropDown.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/util/tooltip.js"></script>
+<script type="text/JavaScript">
+		var static_kw = "Renting and Leasing (Real Estate);Series;Wells;Hydraulic Fracturing;Chesapeake Energy Corporation;Oil (Petroleum) and Gasoline;Water Pollution;Land Use Policies;Drilling and Boring;Cabot Oil & Gas Corporation;Water;Natural Gas;Post-Traumatic Stress Disorder;United States Defense and Military Forces;Veterinary Medicine;Dogs;Afghanistan War (2001- );Iraq War (2003- );Economic Conditions and Trends;Philanthropy;Jews and Judaism;Recession and Depression;Rafferty; Brogan;Ohio;Beasley; Richard J.;Online Advertising;Murders and Attempted Murders;Classified Advertising;Labor and Jobs;Craigslist;Acquired Immune Deficiency Syndrome;Global Fund to Fight AIDS; Tuberculosis and Malaria;Obama; Barack;Los Angeles (Calif);Power Outages and Blackouts;Oxnard (Calif);Disasters and Emergencies;Pasadena (Calif);Wind;California;National Weather Service;Mines and Mining;Virginia Uranium;Chatham (Va);Virginia;Uranium;Water Pollution;Coles; Walter;Nuclear Energy;Presidential Election of 2012;Romney; Mitt;Republican Party;Gingrich; Newt;Obama; Barack;Democratic Party;Income Inequality;Republican Party;Presidential Election of 2012;United States Politics and Government;Payroll Tax;Obama; Barack;Campaign Finance;Edwards; John;Sexual Harassment;Richardson; Bill;New Mexico;Presidential Election of 2012;Arizona;Hispanic-Americans;Illegal Immigrants;Immigration and Emigration;Obama; Barack;Cain; Herman;Presidential Election of 2012;United States Politics and Government;Roemer; Buddy;United States Politics and Government;Presidential Elections (US);United States Defense and Military Forces;Law and Legislation;Al Qaeda;Terrorism;Senate;Detainees;United States Politics and Government;Layoffs and Job Reductions;Michigan;Bing; Dave;Budgets and Budgeting;Snyder; Richard Dale;Detroit (Mich);Politics and Government;Clean Air Act;Power Outages and Blackouts;Regulation and Deregulation of Industry;Energy Department;Air Pollution;North American Electric Reliability Corp;Electric Light and Power;Environmental Protection Agency;United States Politics and Government;Baby Boomers;Population;Elderly;Census;Census Bureau;Wages and Salaries;Unemployment;Layoffs and Job Reductions;United States Economy;Rutgers; The State University of New Jersey;Labor and Jobs;Same-Sex Marriage; Civil Unions and Domestic Partnerships;Cuomo; Andrew M;Campaign Finance;Politics and Government;New York State;bin Laden; Osama;Al Qaeda;Zawahri; Ayman Al-;Weinstein; Warren;Terrorism;Hostages;Kidnapping;Pakistan;United States;Bridges and Tunnels;Drugs (Pharmaceuticals);Tijuana (Mexico);Drug Abuse and Traffic;United States;Massachusetts;Suits and Litigation;Mortgages;Wells Fargo & Company;Coakley; Martha M;Citigroup Inc;JPMorgan Chase & Company;Bank of America Corporation;Mortgage Electronic Registration Systems;Banking and Financial Institutions;Foreclosures;GMAC LLC;Subprime Mortgage Crisis;Morgan Stanley;Federal Reserve System;Subprime Mortgage Crisis;United States Politics and Government;Mortgages;Real Estate and Housing (Residential);United States Economy;Andrew J. Kleinfeld;Decisions and Verdicts;Bone Marrow;Stem Cells;Transplants;Suits and Litigation;Campaign Finance;Elections;House of Representatives;Law and Legislation;Presidential Elections (US);Colleges and Universities;Champion; Robert;Marching Bands;Florida;Hazing;Florida A&M University;Demonstrations; Protests; and Riots;Occupy Wall Street;Boston (Mass);McIntyre; Frances;Transgender and Transsexual;United States Defense and Military Forces;Bullies;Religion and Belief;Homosexuality;Teenagers and Adolescence;Iraq War (2003- );Deaths (Fatalities);Afghanistan War (2001- );Campaign Finance;Romney; Mitt;Elections;Presidential Election of 2012;Politics and Government;Mormons (Church of Jesus Christ of Latter-Day Saints);United States Economy;Michigan;Santa Claus;Finances;Texas;Decisions and Verdicts;Taxation;Education (K-12);Economic Conditions and Trends;Foster Care;Poverty;Texas;Child Abuse and Neglect;Layoffs and Job Reductions;Education (K-12);United States Politics and Government;Campaign Finance;Reform and Reorganization;Chicago (Ill);Stand for Children;Art;Graffiti;Chicago (Ill);Oakland (Calif);Pop-Up Stores and Restaurants;Shopping and Retail;University of California;Newsom; Gavin;California State University;California;Demonstrations; Protests; and Riots;Tuition";
+		var dynamic_kw = "Renting+and+Leasing+%28Real+Estate%29;Series;Wells;Hydraulic+Fracturing;Chesapeake+Energy+Corporation;Oil+%28Petroleum%29+and+Gasoline;Water+Pollution;Land+Use+Policies;Drilling+and+Boring;Cabot+Oil+%26+Gas+Corporation;Water;Natural+Gas;Post-Traumatic+Stress+Disorder;United+States+Defense+and+Military+Forces;Veterinary+Medicine;Dogs;Afghanistan+War+%282001-+%29;Iraq+War+%282003-+%29;Economic+Conditions+and+Trends;Philanthropy;Jews+and+Judaism;Recession+and+Depression;Rafferty;+Brogan;Ohio;Beasley;+Richard+J.;Online+Advertising;Murders+and+Attempted+Murders;Classified+Advertising;Labor+and+Jobs;Craigslist;Acquired+Immune+Deficiency+Syndrome;Global+Fund+to+Fight+AIDS;+Tuberculosis+and+Malaria;Obama;+Barack;Los+Angeles+%28Calif%29;Power+Outages+and+Blackouts;Oxnard+%28Calif%29;Disasters+and+Emergencies;Pasadena+%28Calif%29;Wind;California;National+Weather+Service;Mines+and+Mining;Virginia+Uranium;Chatham+%28Va%29;Virginia;Uranium;Water+Pollution;Coles;+Walter;Nuclear+Energy;Presidential+Election+of+2012;Romney;+Mitt;Republican+Party;Gingrich;+Newt;Obama;+Barack;Democratic+Party;Income+Inequality;Republican+Party;Presidential+Election+of+2012;United+States+Politics+and+Government;Payroll+Tax;Obama;+Barack;Campaign+Finance;Edwards;+John;Sexual+Harassment;Richardson;+Bill;New+Mexico;Presidential+Election+of+2012;Arizona;Hispanic-Americans;Illegal+Immigrants;Immigration+and+Emigration;Obama;+Barack;Cain;+Herman;Presidential+Election+of+2012;United+States+Politics+and+Government;Roemer;+Buddy;United+States+Politics+and+Government;Presidential+Elections+%28US%29;United+States+Defense+and+Military+Forces;Law+and+Legislation;Al+Qaeda;Terrorism;Senate;Detainees;United+States+Politics+and+Government;Layoffs+and+Job+Reductions;Michigan;Bing;+Dave;Budgets+and+Budgeting;Snyder;+Richard+Dale;Detroit+%28Mich%29;Politics+and+Government;Clean+Air+Act;Power+Outages+and+Blackouts;Regulation+and+Deregulation+of+Industry;Energy+Department;Air+Pollution;North+American+Electric+Reliability+Corp;Electric+Light+and+Power;Environmental+Protection+Agency;United+States+Politics+and+Government;Baby+Boomers;Population;Elderly;Census;Census+Bureau;Wages+and+Salaries;Unemployment;Layoffs+and+Job+Reductions;United+States+Economy;Rutgers;+The+State+University+of+New+Jersey;Labor+and+Jobs;Same-Sex+Marriage;+Civil+Unions+and+Domestic+Partnerships;Cuomo;+Andrew+M;Campaign+Finance;Politics+and+Government;New+York+State;bin+Laden;+Osama;Al+Qaeda;Zawahri;+Ayman+Al-;Weinstein;+Warren;Terrorism;Hostages;Kidnapping;Pakistan;United+States;Bridges+and+Tunnels;Drugs+%28Pharmaceuticals%29;Tijuana+%28Mexico%29;Drug+Abuse+and+Traffic;United+States;Massachusetts;Suits+and+Litigation;Mortgages;Wells+Fargo+%26+Company;Coakley;+Martha+M;Citigroup+Inc;JPMorgan+Chase+%26+Company;Bank+of+America+Corporation;Mortgage+Electronic+Registration+Systems;Banking+and+Financial+Institutions;Foreclosures;GMAC+LLC;Subprime+Mortgage+Crisis;Morgan+Stanley;Federal+Reserve+System;Subprime+Mortgage+Crisis;United+States+Politics+and+Government;Mortgages;Real+Estate+and+Housing+%28Residential%29;United+States+Economy;Andrew+J.+Kleinfeld;Decisions+and+Verdicts;Bone+Marrow;Stem+Cells;Transplants;Suits+and+Litigation;Campaign+Finance;Elections;House+of+Representatives;Law+and+Legislation;Presidential+Elections+%28US%29;Colleges+and+Universities;Champion;+Robert;Marching+Bands;Florida;Hazing;Florida+A%26M+University;Demonstrations;+Protests;+and+Riots;Occupy+Wall+Street;Boston+%28Mass%29;McIntyre;+Frances;Transgender+and+Transsexual;United+States+Defense+and+Military+Forces;Bullies;Religion+and+Belief;Homosexuality;Teenagers+and+Adolescence;Iraq+War+%282003-+%29;Deaths+%28Fatalities%29;Afghanistan+War+%282001-+%29;Campaign+Finance;Romney;+Mitt;Elections;Presidential+Election+of+2012;Politics+and+Government;Mormons+%28Church+of+Jesus+Christ+of+Latter-Day+Saints%29;United+States+Economy;Michigan;Santa+Claus;Finances;Texas;Decisions+and+Verdicts;Taxation;Education+%28K-12%29;Economic+Conditions+and+Trends;Foster+Care;Poverty;Texas;Child+Abuse+and+Neglect;Layoffs+and+Job+Reductions;Education+%28K-12%29;United+States+Politics+and+Government;Campaign+Finance;Reform+and+Reorganization;Chicago+%28Ill%29;Stand+for+Children;Art;Graffiti;Chicago+%28Ill%29;Oakland+%28Calif%29;Pop-Up+Stores+and+Restaurants;Shopping+and+Retail;University+of+California;Newsom;+Gavin;California+State+University;California;Demonstrations;+Protests;+and+Riots;Tuition";
+		var nyt_google_contents = dynamic_kw + static_kw;
+		var nyt_google_ad_channel = "us";
+	</script>
+<script type="text/javascript" src="http://use.typekit.com/fml4qar.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" src="http://js.nyt.com/js2/build/sitewide/sitewide.js"></script>
+<script type="text/javascript" src="http://js.nyt.com/js/app/lib/jquery/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+</head>
+<body>
+<a name="top"></a>
+<div id="shell">
+
+<ul id="memberTools">
+
+<!-- start text link -->
+<li class="cColumn-TextAdsHeader">Subscribe:
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/national/index.html&pos=Bar1&sn2=3ba4f8e3/3f615cc5&sn1=2407a328/96bf5462&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-digi-hd-d3847U-h3847W&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fsubscriptions%2FMultiproduct%2Flp5558%2Ehtml%3Fadxc%3D162578%26adxa%3D267524%26page%3Dwww.nytimes.com/pages/national/index.html%26pos%3DBar1%26campaignId%3D3847U" target="_blank">
+Digital</a> / <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/national/index.html&pos=Bar1&sn2=3ba4f8e3/3f615cc5&sn1=8c0204ae/f0584be3&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-digi-hd-d3847U-h3847W&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DW47AF%26CMP%3D3847W" target="_blank">Home Delivery</a>
+</li>
+<!-- end text link -->
+
+ 
+                        <li><a id="memberToolsLogin" href="https://myaccount.nytimes.com/auth/login">Log In</a></li>
+            <li><a href="https://myaccount.nytimes.com/gst/regi.html">Register Now</a></li>
+                            
+
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+</ul>
+<div class="tabsContainer">
+<ul id="mainTabs" class="tabs">
+<li class="first mainTabHome"><a href="http://www.nytimes.com">Home Page</a></li>
+<li class="mainTabTodaysPaper"><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+<li class="mainTabVideo"><a href="http://www.nytimes.com/video">Video</a></li>
+<li class="mainTabMostPopular"><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+<li class="mainTabTimesTopics"><a href="http://topics.nytimes.com/top/reference/timestopics">Times Topics</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+</script>	<div id="page" class="tabContent active">
+<div class="clearfix" id="masthead">
+
+<div class="singleAd" id="Middle1C">
+<!-- ADXINFO classification="button" campaign="ING_DirectSiteSearchQ111_1694929-nyt1"--><A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/national/index.html&pos=Middle1C&sn2=32cdb7a2/14b63d36&sn1=59756299/46b02203&camp=ING_DirectSiteSearchQ111_1694929-nyt1&ad=NEW.88x31.SiteSearch.Wizard&goto=http://ad.doubleclick.net/jump/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.29" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.29"
+ BORDER=0 WIDTH=88 HEIGHT=31
+ ALT="Click Here"></A>
+</div>
+
+<div id="searchWidget">
+<div class="inlineSearchControl">
+<form enctype="application/x-www-form-urlencoded" action="http://query.nytimes.com/search/sitesearch" method="get" name="searchForm" id="searchForm">
+<input type="hidden" value="full" name="date_select"/>
+<label for="searchQuery">Search All NYTimes.com</label>
+<input type="text" class="text" value="" size="" name="query" id="searchQuery"/>
+<input type="hidden" id="searchAll" name="type" value="nyt"/>
+<input type="image" id="searchSubmit" title="Search" alt="Search" width="22" height="19" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"/>
+</form>
+</div>
+</div>
+
+<div id="branding" >
+<a href="http://www.nytimes.com"><img src="http://graphics8.nytimes.com/images/misc/nytlogo152x23.gif" alt="New York Times" id="NYTLogo"/></a>
+</div>
+
+<div id="date">
+<p>
+Friday, December  2, 2011
+</p>
+</div>
+
+<h2>
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</h2>
+
+</div>
+<div class="navigation tabsContainer">
+<ul class="tabs">
+<li id="navWorld" class="first ">
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>	<li id="navUs" class="selected">
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+<ul class="subNavigation"><li id="subNav_politics"><a href="http://www.nytimes.com/pages/politics/index.html">Politics</a></li><li id="subNav_education"><a href="http://www.nytimes.com/pages/education/index.html">Education</a></li><li id="subNav_bayarea"><a href="http://www.nytimes.com/bayarea/index.html">Bay Area</a></li><li id="subNav_chicago"><a href="http://www.nytimes.com/Chicago/index.html">Chicago</a></li><li id="subNav_texas"><a href="http://www.nytimes.com/texas">Texas</a></li></ul></li>	<li id="navNyregion" >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>	<li id="navBusiness" >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>	<li id="navTechnology" >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>	<li id="navScience" >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>	<li id="navHealth" >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>	<li id="navSports" >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>	<li id="navOpinion" >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>	<li id="navArts" >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>	<li id="navStyle" >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>	<li id="navTravel" >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>	<li id="navJobs" >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>	<li id="navRealestate" >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>	<li id="navAutomobiles" >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li></ul>
+</div>
+
+<div class="singleAd" id="TopAd">
+<!-- ADXINFO classification="leaderboard_728" campaign="PaulMcCartney_1781768_nyt9"--><script src="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=rsb&c=28&pli=3570975&PluID=0&w=728&h=90&ord=2011.12.02.18.04.29&ucm=true&z=1"></script>
+
+<noscript>
+
+<a href="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=brd&FlightID=3570975&Page=&PluID=0&Pos=8826" target="_blank"><img src="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=bsr&FlightID=3570975&Page=&PluID=0&Pos=8826" border=0 width=728 height=90></a>
+
+</noscript>
+</div>
+
+<div id="main">
+<div class="spanAB wrap">
+<div class="wideA">
+<div class="abColumn">
+<div class="aColumn">
+<!--cur:LedeStory395 prev:-->
+<div class="columnGroup first">
+<div class="ledeStory">
+<div class="storyHeader">
+<h6 class="kicker">Drilling Down</h6>
+<h1><a href="http://www.nytimes.com/2011/12/02/us/drilling-down-fighting-over-oil-and-gas-well-leases.html?ref=us">
+Learning Too Late of Perils in Gas Well Leases</a></h1>
+<h6 class="byline">
+By IAN URBINA and JO CRAVEN McGINTY            </h6>
+</div>
+<div class="ledePhoto">
+<div class="image">
+<a href="http://www.nytimes.com/2011/12/02/us/drilling-down-fighting-over-oil-and-gas-well-leases.html?ref=us"><img src="http://graphics8.nytimes.com/images/2011/12/02/us/Leases/Leases-sfSpan.jpg" border="0" width="395" height="245" alt="Jared Ely near gas wells leased on his family's land near Dimock, Pa. His father, Scott, says the leases should have been clearer." /></a>
+</div>
+<h6 class="credit">Ruth Fremson/The New York Times</h6>
+<p class="caption">Jared Ely near gas wells leased on his family's land near Dimock, Pa. His father, Scott, says the leases should have been clearer.</p>
+</div>
+<p class="summary">
+Americans have signed millions of leases allowing oil and gas companies to drill on their land, but some landowners are finding out the hard way what their contracts actually say.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/interactive/2011/12/02/us/oil-and-gas-leases.html"><span class="icon document">Document Viewer</span>: Oil and Gas Leases</a></li>
+<li><a href="http://www.nytimes.com/interactive/us/DRILLING_DOWN_SERIES.html"> Previous Articles in the Series »</a></li>
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001202831" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/02/us/drilling-down-fighting-over-oil-and-gas-well-leases.html"></span></li>
+</ul>
+</div>
+</div>
+<!--cur:StandardThumb prev:LedeStory395-->
+<div class="columnGroup ">
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/us/more-military-dogs-show-signs-of-combat-stress.html?ref=us">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/us/02canine/02canine-thumbStandard-v2.jpg" width="75" height="75" alt="Dereck Stevens bonds with his military working dog before a practice drill at Lackland Air Force Base in San Antonio." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/us/more-military-dogs-show-signs-of-combat-stress.html?ref=us">
+After Duty, Dogs Suffer Like Soldiers</a></h3>
+<h6 class="byline">
+By JAMES DAO	    </h6>
+<p class="summary">
+At least 5 percent of the 650 dogs used by American combat forces in Iraq and Afghanistan are struggling with post-traumatic stress disorder.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/12/02/us/more-military-dogs-show-signs-of-combat-stress.html#postcomment"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="Comment" style="margin-right: 3px; padding-top: 3px;" border="0">Post a Comment</a> | <a href="http://www.nytimes.com/2011/12/02/us/more-military-dogs-show-signs-of-combat-stress.html#commentsContainer">Read <span class="commentCountText" articleid="100000001201525"></span></a> | <a href="http://www.nytimes.com/slideshow/2011/12/01/us/20111202-canine-ss.html"><span class="icon slideshow">Slide Show</span>: The Dogs of War</a></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">On Religion</h6>
+<h3><a href="http://www.nytimes.com/2011/12/03/us/a-traditional-jewish-loan-program-helps-ease-pain-of-tough-economic-times.html?ref=us">
+A Traditional Jewish Loan Program Helps Ease Pain of Tough Economic Times</a></h3>
+<h6 class="byline">
+By SAMUEL G. FREEDMAN				<span class="timestamp">10:59 AM ET</span>
+</h6>
+<p class="summary">
+As the economic downturn drives up the number of middle-class Jews struggling to make ends meet, an Atlanta rabbi starts a free-loan program called a gemach.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/us/three-lured-to-death-in-ohio-by-craigslist-job-ad.html?ref=us">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/us/CRAIGLIST-2/CRAIGLIST-2-thumbStandard.jpg" width="75" height="75" alt="Richard Beasley is suspected in the murders of three men who responded to a phony advertisement posted on Craigslist to tend a farm." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/us/three-lured-to-death-in-ohio-by-craigslist-job-ad.html?ref=us">
+Craigslist Used in Deadly Ploy to Lure Victims in Ohio</a></h3>
+<h6 class="byline">
+By ERICA GOODE	    </h6>
+<p class="summary">
+Officials in Noble County, in rural southern Ohio, were alerted to the crimes after one man escaped with a gunshot wound to his arm.</p>
+<ul class="refer">
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001202807" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/02/us/three-lured-to-death-in-ohio-by-craigslist-job-ad.html"></span></li>
+</ul>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/12/02/us/politics/obama-says-he-will-seek-more-money-for-aids-programs.html?ref=us">
+Obama Says He Will Seek More Money for AIDS Programs</a></h3>
+<h6 class="byline">
+By JACKIE CALMES	    </h6>
+<p class="summary">
+The action won praise for the president from activists who have criticized him in the past.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/us/santa-ana-winds-buffet-california.html?ref=us">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/us/WIND/WIND-thumbStandard.jpg" width="75" height="75" alt="In Pasadena, at least 40 buildings were so damaged by heavy winds that they will have to be torn down, officials said." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/us/santa-ana-winds-buffet-california.html?ref=us">
+Santa Ana Winds, Unusually Strong, Rattle More Than Nerves in California</a></h3>
+<h6 class="byline">
+By JENNIFER MEDINA	    </h6>
+<p class="summary">
+The winds, much more powerful than usual, snapped trees, damaged buildings and knocked power out for tens of thousands of people.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/business/energy-environment/coles-hill-uranium-mine-proposal-divides-virginia-residents.html?ref=us">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/us/URANIUM-2/URANIUM-2-thumbStandard.jpg" width="75" height="75" alt="Virginia Uranium has been pushing to open a mine in Chatham, but there is opposition." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/business/energy-environment/coles-hill-uranium-mine-proposal-divides-virginia-residents.html?ref=us">
+A Big Uranium Deposit, and a Big Debate on Mining It</a></h3>
+<h6 class="byline">
+By THEO EMERY	    </h6>
+<p class="summary">
+A proposed uranium mine has thrust Virginia into a national debate over energy security, nuclear power and the environment.</p>
+</div>
+</div>
+<!--cur:LedeStory190 prev:StandardThumb-->
+<div class="columnGroup singleRule ">
+<h6 class="sectionHeader">Campaign 2012</h6><div class="ledeStory">
+<div class="ledePhoto runaroundRight w190">
+<div class="image"> 
+<a href="http://www.nytimes.com/2011/12/02/us/politics/republican-leaders-still-seem-torn-about-mitt-romney.html?ref=us"><img border="0" height="131" width="190" alt="Mitt Romney addressing supporters in Troy, Mich., last month. His effort to create an air of inevitability has been undercut." src="http://graphics8.nytimes.com/images/2011/12/02/us/JP-REPUBS-1/JP-REPUBS-1-articleInline.jpg"/></a>
+</div>
+<h6 class="credit">Fabrizio Costantini for The New York Times</h6>
+<p class="caption">Mitt Romney addressing supporters in Troy, Mich., last month. His effort to create an air of inevitability has been undercut.</p>
+</div>
+<div class="storyHeader">
+<h1><a href="http://www.nytimes.com/2011/12/02/us/politics/republican-leaders-still-seem-torn-about-mitt-romney.html?ref=us">Republican Leaders Still Seem Torn About Romney</a></h1>
+<h6 class="byline">
+By JEFF ZELENY                    </h6>
+</div>
+<p class="summary">
+Republicans, though bullish about their party’s chances of winning the White House, are coming to the conclusion that their nominee will carry substantial flaws into the general election.</p>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/top/reference/timestopics/people/r/mitt_romney/index.html">Times Topic: Mitt Romney</a>
+</li>
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001202901" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/02/us/politics/republican-leaders-still-seem-torn-about-mitt-romney.html"></span></li>
+</ul>
+</div>
+<div class="storyFollowsLede">
+<h3><a href="http://www.nytimes.com/2011/12/02/us/politics/democrats-look-to-payroll-issue-for-upper-hand.html?ref=us">
+Democrats See an Advantage in Debate Over Payroll Tax</a></h3>
+<h6 class="byline">
+By JACKIE CALMES 
+</h6>
+<p class="summary">
+Senate Democrats have put proud antitax Republicans in the position of opposing a tax cut for the middle-class because it comes with a surtax on higher earners.</p>
+<ul class="refer">
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001202889" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/02/us/politics/democrats-look-to-payroll-issue-for-upper-hand.html"></span></li>
+</ul>
+</div>
+</div>
+<!--cur:HeadlineOnly prev:LedeStory190-->
+<div class="columnGroup singleRule ">
+<h3 class="sectionHeader">More Politics News</h3>
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/ex-governor-bill-richardson-is-said-to-be-under-investigation.html?ref=us">
+Ex-Governor Is Said to Be Focal Point of Inquiry</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/politics/with-boom-in-hispanic-voters-obama-sees-opportunity-in-arizona.html?ref=us">
+Obama to Vie for Arizona as Latino Numbers Rise</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/politics/the-tantalizing-lure-of-the-outsider-candidate.html?ref=us">
+Political Times: The Tantalizing Lure of the Outsider Candidate</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://thecaucus.blogs.nytimes.com/2011/12/01/cain-tells-of-aiding-accuser-without-informing-his-wife/?ref=us">
+Cain Says He Aided Accuser Without Telling His Wife</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://thecaucus.blogs.nytimes.com/2011/12/01/romney-to-start-advertising-in-iowa/?ref=us">
+Romney Starting to Advertise in Iowa</a>
+</h6>
+</li>
+</ul>
+</div>
+<!--cur:HeadlineOnly prev:HeadlineOnly-->
+<div class="columnGroup singleRule ">
+<h3 class="sectionHeader">More National News</h3>
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/03/us/03iht-currents03.html?ref=us">
+On Sidelines, Candidate Speaks Freely</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/senate-declines-to-resolve-issue-of-american-qaeda-suspects-arrested-in-us.html?ref=us">
+Senate Declines to Clarify Rights of American Qaeda Suspects Arrested in U.S.</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/in-detroit-a-bid-to-prevent-a-state-takeover.html?ref=us">
+In Detroit, an Effort to Prevent a State Takeover</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/science/earth/dispute-over-new-air-pollution-rules-for-power-plants.html?ref=us">
+New Air Quality Rules for Power Plants in Dispute</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/census-finds-larger-portion-of-older-people.html?ref=us">
+Older People Are a Larger Portion of U.S. Population</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/business/for-jobless-little-hope-of-full-recovery-study-says.html?ref=us">
+For Jobless, Little Hope of Restoring Better Days</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/nyregion/cuomo-fund-fills-with-money-from-thankful-gay-donors.html?ref=us">
+After Pushing Gay Marriage, Cuomo Is Thanked With Money</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/world/asia/leader-says-qaeda-holds-abducted-american-aid-worker.html?ref=us">
+Leader Says Qaeda Holds Abducted American Aid Worker</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/world/americas/despite-raids-tijuana-tunnels-keep-humming-underground.html?ref=us">
+Tijuana Journal: Raids Don’t Keep Tunnel City From Humming Underground</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/business/major-banks-face-new-foreclosure-suit.html?ref=us">
+Massachusetts Sues 5 Major Banks Over Foreclosure Practices</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/business/time-to-accelerate-the-housing-recovery-floyd-norris.html?ref=us">
+High & Low Finance: Time to Accelerate the Housing Recovery</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/health/policy/some-stem-cell-donors-can-be-paid-court-rules.html?ref=us">
+Court Says Some Donors of Stem Cells Can Be Paid</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/politics/house-votes-to-end-financing-for-presidential-campaigns.html?ref=us">
+House Votes to End Financing for Presidential Campaigns</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/florida-4-students-dismissed-in-death.html?ref=us">
+Florida: 4 Students Dismissed in Death</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/massachusetts-occupy-boston-camp-allowed-to-stay.html?ref=us">
+Massachusetts: Camp Allowed to Stay</a>
+</h6>
+</li>
+</ul>
+</div>
+<!--cur:StandardThumb prev:HeadlineOnly-->
+<div class="columnGroup singleRule ">
+<h6 class="sectionHeader">Recent Series</h6><div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/09/18/us/autistic-and-seeking-a-place-in-an-adult-world.html?ref=us">
+<img src="http://graphics8.nytimes.com/images/2011/09/18/us/jpAUTISM1/jpAUTISM1-thumbStandard-v2.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/09/18/us/autistic-and-seeking-a-place-in-an-adult-world.html?ref=us">
+Autism, Grown Up</a></h3>
+<h6 class="byline">
+By AMY HARMON	    </h6>
+<p class="summary">
+Justin Canha, a young artist with autism, prepares for life as an independent adult.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://topics.nytimes.com/top/news/us/series/race_remixed/index.html?ref=us">
+<img src="http://graphics8.nytimes.com/images/2011/03/20/us/20race-span/20race-span-thumbStandard-v2.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://topics.nytimes.com/top/news/us/series/race_remixed/index.html?ref=us">
+Race Remixed</a></h3>
+<h6 class="byline">
+By SUSAN SAULNY	    </h6>
+<p class="summary">
+Articles in this series explore the growing number of mixed-race Americans.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://topics.nytimes.com/top/news/us/series/drilling_down/index.html?ref=us">
+<img src="http://graphics8.nytimes.com/images/2011/03/01/us/01gas_cnd/01gas_cnd-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://topics.nytimes.com/top/news/us/series/drilling_down/index.html?ref=us">
+Drilling Down</a></h3>
+<h6 class="byline">
+By IAN URBINA	    </h6>
+<p class="summary">
+The Drilling Down series examines the risks of natural-gas drilling and efforts to regulate this rapidly growing industry.</p>
+</div>
+<div class="singleRuleDivider"></div>
+</div>
+<!--cur:StandardThumb prev:StandardThumb-->
+<div class="columnGroup ">
+<h6 class="sectionHeader">Multimedia</h6><div class="story">
+<div class="thumbnail">
+<a href="http://projects.nytimes.com/census/2010/explorer?ref=us">
+<img src="http://graphics8.nytimes.com/images/2010/12/15/us/censusimg/censusimg-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://projects.nytimes.com/census/2010/explorer?ref=us">
+<span class="media icon interactive">Interactive Map: </span>
+Every City, Every Block</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Browse data from the Census Bureau’s American Community Survey, based on samples from 2005 to 2009.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2010/12/15/us/15census.html">Immigrant Path to Suburbia</a></li>
+<li><a href="http://www.nytimes.com/2010/12/15/us/15censusside.html">A Sampling of Highs and Lows</a></li>
+<li><a href="http://www.nytimes.com/2010/12/15/nyregion/15nycensus.html">Region Is Reshaped</a></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/05/23/us/20110523-coming-out.html?ref=us">
+<img src="http://graphics8.nytimes.com/images/2011/05/16/us/thumb75.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/05/23/us/20110523-coming-out.html?ref=us">
+<span class="media icon interactive">Interactive Feature: </span>
+Coming Out</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Gay, lesbian, bisexual and transgender teenagers talk about their lives in this weeklong series.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/interactive/2011/05/23/us/20110523-coming-out.html#story/user_story_1">Stories From Readers</a> </li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/us/faces-of-the-dead.html?ref=us">
+<img src="http://graphics8.nytimes.com/images/2010/03/19/us/dead-75.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/us/faces-of-the-dead.html?ref=us">
+<span class="media icon interactive">Interactive Feature: </span>
+Faces of the Dead</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+As we mark the seventh anniversary of the U.S.-led invasion of Iraq, we remember the fallen service members who lost their lives in Iraq and Afghanistan.</p>
+</div>
+</div>
+<!--cur:CustomHeadlines prev:StandardThumb-->
+<div class="columnGroup singleRule last">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="" title="">
+</a> 
+</h3> <div class="story first">
+<div class="calendarLinks box insetV wrap">
+<div class="inset">
+<h3 class="sectionHeader">U.S. Headlines</h3>
+</div>
+<div class="subColumns module">
+<div class="subColumnA">
+<div class="insetH">
+<h6 class="kicker">from the past 7 days</h6>
+<table cellspacing="5" cellpadding="0" class="TwoWeekCalendar" id="TwoWeekCalendar-ab">
+<tbody>
+<tr><th>S</th><th>M</th><th>T</th><th>W</th><th>T</th><th>F</th><th>S</th></tr>
+<tr>
+<td>20</td>
+<td>21</td>
+<td>22</td>
+<td>23</td>
+<td>24</td>
+<td>25</td>
+<td>
+<a class="currentWeek" href="http://query.nytimes.com/search/query?query=November+26+2011&d=nytdsection%2b&o=e%2b&v=U.S.%2b&c=a">26</a>
+</td>
+</tr>
+<tr>
+<td>
+<a class="currentWeek" href="http://query.nytimes.com/search/query?query=November+27+2011&d=nytdsection%2b&o=e%2b&v=U.S.%2b&c=a">27</a>
+</td>
+<td>
+<a class="currentWeek" href="http://query.nytimes.com/search/query?query=November+28+2011&d=nytdsection%2b&o=e%2b&v=U.S.%2b&c=a">28</a>
+</td>
+<td>
+<a class="currentWeek" href="http://query.nytimes.com/search/query?query=November+29+2011&d=nytdsection%2b&o=e%2b&v=U.S.%2b&c=a">29</a>
+</td>
+<td>
+<a class="currentWeek" href="http://query.nytimes.com/search/query?query=November+30+2011&d=nytdsection%2b&o=e%2b&v=U.S.%2b&c=a">30</a>
+</td>
+<td>
+<a class="currentWeek" href="http://query.nytimes.com/search/query?query=December+01+2011&d=nytdsection%2b&o=e%2b&v=U.S.%2b&c=a">1</a>
+</td>
+<td>
+<a class="currentDay" href="http://query.nytimes.com/search/query?query=December+02+2011&d=nytdsection%2b&o=e%2b&v=U.S.%2b&c=a">2</a>
+</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div><!--close subColumnA -->
+<div class="subColumnB">
+<div class="insetH">
+<div class="inlineSearchControl">
+<form id="searchForm" name="searchForm" method="get" action="http://query.nytimes.com/gst/sitesearch_selector.html" enctype="application/x-www-form-urlencoded">
+<label for="KeywordDate2" class="kicker">enter keyword or date</label>
+<input type="text" id="KeywordDate2" class="text" name="query" size="20"/><input type="hidden" name="date_select" value="full"/><input type="hidden" name="type" value="us"/> <input type="image" id="Go" title="Go" alt="Go" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"/>
+<div class="smallCaption">e.g. April 21, 2001</div>
+</form>
+</div><!--close inlineSearchControl -->
+</div>
+</div><!--close subColumnB -->
+</div>
+</div><!--close calendarLinks -->
+</div>
+</div><!--close div.relatedStories -->
+</div>
+<div id="adxSponLink" class="columnGroup singleRule"></div>
+</div><!--close .aColumn -->
+<div class="bColumn">
+<div class="columnGroup SectionFront3Col first">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<h6 class="sectionHeader">Occupy Wall Street</h6>
+<div class="columnGroup first">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://submit.nytimes.com/ninety-nine?ref=us">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/us/ninety-nine-promo/ninety-nine-promo-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+</a>
+</div>
+<h5><a href="http://submit.nytimes.com/ninety-nine?ref=us">
+Send Us Your ‘99 Percent’ Photos</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+It is a phrase that has become ingrained in the cultural lexicon. Send us pictures of signs, slogans, advertisements, billboards and other uses of the words “the 99 percent” (or “the 1 percent”).</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/12/01/us/we-are-the-99-percent-joins-the-cultural-and-political-lexicon.html">Related Article</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup singleRule last">
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/packages/css/multimedia/bundles/2011-ows-grid-promo.css"/>
+<script type="text/javascript" src="http://graphics8.nytimes.com/packages/js/multimedia/bundles/2011-ows-grid-promo.js"></script>
+<div id="owsGridPromo"> </div>
+<script type="text/javascript" charset="utf-8">
+
+NYTMM.OWSGridPromo.init($("owsGridPromo"), 190, 126);
+
+</script>
+<script type="text/javascript" charset="utf-8" src="http://int-shared-data.nytimes.com.s3.amazonaws.com/ows/ows.jsonp"></script>
+<br/>
+<div class="story"><h5><a href="http://www.nytimes.com/interactive/2011/11/09/us/ows-grid.html"><img src="http://graphics8.nytimes.com/images/multimedia/icons/interactive_icon.gif" alt="Interactive" width="9" height="9" border="0"> Interactive Feature: Share Your Opinion of the Occupy Movement</a></h5><p class="summary">What are your thoughts about the movement? Do you agree with the protesters’ methods? </p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/interactive/2011/11/09/us/ows-grid.html"> Share Your Opinion »</a></li></ul></div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">From the Magazine</h6><div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/04/magazine/mitt-romney-bot.html?ref=us">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/magazine/04romney_span/04romney_span-thumbStandard-v3.jpg" width="75" height="75" alt="At the Peterborough Town House in New Hampshire last month." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/04/magazine/mitt-romney-bot.html?ref=us">
+Building a Better Mitt Romney-Bot</a></h3>
+<h6 class="byline">
+By ROBERT DRAPER	    </h6>
+<p class="summary">
+His camp doesn’t need to turn their guy into someone you’d have a beer with. They just need to eliminate the bugs in the machine.</p>
+<ul class="refer">
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001194423" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/04/magazine/mitt-romney-bot.html"></span></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<h6 class="sectionHeader flushBottom">Multimedia</h6>
+<div class="columnGroup firstArticleInline">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://video.nytimes.com/video/2011/11/27/us/100000001152311/educating-santa.html?ref=us">
+<img src="http://graphics8.nytimes.com/images/2011/11/05/us/video-santaschool/video-santaschool-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay video">Video</span>
+</a>
+</div>
+<h5><a href="http://video.nytimes.com/video/2011/11/27/us/100000001152311/educating-santa.html?ref=us">
+Educating Santa</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+The Charles W. Howard Santa Claus school in Midland, Mich., teaches aspiring Santas everything from dance lessons to beard grooming.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/slideshow/2011/11/24/us/20111125_SANTA.html"><span class="icon slideshow">Slide Show</span></a> | <a href="http://www.nytimes.com/2011/11/28/us/santas-taught-new-lessons-amid-economic-slump.html">Related Article</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<div class="columnGroup first">
+<div class="columnGroup first">
+<div style="margin: 0pt 0pt 8px;"><a href="http://www.nytimes.com/interactive/world/battalion.html#/NYT"><img src="http://graphics8.nytimes.com/images/2010/06/27/us/190ayearatwar/190ayearatwar-articleInline-v2.gif" alt="A Year at War"/></a></div>
+</div>
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/world/battalion.html#/NYT/Features/37">
+<img src="http://graphics8.nytimes.com/images/2011/05/29/us/soldiers/soldiers-articleInline.jpg" border="0" height="126" width="190"/>
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/05/29/us/29soldiers.html">The End of the Mission</a></h3>
+<h6 class="byline">
+By JAMES DAO</h6>
+<p class="summary">
+For some soldiers, returning after their yearlong deployment to Afghanistan was the beginning of new difficulties.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/interactive/world/battalion.html"><img src="http://graphics8.nytimes.com/images/multimedia/icons/interactive_icon.gif" alt="Interactive" border="0" height="9" width="9"/> Interactive Feature: A Year at War</a></li>
+</ul>
+</div>        	</div>
+</div>
+<div class="columnGroup doubleRule ">
+<ul class="headlinesOnly multiline flush">
+<div style="background-color:#fff; margin:-16px 0 10px 0; z-index:1; position:relative;">
+<div class="story">  
+<div class="wideThumb" style="margin-bottom:8px;">
+<a href="http://topics.nytimes.com/top/news/national/usstatesterritoriesandpossessions/texas/index.html"><img src="http://graphics8.nytimes.com/packages/images/national/texas_190.gif" alt="Texas Report" border="0" height="12" width="190"></a>
+</div>
+<h5><a href="http://topics.nytimes.com/top/news/national/usstatesterritoriesandpossessions/illinois/chicago-news-cooperative/index.html">
+</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">Expanded coverage of Texas is provided by The Texas Tribune. </p>
+</div>
+</div>                    <li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/schools-are-resigned-to-robin-hood.html?ref=us">
+Schools Are Resigned to Robin Hood</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/poor-economy-leaves-more-children-at-risk.html?ref=us">
+Poor Economy Leaves More Children at Risk</a>
+</h6>
+</li>
+<div class="refer"><a href="http://topics.nytimes.com/top/news/national/usstatesterritoriesandpossessions/texas/index.html">Full Coverage » </a></div>            </ul>
+</div>
+<div class="columnGroup doubleRule ">
+<ul class="headlinesOnly multiline flush">
+<div style="background-color:#fff; margin:-16px 0 10px 0; z-index:1; position:relative;">
+<div class="story">  
+<div class="wideThumb" style="margin-bottom:8px;">
+<a href="http://topics.nytimes.com/top/news/national/usstatesterritoriesandpossessions/illinois/chicago-news-cooperative/index.html"><img src="http://graphics8.nytimes.com/images/2009/11/19/us/chicago_190.gif" alt="Chicago Report" border="0" height="12" width="190"></a>
+</div>
+<h5><a href="http://topics.nytimes.com/top/news/national/usstatesterritoriesandpossessions/illinois/chicago-news-cooperative/index.html">
+</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">Expanded coverage of the Chicago area is produced by the Chicago News Cooperative. </p>
+</div></div>                    <li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/education-group-tries-to-rebound-after-diatribe.html?ref=us">
+Education Group Tries to Rebound After Diatribe</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/formerly-graffiti-outlaws-now-artists-of-renown.html?ref=us">
+Formerly Outlaws, Now Artists of Renown</a>
+</h6>
+</li>
+<div class="refer"><a href="http://topics.nytimes.com/top/news/national/usstatesterritoriesandpossessions/illinois/chicago-news-cooperative/index.html">Full Coverage » </a></div>            </ul>
+</div>
+<div class="columnGroup doubleRule ">
+<ul class="headlinesOnly multiline flush">
+<div style="background-color:#fff; margin:-16px 0 10px 0; z-index:1; position:relative;">
+<div class="story">  
+<div class="wideThumb" style="margin-bottom:8px;">
+<a href="http://topics.nytimes.com/topics/news/national/usstatesterritoriesandpossessions/california/sanfranciscobayarea/index.html"><img src="http://graphics8.nytimes.com/images/2010/07/16/us/bayarea_190.gif" alt="Bay Area Report" border="0" height="12" width="190"></a>
+</div>
+<h5><a href="http://topics.nytimes.com/topics/news/national/usstatesterritoriesandpossessions/california/sanfranciscobayarea/index.html">
+</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">Expanded coverage of the San Francisco Bay Area is produced by The Bay Citizen, a nonprofit news organization. </p>
+</div></div>                    <li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/popuphood-opens-temporary-store-neighborhood-in-oakland.html?ref=us">
+A Few Temporary Stores or a Neighborhood</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/gavin-newsom-stakes-a-claim-with-student-protests.html?ref=us">
+Newsom Stakes a Claim With Student Protests</a>
+</h6>
+</li>
+<div class="refer"><a href="http://topics.nytimes.com/topics/news/national/usstatesterritoriesandpossessions/california/sanfranciscobayarea/index.html">Full Coverage »</a></div>
+</ul>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="story">
+<div class="thumbnail">
+<a href="http://topics.nytimes.com/top/news/us/series/out-here/index.html?ref=us">
+<img src="http://graphics8.nytimes.com/images/2011/06/12/us/12outhereillo/12outhereillo-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://topics.nytimes.com/top/news/us/series/out-here/index.html?ref=us">
+Out Here</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Snapshots of life in America from Times correspondents around the country.</p>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/top/news/us/series/out-here/index.html">Articles in the Series »</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://thechoice.blogs.nytimes.com/" title="The Choice Blog">
+<img src="http://graphics8.nytimes.com/images/blogs_v3/thechoice/thechoice190.gif" alt="The Choice Blog"/>
+</a> 
+</h3> 	<a href="http://thechoice.blogs.nytimes.com/" title="The Choice Blog">
+<img src="http://graphics8.nytimes.com/images/blogs_v3/thechoice/thechoice75.png" alt="The Choice Blog" class="thumbnail"/>
+</a> <div class="summary">A blog examining all facets of the college admissions process.</div><div class="story first">
+<h3><a href="http://thechoice.blogs.nytimes.com/2011/12/02/sat-cheating/?ref=us">SAT Cheating Investigation Continues on Long Island</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">10:22 AM ET</span></p>
+</div><div class="story">
+<h3><a href="http://thechoice.blogs.nytimes.com/2011/11/30/penn-state-apps/?ref=us">Despite Scandal, Applications to Penn State Rise</a></h3>
+<p class="date">November 30, 2011 <span class="timestamp"></span></p>
+</div><div class="story">
+<h3><a href="http://thechoice.blogs.nytimes.com/2011/11/29/education-secretary-college-costs/?ref=us">A Call for Lower College Costs</a></h3>
+<p class="date">November 29, 2011 <span class="timestamp"></span></p>
+</div><p class="refer">
+<a href="http://thechoice.blogs.nytimes.com/" title="Go to Blog">Go to Blog &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">National Columnists</h6><div class="story">
+<div class="thumbnail">
+<a href="http://topics.nytimes.com/top/news/us/columns/danbarry/index.html?ref=us">
+<img src="http://graphics8.nytimes.com/images/2008/10/29/us/danbarry75.1.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://topics.nytimes.com/top/news/us/columns/danbarry/index.html?ref=us">
+Dan Barry</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+“This Land” explores obscure and well-known corners of the U.S.</p>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/top/news/us/columns/danbarry/index.html">Latest Column</a></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://topics.nytimes.com/top/reference/timestopics/people/l/adam_liptak/index.html?ref=us">
+<img src="http://graphics8.nytimes.com/images/2008/10/29/us/00liptak.75.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://topics.nytimes.com/top/reference/timestopics/people/l/adam_liptak/index.html?ref=us">
+Adam Liptak</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+“Sidebar” covers and considers developments in the world of law.</p>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/top/reference/timestopics/people/l/adam_liptak/index.html?ref=us">Latest Column</a></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://topics.nytimes.com/top/reference/timestopics/people/w/michael_winerip/index.html?ref=us">
+<img src="http://graphics8.nytimes.com/images/2011/05/23/us/winerip75.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://topics.nytimes.com/top/reference/timestopics/people/w/michael_winerip/index.html?ref=us">
+Michael Winerip</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+“On Education” looks beyond the discourse to the teachers, principals and students at the heart of learning.</p>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/top/reference/timestopics/people/w/michael_winerip/index.html">Latest Column</a></li>
+</ul>
+</div>
+<div class="story">
+<h3><a href="http://topics.nytimes.com/topics/reference/timestopics/people/f/samuel_g_freedman/index.html?ref=us">
+Freedman: On Religion</a></h3>
+<h6 class="byline">
+</h6>
+</div>
+<div class="story">
+<h3><a href="http://topics.nytimes.com/topics/news/national/series/beliefs/index.html?ref=us">
+Oppenheimer: Beliefs</a></h3>
+<h6 class="byline">
+</h6>
+</div>
+</div>
+<div class="columnGroup doubleRule last">
+
+
+<div class="singleAd" id="Box2">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/national/index.html&pos=Box2&sn2=2fa4f8e4/3f612d45&sn1=38d43609/ab3147cd&camp=nyt2011-circ-120x90-weekender-36H38&ad=071511-120x90-weekender-36H38&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DWC7AA%26CMP%3D36H38" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/13/ad.271312/11-0920_HDWeekender2_120x90.jpg" width="120" height="90" border="0"></a>
+
+</div>
+
+</div>
+</div><!--close .bColumn -->
+</div><!--close .abColumn -->
+<div class="cColumn">
+<!--Ads  -->                    <div class="columnGroup first">
+
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<div class="box blue"><div class="insetH insetV">
+<script type="text/javascript"><!--
+
+prefix="http://topics.nytimes.com/top/news/national/usstatesterritoriesandpossessions/";
+suffix="/index.html";
+options=["Alabama","Alaska","American Samoa","Arizona","Arkansas","California","Colorado","Connecticut","Delaware","Florida","Georgia","Guam","Hawaii","Idaho","Illinois","Indiana","Iowa","Kansas","Kentucky","Louisiana","Maine","Maryland","Massachusetts","Michigan","Minnesota","Mississippi","Missouri","Montana","Nebraska","Nevada","New Hampshire","New Jersey","New Mexico","New York","North Carolina","North Dakota","Northern Mariana Islands","Ohio","Oklahoma","Oregon","Pennsylvania","Puerto Rico","Rhode Island","South Carolina","South Dakota","Tennessee","Texas","Utah","Vermont","Virgin Islands, U.S.","Virginia","Washington","Washington, D.C.","West Virginia","Wisconsin","Wyoming"];
+
+optionHTML="";for(var i=0;i<options.length;i++){opt=options[i];if(opt.indexOf("|")!=-1){p=opt.split(/\|/g);opt=p[0];url=p[1];}else{url=opt.toLowerCase().replace(/[\s\.,]/g,"");}optionHTML=optionHTML+"<option value='"+prefix+url+suffix+"'>"+opt+"</option>";}
+
+document.write("<div class='story'><h6 class='kicker'>Times Topics: Find News by State</h6><form id='otherTopics'><div><select name='top' onchange='goToURL2(this);'><option value=''>Go to a State Page</option><option value=''> — — — — — — — — — — — </option>"+optionHTML+"</select></div></form></div>");
+
+// --></script>
+<div class="story">
+<h6 class="kicker">Times Topics in the News</h6>
+<div class="refer">
+<a href="http://topics.nytimes.com/top/reference/timestopics/subjects/u/united_states_economy/index.html">U.S. Economy</a> | <a href="http://topics.nytimes.com/top/news/health/diseasesconditionsandhealthtopics/health_insurance_and_managed_care/health_care_reform/index.html">Health Care Reform</a> | <a href="http://topics.nytimes.com/top/reference/timestopics/subjects/v/voter_registration_and_requirements/index.html">Voter Registration and Requirements</a> | <a href="http://topics.nytimes.com/top/reference/timestopics/subjects/c/capital_punishment/index.html">Capital Punishment</a> | <a href="http://topics.nytimes.com/topics/reference/timestopics/subjects/h/housing/index.html">Housing</a> | <a href="http://topics.nytimes.com/top/reference/timestopics/subjects/i/immigration_and_refugees/index.html">Immigration</a> | <a href="http://topics.nytimes.com/top/reference/timestopics/subjects/r/religion_and_belief/index.html">Religion</a> | <a href="http://topics.nytimes.com/top/reference/timestopics/subjects/s/same_sex_marriage/index.html">Same-Sex Marriage</a> | <a href="http://topics.nytimes.com/top/reference/timestopics/organizations/s/supreme_court/index.html?inline=nyt-org">The Supreme Court</a> | <a href="http://topics.nytimes.com/top/reference/timestopics/subjects/h/hurricanes_and_tropical_storms/index.html">Hurricanes</a>
+</div>
+</div>
+</div></div>        	</div>
+<!--Ads Simple -->                    <div class="columnGroup ">
+
+			
+<div class="bigAd" id="SFMiddle">
+<!-- ADXINFO classification="bigad" campaign="Google_ADay20Widgets-1782912-nyt2"--><div align="center">
+<iframe width="300"height="250" src="http://agoogleaday.com/embed.html" frameborder="0"></iframe>
+<A HREF="http://ad.doubleclick.net/jump/N5295.276948.NYTIMES/B5719316.9;sz=1x1;ord=2011.12.02.18.04.29?">
+<IMG SRC="http://ad.doubleclick.net/ad/N5295.276948.NYTIMES/B5719316.9;sz=1x1;ord=2011.12.02.18.04.29?" BORDER=0 WIDTH=1 HEIGHT=1 ALT="Advertisement"></A>
+</div>
+</div>
+
+
+
+<div class="singleAd" id="Box3">
+<!-- ADXINFO classification="feature_squares" campaign="nyt2011-regilite-P1-todaysheadlines"--><iframe title="regilite" src="https://myaccount.nytimes.com/regilite?product=TH" width="336" height="90" marginheight="0" marginwidth="0" frameborder="0" vspace="0" hspace="0" scrolling="no"></iframe>
+</div>
+
+
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<div class="singleRuleDivider"></div>
+<style><!--
+#twitterList .story {
+padding-left: 5px;
+}
+.cColumn #twitterList .sectionHeader {
+margin-left: 7px;
+}
+
+.cColumn #twitterList .columnGroup.fullWidth {
+margin-left: -7px !important;
+margin-right: -9px !important;
+}
+
+.cColumn #twitterList .columnGroup.fullWidth .columnGroup {
+margin-left: 7px !important;
+margin-right: 5px !important;
+}
+
+.cColumn #twitterList .columnGroup.fullWidth .last .columnGroup {
+margin-left: 5px !important;
+margin-right: 9px !important;
+}
+--></style>
+<script src="//platform.twitter.com/widgets.js" type="text/javascript"></script>
+<div id="twitterList">
+<div class="columnGroup fullWidth">
+<div class="subColumn-2 wrap">
+<h3 class="sectionHeader insetH">Follow <a href="https://twitter.com/#!/NYTNational/nyt-national-desk">The Times National Desk on Twitter</a></h3>
+<div class="column">
+<div class="columnGroup">
+<div class="story">
+<h5><a href="http://twitter.com/LizetteNYT">Lizette Alvarez</a></h5>
+<span class="caption">Miami Bureau Chief</span>
+<a href="https://twitter.com/LizetteNYT" class="twitter-follow-button" data-show-count="false">Follow @LizetteNYT</a>
+</div>
+<div class="story">
+<h5><a href="http://twitter.com/#!/DanBarryNYT">Dan Barry</a></h5>
+<span class="caption">This Land Columnist</span>
+<a href="https://twitter.com/DanBarryNYT" class="twitter-follow-button" data-show-count="false">Follow @DanBarryNYT</a>
+</div>
+<div class="story">
+<h5><a href="http://twitter.com/coopnytimes">Michael Cooper</a></h5>
+<span class="caption">National Correspondent</span>
+<a href="https://twitter.com/coopnytimes" class="twitter-follow-button" data-show-count="false">Follow @coopnytimes</a>
+</div>
+<div class="story">
+<h5><a href="http://twitter.com/monicadavey1">Monica Davey</a></h5>
+<span class="caption">Chicago Bureau Chief</span>
+<a href="https://twitter.com/monicadavey1" class="twitter-follow-button" data-show-count="false">Follow @monicadavey1</a>
+</div>
+<div class="story">
+<h5><a href="http://twitter.com/jimdao">Jim Dao</a></h5>
+<span class="caption">National Correspondent</span>
+<a href="https://twitter.com/jimdao" class="twitter-follow-button" data-show-count="false">Follow @jimdao</a>
+</div>
+<div class="story">
+<h5><a href="http://twitter.com/eckholm">Erik Eckholm</a></h5>
+<span class="caption">National Correspondent</span>
+<a href="https://twitter.com/eckholm" class="twitter-follow-button" data-show-count="false">Follow @eckholm</a>
+</div>
+<div class="story">
+<h5><a href="https://twitter.com/egoode">Erica Goode</a></h5>
+<span class="caption">National Correspondent</span>
+<a href="https://twitter.com/egoode" class="twitter-follow-button" data-show-count="false">Follow @egoode</a>
+</div>
+<div class="story">
+<h5><a href="http://twitter.com/abbygoodnough">Abby Goodnough</a></h5>
+<span class="caption">Boston Bureau Chief</span>
+<a href="https://twitter.com/abbygoodnough" class="twitter-follow-button" data-show-count="false">Follow @abbygoodnough</a>
+</div>
+<div class="story">
+<h5><a href="http://twitter.com/amy_harmon">Amy Harmon</a></h5>
+<span class="caption">National Correspondent</span>
+<a href="https://twitter.com/amy_harmon" class="twitter-follow-button" data-show-count="false">Follow @amy_harmon</a>
+</div>
+<div class="story">
+<h5><a href="http://twitter.com/kljohnso">Kirk Johnson</a></h5>
+<span class="caption">Denver Bureau Chief</span>
+<a href="https://twitter.com/kljohnso" class="twitter-follow-button" data-show-count="false">Follow @kljohnso</a>
+</div>
+</div></div>
+<div class="column last">
+<div class="columnGroup">
+<div class="story">
+<h5><a href="http://twitter.com/marclacey">Marc Lacey</a></h5>
+<span class="caption">Phoenix Bureau Chief</span>
+<a href="https://twitter.com/marclacey" class="twitter-follow-button" data-show-count="false">Follow @marclacey</a>
+</div>
+<div class="story">
+<h5><a href="http://twitter.com/jennymedina">Jennifer Medina</a></h5>
+<span class="caption">National Correspondent</span>
+<a href="https://twitter.com/jennymedina" class="twitter-follow-button" data-show-count="false">Follow @jennymedina</a>
+</div>
+<div class="story">
+<h5><a href="http://twitter.com/adamnagourney">Adam Nagourney</a></h5>
+<span class="caption">Los Angeles Bureau Chief</span>
+<a href="https://twitter.com/adamnagourney" class="twitter-follow-button" data-show-count="false">Follow @adamnagourney</a>
+</div>
+<div class="story">
+<h5><a href="http://twitter.com/campbellnyt">Campbell Robertson</a></h5>
+<span class="caption">New Orleans Bureau Chief</span>
+<a href="https://twitter.com/campbellnyt" class="twitter-follow-button" data-show-count="false">Follow @campbellnyt</a>
+</div>
+<div class="story">
+<h5><a href="http://twitter.com/kimseverson">Kim Severson</a></h5>
+<span class="caption">Atlanta Bureau Chief</span>
+<a href="https://twitter.com/kimseverson" class="twitter-follow-button" data-show-count="false">Follow @kimseverson</a>
+</div>
+<div class="story">
+<h5><a href="http://twitter.com/#!/kseelye">Katharine Q. Seelye</a></h5>
+<span class="caption">National Correspondent</span>
+<a href="https://twitter.com/kseelye" class="twitter-follow-button" data-show-count="false">Follow @kseelye</a>
+</div>
+<div class="story">
+<h5><a href="http://twitter.com/#!/jswatz">John Schwartz</a></h5>
+<span class="caption">National Correspondent</span>
+<a href="https://twitter.com/jswatz" class="twitter-follow-button" data-show-count="false">Follow @jswatz</a>
+</div>
+<div class="story">
+<h5><a href="http://twitter.com/#!/AGSNYT">A.G. Sulzberger</a></h5>
+<span class="caption">Kansas City Bureau Chief </span>
+<a href="https://twitter.com/AGSNYT" class="twitter-follow-button" data-show-count="false">Follow @AGSNYT</a>
+</div>
+<div class="story">
+<h5><a href="http://twitter.com/williamyardley">William Yardley</a></h5>
+<span class="caption">Seattle Bureau Chief</span>
+<a href="https://twitter.com/williamyardley" class="twitter-follow-button" data-show-count="false">Follow @williamyardley</a>
+</div>
+<div class="story">
+<h5><a href="http://twitter.com/#!/kzernike">Kate Zernike</a></h5>
+<span class="caption">National Correspondent</span>
+<a href="https://twitter.com/kzernike" class="twitter-follow-button" data-show-count="false">Follow @kzernike</a>
+</div></div>
+</div></div></div></div>
+<div id="mostPopWidget" class="singleRule"> 
+
+      <!-- MOST POPULAR MODULE STARTS -->
+      <h4>MOST POPULAR - U.S.</h4>
+         <div id="tabsContainer">
+         <ul class="tabs">
+            <li class="selected"><a href="#">E-Mailed</a></li>
+            <li><a href="#">Blogged</a></li>
+            
+            <li><a href="#">Viewed</a></li>
+            
+         </ul>
+         </div>
+            <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"></HEAD><div class="tabContent tabContentActive" id="mostEmailed"><ol>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/us/02canine/02canine-thumbStandard-v2.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/02/us/more-military-dogs-show-signs-of-combat-stress.html?src=me&amp;ref=us" title="Click to go to this article">After Duty, Dogs Suffer Like Soldiers</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/us/Leases/Leases-thumbStandard.jpg"  kicker="Drilling Down"><a href="http://www.nytimes.com/2011/12/02/us/drilling-down-fighting-over-oil-and-gas-well-leases.html?src=me&amp;ref=us" title="Click to go to this article">Drilling Down: Learning Too Late of Perils in Gas Well Leases</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/nyregion/Y-SAT1/Y-SAT1-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/02/education/on-long-island-sat-cheating-was-hardly-a-secret.html?src=me&amp;ref=us" title="Click to go to this article">Exam Cheating on Long Island Hardly a Secret</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/us/WIND/WIND-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/02/us/santa-ana-winds-buffet-california.html?src=me&amp;ref=us" title="Click to go to this article">Santa Ana Winds, Unusually Strong, Rattle More Than Nerves in California</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/us/CRAIGLIST-2/CRAIGLIST-2-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/02/us/three-lured-to-death-in-ohio-by-craigslist-job-ad.html?src=me&amp;ref=us" title="Click to go to this article">Craigslist Used in Deadly Ploy to Lure Victims in Ohio</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/us/02latinos_span/02latinos_span-thumbStandard-v3.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/02/us/politics/with-boom-in-hispanic-voters-obama-sees-opportunity-in-arizona.html?src=me&amp;ref=us" title="Click to go to this article">Obama to Vie for Arizona as Latino Numbers Rise</a></li>
+<li kicker=""><a href="http://www.nytimes.com/2011/12/02/us/politics/democrats-look-to-payroll-issue-for-upper-hand.html?src=me&amp;ref=us" title="Click to go to this article">Democrats See an Advantage in Debate Over Payroll Tax</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/us/MARCHING1_span/MARCHING1_span-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/01/us/florida-am-university-students-death-turns-spotlight-on-hazing.html?src=me&amp;ref=us" title="Click to go to this article">Student&rsquo;s Death Turns Spotlight on Hazing</a></li>
+<li kicker=""><a href="http://www.nytimes.com/2011/12/02/us/drilling-down-laymans-guide-to-lease-terms.html?src=me&amp;ref=us" title="Click to go to this article">A Layman&rsquo;s Guide to Lease Terms</a></li>
+<li kicker=""><a href="http://www.nytimes.com/2011/12/02/us/ex-governor-bill-richardson-is-said-to-be-under-investigation.html?src=me&amp;ref=us" title="Click to go to this article">Ex-Governor Is Said to Be Focal Point of Inquiry</a></li>
+</ol>
+        <a class="more" href="http://www.nytimes.com/gst/mostemailed.html">Go to Complete List &#x00bb;</a>
+        </div><!-- #most emailed top10 -->
+
+            <div class="tabContent" id="mostBlogged">
+<ol>
+<li><a href="http://www.nytimes.com/2011/11/30/us/politics/gingrich-gave-push-to-clients-not-just-ideas.html?bl" title="Click to go to this article">Gingrich Gave Push to Clients, Not Just Ideas</a></li>
+<li><a href="http://www.nytimes.com/2011/12/01/us/we-are-the-99-percent-joins-the-cultural-and-political-lexicon.html?bl" title="Click to go to this article">'We Are the 99 Percent' Joins the Cultural and Political Lexicon</a></li>
+<li><a href="http://www.nytimes.com/2011/12/01/us/politics/presidential-candidates-make-fewer-in-person-appearances.html?bl" title="Click to go to this article">Presidential Candidates Make Fewer In-Person Appearances</a></li>
+<li><a href="http://www.nytimes.com/2011/12/01/us/federal-marijuana-classification-should-change-gregoire-and-chafee-say.html?bl" title="Click to go to this article">Federal Marijuana Classification Should Change, Gregoire and Chafee Say</a></li>
+<li><a href="http://www.nytimes.com/2011/11/26/us/tom-wicker-journalist-and-author-dies-at-85.html?bl" title="Click to go to this article">Tom Wicker, Journalist and Author, Dies at 85</a></li>
+<li><a href="http://www.nytimes.com/2011/11/27/us/politics/television-attack-ads-aim-at-obama-early-and-often.html?bl" title="Click to go to this article">Television Attack Ads Aim at Obama Early and Often</a></li>
+<li><a href="http://www.nytimes.com/2011/11/26/us/north-dakota-oil-boom-creates-camps-of-men.html?bl" title="Click to go to this article">North Dakota Oil Boom Creates Camps of Men</a></li>
+<li><a href="http://www.nytimes.com/2011/12/02/us/more-military-dogs-show-signs-of-combat-stress.html?bl" title="Click to go to this article">More Military Dogs Show Signs of Combat Stress</a></li>
+<li><a href="http://www.nytimes.com/2011/12/02/us/politics/democrats-look-to-payroll-issue-for-upper-hand.html?bl" title="Click to go to this article">Democrats look to Payroll Issue for Upper Hand</a></li>
+<li><a href="http://www.nytimes.com/2011/11/30/us/politics/senate-approves-military-custody-for-terror-suspects.html?bl" title="Click to go to this article">Senate Approves Military Custody for Terror Suspects</a></li>
+</ol>
+<a class="more" href="http://www.nytimes.com/gst/mostblogged.html">Go to Complete List &#x00bb;</a>
+</div><!-- #most blogged top10 -->
+
+            
+            <div class="tabContent" id="mostViewed"><ol>
+<li img="http://graphics8.nytimes.com/images/2011/11/22/us/sub-OCCUPY-1/sub-OCCUPY-1-thumbStandard-v3.jpg"  kicker=""><a href="http://www.nytimes.com/2011/11/22/us/police-officers-involved-in-pepper-spraying-placed-on-leave.html?src=mv&amp;ref=us" title="Click to go to this article">California&rsquo;s Campus Movements Dig In Their Heels</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/22/us/jp-CUBANS-1/jp-CUBANS-1-thumbStandard-v3.jpg"  kicker=""><a href="http://www.nytimes.com/2011/11/22/us/cuban-americans-take-lead-in-building-ties-with-cuba.html?src=mv&amp;ref=us" title="Click to go to this article">Pull of Family Reshapes U.S.-Cuban Relations</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/21/us/WINERIP-1/WINERIP-1-thumbStandard.jpg"  kicker="On Education"><a href="http://www.nytimes.com/2011/11/21/education/lets-get-ready-offers-help-for-college-admissions.html?src=mv&amp;ref=us" title="Click to go to this article">On Education: Learning to Play the Game to Get Into College</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/22/us/MISSING-1/MISSING-1-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/11/22/us/police-suspect-mother-in-5-year-olds-disappearance-outside-phoenix.html?src=mv&amp;ref=us" title="Click to go to this article">Police Suspect Mother in 5-Year-Old&rsquo;s Disappearance in Phoenix Suburb</a></li>
+<li kicker=""><a href="http://www.nytimes.com/2011/11/22/us/brandon-mcinerney-17-pleads-guilty-to-killing-gay-classmate.html?src=mv&amp;ref=us" title="Click to go to this article">Youth Pleads Guilty to Killing Gay Classmate</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/22/nyregion/CUNY/CUNY-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/11/22/education/cuny-students-clash-with-police-in-manhattan.html?src=mv&amp;ref=us" title="Click to go to this article">CUNY Students Protesting Tuition Increase Clash With Police</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/23/us/23abortion_span/23abortion_span-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/11/23/us/kansas-abortion-prosecution-loses-some-steam-but-fire-is-still-hot.html?src=mv&amp;ref=us" title="Click to go to this article">Kansas Abortion Prosecution Loses Some Steam, but Fire Is Still Hot</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/21/us/OCCUPY/OCCUPY-thumbStandard-v2.jpg"  kicker=""><a href="http://www.nytimes.com/2011/11/21/us/police-officers-involved-in-pepper-spraying-placed-on-leave.html?src=mv&amp;ref=us" title="Click to go to this article">California University Puts Officers Who Used Pepper Spray on Leave</a></li>
+<li kicker=""><a href="http://learning.blogs.nytimes.com/2011/11/22/nov-22-1963-president-kennedy-is-assassinated/?src=mv&amp;ref=us" title="Click to go to this article">Nov. 22, 1963 | President Kennedy Is Assassinated</a></li>
+<li kicker="National Briefing | Education"><a href="http://www.nytimes.com/2011/11/22/education/early-applications-flood-harvard.html?src=mv&amp;ref=us" title="Click to go to this article">National Briefing | Education: Early Applications Flood Harvard</a></li>
+</ol>
+        </div><!-- #most viewed top10 -->
+
+            
+         <script type="text/javascript">new Accordian("mostPopWidget");</script>
+      <!-- MOST POPULAR MODULE ENDS -->
+   
+
+</div><!--close mostPopWidget -->
+</div>
+<!--Ads Simple -->                    <div class="columnGroup ">
+			
+
+<div class="bigAd" id="Box1">
+<!-- ADXINFO classification="Module" campaign="nyt2011_module_biz_piers_morgan_hp_ros_db"--><!-- MARKETING MODULE -->
+<div style="border:solid #999;border-width:1px;font-family:Arial,sans-serif;text-align:left; width:334px;background:#fff;" class="clearfix wrap">
+  <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/national/index.html&pos=Box1&sn2=2fa4f8e3/3f612b45&sn1=3cd7b396/8bf4d3f&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://mediadecoder.blogs.nytimes.com/2011/11/30/piers-morgan-struggles-to-beat-kings-ratings/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-PH%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm11/business_120211.jpg" width="334" height="154" border="0" alt=""></a> 
+  <div style="padding:7px 9px 0;background:#fff">
+      <h2 style="font-size:22px;line-height:24px; margin:0;padding:0 0 4px;"><a style="color:#004276;" target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/national/index.html&pos=Box1&sn2=2fa4f8e3/3f612b45&sn1=3cd7b396/8bf4d3f&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://mediadecoder.blogs.nytimes.com/2011/11/30/piers-morgan-struggles-to-beat-kings-ratings/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-HDR%26WT.mc_ev=click%26WT.mc_c=174041">Piers Morgan's struggle</a></h2>
+
+      <p style="margin:0 0 3px; padding:0;font-size: 11px;"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/national/index.html&pos=Box1&sn2=2fa4f8e3/3f612b45&sn1=dcca9a23/ff2c3589&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://nytimes.com/business/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-URL%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank" style="font-size:11px;margin:3px 0;padding:0;font-family:Arial,sans-serif;  color:#000; text-transform:uppercase;">Also in Business &raquo;</a></p>
+      <ul style="font-size:12px;margin:0; padding-bottom: 10px; border-bottom:1px solid #ccc;" class="refer">
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/national/index.html&pos=Box1&sn2=2fa4f8e3/3f612b45&sn1=7ddbcc18/6dfb3f78&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://dealbook.nytimes.com/2011/11/30/american-wont-be-the-last-airline-bankruptcy/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-L1%26WT.mc_ev=click%26WT.mc_c=174041" style="color: #004276">American won't be the last airline bankruptcy</a></li>
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/national/index.html&pos=Box1&sn2=2fa4f8e3/3f612b45&sn1=aada211/3630bfe3&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://www.nytimes.com/2011/11/30/business/media/pepto-bismol-highlights-overindulging-in-latest-campaign.html%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-L2%26WT.mc_ev=click%26WT.mc_c=174041" style="color: #004276">A look at Pepto-Bismol's new holiday commercials</a></li>
+      </ul>
+    </div>
+ 
+ <div style="padding:5px 9px; float:left; width:316px; background:#fff"> <a style="float:left" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/national/index.html&pos=Box1&sn2=2fa4f8e3/3f612b45&sn1=dcca9a23/ff2c3589&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://nytimes.com/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-LOGO%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/nytimes.gif" alt="nytimes.com" width="116" height="18" border="0"></a><a style="float:right" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/national/index.html&pos=Box1&sn2=2fa4f8e3/3f612b45&sn1=dcca9a23/ff2c3589&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://nytimes.com/business/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-VRT%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/verticals_business.gif" alt="Business" width="120" height="18" border="0"></a></div><br clear="all">
+
+</div>
+  <!-- /MARKETING MODULE -->
+
+</div>
+
+
+<div class="singleAd" id="Middle5">
+<!-- ADXINFO classification="feature_position" campaign="nyt2011-circ-middle5_weekender-36H3R-38R9U-AK"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/national/index.html&pos=Middle5&sn2=96c7a085/b6dd7cfb&sn1=d43beff3/3546bb34&camp=nyt2011-circ-middle5_weekender-36H3R-38R9U-AK&ad=100511-middle5_weekender-38R9U&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DW42CS%26CMP%3D36H3R" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/90/ad.279007/11-0920_HDWeekender2_336x79_AK.gif" width="336" height="79" border="0"></a><div class='kj_cx'></div>
+<script type='text/javascript'>
+var kjData = {akin: 'NYT-IP-4d0abbb3b1871-j6k', adWidth: 336, adHeight: 79, btnStyle: 2, crnr: 'bl'};
+if(!kjG){var kjG=[]}kjG.push(kjData);if(!kjLdr){var kjLdr={ld:function(){var b=document; var a=b.createElement('script');a.type='text/javascript';a.src='http://a.akncdn.com/adkeeper.1.0.js'; (b.getElementsByTagName('body')[0]||b.getElementsByTagName('head')[0]).appendChild(a) },init:function(){var a=window,b=document;if(b.addEventListener){a.addEventListener('load',this.ld,false) }else{if(a.attachEvent){a.attachEvent('onload',this.ld)}}}};kjLdr.init()}; </script>
+
+
+</div>
+
+
+
+<!--[TwoColumnAdLeft - Begin] -->
+	<div class="adHeader">
+<h4>
+Advertisements	    </h4>
+</div>
+<div class="cColumn-TextAdsBox">
+	<div class="cColumn-TextAdsLeft">
+<div class="cColumn-TextAd">
+<!-- ADXINFO classification="SiteForADay" campaign="nyt2011-mktg-arts_and_ents-s4d_ros"--><div style="width:320px; height:60px;"> 
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/national/index.html&pos=Right5A&sn2=b6d7429c/37427ce5&sn1=6a1102ca/9e7f5eda&camp=nyt2011-mktg-arts_and_ents-s4d_ros&ad=AR-D-I-NYT-AD-S4D-AandE-ROS-1211-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fevents%2Findex%2Ehtml%3FWT%2Emc%5Fid%3DAR%2DD%2DI%2DNYT%2DAD%2DS4D%2DAandE%2DROS%2D1211%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D175108" target="_blank"> 
+<img style="float:left; margin-right:10px;" src="http://graphics8.nytimes.com/adx/images/ADS/28/59/ad.285977/11-2187_ArtsEntertainment_86x60.gif" width="86" height="60" border="0" style="vertical-align:text-top;"></a>
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/national/index.html&pos=Right5A&sn2=b6d7429c/37427ce5&sn1=6a1102ca/9e7f5eda&camp=nyt2011-mktg-arts_and_ents-s4d_ros&ad=AR-D-I-NYT-AD-S4D-AandE-ROS-1211-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fevents%2Findex%2Ehtml%3FWT%2Emc%5Fid%3DAR%2DD%2DI%2DNYT%2DAD%2DS4D%2DAandE%2DROS%2D1211%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D175108" target="_blank">  <br />Introducing: The Interactive Arts & Entertainment Guide</a>
+</div>
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+</div>
+	</div>
+<!--[TwoColumnAdLeft - End] -->
+<div class="advertisementColumnGroup">
+<!--[MarketPlaceGridAd - Begin] -->
+
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+    <!--[MarketPlaceGridAd - End] -->
+</div>
+</div>
+<!--WireFeed Ads -->                    <div class="columnGroup ">
+<h6 class="kicker"><div class="singleRule"><a href="http://www.nytimes.com/pages/aponline/national/index.html"> News from A.P. &raquo;</a></div></h6>
+<div class="story">
+<h6><a href="http://www.nytimes.com/aponline/2011/12/02/us/AP-US-Jesse-Jackson-Jr-Ethics.html?ref=us">Committee Continuing Investigation of Jackson Jr.</a></h6>
+<span class="timestamp">7 minutes ago</span>
+</div>	       <div class="story">
+<h6><a href="http://www.nytimes.com/aponline/2011/12/02/us/AP-US-Bob-Marley-Family-Feud.html?ref=us">Bob Marley Heirs Sue Half-Brother in US Over Name</a></h6>
+<span class="timestamp">20 minutes ago</span>
+</div>	       <div class="story">
+<h6><a href="http://www.nytimes.com/aponline/2011/12/02/us/AP-US-FAMU-Student-Dead.html?ref=us">Fla. Governor Says FAMU Right to Delay Task Force</a></h6>
+<span class="timestamp">24 minutes ago</span>
+</div>	       <div class="story">
+<h6><a href="http://www.nytimes.com/aponline/2011/12/02/us/AP-US-Baby-Selling-Fraud.html?ref=us">Woman Sentenced in San Diego on Baby-Selling Fraud</a></h6>
+<span class="timestamp">27 minutes ago</span>
+</div>	       <div class="story">
+<h6><a href="http://www.nytimes.com/aponline/2011/12/02/us/AP-US-Free-Lolita.html?ref=us">Whale Activists Sue to Free Lolita From Captivity</a></h6>
+<span class="timestamp">27 minutes ago</span>
+</div>	       <div class="story">
+<h6><a href="http://www.nytimes.com/aponline/2011/12/02/us/AP-US-Homeowner-Hogties-Thief.html?ref=us">Ohio Homeowner Captures and Hogties Burglar</a></h6>
+<span class="timestamp">30 minutes ago</span>
+</div>        	</div>
+<!--Ads WireFeed -->                    <div class="columnGroup last">
+
+<div class="singleAd" id="Feature1">
+<!-- ADXINFO classification="hp-module" campaign="feature1-GilbaneProperties-1770810-cla"--><!--Ad Template Begins Here -->
+<div class="story advertisement">
+<div class="callout">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/national/index.html&pos=Feature1&sn2=88abd586/d8ed3b57&sn1=3145f6ef/1f7e77ab&camp=feature1-GilbaneProperties-1770810-cla&ad=7.23.11-gilbane-173x98-SFM&goto=http%3A%2F%2Fliveatsurfside%2Ecom%2FNYT" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/17/ad.271744/Surfside.jpg" width="173" height="98" border="0" alt="Click for Details"></a>
+</div>
+<h5>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/national/index.html&pos=Feature1&sn2=88abd586/d8ed3b57&sn1=3145f6ef/1f7e77ab&camp=feature1-GilbaneProperties-1770810-cla&ad=7.23.11-gilbane-173x98-SFM&goto=http%3A%2F%2Fliveatsurfside%2Ecom%2FNYT" target="_blank"><font size=1>SURFSIDE Narragansett RI.</font></a>
+</h5>
+<p class="summary"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/national/index.html&pos=Feature1&sn2=88abd586/d8ed3b57&sn1=3145f6ef/1f7e77ab&camp=feature1-GilbaneProperties-1770810-cla&ad=7.23.11-gilbane-173x98-SFM&goto=http%3A%2F%2Fliveatsurfside%2Ecom%2FNYT" target="_blank"><font size=1>2 & 3-bedroom oceanfront condos and townhomes from the 400s.</font></a>
+</p>
+<div class="adCreative">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/national/index.html&pos=Feature1&sn2=88abd586/d8ed3b57&sn1=3145f6ef/1f7e77ab&camp=feature1-GilbaneProperties-1770810-cla&ad=7.23.11-gilbane-173x98-SFM&goto=http%3A%2F%2Fliveatsurfside%2Ecom%2FNYT" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/17/ad.271744/SurfsideLogo-TypeOnly.jpg" width="78" height="36"></a>
+</div>
+</div>
+<!--Ad Template Ends Here -->
+</div>
+
+
+<div class="singleAd" id="SponLink">
+<script language="JavaScript" type="text/javascript">
+    
+    // Sponlink_short
+
+    NYTD.GoogleAds.getGoogleAds("AFC", { 
+        google_ad_client:'nytimes_section_var',
+        ad_target_list:'sponLink'
+    });
+</script>
+</div>
+
+</div>
+</div><!--close cColumn -->
+</div><!--close wideA -->
+</div><!--close spanAB -->
+</div><!--close main -->
+<div id="footer">
+<ul class="first">
+<li class="first"><a href="http://www.nytimes.com">Home</a></li>
+<li >
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li>
+<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+</ul>    <ul>
+<li class="first"><a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&copy; 2011</a> <a href="http://www.nytco.com/">The New York Times Company</a></li>
+<li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Terms of Service</a></li>
+<li class="termsOfSale"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+<li><a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a></li>
+<li><a class="rssButton" href="http://www.nytimes.com/rss">RSS</a></li>
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+<li><a href="http://www.nytco.com/careers">Work for Us</a></li>
+<li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+</ul>
+</div>
+</div><!--close page -->
+</div><!--close shell -->
+
+
+
+
+
+
+<script src="http://content.dl-rms.com/rms/5080/nodetag.js"></script>
+
+
+<IMG SRC="/adx/bin/clientside/42c5f889Q2FeTEj,rhkTpj,pjV5RQ2FQ2FQ5D5hQ2F5" height="1" width="3">
+
+<script type="text/javascript" language="JavaScript">
+// Written by /usr/local/knews/bin/commentcount.pl Fri Dec  2 13:02:02 2011
+var NYTArticleCommentCounts = {
+"100000001190843":{count:147, commentsEnabled:false},
+"100000001190858":{count:204, commentsEnabled:false},
+"100000001190907":{count:49, commentsEnabled:false},
+"100000001191255":{count:237, commentsEnabled:false},
+"100000001191704":{count:133, commentsEnabled:false},
+"100000001191724":{count:100, commentsEnabled:false},
+"100000001191950":{count:122, commentsEnabled:false},
+"100000001192133":{count:307, commentsEnabled:false},
+"100000001192329":{count:76, commentsEnabled:false},
+"100000001190961":{count:19, commentsEnabled:false},
+"100000001177231":{count:1, commentsEnabled:true},
+"100000001177245":{count:74, commentsEnabled:true},
+"100000001179958":{count:24, commentsEnabled:false},
+"100000001180322":{count:227, commentsEnabled:true},
+"100000001183078":{count:44, commentsEnabled:false},
+"100000001183080":{count:327, commentsEnabled:false},
+"100000001183081":{count:7, commentsEnabled:false},
+"100000001183084":{count:235, commentsEnabled:false},
+"100000001183087":{count:11, commentsEnabled:false},
+"100000001183089":{count:14, commentsEnabled:false},
+"100000001183090":{count:11, commentsEnabled:false},
+"100000001183091":{count:3, commentsEnabled:false},
+"100000001183094":{count:14, commentsEnabled:false},
+"100000001184186":{count:79, commentsEnabled:false},
+"100000001184524":{count:149, commentsEnabled:false},
+"100000001186117":{count:1, commentsEnabled:false},
+"100000001186193":{count:12, commentsEnabled:true},
+"100000001186569":{count:190, commentsEnabled:false},
+"100000001189184":{count:49, commentsEnabled:false},
+"100000001190721":{count:71, commentsEnabled:false},
+"100000001191577":{count:224, commentsEnabled:false},
+"100000001191688":{count:28, commentsEnabled:false},
+"100000001191719":{count:107, commentsEnabled:false},
+"100000001191931":{count:121, commentsEnabled:false},
+"100000001191985":{count:110, commentsEnabled:false},
+"100000001192057":{count:211, commentsEnabled:false},
+"100000001192188":{count:141, commentsEnabled:false},
+"100000001192496":{count:52, commentsEnabled:false},
+"100000001192500":{count:206, commentsEnabled:false},
+"100000001192600":{count:224, commentsEnabled:false},
+"100000001192611":{count:167, commentsEnabled:false},
+"100000001193250":{count:67, commentsEnabled:false},
+"100000001193262":{count:37, commentsEnabled:false},
+"100000001193344":{count:98, commentsEnabled:false},
+"100000001193527":{count:27, commentsEnabled:false},
+"100000001193629":{count:10, commentsEnabled:false},
+"100000001193702":{count:17, commentsEnabled:false},
+"100000001193743":{count:108, commentsEnabled:false},
+"100000001193763":{count:516, commentsEnabled:false},
+"100000001193825":{count:86, commentsEnabled:false},
+"100000001193857":{count:48, commentsEnabled:false},
+"100000001193859":{count:160, commentsEnabled:false},
+"100000001193890":{count:117, commentsEnabled:false},
+"100000001193920":{count:44, commentsEnabled:false},
+"100000001193944":{count:303, commentsEnabled:false},
+"100000001193948":{count:7, commentsEnabled:false},
+"100000001194088":{count:51, commentsEnabled:false},
+"100000001194098":{count:17, commentsEnabled:true},
+"100000001194137":{count:109, commentsEnabled:false},
+"100000001194342":{count:159, commentsEnabled:false},
+"100000001194394":{count:68, commentsEnabled:false},
+"100000001194454":{count:36, commentsEnabled:false},
+"100000001194795":{count:192, commentsEnabled:false},
+"100000001194808":{count:628, commentsEnabled:false},
+"100000001194892":{count:125, commentsEnabled:false},
+"100000001195360":{count:33, commentsEnabled:false},
+"100000001195689":{count:178, commentsEnabled:false},
+"100000001195802":{count:10, commentsEnabled:false},
+"100000001195854":{count:304, commentsEnabled:false},
+"100000001195914":{count:48, commentsEnabled:false},
+"100000001195920":{count:17, commentsEnabled:false},
+"100000001195923":{count:44, commentsEnabled:false},
+"100000001195938":{count:138, commentsEnabled:false},
+"100000001195940":{count:10, commentsEnabled:false},
+"100000001195947":{count:92, commentsEnabled:false},
+"100000001195952":{count:162, commentsEnabled:false},
+"100000001195976":{count:141, commentsEnabled:false},
+"100000001195982":{count:283, commentsEnabled:false},
+"100000001196229":{count:42, commentsEnabled:false},
+"100000001196250":{count:104, commentsEnabled:true},
+"100000001196432":{count:333, commentsEnabled:false},
+"100000001196658":{count:42, commentsEnabled:false},
+"100000001196737":{count:28, commentsEnabled:true},
+"100000001196861":{count:18, commentsEnabled:false},
+"100000001196955":{count:71, commentsEnabled:true},
+"100000001196963":{count:143, commentsEnabled:false},
+"100000001197064":{count:68, commentsEnabled:false},
+"100000001197489":{count:3, commentsEnabled:false},
+"100000001197999":{count:75, commentsEnabled:false},
+"100000001198014":{count:290, commentsEnabled:false},
+"100000001198050":{count:69, commentsEnabled:true},
+"100000001198076":{count:32, commentsEnabled:true},
+"100000001198092":{count:204, commentsEnabled:false},
+"100000001198110":{count:424, commentsEnabled:false},
+"100000001198123":{count:343, commentsEnabled:false},
+"100000001198126":{count:62, commentsEnabled:false},
+"100000001198138":{count:163, commentsEnabled:false},
+"100000001198377":{count:143, commentsEnabled:true},
+"100000001198446":{count:23, commentsEnabled:true},
+"100000001198471":{count:52, commentsEnabled:true},
+"100000001198476":{count:157, commentsEnabled:true},
+"100000001198581":{count:48, commentsEnabled:true},
+"100000001198642":{count:253, commentsEnabled:false},
+"100000001199366":{count:136, commentsEnabled:true},
+"100000001199374":{count:114, commentsEnabled:true},
+"100000001199444":{count:155, commentsEnabled:false},
+"100000001199658":{count:4, commentsEnabled:true},
+"100000001200046":{count:884, commentsEnabled:true},
+"100000001200335":{count:165, commentsEnabled:false},
+"100000001200378":{count:192, commentsEnabled:false},
+"100000001200458":{count:77, commentsEnabled:false},
+"100000001200844":{count:23, commentsEnabled:true},
+"100000001201276":{count:88, commentsEnabled:true},
+"100000001201525":{count:188, commentsEnabled:true},
+"100000001202361":{count:0, commentsEnabled:true},
+"100000001202521":{count:27, commentsEnabled:true},
+"100000001202701":{count:270, commentsEnabled:false},
+"100000001202807":{count:17, commentsEnabled:true},
+"100000001202815":{count:116, commentsEnabled:false},
+"100000001202831":{count:232, commentsEnabled:true},
+"100000001202861":{count:95, commentsEnabled:true},
+"100000001202869":{count:39, commentsEnabled:true},
+"100000001202871":{count:23, commentsEnabled:true},
+"100000001202889":{count:54, commentsEnabled:true},
+"100000001202895":{count:33, commentsEnabled:true},
+"100000001202901":{count:90, commentsEnabled:true},
+"100000001203208":{count:19, commentsEnabled:true},
+"100000001203416":{count:220, commentsEnabled:true},
+"100000001203664":{count:0, commentsEnabled:true},
+"100000001188908":{count:16, commentsEnabled:true},
+"100000001194403":{count:0, commentsEnabled:true},
+"100000001194404":{count:0, commentsEnabled:true},
+"100000001194405":{count:71, commentsEnabled:true},
+"100000001194406":{count:0, commentsEnabled:true},
+"100000001194419":{count:1, commentsEnabled:true},
+"100000001194423":{count:58, commentsEnabled:true},
+"100000001194424":{count:0, commentsEnabled:true},
+"100000001194425":{count:0, commentsEnabled:true},
+"100000001194427":{count:0, commentsEnabled:true},
+"100000001194843":{count:51, commentsEnabled:true},
+"100000001197746":{count:1, commentsEnabled:true},
+"100000001201815":{count:0, commentsEnabled:true},
+"100000001201989":{count:0, commentsEnabled:true}
+};
+</script>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/homepage/articleCommentCounts.js"></script>
+<script type="text/javascript" language="JavaScript">
+    ArticleCommentCounts.apply()
+    </script>
+
+			
+		<!-- Start UPT call -->
+		<img height="1" width="3" border=0 src="http://up.nytimes.com/?d=0//&t=3&s=0&ui=&r=&u=www%2enytimes%2ecom%2fpages%2fnational%2findex%2ehtml%3f">
+		<!-- End UPT call -->
+	
+		
+        <script language="JavaScript"><!--
+          var dcsvid="";
+          var regstatus="non-registered";
+        //--></script>
+        <script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+        <noscript>
+          <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div>
+        </noscript>
+   
+</body>
+</html>

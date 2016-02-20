@@ -1,0 +1,11 @@
+Expires: Sun, 05-Jun-2005 22:00:00 GMT
+Set-Cookie: A3=s7G5bTWM09eK00001; expires=Thu, 01-Mar-2012 13:04:32 GMT; domain=.serving-sys.com; path=/
+Set-Cookie: B3=dPrw0000000001xN; expires=Thu, 01-Mar-2012 13:04:32 GMT; domain=.serving-sys.com; path=/
+Set-Cookie: C4=; expires=Thu, 01-Mar-2012 13:04:32 GMT; domain=.serving-sys.com; path=/
+Set-Cookie: u2=c0bbc46a-35ae-468c-b5d9-cb7f7a0157fc3Le090; expires=Thu, 01-Mar-2012 13:04:32 GMT; domain=.serving-sys.com; path=/
+X-Powered-By: ASP.NET
+P3P: CP="NOI DEVa OUR BUS UNI"
+Date: Fri, 02 Dec 2011 18:04:32 GMT
+Connection: close
+
+var ebPtcl="http://";var ebBigS="ds.serving-sys.com/BurstingCachedScripts/";var ebResourcePath="ds.serving-sys.com/BurstingRes//";var ebRand=new String(Math.random());ebRand=ebRand.substr(ebRand.indexOf(".")+1);ebBigS=ebPtcl+ebBigS;ebResourcePath=ebPtcl+ebResourcePath;gEbUT="";gEbUT="tp_PlacementID%3D3618528%24%24tp_AdID%3D7371397%24%24";function ebTX(u){try{var oTs=new Object();var prs=unescape(gEbUT).split("$$");for(var i=0;i<prs.length;i++){var sp=prs[i];if(sp){var idx=prs[i].indexOf("=");var tname=prs[i].substr(0,idx);var tval=prs[i].substr(idx+1);oTs[tname] = escape(tval);}}for(var t in oTs)u=u.replace(new RegExp("\\[%"+t+"%\\]","ig"),oTs[t]);return u;}catch(e){}}function ebTokens(u){if(typeof(ebTX)=="function")u=ebTX(u);return u.replace(/\[ebRandom\]/ig,ebRand).replace(/\[timestamp\]/ig,ebRand).replace(/\[%tp_adid%\]/ig,7371397).replace(/\[%tp_flightid%\]/ig,3618528).replace(/\[%tp_campaignid%\]/ig,183564);}function ebReport(u){document.write("<IMG SRC="+u+" width=0 height=0 style='position:absolute;left:0px;top:0px;'></IMG>");}if("http://www.tiffany.com/Shopping/CategoryBrowse.aspx?cid=717143&mcat=14820&omcid=ZZSB888&utm_campaign=2011_Holiday_Banner_Ad_Campaign&utm_medium=Banner_Ad&utm_source=12-2_NYTimes_Homepage&utm_content=336x280_Keys_FS&utm_term=" != ""){document.write("<A HREF='http://bs.serving-sys.com/BurstingPipe/BannerRedirect.bs?cn=brd&FlightID=3618528&Page=&PluID=0&EyeblasterID=7371397&Pos=4087918739472&ord=[timestamp]' target=_blank><IMG src="+ebResourcePath+"/Site-23294/Type-0/5b68f73b-7610-4127-a51c-9c427790a04e.jpg width=336 height=280 border=0></IMG></A>");} else document.write("<IMG src="+ebResourcePath+"/Site-23294/Type-0/5b68f73b-7610-4127-a51c-9c427790a04e.jpg width=336 height=280></IMG>");/* RichNonSupported */

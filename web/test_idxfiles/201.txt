@@ -1,0 +1,1488 @@
+Set-Cookie: ASPSESSIONIDCCTSTBCS=JBBGIPCAJKJDNDBPKNDMHHIL; path=/
+Cache-control: private
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+
+	
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>Classifieds Marketplace - New York Times</title>
+		<base href="http://listings.nytimes.com/CampsandSchools/" />
+		<meta name="keywords" content="camp, summer, summer camp, daycamp, kids camp, advisory, camp equipment, girls camp, overnight camp, boys camp, speciality camp, art camps, sport camps, teen tours, co-ed camp, coed camp,  camp search, education, k-12 schools, day school, boarding school, girls school, boys school, co-ed school, coed school, school directory, american school directory, school information, elementary schools, middle schools, high schools, private schools, primary schools, secondary schools, summer school, special school" />
+		<meta name="description" content="Search Camp & School listings from the New York Times and About.com and find resources to help you find the best fit for your child" />
+		<meta http-equiv="Expire" content="now" />
+		<meta http-equiv="Pragma" content="no-cache" />
+		<meta name="robots" content="noarchive" />		
+		<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/common/global.css" />
+		<style type="text/css">
+		@import url(http://graphics8.nytimes.com//css/common/screen/general.css);
+		@import url(http://graphics8.nytimes.com//css/common/screen/navigation.css);
+		@import url(http://graphics8.nytimes.com/css/standalone/classifieds/screen/gabriels.css);
+		</style>
+        <style type="text/css">
+        a:link {text-decoration:none;color:#001276}
+
+        img{border:0px;}
+        .topdivdemo1
+        {
+	        padding:4px 10px 4px 10px;
+	        border:1px solid #cdcdcf;
+	        border-bottom:1px solid #f1f2e4;
+	        background:#f8f8d4;
+	        color:#001276;
+	        text-align:left;
+	        width:150px;
+	        font-size:11px;
+	        font-family:arial;
+	        z-index: 50;
+	        position:relative;
+
+        }
+        .botdivdemo1 
+        {
+	        padding:10px;
+	        border:1px solid #cdcdcf;
+	        background:#ffffff;
+	        color:#323232;
+	        text-align:left;
+	        width:150px;
+	        font-size:11px;
+	        font-family:arial;
+	        z-index: 50;
+	        position:relative;
+        }
+        </style>
+<script type="text/javascript">
+	//-------------------------------------------------------------------------
+function ImageResize(imgname,imgwidth,imgheight){
+	if(imgname.width>imgwidth){
+		imgname.height = imgname.height*(imgwidth/imgname.width);
+		imgname.width = imgwidth;
+	}
+	if(imgname.height>imgheight){
+		imgname.width = imgname.width*(imgheight/imgname.height);
+		imgname.height = imgheight;
+	}
+}
+//-------------------------------------------------------------------------
+function User_logout(URL){
+	URL = "../+Comshare/Userlogout.asp?RoS=S&section=S&strType=R";
+	window.open(URL,"myNYT","width=300,height=150,left=0,top=0,resizable=yes,scrollbars=yes");
+}
+//-------------------------------------------------------------------------
+function ContactInfo(loc, categoryid){
+	var Email = '';
+  	URL = "../+ComShare/User_Info.asp?Email="+Email+"&loc="+loc+"&CategoryId="+categoryid;
+   	window.open(URL,"","width=450,height=450,left=20,top=40,resizable=no,scrollbars=yes");
+}
+//-------------------------------------------------------------------------
+function getCookie(Name){
+	var search = Name + "=";
+	if (document.cookie.length > 0){ 						// if there are any cookies
+		offset = document.cookie.indexOf(search);
+    	if (offset != -1){ 									// if cookie exists
+      		offset += search.length	;	      				// set index of beginning of value
+      		end = document.cookie.indexOf(";", offset);		// set index of end of cookie value
+      		if (end == -1){
+        		end = document.cookie.length;
+			}
+      		return unescape(document.cookie.substring(offset, end));
+    	}
+	}
+}
+//-------------------------------------------------------------------------
+function openEmail(baseURL) {
+	window.open(baseURL,"", "width=400,height=455,toolbar=no,status=no,directories=no,menubar=no,resizable=no,scrollbars=no");
+}
+//-------------------------------------------------------------------------
+function openPrint(baseURL) {
+	window.open(baseURL,"", "width=610,height=500,toolbar=no,status=no,directories=no,menubar=no,resizable=no,scrollbars=yes");
+}
+//---------------------------------------------------------------------------
+function ChangeEmail() {
+	document.TheNextPage.ChangeEmail.value = 'N';
+	document.TheNextPage.submit();
+	window.reload();
+	top.window.opener.location.reload();//test
+}
+//-------------------------------------------------------------------------
+function ChangeUser(loc){
+	URL = "../+Comshare/GetEmail.asp?loc="+loc+"&RoS=S&section=S&strType=R";
+	window.open(URL,"","width=615,height=360,top=0,left=0,resizable=no");
+}
+//-------------------------------------------------------------------------
+function UserProfile(loc){
+	URL = "../+ComShare/TrackerUserProfile.asp?RoS=S&section=S&strType=R";
+	window.open(URL,"","width=600,height=580,top=0,left=0,resizable=no");
+}	
+//-------------------------------------------------------------------------
+function SaveSelect(Lid){
+	res = getCookie("NYTULSEmailId");
+	if (res != null && res !=""){
+		window.open("../+Comshare/SaveListing.asp?ListingId=" + Lid+"&section=S&strType=R","SaveSelect","width=300,height=150,scrollbars,left=0,top=0");  			
+	}
+	else{
+  	      ChangeUser('l');
+	}        
+}
+//-------------------------------------------------------------------------
+function DeleteSelect(Lid){
+	res = getCookie("NYTULSEmailId");
+	if (res != null && res !=""){
+		window.open("../+Comshare/DeleteListing.asp?ListingId=" + Lid+"&section=S&strType=R","DeleteSelect","width=300,height=150,scrollbars,left=0,top=0");  	
+	}
+	else{
+		ChangeUser('l');
+	}        
+}
+//-------------------------------------------------------------------------
+function DeleteSearch(SearchName){
+	res = getCookie("EmailAddress");
+	if (res != null && res !=""){
+		window.open("../+Comshare/DeleteSearch.asp?SearchName=" + SearchName+"&section=S&strType=R","DeleteSearch","width=300,height=150,scrollbars,left=0,top=0");  	
+	}
+	else{
+		ChangeUser('l');
+	}      
+}
+//-------------------------------------------------------------------------
+function SelectSearch(){
+	if (document.SelectSearchCriteria.SearchName.selectedIndex != 0){
+		var strSearchName = document.SelectSearchCriteria.SearchName.value;
+  		var intSelectedIndex = document.SelectSearchCriteria.SearchName.selectedIndex
+		if (document.SelectSearchCriteria.SearchName.options[intSelectedIndex].searchType == "S"){
+			top.location = "../Sales/List_Listings.asp?SoL=S&SearchName=" + strSearchName
+		}
+		else{
+			top.location = "../Rentals/List_Listings.asp?SoL=S&SearchName=" + strSearchName
+		}
+  	}	
+}
+//-------------------------------------------------------------------------
+function popMultiMapWindow(baseURL){
+	var win = window.open(baseURL, 'myWin','width=700,height=545,scrollbars=yes,resizable=no,toolbar=no,menubar=no,status=no,location=no,directories=no');
+}
+//-------------------------------------------------------------------------
+function ExpandClose(ID, icon){
+	if(document.getElementById(ID).style.display == 'none'){
+		document.getElementById(ID).style.display = '';
+		document.images[icon].src = "../images/expand_close.gif";
+ 	}
+	else{
+		document.getElementById(ID).style.display = 'none'
+        document.images[icon].src = "../images/expand_open.gif";
+ 	}
+}
+//-------------------------------------------------------------------------
+function updateListing(num,lid,ros,strType,act){
+	res = getCookie("EmailAddress");
+	if (res != null && res !=""){
+		var str = "";
+		//if (strType == 'R')  //Listings Results
+		//{
+			if (act == 'D')
+				str = '<a href="javascript:updateListing(' + num + ',\'' + lid + '\',\'' + ros + '\',\'' + strType + '\',\'S\');">Save Listing<img src="../+comshare/updatelisting.asp?flag=' + act + '&RoS=' + ros  + '&strType=' + strType + '&Lid=' + lid + '&anticache=' + Math.floor(Math.random()*5000) + '" alt="" width="1" height="1" border="0" /></a>';
+			else
+				str = '<a href="javascript:updateListing(' + num + ',\'' + lid + '\',\'' + ros + '\',\'' + strType + '\',\'D\');">Remove Listing<img src="../+comshare/updatelisting.asp?flag=' + act + '&RoS=' + ros  + '&strType=' + strType + '&Lid=' + lid + '&anticache=' + Math.floor(Math.random()*5000) + '" alt="" width="1" height="1" border="0" /></a>';
+		//}
+		if(document.getElementById("savedlisting" + num)) {
+			document.getElementById("savedlisting" + num).innerHTML = str;
+			for(i=0;i<100;i++) { /* do nothing */ }
+		}
+	}
+    else{
+		ChangeUser('l');
+	}    
+}
+
+//-------------------------------------------------------------------------
+</script>
+		<!--[if IE 7]>
+			<style type="text/css"> @import url(http://graphics8.nytimes.com/css/common/screen/ie7.css); </style>
+		<![endif]-->
+		
+			<script type="text/javascript" src="http://graphics10.nytimes.com/js/common.js"></script>
+			<script type="text/javascript" src="http://graphics10.nytimes.com/js/common/screen/modifyNavigationDisplay.js"></script>
+			<script type="text/javascript" src="http://graphics10.nytimes.com/js/todays_date.js"></script>
+			<script type="text/javascript" src="http://graphics10.nytimes.com/js/Tacoda_AMS_DDC_Header.js"></script>
+			
+
+<!--AD TAGS -->
+<script src="http://www.nytimes.com/adx/bin/adx_remote.html?type=fastscript&page=listings.nytimes.com/campsandschools/search&posall=Top5,TopAd,SFMiddle,Bottom7,Bottom8,Bottom9,Inv1,Inv2,Inv3&query=qstring&keywords=?"></script>
+	</head>
+	<body>
+<!-- Top5 position -->
+<script language="JavaScript">
+<!--
+if (typeof adxpos_Top5 != "undefined")
+    document.write(adxads[adxpos_Top5]);
+// -->
+</script>
+
+<noscript>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=cookie&pos=Top5"><img src="http://www.nytimes.com/adx/bin/adx_remote.html?type=noscript&page=listings.nytimes.com/campsandschools/search&posall=Top5,TopAd,SFMiddle,Bottom7,Bottom8,Bottom9,Inv1,Inv2,Inv3&pos=Top5&query=qstring&keywords=?"></a></noscript>
+
+	<div id="shell">
+	<div id="login">
+	<ul id="memberTools">
+	<li><iframe height="15" width="480" scrolling="no" frameborder="0"  src="http://www.nytimes.com/export_html/common/new_login_iframe.html">
+	[Your user agent does not support frames or is currently configured
+	not to display frames. However, you may visit
+	<a href="http://www.nytimes.com/export_html/common/new_login_iframe.html">the related document.</a>]
+	</iframe></li>
+	</ul>
+	<ul class="tabs">
+	<li><a href="http://www.nytimes.com">Home Page</a></li>
+	<!--<li><a href="http://my.nytimes.com">My Times</a></li>-->
+	<li><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today&#39;s Paper</a></li>
+	<li><a href="http://www.nytimes.com/video">Video</a></li>
+	<li><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+	<li><a href="http://www.nytimes.com/timestopics">Times Topics</a></li>
+	</ul>
+	</div><!-- close login -->
+
+	<div id="page">
+	<div id="masthead">
+	<div id="Middle1"><!-- Middle1C position -->
+	
+	</div><!-- close Middle1C -->
+
+	<form id="searchForm" name="searchForm" method="GET" action="http://query.nytimes.com/gst/sitesearch_selector.html" enctype="application/x-www-form-urlencoded">
+	<input type="hidden" name="date_select" value="full">
+
+	<div id="searchWidget">
+	<input id="searchQuery" type="text" name="query" size="20" value="">
+
+	<div id="searchInputs">
+
+	<input type="image" src="http://graphics8.nytimes.com/images/global/global_search/search_button40x19.gif" alt="Search" title="Search" id="searchSubmit">
+	<ul class="inputGroup">
+
+	<li><input id="searchAll" type="radio" name="type" value="nyt" checked="checked">&nbsp;<label for="searchAll">All 
+	NYT</label></li>
+	</ul>
+	</div><!-- close searchInputs -->
+
+	</div><!-- close searchWidget -->
+
+	</form>
+
+	<img id="NYTLogo" alt="New York Times" title="New York Times" src="http://www.nytimes.com/images/misc/nytlogo153x23.gif">
+
+	<div id="date">
+	<script type="text/javascript">document.write(day + ' ' + month + ' ' + myweekday + ', ' + year);</script>
+	</div><!-- close date -->
+
+	<h1><a href="http://listings.nytimes.com/classifiedsmarketplace/">Classifieds Marketplace</a></h1>
+	</div><!-- close masthead -->
+
+	<div id="navigation" class="">
+	<ul class="tabs">
+	<li id="navWorld" class="selected">
+	<a href="http://www.nytimes.com/pages/world/index.html">
+	World
+	</a>
+
+    <ul style="padding-bottom:3px;">
+    <li style="border:1px solid #E2E2E2;background-color:#fff;padding:2px 10px;text-transform:none;margin:0 0px 0 50px;">
+        <span style="text-transform:uppercase;font-weight:bold;"><a href="http://listings.nytimes.com/classifiedsmarketplace/">Classifieds Marketplace</a></span>
+        
+        <span class="selected nochildren" style="padding-left:10px;"><a style="color:#004276;" href="../../BusinessDirectory/">Business Directory</a></span>
+        
+        <span class="selected nochildren" style="padding-left:10px;"><a href="../../CampsAndSchools/" style="color:#004276;font-weight:bold;">Camps &amp; Schools</a></span>
+        
+        <span class="selected nochildren" style="padding-left:10px;"><a style="color:#004276;" href="../../HomeAndGarden/">Home &amp; Garden Directory</a></span>
+        
+        <span class="selected nochildren" style="padding-left:10px;"><a style="color:#004276;" href="../../VacationRentalsAndInns/">Vacation Rentals &amp; Inns</a></span>
+        
+    </li>
+    </ul>
+	    <!--<ul style="text-align:center;border:1px solid red;">
+	        <li  class="selected nochildren"><a href="../CampsAndSchools/">Camps &amp; Schools</a></li>	
+	        <li ><a href="../HomeAndGarden/">Home &amp; Garden</a></li>
+	        <li ><a href="http://query.nytimes.com/gst/personals.html?pquery=&cat=All&submit2.x=10&submit2.y=14">Personals</a></li>	
+	        <li ><a href="../BusinessDirectory/">Business Directory</a></li>
+	        <li ><a href="../VacationRentalsAndInns/">Vacation Properties</a></li>
+	        <li ><a href="../Weddings/">Weddings Directory</a></li>
+	    </ul>-->
+	</li><!--navWorld-->
+	<li id="navUS"><a href="http://www.nytimes.com/pages/national/index.html">U.S.</a></li>
+	<li id="navNYRegion"><a href="http://www.nytimes.com/pages/nyregion/index.html">
+	N.Y. / Region</a></li>
+	<li id="navBusiness"><a href="http://www.nytimes.com/pages/business/index.html">
+	Business</a></li>
+	<li id="navTechnology"><a href="http://tech.nytimes.com/pages/technology/index.html">
+	Technology</a></li>
+	<li id="navScience"><a href="http://www.nytimes.com/pages/science/index.html">
+	Science</a></li>
+	<li id="navHealth"><a href="http://www.nytimes.com/pages/health/index.html">
+	Health</a></li>
+	<li id="navSports"><a href="http://www.nytimes.com/pages/sports/index.html">
+	Sports</a></li>
+	<li id="navOpinion"><a href="http://www.nytimes.com/pages/opinion/index.html">
+	Opinion</a></li>
+	<li id="navArts"><a href="http://www.nytimes.com/pages/arts/index.html">Arts</a></li>
+	<li id="navStyle"><a href="http://www.nytimes.com/pages/style/index.html">Style</a></li>
+	<li id="navTravel"><a href="http://travel.nytimes.com/pages/travel/index.html">
+	Travel</a></li>
+	<li id="navJobs"><a href="http://jobmarket.nytimes.com/pages/jobs/index.html">
+	Jobs</a></li>
+	<li id="navRealestate"><a href="http://www.nytimes.com/pages/realestate/index.html">
+	Real Estate</a></li>
+	<li id="navAutos"><a href="http://www.nytimes.com/pages/automobiles/index.html">
+	Autos</a></li></ul>
+	</div><!-- close navigation -->
+	<script type="text/javascript">modifyNavigationDisplay();</script>
+
+<div id="adxLeaderboard">
+<!-- TopAd position -->
+<script language="JavaScript">
+if (typeof adxpos_TopAd != "undefined")
+    document.write(adxads[adxpos_TopAd]);
+// 
+</script>
+<noscript>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=cookie&pos=TopAd">
+<img src="http://www.nytimes.com/adx/bin/adx_remote.html?type=noscript&page=listings.nytimes.com/campsandschools/search&posall=Top5,TopAd,SFMiddle,Bottom7,Bottom8,Bottom9,Inv1,Inv2,Inv3&pos=TopAd&query=qstring&keywords=?"></a></noscript>
+
+</div><!-- close adxLeaderboard -->
+
+	<div id="main" style="margin-top:0;padding-bottom:0px;">
+	<a name="top"></a>
+	
+<link rel="stylesheet" type="text/css" href="css/gabriels.css">
+<link rel="stylesheet" type="text/css" href="css/searchBox-large.css">
+<link rel="stylesheet" type="text/css" href="http://listings.nytimes.com/Redesign/+Include_Files/css/googleMaps.css"><!--change file name -->
+
+
+			<form method="POST" name="TheNextPage" id="TheNextPage" action="List_Listings.asp">
+				<input type="hidden" name="SubCatId" value="" ID="Hidden1">
+				<input type="hidden" name="RegionId" value="" ID="Hidden2">
+				<input type="hidden" name="Keyword" value="" ID="Hidden3">
+				<input type="hidden" name="FirstFlag" value="" ID="Hidden4">
+				<input type="hidden" name="ChangeEmail" value="" ID="Hidden5">
+			</form>
+			<form name="details" method="POST" ID="Form1">
+				<input type="hidden" name="SubCatId" value="" ID="Hidden6">
+				<input type="hidden" name="RegionId" value="" ID="Hidden7">
+				<input type="hidden" name="Keyword" value="" ID="Hidden8">
+				<input type="hidden" name="strLsId" id="strLsId" value="">
+				<input type="hidden" name="Lid" value="" ID="Hidden9">
+				<input type="hidden" name="LIndex" value="" ID="Hidden10">
+				<input type="hidden" name="ctRS" value="" ID="Hidden11">
+			</form>
+
+<script src="http://maps.google.com/maps?file=api&v=2.x&key=ABQIAAAAjSrQepBjwfM1ZZOO7bAnEhQO1Ojpzt3_X6bBWjkKQCwRJ98RKBTaLo1jerb72QzAyK1Ylaw6tKo-mg" type="text/javascript"></script>
+<script language="javascript" type="text/javascript" src="js/SearchIndex.js"></script>
+<script language="JavaScript">
+function LookDetails(lc,lid,ct) {
+	document.details.Lid.value = lid;
+	//document.details.LIndex.value = ct;
+	//original:document.details.action = "View_" + lc + "listing.asp";
+	document.details.action = "View_listing.asp";
+	document.details.submit();
+}
+</script>
+
+<div id="gtsContent" class="twoColumn">
+	<div class="leftColumn">
+		
+
+<div id="searchBox">
+
+<div id="searchBox-title">Search Camps &amp; Schools Listings</div>
+
+
+
+<div id="searchBox-desc">
+		Search Camp & School listings from The New York Times and find resources to help you find the best fit for your child.
+		<!--CategoryID=NYTSCH-->
+</div><!--searchBox-desc-->
+
+<div>
+
+
+<script>
+	<!--
+	function submitSearchbox() {
+		if (document.searchBox.KeyWord.value == '-- Keyword --') document.searchBox.KeyWord.value = '';
+		document.searchBox.submit();
+	}
+	//-->
+</script>
+
+<form name="searchBox" action="http://listings.nytimes.com/CampsandSchools/List_Listings.asp">
+<input type="hidden" name="ChangeEmail">
+
+	<select name="SubCatId" id="SubCatId">
+		<option value="">-- Select a Category --</option>
+		<option value="110" >Camps</option><option value="1100" >&nbsp;&nbsp;&nbsp;Academic Programs</option><option value="112" >Other</option><option value="1127" >&nbsp;&nbsp;&nbsp;All Other</option><option value="111" >Schools</option><option value="1115" >&nbsp;&nbsp;&nbsp;Academic Programs</option><option value="1129" >&nbsp;&nbsp;&nbsp;Other Schools</option>
+	</select>
+
+
+	<div id="searchBox-andOr1">and/or</div>
+
+	<label for="RegionId" id="searchBox-locationLabel">Location:</label>
+	
+		<select name="RegionId" id="RegionId">
+		<!--<select name="RegionId" id="RegionId" onchange="javascript:getRegions()">-->
+			<option value="">-- Select a Location --</option>
+			<option value="5" >All Areas</option><option value="10" >General US</option><option value="2022" >New York</option><option value="82400" >New York City Metro Area</option>
+		</select>
+		
+	<div id="searchBox-andOr2">and/or</div>
+	<label for="searchBox-keyword" id="searchBox-keywordLabel">Keyword:</label>
+	<!--<div style="border:1px solid green; float:right;width:25px;">-->
+	<input type="text" name="KeyWord" id="searchBox-keyword" value="-- Keyword --" onFocus="if(this.value=='-- Keyword --') this.value='';" onBlur="if(this.value=='') this.value='-- Keyword --';">
+	<!--<a href="javascript:Search_Listings();">-->
+	<a id="searchBox-button" href="javascript:submitSearchbox();"><img src="http://listings.nytimes.com/Redesign/+Comshare/images/button-go.gif"></a>
+	<!--</div>-->
+</form>
+</div>
+
+</div>
+<!--0:Camps//<br />1:&nbsp;&nbsp;&nbsp;Academic Programs//<br />2:Other//<br />3:&nbsp;&nbsp;&nbsp;All Other//<br />4:Schools//<br />5:&nbsp;&nbsp;&nbsp;Academic Programs//<br />6:&nbsp;&nbsp;&nbsp;Other Schools//<br />-->
+		<center>
+			<div id="debug" style="display:none;"></div>
+			<div id="mapBorder">
+				<div id="map"></div>
+			</div>	
+		</center>
+		<!--<div id="legend">-->
+		    <!--<ul>
+		        <li><img src="../images/map_markers/legend-C.jpg" />= camps</li>
+		        <li class="left_pad"><img src="../images/map_markers/legend-S.jpg" /> = schools</li>
+		        <li class="left_pad"><img src="../images/map_markers/legend-O.jpg" /> = other</li>
+		    </ul>-->
+		    <!--<div id="camps"><span>= camps</span></div>
+		    <div id="schools"><span>= schools</span></div>
+		    <div id="other"><span>= other</span></div>-->
+		<!--</div>-->
+
+		<div id="status"></div>
+		<div id="listings" style="display:none;"></div>
+		<div class="clearAll" style="height:20px"></div>
+
+		
+						<!--<div class="subcategoryGroup subcategoryGroup-right">-->
+						<div class="subcategoryGroup subcategoryGroup-left">
+						<h3><a href="List_Listings.asp?CategoryID=NYTSCH&SubCatID=110">Camps&nbsp;&raquo;</a></h3>
+						<ul>
+						<li class="free"><a href="List_Listings.asp?CategoryID=NYTSCH&SubCatID=1100">Academic Programs</a></li></ul></div>
+						<!--<div class="subcategoryGroup subcategoryGroup-left">-->
+						<div class="subcategoryGroup subcategoryGroup-left">
+						<h3><a href="List_Listings.asp?CategoryID=NYTSCH&SubCatID=112">Other&nbsp;&raquo;</a></h3>
+						<ul>
+						<li class="free"><a href="List_Listings.asp?CategoryID=NYTSCH&SubCatID=1127">All Other</a></li></ul></div><div class='clearAll clearAll_heigh'></div>
+						<!--<div class="subcategoryGroup subcategoryGroup-right">-->
+						<div class="subcategoryGroup subcategoryGroup-left">
+						<h3><a href="List_Listings.asp?CategoryID=NYTSCH&SubCatID=111">Schools&nbsp;&raquo;</a></h3>
+						<ul>
+						<li class="free"><a href="List_Listings.asp?CategoryID=NYTSCH&SubCatID=1115">Academic Programs</a></li><li class="free"><a href="List_Listings.asp?CategoryID=NYTSCH&SubCatID=1129">Other Schools</a></li>
+			</ul>
+			</div>
+			<div class="clearAll"></div>
+			
+		
+		<div class="doubleLine"></div>
+		<script type="text/JavaScript">
+	var google_hints = "Summer+Camp"
+</script>
+
+<script>
+<!--
+ if (typeof adxpos_SponLink != "undefined")
+  document.write(adxads[adxpos_SponLink]);
+// -->
+</script>
+<noscript>
+<a href="http://www.nytimes.com/adx/bin/adx_remote.html?type=cookie&pos=SponLink">
+<img src="http://www.nytimes.com/adx/bin/adx_remote.html?type=noscript&page=listings.nytimes.com/campsandschools/search&posall=Top5,TopLeft,Middle1,SFMiddle,SponLink,TopAd,Right3,Right1,Bottom7,Bottom8,Bottom9,Inv1,Inv2,Inv3&pos=SponLink&query=qstring&keywords=?">
+</a></noscript>
+	</div>
+	<div class="rightColumn">
+		
+
+<!--live url:--><a id="postAnAd" href="https://placead.nytimes.com/default.asp?CategoryID=NYTSCH">Post Your Listing on The New York Times &raquo;</a>
+<!--staging url: 
+<a id="postAnAd" href="http://209.11.106.150/NYTULS_FSBOStaging/default.asp?CategoryID=NYTSCH">Post Your Listing on The New York Times &raquo;</a>-->
+
+<div class="rightRail-content">
+	<h3>My Listings</h3>
+	Sign up for your own account to save listings that interest you!
+	
+		<dl>
+		<dt><a href="javascript:ContactInfo('h')">Sign Up Now &raquo;</a></dt>
+		<dd><a href="javascript:ChangeUser('h')">Log in &raquo;</a></dd>
+		</dl>
+		<div class="clearAll"></div>
+		
+
+</div>
+<div class="singleLine"></div>
+
+
+<div class="advertisement">
+
+<!-- SFMiddle position -->
+<div>
+<script language="JavaScript">
+
+if (typeof adxpos_SFMiddle != "undefined")
+    document.write(adxads[adxpos_SFMiddle]);
+
+</script>
+</div>
+
+    <noscript>
+    <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=cookie&pos=SFMiddle">
+    <img src="http://www.nytimes.com/adx/bin/adx_remote.html?type=noscript&page=listings.nytimes.com/campsandschools&posall=Top5,TopAd,SFMiddle,Bottom7,Bottom8,Bottom9,Inv1,Inv2,Inv3&pos=SFMiddle&query=qstring&keywords=?">
+    </a>
+    </noscript>
+
+</div>
+
+
+		<div class="featuredListing">
+			<h3>Featured Listing</h3>
+			<!--<div class="featuredContent">-->
+			<div style="margin:0px; padding:0px;float:left;width:170px;">
+				<a href="View_Listing.asp?CategoryID=NYTSCH&Lid=80-SCH1003242" class="featuredListing-title" style="color:#004276;padding:0 0 3px 0;">Johns Hopkins Center for Talented Youth (CTYOnline</a>
+				
+				<div style="font:11px normal Arial, sans-serif;color:#000000;overflow:hidden;">GIFTED PRE-K to GRADE 12 STUDENTS TAKE ADVANCED COURSES ONLINE WITH JOHNS HOPKINS CENTER FOR TALENTED YOUTH Join a social network of academic achievers. CTYOnline courses supplement and complement a b...</div>
+			    
+			</div>
+		    <table border="0" cellpadding="0" cellspacing="0" width="125" height="125" style="overflow:hidden; border:1px solid #cccccc; float:right;">
+				<tr>
+					<td bgcolor="White" align="center" valign="middle"><a href="View_Listing.asp?CategoryID=NYTSCH&Lid=80-SCH1003242"><img src="http://gimagesr.gabriels.net/ImageReader.aspx?W=125&H=125&ImageURL=http%3A%2F%2Fnytulsimages%2Egabriels%2Enet%2Fjhuimage%2Ejpg" onerror="this.src='../+Comshare/images/noPhoto-125x125.gif';"/></a></td>
+				</tr>
+		    </table>
+			<div class="clearAll"></div>
+		</div>
+		<!--<div class="singleLine"></div>-->
+		
+
+<!--<div class="rightRail-content">-->
+<div class="printad">
+	<h3>Place Your Ad in Print</h3>
+	To have your listing appear in the New York Times Magazine Camps & Schools supplement, please call 212-556-8081.
+</div>
+
+<style>
+.featuredListing_1 {
+	font-family: Arial;
+	font-size: 12px;
+	/*border: 1px solid #cdcdcd;*/
+	background-color:#f0f4f5;
+	margin: 0 0 10px 0;
+	padding: 0px;
+	display: block;
+	/*width: 308px;*/
+}
+</style>
+<!--<div class="singleLine"></div>-->
+<!---->
+
+
+<div class="rightRail-content">
+	<h3>Contact Us</h3>
+	For help with ONLINE ads, please email:
+	<a href="mailto:onlineclassifieds@nytimes.com">onlineclassifieds@nytimes.com</a>
+</div>
+		
+	</div>
+</div>
+
+<script language="javascript" type="text/javascript">
+// Google Map Code - This code should go just before </body> to make sure all document objects are instantiated before use
+
+//global variables
+var adjustView = true;
+var usedTownControl = true;
+//Blair changed from 11 to 3
+var minZoom = 3;
+var maxZoom = 17;
+var thisPage = 1;
+var lastPage = 1;
+var strLsIds = '';
+var boundsListings = [];
+var RSCount = 0;
+var firstRun = false;
+var loaded = false;
+var loading = false;
+var infoOpen = false;
+
+//set lat lng padding per zoomlevel
+var latlngPadding = [];
+latlngPadding[1] = 0;
+latlngPadding[2] = 0;
+latlngPadding[3] = 0;
+latlngPadding[4] = 0;
+latlngPadding[5] = 0;
+latlngPadding[6] = 0;
+latlngPadding[7] = 0;
+latlngPadding[8] = 0;
+latlngPadding[9] = 0;
+latlngPadding[10] = .05;
+latlngPadding[11] = .03;
+latlngPadding[12] = .01;
+latlngPadding[13] = .007;
+latlngPadding[14] = .002;
+latlngPadding[15] = .001;
+latlngPadding[16] = .0005;
+latlngPadding[17] = .0002;
+
+//if there were a main(), this would be it
+if (GBrowserIsCompatible()) 
+{ 
+		window.unLoad = GUnload();
+		
+		//set up marker blank
+		var markerOff = [];
+		var markerOn = [];
+		
+		markerOff['single']  = 'http://listings.nytimes.com/Redesign/images/map_markers/singlepoint_off.png';
+		markerOff['multi']  = 'http://listings.nytimes.com/Redesign/images/map_markers/multipoint_off.png';
+		
+		markerOn['single']  = 'http://listings.nytimes.com/Redesign/images/map_markers/singlepoint_on.png';
+		markerOn['multi']  = 'http://listings.nytimes.com/Redesign/images/map_markers/multipoint_on.png';
+		
+		//set up marker numbers
+		var overlay = [];
+		for(var i = 1; i < 51; i++)
+		{overlay[i] ='';
+//			if(i < 10)
+//			{
+//				overlay[i] = '../images/map_markers/0' + i + '.png';
+//			}
+//			else
+//			{
+//				overlay[i] = '../images/map_markers/' + i + '.png';	
+//			}
+		}
+		
+		// set up map appearance
+		var opacity = 0.7;
+		G_NORMAL_MAP.getTileLayers()[0].getOpacity = function () {return opacity;};
+		G_SATELLITE_MAP.getTileLayers()[0].getOpacity = function () {return opacity;};
+		G_HYBRID_MAP.getTileLayers()[0].getOpacity = function () {return opacity;};
+		G_HYBRID_MAP.getTileLayers()[1].getOpacity = function () {return opacity;};
+		
+		// set the initial position and display the map
+		var map = new GMap2(document.getElementById("map"));
+		map.addControl(new GSmallZoomControl());
+		map.addControl(new GScaleControl());
+		map.enableContinuousZoom();
+		
+		//set zoom bounds
+		var zL = map.getMapTypes();
+		for (var i=0; i < zL.length; i++) 
+		{
+			zL[i].getMinimumResolution = function() {return minZoom;}
+			zL[i].getMaximumResolution = function() {return maxZoom;}
+		}
+		map.setCenter(new GLatLng(0,0),0);
+
+		//set up event handlers
+		GEvent.addListener(map, "dragend", function()
+		{
+			map.savePosition();
+			adjustView = false;
+			calcLatLng('coors');
+		});
+		
+		GEvent.addListener(map, "zoomend", function()
+		{
+			map.savePosition();
+			if(!usedTownControl)
+			{
+				adjustView = false;
+				calcLatLng('coors');
+			}
+		});
+		
+		GEvent.addListener(map, "infowindowclose", function()
+		{
+			map.returnToSavedPosition();
+		});
+		
+		//show the first set of listings
+		
+		if (document.TheNextPage.FirstFlag.value == 'Y'){
+			runFirstTime();
+			}
+		else{
+			calcLatLng('region');
+			}
+}
+else 
+{
+      // display a warning if the browser is not compatible
+		 alert("Sorry, your browser does not appear to be able to display Google Maps.");
+}
+//----------------------->
+function runFirstTime()
+{
+	RSCount = document.TheNextPage.RSCount.value;
+	thisPage = document.TheNextPage.MThisPage.value;
+	lastPage = document.TheNextPage.MLastPage.value;
+	boundsListings[1] = document.TheNextPage.strLsIds1.value;
+	boundsListings[2] = document.TheNextPage.strLsIds2.value;
+	boundsListings[3] = document.TheNextPage.strLsIds3.value;
+	boundsListings[4] = document.TheNextPage.strLsIds4.value; 
+	boundsListings[5] = document.TheNextPage.strLsIds5.value; 
+	boundsListings[6] = document.TheNextPage.strLsIds6.value;
+	boundsListings[7] = document.TheNextPage.strLsIds7.value; 
+	boundsListings[8] = document.TheNextPage.strLsIds8.value;		
+	//var testStr="RSCount:"+RSCount+","+"thisPage:"+thisPage+","+"lastPage:"+lastPage;
+	
+	calcLatLng('page');
+}
+function calcLatLng(updateAction)
+{
+	//set up bounding box
+	var latlngPaddingIndex = adjustView ? 0 : map.getZoom();			
+	var newBounds = map.getBounds();
+	var ne = newBounds.getNorthEast();
+	var sw = newBounds.getSouthWest();
+	var maxLat = ne.lat() - latlngPadding[latlngPaddingIndex]; 
+	var maxLng = ne.lng() - latlngPadding[latlngPaddingIndex];
+	var minLat = sw.lat() + latlngPadding[latlngPaddingIndex];
+	var minLng = sw.lng() + latlngPadding[latlngPaddingIndex];
+	var searchBounds = 'MaxLat=' + maxLat + '&MaxLng=' + maxLng + '&MinLat=' + minLat + '&MinLng=' + minLng;
+	
+	//set up search criteria
+	
+	var SubCatId = document.getElementById("SubCatId").value;
+	var regionId = document.getElementById("RegionId").value;
+	//alert("SubCatId:"+SubCatId+"/"+"RegionId:"+regionId);
+	//var SubCatId = document.getElementById("SubCatId").value;
+	//var bRooms = document.getElementById("BRooms").value;
+	//var hPrice = document.getElementById("HPrice").value;
+	//var lPrice = document.getElementById("LPrice").value;
+	//var openHouse = document.getElementById("OpenFlag").checked ? 'Y' : 'N';
+	
+	//setup query string for xmllistings.asp
+	//var qString = 'http://209.11.106.151/NYT_ULS_Redesign/CampsandSchools/XML_Listings.asp?';
+	var qString = 'XML_Listings.asp?';
+	var newPage = true;
+	switch(updateAction)
+	{	
+		//send region id and search criteria
+		case 'region':
+			qString = qString +
+			'RegionId=' + regionId +'&'+
+			'Keyword=' + '&' +
+			'SubCatId=' + SubCatId;
+			break;
+		
+		//send coordinates and search criteria
+		case 'coors':
+			qString = qString +
+			'lastPage=' + lastPage + '&' +'thisPage=' + thisPage + '&' +'RSCount=' + RSCount + '&' +'sLsIds'+ thisPage +'=' + boundsListings[thisPage];
+			//'RegionId=' + regionId +'&'+
+			//'Keyword=' + '&' +
+			//'SubCatId=' + SubCatId;
+			newPage = false;
+			break;
+			
+		//send count, this and last pages, strLsIdsPriceDesc
+		case 'page':
+			qString = qString +
+				'RSCount=' + RSCount + '&' +
+				'thisPage=' + thisPage + '&' +
+				'lastPage=' + lastPage + '&' +
+				'sLsIds'+ thisPage +'=' + boundsListings[thisPage];//set this for next page amy 05/18/07
+				//'strLsIds=' + boundsListings[thisPage];
+				//adjustView = true;
+				newPage = false;
+			break;
+	}
+	populateMap(qString, newPage);
+}
+var request='';
+function populateMap(qString, newPage)
+{
+//show the loading screen if this takes too long
+	loaded = false;
+	var delay = 500;
+	setTimeout("showLoad()", delay);
+	//go get that XML!
+	var request = '';
+	
+	if (window.ActiveXObject) 
+	{
+     // use the ActiveX control for IE
+	  request = new ActiveXObject('MSXML2.XMLHTTP.3.0');
+  	}
+	else
+	{
+		request = GXmlHttp.create();
+	}
+	
+	request.onreadystatechange = function() 
+	{
+	    if (request.readyState == 4) 
+		{
+		    var bounds = new GLatLngBounds();
+			var txtDoc=request.responseText;//test
+			var xmlDoc = request.responseXML;		
+			//alert("TEST:"+xmlDoc.documentElement);
+			var markers = xmlDoc.documentElement.getElementsByTagName("listing");
+		    if(markers.length > 0)
+			    {
+				    var preMarker = [];
+				    var mlCount = 0;
+				    var lCount = (markers.length > 0) ? markers.length - 1 : 0;
+    				
+				    //store the pageview info
+				    thisPage = markers[lCount].getAttribute("ThisPage");
+				    lastPage = markers[lCount].getAttribute("LastPage");
+				    if(newPage)
+				    {
+					    boundsListings[1] = markers[lCount].getAttribute("strLsIds1"); 
+					    boundsListings[2] = markers[lCount].getAttribute("strLsIds2"); 
+					    boundsListings[3] = markers[lCount].getAttribute("strLsIds3"); 
+					    boundsListings[4] = markers[lCount].getAttribute("strLsIds4"); 
+					    boundsListings[5] = markers[lCount].getAttribute("strLsIds5"); 
+					    boundsListings[6] = markers[lCount].getAttribute("strLsIds6"); 
+					    boundsListings[7] = markers[lCount].getAttribute("strLsIds7"); 
+					    boundsListings[8] = markers[lCount].getAttribute("strLsIds8"); 
+				    }
+    				
+				    RSCount = markers[lCount].getAttribute("RSCount");
+				    document.getElementById("strLsId").value = markers[lCount].getAttribute("strLsId");
+				    //document.getElementById("ctRS").value = markers[lCount].getAttribute("ListingCount");
+    								
+				    /* debug stats go here */
+//				    document.getElementById("debug").innerHTML = document.getElementById("debug").innerHTML +
+//					    'zoom level: ' + map.getZoom() + '<br>' +
+//					    'boundary padding: ' + latlngPadding[map.getZoom()] + '<br>' +
+//					    'total listings: ' + RSCount + '<br>' +
+//					    'this page: ' + thisPage + '<br>' +
+//					    'last page: ' + lastPage + '<br>' +
+//					    'markers.length: ' + markers.length; 
+    				
+				    for (var i = 0; i < lCount; i++)
+				    {
+					    // obtain the attribues of each marker
+					    var companyId=markers[i].getAttribute("companyId");             //0
+					    var listingId = markers[i].getAttribute("listingId");		    //1
+					    var zip = markers[i].getAttribute("zip");                       //2
+					    var address = markers[i].getAttribute("address");               //3
+					    var city = markers[i].getAttribute("city");                     //4
+					    var state = markers[i].getAttribute("state");                   //5
+					    var email = markers[i].getAttribute("email");                   //6
+					    var saved = markers[i].getAttribute("saved");                   //7
+					    var subcategory = markers[i].getAttribute("subcategory");       //8
+					    var phone = markers[i].getAttribute("phone");                   //9
+					    var url = markers[i].getAttribute("url");                       //10
+					    var photo1 = markers[i].getAttribute("photo1");		            //11
+					    if(photo1 == '0' || photo1 == '')
+					    {
+						    photo1 = 'http://listings.nytimes.com/Redesign/images/no_photo.gif';
+					    }
+					    var lng = parseFloat(markers[i].getAttribute("lng"));		    //12
+					    var lat = parseFloat(markers[i].getAttribute("lat"));           //13	
+					    var geoStatus = markers[i].getAttribute("geostatus");		    //14
+					    var comments = markers[i].getAttribute("comments");             //15
+					    var adtitle = markers[i].getAttribute("adtitle");               //16
+					    var price = markers[i].getAttribute("price");                   //17
+    					
+					    var point = new GLatLng(lat,lng);                               //18                          								
+					    var iconType = 'single';										//19	
+					    var html = '';													//20						
+					    var mapped = true;                                              //21
+					    var markerLetter = markers[i].getAttribute("markerletter");		//22 
+                   
+  				    //infowindow html
+					    if(geoStatus == 'A')
+					    {
+						    mlCount++;
+						    html =
+						    '<table width="270" cellpadding="4" border="0" class="mapInfoWindow" style="text-align:left;">' 
+						    + '<tr>' 
+							    + '<td width="15">' 
+								    + '<table align="center" border="0"><td id="listingIndex">' + mlCount + '</td></table></div>'  
+							    + '</td>' 
+							    + '<td id="ListingImage" width="70">' 
+								    + '<a href="javascript:LookDetails(\'' +  '\',\'' + listingId + '\',' + mlCount + ')">' 
+									    + '<img src="' + photo1 + '" width="100" height="70" border="0" style="border:1px solid #cccccc;">' 
+								    + '</a></td>' 
+							    + '<td id="iwListingDetail">' 
+								    + '<a href="javascript:LookDetails(\'' +  '\',\'' + listingId + '\',' + mlCount + ')" class="mapListingAddress"><strong>' 
+									    +adtitle 
+								    + '</strong></a><br>' + subcategory +'<br><span class="mapInfoPrice">' + city+', '+state + '</span><br>'
+								    + '<a href="javascript:LookDetails(\'' + '\',\'' + listingId + '\',' + mlCount + ')">' 
+									    + 'View Details...' 
+								    + '</a>' 
+							    + '</td>' 
+						    + '</tr>' 
+					    + '</table>';
+					    }//if(geoStatus == 'A')			
+					    preMarker.push([companyId,listingId,zip,address,city,state,email,saved,subcategory,phone,url,photo1,lng,lat,geoStatus,comments,adtitle,price,point,iconType,html,mapped,markerLetter]);
+				    }//for lCount
+				    
+				    //parse marker list for addresses with multiple listings by comparing address
+				    //lnr determines the radius for rollups, and Blair added the if statement
+				    //lnr values updated by amy 05/18/07
+				    var lnr = .003;
+				    if (map.getZoom() < 4) {
+						//lnr = .900;
+						lnr = .050;
+				    //} else if (map.getZoom() < 6) {
+				    //lnr = .500;
+				    } else if (map.getZoom() < 11) {
+						lnr = .010;
+					} else if (map.getZoom() < 12) {
+						//lnr = .010;
+						lnr = .005;
+					} else {
+						lnr = .003;
+					}
+				    for(var p = 0; p < preMarker.length; p++)
+				    {
+					    for(var q = 0; q < p; q++)
+					    {
+						    if(q > 0)
+						    {
+							    if(geoStatus == 'A')
+							    {
+								    //find markers at or near each other: lnr = latlng range
+								    //THIS IS WHERE lnr USED TO BE SET
+								    if(preMarker[p][21])//if mapped
+								    {
+									    if(//compare point
+										    preMarker[p][18].x < (preMarker[q][18].x + lnr) && 
+										    preMarker[p][18].x > (preMarker[q][18].x - lnr) &&
+										    preMarker[p][18].y < (preMarker[q][18].y + lnr) && 
+										    preMarker[p][18].y > (preMarker[q][18].y - lnr)
+										    )
+									    {
+										    preMarker[p][21] = false;//mapped
+										    preMarker[q][19] = 'multi';//iconType
+										    preMarker[q][20] = preMarker[q][20] + preMarker[p][20];//html   
+									    }
+									  //alert("p:"+p+"/"+"q:"+q+"/"+"preMarker[p][22]:"+preMarker[p][22]+"/"+"preMarker[q][19]:"+preMarker[q][19]+"/"+"preMarker[q][21]:"+preMarker[q][21]);  
+								    }
+							    }
+						    }//if q >0
+					    } //q < p 
+				    }//parse marker list
+				    
+				    //write statusbar text
+//				    var RSCountText = 0;
+//				    var listText = 0;
+//				    var statusHTML = 0;
+//    				
+//				    if(mlCount != 0)
+//				    {
+//					    RSCountText = (RSCount == 400) ? 'more than ' + RSCount: RSCount;
+//					    listText = (lastPage > 1) ? ' results. Please narrow your search above, or click' : ' results.';
+//    					
+//					    if(thisPage == 1)
+//					    {
+//						    statusHTML = (RSCount > 50) ? 'Mapping first ' + mlCount + ' of ' + RSCountText + listText : 'Mapping ' + mlCount + ' of ' + RSCountText + listText;
+//					    }
+//					    else if(thisPage == 8)
+//					    {
+//						    statusHTML = 'Mapping last ' + mlCount + ' of ' + RSCountText + listText;
+//					    }
+//					    else if(1 < thisPage < 8)
+//					    {
+//						    statusHTML = 'Mapping next ' + mlCount + ' of ' + RSCountText + listText;
+//					    }
+//				    }
+//				    else
+//				    {
+//					    statusHTML = 'There are no mappable listings in the search area.';
+//				    }
+				    
+				    //map paging navigation
+//				    if(lastPage > 1)
+//				    {
+//					    statusHTML = (thisPage > 1) ? statusHTML + '&nbsp;<a href="javascript:gotoPage(' + (thisPage - 1) +')">Previous</a>&nbsp;-&nbsp;' : statusHTML + '&nbsp;\n';
+//					    for(var p = 1; p <= lastPage; p++)
+//					    {
+//						    statusHTML = (p == thisPage) ? statusHTML + '[' + p + ']' + '&nbsp;' : statusHTML + '<a href="javascript:gotoPage(' + p + ');">' + p + '</a>&nbsp;\n';
+//					    }
+//					    statusHTML = (thisPage < lastPage) ? statusHTML + '-&nbsp;<a href="javascript:gotoPage(' + (parseInt(thisPage) + 1) + ')">Next</a>\n' : statusHTML;
+//				    }
+				    
+				    //listing table headers
+//				    var mappedListingsHTML =
+//					    '<thead>' +
+//						    '<tr>' +
+//							    '<th id="mappedListingHead" colspan="5">MAPPED LISTINGS</th>' +
+//						    '</tr>' +
+//						    '<tr>' +
+//							    '<th id="mlLocation" colspan="2" width="200" class="border_bottom">Location</th><th id="mlRooms" class="border_bottom">Contact Information</th><th id="mlPrice" class="border_bottom">Price</th><th id="mlTools" class="border_bottom"> &nbsp;&nbsp;Tools</th>' +
+//						    '</tr>' +
+//					    '</thead>';
+					    
+//				    var unmappedListingsHTML = 
+//					'<td' +
+//						'<tr>' +
+//							'<th id="mappedListingHead" colspan="5">LISTINGS UNABLE TO BE MAPPED</th>' +
+//						'</tr>' +
+//						'<tr>' +
+//							'<th id="mlLocation" colspan="2" class="border_bottom">Location</th><th id="mlRooms" class="border_bottom">Contact Information</th><th id="mlPrice" class="border_bottom">Price</th><th id="mlTools" class="border_bottom">Tools</th>' +
+//						'</tr>' +
+//					'</td>';
+					
+					map.clearOverlays();
+				    loaded = true;
+				    loading = false;	
+				    var mlCount = 0;
+				    var umlCount = 0;
+				    for(var j = 0; j < preMarker.length; j++)
+				    {	
+						    if(preMarker[j][19] == 'multi')
+						    {
+							    preMarker[j][20] = '<div id="miWrapper" style="margin-top:10px;height:170px;overflow:auto;"><div id="multiInfoWindow">' +preMarker[j][20] + '</div></div>';
+							    //preMarker[j][20] =preMarker[j][20];
+						    }
+    						
+						    var listingHTML = '';
+						    var marker;
+    						
+						    if(preMarker[j][14] == 'A')
+						    {
+							    mlCount++;
+							    //listingHTML = getListingHTML(mlCount,preMarker[j][0], preMarker[j][1], preMarker[j][2], preMarker[j][3], preMarker[j][4], preMarker[j][5], preMarker[j][6],preMarker[j][7], preMarker[j][8], preMarker[j][9], preMarker[j][10], preMarker[j][11], preMarker[j][15], preMarker[j][16],preMarker[j][17]);
+							    //mappedListingsHTML = mappedListingsHTML + listingHTML;
+    							
+							    if(preMarker[j][21])
+							    {
+								    marker = createMarker(preMarker[j][18], preMarker[j][20], mlCount, preMarker[j][19], preMarker[j][22]);
+								    bounds.extend(preMarker[j][18]);//point
+								    map.addOverlay(marker);
+							    }//if mapped 
+						    }//if geoStatus ==A
+						    else
+						    {
+							    umlCount++;
+							    //listingHTML = getListingHTML(umlCount + 1000,preMarker[j][0], preMarker[j][1], preMarker[j][2], preMarker[j][3], preMarker[j][4], preMarker[j][5], preMarker[j][6],preMarker[j][7], preMarker[j][8], preMarker[j][9], preMarker[j][10], preMarker[j][11], preMarker[j][15], preMarker[j][16],preMarker[j][17]);
+							    //unmappedListingsHTML = unmappedListingsHTML + listingHTML;   
+						    }
+				    }//j < preMarker.length
+				    
+//				    var mapFoot = ''; var unMapFoot = '';
+//				    var tableFooter = '<tr id="listing"><td id="listingFoot" colspan="5">&nbsp;</td></tr>';
+//				    mapFoot = unMapFoot = tableFooter;
+    				
+//				    if (mlCount == 0)
+//				    {
+//					    mappedListingsHTML = '';
+//				    }
+    				
+//				    if (umlCount == 0)
+//				    {
+//					    unmappedListingsHTML = '';
+//					    unMapFoot = '';
+//				    } 
+				    //mappedListingsHTML = mappedListingsHTML + mapFoot + unmappedListingsHTML + unMapFoot;
+				    if(adjustView)
+				    {
+					    map.setZoom(map.getBoundsZoomLevel(bounds));
+					    map.setCenter(bounds.getCenter());					
+				    }
+				    //document.getElementById("listings").innerHTML = '<table id="mappedListings" cellspacing="0" border="0" width="580"">' + mappedListingsHTML + '</table>';     
+				    //document.getElementById("status").innerHTML = statusHTML;
+				    
+				    //prepare for zoom control use
+				    adjustView = false;
+				    usedTownControl = false;
+		    }//if markers.length > 0
+		    else
+			{
+				map.clearOverlays();
+				document.getElementById("status").innerHTML = 'Your search returned no results.';
+				document.getElementById("listings").innerHTML = '';
+			}
+	    }//if request.readyState == 4  
+    }//request.onreadystatechange
+
+	request.open("GET", qString, true);
+//	request.open("GET", "../+Include_Files/js/XMLFile2.xml", true);
+	//request.open("GET", "XML_Listings.asp", true);
+	request.send(null); 
+	/* debug xml */
+	document.getElementById("debug").innerHTML = '<a href="' + qString + '" target="_blank">View XML</a><br>';
+	//window.setTimeout('document.getElementById("debug").innerHTML = request.readyState;',3000);
+
+}//populateMap()
+
+//the html for the listings
+//function getListingHTML (m,companyId,listingId,zip,address,city,state,email,saved,subcategory,phone,url,photo1,comments,adtitle,price)
+//{   
+//    mdex = (m > 1000) ? m - 1000: m;
+//    var mHTML =
+//		'<tr id="listing_' + m + '" onmouseover="rollOn(' + m + ')" onmouseout="rollOff(' + m + ')">' +
+//			'<td id="listingText" valign="top" class="border_left_bottom">' + 
+//				mdex +
+//				'</td>' +
+//			'<td id="listingText" class="border_left_bottom">'+ 
+//			'<a href="javascript:LookDetails(\'' + '\',\'' + listingId + '\',\'' + m + '\')">'+
+//				//'<a href="javascript:LookDetails(\'' + companyId + '\',\'' + listingId + '\',' + url + ')">' +
+//					address +
+//				'</a><br>' + city+', '+state+
+//			'</td>' +
+//			'<td id="listingText" class="border_left_bottom">' +
+//				' email: '+email+'<br />' +'phone: '+phone   + 
+//			'</td>' +
+//			'<td id="listingText" class="border_left_bottom">' +
+//				'<strong>' + price + '</strong>' +
+//			'</td>';
+//			
+//			//show listing tools icons	
+//		    
+//		    var mTools = '';
+//		    var ftHTML = (photo1 != '../images/no_photo.gif') ? '<a href="JavaScript: openPhoto(\'../+ComShare/photoimage.asp?Lid=' + listingId + '\')">&nbsp;<img SRC="images/icon_photo.gif" border="0" ALT="More Photos"></A>': '';
+//		    var cmHTML = (comments != '') ? '<a href="javascript:LookDetails(\'' + '\',\'' + listingId + '\',\'' + m + '\')">'+'<img src="images/icon_info.gif" BORDER="0" alt="View details" title="header=[' + address + '] body=[' + comments + '] cssheader=[topdivdemo1] cssbody=[botdivdemo1] offsetx=[-170]">' +'</a>': '';
+//		    //var sdHTML = (saved == 'Y') ? '<div id="savedlisting' + mIndex + '" style="display: inline;"><a href="javascript: updateListingM(' + mIndex + ', \'' + listingId + '\', \'S\', \'R\', \'D\');"><img src="../images/b_delete.gif" BORDER="0" alt="Delete Listing"></a></div>' : '<div id="savedlisting' + mIndex + '" style="display: inline;"><a href="javascript: updateListingM(' + mIndex + ', \'' + listingId + '\', \'S\', \'R\', \'S\');"><img src="../images/r_save_off.gif" BORDER="0" alt="Save Listing"></a></div>';
+//		    mTools =	
+//			    '<td id="mlTools" class="border_left_right_bottom">' +
+//				    mTools + cmHTML + ftHTML;
+//			    '</td>' +
+//		    '</tr>\n';
+//		    mHTML = mHTML + mTools;
+//	        return mHTML;
+//}
+
+//create the marker and set up the event window
+function createMarker(point,html,mIndex,mType,markerLetter) 
+{
+    var mLabel;
+	var icon_off;
+	var icon_on;
+	
+	var iconSingle = new GIcon();
+	iconSingle.image = 'http://listings.nytimes.com/Redesign/images/map_markers/singlepoint_off.png';
+	iconSingle.shadow = 'http://listings.nytimes.com/Redesign/images/map_markers/singlepoint_shadow.png';
+	iconSingle.iconSize = new GSize(18.0, 25.0);
+	iconSingle.shadowSize = new GSize(31.0, 25.0);
+	iconSingle.iconAnchor = new GPoint(9.0, 12.0);
+	iconSingle.infoWindowAnchor = new GPoint(9.0, 12.0);
+	iconSingle.transparent = 'http://listings.nytimes.com/Redesign/images/map_markers/singlepoint_transparent.png';
+	iconSingle.imageMap = [10,25,10,18,3,18,0,16,0,2,3,0,16,0,18,3,18,17,10,25];
+	
+	var iconMulti = new GIcon();
+	iconMulti.image = 'http://listings.nytimes.com/Redesign/images/map_markers/multipoint_off.png';
+	iconMulti.shadow = 'http://listings.nytimes.com/Redesign/images/map_markers/multipoint_shadow.png';
+	iconMulti.transparent = 'http://listings.nytimes.com/Redesign/images/map_markers/multipoint_transparent.png';
+	iconMulti.iconSize = new GSize(28.0, 33.0);
+	iconMulti.shadowSize = new GSize(45.0, 33.0);
+	iconMulti.iconAnchor = new GPoint(14.0, 16.0);
+	iconMulti.infoWindowAnchor = new GPoint(14.0, 16.0);
+	iconMulti.imageMap = [15,32,14,26,5,26,5,20,1,6,15,1,27,9,27,14,22,26,15,32];
+	
+	//assign number label and marker image
+	switch(mType)
+	{
+		case 'single':
+			mLabel = {"url":'http://listings.nytimes.com/Redesign/images/map_markers/' + markerLetter + '.png', "anchor":new GLatLng(2,3), "size":new GSize(14,14)};
+			icon_off = new GIcon(iconSingle, markerOff[mType], mLabel);
+			icon_on = new GIcon(iconSingle, markerOn[mType], mLabel);
+			break;
+		case 'multi':
+			mLabel = {"url":'http://listings.nytimes.com/Redesign/images/map_markers/' + markerLetter + '.png', "anchor":new GLatLng(10,7), "size":new GSize(14,14)};
+			icon_off = new GIcon(iconMulti, markerOff[mType], mLabel);
+			icon_on = new GIcon(iconMulti, markerOn[mType], mLabel);
+			break;
+	}
+	var marker= new GMarker(point,{icon:icon_off});
+	
+	//assign infowindow
+	GEvent.addListener(marker, "click", function()
+	{
+		map.savePosition();
+		marker.openInfoWindowHtml(html);
+		//infoOpen = true;
+	});
+	
+	GEvent.addListener(marker, "mouseover", function()
+	{
+		marker.setImage(markerOn[mType]);
+	});
+	
+	GEvent.addListener(marker, "mouseout", function()
+	{
+		marker.setImage(markerOff[mType]);
+	});
+	return marker;	
+}//createMarker()
+
+// the loading screen
+function showLoad()
+{
+	if(!loaded && !loading)
+	{
+		loading = true;
+		function loadScreen(bounds, opt_weight, opt_color) 
+		{
+		  this.bounds_ = bounds;
+		  this.weight_ = opt_weight || 2;
+		  this.color_ = opt_color || "#888800";
+		  this.opacity_ = .5;
+		  this.background_ = "url('http://listings.nytimes.com/Redesign/images/map_markers/loading.gif') no-repeat center";
+		}
+		loadScreen.prototype = new GOverlay();
+		
+		loadScreen.prototype.initialize = function(map) 
+		{
+		  var div = document.createElement("div");
+		  div.style.position = "absolute";
+		  div.style.background = this.background_;
+	
+		  map.getPane(G_MAP_FLOAT_PANE).appendChild(div);
+		
+		  this.map_ = map;
+		  this.div_ = div;
+		  this.div_.opacity = this.opacity_;
+		}
+	
+		loadScreen.prototype.remove = function() 
+		{
+		  this.div_.parentNode.removeChild(this.div_);
+		}
+		
+		loadScreen.prototype.copy = function() 
+		{
+		  return new loadScreen(this.bounds_, this.weight_, this.color_, this.backgroundColor_, this.opacity_);
+		}
+		
+		loadScreen.prototype.redraw = function(force) 
+		{
+		  // only need to redraw if the coordinate system has changed
+		  if (!force) return;
+		
+		  var c1 = this.map_.fromLatLngToDivPixel(this.bounds_.getSouthWest());
+		  var c2 = this.map_.fromLatLngToDivPixel(this.bounds_.getNorthEast());
+		
+		  this.div_.style.width = Math.abs(c2.x - c1.x) + "px";
+		  this.div_.style.height = Math.abs(c2.y - c1.y) + "px";
+		  this.div_.style.left = (Math.min(c2.x, c1.x) - this.weight_) + "px";
+		  this.div_.style.top = (Math.min(c2.y, c1.y) - this.weight_) + "px";
+		}
+		
+		var rBounds = map.getBounds();
+		var southWest = rBounds.getSouthWest();
+		var northEast = rBounds.getNorthEast();
+		var rectBounds = new GLatLngBounds(
+		    new GLatLng(southWest.lat(), southWest.lng()),
+		    new GLatLng(northEast.lat(), northEast.lng())
+			 );
+		map.addOverlay(new loadScreen(rectBounds));
+	}
+}
+
+function updateMap(b, uAction)
+{
+	adjustView = b;
+	usedTownControl = true;
+	calcLatLng(uAction);
+}
+
+function getRegions()
+{
+	if (document.searchBox.RegionId.selectedIndex > 0)
+	{
+		document.TheNextPage.FirstFlag.value = "N";
+		document.searchBox.submit();
+	}
+}
+
+function gotoPage(thePage)
+{
+	thisPage = thePage;
+	calcLatLng('page');
+}
+
+function rollOn(i)
+{
+	document.getElementById("listing_" + i).style.backgroundColor = '#f9f7d6';
+}
+
+function rollOff(i)
+{
+	document.getElementById("listing_" + i).style.backgroundColor = '#ffffff';
+}
+</script>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+
+	</div><!-- close main -->
+	<!-- BEGIN FOOTER -->
+	<div id="footer">
+	<div class="footerRow">
+	<a href="http://www.nytimes.com">Home</a>
+	<ul>
+	<li><a href="http://www.nytimes.com/pages/world/index.html">World</a></li>
+	<li><a href="http://www.nytimes.com/pages/national/index.html">U.S.</a></li>
+	<li><a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y./Region</a></li>
+	<li><a href="http://www.nytimes.com/pages/business/index.html">Business</a></li>
+	<li><a href="http://tech.nytimes.com/pages/technology/index.html">Technology</a></li>
+	<li><a href="http://www.nytimes.com/pages/science/index.html">Science</a></li>
+	<li><a href="http://www.nytimes.com/pages/health/index.html">Health</a></li>
+	<li><a href="http://www.nytimes.com/pages/sports/index.html">Sports</a></li>
+	<li><a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a></li>
+	<li><a href="http://www.nytimes.com/pages/arts/index.html">Arts</a></li>
+	<li><a href="http://www.nytimes.com/pages/style/index.html">Style</a></li>
+
+	<li><a href="http://travel.nytimes.com/pages/travel/index.html">Travel</a></li>
+	<li><a href="http://jobmarket.nytimes.com/pages/jobs/index.html">Jobs</a></li>
+	<li><a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a></li>
+	<li><a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a></li>
+	<li><a href="#top">Back to Top</a></li>
+	</ul>
+
+	</div><!-- close footerRow -->
+
+	<a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">Copyright&nbsp;<script type="text/javascript">var date = new Date(); document.write(date.getFullYear());</script></a>&nbsp;<a href="http://www.nytco.com/">The 
+	New York Times Company</a>
+
+	<ul>
+	<li><a href="http://www.nytimes.com/privacy">Privacy Policy</a></li>
+	<li><a href="http://www.nytimes.com/search">Search</a></li>
+	<li><a href="http://www.nytimes.com/corrections.html">Corrections</a></li>
+	<li><a href="http://www.nytimes.com/rss" class="rssButton">RSS</a></li>
+	<li><a href="http://firstlook.nytimes.com">First Look</a></li>
+	<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+	<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">
+	Contact Us</a></li>
+	<li><a href="http://www.nytdigital.com/careers">Work for Us</a></li>
+
+	<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+	</ul>
+
+	</div><!-- close footer -->
+
+	</div><!-- close page -->
+
+	</div><!-- close shell -->
+
+	<!-- END FOOTER -->
+
+	
+	<!-- SiteCatalyst code version: G.5.
+	Copyright 1997-2003 Omniture, Inc. More info available at
+	http://www.omniture.com --><script language="JavaScript"><!--
+	var s_account="nytclassifieds,nytimesglobal"
+	var s_pageName="campsandschools/searchindex.asp"
+	var s_server="listings.nytimes.com"
+	var s_channel="classifieds"
+	var s_pageType=""
+	var s_prop1=""
+	var s_prop2=""
+	var s_prop3=""
+	var s_prop4=""
+	var s_prop5=""
+	var s_prop6=""
+	var s_prop7=""
+	var s_prop8=""
+	var s_prop9=""
+	var s_prop10=""
+	var s_prop12=""
+	var s_prop13=""
+	var s_prop14=""
+	var s_prop15=""
+	var s_prop16=""
+	var s_prop17=""
+	var s_prop18=""
+	var s_prop19=""
+	var s_prop20=""
+	var s_campaign=""
+	var s_state=""
+	var s_zip=""
+	var s_events=""
+	var s_products=""
+	var s_purchaseID=""
+	var s_eVar1=""
+	var s_eVar2=""
+	var s_eVar3=""
+	var s_eVar4=""
+	var s_eVar5=""
+	var s_eVar6=""
+	var s_eVar7=""
+	var s_eVar8=""
+	var s_eVar9=""
+	var s_eVar10=""
+	//--></script><script language="JavaScript" src="http://graphics8.nytimes.com/js/s_code_combined.js"></script>
+	<script language="JavaScript"><!--
+	s_code=s_dc(s_account);if(s_code)s_d.write(s_code)
+	//--></script>
+	<!-- End SiteCatalyst code version: G.5. -->
+
+	<script language="Javascript">Tacoda_AMS_DDC_addPair("t_section","General Classifieds")</script>
+	<script language="Javascript">Tacoda_AMS_DDC_addPair("site","nytimes.com")</script>
+	<script language="JavaScript">Tacoda_AMS_DDC("http://te.nytimes.com/tte/blank.gif","1.0")</script>  
+	
+	</body>
+	<!--BEGIN AD TAGS-->
+	
+	<!-- Bottom7 position -->
+    <script language="JavaScript">
+    <!--
+    if (typeof adxpos_Bottom7 != "undefined")
+        document.write(adxads[adxpos_Bottom7]);
+    // -->
+    </script>
+    <noscript>
+    <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=cookie&pos=Bottom7"><img src="http://www.nytimes.com/adx/bin/adx_remote.html?type=noscript&page=listings.nytimes.com/campsandschools/search&posall=Top5,TopAd,SFMiddle,Bottom7,Bottom8,Bottom9,Inv1,Inv2,Inv3&pos=Bottom7&query=qstring&keywords=?"></a></noscript>
+
+    <!-- Bottom8 position -->
+    <script language="JavaScript">
+    <!--
+    if (typeof adxpos_Bottom8 != "undefined")
+        document.write(adxads[adxpos_Bottom8]);
+    // -->
+    </script>
+    <noscript>
+    <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=cookie&pos=Bottom8"><img src="http://www.nytimes.com/adx/bin/adx_remote.html?type=noscript&page=listings.nytimes.com/campsandschools/search&posall=Top5,TopAd,SFMiddle,Bottom7,Bottom8,Bottom9,Inv1,Inv2,Inv3&pos=Bottom8&query=qstring&keywords=?"></a></noscript>
+
+    <!-- Bottom9 position -->
+    <script language="JavaScript">
+    <!--
+    if (typeof adxpos_Bottom9 != "undefined")
+        document.write(adxads[adxpos_Bottom9]);
+    // -->
+    </script>
+    <noscript>
+    <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=cookie&pos=Bottom9"><img src="http://www.nytimes.com/adx/bin/adx_remote.html?type=noscript&page=listings.nytimes.com/campsandschools/search&posall=Top5,TopAd,SFMiddle,Bottom7,Bottom8,Bottom9,Inv1,Inv2,Inv3&pos=Bottom9&query=qstring&keywords=?"></a></noscript>
+
+    <!-- Inv1 position -->
+    <script language="JavaScript">
+    <!--
+    if (typeof adxpos_Inv1 != "undefined")
+        document.write(adxads[adxpos_Inv1]);
+    // -->
+    </script>
+    <noscript>
+    <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=cookie&pos=Inv1"><img src="http://www.nytimes.com/adx/bin/adx_remote.html?type=noscript&page=listings.nytimes.com/campsandschools/search&posall=Top5,TopAd,SFMiddle,Bottom7,Bottom8,Bottom9,Inv1,Inv2,Inv3&pos=Inv1&query=qstring&keywords=?"></a></noscript>
+
+    <!-- Inv2 position -->
+    <script language="JavaScript">
+    <!--
+    if (typeof adxpos_Inv2 != "undefined")
+        document.write(adxads[adxpos_Inv2]);
+    // -->
+    </script>
+    <noscript>
+    <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=cookie&pos=Inv2"><img src="http://www.nytimes.com/adx/bin/adx_remote.html?type=noscript&page=listings.nytimes.com/campsandschools/search&posall=Top5,TopAd,SFMiddle,Bottom7,Bottom8,Bottom9,Inv1,Inv2,Inv3&pos=Inv2&query=qstring&keywords=?"></a></noscript>
+
+    <!-- Inv3 position -->
+    <script language="JavaScript">
+    <!--
+    if (typeof adxpos_Inv3 != "undefined")
+        document.write(adxads[adxpos_Inv3]);
+    // -->
+    </script>
+    <noscript>
+    <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=cookie&pos=Inv3"><img src="http://www.nytimes.com/adx/bin/adx_remote.html?type=noscript&page=listings.nytimes.com/campsandschools/search&posall=Top5,TopAd,SFMiddle,Bottom7,Bottom8,Bottom9,Inv1,Inv2,Inv3&pos=Inv3&query=qstring&keywords=?"></a></noscript>
+    
+    <!--END AD TAGS-->
+	</html>
+	

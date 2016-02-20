@@ -1,0 +1,1550 @@
+Set-cookie: RMID=21167df316c74ed9132d6f3e; expires=Saturday, 01-Dec-2012 18:04:29 GMT; path=/; domain=.nytimes.com
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Set-cookie: adxcs=s*28144=0:1; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Buy, Sell or Research a New or Used Car - New York Times - The New York Times</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="noarchive">
+<meta name="description" content="Your destination to buy, sell or research a new or used car: Research and compare cars, read car reviews, explore classic and collectible cars, search auto classifieds, find a dealer, and get new car price quotes." />
+<meta name="keywords" content="Automobiles,Buick Division of General Motors Corp,General Motors,Latin America,NeXT Inc,Remi, Georges,Automobiles,Citroen,Opel, Adam, AG,Books and Literature,Lotus Cars Ltd,Chrysler Group LLC,Shanghai (China),Middle East,Land Rover,Alfa Romeo Automobiles,Animated Films,Movies,Chevrolet Division of General Motors Corp,Mercedes-Benz,Europe,Cadillac Division of General Motors Corp,Renault SA,Fiat SpA,Jackson, Peter,Spielberg, Steven,DaimlerChrysler AG,Automobiles,Dodge Division of Chrysler Corp,Bayerische Motorenwerke AG,Cadillac Division of General Motors Corp,Nissan Motor Co,Lotus Cars Ltd,Mazda Motor Corp,Chrysler Group LLC,Toyota Motor Corporation,General Motors,Buick Division of General Motors Corp,Land Rover,Jeep Division of Chrysler,Automobiles,Lincoln Division of Ford Motor Co,Volkswagen A.G,Ford Motor Company,Automobile Safety Features and Defects,Chrysler Group LLC,Kia Motors Corp,Mazda Motor Corp,Toyota Motor Corporation,Audi Division of Volkswagen AG,Nissan Motor Co,Honda Motor Co Ltd,General Motors,Buick Division of General Motors Corp,Automobiles,Small Cars (Compact, Subcompact and Microcars),Fiat SpA,United States,Sales,Decisions and Verdicts,Hu Zhicheng,China,Engineering and Engineers,Prisons and Prisoners,Chevrolet Division of General Motors Corp,Batteries,Recalls and Bans of Products,Automobile Safety Features and Defects,Electric and Hybrid Vehicles,Automobiles,Luxury Goods,Lincoln Division of Ford Motor Co,Wolff, Max,Ford Motor Company,Hiring and Promotion,Automobiles,Center for Automotive Research,Labor and Jobs,Automobiles,Books and Literature,Movies,Automobiles" />
+<meta name="asset_id" content="">
+<meta name="CG" content="automobiles">
+<meta name="SCG" content="">
+<meta name="PT" content="Section Front">
+<meta name="PST" content="">
+<link rel="canonical" href="http://www.nytimes.com/pages/automobiles/index.html">
+<meta name="msapplication-starturl" content="http://www.nytimes.com/" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.nytimes.com/services/xml/rss/nyt/Automobiles.xml"/>
+
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/build/sectionfront/automobiles/styles.css" />
+<link rel="stylesheet" type="text/css" media="print" href="http://graphics8.nytimes.com/css/0.1/print/styles.css">
+<!--[if IE]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie.css);
+	    </style>
+	<![endif]-->
+<!--[if IE 6]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie6.css);
+	    </style>
+	<![endif]-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/DropDown.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/util/tooltip.js"></script>
+<script type="text/JavaScript">
+		var static_kw = "Automobiles;Buick Division of General Motors Corp;General Motors;Latin America;NeXT Inc;Remi; Georges;Automobiles;Citroen;Opel; Adam; AG;Books and Literature;Lotus Cars Ltd;Chrysler Group LLC;Shanghai (China);Middle East;Land Rover;Alfa Romeo Automobiles;Animated Films;Movies;Chevrolet Division of General Motors Corp;Mercedes-Benz;Europe;Cadillac Division of General Motors Corp;Renault SA;Fiat SpA;Jackson; Peter;Spielberg; Steven;DaimlerChrysler AG;Automobiles;Dodge Division of Chrysler Corp;Bayerische Motorenwerke AG;Cadillac Division of General Motors Corp;Nissan Motor Co;Lotus Cars Ltd;Mazda Motor Corp;Chrysler Group LLC;Toyota Motor Corporation;General Motors;Buick Division of General Motors Corp;Land Rover;Jeep Division of Chrysler;Automobiles;Lincoln Division of Ford Motor Co;Volkswagen A.G;Ford Motor Company;Automobile Safety Features and Defects;Chrysler Group LLC;Kia Motors Corp;Mazda Motor Corp;Toyota Motor Corporation;Audi Division of Volkswagen AG;Nissan Motor Co;Honda Motor Co Ltd;General Motors;Buick Division of General Motors Corp;Automobiles;Small Cars (Compact; Subcompact and Microcars);Fiat SpA;United States;Sales;Decisions and Verdicts;Hu Zhicheng;China;Engineering and Engineers;Prisons and Prisoners;Chevrolet Division of General Motors Corp;Batteries;Recalls and Bans of Products;Automobile Safety Features and Defects;Electric and Hybrid Vehicles;Automobiles;Luxury Goods;Lincoln Division of Ford Motor Co;Wolff; Max;Ford Motor Company;Hiring and Promotion;Automobiles;Center for Automotive Research;Labor and Jobs;Automobiles;Books and Literature;Movies;Automobiles";
+		var dynamic_kw = "Automobiles;Buick+Division+of+General+Motors+Corp;General+Motors;Latin+America;NeXT+Inc;Remi;+Georges;Automobiles;Citroen;Opel;+Adam;+AG;Books+and+Literature;Lotus+Cars+Ltd;Chrysler+Group+LLC;Shanghai+%28China%29;Middle+East;Land+Rover;Alfa+Romeo+Automobiles;Animated+Films;Movies;Chevrolet+Division+of+General+Motors+Corp;Mercedes-Benz;Europe;Cadillac+Division+of+General+Motors+Corp;Renault+SA;Fiat+SpA;Jackson;+Peter;Spielberg;+Steven;DaimlerChrysler+AG;Automobiles;Dodge+Division+of+Chrysler+Corp;Bayerische+Motorenwerke+AG;Cadillac+Division+of+General+Motors+Corp;Nissan+Motor+Co;Lotus+Cars+Ltd;Mazda+Motor+Corp;Chrysler+Group+LLC;Toyota+Motor+Corporation;General+Motors;Buick+Division+of+General+Motors+Corp;Land+Rover;Jeep+Division+of+Chrysler;Automobiles;Lincoln+Division+of+Ford+Motor+Co;Volkswagen+A.G;Ford+Motor+Company;Automobile+Safety+Features+and+Defects;Chrysler+Group+LLC;Kia+Motors+Corp;Mazda+Motor+Corp;Toyota+Motor+Corporation;Audi+Division+of+Volkswagen+AG;Nissan+Motor+Co;Honda+Motor+Co+Ltd;General+Motors;Buick+Division+of+General+Motors+Corp;Automobiles;Small+Cars+%28Compact;+Subcompact+and+Microcars%29;Fiat+SpA;United+States;Sales;Decisions+and+Verdicts;Hu+Zhicheng;China;Engineering+and+Engineers;Prisons+and+Prisoners;Chevrolet+Division+of+General+Motors+Corp;Batteries;Recalls+and+Bans+of+Products;Automobile+Safety+Features+and+Defects;Electric+and+Hybrid+Vehicles;Automobiles;Luxury+Goods;Lincoln+Division+of+Ford+Motor+Co;Wolff;+Max;Ford+Motor+Company;Hiring+and+Promotion;Automobiles;Center+for+Automotive+Research;Labor+and+Jobs;Automobiles;Books+and+Literature;Movies;Automobiles";
+		var nyt_google_contents = dynamic_kw + static_kw;
+		var nyt_google_ad_channel = "automobiles";
+	</script>
+<script type="text/javascript" src="http://use.typekit.com/fml4qar.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" src="http://js.nyt.com/js2/build/sitewide/sitewide.js"></script>
+<script type="text/javascript" src="http://js.nyt.com/js/app/lib/jquery/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+</head>
+<body>
+<a name="top"></a>
+<div id="shell">
+
+<ul id="memberTools">
+
+ 
+                        <li><a id="memberToolsLogin" href="https://myaccount.nytimes.com/auth/login">Log In</a></li>
+            <li><a href="https://myaccount.nytimes.com/gst/regi.html">Register Now</a></li>
+                            
+
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+</ul>
+<div class="tabsContainer">
+<ul id="mainTabs" class="tabs">
+<li class="first mainTabHome"><a href="http://www.nytimes.com">Home Page</a></li>
+<li class="mainTabTodaysPaper"><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+<li class="mainTabVideo"><a href="http://www.nytimes.com/video">Video</a></li>
+<li class="mainTabMostPopular"><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+<li class="mainTabTimesTopics"><a href="http://topics.nytimes.com/top/reference/timestopics">Times Topics</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+</script>	<div id="page" class="tabContent active">
+<div class="clearfix" id="masthead">
+
+<div class="singleAd" id="Middle1C">
+<!-- ADXINFO classification="button" campaign="ING_DirectSiteSearchQ111_1694929-nyt1"--><A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/automobiles/index.html&pos=Middle1C&sn2=3e4011fa/60aee318&sn1=59756299/46b02203&camp=ING_DirectSiteSearchQ111_1694929-nyt1&ad=NEW.88x31.SiteSearch.Wizard&goto=http://ad.doubleclick.net/jump/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.29" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.29"
+ BORDER=0 WIDTH=88 HEIGHT=31
+ ALT="Click Here"></A>
+</div>
+
+<div id="searchWidget">
+<div class="inlineSearchControl">
+<form enctype="application/x-www-form-urlencoded" action="http://query.nytimes.com/search/sitesearch" method="get" name="searchForm" id="searchForm">
+<input type="hidden" value="full" name="date_select"/>
+<label for="searchQuery">Search All NYTimes.com</label>
+<input type="text" class="text" value="" size="" name="query" id="searchQuery"/>
+<input type="hidden" id="searchAll" name="type" value="nyt"/>
+<input type="image" id="searchSubmit" title="Search" alt="Search" width="22" height="19" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"/>
+</form>
+</div>
+</div>
+
+<div id="branding" >
+<a href="http://www.nytimes.com"><img src="http://graphics8.nytimes.com/images/misc/nytlogo152x23.gif" alt="New York Times" id="NYTLogo"/></a>
+</div>
+
+<div id="date">
+<p>
+Friday, December  2, 2011
+</p>
+</div>
+
+<h2>
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Automobiles</a>
+</h2>
+
+</div>
+<div class="navigation tabsContainer">
+<ul class="tabs">
+<li id="navWorld" class="first ">
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>	<li id="navUs" >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>	<li id="navNyregion" >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>	<li id="navBusiness" >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>	<li id="navTechnology" >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>	<li id="navScience" >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>	<li id="navHealth" >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>	<li id="navSports" >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>	<li id="navOpinion" >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>	<li id="navArts" >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>	<li id="navStyle" >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>	<li id="navTravel" >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>	<li id="navJobs" >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>	<li id="navRealestate" >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>	<li id="navAutomobiles" class="selected">
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+<ul class="subNavigation"><li id="subNav_autoreviews"><a href="http://www.nytimes.com/pages/automobiles/reviews/index.html">New Cars</a></li><li id="subNav_usercars"><a href="http://autos.nytimes.com/used.aspx">Used Cars</a></li><li id="subNav_collectibles"><a href="http://www.nytimes.com/pages/automobiles/collectiblecars/index.html">Collectible Cars</a></li><li id="subNav_autossell"><a href="https://placead.nytimes.com/default.asp?CategoryID=NYTCAR">Sell Your Car</a></li><li id="subNav_allclassifieds"><a href="http://listings.nytimes.com/classifiedsmarketplace/">All Classifieds</a></li></ul></li></ul>
+</div>
+
+<div class="singleAd" id="TopAd">
+<!-- ADXINFO classification="leaderboard_728" campaign="Land_Rover_Tri_State_2011_MNY_1604233-nyt6"--><SCRIPT type="text/javascript" SRC="http://ad.doubleclick.net/adj/N4584.NYTimes.com/B5132919.27;sz=728x90;pc=nyt154228A278685;ord=2011.12.02.18.04.29;click=http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/automobiles/index.html&pos=TopAd&camp=Land_Rover_Tri_State_2011_MNY_1604233-nyt6&ad=land_rover_728x90_B5132919.27_DartWiz&sn2=7295c6d9/404c7dcb&snr=doubleclick&snx=1322848856&sn1=c4660b96/e9f2522f&goto=">
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/automobiles/index.html&pos=TopAd&sn2=7295c6d9/404c7dcb&sn1=46e2f187/e7a4d7d&camp=Land_Rover_Tri_State_2011_MNY_1604233-nyt6&ad=land_rover_728x90_B5132919.27_DartWiz&goto=http://ad.doubleclick.net/jump/N4584.NYTimes.com/B5132919.27;sz=728x90;pc=nyt154228A278685;ord=2011.12.02.18.04.29" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N4584.NYTimes.com/B5132919.27;sz=728x90;pc=nyt154228A278685;ord=2011.12.02.18.04.29"
+ BORDER=0 WIDTH=728 HEIGHT=90
+ ALT="Click Here"></A>
+</NOSCRIPT>
+</div>
+
+<div id="main">
+<div class="spanAB wrap">
+<div class="wideA">
+<div class="abColumn">
+<div class="aColumn">
+<!--cur:BlogModule prev:-->
+<div class="columnGroup first">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://wheels.blogs.nytimes.com/" title="Wheels Blog">
+<img src="http://graphics8.nytimes.com/images/2010/12/08/automobiles/wheels-395-blog-header/wheels-395-blog-header-custom2.png" alt="Wheels Blog"/>
+</a> 
+</h3> <div class="story first">
+<p class="date">December 2, 2011 <span class="timestamp">11:14 AM ET</span></p><h3><a href="http://wheels.blogs.nytimes.com/2011/12/02/honda-adds-273000-vehicles-to-long-running-air-bag-recall/?ref=automobiles">Honda Adds 273,000 Vehicles to Long-Running Air Bag Recall</a></h3>
+<p class="summary">
+It was the fourth expansion of a recall to fix driver's air bags that may deploy with excessive, and potentially lethal, force.</p>
+</div><div class="story">
+<p class="date">December 2, 2011 <span class="timestamp">6:00 AM ET</span></p><h3><a href="http://wheels.blogs.nytimes.com/2011/12/02/graffiti-muralists-reach-settlement-in-case-of-contentious-fiat-500-commercial/?ref=automobiles">Graffiti Muralists Reach Settlement in Case of Contentious Fiat 500 Commercial</a></h3>
+<p class="summary">
+TATS Cru, the muralists who accused Fiat of using a copyrighted image in an advertisement featuring Jennifer Lopez, reached a settlement, but terms were kept mostly private.</p>
+</div><div class="story">
+<p class="date">December 1, 2011 <span class="timestamp">4:40 PM ET</span></p><h3><a href="http://wheels.blogs.nytimes.com/2011/12/01/with-an-asterisk-chevrolet-volt-tops-consumer-reports-owner-satisfaction-survey/?ref=automobiles">With an Asterisk, Chevrolet Volt Tops Consumer Reports Owner Satisfaction Survey</a></h3>
+<p class="summary">
+The plug-in hybrid received the highest percentage of respondents saying they would buy the car again, but the authors noted that it was too soon to suggest that owner satisfaction would remain high.</p>
+</div><p class="refer">
+<a href="http://wheels.blogs.nytimes.com/" title="More From Wheels">More From Wheels &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<!--cur:LedeStory395 prev:BlogModule-->
+<div class="columnGroup singleRule ">
+<h6 class="sectionHeader">From the Automobiles Section</h6>
+<div class="ledeStory">
+<div class="storyHeader">
+<h6 class="kicker">Behind the Wheel | 2012 Buick Lacrosse With Eassist</h6>
+<h1><a href="http://www.nytimes.com/2011/11/27/automobiles/autoreviews/2012-buick-lacrosse-smugness-comes-standard.html?ref=automobiles">
+Smugness Comes Standard</a></h1>
+<h6 class="byline">
+By CHRISTOPHER JENSEN            </h6>
+</div>
+<div class="ledePhoto">
+<div class="image">
+<a href="http://www.nytimes.com/2011/11/27/automobiles/autoreviews/2012-buick-lacrosse-smugness-comes-standard.html?ref=automobiles"><img src="http://graphics8.nytimes.com/images/2011/11/27/automobiles/27AUTBUIK1/27AUTBUIK1-sfSpan.jpg" border="0" width="395" height="176" alt="BATTERIES INCLUDED The 4-cylinder LaCrosse now includes a small electric motor that gives a mileage-lifting assist to the gasoline engine." /></a>
+</div>
+<h6 class="credit">General Motors</h6>
+<p class="caption">BATTERIES INCLUDED The 4-cylinder LaCrosse now includes a small electric motor that gives a mileage-lifting assist to the gasoline engine.</p>
+</div>
+<p class="summary">
+The 2012 edition of the 4-cylinder Buick LaCrosse with eAssist uses a small electric motor to help this entry-level luxury sedan achieve 25 m.p.g. in the city and 36 m.p.g. on the highway.</p>
+</div>
+</div>
+<!--cur:StandardThumb prev:LedeStory395-->
+<div class="columnGroup ">
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/automobiles/tintin-film-casts-cars-among-star-performers.html?ref=automobiles">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/automobiles/27AUTTINJP1/27AUTTINJP1-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/automobiles/tintin-film-casts-cars-among-star-performers.html?ref=automobiles">
+‘Tintin’ Film Casts Cars Among Star Performers</a></h3>
+<h6 class="byline">
+By FRED BIERMAN	    </h6>
+<p class="summary">
+“The Adventures of Tintin” is about to be released, and like the book that the film is based on, it takes automobiles seriously. The artist behind “Tintin” was an avid driver, and there are about 150 clearly identifiable cars in the books.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/slideshow/2011/11/27/automobiles/27tintin-slideshow.html"><span class="icon slideshow">Slide Show</span>: More Than Just Scenery</a></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/automobiles/involuntary-layoffs-even-for-cars.html?ref=automobiles">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/automobiles/27FAREWELL1/27FAREWELL1-thumbStandard.jpg" width="75" height="75" alt="Ford Ranger." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/automobiles/involuntary-layoffs-even-for-cars.html?ref=automobiles">
+Involuntary Layoffs, Even for Cars</a></h3>
+<h6 class="byline">
+By SAM SMITH	    </h6>
+<p class="summary">
+The turn of the automotive model year usually brings a host of discontinued cars, and some 17 models, including the Ford Ranger, Honda Element and Mazda RX-8, have gotten the ax.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/slideshow/2011/11/27/automobiles/27farewell-slideshow.html?ref=automobiles"><img src="http://graphics8.nytimes.com/images/multimedia/icons/photo_icon.gif" alt="Photographs" width="12" height="10" border="0"> Slide Show: Models Take a Final Bow</a></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">Motoring</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/automobiles/service-bulletins-exorcising-the-phantom-wipes.html?ref=automobiles">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/automobiles/27TSB3/27TSB3-thumbStandard.jpg" width="75" height="75" alt="2004 Nissan Armada" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/automobiles/service-bulletins-exorcising-the-phantom-wipes.html?ref=automobiles">
+Exorcising the Phantom Wipes</a></h3>
+<h6 class="byline">
+By SCOTT STURGIS	    </h6>
+<p class="summary">
+Oil-gulping Audis and Scions with failed ignition coils are among the mechanical ailments covered in the latest technical service bulletins.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/automobiles/on-fiats-wish-list-more-buyers-for-500.html?ref=automobiles">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/automobiles/27AUTFIAT/27AUTFIAT-thumbStandard.jpg" width="75" height="75" alt="PAPER TIGER The Fiat 500 by Gucci window display at Saks in Manhattan." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/automobiles/on-fiats-wish-list-more-buyers-for-500.html?ref=automobiles">
+On Fiat’s Wish List: More Buyers for 500</a></h3>
+<h6 class="byline">
+By NICK KURCZEWSKI	    </h6>
+<p class="summary">
+Fiat has sold about 16,000 500 models, significantly behind the company’s 50,000-unit full-year goal. One reason for the lower numbers is a dealer network that has been slow to come together.</p>
+</div>
+<div class="doubleRuleDivider"></div>	</div>
+<!--cur:StandardThumb prev:StandardThumb-->
+<div class="columnGroup ">
+<div class="story">
+<div class="thumbnail">
+<a href="http://wheels.blogs.nytimes.com/2011/12/01/mazda-takeri-carries-the-kodo-standard-forward/?ref=automobiles">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/automobiles/wheels-takeri/wheels-takeri-thumbStandard.jpg" width="75" height="75" alt="Mazda Takeri concept, in Tokyo on Wednesday." border="0" />
+</a>
+</div>
+<h3><a href="http://wheels.blogs.nytimes.com/2011/12/01/mazda-takeri-carries-the-kodo-standard-forward/?ref=automobiles">
+Mazda Takeri Carries the Kodo Standard Forward</a></h3>
+<h6 class="byline">
+By PHIL PATTON	    </h6>
+<p class="summary">
+The sedan concept, unveiled at the Tokyo auto show, reflected a tightened, tamer view of Kodo, Mazda's new design language, but still bore signs of the more radical Shinari sedan concept on which it was based.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://wheels.blogs.nytimes.com/2011/12/01/from-the-wreckage-flying-jimmy-elvis-emerges-victorious/?ref=automobiles">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/automobiles/wheels-jimmy/wheels-jimmy-thumbStandard.jpg" width="75" height="75" alt="Flying Jimmy Elvis, being escorted from the wreckage of a Lincoln limousine after launching it into the roof of a mobile home at Orlando Speed World on Nov. 25." border="0" />
+</a>
+</div>
+<h3><a href="http://wheels.blogs.nytimes.com/2011/12/01/from-the-wreckage-flying-jimmy-elvis-emerges-victorious/?ref=automobiles">
+From the Wreckage, Flying Jimmy Elvis Emerges, Victorious</a></h3>
+<h6 class="byline">
+By STEVEN COLE SMITH	    </h6>
+<p class="summary">
+At the Crash-A-Rama in Orlando, Fla., a stuntman earns instant credibility by crashing a momentarily airborne Lincoln Town Car limousine.</p>
+</div>
+<div class="story">
+<h3><a href="http://wheels.blogs.nytimes.com/2011/11/30/congressman-presses-california-on-fuel-economy-standards/?ref=automobiles">
+Congressman Presses California on Fuel-Economy Standards</a></h3>
+<h6 class="byline">
+By JIM MOTAVALLI	    </h6>
+<p class="summary">
+Darrell Issa, the chairman of the House Oversight and Government Reform Committee, is investigating a California agency he suspects of wielding unlawful influence over federal fuel-economy standards.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://wheels.blogs.nytimes.com/2011/11/30/zipcar-plants-a-tire-tentatively-in-u-haul-territory/?ref=automobiles">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/automobiles/wheels-zipvan1/wheels-zipvan1-thumbStandard.jpg" width="75" height="75" alt="Initially, Zipvan will be offered only in the Bay Area." border="0" />
+</a>
+</div>
+<h3><a href="http://wheels.blogs.nytimes.com/2011/11/30/zipcar-plants-a-tire-tentatively-in-u-haul-territory/?ref=automobiles">
+Zipcar Plants a Tire, Tentatively, in U-Haul Territory</a></h3>
+<h6 class="byline">
+By JOSIE GARTHWAITE	    </h6>
+<p class="summary">
+To compete with moving-day mainstays like U-Haul and Budget, Zipcar began a small cargo-van fleet in the Bay Area that may expand to other urban centers next year.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://wheels.blogs.nytimes.com/2011/11/29/toyota-and-subaru-preview-their-rear-wheel-drive-coupes/?ref=automobiles">
+<img src="http://graphics8.nytimes.com/images/2011/11/29/automobiles/wheels-toyota86/wheels-toyota86-thumbStandard.jpg" width="75" height="75" alt="Toyota GT 86, the European version of the brand's new rear-wheel-drive coupe." border="0" />
+</a>
+</div>
+<h3><a href="http://wheels.blogs.nytimes.com/2011/11/29/toyota-and-subaru-preview-their-rear-wheel-drive-coupes/?ref=automobiles">
+Toyota and Subaru Preview Their Rear-Wheel-Drive Coupes</a></h3>
+<h6 class="byline">
+By JONATHAN SCHULTZ	    </h6>
+<p class="summary">
+The Japanese automakers have revealed specifications of their co-developed coupes ahead of the cars' formal debuts at the Tokyo auto show.</p>
+</div>
+<div class="singleRuleDivider"></div>	</div>
+<!--cur:HeadlineOnly prev:StandardThumb-->
+<div class="columnGroup singleRule ">
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/27/world/returning-to-china-engineer-finds-jail-and-then-limbo.html?ref=automobiles">
+Engineer’s Return to China Leads to Jail and Limbo</a>
+</h6>
+</li>
+</ul>
+</div>
+<!--cur:StandardThumb prev:HeadlineOnly-->
+<div class="columnGroup singleRule last">
+<div id="multiPlayer" style="padding-top: 5px;">
+<!--bright cove code starts here  09/30/08 build//-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/bcvideo/1.0/iframe/embed.js"></script>
+<script type="text/javascript">
+	NYT_VideoPlayerStart( {
+	   playerType  : "section",
+	   playlistId  : "1194811622349"
+	} );
+</script>
+<!--bright cove code ends here //-->
+</div>
+</div>
+</div><!--close .aColumn -->
+<div class="bColumn">
+<div class="columnGroup SectionFront3ColABSpanTopAndMiddle first">
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/12/02/business/gm-offers-to-buy-back-volts-over-fire-risk.html?ref=automobiles">
+G.M. Offers to Buy Back Hybrid Volts From Owners</a></h3>
+<h6 class="byline">
+By BILL VLASIC and NICK BUNKLEY	    </h6>
+<p class="summary">
+As an investigation continues into the Chevrolet Volt’s battery pack, General Motors said it would buy back cars if owners were concerned about fire risks.</p>
+<ul class="refer">
+<li><a href="http://wheels.blogs.nytimes.com/2011/12/01/with-an-asterisk-chevrolet-volt-tops-consumer-reports-owner-satisfaction-survey/">Wheels Blog: With an Asterisk, Chevrolet Volt Tops Consumer Reports Owner Satisfaction Survey</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<div class="columnGroup first">
+<div class="story">  
+<h5><a href="http://www.nytimes.com/2011/12/02/business/ford-seeks-to-glamorize-lincoln-vehicles.html?ref=automobiles">
+Ford Strives for Elegance in Lincoln Brand</a></h5>
+<h6 class="byline">
+By BILL VLASIC            </h6>
+<p class="summary">
+The automaker is striving to restore the luster to Lincoln, its luxury brand, which in recent years has been catering to older, less affluent consumers.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/slideshow/2011/12/02/business/lincoln-history.html"><span class="icon slideshow">Slide Show</span>: Looking Back at Lincoln</a></li>
+<li><a href="http://www.nytimes.com/2011/12/02/business/car-buyers-flock-to-us-showrooms.html">Americans Flock to Car Showrooms With Wallets Open</a><span class="timestamp"> 9:08 PM ET</span></li>
+<li><a href="http://www.nytimes.com/2011/12/02/business/global/toyota-and-bmw-in-technology-alliance.html">An Alliance for BMW and Toyota</a><span class="timestamp"> 8:23 PM ET</span></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup singleRule last">
+<div class="story">  
+<h5><a href="http://www.nytimes.com/2011/11/30/business/center-for-automotive-research-predicts-sharp-gain-in-auto-jobs.html?ref=automobiles">
+Group Predicts 28% Gain in Carmaking Jobs by 2015</a></h5>
+<h6 class="byline">
+By NICK BUNKLEY            </h6>
+<p class="summary">
+The Center for Automotive Research expects that carmakers and their suppliers will add about 167,000 jobs in the next four years.</p>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">Wheels on Twitter</h6><div class="story"><p><a href="http://twitter.com/nytimeswheels"> twitter.com/nytimeswheels</a></p></div>    
+</div>
+<div class="columnGroup doubleRule ">
+<h3 class="sectionHeader">More Auto News</h3>
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://wheels.blogs.nytimes.com/2011/11/29/for-maybach-a-long-slouch-before-the-fall/?ref=automobiles">
+For Maybach, a Long Slouch Before the Fall</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://wheels.blogs.nytimes.com/2011/11/28/in-the-bronx-a-collision-of-cars-celebrity-and-copyright/?ref=automobiles">
+In the Bronx, a Collision of Cars, Celebrity and Copyright</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://wheels.blogs.nytimes.com/2011/11/28/monday-motorsports-a-win-for-mark-webber-closes-historic-2011-formula-one-season/?ref=automobiles">
+Monday Motorsports: A Win for Mark Webber Closes Historic 2011 Formula One Season</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://wheels.blogs.nytimes.com/2011/11/28/childrens-weight-does-not-affect-safety-of-child-seats-researchers-find/?ref=automobiles">
+Children's Weight Does Not Affect Safety of Child Seats, Researchers Find</a>
+</h6>
+</li>
+</ul>
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<div class="columnGroup first">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/slideshow/2011/11/27/automobiles/27tintin-slideshow.html?ref=automobiles">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/automobiles/27tintin-slideshow-slide-TU6J/27tintin-slideshow-slide-TU6J-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay slideshow">Slide Show</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/slideshow/2011/11/27/automobiles/27tintin-slideshow.html?ref=automobiles">
+More Than Just Scenery</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Georges Remi, the artist behind “The Adventures of Tintin,” was an avid car collector whose passion for automobiles was revealed in his work.</p>
+</div>
+</div>
+<div class="columnGroup singleRule last">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/slideshow/2011/11/27/automobiles/27farewell-slideshow.html?ref=automobiles">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/automobiles/27farewell-slideshow-slide-KP3D/27farewell-slideshow-slide-KP3D-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay slideshow">Slide Show</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/slideshow/2011/11/27/automobiles/27farewell-slideshow.html?ref=automobiles">
+Models Take A Final Bow</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A last look at some of the cars that won’t be back in 2012.</p>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<h3 class="sectionHeader">Safety News</h3>
+<ul class="headlinesOnly multiline flush">
+<li><h5><a href="http://wheels.blogs.nytimes.com/tag/recall/">All Recent Recalls</a></h5></li>
+</ul>
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<div class="columnGroup first">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/2009/06/19/automobiles/20090619-auto-plants-4.html?ref=automobiles">
+<img src="http://graphics8.nytimes.com/images/2010/09/23/automobiles/23autos-graphic/23autos-graphic-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay interactive">Interactive</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/interactive/2009/06/19/automobiles/20090619-auto-plants-4.html?ref=automobiles">
+Born in the U.S.A.</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+An updated map showing the cars and trucks that are currently built in the United States.</p>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule last">
+<div class="columnGroup">
+<iframe marginheight="0" marginwidth="0" src="http://collectiblecars.nytimes.com/iFrames/Autos.asp" frameborder="0" scrolling="no" width="190" height="430">
+</iframe>
+</div>
+<!--full height is 565 pixels; abbreviated height is 430 pixels -->
+</div>
+</div><!--close .bColumn -->
+<div id="SpanABMiddleRegion" class="opening module">
+<div id="insideNYTimes" class="doubleRule">
+<script language="JavaScript" type="text/javascript" src="http://graphics8.nytimes.com/js/app/moth/moth.js"></script>
+<div id="insideNYTimesHeader">     
+<h4> New Car Reviews  </h4>
+</div>
+<div class="leftPanel"><span id="leftArrow"><img id="mothReverse" src="http://graphics8.nytimes.com/images/global/buttons/moth_reverse.gif" /></span></div>    
+<div id="insideNYTimesScrollWrapper">
+<table id="insideNYTimesBrowser" cellspacing="0">
+<tbody>
+<tr>
+<td class="first">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/11/27/automobiles/autoreviews/2012-buick-lacrosse-smugness-comes-standard.html"><img src="http://graphics8.nytimes.com/images/2011/11/27/automobiles/27AUTBUIK1/27AUTBUIK1-miniMoth.jpg" alt="2012 Buick LaCrosse with eAssist" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/11/27/automobiles/autoreviews/2012-buick-lacrosse-smugness-comes-standard.html">2012 Buick LaCrosse with eAssist</a></h6>
+</div>
+</td>
+<td>
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/11/13/automobiles/at-last-a-small-chevy-that-makes-some-waves.html"><img src="http://graphics8.nytimes.com/images/2011/11/13/automobiles/13WHEE1/13WHEE1-miniMoth.jpg" alt="2012 Chevrolet Sonic" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/11/13/automobiles/at-last-a-small-chevy-that-makes-some-waves.html">2012 Chevrolet Sonic</a></h6>
+</div>
+</td>
+<td>
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/11/13/automobiles/autoreviews/jeep-patriot-hooray-for-the-red-white-and-bland.html"><img src="http://graphics8.nytimes.com/images/2011/11/13/automobiles/13BLOC/13BLOC-miniMoth.jpg" alt="2011 Jeep Patriot" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/11/13/automobiles/autoreviews/jeep-patriot-hooray-for-the-red-white-and-bland.html">2011 Jeep Patriot</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/11/06/automobiles/autoreviews/audi-a6-a-supporting-actor-not-the-leading-man.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/11/06/automobiles/06WHEE1/06WHEE1-miniMoth.jpg" alt="2012 Audi A6" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/11/06/automobiles/autoreviews/audi-a6-a-supporting-actor-not-the-leading-man.html">2012 Audi A6</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/10/30/automobiles/autoreviews/chrysler-200-from-not-so-good-to-not-so-bad.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/10/30/automobiles/Block/Block-miniMoth.jpg" alt="2011 Chrysler 200" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/10/30/automobiles/autoreviews/chrysler-200-from-not-so-good-to-not-so-bad.html">2011 Chrysler 200</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/10/30/automobiles/autoreviews/chrysler-200-out-of-rehab-but-still-unsteady.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/10/30/automobiles/Wheel-Cover/Wheel-Cover-miniMoth.jpg" alt="2011 Chrysler 200 convertible" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/10/30/automobiles/autoreviews/chrysler-200-out-of-rehab-but-still-unsteady.html">2011 Chrysler 200 convertible</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/10/16/automobiles/scion-iq-has-intelligent-design-but-doesnt-ace-the-testi1.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/10/16/automobiles/16BLOC1/16BLOC1-miniMoth.jpg" alt="2012 Scion IQ" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/10/16/automobiles/scion-iq-has-intelligent-design-but-doesnt-ace-the-testi1.html">2012 Scion IQ</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/10/09/automobiles/autoreviews/dusting-off-the-recipe-for-a-white-bread-minivan.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/10/09/automobiles/09WHEE1/09WHEE1-miniMoth.jpg" alt="2011 Nissan Quest" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/10/09/automobiles/autoreviews/dusting-off-the-recipe-for-a-white-bread-minivan.html">2011 Nissan Quest</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/10/02/automobiles/autoreviews/a-threat-to-the-job-security-of-chauffeurs.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/10/02/automobiles/02WHEE/02WHEE-miniMoth.jpg" alt="Bentley Mulsanne" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/10/02/automobiles/autoreviews/a-threat-to-the-job-security-of-chauffeurs.html">Bentley Mulsanne</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/10/02/automobiles/autoreviews/bmw-z4-cylinders-missing-but-not-missed.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/10/02/automobiles/02BLOC/02BLOC-miniMoth.jpg" alt="2012 BMW Z4 sDrive28i" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/10/02/automobiles/autoreviews/bmw-z4-cylinders-missing-but-not-missed.html">2012 BMW Z4 sDrive28i</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/09/25/automobiles/autoreviews/mild-mannered-redesign-in-a-tough-neighborhood.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/09/25/automobiles/25CIVIC1/25CIVIC1-miniMoth-v2.jpg" alt="2012 Honda Civics" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/09/25/automobiles/autoreviews/mild-mannered-redesign-in-a-tough-neighborhood.html">2012 Honda Civics</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/09/25/automobiles/autoreviews/familiar-aston-martin-face-new-wrinkle.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/09/25/automobiles/25BLOCK/25BLOCK-miniMoth.jpg" alt="Aston Martin Virage Volante" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/09/25/automobiles/autoreviews/familiar-aston-martin-face-new-wrinkle.html">Aston Martin Virage Volante</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/09/18/automobiles/autoreviews/saab-9-4x-a-hail-mary-pass-as-the-clock-runs-down.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/09/18/automobiles/18WHEEL1/18WHEEL1-miniMoth.jpg" alt="2011 Saab 9-4X" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/09/18/automobiles/autoreviews/saab-9-4x-a-hail-mary-pass-as-the-clock-runs-down.html">2011 Saab 9-4X</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/09/18/automobiles/autoreviews/hyundai-genesis-flexing-some-korean-muscle.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/09/18/automobiles/18BLOCK1/18BLOCK1-miniMoth-v2.jpg" alt="2012 Hyundai Genesis 5.0 R-Spec" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/09/18/automobiles/autoreviews/hyundai-genesis-flexing-some-korean-muscle.html">2012 Hyundai Genesis 5.0 R-Spec</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/09/04/automobiles/dodge-durango-benefits-of-a-benz-beneath-the-skin.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/09/04/automobiles/04BLOC/04BLOC-miniMoth.jpg" alt="2011 Dodge Durango Crew" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/09/04/automobiles/dodge-durango-benefits-of-a-benz-beneath-the-skin.html">2011 Dodge Durango Crew</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/08/21/automobiles/autoreviews/beauty-contestants-with-curves-talent-and-german-accents.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/08/21/automobiles/21WHEE1/21WHEE1-miniMoth.jpg" alt="2012 Mercedes-Benz CLS 550 and 2012 Audi A7" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/08/21/automobiles/autoreviews/beauty-contestants-with-curves-talent-and-german-accents.html">2012 Mercedes-Benz CLS 550 and 2012 Audi A7</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/08/14/automobiles/autoreviews/trucks-that-are-bigger-and-badder-but-perhaps-not-better.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/08/14/automobiles/14SUB3WHEE2/14SUB3WHEE2-miniMoth.jpg" alt="Detroit&rsquo;s Heavy-Duty Pickup Trucks" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/08/14/automobiles/autoreviews/trucks-that-are-bigger-and-badder-but-perhaps-not-better.html">Detroit&rsquo;s Heavy-Duty Pickup Trucks</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/08/07/automobiles/autoreviews/for-wild-mustangs-heaps-of-thoroughbred-power.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/08/07/automobiles/07WHEE1/07WHEE1-miniMoth.jpg" alt="2011 Ford Mustang GT 2011 Ford Shelby GT500" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/08/07/automobiles/autoreviews/for-wild-mustangs-heaps-of-thoroughbred-power.html">2011 Ford Mustang GT 2011 Ford Shelby GT500</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/07/17/automobiles/autoreviews/ford-focus-is-slick-package-but-gearbox-is-a-drag.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/07/17/automobiles/WHEE-2/WHEE-2-miniMoth.jpg" alt="2012 Ford Focus" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/07/17/automobiles/autoreviews/ford-focus-is-slick-package-but-gearbox-is-a-drag.html">2012 Ford Focus</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/08/21/automobiles/autoreviews/some-like-it-hot-and-theyre-sweating-to-prove-it.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/08/21/automobiles/21BLOC/21BLOC-miniMoth.jpg" alt="2012 Porsche Cayman R" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/08/21/automobiles/autoreviews/some-like-it-hot-and-theyre-sweating-to-prove-it.html">2012 Porsche Cayman R</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/07/31/automobiles/autoreviews/the-toyota-prius-v-a-hybrid-that-hauls-more-stuff.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/07/31/automobiles/31BLOC/31BLOC-miniMoth.jpg" alt="2012 Toyota Prius V" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/07/31/automobiles/autoreviews/the-toyota-prius-v-a-hybrid-that-hauls-more-stuff.html">2012 Toyota Prius V</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/07/10/automobiles/autoreviews/hyundai-throws-a-new-curve-at-small-car-shoppers.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/07/10/automobiles/WHEE/WHEE-miniMoth.jpg" alt="2012 Hyundai Elantra" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/07/10/automobiles/autoreviews/hyundai-throws-a-new-curve-at-small-car-shoppers.html">2012 Hyundai Elantra</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/06/12/automobiles/autoreviews/12BLOCK.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/06/12/automobiles/BLOC/BLOC-miniMoth.jpg" alt="2012 Fiat 500 Cabrio" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/06/12/automobiles/autoreviews/12BLOCK.html">2012 Fiat 500 Cabrio</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/07/03/automobiles/autoreviews/03WHEEL.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/07/03/automobiles/JP-WHEEL/JP-WHEEL-miniMoth.jpg" alt="2011 Nissan Murano CrossCabriolet" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/07/03/automobiles/autoreviews/03WHEEL.html">2011 Nissan Murano CrossCabriolet</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/06/26/automobiles/autoreviews/26WHEEL.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/06/26/automobiles/WHEE/WHEE-miniMoth.jpg" alt="2011 Chrysler Town &amp; Country" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/06/26/automobiles/autoreviews/26WHEEL.html">2011 Chrysler Town &amp; Country</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/03/20/automobiles/autoreviews/20WHEEL.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/03/20/automobiles/WHEE-2/WHEE-2-miniMoth.jpg" alt="2011 Nissan Juke" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/03/20/automobiles/autoreviews/20WHEEL.html">2011 Nissan Juke</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/03/06/automobiles/autoreviews/06-mini-countryman-review.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/03/06/automobiles/Mini-span/Mini-miniMoth.jpg" alt="2011 Mini Cooper Countryman" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/03/06/automobiles/autoreviews/06-mini-countryman-review.html">2011 Mini Cooper Countryman</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/04/24/automobiles/autoreviews/24BLOCK.html?ref=automobiles"><span class="img" src="http://graphics8.nytimes.com/images/2011/04/24/automobiles/BLOC/BLOC-miniMoth.jpg" alt="2011 Jeep Wrangler Unlimited Sahara" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/04/24/automobiles/autoreviews/24BLOCK.html?ref=automobiles">2011 Jeep Wrangler Unlimited Sahara</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/02/27/automobiles/autoreviews/chevrolet-cruze-review.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/02/27/automobiles/Cruze/Cruze-miniMoth.jpg" alt="2011 Chevrolet Cruze" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/02/27/automobiles/autoreviews/chevrolet-cruze-review.html">2011 Chevrolet Cruze</a></h6>
+</div>
+</td>
+</tr>
+<tr>
+<td class="first">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/02/20/automobiles/autoreviews/chevy-camaro-convertible.html"><img src="http://graphics8.nytimes.com/images/2011/02/17/automobiles/Camaro/Camaro-miniMoth.jpg" alt="Chevrolet Camaro Convertible" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/02/20/automobiles/autoreviews/chevy-camaro-convertible.html">Chevrolet Camaro Convertible</a></h6>
+</div>
+</td>
+<td>
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/02/20/automobiles/autoreviews/byd-f3-dm-review.html"><img src="http://graphics8.nytimes.com/images/2011/02/27/automobiles/Byd/Byd-miniMoth.jpg" alt="BYD F3DM" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/02/20/automobiles/autoreviews/byd-f3-dm-review.html">BYD F3DM</a></h6>
+</div>
+</td>
+<td>
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2010/12/26/automobiles/autoreviews/26volt.html"><img src="http://graphics8.nytimes.com/images/2010/12/26/automobiles/WHEE-5/WHEE-5-miniMoth.jpg" alt="2011 Chevrolet Volt" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2010/12/26/automobiles/autoreviews/26volt.html">2011 Chevrolet Volt</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/01/09/automobiles/autoreviews/09mitsubishi.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/01/09/automobiles/BLOC/BLOC-miniMoth.jpg" alt="2011 Mitsubishi Lancer Sportback Ralliart" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/01/09/automobiles/autoreviews/09mitsubishi.html">2011 Mitsubishi Lancer Sportback Ralliart</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/01/09/automobiles/autoreviews/09volvo.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/01/09/automobiles/WHEE/WHEE-miniMoth.jpg" alt="Volvo S60" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/01/09/automobiles/autoreviews/09volvo.html">Volvo S60</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/01/23/automobiles/autoreviews/23WHEEL.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/01/23/automobiles/WHEE-2/WHEE-2-miniMoth.jpg" alt="2011 Nissan Leaf" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/01/23/automobiles/autoreviews/23WHEEL.html">2011 Nissan Leaf</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/01/30/automobiles/autoreviews/30hyundai-sonata.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/01/30/automobiles/Hyundai-A-National/Hyundai-A-National-miniMoth.jpg" alt="2011 Hyundai Sonata" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/01/30/automobiles/autoreviews/30hyundai-sonata.html">2011 Hyundai Sonata</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/02/06/automobiles/autoreviews/06BLOCK.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/02/06/automobiles/CTS/CTS-miniMoth.jpg" alt="2011 Cadillac CTS-V Sport Wagon" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/02/06/automobiles/autoreviews/06BLOCK.html">2011 Cadillac CTS-V Sport Wagon</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/02/06/automobiles/autoreviews/06infiniti.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/02/06/automobiles/WHEEL-1/WHEEL-1-miniMoth.jpg" alt="2011 Infiniti QX56" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/02/06/automobiles/autoreviews/06infiniti.html">2011 Infiniti QX56</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/02/13/automobiles/autoreviews/ford-raptor-review.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/02/13/automobiles/RAPTOR/RAPTOR-miniMoth.jpg" alt="2011 Ford F-150 SVT Raptor" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/02/13/automobiles/autoreviews/ford-raptor-review.html">2011 Ford F-150 SVT Raptor</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2011/02/13/automobiles/autoreviews/mazda-5-review.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/02/13/automobiles/MAZDA-1/MAZDA-1-miniMoth.jpg" alt="2012 Mazda 5" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/02/13/automobiles/autoreviews/mazda-5-review.html">2012 Mazda 5</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2010/12/12/automobiles/autoreviews/12saab-9-5.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/12/12/automobiles/WHEE-2/WHEE-2-miniMoth.jpg" alt="2011 Saab 9-5" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2010/12/12/automobiles/autoreviews/12saab-9-5.html">2011 Saab 9-5</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2010/10/17/automobiles/autoreviews/17BUICK.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/10/17/automobiles/BLOC/BLOC-miniMoth.jpg" alt="2010 Buick LaCrosse CX" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2010/10/17/automobiles/autoreviews/17BUICK.html">2010 Buick LaCrosse CX</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2010/10/24/automobiles/autoreviews/24porsche-cayenne.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/10/24/automobiles/WHEE-2/WHEE-2-miniMoth.jpg" alt="2011 Porsche Cayenne" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2010/10/24/automobiles/autoreviews/24porsche-cayenne.html">2011 Porsche Cayenne</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2010/10/17/automobiles/autoreviews/17buick-regal.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/10/17/automobiles/WHEE-2/WHEE-2-miniMoth.jpg" alt="2011 Buick Regal" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2010/10/17/automobiles/autoreviews/17buick-regal.html">2011 Buick Regal</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2010/12/05/automobiles/autoreviews/05jeep-cherokee.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/12/05/automobiles/WHEEL/WHEEL-miniMoth.jpg" alt="2011 Jeep Grand Cherokee" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2010/12/05/automobiles/autoreviews/05jeep-cherokee.html">2011 Jeep Grand Cherokee</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2010/12/19/automobiles/autoreviews/19ford-explorer.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/12/19/automobiles/Wheel/Wheel-miniMoth.jpg" alt="2011 Ford Explorer" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2010/12/19/automobiles/autoreviews/19ford-explorer.html">2011 Ford Explorer</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2010/10/31/automobiles/autoreviews/31honda-odyssey.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/10/31/automobiles/Odyssey-2/Odyssey-2-miniMoth.jpg" alt="2011 Honda Odyssey" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2010/10/31/automobiles/autoreviews/31honda-odyssey.html">2011 Honda Odyssey</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2010/10/31/automobiles/autoreviews/31BLOCK.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/10/31/automobiles/Cadillac/Cadillac-miniMoth.jpg" alt="2010 Cadillac SRX" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2010/10/31/automobiles/autoreviews/31BLOCK.html">2010 Cadillac SRX</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2010/12/05/automobiles/autoreviews/05dodge-viper.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/12/05/automobiles/BLOCK/BLOCK-miniMoth.jpg" alt="Dodge Viper SRT-10" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2010/12/05/automobiles/autoreviews/05dodge-viper.html">Dodge Viper SRT-10</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2010/10/24/automobiles/autoreviews/24porsche-cayenne-turbo.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/10/24/automobiles/TURB/TURB-miniMoth.jpg" alt="Porsche Cayenne Turbo" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2010/10/24/automobiles/autoreviews/24porsche-cayenne-turbo.html">Porsche Cayenne Turbo</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2010/11/21/automobiles/autoreviews/21BLOCK.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/11/21/automobiles/BLOCK/BLOCK-miniMoth.jpg" alt="2011 Suzuki SX4 SportBack" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2010/11/21/automobiles/autoreviews/21BLOCK.html">2011 Suzuki SX4 SportBack</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2010/11/07/automobiles/autoreviews/07aston-martin.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/11/07/automobiles/BLOCK/BLOCK-miniMoth.jpg" alt="2011 Aston Martin V-12 Vantage" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2010/11/07/automobiles/autoreviews/07aston-martin.html">2011 Aston Martin V-12 Vantage</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2010/11/14/automobiles/autoreviews/14audi-a8.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/11/17/automobiles/WHEEL-1/WHEEL-1-miniMoth.jpg" alt="2011 Audi A8" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2010/11/14/automobiles/autoreviews/14audi-a8.html">2011 Audi A8</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2010/11/28/automobiles/autoreviews/28honda-accord.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/11/28/automobiles/BLOCK/BLOCK-miniMoth.jpg" alt="2011 Honda Accord SE" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2010/11/28/automobiles/autoreviews/28honda-accord.html">2011 Honda Accord SE</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2010/11/28/automobiles/autoreviews/28grand-marquis.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/11/28/automobiles/wheel-2/wheel-2-miniMoth.jpg" alt="Mercury Grand Marquis" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2010/11/28/automobiles/autoreviews/28grand-marquis.html">Mercury Grand Marquis</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2010/09/12/automobiles/autoreviews/12fiesta.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/09/12/automobiles/WHEE-1/WHEE-1-miniMoth.jpg" alt="2011 Ford Fiesta" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2010/09/12/automobiles/autoreviews/12fiesta.html">2011 Ford Fiesta</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<div class="mothImage">
+<a href="http://www.nytimes.com/2010/09/19/automobiles/autoreviews/19cadillac.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/09/19/automobiles/WHEE-1/WHEE-1-miniMoth.jpg" alt="2011 Cadillac CTS Coupe" width="151" height="70" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2010/09/19/automobiles/autoreviews/19cadillac.html">2011 Cadillac CTS Coupe</a></h6>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="rightPanel"><span id="rightArrow"><img id="mothForward" src="http://graphics8.nytimes.com/images/global/buttons/moth_forward.gif" /></span></div>
+</div><!--end #insideNYTimes -->
+<div class="doubleRuleDivider insetH flushTop"></div>
+</div><!--close #SpanABMiddleRegion -->
+<div class="bColumn">
+<div class="columnGroup first">
+
+<div class="singleAd" id="Right1">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/automobiles/index.html&pos=Right1&sn2=36804beb/6e515b83&sn1=38d43609/ab3147cd&camp=nyt2011-circ-120x90-weekender-36H38&ad=071511-120x90-weekender-36H38&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DWC7AA%26CMP%3D36H38" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/13/ad.271312/11-0920_HDWeekender2_120x90.jpg" width="120" height="90" border="0"></a>
+
+</div>
+
+
+</div>					</div><!--close second .bColumn -->
+</div><!--close .abColumn -->
+<div class="cColumn">
+<!--Ads  -->                    <div class="columnGroup first">
+
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<div class="columnGroup">
+<div class="columnGroup fullWidth first">
+<div class="subColumn-2 subColumns wrap">
+<div class="column">
+<div class="columnGroup">
+<div class="story">
+<h3 class="sectionHeader">New Car Search</h3>
+<h4 class="subHeader">Reviews, Dealer Price Quotes & Research</h4>
+<iframe src="http://autos.nytimes.com/clientModules/searchNewCompactQuote.aspx?iframe=true" width="163" height="195" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" id="gabrielsClientModule6"></iframe> <!--original height 195-->
+</div>
+</div>
+</div>
+<div class="column last">
+<div class="columnGroup">
+<div class="story">
+<h3 class="sectionHeader">Used Car Search</h3>
+<h4 class="subHeader">Millions of nationwide listings <br><br></h4>
+<iframe src="http://autos.nytimes.com/clientModules/searchListingsCompact.aspx?iframe=true" width="162" height="195" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" id="gabrielsClientModule4"></iframe>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--- COMMENTING OUT FIND A DEALER,ETC>
+
+
+<div class="columnGroup singleRule">
+<iframe src="http://autos.nytimes.com/clientModules/searchListingsWide.aspx?iframe=true" width="336" height="105" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" id="gabrielsClientModule5"></iframe>
+</div>
+
+
+
+
+
+<div class="columnGroup">
+<iframe src="http://autos.nytimes.com/clientModules/sellCar.aspx?iframe=true" width="336" height="32" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" id="gabrielsClientModule8"></iframe>
+</div>
+            
+  -->  
+</div>
+<!--Ads Simple -->                    <div class="columnGroup ">
+
+			
+<div class="bigAd" id="SFMiddle">
+<!-- ADXINFO classification="BigAd" campaign="AmicaIns_2011Q4-PT2_1782950-nyt1"--><script type="text/javascript">
+function pr_swfver(){
+var osf,osfd,i,axo=1,v=0,nv=navigator;
+if(nv.plugins&&nv.mimeTypes.length){osf=nv.plugins["Shockwave Flash"];if(osf&&osf.description){osfd=osf.description;v=parseInt(osfd.substring(osfd.indexOf(".")-2))}}
+else{try{for(i=5;axo!=null;i++){axo=new ActiveXObject("ShockwaveFlash.ShockwaveFlash."+i);v=i}}catch(e){}}
+return v;
+}
+var pr_d=new Date();pr_d=pr_d.getDay()+"|"+pr_d.getHours()+":"+pr_d.getMinutes()+"|"+-pr_d.getTimezoneOffset()/60;
+var pr_postal="";
+var pr_data="";
+var pr_redir="http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fadx%2Fbin%2Fadx%5Fclick%2Ehtml%3Ftype%3Dgoto%26opzn%26page%3Dwww.nytimes.com/pages/automobiles/index.html%26pos%3DSFMiddle%26camp%3DAmicaIns%5F2011Q4%2DPT2%5F1782950%2Dnyt1%26ad%3D300x250%5FROS%5FMA%2DCT%5Fptroll%26sn2%3D95b41541/fe1f7c00%26snr%3Ddoubleclick%26snx%3D1322848860%26sn1%3D1bbd5fe0%2Fd8d9369%26goto%3D$CTURL$";
+var pr_pos="";
+var prHost=(("https:"==document.location.protocol)?"https://":"http://");var pr_sec=((prHost=='https://')?'&secure=1':'');
+if(pr_postal!=""){var przipmatch=/^\d{5}$/;if(przipmatch.test(pr_postal)){pr_pos+="&postal="+pr_postal;}}
+if((pr_data!="")&&(pr_data.indexOf("&")<0)){pr_pos+="&data="+pr_data;}
+var pr_s="ads.pointroll.com/PortalServe/?pid=1518894I43420111201204959&flash="+pr_swfver()+"&time="+pr_d+"&redir="+pr_redir+pr_pos+pr_sec+"&r="+Math.random();
+document.write("<scr"+"ipt type='text/javascript' src='"+prHost+pr_s+"'></scr"+"ipt>");
+</script>
+<noscript><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/automobiles/index.html&pos=SFMiddle&sn2=95b41541/fe1f7c00&sn1=eb104e6/84a40949&camp=AmicaIns_2011Q4-PT2_1782950-nyt1&ad=300x250_ROS_MA-CT_ptroll&goto=ads.pointroll.com%2FPortalServe%2F%3Fpid%3D1518894I43420111201204959%26pos%3Dc%26r%3D24507"><img border="0" width="300" height="250" src="http://ads.pointroll.com/PortalServe/?pid=1518894I43420111201204959&pos=i&r=24507"></a></noscript>
+</div>
+
+
+
+<div class="singleAd" id="Box3">
+<!-- ADXINFO classification="feature_squares" campaign="nyt2011-regilite-p1-dealbook-Blog"--><iframe title="regilite" src="https://myaccount.nytimes.com/regilite?product=DK" width="336" height="90" marginheight="0" marginwidth="0" frameborder="0" vspace="0" hspace="0" scrolling="no"></iframe>
+</div>
+
+
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<div class="columnGroup singleRule">
+<iframe src="http://autos.nytimes.com/clientModules/searchListingsWide.aspx?iframe=true" width="336" height="105" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" id="gabrielsClientModule5"></iframe>
+</div>
+<div class="columnGroup">
+<iframe src="http://autos.nytimes.com/clientModules/sellCar.aspx?iframe=true" width="336" height="32" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" id="gabrielsClientModule8"></iframe>
+</div>
+<div class="columnGroup  singleRule">        
+<h3 class="sectionHeader">Find a Dealer</h3>
+<h4 class="subHeader">Search thousands of dealers nationwide.</h4>
+<iframe src="http://autos.nytimes.com/clientModules/dealerSearch.aspx?iframe=true" width="336" height="110" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" id="gabrielsClientModule2"></iframe>
+</div><div class="columnGroup singleRule">
+<div class="thumbRight"><a href="http://www.nytimes.com/2006/09/17/automobiles/collectibles/17MUSEUM.html"><img src="http://graphics8.nytimes.com/images/2008/02/14/automobiles/75-museum.jpg" width="75" height="75" border="0" alt="" align="right"></a></div>
+<h3 class="sectionHeader">Auto Museums in North America</h3>
+<h4 class="subHeader">Listings of automotive museums in the United States and Canada.</h4>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2008/02/20/automobiles/collectibles/20-museums-southwest.html" target="new">Auto Museums in the Southwest</a></li>
+<li><a href="http://www.nytimes.com/2008/02/20/automobiles/collectibles/20-museums-west.html" target="new">Auto Museums in the Northwest and Western Canada</a></li>
+<li><a href="http://www.nytimes.com/2008/02/20/automobiles/collectibles/20museums-deep-south.html" target="new">Auto Museums in the Deep South</a></li>
+<li><a href="http://www.nytimes.com/2008/02/20/automobiles/collectibles/20-museums-south.html" target="new">Auto Museums in the South</a></li>
+<li><a href="http://www.nytimes.com/2008/02/20/automobiles/collectibles/20-museums-midwest.html" target="new">Midwest Auto Museums</a></li>
+<li><a href="http://www.nytimes.com/2008/02/20/automobiles/collectibles/20-museums-upper-midwest.html" target="new">Ohio and Michigan Auto Museums</a></li>
+<li><a href="http://www.nytimes.com/2008/02/20/automobiles/collectibles/20-museums-northeast.html" target="new">Auto Museums in New England and Eastern Canada</a></li>
+<li><a href="http://www.nytimes.com/2008/02/20/automobiles/collectibles/20-museums-midatlantic.html" target="new">Mid-Atlantic Auto Museums</a></li>
+</ul>
+</div><div class="columnGroup singleRule">
+<iframe marginheight="0" marginwidth="0" src="http://carclubs.nytimes.com/Default.aspx?nologo=1" frameborder="0" scrolling="no" width="336" height="400"></iframe>
+</div>
+<div id="mostPopWidget" class="singleRule"> 
+
+      <!-- MOST POPULAR MODULE STARTS -->
+      <h4>MOST POPULAR - AUTOMOBILES</h4>
+         <div id="tabsContainer">
+         <ul class="tabs">
+            <li class="selected"><a href="#">E-Mailed</a></li>
+            <li><a href="#">Blogged</a></li>
+            
+            <li><a href="#">Viewed</a></li>
+            
+         </ul>
+         </div>
+            <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"></HEAD><div class="tabContent tabContentActive" id="mostEmailed"><ol>
+<li kicker=""><a href="http://www.nytimes.com/2011/11/27/automobiles/tintin-film-casts-cars-among-star-performers.html?src=me&amp;ref=automobiles" title="Click to go to this article">&lsquo;Tintin&rsquo; Film Casts Cars Among Star Performers</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/07/10/automobiles/COLL-1/COLL-1-thumbStandard.jpg"  kicker="Collecting"><a href="http://www.nytimes.com/2011/07/10/automobiles/packard-81-is-a-youngster-to-its-driver.html?src=me&amp;ref=automobiles" title="Click to go to this article">Collecting: Packard, 81, Is a Youngster to Its Driver</a></li>
+<li kicker="Wheels"><a href="http://wheels.blogs.nytimes.com/2011/12/01/from-the-wreckage-flying-jimmy-elvis-emerges-victorious/?src=me&amp;ref=automobiles" title="Click to go to this article">Wheels: From the Wreckage, Flying Jimmy Elvis Emerges, Victorious</a></li>
+<li kicker="Wheels"><a href="http://wheels.blogs.nytimes.com/2011/12/01/bmw-and-toyota-to-collaborate-on-battery-development/?src=me&amp;ref=automobiles" title="Click to go to this article">Wheels: BMW and Toyota to Collaborate on Battery Development</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/27/automobiles/27TSB3/27TSB3-thumbStandard.jpg"  kicker="Motoring"><a href="http://www.nytimes.com/2011/11/27/automobiles/service-bulletins-exorcising-the-phantom-wipes.html?src=me&amp;ref=automobiles" title="Click to go to this article">Motoring: Exorcising the Phantom Wipes</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/27/automobiles/27AUTBUIK1/27AUTBUIK1-thumbStandard.jpg"  kicker="Behind the Wheel | 2012 Buick Lacrosse With Eassist"><a href="http://www.nytimes.com/2011/11/27/automobiles/autoreviews/2012-buick-lacrosse-smugness-comes-standard.html?src=me&amp;ref=automobiles" title="Click to go to this article">Behind the Wheel | 2012 Buick Lacrosse With Eassist: Smugness Comes Standard</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/27/automobiles/27FAREWELL1/27FAREWELL1-thumbStandard.jpg"  kicker="Manufacturing"><a href="http://www.nytimes.com/2011/11/27/automobiles/involuntary-layoffs-even-for-cars.html?src=me&amp;ref=automobiles" title="Click to go to this article">Manufacturing: Involuntary Layoffs, Even for Cars</a></li>
+</ol>
+        <a class="more" href="http://www.nytimes.com/gst/mostemailed.html">Go to Complete List &#x00bb;</a>
+        </div><!-- #most emailed top10 -->
+
+            <div class="tabContent" id="mostBlogged">
+<ol>
+<li><a href="http://www.nytimes.com/2011/11/26/business/regulators-investigate-chevrolet-volt-battery.html?bl" title="Click to go to this article">Regulators Investigate Chevrolet Volt Battery</a></li>
+<li><a href="http://www.nytimes.com/2011/12/03/world/asia/car-bomb-explodes-outside-us-military-base-in-afghanistan.html?bl" title="Click to go to this article">Car Bomb Explodes Outside U.S. Military Base in Afghanistan</a></li>
+</ol>
+<a class="more" href="http://www.nytimes.com/gst/mostblogged.html">Go to Complete List &#x00bb;</a>
+</div><!-- #most blogged top10 -->
+
+            
+            <div class="tabContent" id="mostViewed"><ol>
+<li img="http://graphics8.nytimes.com/images/2011/11/27/automobiles/27AUTBUIK1/27AUTBUIK1-thumbStandard.jpg"  kicker="Behind the Wheel | 2012 Buick Lacrosse With Eassist"><a href="http://www.nytimes.com/2011/11/27/automobiles/autoreviews/2012-buick-lacrosse-smugness-comes-standard.html?src=mv&amp;ref=automobiles" title="Click to go to this article">Behind the Wheel | 2012 Buick Lacrosse With Eassist: Smugness Comes Standard</a></li>
+<li kicker=""><a href="http://www.nytimes.com/2011/11/27/automobiles/tintin-film-casts-cars-among-star-performers.html?src=mv&amp;ref=automobiles" title="Click to go to this article">&lsquo;Tintin&rsquo; Film Casts Cars Among Star Performers</a></li>
+<li kicker="Wheels"><a href="http://wheels.blogs.nytimes.com/2011/12/01/from-the-wreckage-flying-jimmy-elvis-emerges-victorious/?src=mv&amp;ref=automobiles" title="Click to go to this article">Wheels: From the Wreckage, Flying Jimmy Elvis Emerges, Victorious</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/07/10/automobiles/COLL-1/COLL-1-thumbStandard.jpg"  kicker="Collecting"><a href="http://www.nytimes.com/2011/07/10/automobiles/packard-81-is-a-youngster-to-its-driver.html?src=mv&amp;ref=automobiles" title="Click to go to this article">Collecting: Packard, 81, Is a Youngster to Its Driver</a></li>
+<li kicker="Wheels"><a href="http://wheels.blogs.nytimes.com/2011/12/01/mazda-takeri-carries-the-kodo-standard-forward/?src=mv&amp;ref=automobiles" title="Click to go to this article">Wheels: Mazda Takeri Carries the Kodo Standard Forward</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/27/automobiles/27FAREWELL1/27FAREWELL1-thumbStandard.jpg"  kicker="Manufacturing"><a href="http://www.nytimes.com/2011/11/27/automobiles/involuntary-layoffs-even-for-cars.html?src=mv&amp;ref=automobiles" title="Click to go to this article">Manufacturing: Involuntary Layoffs, Even for Cars</a></li>
+<li kicker="Wheels"><a href="http://wheels.blogs.nytimes.com/2011/12/01/with-an-asterisk-chevrolet-volt-tops-consumer-reports-owner-satisfaction-survey/?src=mv&amp;ref=automobiles" title="Click to go to this article">Wheels: With an Asterisk, Chevrolet Volt Tops Consumer Reports Owner Satisfaction Survey</a></li>
+<li kicker="Wheels"><a href="http://wheels.blogs.nytimes.com/2011/11/30/toyota-fun-vii-the-car-as-mobile-mood-ring/?src=mv&amp;ref=automobiles" title="Click to go to this article">Wheels: Toyota Fun-Vii: The Car as Mobile Mood Ring</a></li>
+<li kicker="Wheels"><a href="http://wheels.blogs.nytimes.com/2011/12/01/bmw-and-toyota-to-collaborate-on-battery-development/?src=mv&amp;ref=automobiles" title="Click to go to this article">Wheels: BMW and Toyota to Collaborate on Battery Development</a></li>
+<li kicker="Wheels"><a href="http://wheels.blogs.nytimes.com/2011/11/29/for-maybach-a-long-slouch-before-the-fall/?src=mv&amp;ref=automobiles" title="Click to go to this article">Wheels: For Maybach, a Long Slouch Before the Fall</a></li>
+</ol>
+        </div><!-- #most viewed top10 -->
+
+            
+         <script type="text/javascript">new Accordian("mostPopWidget");</script>
+      <!-- MOST POPULAR MODULE ENDS -->
+   
+
+</div><!--close mostPopWidget -->
+</div>
+<!--Ads Simple -->                    <div class="columnGroup ">
+			
+
+<div class="bigAd" id="Box1">
+<!-- ADXINFO classification="Module" campaign="nyt2011_module_movies_dude_film_hp_ros_db"--><!-- MARKETING MODULE -->
+<div style="border:solid #999;border-width:1px;font-family:Arial,sans-serif;text-align:left; width:334px;background:#fff;" class="clearfix wrap">
+  <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/automobiles/index.html&pos=Box1&sn2=7bdd1b71/653e4f78&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/2011/12/01/is-it-the-year-of-the-dude-film/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-PH%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm11/movies_120211.jpg" width="334" height="154" border="0" alt=""></a> 
+  <div style="padding:7px 9px 0;background:#fff">
+      <h2 style="font-size:22px;line-height:24px; margin:0;padding:0 0 4px;"><a style="color:#004276;" target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/automobiles/index.html&pos=Box1&sn2=7bdd1b71/653e4f78&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/2011/12/01/is-it-the-year-of-the-dude-film/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-HDR%26WT.mc_ev=click%26WT.mc_c=175075">Is it the year of the dude film?</a></h2>
+
+      <p style="margin:0 0 3px; padding:0;font-size: 11px;"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/automobiles/index.html&pos=Box1&sn2=7bdd1b71/653e4f78&sn1=9f65a43f/6fae85ce&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://nytimes.com/movies/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-URL%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank" style="font-size:11px;margin:3px 0;padding:0;font-family:Arial,sans-serif;  color:#000; text-transform:uppercase;">Also in Movies &raquo;</a></p>
+      <ul style="font-size:12px;margin:0; padding-bottom: 10px; border-bottom:1px solid #ccc;" class="refer">
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/automobiles/index.html&pos=Box1&sn2=7bdd1b71/653e4f78&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/2011/11/29/patton-oswalt-steals-the-scene-at-gotham-awards/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-L1%26WT.mc_ev=click%26WT.mc_c=175075" style="color: #004276">All about the Gotham Awards</a></li>
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/automobiles/index.html&pos=Box1&sn2=7bdd1b71/653e4f78&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-L2%26WT.mc_ev=click%26WT.mc_c=175075" style="color: #004276">Awards season from The Carpetbagger</a></li>
+      </ul>
+    </div>
+ 
+ <div style="padding:5px 9px; float:left; width:316px; background:#fff"> <a style="float:left" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/automobiles/index.html&pos=Box1&sn2=7bdd1b71/653e4f78&sn1=9f65a43f/6fae85ce&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://nytimes.com/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-LOGO%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/nytimes.gif" alt="nytimes.com" width="116" height="18" border="0"></a><a style="float:right" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/automobiles/index.html&pos=Box1&sn2=7bdd1b71/653e4f78&sn1=9f65a43f/6fae85ce&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://nytimes.com/movies/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-VRT%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/verticals_movies.gif" alt="Movies" width="120" height="18" border="0"></a></div><br clear="all">
+
+</div>
+  <!-- /MARKETING MODULE -->
+
+
+</div>
+
+
+<div class="singleAd" id="Middle5">
+<!-- ADXINFO classification="feature_position" campaign="nyt2011-circ-middle5_promise-373LX-38R9W-AK"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/automobiles/index.html&pos=Middle5&sn2=172b0538/4011a70d&sn1=294262dd/c90edcbd&camp=nyt2011-circ-middle5_promise-373LX-38R9W-AK&ad=092111-11-middle5_promise-AK&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DW42CS%26CMP%3D373LX" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/71/ad.277140/11-0922_HDGenericD2_336x79_AK.jpg" width="336" height="79" border="0"></a><div class='kj_cx'></div>
+<script type='text/javascript'>
+var kjData = {akin: 'NYT-IP-4d0abbb3acf67-y05', adWidth: 10, adHeight: 10, btnStyle: 2, crnr: 'bl'};
+if(!kjG){var kjG=[]}kjG.push(kjData);if(!kjLdr){var kjLdr={ld:function(){var b=document; var a=b.createElement('script');a.type='text/javascript';a.src='http://a.akncdn.com/adkeeper.1.0.js'; (b.getElementsByTagName('body')[0]||b.getElementsByTagName('head')[0]).appendChild(a) },init:function(){var a=window,b=document;if(b.addEventListener){a.addEventListener('load',this.ld,false) }else{if(a.attachEvent){a.attachEvent('onload',this.ld)}}}};kjLdr.init()}; </script>
+</div>
+
+
+
+<!--[TwoColumnAdLeft - Begin] -->
+	<div class="adHeader">
+<h4>
+Advertisements	    </h4>
+</div>
+<div class="cColumn-TextAdsBox">
+	<div class="cColumn-TextAdsLeft">
+<div class="cColumn-TextAd">
+<!-- ADXINFO classification="SiteForADay" campaign="nyt2011-mktg-arts_and_ents-s4d_ros"--><div style="width:320px; height:60px;"> 
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/automobiles/index.html&pos=Right5A&sn2=728ad5cc/b4025da3&sn1=6a1102ca/9e7f5eda&camp=nyt2011-mktg-arts_and_ents-s4d_ros&ad=AR-D-I-NYT-AD-S4D-AandE-ROS-1211-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fevents%2Findex%2Ehtml%3FWT%2Emc%5Fid%3DAR%2DD%2DI%2DNYT%2DAD%2DS4D%2DAandE%2DROS%2D1211%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D175108" target="_blank"> 
+<img style="float:left; margin-right:10px;" src="http://graphics8.nytimes.com/adx/images/ADS/28/59/ad.285977/11-2187_ArtsEntertainment_86x60.gif" width="86" height="60" border="0" style="vertical-align:text-top;"></a>
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/automobiles/index.html&pos=Right5A&sn2=728ad5cc/b4025da3&sn1=6a1102ca/9e7f5eda&camp=nyt2011-mktg-arts_and_ents-s4d_ros&ad=AR-D-I-NYT-AD-S4D-AandE-ROS-1211-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fevents%2Findex%2Ehtml%3FWT%2Emc%5Fid%3DAR%2DD%2DI%2DNYT%2DAD%2DS4D%2DAandE%2DROS%2D1211%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D175108" target="_blank">  <br />Introducing: The Interactive Arts & Entertainment Guide</a>
+</div>
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+</div>
+	</div>
+<!--[TwoColumnAdLeft - End] -->
+<div class="advertisementColumnGroup">
+<!--[MarketPlaceGridAd - Begin] -->
+
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+    <!--[MarketPlaceGridAd - End] -->
+</div>
+</div>
+<!--Ads Ads -->                    <div class="columnGroup last">
+
+<div class="singleAd" id="Feature1">
+<!-- ADXINFO classification="hp-module" campaign="feature1-CanyonRanch-1764607-cla"--><!--Ad Template Begins Here -->
+<div class="story advertisement">
+<div class="callout">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/automobiles/index.html&pos=Feature1&sn2=704ec12b/f8c99121&sn1=5e1dcb15/121849b2&camp=feature1-CanyonRanch-1764607-cla&ad=3.11.11-CanyonRanch-173x98-SFM&goto=http%3A%2F%2Fwww%2Ecanyonranchlivingmiamibeach%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/26/01/ad.260145/2.9.11_173x98.jpg"" width="173" height="98" border="0" alt="Photo"></a>
+</div>
+<h5>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/automobiles/index.html&pos=Feature1&sn2=704ec12b/f8c99121&sn1=5e1dcb15/121849b2&camp=feature1-CanyonRanch-1764607-cla&ad=3.11.11-CanyonRanch-173x98-SFM&goto=http%3A%2F%2Fwww%2Ecanyonranchlivingmiamibeach%2Ecom" target="_blank"></a>
+</h5>
+<p class="summary"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/automobiles/index.html&pos=Feature1&sn2=704ec12b/f8c99121&sn1=5e1dcb15/121849b2&camp=feature1-CanyonRanch-1764607-cla&ad=3.11.11-CanyonRanch-173x98-SFM&goto=http%3A%2F%2Fwww%2Ecanyonranchlivingmiamibeach%2Ecom" target="_blank"><font size=1>A life of wellness is just a click away.  One to to three bedrooms from the 400s to over $3MM.</font></a>
+</p>
+<div class="adCreative">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/automobiles/index.html&pos=Feature1&sn2=704ec12b/f8c99121&sn1=5e1dcb15/121849b2&camp=feature1-CanyonRanch-1764607-cla&ad=3.11.11-CanyonRanch-173x98-SFM&goto=http%3A%2F%2Fwww%2Ecanyonranchlivingmiamibeach%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/26/01/ad.260145/2.9.11_logo.gif" width="78" height="36"></a>
+</div>
+
+<p class="summary"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/automobiles/index.html&pos=Feature1&sn2=704ec12b/f8c99121&sn1=5e1dcb15/121849b2&camp=feature1-CanyonRanch-1764607-cla&ad=3.11.11-CanyonRanch-173x98-SFM&goto=http%3A%2F%2Fwww%2Ecanyonranchlivingmiamibeach%2Ecom" target="_blank"><font size=1>CANYONRANCHLIVINGMIAMIBEACH.COM</font></a>
+</p>
+</div>
+<!--Ad Template Ends Here -->
+</div>
+
+
+<div class="singleAd" id="SponLink">
+<script language="JavaScript" type="text/javascript">
+    
+    // Sponlink_short
+
+    NYTD.GoogleAds.getGoogleAds("AFC", { 
+        google_ad_client:'nytimes_section_var',
+        ad_target_list:'sponLink'
+    });
+</script>
+</div>
+
+</div>
+</div><!--close cColumn -->
+</div><!--close wideA -->
+</div><!--close spanAB -->
+</div><!--close main -->
+<div id="footer">
+<ul class="first">
+<li class="first"><a href="http://www.nytimes.com">Home</a></li>
+<li >
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li>
+<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+</ul>    <ul>
+<li class="first"><a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&copy; 2011</a> <a href="http://www.nytco.com/">The New York Times Company</a></li>
+<li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Terms of Service</a></li>
+<li class="termsOfSale"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+<li><a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a></li>
+<li><a class="rssButton" href="http://www.nytimes.com/rss">RSS</a></li>
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+<li><a href="http://www.nytco.com/careers">Work for Us</a></li>
+<li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+</ul>
+</div>
+</div><!--close page -->
+</div><!--close shell -->
+
+
+
+
+
+
+<script src="http://content.dl-rms.com/rms/5061/nodetag.js"></script>
+
+
+<IMG SRC="/adx/bin/clientside/4b001e2eQ2FQ7DL(eA4Q3CLIQ26)LLIeQ3EQ27(eL4Q27A" height="1" width="3">
+
+<script type="text/javascript" language="JavaScript">
+// Written by /usr/local/knews/bin/commentcount.pl Fri Dec  2 13:02:02 2011
+var NYTArticleCommentCounts = {
+"100000001190843":{count:147, commentsEnabled:false},
+"100000001190858":{count:204, commentsEnabled:false},
+"100000001190907":{count:49, commentsEnabled:false},
+"100000001191255":{count:237, commentsEnabled:false},
+"100000001191704":{count:133, commentsEnabled:false},
+"100000001191724":{count:100, commentsEnabled:false},
+"100000001191950":{count:122, commentsEnabled:false},
+"100000001192133":{count:307, commentsEnabled:false},
+"100000001192329":{count:76, commentsEnabled:false},
+"100000001190961":{count:19, commentsEnabled:false},
+"100000001177231":{count:1, commentsEnabled:true},
+"100000001177245":{count:74, commentsEnabled:true},
+"100000001179958":{count:24, commentsEnabled:false},
+"100000001180322":{count:227, commentsEnabled:true},
+"100000001183078":{count:44, commentsEnabled:false},
+"100000001183080":{count:327, commentsEnabled:false},
+"100000001183081":{count:7, commentsEnabled:false},
+"100000001183084":{count:235, commentsEnabled:false},
+"100000001183087":{count:11, commentsEnabled:false},
+"100000001183089":{count:14, commentsEnabled:false},
+"100000001183090":{count:11, commentsEnabled:false},
+"100000001183091":{count:3, commentsEnabled:false},
+"100000001183094":{count:14, commentsEnabled:false},
+"100000001184186":{count:79, commentsEnabled:false},
+"100000001184524":{count:149, commentsEnabled:false},
+"100000001186117":{count:1, commentsEnabled:false},
+"100000001186193":{count:12, commentsEnabled:true},
+"100000001186569":{count:190, commentsEnabled:false},
+"100000001189184":{count:49, commentsEnabled:false},
+"100000001190721":{count:71, commentsEnabled:false},
+"100000001191577":{count:224, commentsEnabled:false},
+"100000001191688":{count:28, commentsEnabled:false},
+"100000001191719":{count:107, commentsEnabled:false},
+"100000001191931":{count:121, commentsEnabled:false},
+"100000001191985":{count:110, commentsEnabled:false},
+"100000001192057":{count:211, commentsEnabled:false},
+"100000001192188":{count:141, commentsEnabled:false},
+"100000001192496":{count:52, commentsEnabled:false},
+"100000001192500":{count:206, commentsEnabled:false},
+"100000001192600":{count:224, commentsEnabled:false},
+"100000001192611":{count:167, commentsEnabled:false},
+"100000001193250":{count:67, commentsEnabled:false},
+"100000001193262":{count:37, commentsEnabled:false},
+"100000001193344":{count:98, commentsEnabled:false},
+"100000001193527":{count:27, commentsEnabled:false},
+"100000001193629":{count:10, commentsEnabled:false},
+"100000001193702":{count:17, commentsEnabled:false},
+"100000001193743":{count:108, commentsEnabled:false},
+"100000001193763":{count:516, commentsEnabled:false},
+"100000001193825":{count:86, commentsEnabled:false},
+"100000001193857":{count:48, commentsEnabled:false},
+"100000001193859":{count:160, commentsEnabled:false},
+"100000001193890":{count:117, commentsEnabled:false},
+"100000001193920":{count:44, commentsEnabled:false},
+"100000001193944":{count:303, commentsEnabled:false},
+"100000001193948":{count:7, commentsEnabled:false},
+"100000001194088":{count:51, commentsEnabled:false},
+"100000001194098":{count:17, commentsEnabled:true},
+"100000001194137":{count:109, commentsEnabled:false},
+"100000001194342":{count:159, commentsEnabled:false},
+"100000001194394":{count:68, commentsEnabled:false},
+"100000001194454":{count:36, commentsEnabled:false},
+"100000001194795":{count:192, commentsEnabled:false},
+"100000001194808":{count:628, commentsEnabled:false},
+"100000001194892":{count:125, commentsEnabled:false},
+"100000001195360":{count:33, commentsEnabled:false},
+"100000001195689":{count:178, commentsEnabled:false},
+"100000001195802":{count:10, commentsEnabled:false},
+"100000001195854":{count:304, commentsEnabled:false},
+"100000001195914":{count:48, commentsEnabled:false},
+"100000001195920":{count:17, commentsEnabled:false},
+"100000001195923":{count:44, commentsEnabled:false},
+"100000001195938":{count:138, commentsEnabled:false},
+"100000001195940":{count:10, commentsEnabled:false},
+"100000001195947":{count:92, commentsEnabled:false},
+"100000001195952":{count:162, commentsEnabled:false},
+"100000001195976":{count:141, commentsEnabled:false},
+"100000001195982":{count:283, commentsEnabled:false},
+"100000001196229":{count:42, commentsEnabled:false},
+"100000001196250":{count:104, commentsEnabled:true},
+"100000001196432":{count:333, commentsEnabled:false},
+"100000001196658":{count:42, commentsEnabled:false},
+"100000001196737":{count:28, commentsEnabled:true},
+"100000001196861":{count:18, commentsEnabled:false},
+"100000001196955":{count:71, commentsEnabled:true},
+"100000001196963":{count:143, commentsEnabled:false},
+"100000001197064":{count:68, commentsEnabled:false},
+"100000001197489":{count:3, commentsEnabled:false},
+"100000001197999":{count:75, commentsEnabled:false},
+"100000001198014":{count:290, commentsEnabled:false},
+"100000001198050":{count:69, commentsEnabled:true},
+"100000001198076":{count:32, commentsEnabled:true},
+"100000001198092":{count:204, commentsEnabled:false},
+"100000001198110":{count:424, commentsEnabled:false},
+"100000001198123":{count:343, commentsEnabled:false},
+"100000001198126":{count:62, commentsEnabled:false},
+"100000001198138":{count:163, commentsEnabled:false},
+"100000001198377":{count:143, commentsEnabled:true},
+"100000001198446":{count:23, commentsEnabled:true},
+"100000001198471":{count:52, commentsEnabled:true},
+"100000001198476":{count:157, commentsEnabled:true},
+"100000001198581":{count:48, commentsEnabled:true},
+"100000001198642":{count:253, commentsEnabled:false},
+"100000001199366":{count:136, commentsEnabled:true},
+"100000001199374":{count:114, commentsEnabled:true},
+"100000001199444":{count:155, commentsEnabled:false},
+"100000001199658":{count:4, commentsEnabled:true},
+"100000001200046":{count:884, commentsEnabled:true},
+"100000001200335":{count:165, commentsEnabled:false},
+"100000001200378":{count:192, commentsEnabled:false},
+"100000001200458":{count:77, commentsEnabled:false},
+"100000001200844":{count:23, commentsEnabled:true},
+"100000001201276":{count:88, commentsEnabled:true},
+"100000001201525":{count:188, commentsEnabled:true},
+"100000001202361":{count:0, commentsEnabled:true},
+"100000001202521":{count:27, commentsEnabled:true},
+"100000001202701":{count:270, commentsEnabled:false},
+"100000001202807":{count:17, commentsEnabled:true},
+"100000001202815":{count:116, commentsEnabled:false},
+"100000001202831":{count:232, commentsEnabled:true},
+"100000001202861":{count:95, commentsEnabled:true},
+"100000001202869":{count:39, commentsEnabled:true},
+"100000001202871":{count:23, commentsEnabled:true},
+"100000001202889":{count:54, commentsEnabled:true},
+"100000001202895":{count:33, commentsEnabled:true},
+"100000001202901":{count:90, commentsEnabled:true},
+"100000001203208":{count:19, commentsEnabled:true},
+"100000001203416":{count:220, commentsEnabled:true},
+"100000001203664":{count:0, commentsEnabled:true},
+"100000001188908":{count:16, commentsEnabled:true},
+"100000001194403":{count:0, commentsEnabled:true},
+"100000001194404":{count:0, commentsEnabled:true},
+"100000001194405":{count:71, commentsEnabled:true},
+"100000001194406":{count:0, commentsEnabled:true},
+"100000001194419":{count:1, commentsEnabled:true},
+"100000001194423":{count:58, commentsEnabled:true},
+"100000001194424":{count:0, commentsEnabled:true},
+"100000001194425":{count:0, commentsEnabled:true},
+"100000001194427":{count:0, commentsEnabled:true},
+"100000001194843":{count:51, commentsEnabled:true},
+"100000001197746":{count:1, commentsEnabled:true},
+"100000001201815":{count:0, commentsEnabled:true},
+"100000001201989":{count:0, commentsEnabled:true}
+};
+</script>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/homepage/articleCommentCounts.js"></script>
+<script type="text/javascript" language="JavaScript">
+    ArticleCommentCounts.apply()
+    </script>
+
+			
+		<!-- Start UPT call -->
+		<img height="1" width="3" border=0 src="http://up.nytimes.com/?d=0/32/&t=&s=0&ui=&r=&u=www%2enytimes%2ecom%2fpages%2fautomobiles%2findex%2ehtml%3f">
+		<!-- End UPT call -->
+	
+		
+        <script language="JavaScript"><!--
+          var dcsvid="";
+          var regstatus="non-registered";
+        //--></script>
+        <script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+        <noscript>
+          <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div>
+        </noscript>
+   
+</body>
+</html>

@@ -1,0 +1,1224 @@
+Set-cookie: RMID=00c3216841ec4ed9132e72dd; expires=Saturday, 01-Dec-2012 18:04:30 GMT; path=/; domain=.nytimes.com
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Set-cookie: adxcs=s*2814e=0:1; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Education News - The New York Times</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="noarchive">
+<meta name="description" content="Find breaking news &amp; education news on colleges &amp; universities, teachers, public &amp; private schools, tuition, scholarships, financial aid &amp; student loans." />
+<meta name="keywords" content="Chefec, Joshua,Cheating,Education (K-12),Nassau County (NY),Eshaghoff, Samuel,ACT (Examination),SAT (College Admission Test),Graduation Rates,Education (K-12),Education Department (NYC),Bronx (NYC),Smalls, Sharron,Jane Addams High School for Academic Careers,Colleges and Universities,Champion, Robert,Marching Bands,Florida,Hazing,Florida A&amp;M University,Finances,Texas,Decisions and Verdicts,Taxation,Education (K-12),University of California,Newsom, Gavin,California State University,California,Demonstrations, Protests, and Riots,Tuition,Education (K-12),Teachers and School Employees,Wages and Salaries,Education Department (US),Lunch and Breakfast Programs,Layoffs and Job Reductions,Unemployment,Education (K-12),United States Economy,Duncan, Arne,Colleges and Universities,Student Loans,Occupy Wall Street,Tuition,Education Department (US),New York City,Brookings Institution,Education (K-12),Lawrence (Mass),Massachusetts,Graduation Rates,Education (K-12),New York City,Demonstrations, Protests, and Riots,Baruch College,City University of New York,Colleges and Universities,Tuition,Colleges and Universities,Appointments and Executive Changes,University of Oregon,Lariviere, Richard W,New York City,Computers and the Internet,Education (K-12),Children and Childhood,Education (Pre-School),Parenting,Private and Sectarian Schools,Sandusky, Jerry,Football (College),Paterno, Joe,College Athletics,Football,Pennsylvania State University,Sex Crimes,Colleges and Universities,Child Abuse and Neglect,Education (K-12),Texas,For-Profit Schools,Teachers and School Employees,New York City,Education (K-12),Series,Immigration and Emigration,Illegal Immigrants,Dropouts,Census,Mexican-Americans,Sex Crimes,Sandusky, Jerry,Football (College),Child Abuse and Neglect,Second Mile,Pennsylvania State University,Emanuel, Rahm,Education (K-12),Charter Schools,Reform and Reorganization,Sicat, Oliver,Shutdowns (Institutional),Chicago (Ill),Education (K-12),Texas,Chess,Florida A&amp;M University,Hazing,Deaths (Fatalities),Marching Bands,Champion, Robert,Colleges and Universities,Scott, Richard L,Tallahassee (Fla),Ammons, James H.,White, Julian,Curley, Tim,Sandusky, Jerry,Schultz, Gary,Perjury,Football,Pennsylvania State University,Sex Crimes,College Athletics,McQueary, Mike,Football (College),Child Abuse and Neglect,Amazon Kindle,iPad,Colleges and Universities,Education,E-Books and Readers,United States,Business Schools,France,Science and Technology,Education,Paris (France),Sex Crimes,Sandusky, Jerry,Pennsylvania,Hunter, Thom,Pennsylvania State University,Football,College Athletics,Football (College),Child Abuse and Neglect,Rice, Kathleen M,Cheating,Tests and Examinations,Education (K-12),Nassau County (NY),ACT (Examination),SAT (College Admission Test),For-Profit Schools,Colleges and Universities,Government Accountability Office,Discrimination,Albuquerque (NM),Minorities,Cooper, David,Colleges and Universities,Blacks,National Assn for the Advancement of Colored People,University of New Mexico,Education (K-12),King, John B Jr,Principals (School),Tests and Examinations,Performance Evaluations (Labor),Education Department (NYS),Long Island (NY),Teachers and School Employees,New York State,International Trade and World Market,Wages and Salaries,United States Economy,Labor and Jobs,Banking and Financial Institutions,Education (Secondary),Education,Great Britain,History (Academic Subject)" />
+<meta name="asset_id" content="">
+<meta name="CG" content="education">
+<meta name="SCG" content="">
+<meta name="PT" content="Section Front">
+<meta name="PST" content="">
+<link rel="canonical" href="http://www.nytimes.com/pages/education/index.html">
+<meta name="msapplication-starturl" content="http://www.nytimes.com/" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.nytimes.com/services/xml/rss/nyt/Education.xml"/>
+
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/build/sectionfront/education/styles.css" />
+<link rel="stylesheet" type="text/css" media="print" href="http://graphics8.nytimes.com/css/0.1/print/styles.css">
+<!--[if IE]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie.css);
+	    </style>
+	<![endif]-->
+<!--[if IE 6]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie6.css);
+	    </style>
+	<![endif]-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/DropDown.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/util/tooltip.js"></script>
+<script type="text/JavaScript">
+		var static_kw = "Chefec; Joshua;Cheating;Education (K-12);Nassau County (NY);Eshaghoff; Samuel;ACT (Examination);SAT (College Admission Test);Graduation Rates;Education (K-12);Education Department (NYC);Bronx (NYC);Smalls; Sharron;Jane Addams High School for Academic Careers;Colleges and Universities;Champion; Robert;Marching Bands;Florida;Hazing;Florida A&M University;Finances;Texas;Decisions and Verdicts;Taxation;Education (K-12);University of California;Newsom; Gavin;California State University;California;Demonstrations; Protests; and Riots;Tuition;Education (K-12);Teachers and School Employees;Wages and Salaries;Education Department (US);Lunch and Breakfast Programs;Layoffs and Job Reductions;Unemployment;Education (K-12);United States Economy;Duncan; Arne;Colleges and Universities;Student Loans;Occupy Wall Street;Tuition;Education Department (US);New York City;Brookings Institution;Education (K-12);Lawrence (Mass);Massachusetts;Graduation Rates;Education (K-12);New York City;Demonstrations; Protests; and Riots;Baruch College;City University of New York;Colleges and Universities;Tuition;Colleges and Universities;Appointments and Executive Changes;University of Oregon;Lariviere; Richard W;New York City;Computers and the Internet;Education (K-12);Children and Childhood;Education (Pre-School);Parenting;Private and Sectarian Schools;Sandusky; Jerry;Football (College);Paterno; Joe;College Athletics;Football;Pennsylvania State University;Sex Crimes;Colleges and Universities;Child Abuse and Neglect;Education (K-12);Texas;For-Profit Schools;Teachers and School Employees;New York City;Education (K-12);Series;Immigration and Emigration;Illegal Immigrants;Dropouts;Census;Mexican-Americans;Sex Crimes;Sandusky; Jerry;Football (College);Child Abuse and Neglect;Second Mile;Pennsylvania State University;Emanuel; Rahm;Education (K-12);Charter Schools;Reform and Reorganization;Sicat; Oliver;Shutdowns (Institutional);Chicago (Ill);Education (K-12);Texas;Chess;Florida A&M University;Hazing;Deaths (Fatalities);Marching Bands;Champion; Robert;Colleges and Universities;Scott; Richard L;Tallahassee (Fla);Ammons; James H.;White; Julian;Curley; Tim;Sandusky; Jerry;Schultz; Gary;Perjury;Football;Pennsylvania State University;Sex Crimes;College Athletics;McQueary; Mike;Football (College);Child Abuse and Neglect;Amazon Kindle;iPad;Colleges and Universities;Education;E-Books and Readers;United States;Business Schools;France;Science and Technology;Education;Paris (France);Sex Crimes;Sandusky; Jerry;Pennsylvania;Hunter; Thom;Pennsylvania State University;Football;College Athletics;Football (College);Child Abuse and Neglect;Rice; Kathleen M;Cheating;Tests and Examinations;Education (K-12);Nassau County (NY);ACT (Examination);SAT (College Admission Test);For-Profit Schools;Colleges and Universities;Government Accountability Office;Discrimination;Albuquerque (NM);Minorities;Cooper; David;Colleges and Universities;Blacks;National Assn for the Advancement of Colored People;University of New Mexico;Education (K-12);King; John B Jr;Principals (School);Tests and Examinations;Performance Evaluations (Labor);Education Department (NYS);Long Island (NY);Teachers and School Employees;New York State;International Trade and World Market;Wages and Salaries;United States Economy;Labor and Jobs;Banking and Financial Institutions;Education (Secondary);Education;Great Britain;History (Academic Subject)";
+		var dynamic_kw = "Chefec;+Joshua;Cheating;Education+%28K-12%29;Nassau+County+%28NY%29;Eshaghoff;+Samuel;ACT+%28Examination%29;SAT+%28College+Admission+Test%29;Graduation+Rates;Education+%28K-12%29;Education+Department+%28NYC%29;Bronx+%28NYC%29;Smalls;+Sharron;Jane+Addams+High+School+for+Academic+Careers;Colleges+and+Universities;Champion;+Robert;Marching+Bands;Florida;Hazing;Florida+A%26M+University;Finances;Texas;Decisions+and+Verdicts;Taxation;Education+%28K-12%29;University+of+California;Newsom;+Gavin;California+State+University;California;Demonstrations;+Protests;+and+Riots;Tuition;Education+%28K-12%29;Teachers+and+School+Employees;Wages+and+Salaries;Education+Department+%28US%29;Lunch+and+Breakfast+Programs;Layoffs+and+Job+Reductions;Unemployment;Education+%28K-12%29;United+States+Economy;Duncan;+Arne;Colleges+and+Universities;Student+Loans;Occupy+Wall+Street;Tuition;Education+Department+%28US%29;New+York+City;Brookings+Institution;Education+%28K-12%29;Lawrence+%28Mass%29;Massachusetts;Graduation+Rates;Education+%28K-12%29;New+York+City;Demonstrations;+Protests;+and+Riots;Baruch+College;City+University+of+New+York;Colleges+and+Universities;Tuition;Colleges+and+Universities;Appointments+and+Executive+Changes;University+of+Oregon;Lariviere;+Richard+W;New+York+City;Computers+and+the+Internet;Education+%28K-12%29;Children+and+Childhood;Education+%28Pre-School%29;Parenting;Private+and+Sectarian+Schools;Sandusky;+Jerry;Football+%28College%29;Paterno;+Joe;College+Athletics;Football;Pennsylvania+State+University;Sex+Crimes;Colleges+and+Universities;Child+Abuse+and+Neglect;Education+%28K-12%29;Texas;For-Profit+Schools;Teachers+and+School+Employees;New+York+City;Education+%28K-12%29;Series;Immigration+and+Emigration;Illegal+Immigrants;Dropouts;Census;Mexican-Americans;Sex+Crimes;Sandusky;+Jerry;Football+%28College%29;Child+Abuse+and+Neglect;Second+Mile;Pennsylvania+State+University;Emanuel;+Rahm;Education+%28K-12%29;Charter+Schools;Reform+and+Reorganization;Sicat;+Oliver;Shutdowns+%28Institutional%29;Chicago+%28Ill%29;Education+%28K-12%29;Texas;Chess;Florida+A%26M+University;Hazing;Deaths+%28Fatalities%29;Marching+Bands;Champion;+Robert;Colleges+and+Universities;Scott;+Richard+L;Tallahassee+%28Fla%29;Ammons;+James+H.;White;+Julian;Curley;+Tim;Sandusky;+Jerry;Schultz;+Gary;Perjury;Football;Pennsylvania+State+University;Sex+Crimes;College+Athletics;McQueary;+Mike;Football+%28College%29;Child+Abuse+and+Neglect;Amazon+Kindle;iPad;Colleges+and+Universities;Education;E-Books+and+Readers;United+States;Business+Schools;France;Science+and+Technology;Education;Paris+%28France%29;Sex+Crimes;Sandusky;+Jerry;Pennsylvania;Hunter;+Thom;Pennsylvania+State+University;Football;College+Athletics;Football+%28College%29;Child+Abuse+and+Neglect;Rice;+Kathleen+M;Cheating;Tests+and+Examinations;Education+%28K-12%29;Nassau+County+%28NY%29;ACT+%28Examination%29;SAT+%28College+Admission+Test%29;For-Profit+Schools;Colleges+and+Universities;Government+Accountability+Office;Discrimination;Albuquerque+%28NM%29;Minorities;Cooper;+David;Colleges+and+Universities;Blacks;National+Assn+for+the+Advancement+of+Colored+People;University+of+New+Mexico;Education+%28K-12%29;King;+John+B+Jr;Principals+%28School%29;Tests+and+Examinations;Performance+Evaluations+%28Labor%29;Education+Department+%28NYS%29;Long+Island+%28NY%29;Teachers+and+School+Employees;New+York+State;International+Trade+and+World+Market;Wages+and+Salaries;United+States+Economy;Labor+and+Jobs;Banking+and+Financial+Institutions;Education+%28Secondary%29;Education;Great+Britain;History+%28Academic+Subject%29";
+		var nyt_google_contents = dynamic_kw + static_kw;
+		var nyt_google_ad_channel = "education";
+	</script>
+<script type="text/javascript" src="http://use.typekit.com/fml4qar.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" src="http://js.nyt.com/js2/build/sitewide/sitewide.js"></script>
+<script type="text/javascript" src="http://js.nyt.com/js/app/lib/jquery/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+</head>
+<body>
+<a name="top"></a>
+<div id="shell">
+
+<ul id="memberTools">
+
+ 
+                        <li><a id="memberToolsLogin" href="https://myaccount.nytimes.com/auth/login">Log In</a></li>
+            <li><a href="https://myaccount.nytimes.com/gst/regi.html">Register Now</a></li>
+                            
+
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+</ul>
+<div class="tabsContainer">
+<ul id="mainTabs" class="tabs">
+<li class="first mainTabHome"><a href="http://www.nytimes.com">Home Page</a></li>
+<li class="mainTabTodaysPaper"><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+<li class="mainTabVideo"><a href="http://www.nytimes.com/video">Video</a></li>
+<li class="mainTabMostPopular"><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+<li class="mainTabTimesTopics"><a href="http://topics.nytimes.com/top/reference/timestopics">Times Topics</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+</script>	<div id="page" class="tabContent active">
+<div class="clearfix" id="masthead">
+
+<div class="singleAd" id="Middle1C">
+<!-- ADXINFO classification="button" campaign="ING_DirectSiteSearchQ111_1694929-nyt1"--><A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/education/index.html&pos=Middle1C&sn2=81552f11/eb4cdd5f&sn1=59756299/46b02203&camp=ING_DirectSiteSearchQ111_1694929-nyt1&ad=NEW.88x31.SiteSearch.Wizard&goto=http://ad.doubleclick.net/jump/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.30" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.30"
+ BORDER=0 WIDTH=88 HEIGHT=31
+ ALT="Click Here"></A>
+</div>
+
+<div id="searchWidget">
+<div class="inlineSearchControl">
+<form enctype="application/x-www-form-urlencoded" action="http://query.nytimes.com/search/sitesearch" method="get" name="searchForm" id="searchForm">
+<input type="hidden" value="full" name="date_select"/>
+<label for="searchQuery">Search All NYTimes.com</label>
+<input type="text" class="text" value="" size="" name="query" id="searchQuery"/>
+<input type="hidden" id="searchAll" name="type" value="nyt"/>
+<input type="image" id="searchSubmit" title="Search" alt="Search" width="22" height="19" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"/>
+</form>
+</div>
+</div>
+
+<div id="branding" >
+<a href="http://www.nytimes.com"><img src="http://graphics8.nytimes.com/images/misc/nytlogo152x23.gif" alt="New York Times" id="NYTLogo"/></a>
+</div>
+
+<div id="date">
+<p>
+Friday, December  2, 2011
+</p>
+</div>
+
+<h2>
+<a href="http://www.nytimes.com/pages/education/index.html">Education</a>
+</h2>
+
+</div>
+<div class="navigation tabsContainer">
+<ul class="tabs">
+<li id="navWorld" class="first ">
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>	<li id="navUs" class="selected">
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+<ul class="subNavigation"><li id="subNav_politics"><a href="http://www.nytimes.com/pages/politics/index.html">Politics</a></li><li id="subNav_education" class="selected nochildren" ><a href="http://www.nytimes.com/pages/education/index.html">Education</a></li><li id="subNav_bayarea"><a href="http://www.nytimes.com/bayarea/index.html">Bay Area</a></li><li id="subNav_chicago"><a href="http://www.nytimes.com/Chicago/index.html">Chicago</a></li><li id="subNav_texas"><a href="http://www.nytimes.com/texas">Texas</a></li></ul></li>	<li id="navNyregion" >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>	<li id="navBusiness" >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>	<li id="navTechnology" >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>	<li id="navScience" >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>	<li id="navHealth" >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>	<li id="navSports" >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>	<li id="navOpinion" >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>	<li id="navArts" >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>	<li id="navStyle" >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>	<li id="navTravel" >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>	<li id="navJobs" >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>	<li id="navRealestate" >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>	<li id="navAutomobiles" >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li></ul>
+</div>
+
+<div class="singleAd" id="TopAd">
+<!-- ADXINFO classification="leaderboard_728" campaign="Citi_NatContContextAddress_1778585-nyt1"--><script language="JavaScript" type="text/javascript" src="http://view.atdmt.com/NYC/jview/359855726/direct;wi.728;hi.90;pc.172960_282801/01/2011.12.02.18.04.30?click=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fadx%2Fbin%2Fadx%5Fclick%2Ehtml%3Ftype%3Dgoto%26opzn%26page%3Dwww.nytimes.com/pages/education/index.html%26pos%3DTopAd%26camp%3DCiti%5FNatContContextAddress%5F1778585%2Dnyt1%26ad%3Datlas%2D359855726%5F728x90%5FROS%26sn2%3De233d633/93fb69a8%26snr%3Ddoubleclick%26snx%3D1322848862%26sn1%3Da24f8359%2Fd9b22823%26goto%3D">
+</script><noscript><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/education/index.html&pos=TopAd&sn2=e233d633/93fb69a8&sn1=c8e65fa8/cdc43793&camp=Citi_NatContContextAddress_1778585-nyt1&ad=atlas-359855726_728x90_ROS&goto=http%3A%2F%2Fclk%2Eatdmt%2Ecom%2FNYC%2Fgo%2F359855726%2Fdirect%3Bwi%2E728%3Bhi%2E90%3Bpc%2E172960%5F282801%2F01%2F2011.12.02.18.04.30%2F" target="_blank"><img border="0" src="http://view.atdmt.com/NYC/view/359855726/direct;wi.728;hi.90;pc.172960_282801/01/2011.12.02.18.04.30/" /></a></noscript>
+</div>
+
+<div id="main">
+<div class="spanAB wrap">
+<div class="wideA">
+<div class="abColumn">
+<div class="aColumn">
+<!--cur:LedeStory395 prev:-->
+<div class="columnGroup first">
+<div class="ledeStory">
+<div class="storyHeader">
+<h1><a href="http://www.nytimes.com/2011/12/02/education/on-long-island-sat-cheating-was-hardly-a-secret.html?ref=education">
+Exam Cheating on Long Island Hardly a Secret</a></h1>
+<h6 class="byline">
+By JENNY ANDERSON and PETER APPLEBOME            </h6>
+</div>
+<div class="ledePhoto">
+<div class="image">
+<a href="http://www.nytimes.com/2011/12/02/education/on-long-island-sat-cheating-was-hardly-a-secret.html?ref=education"><img src="http://graphics8.nytimes.com/images/2011/12/02/nyregion/Y-SAT1/Y-SAT1-sfSpan.jpg" border="0" width="395" height="263" alt="Great Neck North High School on Long Island, where the cheating inquiry began and the authorities were contacted." /></a>
+</div>
+<h6 class="credit">Michael Kirby Smith for The New York Times</h6>
+<p class="caption">Great Neck North High School on Long Island, where the cheating inquiry began and the authorities were contacted.</p>
+</div>
+<p class="summary">
+Charges that 20 students took SAT or ACT tests for others, or paid a test-taker, reflect the college admissions rat race.</p>
+<ul class="refer">
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001202869" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/02/education/on-long-island-sat-cheating-was-hardly-a-secret.html"></span></li>
+</ul>
+</div>
+</div>
+<!--cur:StandardThumb prev:LedeStory395-->
+<div class="columnGroup ">
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/12/02/education/problems-with-credits-at-school-in-the-bronx.html?ref=education">
+Problems With Credits at School in the Bronx</a></h3>
+<h6 class="byline">
+By ANNA M. PHILLIPS and HADAS GOSHEN	    </h6>
+<p class="summary">
+Jane Addams High School for Academic Careers is under investigation for allegations that the school gave students credits for multiple courses for taking a single class.</p>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/12/02/us/florida-4-students-dismissed-in-death.html?ref=education">
+Florida: 4 Students Dismissed in Death</a></h3>
+<h6 class="byline">
+By THE ASSOCIATED PRESS	    </h6>
+<p class="summary">
+Florida A&M University said that it was dismissing four students in connection with the death of a marching band member last month.</p>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/12/02/us/schools-are-resigned-to-robin-hood.html?ref=education">
+Schools Are Resigned to Robin Hood</a></h3>
+<h6 class="byline">
+By MORGAN SMITH	    </h6>
+<p class="summary">
+Although state financing of Texas public schools is still a subject of litigation, one thing is certain: the Robin Hood system of rich districts giving money to poor ones is here to stay.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/us/gavin-newsom-stakes-a-claim-with-student-protests.html?ref=education">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/us/02BCNEWSOM/02BCNEWSOM-thumbStandard.jpg" width="75" height="75" alt="Lt. Gov. Gavin Newsom joined a group of protesters on Monday after they disrupted the University of California Board of Regents meeting in San Francisco and conducted a meeting of their own." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/us/gavin-newsom-stakes-a-claim-with-student-protests.html?ref=education">
+Newsom Stakes a Claim With Student Protests</a></h3>
+<h6 class="byline">
+By JENNIFER GOLLAN and GERRY SHIH	    </h6>
+<p class="summary">
+Lt. Gov. Gavin Newsom is a University of California regent by virtue of his office, and he has endorsed students’ demands for lower tuition and other changes in education.</p>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/12/01/education/us-education-department-finds-salary-gap-in-poor-schools.html?ref=education">
+Districts Pay Less in Poor Schools, Report Says</a></h3>
+<h6 class="byline">
+By SAM DILLON	    </h6>
+<p class="summary">
+More state and local dollars are spent on salaries in higher-income areas, the federal Department of Education found.</p>
+</div>
+<div class="story">
+<h6 class="kicker">The Choice Blog</h6>
+<h3><a href="http://thechoice.blogs.nytimes.com/2011/11/30/penn-state-apps/?ref=education">
+Despite Scandal, Applications to Penn State Rise</a></h3>
+<h6 class="byline">
+By REBECCA R. RUIZ	    </h6>
+<p class="summary">
+Applications for admission to Pennsylvania State University are up 4 percent over last year, with applications to the school's flagship campus -- home to the beleaguered Nittany Lions football program -- up by 2 percent.</p>
+<ul class="refer">
+<li><a href="http://thechoice.blogs.nytimes.com/2011/11/30/penn-state-apps/#comment"><img src="http://graphics.nytimes.com/images/section/opinion/comment_icon.gif" alt="Comment" width="9" height="11" border="0"> Post a Comment</a> | <a href="http://thechoice.blogs.nytimes.com/2011/11/30/penn-state-apps/#comments">Read</a></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/30/education/surge-in-free-school-lunches-reflects-economic-crisis.html?ref=education">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/us/LUNCH/LUNCH-thumbStandard-v2.jpg" width="75" height="75" alt="More than 100 students eat a free dinner daily after classes at Ingels Elementary School in Kansas City, Mo. The Hickman Mills C-1 district feared students would otherwise go to bed hungry." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/30/education/surge-in-free-school-lunches-reflects-economic-crisis.html?ref=education">
+Lines Grow Long for Free School Meals, Thanks to Economy</a></h3>
+<h6 class="byline">
+By SAM DILLON	    </h6>
+<p class="summary">
+Millions of students are receiving free or low-cost meals for the first time after their parents lost homes or jobs in the economic crisis.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/interactive/2011/11/30/us/rates-of-increase-in-subsidized-lunches.html"><span class="icon graphic">Graphic</span>: Rates of Increase in Subsidized Lunches</a></li>
+<li><a href="http://www.nytimes.com/2011/11/30/education/surge-in-free-school-lunches-reflects-economic-crisis.html #postcomment"><img src="http://graphics.nytimes.com/images/section/opinion/comment_icon.gif" alt="Comment" width="9" height="11" border="0"> Post a Comment</a> | <a href="http://www.nytimes.com/2011/11/30/education/surge-in-free-school-lunches-reflects-economic-crisis.html #commentsContainer">Read</a></li>
+</ul>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/11/30/education/duncan-calls-for-urgency-in-lowering-college-costs.html?ref=education">
+Official Calls for Urgency on College Costs</a></h3>
+<h6 class="byline">
+By TAMAR LEWIN	    </h6>
+<p class="summary">
+Education Secretary Arne Duncan, reacting to anger over rising college costs, urged higher education officials to “think more creatively” about ways to contain costs and reduce student debt.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/11/30/education/duncan-calls-for-urgency-in-lowering-college-costs.html #postcomment"><img src="http://graphics.nytimes.com/images/section/opinion/comment_icon.gif" alt="Comment" width="9" height="11" border="0"> Post a Comment</a> | <a href="http://www.nytimes.com/2011/11/30/education/duncan-calls-for-urgency-in-lowering-college-costs.html #commentsContainer">Read</a></li>
+</ul>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/11/30/nyregion/brookings-report-grades-new-yorks-school-choice-system-best-in-country.html?ref=education">
+National Report Praises School-Choice System for New York City Students</a></h3>
+<h6 class="byline">
+By SAM DILLON	    </h6>
+<p class="summary">
+The Brookings Institution gave the city’s system a B grade, putting it at the top of its class among the nation’s largest districts but leaving room for improvement.</p>
+</div>
+<div class="story">
+<h6 class="kicker">DealBook</h6>
+<div class="thumbnail">
+<a href="http://dealbook.nytimes.com/2011/11/29/at-the-92nd-st-y-a-cushion-against-wall-st-worries/?ref=education">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/business/JP-Guarantee/JP-Guarantee-thumbStandard.jpg" width="75" height="75" alt="The 92nd Street Y, a premier Upper East Side cultural institution, has some unusual insurance against the market's vagaries." border="0" />
+</a>
+</div>
+<h3><a href="http://dealbook.nytimes.com/2011/11/29/at-the-92nd-st-y-a-cushion-against-wall-st-worries/?ref=education">
+For 92nd St. Y, a Break From Wall St. Worry</a></h3>
+<h6 class="byline">
+By PETER LATTMAN and JENNY ANDERSON	    </h6>
+<p class="summary">
+The hedge fund manager John A. Paulson, along with three other board members of the 92nd Street Y, have promised to cover any losses to the center’s investment portfolio.</p>
+<ul class="refer">
+<li><a href="http://dealbook.nytimes.com/2011/11/29/at-the-92nd-st-y-a-cushion-against-wall-st-worries/#postComment"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="Comment" width="9" height="11" border="0"> Post a Comment</a></li>
+</ul>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/11/30/education/massachusetts-state-takes-over-lawrence-schools.html?ref=education">
+Massachusetts: State Takes Over Lawrence Schools</a></h3>
+<h6 class="byline">
+By JESS BIDGOOD	    </h6>
+<p class="summary">
+The Massachusetts board of education voted Tuesday to take over the Lawrence Public School system, an embattled district where fewer than half of students graduate from high school in four years.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/29/nyregion/cuny-board-approves-tuition-increases.html?ref=education">
+<img src="http://graphics8.nytimes.com/images/2011/11/29/education/CUNY/CUNY-thumbStandard.jpg" width="75" height="75" alt="Hundreds of CUNY students and sympathizers protested while the board of trustees met at Ba-ruch College on Monday, matching the volume, but not the violence, of a similar clash last week." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/29/nyregion/cuny-board-approves-tuition-increases.html?ref=education">
+Amid Protests by Students and Others, CUNY Trustees Vote to Raise Tuition</a></h3>
+<h6 class="byline">
+By RICHARD PÉREZ-PEÑA	    </h6>
+<p class="summary">
+With a raucous protest outside, City University trustees approved a series of $300 annual tuition increases that will extend through 2015.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/29/education/richard-w-lariviere-university-of-oregon-president-is-ousted.html?ref=education">
+<img src="http://graphics8.nytimes.com/images/2011/11/29/us/OREGON/OREGON-thumbStandard.jpg" width="75" height="75" alt="Richard W. Lariviere" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/29/education/richard-w-lariviere-university-of-oregon-president-is-ousted.html?ref=education">
+University of Oregon President Is Ousted</a></h3>
+<h6 class="byline">
+By TAMAR LEWIN	    </h6>
+<p class="summary">
+Richard W. Lariviere’s contract was terminated after he had sought to make the university more financially independent of the state.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/28/nyregion/with-building-blocks-educators-going-back-to-basics.html?ref=education">
+<img src="http://graphics8.nytimes.com/images/2011/11/28/nyregion/BLOCKS2/BLOCKS2-thumbStandard.jpg" width="75" height="75" alt="Juelz Bell, a kindergartner at Success Charter Network on the Upper West Side, in a blocks class." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/28/nyregion/with-building-blocks-educators-going-back-to-basics.html?ref=education">
+With Blocks, Educators Go Back to Basics</a></h3>
+<h6 class="byline">
+By KYLE SPENCER	    </h6>
+<p class="summary">
+The wooden toys are making a comeback as some elementary schools focus on unstructured play.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/sports/ncaafootball/they-are-still-penn-state-but-it-will-never-be-the-same.html?ref=education">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/sports/pennstate/pennstate-thumbStandard.jpg" width="75" height="75" alt="A candlelight vigil in support of the victims in the sexual abuse scandal held outside the Old Main building at Penn State on Nov. 11." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/sports/ncaafootball/they-are-still-penn-state-but-it-will-never-be-the-same.html?ref=education">
+They Are Still Penn State, but They Aren’t the Same</a></h3>
+<h6 class="byline">
+By HARVEY ARATON	    </h6>
+<p class="summary">
+One of the writer’s sons is in his fourth year at Penn State, dealing with an emotional roller coaster after receiving a dose of reality.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/us/for-profit-certification-for-teachers-in-texas-is-booming.html?ref=education">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/us/27TTCERTFICATION/27TTCERTFICATION-thumbStandard-v2.jpg" width="75" height="75" alt="Jeff Arrington is earning his teaching certificate online." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/us/for-profit-certification-for-teachers-in-texas-is-booming.html?ref=education">
+For-Profit Certification for Teachers Is Booming</a></h3>
+<h6 class="byline">
+By MORGAN SMITH and NICK PANDOLFO	    </h6>
+<p class="summary">
+Online, for-profit alternative certification programs for teachers are becoming more common in Texas despite little more than anecdotal evidence of their success.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Now Arriving</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/25/nyregion/mexicans-in-new-york-city-lag-in-education.html?ref=education">
+<img src="http://graphics8.nytimes.com/images/2011/11/25/nyregion/yMEXICANS/yMEXICANS-thumbStandard.jpg" width="75" height="75" alt="Ivan Lucero, 28, was expelled from his Bronx high school when he was 18, still in the 10th grade." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/25/nyregion/mexicans-in-new-york-city-lag-in-education.html?ref=education">
+In New York, Mexicans Lag in Education</a></h3>
+<h6 class="byline">
+By KIRK SEMPLE	    </h6>
+<p class="summary">
+Mexicans, the fastest-growing major immigrant group in the city, have the highest dropout rate: about 41 percent of Mexicans ages 16 to 19 have dropped out of school.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/imagepages/2011/11/25/nyregion/25mexicans-graphic.html"><img src="http://graphics8.nytimes.com/images/multimedia/icons/graphic_icon.gif" alt="Graphic" width="11" height="11" border="0"> Graphic: Failing to Finish School</a></li>
+<li><a href="http://topics.nytimes.com/top/news/newyorkandregion/series/now_arriving/index.html">Previous Articles in the Series</a></li>
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001190644" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/11/25/nyregion/mexicans-in-new-york-city-lag-in-education.html"></span></li>
+</ul>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/11/25/sports/ncaafootball/sandusky-accuser-seeks-to-stop-charitys-divestiture.html?ref=education">
+Accusers Plan to Sue Sandusky’s Foundation</a></h3>
+<h6 class="byline">
+By BILL PENNINGTON	    </h6>
+<p class="summary">
+Lawyers say several alleged victims of former Penn State defensive coordinator Jerry Sandusky will probably file civil claims against his Second Mile charity for failing to report sexual abuse accusations.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/25/education/as-schools-face-closing-new-lines-are-drawn.html?ref=education">
+<img src="http://graphics8.nytimes.com/images/2011/11/25/us/25CNCSCHOOLS/25CNCSCHOOLS-thumbStandard.jpg" width="75" height="75" alt="Oliver Sicat, chief portfolio officer for the Chicago Public Schools." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/25/education/as-schools-face-closing-new-lines-are-drawn.html?ref=education">
+As Schools Face Closing, New Lines Are Drawn</a></h3>
+<h6 class="byline">
+By REBECCA VEVEA	    </h6>
+<p class="summary">
+Oliver Sicat will lead the process of closing underperforming public schools in Chicago and then replacing them with schools managed by both public and private operators.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/25/education/brownsville-protects-chess-legacy-at-its-schools.html?ref=education">
+<img src="http://graphics8.nytimes.com/images/2011/11/25/us/25TTCHESS1/25TTCHESS1-thumbStandard.jpg" width="75" height="75" alt="Eduardo Rodriguez, 8, left, and Adrian Castro, 7, are both members of Brownsville's Sharp Elementary Chess Team." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/25/education/brownsville-protects-chess-legacy-at-its-schools.html?ref=education">
+Brownsville Protects Chess Legacy at Its Schools</a></h3>
+<h6 class="byline">
+By REEVE HAMILTON	    </h6>
+<p class="summary">
+The chess program in the Brownsville public schools in Texas serves as an avenue to success and a source of pride in one of the poorest cities in the country.</p>
+</div>
+</div>
+<!--cur:HeadlineOnly prev:StandardThumb-->
+<div class="columnGroup singleRule last">
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/01/us/florida-am-university-students-death-turns-spotlight-on-hazing.html?ref=education">
+Student’s Death Turns Spotlight on Hazing</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/24/sports/ncaafootball/grand-jury-testimony-sought-in-penn-state-case.html?ref=education">
+Penn State Testimony Requested</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/24/world/americas/schoolwork-gets-swept-up-in-rush-to-go-digital.html?ref=education">
+Textbooks Finally Take a Big Leap to Digital</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/24/world/europe/a-scholarly-role-for-consumer-technology.html?ref=education">
+A Scholarly Role for Consumer Technology</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/23/sports/ncaafootball/for-victim-1-in-penn-states-sandusky-scandal-a-search-for-trust.html?ref=education">
+For a Reported Penn State Victim, a Search for Trust</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/23/education/more-students-charged-in-long-island-sat-cheating-case.html?ref=education">
+20 Students Now Accused in L.I. Case on Cheating</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/23/education/commercial-colleges-broke-rules-in-us-inquiry.html?ref=education">
+Commercial Colleges Broke Rules in U.S. Inquiry</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/23/us/bias-complaint-filed-against-university-of-new-mexico.html?ref=education">
+New Mexico Black Groups Claim Bias at University</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://thequad.blogs.nytimes.com/2011/11/22/florida-am-suspends-band-after-drum-major-death/?ref=education">
+The Quad: Florida A&M Suspends Band After Drum Major Death</a>
+</h6>
+</li>
+</ul>
+</div>
+<div id="adxSponLink" class="columnGroup singleRule"></div>
+</div><!--close .aColumn -->
+<div class="bColumn">
+<div class="columnGroup SectionFront3Col first">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://www.nytimes.com/schoolbook" title="SchoolBook">
+<img src="http://graphics8.nytimes.com/packages/images/nytint/schoolbook/schoolbook-163.png" alt="SchoolBook"/>
+</a> 
+</h3> <div class="summary">News, data and conversation about schools in New York City.</div><div class="story first">
+<h3><a href="http://www.nytimes.com/schoolbook/2011/12/02/cookie-tray-theory-propels-student-to-d-c/?ref=education">Cookie Tray Theory Propels Student to D.C.</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">8:19 AM ET</span></p>
+</div><div class="story">
+<h3><a href="http://www.nytimes.com/schoolbook/2011/12/02/bloomberg-says-large-classes-are-fine-by-him/?ref=education">Bloomberg Says Large Classes Are Fine by Him</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">8:18 AM ET</span></p>
+</div><div class="story">
+<h3><a href="http://www.nytimes.com/schoolbook/2011/12/01/jane-addams-h-s-students-fear-they-lack-credits-to-graduate/?ref=education">Jane Addams H.S. Students Fear They Lack Credits to Graduate</a></h3>
+<p class="date">December 1, 2011 <span class="timestamp">4:03 PM ET</span></p>
+</div><p class="refer">
+<a href="http://www.nytimes.com/schoolbook" title="Go to SchoolBook">Go to SchoolBook &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule ">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://thechoice.blogs.nytimes.com/" title="The Choice Blog">
+<img src="http://graphics8.nytimes.com/images/blogs_v3/thechoice/thechoice190.gif" alt="The Choice Blog"/>
+</a> 
+</h3> 	<a href="http://thechoice.blogs.nytimes.com/" title="The Choice Blog">
+<img src="http://graphics8.nytimes.com/images/blogs_v3/thechoice/thechoice75.png" alt="The Choice Blog" class="thumbnail"/>
+</a> <div class="summary">A blog examining all facets of the college admissions process.</div><div class="story first">
+<h3><a href="http://thechoice.blogs.nytimes.com/2011/12/02/sat-cheating/?ref=education">SAT Cheating Investigation Continues on Long Island</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">10:22 AM ET</span></p>
+</div><div class="story">
+<h3><a href="http://thechoice.blogs.nytimes.com/2011/11/29/education-secretary-college-costs/?ref=education">A Call for Lower College Costs</a></h3>
+<p class="date">November 29, 2011 <span class="timestamp"></span></p>
+</div><div class="story">
+<h3><a href="http://thechoice.blogs.nytimes.com/2011/11/29/cuny-protests/?ref=education">CUNY Board Approves Tuition Increases</a></h3>
+<p class="date">November 29, 2011 <span class="timestamp"></span></p>
+</div><div class="story">
+<h3><a href="http://thechoice.blogs.nytimes.com/2011/11/28/syracuse/?ref=education">The Fallout Over Syracuse's Abuse Scandal</a></h3>
+<p class="date">November 28, 2011 <span class="timestamp"></span></p>
+</div><p class="refer">
+<a href="http://thechoice.blogs.nytimes.com/" title="Go to Blog">Go to Blog &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule ">
+<div class="story">
+<h6 class="kicker">On Education</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/28/education/principals-protest-increased-use-of-test-scores-to-evaluate-educators.html?ref=education">
+<img src="http://graphics8.nytimes.com/images/2011/11/28/nyregion/WINERIP/WINERIP-thumbStandard-v2.jpg" width="75" height="75" alt="Carol Burris, principal of South Side High School, and Sean Feeney, principal of the Wheatley School, drafted an open letter." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/28/education/principals-protest-increased-use-of-test-scores-to-evaluate-educators.html?ref=education">
+Principals Protest Role of Testing in Evaluations</a></h3>
+<h6 class="byline">
+By MICHAEL WINERIP	    </h6>
+<p class="summary">
+More than 650 school leaders from around New York State had signed a letter with complaints, most of them from Long Island, where the movement began.</p>
+<ul class="refer">
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001193825" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/11/28/education/principals-protest-increased-use-of-test-scores-to-evaluate-educators.html"></span></li>
+</ul>
+<ul class="refer flush"><li><a href="http://topics.nytimes.com/topics/reference/timestopics/people/w/michael_winerip/index.html"> More On Education Columns &raquo;</a></li>
+</ul></div>
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">Education Life</h6><div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/pages/education/edlife/index.html?ref=education">
+<img src="http://graphics8.nytimes.com/images/2011/11/06/education/edl-06stem-t_CA3/edl-06stem-t_CA3-thumbStandard-v2.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/pages/education/edlife/index.html?ref=education">
+Why Science Majors Change Their Mind</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Forty percent of students planning engineering and science majors bail out.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/11/06/education/edlife/the-china-conundrum.html">The China Conundrum</a></li>
+<li><a href="http://www.nytimes.com/2011/11/06/education/edlife/college-radio-heads-off-the-dial.html">College Radio Heads: Off the Dial</a></li>
+<li><a href="http://www.nytimes.com/pages/education/edlife/index.html">Go to Education Life »</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">From the Magazine</h6><div class="story">
+<h6 class="kicker">It’s the Economy</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/magazine/changing-rules-for-success.html?ref=education">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/magazine/27economy2/27economy2-thumbStandard.jpg" width="75" height="75" alt="A drafter at work, 1952." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/magazine/changing-rules-for-success.html?ref=education">
+The Dwindling Power of a College Degree</a></h3>
+<h6 class="byline">
+By ADAM DAVIDSON	    </h6>
+<p class="summary">
+It used to be that if you worked hard, you were guaranteed a certain kind of life. There are reasons success is no longer a straight shot.</p>
+<ul class="refer">
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001183084" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/11/27/magazine/changing-rules-for-success.html"></span></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="story">
+<h6 class="kicker">Room for Debate</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/roomfordebate/2011/11/22/how-the-future-looks-from-high-school/?ref=education">
+<img src="http://graphics8.nytimes.com/images/2011/11/22/opinion/22rfd-image/22rfd-image-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/roomfordebate/2011/11/22/how-the-future-looks-from-high-school/?ref=education">
+How the Future Looks From High School</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Middlebury? The military? Beauty school? How do 18-year-olds in 2011 see the rest of their lives?</p>
+<ul class="refer">
+<li><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="Comment" width="9" height="11" border="0"><a href="http://www.nytimes.com/roomfordebate/2011/11/22/how-the-future-looks-from-high-school"> Post a Comment </a></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">Room for Debate</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/roomfordebate/2011/11/13/why-do-top-schools-still-take-legacy-applicants/?ref=education">
+<img src="http://graphics8.nytimes.com/images/2011/11/12/opinion/12rfd-bush/12rfd-bush-thumbStandard.jpg" width="75" height="75" alt="Why Do Top Schools Still Take Legacy Applicants?" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/roomfordebate/2011/11/13/why-do-top-schools-still-take-legacy-applicants/?ref=education">
+Why Do Top Schools Still Take Legacy Applicants?</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+The children of alumni still have an edge getting into Ivy League schools, even with the oversupply of talented applicants. Why is that?</p>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">From The International Herald Tribune</h6><div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/28/world/europe/28iht-educLede28.html?ref=education">
+<img src="http://graphics8.nytimes.com/images/2011/11/28/education/educlede28-inline/educlede28-inline-thumbStandard.jpg" width="75" height="75" alt="David Cannadine, a professor of history at Princeton, at a conference in London last week on the teaching of history. He said claims of a crisis were based on the myth of a golden age." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/28/world/europe/28iht-educLede28.html?ref=education">
+History Proving a Touchy Subject in Britain</a></h3>
+<h6 class="byline">
+By D.D. GUTTENPLAN	    </h6>
+<p class="summary">
+The plan of Michael Gove, the education minister, to revamp how the subject is taught in high schools has led to a polarizing public debate.</p>
+</div>
+<div class="refer"><a href="http://topics.nytimes.com/top/reference/timestopics/subjects/e/education_and_schools/international_education/index.html">More From the International Herald Tribune &raquo;</a></div>    
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<h6 class="sectionHeader flushBottom">Multimedia</h6>
+<div class="columnGroup firstArticleInline">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://projects.nytimes.com/new-york-schools-test-scores/?ref=education">
+<img src="http://graphics8.nytimes.com/images/2010/04/25/nyregion/26test.190.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay interactive">Interactive</span>
+</a>
+</div>
+<h5><a href="http://projects.nytimes.com/new-york-schools-test-scores/?ref=education">
+New York School Test Scores</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A complete summary of demographics and student performance over the past decade for every school in New York.</p>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://learning.blogs.nytimes.com" title="The Learning Network For Students Teaches And Parents">
+<img src="http://graphics8.nytimes.com/images/blogs_v3/learning/learning190.gif" alt="The Learning Network For Students Teaches And Parents"/>
+</a> 
+</h3> 	<a href="http://learning.blogs.nytimes.com" title="The Learning Network For Students Teaches And Parents">
+<img src="http://graphics8.nytimes.com/images/blogs_v3/learning/learning75.gif" alt="The Learning Network For Students Teaches And Parents" class="thumbnail"/>
+</a> <div class="story first">
+<h3><a href="http://learning.blogs.nytimes.com/2011/12/02/student-contest-celebrate-2011-by-writing-raps-about-the-years-news/?ref=education">Student Contest | Celebrate 2011 by Writing Raps About the Year's News</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">6:57 AM ET</span></p>
+</div><div class="story">
+<h3><a href="http://learning.blogs.nytimes.com/2011/12/02/what-would-you-put-in-your-emergency-go-bag/?ref=education">What Would You Put in Your Emergency 'Go-Bag'?</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">5:02 AM ET</span></p>
+</div><div class="story">
+<h3><a href="http://learning.blogs.nytimes.com/2011/12/02/test-yourself-english-dec-2-2011/?ref=education">Test Yourself | English, Dec. 2, 2011</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">4:44 AM ET</span></p>
+</div><div class="story">
+<h3><a href="http://learning.blogs.nytimes.com/2011/12/02/hazing-suspected-in-death-of-drum-major/?ref=education">Hazing Suspected in Death of Drum Major</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">4:32 AM ET</span></p>
+</div><p class="refer">
+<a href="http://learning.blogs.nytimes.com" title="Go to the Learning Network">Go to the Learning Network &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule ">
+<div class="story">
+<div class="thumbnail">
+<a href="http://topics.nytimes.com/top/reference/timestopics/people/w/michael_winerip/index.html?ref=education">
+<img src="http://graphics8.nytimes.com/images/2011/05/23/us/winerip75.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://topics.nytimes.com/top/reference/timestopics/people/w/michael_winerip/index.html?ref=education">
+Michael Winerip</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+“On Education” looks beyond the discourse to the teachers, principals and students at the heart of learning.</p>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/top/reference/timestopics/people/w/michael_winerip/index.html">Latest Column</a></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://parenting.blogs.nytimes.com/?ref=education">
+<img src="http://graphics8.nytimes.com/images/2008/11/10/education/parenting75.gif" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://parenting.blogs.nytimes.com/?ref=education">
+The Motherlode</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A blog about homework, friends, grades, bullying, baby sitters, the work-family balance and much more.</p>
+<ul class="refer flush"><li><a href="http://parenting.blogs.nytimes.com/">Go to Blog &raquo;</a></li>
+</ul></div>
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">Previous Series</h6><ul>
+<li><a href="http://www.nytimes.com/pages/science/sciencespecial2/index.html">The Evolution Debate</a></li>
+<li><a href="http://topics.nytimes.com/top/reference/timestopics/subjects/f/facebook_series/index.html ">Face Book: Leaders in Education</a></li>
+<li><a href="http://topics.nytimes.com/top/news/education/series/global_classrooms/index.html">Global Classrooms</a></li>
+<li><a href="http://topics.nytimes.com/top/news/education/series/thecriticalyears/index.html">Middle School: The Critical Years</a></li>
+</ul>
+</div>
+<div class="columnGroup doubleRule last">
+
+<div class="singleAd" id="Right1">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/education/index.html&pos=Right1&sn2=68bc40b/8dc41727&sn1=38d43609/ab3147cd&camp=nyt2011-circ-120x90-weekender-36H38&ad=071511-120x90-weekender-36H38&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DWC7AA%26CMP%3D36H38" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/13/ad.271312/11-0920_HDWeekender2_120x90.jpg" width="120" height="90" border="0"></a>
+
+</div>
+
+
+</div>
+</div><!--close .bColumn -->
+</div><!--close .abColumn -->
+<div class="cColumn">
+<!--Ads  -->                    <div class="columnGroup first">
+
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<div class="box blue"><div class="insetH insetV">
+<div style="float:right;">
+
+</div>
+<script type="text/javascript"><!--
+
+prefix="http://topics.nytimes.com/top/reference/timestopics/organizations/";
+suffix="/index.html";
+
+options=["Adelphi University","Arizona State University","Auburn University","Bard College","Barnard College","Baruch College","Baylor University","Boston College","Boston University","Brigham Young University","Brooklyn College","Brown University","California Institute of Technology","Cambridge University","Carnegie Mellon University","City College of New York","City University of New York","Clemson University","Columbia University","Cooper Union|c/cooper_union_for_the_advancement_of_science_and_art","Cornell University","Dartmouth College","Depaul University","Duke University","Emory University","Fairfield University","Fairleigh Dickinson University","Fashion Institute of Technology","Florida State University","Fordham University","Fresno State University","George Washington University","Georgetown University","Georgia Institute of Technology","Gonzaga University","Harvard University","Hofstra University","Hostos Community College","Hunter College","Indiana University","Iona College","Iowa State University","John Jay College of Criminal Justice","Johns Hopkins University","Juilliard School","Kansas State University","Kent State University","Lehman College","Long Island University","Louisiana Technical University|l/louisiana_tech_university","Manhattan College","Manhattan School of Music","Manhattanville College","Marist College","Marquette University","Marshall University","Massachusetts Institute of Technology","McGill University","Michigan State University","Mississippi State University","Montclair State University","Mount Holyoke College","New Jersey Institute of Technology","New School University","New York University","North Carolina State University","Northeastern University","Northwestern University","Ohio State University","Oklahoma State University","Old Dominion University","Oregon State University","Oxford University","Pace University","Pennsylvania State University","Pepperdine University","Princeton University","Purdue University","Queens College","Quinnipiac University","Rice University","Rockefeller University","Rutgers, The State University|r/rutgers_the_state_university","Sarah Lawrence College","Seton Hall University","Smith College","Southampton College","St John’s University|s/st_johns_university","Stanford University","State University of New York","S.U.N.Y. at Albany","S.U.N.Y. at Purchase","S.U.N.Y. at Stony Brook","Syracuse University","Temple University","Texas A and M University","Texas Christian University","Texas Tech University","United States Air Force Academy","United States Naval Academy","United States Military Academy","University of Alabama","University of Arizona","University of Arkansas","University of California","University of Chicago","University of Cincinnati","University of Colorado","University of Connecticut","University of Delaware","University of Florida","University of Georgia","University of Hawaii","University of Houston","University of Illinois","University of Iowa","University of Kansas","University of Kentucky","University of Louisville","University of Maine","University of Maryland","University of Massachusetts","University of Memphis","University of Miami","University of Michigan","University of Minnesota","University of Mississippi","University of Missouri","University of Nebraska","University of North Carolina","University of Notre Dame","University of Oklahoma","University of Oregon","University of Pennsylvania","University of Pittsburgh","University of Rhode Island","University of Richmond","University of Rochester","University of South Carolina","University of Southern California","University of Tennessee","University of Texas","University of Tulsa","University of Utah","University of Vermont","University of Virginia","University of Washington","University of Wisconsin","University of Wyoming","Vanderbilt University","Vassar College","Villanova University","Virginia Commonwealth University","Virginia Military Institute","Virginia Tech|v/virginia_polytechnic_institute_and_state_university","Wake Forest University","Washington State University","Washington University","Wesleyan University","West Virginia University","Xavier University of Ohio","Yale University","Yeshiva University"];
+
+optionHTML="";for(var i=0;i<options.length;i++){opt=options[i];if(opt.indexOf("|")!=-1){p=opt.split(/\|/g);opt=p[0];url=p[1];}else{url=opt.toLowerCase().replace(/\s+/g,"_");url=url.charAt(0)+"/"+url;}optionHTML=optionHTML+"<option value='"+prefix+url+suffix+"'>"+opt+"</option>";}
+
+document.write("<div style='float:left ! important;'><h6 class='kicker'>Find News by College or University</h6><form id='otherTopics'><div><select name='top' onchange='goToURL2(this);'><option value=''>Select a School</option><option value=''> — — — — — — — — — — — </option>"+optionHTML+"</select></div></form></div>");
+
+// -->
+  </script>
+<div class="story"></div>
+<div class="story">
+<h6 class="kicker"><a href="http://www.nytimes.com/ref/timestopics/topics-education-navigator.html">Education Resources</a></h6>
+<div class="refer"><a href="http://www.nytimes.com/ref/timestopics/topics-education-navigator.html#General">General</a> | <a href="http://www.nytimes.com/ref/timestopics/topics-education-navigator.html#News">News</a> | <a href="http://www.nytimes.com/ref/timestopics/topics-education-navigator.html#Policy">Policy Groups</a> | <a href="http://www.nytimes.com/ref/timestopics/topics-education-navigator.html#Special Education">Special Education</a> | <a href="http://www.nytimes.com/ref/timestopics/topics-education-navigator.html#Associations and Trade Groups">Associations</a> | <a href="http://www.nytimes.com/ref/timestopics/topics-education-navigator.html#Education Unions">Education Unions</a> | <a href="http://www.nytimes.com/ref/timestopics/topics-education-navigator.html#Philanthropies and Foundations">Philanthropies</a> | <a href="http://www.nytimes.com/ref/timestopics/topics-education-navigator.html#Teaching">Teaching</a> | <a href="http://www.nytimes.com/ref/timestopics/topics-education-navigator.html#Admissions">College Admissions</a> | <a href="http://www.nytimes.com/ref/timestopics/topics-education-navigator.html#College Rankings">College Rankings</a> | <a href="http://www.nytimes.com/ref/timestopics/topics-education-navigator.html#Financial Aid">Financial Aid and Loans</a> | <a href="http://www.nytimes.com/ref/timestopics/topics-education-navigator.html#Study Abroad">Study Abroad</a> | <a href="http://www.nytimes.com/ref/timestopics/topics-education-navigator.html#College Sports">College Sports</a> | <a href="http://www.nytimes.com/ref/timestopics/topics-education-navigator.html#Higher Education">Higher Education Studies</a> | <a href="http://www.nytimes.com/ref/timestopics/topics-education-navigator.html#New York City">New York City</a> | <a href="http://www.nytimes.com/ref/timestopics/topics-education-navigator.html#Documents">Documents</a></div>
+</div>
+</div></div>        	</div>
+<!--Ads Simple -->                    <div class="columnGroup ">
+
+			
+<div class="bigAd" id="SFMiddle">
+<!-- ADXINFO classification="bigad" campaign="Amex_2011Q4GABM-CTN_1771055-nyt1"--><SCRIPT type="text/javascript" SRC="http://ad.doubleclick.net/adj/N553.276948.NYTIMES/B5907325.2;sz=300x250;pc=nyt169823A278004;ord=2011.12.02.18.04.30;click=http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/education/index.html&pos=SFMiddle&camp=Amex_2011Q4GABM-CTN_1771055-nyt1&ad=B5907325.2_300x250_ROS&sn2=39e8a88b/cde33eca&snr=doubleclick&snx=1322848860&sn1=dc99367c/26103494&goto=">
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/education/index.html&pos=SFMiddle&sn2=39e8a88b/cde33eca&sn1=5493f8e2/cc04cf2&camp=Amex_2011Q4GABM-CTN_1771055-nyt1&ad=B5907325.2_300x250_ROS&goto=http://ad.doubleclick.net/jump/N553.276948.NYTIMES/B5907325.2;sz=300x250;pc=nyt169823A278004;ord=2011.12.02.18.04.30" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N553.276948.NYTIMES/B5907325.2;sz=300x250;pc=nyt169823A278004;ord=2011.12.02.18.04.30"
+ BORDER=0 WIDTH=300 HEIGHT=250
+ ALT="Click Here"></A>
+</NOSCRIPT>
+</div>
+
+
+
+<div class="singleAd" id="Box3">
+<!-- ADXINFO classification="feature_squares" campaign="nyt2011-regilite-P2-ticketwatch"--><IFRAME title="regilite" src="https://myaccount.nytimes.com/regilite?product=TR" width="336" height="90" marginheight="0" marginwidth="0" frameborder="0" vspace="0" hspace="0" scrolling="no"></IFRAME> 
+
+</div>
+
+
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<div id="mostPopWidget" class="singleRule"> 
+
+      <!-- MOST POPULAR MODULE STARTS -->
+      <h4>MOST POPULAR - U.S.</h4>
+         <div id="tabsContainer">
+         <ul class="tabs">
+            <li class="selected"><a href="#">E-Mailed</a></li>
+            <li><a href="#">Blogged</a></li>
+            
+            <li><a href="#">Viewed</a></li>
+            
+         </ul>
+         </div>
+            <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"></HEAD><div class="tabContent tabContentActive" id="mostEmailed"><ol>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/us/02canine/02canine-thumbStandard-v2.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/02/us/more-military-dogs-show-signs-of-combat-stress.html?src=me&amp;ref=us" title="Click to go to this article">After Duty, Dogs Suffer Like Soldiers</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/us/Leases/Leases-thumbStandard.jpg"  kicker="Drilling Down"><a href="http://www.nytimes.com/2011/12/02/us/drilling-down-fighting-over-oil-and-gas-well-leases.html?src=me&amp;ref=us" title="Click to go to this article">Drilling Down: Learning Too Late of Perils in Gas Well Leases</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/nyregion/Y-SAT1/Y-SAT1-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/02/education/on-long-island-sat-cheating-was-hardly-a-secret.html?src=me&amp;ref=us" title="Click to go to this article">Exam Cheating on Long Island Hardly a Secret</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/us/WIND/WIND-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/02/us/santa-ana-winds-buffet-california.html?src=me&amp;ref=us" title="Click to go to this article">Santa Ana Winds, Unusually Strong, Rattle More Than Nerves in California</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/us/CRAIGLIST-2/CRAIGLIST-2-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/02/us/three-lured-to-death-in-ohio-by-craigslist-job-ad.html?src=me&amp;ref=us" title="Click to go to this article">Craigslist Used in Deadly Ploy to Lure Victims in Ohio</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/us/02latinos_span/02latinos_span-thumbStandard-v3.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/02/us/politics/with-boom-in-hispanic-voters-obama-sees-opportunity-in-arizona.html?src=me&amp;ref=us" title="Click to go to this article">Obama to Vie for Arizona as Latino Numbers Rise</a></li>
+<li kicker=""><a href="http://www.nytimes.com/2011/12/02/us/politics/democrats-look-to-payroll-issue-for-upper-hand.html?src=me&amp;ref=us" title="Click to go to this article">Democrats See an Advantage in Debate Over Payroll Tax</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/us/MARCHING1_span/MARCHING1_span-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/01/us/florida-am-university-students-death-turns-spotlight-on-hazing.html?src=me&amp;ref=us" title="Click to go to this article">Student&rsquo;s Death Turns Spotlight on Hazing</a></li>
+<li kicker=""><a href="http://www.nytimes.com/2011/12/02/us/drilling-down-laymans-guide-to-lease-terms.html?src=me&amp;ref=us" title="Click to go to this article">A Layman&rsquo;s Guide to Lease Terms</a></li>
+<li kicker=""><a href="http://www.nytimes.com/2011/12/02/us/ex-governor-bill-richardson-is-said-to-be-under-investigation.html?src=me&amp;ref=us" title="Click to go to this article">Ex-Governor Is Said to Be Focal Point of Inquiry</a></li>
+</ol>
+        <a class="more" href="http://www.nytimes.com/gst/mostemailed.html">Go to Complete List &#x00bb;</a>
+        </div><!-- #most emailed top10 -->
+
+            <div class="tabContent" id="mostBlogged">
+<ol>
+<li><a href="http://www.nytimes.com/2011/11/30/us/politics/gingrich-gave-push-to-clients-not-just-ideas.html?bl" title="Click to go to this article">Gingrich Gave Push to Clients, Not Just Ideas</a></li>
+<li><a href="http://www.nytimes.com/2011/12/01/us/we-are-the-99-percent-joins-the-cultural-and-political-lexicon.html?bl" title="Click to go to this article">'We Are the 99 Percent' Joins the Cultural and Political Lexicon</a></li>
+<li><a href="http://www.nytimes.com/2011/12/01/us/politics/presidential-candidates-make-fewer-in-person-appearances.html?bl" title="Click to go to this article">Presidential Candidates Make Fewer In-Person Appearances</a></li>
+<li><a href="http://www.nytimes.com/2011/12/01/us/federal-marijuana-classification-should-change-gregoire-and-chafee-say.html?bl" title="Click to go to this article">Federal Marijuana Classification Should Change, Gregoire and Chafee Say</a></li>
+<li><a href="http://www.nytimes.com/2011/11/26/us/tom-wicker-journalist-and-author-dies-at-85.html?bl" title="Click to go to this article">Tom Wicker, Journalist and Author, Dies at 85</a></li>
+<li><a href="http://www.nytimes.com/2011/11/27/us/politics/television-attack-ads-aim-at-obama-early-and-often.html?bl" title="Click to go to this article">Television Attack Ads Aim at Obama Early and Often</a></li>
+<li><a href="http://www.nytimes.com/2011/11/26/us/north-dakota-oil-boom-creates-camps-of-men.html?bl" title="Click to go to this article">North Dakota Oil Boom Creates Camps of Men</a></li>
+<li><a href="http://www.nytimes.com/2011/12/02/us/more-military-dogs-show-signs-of-combat-stress.html?bl" title="Click to go to this article">More Military Dogs Show Signs of Combat Stress</a></li>
+<li><a href="http://www.nytimes.com/2011/12/02/us/politics/democrats-look-to-payroll-issue-for-upper-hand.html?bl" title="Click to go to this article">Democrats look to Payroll Issue for Upper Hand</a></li>
+<li><a href="http://www.nytimes.com/2011/11/30/us/politics/senate-approves-military-custody-for-terror-suspects.html?bl" title="Click to go to this article">Senate Approves Military Custody for Terror Suspects</a></li>
+</ol>
+<a class="more" href="http://www.nytimes.com/gst/mostblogged.html">Go to Complete List &#x00bb;</a>
+</div><!-- #most blogged top10 -->
+
+            
+            <div class="tabContent" id="mostViewed"><ol>
+<li img="http://graphics8.nytimes.com/images/2011/11/22/us/sub-OCCUPY-1/sub-OCCUPY-1-thumbStandard-v3.jpg"  kicker=""><a href="http://www.nytimes.com/2011/11/22/us/police-officers-involved-in-pepper-spraying-placed-on-leave.html?src=mv&amp;ref=us" title="Click to go to this article">California&rsquo;s Campus Movements Dig In Their Heels</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/22/us/jp-CUBANS-1/jp-CUBANS-1-thumbStandard-v3.jpg"  kicker=""><a href="http://www.nytimes.com/2011/11/22/us/cuban-americans-take-lead-in-building-ties-with-cuba.html?src=mv&amp;ref=us" title="Click to go to this article">Pull of Family Reshapes U.S.-Cuban Relations</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/21/us/WINERIP-1/WINERIP-1-thumbStandard.jpg"  kicker="On Education"><a href="http://www.nytimes.com/2011/11/21/education/lets-get-ready-offers-help-for-college-admissions.html?src=mv&amp;ref=us" title="Click to go to this article">On Education: Learning to Play the Game to Get Into College</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/22/us/MISSING-1/MISSING-1-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/11/22/us/police-suspect-mother-in-5-year-olds-disappearance-outside-phoenix.html?src=mv&amp;ref=us" title="Click to go to this article">Police Suspect Mother in 5-Year-Old&rsquo;s Disappearance in Phoenix Suburb</a></li>
+<li kicker=""><a href="http://www.nytimes.com/2011/11/22/us/brandon-mcinerney-17-pleads-guilty-to-killing-gay-classmate.html?src=mv&amp;ref=us" title="Click to go to this article">Youth Pleads Guilty to Killing Gay Classmate</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/22/nyregion/CUNY/CUNY-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/11/22/education/cuny-students-clash-with-police-in-manhattan.html?src=mv&amp;ref=us" title="Click to go to this article">CUNY Students Protesting Tuition Increase Clash With Police</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/23/us/23abortion_span/23abortion_span-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/11/23/us/kansas-abortion-prosecution-loses-some-steam-but-fire-is-still-hot.html?src=mv&amp;ref=us" title="Click to go to this article">Kansas Abortion Prosecution Loses Some Steam, but Fire Is Still Hot</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/21/us/OCCUPY/OCCUPY-thumbStandard-v2.jpg"  kicker=""><a href="http://www.nytimes.com/2011/11/21/us/police-officers-involved-in-pepper-spraying-placed-on-leave.html?src=mv&amp;ref=us" title="Click to go to this article">California University Puts Officers Who Used Pepper Spray on Leave</a></li>
+<li kicker=""><a href="http://learning.blogs.nytimes.com/2011/11/22/nov-22-1963-president-kennedy-is-assassinated/?src=mv&amp;ref=us" title="Click to go to this article">Nov. 22, 1963 | President Kennedy Is Assassinated</a></li>
+<li kicker="National Briefing | Education"><a href="http://www.nytimes.com/2011/11/22/education/early-applications-flood-harvard.html?src=mv&amp;ref=us" title="Click to go to this article">National Briefing | Education: Early Applications Flood Harvard</a></li>
+</ol>
+        </div><!-- #most viewed top10 -->
+
+            
+         <script type="text/javascript">new Accordian("mostPopWidget");</script>
+      <!-- MOST POPULAR MODULE ENDS -->
+   
+
+</div><!--close mostPopWidget -->
+</div>
+<!--Ads Simple -->                    <div class="columnGroup ">
+			
+
+<div class="bigAd" id="Box1">
+<!-- ADXINFO classification="Module" campaign="nyt2011_module_movies_dude_film_hp_ros_db"--><!-- MARKETING MODULE -->
+<div style="border:solid #999;border-width:1px;font-family:Arial,sans-serif;text-align:left; width:334px;background:#fff;" class="clearfix wrap">
+  <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/education/index.html&pos=Box1&sn2=adb4bc08/a9c7233d&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/2011/12/01/is-it-the-year-of-the-dude-film/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-PH%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm11/movies_120211.jpg" width="334" height="154" border="0" alt=""></a> 
+  <div style="padding:7px 9px 0;background:#fff">
+      <h2 style="font-size:22px;line-height:24px; margin:0;padding:0 0 4px;"><a style="color:#004276;" target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/education/index.html&pos=Box1&sn2=adb4bc08/a9c7233d&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/2011/12/01/is-it-the-year-of-the-dude-film/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-HDR%26WT.mc_ev=click%26WT.mc_c=175075">Is it the year of the dude film?</a></h2>
+
+      <p style="margin:0 0 3px; padding:0;font-size: 11px;"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/education/index.html&pos=Box1&sn2=adb4bc08/a9c7233d&sn1=9f65a43f/6fae85ce&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://nytimes.com/movies/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-URL%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank" style="font-size:11px;margin:3px 0;padding:0;font-family:Arial,sans-serif;  color:#000; text-transform:uppercase;">Also in Movies &raquo;</a></p>
+      <ul style="font-size:12px;margin:0; padding-bottom: 10px; border-bottom:1px solid #ccc;" class="refer">
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/education/index.html&pos=Box1&sn2=adb4bc08/a9c7233d&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/2011/11/29/patton-oswalt-steals-the-scene-at-gotham-awards/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-L1%26WT.mc_ev=click%26WT.mc_c=175075" style="color: #004276">All about the Gotham Awards</a></li>
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/education/index.html&pos=Box1&sn2=adb4bc08/a9c7233d&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-L2%26WT.mc_ev=click%26WT.mc_c=175075" style="color: #004276">Awards season from The Carpetbagger</a></li>
+      </ul>
+    </div>
+ 
+ <div style="padding:5px 9px; float:left; width:316px; background:#fff"> <a style="float:left" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/education/index.html&pos=Box1&sn2=adb4bc08/a9c7233d&sn1=9f65a43f/6fae85ce&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://nytimes.com/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-LOGO%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/nytimes.gif" alt="nytimes.com" width="116" height="18" border="0"></a><a style="float:right" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/education/index.html&pos=Box1&sn2=adb4bc08/a9c7233d&sn1=9f65a43f/6fae85ce&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://nytimes.com/movies/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-VRT%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/verticals_movies.gif" alt="Movies" width="120" height="18" border="0"></a></div><br clear="all">
+
+</div>
+  <!-- /MARKETING MODULE -->
+
+
+</div>
+
+
+<div class="singleAd" id="Middle5">
+<!-- ADXINFO classification="FeaturedProduct" campaign="NYT2011-Mktg-NeediestCases-336x79-ROS"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/education/index.html&pos=Middle5&sn2=d2eeb492/22aa5dac&sn1=5fcc55b8/8fa361fc&camp=NYT2011-Mktg-NeediestCases-336x79-ROS&ad=Mtkg_NeediestCases_336x79_2011&goto=https%3A%2F%2Fnytneediestcases%2Ecom%2F" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/28/26/ad.282607/11-1929_NeediestCasses_336x79.jpg" width="336" height="79" border="0"></a>
+
+</div>
+
+
+
+<!--[TwoColumnAdLeft - Begin] -->
+	<div class="adHeader">
+<h4>
+Advertisements	    </h4>
+</div>
+<div class="cColumn-TextAdsBox">
+	<div class="cColumn-TextAdsLeft">
+<div class="cColumn-TextAd">
+<!-- ADXINFO classification="SiteForADay" campaign="nyt2011-mktg-arts_and_ents-s4d_ros"--><div style="width:320px; height:60px;"> 
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/education/index.html&pos=Right5A&sn2=98bc6e61/45e22733&sn1=6a1102ca/9e7f5eda&camp=nyt2011-mktg-arts_and_ents-s4d_ros&ad=AR-D-I-NYT-AD-S4D-AandE-ROS-1211-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fevents%2Findex%2Ehtml%3FWT%2Emc%5Fid%3DAR%2DD%2DI%2DNYT%2DAD%2DS4D%2DAandE%2DROS%2D1211%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D175108" target="_blank"> 
+<img style="float:left; margin-right:10px;" src="http://graphics8.nytimes.com/adx/images/ADS/28/59/ad.285977/11-2187_ArtsEntertainment_86x60.gif" width="86" height="60" border="0" style="vertical-align:text-top;"></a>
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/education/index.html&pos=Right5A&sn2=98bc6e61/45e22733&sn1=6a1102ca/9e7f5eda&camp=nyt2011-mktg-arts_and_ents-s4d_ros&ad=AR-D-I-NYT-AD-S4D-AandE-ROS-1211-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fevents%2Findex%2Ehtml%3FWT%2Emc%5Fid%3DAR%2DD%2DI%2DNYT%2DAD%2DS4D%2DAandE%2DROS%2D1211%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D175108" target="_blank">  <br />Introducing: The Interactive Arts & Entertainment Guide</a>
+</div>
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+</div>
+	</div>
+<!--[TwoColumnAdLeft - End] -->
+<div class="advertisementColumnGroup">
+<!--[MarketPlaceGridAd - Begin] -->
+
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+    <!--[MarketPlaceGridAd - End] -->
+</div>
+</div>
+<!--Ads Ads -->                    <div class="columnGroup last">
+
+<div class="singleAd" id="Feature1">
+<!-- ADXINFO classification="hp-module" campaign="feature1-CanyonRanch-1764607-cla"--><!--Ad Template Begins Here -->
+<div class="story advertisement">
+<div class="callout">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/education/index.html&pos=Feature1&sn2=ab177f61/c1794b38&sn1=5e1dcb15/121849b2&camp=feature1-CanyonRanch-1764607-cla&ad=3.11.11-CanyonRanch-173x98-SFM&goto=http%3A%2F%2Fwww%2Ecanyonranchlivingmiamibeach%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/26/01/ad.260145/2.9.11_173x98.jpg"" width="173" height="98" border="0" alt="Photo"></a>
+</div>
+<h5>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/education/index.html&pos=Feature1&sn2=ab177f61/c1794b38&sn1=5e1dcb15/121849b2&camp=feature1-CanyonRanch-1764607-cla&ad=3.11.11-CanyonRanch-173x98-SFM&goto=http%3A%2F%2Fwww%2Ecanyonranchlivingmiamibeach%2Ecom" target="_blank"></a>
+</h5>
+<p class="summary"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/education/index.html&pos=Feature1&sn2=ab177f61/c1794b38&sn1=5e1dcb15/121849b2&camp=feature1-CanyonRanch-1764607-cla&ad=3.11.11-CanyonRanch-173x98-SFM&goto=http%3A%2F%2Fwww%2Ecanyonranchlivingmiamibeach%2Ecom" target="_blank"><font size=1>A life of wellness is just a click away.  One to to three bedrooms from the 400s to over $3MM.</font></a>
+</p>
+<div class="adCreative">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/education/index.html&pos=Feature1&sn2=ab177f61/c1794b38&sn1=5e1dcb15/121849b2&camp=feature1-CanyonRanch-1764607-cla&ad=3.11.11-CanyonRanch-173x98-SFM&goto=http%3A%2F%2Fwww%2Ecanyonranchlivingmiamibeach%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/26/01/ad.260145/2.9.11_logo.gif" width="78" height="36"></a>
+</div>
+
+<p class="summary"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/education/index.html&pos=Feature1&sn2=ab177f61/c1794b38&sn1=5e1dcb15/121849b2&camp=feature1-CanyonRanch-1764607-cla&ad=3.11.11-CanyonRanch-173x98-SFM&goto=http%3A%2F%2Fwww%2Ecanyonranchlivingmiamibeach%2Ecom" target="_blank"><font size=1>CANYONRANCHLIVINGMIAMIBEACH.COM</font></a>
+</p>
+</div>
+<!--Ad Template Ends Here -->
+</div>
+
+
+<div class="singleAd" id="SponLink">
+<script language="JavaScript" type="text/javascript">
+    
+    // Sponlink_short
+
+    NYTD.GoogleAds.getGoogleAds("AFC", { 
+        google_ad_client:'nytimes_section_var',
+        ad_target_list:'sponLink'
+    });
+</script>
+</div>
+
+</div>
+</div><!--close cColumn -->
+</div><!--close wideA -->
+</div><!--close spanAB -->
+</div><!--close main -->
+<div id="footer">
+<ul class="first">
+<li class="first"><a href="http://www.nytimes.com">Home</a></li>
+<li >
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li>
+<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+</ul>    <ul>
+<li class="first"><a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&copy; 2011</a> <a href="http://www.nytco.com/">The New York Times Company</a></li>
+<li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Terms of Service</a></li>
+<li class="termsOfSale"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+<li><a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a></li>
+<li><a class="rssButton" href="http://www.nytimes.com/rss">RSS</a></li>
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+<li><a href="http://www.nytco.com/careers">Work for Us</a></li>
+<li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+</ul>
+</div>
+</div><!--close page -->
+</div><!--close shell -->
+
+
+
+
+
+
+
+<IMG SRC="/adx/bin/clientside/3ece15bdQ2FVyQ7BQ7C9E9yQ22Q3DQ23yJZQ7CMQ27AJAEQ27Q2B" height="1" width="3">
+
+<script type="text/javascript" language="JavaScript">
+// Written by /usr/local/knews/bin/commentcount.pl Fri Dec  2 13:02:02 2011
+var NYTArticleCommentCounts = {
+"100000001190843":{count:147, commentsEnabled:false},
+"100000001190858":{count:204, commentsEnabled:false},
+"100000001190907":{count:49, commentsEnabled:false},
+"100000001191255":{count:237, commentsEnabled:false},
+"100000001191704":{count:133, commentsEnabled:false},
+"100000001191724":{count:100, commentsEnabled:false},
+"100000001191950":{count:122, commentsEnabled:false},
+"100000001192133":{count:307, commentsEnabled:false},
+"100000001192329":{count:76, commentsEnabled:false},
+"100000001190961":{count:19, commentsEnabled:false},
+"100000001177231":{count:1, commentsEnabled:true},
+"100000001177245":{count:74, commentsEnabled:true},
+"100000001179958":{count:24, commentsEnabled:false},
+"100000001180322":{count:227, commentsEnabled:true},
+"100000001183078":{count:44, commentsEnabled:false},
+"100000001183080":{count:327, commentsEnabled:false},
+"100000001183081":{count:7, commentsEnabled:false},
+"100000001183084":{count:235, commentsEnabled:false},
+"100000001183087":{count:11, commentsEnabled:false},
+"100000001183089":{count:14, commentsEnabled:false},
+"100000001183090":{count:11, commentsEnabled:false},
+"100000001183091":{count:3, commentsEnabled:false},
+"100000001183094":{count:14, commentsEnabled:false},
+"100000001184186":{count:79, commentsEnabled:false},
+"100000001184524":{count:149, commentsEnabled:false},
+"100000001186117":{count:1, commentsEnabled:false},
+"100000001186193":{count:12, commentsEnabled:true},
+"100000001186569":{count:190, commentsEnabled:false},
+"100000001189184":{count:49, commentsEnabled:false},
+"100000001190721":{count:71, commentsEnabled:false},
+"100000001191577":{count:224, commentsEnabled:false},
+"100000001191688":{count:28, commentsEnabled:false},
+"100000001191719":{count:107, commentsEnabled:false},
+"100000001191931":{count:121, commentsEnabled:false},
+"100000001191985":{count:110, commentsEnabled:false},
+"100000001192057":{count:211, commentsEnabled:false},
+"100000001192188":{count:141, commentsEnabled:false},
+"100000001192496":{count:52, commentsEnabled:false},
+"100000001192500":{count:206, commentsEnabled:false},
+"100000001192600":{count:224, commentsEnabled:false},
+"100000001192611":{count:167, commentsEnabled:false},
+"100000001193250":{count:67, commentsEnabled:false},
+"100000001193262":{count:37, commentsEnabled:false},
+"100000001193344":{count:98, commentsEnabled:false},
+"100000001193527":{count:27, commentsEnabled:false},
+"100000001193629":{count:10, commentsEnabled:false},
+"100000001193702":{count:17, commentsEnabled:false},
+"100000001193743":{count:108, commentsEnabled:false},
+"100000001193763":{count:516, commentsEnabled:false},
+"100000001193825":{count:86, commentsEnabled:false},
+"100000001193857":{count:48, commentsEnabled:false},
+"100000001193859":{count:160, commentsEnabled:false},
+"100000001193890":{count:117, commentsEnabled:false},
+"100000001193920":{count:44, commentsEnabled:false},
+"100000001193944":{count:303, commentsEnabled:false},
+"100000001193948":{count:7, commentsEnabled:false},
+"100000001194088":{count:51, commentsEnabled:false},
+"100000001194098":{count:17, commentsEnabled:true},
+"100000001194137":{count:109, commentsEnabled:false},
+"100000001194342":{count:159, commentsEnabled:false},
+"100000001194394":{count:68, commentsEnabled:false},
+"100000001194454":{count:36, commentsEnabled:false},
+"100000001194795":{count:192, commentsEnabled:false},
+"100000001194808":{count:628, commentsEnabled:false},
+"100000001194892":{count:125, commentsEnabled:false},
+"100000001195360":{count:33, commentsEnabled:false},
+"100000001195689":{count:178, commentsEnabled:false},
+"100000001195802":{count:10, commentsEnabled:false},
+"100000001195854":{count:304, commentsEnabled:false},
+"100000001195914":{count:48, commentsEnabled:false},
+"100000001195920":{count:17, commentsEnabled:false},
+"100000001195923":{count:44, commentsEnabled:false},
+"100000001195938":{count:138, commentsEnabled:false},
+"100000001195940":{count:10, commentsEnabled:false},
+"100000001195947":{count:92, commentsEnabled:false},
+"100000001195952":{count:162, commentsEnabled:false},
+"100000001195976":{count:141, commentsEnabled:false},
+"100000001195982":{count:283, commentsEnabled:false},
+"100000001196229":{count:42, commentsEnabled:false},
+"100000001196250":{count:104, commentsEnabled:true},
+"100000001196432":{count:333, commentsEnabled:false},
+"100000001196658":{count:42, commentsEnabled:false},
+"100000001196737":{count:28, commentsEnabled:true},
+"100000001196861":{count:18, commentsEnabled:false},
+"100000001196955":{count:71, commentsEnabled:true},
+"100000001196963":{count:143, commentsEnabled:false},
+"100000001197064":{count:68, commentsEnabled:false},
+"100000001197489":{count:3, commentsEnabled:false},
+"100000001197999":{count:75, commentsEnabled:false},
+"100000001198014":{count:290, commentsEnabled:false},
+"100000001198050":{count:69, commentsEnabled:true},
+"100000001198076":{count:32, commentsEnabled:true},
+"100000001198092":{count:204, commentsEnabled:false},
+"100000001198110":{count:424, commentsEnabled:false},
+"100000001198123":{count:343, commentsEnabled:false},
+"100000001198126":{count:62, commentsEnabled:false},
+"100000001198138":{count:163, commentsEnabled:false},
+"100000001198377":{count:143, commentsEnabled:true},
+"100000001198446":{count:23, commentsEnabled:true},
+"100000001198471":{count:52, commentsEnabled:true},
+"100000001198476":{count:157, commentsEnabled:true},
+"100000001198581":{count:48, commentsEnabled:true},
+"100000001198642":{count:253, commentsEnabled:false},
+"100000001199366":{count:136, commentsEnabled:true},
+"100000001199374":{count:114, commentsEnabled:true},
+"100000001199444":{count:155, commentsEnabled:false},
+"100000001199658":{count:4, commentsEnabled:true},
+"100000001200046":{count:884, commentsEnabled:true},
+"100000001200335":{count:165, commentsEnabled:false},
+"100000001200378":{count:192, commentsEnabled:false},
+"100000001200458":{count:77, commentsEnabled:false},
+"100000001200844":{count:23, commentsEnabled:true},
+"100000001201276":{count:88, commentsEnabled:true},
+"100000001201525":{count:188, commentsEnabled:true},
+"100000001202361":{count:0, commentsEnabled:true},
+"100000001202521":{count:27, commentsEnabled:true},
+"100000001202701":{count:270, commentsEnabled:false},
+"100000001202807":{count:17, commentsEnabled:true},
+"100000001202815":{count:116, commentsEnabled:false},
+"100000001202831":{count:232, commentsEnabled:true},
+"100000001202861":{count:95, commentsEnabled:true},
+"100000001202869":{count:39, commentsEnabled:true},
+"100000001202871":{count:23, commentsEnabled:true},
+"100000001202889":{count:54, commentsEnabled:true},
+"100000001202895":{count:33, commentsEnabled:true},
+"100000001202901":{count:90, commentsEnabled:true},
+"100000001203208":{count:19, commentsEnabled:true},
+"100000001203416":{count:220, commentsEnabled:true},
+"100000001203664":{count:0, commentsEnabled:true},
+"100000001188908":{count:16, commentsEnabled:true},
+"100000001194403":{count:0, commentsEnabled:true},
+"100000001194404":{count:0, commentsEnabled:true},
+"100000001194405":{count:71, commentsEnabled:true},
+"100000001194406":{count:0, commentsEnabled:true},
+"100000001194419":{count:1, commentsEnabled:true},
+"100000001194423":{count:58, commentsEnabled:true},
+"100000001194424":{count:0, commentsEnabled:true},
+"100000001194425":{count:0, commentsEnabled:true},
+"100000001194427":{count:0, commentsEnabled:true},
+"100000001194843":{count:51, commentsEnabled:true},
+"100000001197746":{count:1, commentsEnabled:true},
+"100000001201815":{count:0, commentsEnabled:true},
+"100000001201989":{count:0, commentsEnabled:true}
+};
+</script>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/homepage/articleCommentCounts.js"></script>
+<script type="text/javascript" language="JavaScript">
+    ArticleCommentCounts.apply()
+    </script>
+
+			
+		<!-- Start UPT call -->
+		<img height="1" width="3" border=0 src="http://up.nytimes.com/?d=0/28/&t=3&s=0&ui=&r=&u=www%2enytimes%2ecom%2fpages%2feducation%2findex%2ehtml%3f">
+		<!-- End UPT call -->
+	
+		
+        <script language="JavaScript"><!--
+          var dcsvid="";
+          var regstatus="non-registered";
+        //--></script>
+        <script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+        <noscript>
+          <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div>
+        </noscript>
+   
+</body>
+</html>

@@ -1,0 +1,3 @@
+Location: http://www.nytimes.com/glogin?URI=http://www.nytimes.com/2011/12/02/opinion/krugman-killing-the-euro.html&OQ=_rQ3D1Q26hp&OP=51d0ccfeQ2F3Q7DHQ5C3Q5Bj_EwjjQ60Y3YQ5D!!3!Y3Q5DY3j-Q3AQ5EQ3AjQ5E3UwTfuBQ5E5UQ3A99Q3AQ5Ef5Q60iH5HTwjniQ60u9
+Connection: keep-alive
+

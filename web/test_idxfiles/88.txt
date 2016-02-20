@@ -1,0 +1,3 @@
+Location: http://www.nytimes.whsites.net/communityaffairs/index.php
+Connection: close
+

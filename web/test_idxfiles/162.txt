@@ -1,0 +1,13 @@
+Expires: Fri, 02 Dec 2011 18:03:32 GMT
+Location: /research/portfolio/sso/saml2/requestAssertion.ashx?originalTarget=http%3A%2F%2Fmarkets%2Eon%2Enytimes%2Ecom%2F%2Fresearch%2Fportfolio%2Fview%2Fview%2Easp
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+P3P: CP="NON PHY ONL UNI PUR FIN COM NAV INT DEM STA HEA CUR ADM DEV OUR IND"
+Set-Cookie: Login%2EStatusString=NO%5FLOGIN%5FINFO%5FFOUND; expires=Fri, 24-Jul-1998 04:00:00 GMT; path=/
+Set-Cookie: Login%2EStatus=7995426; expires=Fri, 24-Jul-1998 04:00:00 GMT; path=/
+
+<head><title>Object moved</title></head>
+<body><h1>Object Moved</h1>This object may be found <a HREF="/research/portfolio/sso/saml2/requestAssertion.ashx?originalTarget=http%3A%2F%2Fmarkets%2Eon%2Enytimes%2Ecom%2F%2Fresearch%2Fportfolio%2Fview%2Fview%2Easp">here</a>.</body>
+
+<script language="JavaScript" src="//markets.on.nytimes.com/Includes/CheckPng/Script.asp">
+</script>

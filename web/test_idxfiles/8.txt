@@ -1,0 +1,7 @@
+Set-cookie: RMID=05e89f6740b74ed9132d37fa; expires=Saturday, 01-Dec-2012 18:04:29 GMT; path=/; domain=.nytimes.com
+Location: http://www.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+

@@ -1,0 +1,177 @@
+Content-Length: 154
+Connection: Close
+Location: http://www.baidu.com/?tn=SE_PSStatistics_p1d9m0nf
+Server: Bws 1.0
+Set-Cookie: PSLOSTID=1034; Domain=.baidu.com; Path=/; Max-Age=60
+
+<html>
+<head><title>302 Found</title></head>
+<body bgcolor="white">
+<center><h1>302 Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+Date: Wed, 03 Jun 2015 08:12:53 GMT
+P3p: CP=" OTI DSP COR IVA OUR IND COM "
+P3p: CP=" OTI DSP COR IVA OUR IND COM "
+Server: Apache
+Set-Cookie: BAIDUID=E031A56BD93D3DBAEA6DFC279040EA36:FG=1; expires=Thu, 02-Jun-16 08:12:53 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+Set-Cookie: BAIDUID=BE9C7E1FB142AE6984EAE1796A1CBA53:FG=1; expires=Thu, 02-Jun-16 08:12:53 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+Content-Length: 0
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>百度Hi - 最轻巧的聊天软件</title>
+    <link href="images/hinew/logo_32.png" rel="shortcut icon">
+    <link rel="stylesheet" href="styles/hinew/base.css" />
+    <link rel="stylesheet" href="styles/hinew/common.css" />
+    <link rel="stylesheet" href="styles/hinew/index.css" />
+    
+    <!--[if IE 6]>
+        <link rel="stylesheet" href="styles/hinew/ie6.css" />
+    <![endif]-->
+    
+    <!--[if lt IE 9]>
+        <script src="scripts/hinew/base/html5.js" type="text/javascript"></script>
+    <![endif]-->
+
+</head>
+<body>
+<!--#S header-->
+<header id="header">
+    <div class="clearfix w980 inner">
+        <a hidefocus="true" href="../index.html" class="fl logo"></a>
+
+        <ul class="fr clearfix help_list">
+            <li><a hidefocus="true" class="help_center" href="./hinew/help.html">帮助中心</a></li>
+            <li><a hidefocus="true" href="http://wenzhang.baidu.com/?tag=%E7%A9%BA%E9%97%B4">百度空间</a></li>
+        </ul>
+
+        <ul id="menuList" class="fr clearfix">
+            <span class="lbl"></span>
+            <li><a hidefocus="true" href="hinew/pc.html">桌面版</a></li>
+            <li><a hidefocus="true" href="hinew/mobile.html">手机版</a></li>
+            <li><a hidefocus="true" target="_blank" href="http://web.im.baidu.com">网页版</a></li>
+        </ul>
+
+    </div>
+    <div class="header_bg"></div>
+</header><!--#E header-->
+
+
+<!--#S banner-->
+    <section id="banner">
+
+        <div id="banner-container">
+            <div class="are-you-ok"></div>
+            <div class="qingsu"></div>
+            <div class="android">
+                <a href="http://im.baidu.com/m/android" id="android-download"></a>
+            </div>
+            <div class="ios">
+                <a href="http://itunes.apple.com/cn/app/bai-duhi/id537923517?mt=8" id="ios-download"></a>
+            </div>
+            <div class="erweima"></div>
+        </div>
+
+    </section><!--#S banner-->
+    
+    <!--#S main-->
+    <section id="main" class="w980 clearfix">
+
+        <ul class="hi_list">
+
+            <li >
+                <a hidefocus="true" href="hinew/pc.html" class="fl img list-img">
+                    <img src="images/hinew/new_pc.png">
+
+                <div class="tip">
+                    <div class="title">桌面版</div>
+                    <div class="desc">工作沟通,最佳伙伴</div>
+                </div>
+                </a>
+            </li>
+
+            <li >
+                <a hidefocus="true" href="hinew/mobile.html">
+
+                    <img src="images/hinew/new_mobile.png">
+
+                    <div class="tip">
+                        <div class="title">移动版</div>
+                        <div class="desc">随时随地为工作服务</div>
+                    </div>
+                </a>
+
+            </li>
+
+            <li >
+                <a hidefocus="true" target="_blank" href="http://web.im.baidu.com" class="fl img list-img">
+                    <img src="images/hinew/new_web.png">
+
+                    <div class="tip">
+                        <div class="title">网页版</div>
+                        <div class="desc">沟通是如此简单</div>
+                    </div>
+                </a>
+            </li>
+
+        </ul>
+    </section><!--#E main-->
+    
+    <footer id="footer">
+        <div class="footer_wrap">
+            <!-- <div class="footer_bg"></div> -->
+            <div class="w980 inner bottom-line">
+                <ul class="clearfix link_list">
+                    <li><a target="_blank" href="http://tieba.baidu.com/f?kw=%B0%D9%B6%C8hi" hidefocus="true" class="tieba"><span class="icon"></span><span class="text">官方贴吧</span></a></li>
+                    <li><a target="_blank" href="http://hi.baidu.com/" hidefocus="true" class="space"><span class="icon"></span><span class="text">官方空间</span></a></li>
+                    <li><a href="javascript:void(0);" hidefocus="true" class="weibo disabled"><span class="icon"></span><span class="text">官方微博（认证中）</span></a></li>
+                </ul>
+                <div class="copyright">&copy;2015&nbsp;&nbsp;Baidu</div>
+            </div>
+        </div>
+    </footer>
+    
+    <script type="text/javascript">
+        document.write("<scr"+"ipt src=\"scripts/hinew/base/jquery-1.7.2.min.js\"></sc"+"ript>");
+        document.write("<scr"+"ipt src=\"scripts/hinew/page/global.js\"></sc"+"ript>");
+        //document.write("<scr"+"ipt src=\"scripts/hinew/page/index.js\"></sc"+"ript>");
+        window.onload=function(){
+            var alist=$('#menuList a');
+
+            alist[0].ontouchstart=function(){
+                window.location.href=alist[0].href;
+            }
+            alist[1].ontouchstart=function(){
+                window.location.href=alist[1].href;
+            }
+            alist[2].ontouchstart=function(){
+                window.location.href=alist[2].href;
+            }
+        }
+    </script>
+
+<script>
+
+    function is_weixin(){
+        var ua = navigator.userAgent.toLowerCase();
+        if(ua.match(/MicroMessenger/i)=="micromessenger") {
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+
+    if(is_weixin()){
+        document.getElementById('ios-download').href = 'http://a.app.qq.com/o/simple.jsp?pkgname=com.baidu.hi';
+        document.getElementById('android-download').href = 'http://a.app.qq.com/o/simple.jsp?pkgname=com.baidu.hi';
+    };
+</script>
+
+</body>
+</html>

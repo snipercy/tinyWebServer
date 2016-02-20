@@ -1,0 +1,208 @@
+Connection: close
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.5.17
+Set-Cookie: LJSESSID=mokfl4m8qr17qjhuct1ppdmgh6; expires=Sat, 13-Jun-2015 08:01:31 GMT; Max-Age=864000; path=/; domain=.lianjia.com
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: select_city=110000; expires=Thu, 04-Jun-2015 08:01:31 GMT; Max-Age=86400; path=/; domain=.lianjia.com
+Set-Cookie: lianjia_uuid=ac46bf6fb93dcef240f2d561e55822e1; expires=Sat, 31-May-2025 08:01:31 GMT; Max-Age=315360000; path=/; domain=lianjia.com
+Set-Cookie: guid=5200B9E7-59A5-8761-F02A-FCAF11C3774F; expires=Thu, 02-Jun-2016 08:01:31 GMT; Max-Age=31536000; path=/
+Set-Cookie: BIGipServerpool_lianjia_php=1174674348.16671.0000; path=/
+
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta http-equiv="Cache-Control" content="no-transform" />
+<title>房产网_房地产_房地产交易平台-链家网</title>
+<meta name="description" content="链家网是全国领先的房产网站，二手房、新房、租房交易平台，房源更新及时且真实存在、真实委托、真实价格，给您诚信、放心的房产交易、租赁保障，并及时发布最新的房地产行业资讯、房屋交易数据、房价走势信息、房产问答小区业主论坛、买房工具、买房贷款等信息。" />
+<meta name="keywords" content="房产网，房地产交易，房地产，二手房，租房，新房，别墅，家居，买房贷款，房价走势" />
+<link href="/favicon.ico" type="image/x-icon" rel=icon><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"><link rel="stylesheet" href="http://cdn.lianjia.com/pc/asset/common.css?_v=20150602025556">
+<link rel="stylesheet" href="http://cdn.lianjia.com/pc/asset/defaultPage/css/main.css?_v=20150602025556">
+<!--[if lt IE 9]><script type="text/javascript" src="http://cdn.lianjia.com/dep/common-require/html5.js?_v=20150602025556"></script><![endif]-->
+<script>
+function RESIZEIMG(b,k,l,m){var c=b.parentNode;var d=parseInt(c.offsetWidth)||k;var e=parseInt(c.offsetHeight)||l;var f=d/e;var g=b.naturalWidth||b.width;var h=b.naturalHeight||b.height;var i=g/h;var j="width";if(f<i){j="height";try{b.style["left"]="-"+parseInt(Math.abs((d-(g*e/h))/2))+"px"}catch(e){}}else if(m){try{b.style["top"]="-"+parseInt(Math.abs((e-(h*d/g))/2))+"px"}catch(e){}};b.style[j]="100%";};
+</script>
+</head><body>
+<header class="lianjia-header"><div class="nav-wrap"><ul class="nav-lst">
+    <li><a class="home-a  first" href="http://bj.lianjia.com/" ><span>首页</span></a></li>
+    <li><a class="home-a  " href="http://bj.lianjia.com/ershoufang/" ><span>二手房</span></a></li>
+    <li><a class="home-a  " href="http://bj.lianjia.com/xinfang/" ><span>新房</span></a></li>
+    <li><a  rel="nofollow" class="home-a  " href="http://www.zufangzi.com/" target="_blank"><span>丁丁租房</span></a></li>
+    <li><a class="home-a  " href="http://www.lianjia.com/overseas/" ><span>海外</span></a></li>
+    <li><a class="home-a  " href="http://bj.lianjia.com/shangpuchuzu/" ><span>商铺</span></a></li>
+    <li><a class="home-a  " href="http://bj.lianjia.com/xiaoqu/" ><span>小区</span></a></li>
+    <li><a class="home-a  " href="http://bj.lianjia.com/yezhu/" ><span>业主</span></a></li>
+    <li><a class="home-a  " href="http://bj.lianjia.com/jingjiren/" ><span>经纪人</span></a></li>
+    <li><a class="home-a  " href="http://bj.lianjia.com/ask/" target="_blank"><span>问答</span></a></li>
+    <li><a class="home-a  " href="http://bj.lianjia.com/baike/" ><span>百科</span></a></li>
+    <li><a  rel="nofollow" class="home-a  " href="https://licai.lianjia.com/" target="_blank"><span>理财</span></a></li>
+</ul>
+<!-- <div class="search-panel search-panel-common"><form action=""><input type="search" class="txt" name="keyword" id="keyword-box" placeholder="输入关键词(楼盘名/小区名)" value="" /><input type="submit" title="点此搜索" value="" class="search-btn" /></form><div id="suggest-cont" class="suggest-wrap"></div></div> --><div class="login-panel typeUserInfo"><script type="text/template" class="template">
+    <%if(data && data.username){%>
+      <%if(data.isAgent){%>
+       <a href="<%=$.env.fixedUrl('http://agent.lianjia.com/')%>"><span><%=data.username%>&nbsp;&nbsp;</span></a>
+      <%}else{%>
+        <a href="<%=$.env.fixedUrl('http://user.lianjia.com/')%>"><span><%=data.username%>&nbsp;&nbsp;</span></a>
+       <%}%>
+       <%if(data.isAgent){%>
+         <span class="welcome">您好，欢迎来到链家！　<a class="reg" href="<%=data.loginUrl%>">退出</a></span>
+       <%}else{%>
+         <span class="welcome">您好，欢迎来到链家！　<a class="reg" href="<%=data.logoutUrl%>">退出</a></span>
+        <%}%>  
+    <%}else{%>
+      <span class="welcome">您好，欢迎来到链家！请<a href="<%=data.registerUrl%>"><span class="log">注册</span></a> 或 <a class="btn-login bounceIn actLoginBtn" href="<%=data.loginUrl%>"><span class="reg">登录</span></a></span>
+    <%}%>
+  </script><div class="typeShowUser"><span class="welcome">您好，欢迎来到链家！请<a href="http://passport.lianjia.com/register/resources/lianjia/register.html?service=http%3A%2F%2Fwww.lianjia.com%2F%2F%27"  rel="nofollow" ><span class="log">注册</span></a> 或 <a href="https://passport.lianjia.com/cas/login?service=http%3A%2F%2Fwww.lianjia.com%2F%2F%27" class="btn-login bounceIn actLoginBtn"><span class="reg">登录</span></a></span></div></div>
+</div></header>
+<div class="default">
+    <div class="wrapper">
+        <div class="name-1 name"></div>
+        <p>您拜访的页面君已搬走，再回链家网逛逛吧~</p>
+        <div class="back"><a href="/">返回首页</a></div>
+        <div class="tu-1"></div>
+    </div>
+</div>
+<div class="lianjia-footer" mod-id="lj-common-footer"><div class="wrapper"><div class="foot-content left"><div class="link"><a target="_blank" href="/about/aboutlianjia/" rel="nofollow">关于链家</a><span class="stp">|</span><a target="_blank" href="/about/contactus/" rel="nofollow">联系我们</a><span class="stp">|</span><a target="_blank" href="/about/joinagent/" rel="nofollow">加入我们</a><span class="stp">|</span><a target="_blank" href="http://www.lianjia.com/privacy/" rel="nofollow">隐私声明</a><span class="stp">|</span><a target="_blank" href="/sitemap/">网站地图</a><span class="stp">|</span><a target="_blank" href="/link/">友情链接</a><span class="stp">|</span><a target="_blank" href="http://agent.lianjia.com" rel="nofollow">经纪人登录(链家&德佑)</a><label>链家真服务：有承诺，有保障！</label></div><div class="link link-z"><a href="http://bj.lianjia.com/ershoufang/" target="_blank">二手房</a><span class="stp">|</span><a href="http://bj.lianjia.com/xiaoqu/A/" target="_blank">A</a><span class="stp">|</span><a href="http://bj.lianjia.com/xiaoqu/B/" target="_blank">B</a><span class="stp">|</span><a href="http://bj.lianjia.com/xiaoqu/C/" target="_blank">C</a><span class="stp">|</span><a href="http://bj.lianjia.com/xiaoqu/D/" target="_blank">D</a><span class="stp">|</span><a href="http://bj.lianjia.com/xiaoqu/E/" target="_blank">E</a><span class="stp">|</span><a href="http://bj.lianjia.com/xiaoqu/F/" target="_blank">F</a><span class="stp">|</span><a href="http://bj.lianjia.com/xiaoqu/G/" target="_blank">G</a><span class="stp">|</span><a href="http://bj.lianjia.com/xiaoqu/H/" target="_blank">H</a><span class="stp">|</span><a href="http://bj.lianjia.com/xiaoqu/I/" target="_blank">I</a><span class="stp">|</span><a href="http://bj.lianjia.com/xiaoqu/J/" target="_blank">J</a><span class="stp">|</span><a href="http://bj.lianjia.com/xiaoqu/K/" target="_blank">K</a><span class="stp">|</span><a href="http://bj.lianjia.com/xiaoqu/L/" target="_blank">L</a><span class="stp">|</span><a href="http://bj.lianjia.com/xiaoqu/M/" target="_blank">M</a><span class="stp">|</span><a href="http://bj.lianjia.com/xiaoqu/N/" target="_blank">N</a><span class="stp">|</span><a href="http://bj.lianjia.com/xiaoqu/O/" target="_blank">O</a><span class="stp">|</span><a href="http://bj.lianjia.com/xiaoqu/P/" target="_blank">P</a><span class="stp">|</span><a href="http://bj.lianjia.com/xiaoqu/Q/" target="_blank">Q</a><span class="stp">|</span><a href="http://bj.lianjia.com/xiaoqu/R/" target="_blank">R</a><span class="stp">|</span><a href="http://bj.lianjia.com/xiaoqu/S/" target="_blank">S</a><span class="stp">|</span><a href="http://bj.lianjia.com/xiaoqu/T/" target="_blank">T</a><span class="stp">|</span><a href="http://bj.lianjia.com/xiaoqu/U/" target="_blank">U</a><span class="stp">|</span><a href="http://bj.lianjia.com/xiaoqu/V/" target="_blank">V</a><span class="stp">|</span><a href="http://bj.lianjia.com/xiaoqu/W/" target="_blank">W</a><span class="stp">|</span><a href="http://bj.lianjia.com/xiaoqu/X/" target="_blank">X</a><span class="stp">|</span><a href="http://bj.lianjia.com/xiaoqu/Y/" target="_blank">Y</a><span class="stp">|</span><a href="http://bj.lianjia.com/xiaoqu/Z/" target="_blank">Z</a></div><div class="copy">北京链家房产经纪有限公司 | 网络经营许可证 京ICP备11024601号-12</div><div class="compny">&copy; Copyright©2010-2015 链家网Lianjia.com版权所有</div></div></div></div>
+
+<script src="http://cdn.lianjia.com/pc/asset/base/fe.js?_v=20150602025556"></script><script src="http://cdn.lianjia.com/pc/asset/common/common.js?_v=20150602025556"></script><div id="only" data-city="www" data-page="_"></div>
+<script>var path = 'http://cdn.lianjia.com/pc/asset?_v=20150602025556'.split("?");require.config({baseUrl: path[0],paths: {'echarts' : '../../dep/echarts-1.4.1/build/echarts','echarts/chart/bar' : '../../dep/echarts-1.4.1/build/echarts','echarts/chart/line' : '../../dep/echarts-1.4.1/build/echarts','echarts/chart/pie' : '../../dep/echarts-1.4.1/build/echarts','common': 'common','jquery-ui': '../../dep/jquery-ui/jquery-ui.min'},urlArgs:  path[1]});</script>
+    
+<script>require(['common/suggestion'], function (suggestion) {suggestion.init({requestOptions: {cityId: '110000',cityName: '北京'},url: '/?r=api/headerSearch&q=',main: '#keyword-box',appendTo: '#suggest-cont'});});</script>
+<div class="loninContaner"><div class="overlay_bg"></div><div class="panel_login animated" id="dialog"><div class="panel_info"><div class="panel_tab"><div class="title"><div class="fl">用户登录</div><label class="fr">还没有链家网账号？<a href="http://login.lianjia.com/login/register/">马上注册</a></label></div><div class="clear"></div><div id="con_login_user"><form action="" method="post"><ul><li class="show-error"><dd>用户名或密码错误</dd></li><li class="item userName"><i></i><input type="text" class="the_input users" placeholder="请输入手机号" /></li><li class="item pwd"><i></i><input type="password" class="the_input password"  placeholder="请输入登录密码"/></li><li class="item checkVerimg" style="display:none"><input type="text" class="the_input ver-img" maxlength="4"  placeholder="请输入验证码"/><img class="verImg"></li><li class="li_01"><label><input type="checkbox" name="remember" value="1" class="mind-login">下次自动登录</label><a href="http://login.lianjia.com/login/forget/">找回密码</a></li><li><a class="login-user-btn"  />立即登录</a></li></ul></form></div><div id="con_login_agent" class="undis"><form action="" method="post"><ul><li class="item"><dd></dd><input type="text" class="the_input users" placeholder="输入经纪人ID号码" /></li><li class="item"><input type="password" class="the_input password"  placeholder="登录密码"/></li><li class="li_01"><label><input type="checkbox" name="remember" value="1" class="mind-login">下次自动登录</label><a href="http://login.lianjia.com/login/forget/">找回密码</a></li><li><input class="login-agent-btn" value="立即登录"/></li></ul></form></div></div></div><div class="registered"></div></div></div><div style="display:none">
+   //google
+<script> 
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ 
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), 
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) 
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga'); 
+switch (window.location.hostname) { 
+case "www.lianjia.com": 
+ga('create', 'UA-55936351-1', 'auto'); 
+ga('send', 'pageview', ''); 
+ga('create', 'UA-24113315-1', 'auto', {'name': 'past'}); 
+ga('past.send', 'pageview'); 
+break; 
+case "bj.lianjia.com": 
+ga('create', 'UA-55871340-1', 'auto'); 
+ga('send', 'pageview', ''); 
+ga('create', 'UA-24113315-1', 'auto', {'name': 'past'}); 
+ga('past.send', 'pageview'); 
+break; 
+case 'tj.lianjia.com':  
+ga('create', 'UA-55875231-1', 'auto'); 
+ga('send', 'pageview'); 
+ga('create', 'UA-19369996-1', 'auto', {'name': 'past'}); 
+ga('past.send', 'pageview'); 
+break; 
+case 'nj.lianjia.com': 
+ga('create', 'UA-55873426-1', 'auto'); 
+ga('send', 'pageview'); 
+ga('create', 'UA-23012833-1', 'auto', {'name': 'past'}); 
+ga('past.send', 'pageview'); 
+break; 
+case 'dl.lianjia.com': 
+ga('create', 'UA-55870447-1', 'auto'); 
+ga('send', 'pageview'); 
+ga('create', 'UA-19372101-1', 'auto', {'name': 'past'}); 
+ga('past.send', 'pageview'); 
+break; 
+case 'cd.lianjia.com': 
+ga('create', 'UA-55870653-1', 'auto'); 
+ga('send', 'pageview'); 
+ga('create', 'UA-27100091-1', 'auto', {'name': 'past'}); 
+ga('past.send', 'pageview'); 
+break; 
+case 'qd.lianjia.com': 
+ga('create', 'UA-55872336-1', 'auto'); 
+ga('create', 'UA-27556753-1', 'auto', {'name': 'past'}); 
+ga('send', 'pageview'); 
+ga('past.send', 'pageview'); 
+break;
+case 'hz.lianjia.com': 
+ga('create', 'UA-55872128-1', 'auto'); 
+ga('create', 'UA-34442317-1', 'auto', {'name': 'past'}); 
+ga('send', 'pageview'); 
+ga('past.send', 'pageview'); 
+break; 
+case 'sh.lianjia.com': 
+ga('create', 'UA-55872133-1', 'auto'); 
+ga('send', 'pageview'); 
+ga('create', 'UA-34733973-1', 'auto', {'name': 'past'}); 
+ga('past.send', 'pageview'); 
+break; 
+case 'su.lianjia.com': 
+ga('create', 'UA-60600448-1', 'auto'); 
+ga('send', 'pageview'); 
+break;
+case 'm.lianjia.com': 
+ga('create', 'UA-55871942-1', 'auto'); 
+ga('create', 'UA-34859395-1', 'auto', {'name': 'past'}); 
+ga('send', 'pageview'); 
+ga('past.send', 'pageview');  
+break;
+case 'agent.lianjia.com': 
+ga('create', 'UA-60860114-1', 'auto'); 
+ga('send', 'pageview'); 
+case 'login.lianjia.com': 
+ga('create', 'UA-60863507-1', 'auto'); 
+ga('send', 'pageview'); 
+case 'cms.lianjia.com': 
+ga('create', 'UA-60839596-1', 'auto'); 
+ga('send', 'pageview'); 
+ } 
+ga('create', 'UA-55876525-1', 'auto', {'name': 'global'}); 
+ga('global.send', 'pageview'); 
+ga('create', 'UA-60608360-1', 'auto', {'name': 'new_global'}); 
+ga('new_global.send', 'pageview'); 
+</script>
+
+//SEMSTAT
+<!-- Topsem统计代码开始 --> 
+<script type="text/javascript"> 
+(function() { 
+var obj = document.createElement('script'); 
+obj.src = '//s.va.cn/va.js?id=1756'; 
+var s = document.getElementsByTagName('script')[0]; 
+s.parentNode.insertBefore(obj, s); 
+})(); 
+</script>
+
+//baidu
+<script>
+var _hmt = _hmt || [];
+(function() {
+var hm = document.createElement("script");
+hm.src = "//hm.baidu.com/hm.js?efa595b768cc9dc7d7f9823368e795f1";
+var s = document.getElementsByTagName("script")[0]; 
+s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+//CNZZ STAT
+<script type="text/javascript"> 
+(function(){ 
+var id=0; 
+switch (window.location.hostname) { 
+case "www.lianjia.com": id=1253477541; break; 
+case "bj.lianjia.com": id=1253477573; break; 
+case "nj.lianjia.com": id=1253492138; break; 
+case "tj.lianjia.com": id=1253477585; break; 
+case "cd.lianjia.com": id=1253492306; break; 
+case "dl.lianjia.com": id=1253492418; break; 
+case "qd.lianjia.com": id=1253492431; break; 
+case "hz.lianjia.com": id=1253492436; break; 
+case "sh.lianjia.com": id=1253492439; break; 
+case "su.lianjia.com": id=1254525908; break; 
+case "m.lianjia.com": id=1253491255; break; 
+case "agent.lianjia.com": id=1254574589; break; 
+case "login.lianjia.com": id=1254574635; break; 
+case "cms.lianjia.com": id=1254574663; break; 
+} 
+var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://"); 
+if (id) { 
+document.write(unescape("%3Cspan id='cnzz_stat_icon_"+id+"'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "w.cnzz.com/c.php%3Fid%3D"+id+"' type='text/javascript'%3E%3C/script%3E")); 
+} 
+})(); 
+var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1254525948'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "w.cnzz.com/c.php%3Fid%3D1254525948' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<!-- 行为统计 BEGIN -->        <img src="http://stat.api.homelink.com.cn/?pvstr=2015-06-03+16%3A01%3A31%7C202.119.84.34%7C%7Chttp%3A%2F%2Fwww.lianjia.com%2F%27%3F%7C%7C%7C%7C5200B9E7-59A5-8761-F02A-FCAF11C3774F%7C110000" /><!-- 行为统计 END --></div></body></html>

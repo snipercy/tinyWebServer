@@ -1,0 +1,3 @@
+Location: http://www.nytimes.com/glogin?URI=http://www.nytimes.com/2011/12/03/world/europe/angela-merkel-germany-speech-euro-zone-debt-crisis.html&OQ=_rQ3D1Q26hp&OP=2a1e26f6Q2FKoamKZQ7CJfyQ7CQ7CGQ27KQ275Q2BQ2BKQ2BQ27K5wKoQ7CyQ5EZKahyQ7CSaKVQ5DeaQ5EV3rayLaQ5E3eayrVQ5DQ7E3fSaaJQ513ahyQ7C3tQ7CQ5Da3ZamG3JyNfNfQ22Q51GrQ5E
+Connection: keep-alive
+

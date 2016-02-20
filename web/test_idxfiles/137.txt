@@ -1,0 +1,388 @@
+Set-cookie: RMID=272cf63864634ed913317818; expires=Saturday, 01-Dec-2012 18:04:33 GMT; path=/; domain=.nytimes.com
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Walking New York’s Public Spaces - Slide Show - NYTimes.com</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="noarchive">
+<meta name="lp" content="The best public spaces encourage diverse urban experiences, from people watching to protesting, daydreaming to handball, eating, reading and sunbathing to strolling and snoozing.">
+<meta name="dat" content="December 4, 2011">
+<meta name="DISPLAYDATE" content="December 4, 2011">
+<meta name="pdate" content="20111204">
+<meta name="col" content="">
+<meta name="dsk" content="Arts / Art &amp; Design">
+<meta name="tom" content="Slideshow">
+<meta name="des" content="Architecture">
+<meta name="per" content="">
+<meta name="org" content="">
+<meta name="geo" content="Manhattan (NYC)">
+<meta name="CG" content="arts">
+<meta name="SCG" content="design">
+<meta name="PT" content="Multimedia">
+<meta name="PST" content="Slideshow">
+<meta name="PUD" content="20111204">
+<meta name="ttl" content="">
+<meta name="hdl" content="Walking New York’s Public Spaces">
+<meta name="cre" content="NYT">
+<meta name="url_thumb" content="">
+<meta name="url_thumb_wide" content="images/2011/12/04/arts/20111204-SPACES-slide-1OMS/20111204-SPACES-slide-1OMS-thumbWide.jpg">
+<meta name="SSSN" content="1">
+<meta name="SSTS" content="9">
+<meta name="keywords" content="Architecture,Manhattan (NYC)">
+<meta name="misspelling" content="">
+<meta name="description" content="The best public spaces encourage diverse urban experiences, from people watching to protesting, daydreaming to handball, eating, reading and sunbathing to strolling and snoozing.">
+<meta name="asset_id" content="100000001199213">
+<meta name="slideshow_id" content="100000001199213">
+<meta name="MEDIA_TEMPLATE_VERSION" content="200">
+
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/build/slideshow/styles.css">
+<link rel="stylesheet" type="text/css" media="print" href="http://graphics8.nytimes.com/css/0.1/print/styles.css">
+<!--[if IE]>
+        <style type="text/css">
+            @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie.css);
+        </style>
+    <![endif]-->
+<!--[if IE 6]>
+        <style type="text/css">
+            @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie6.css);
+        </style>
+    <![endif]-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/DropDown.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/fileit.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/util/tooltip.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/multimedia/slideshow/navData.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/app/slideshow/overlayController.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/app/slideshow/moreSlideshowsController.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/app/slideshow/controller.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/app/slideshow/printService.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/app/slideshow/init.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/app/lib/prototype/1.6.0.2/prototype.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/app/lib/scriptaculous/1.8.1/effects.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/app/lib/scriptaculous/extensions/effect_scroll.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/app/lib/scriptaculous/extensions/effect_tween.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/app/common/scroll/scrollerController.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/article/articleShare.js"></script>
+<script type="text/javascript">
+        var static_kw = "";
+        var dynamic_kw = "Architecture;Manhattan+%28NYC%29";
+        var nyt_google_contents = dynamic_kw + static_kw;
+        var nyt_google_ad_channel = "arts_design";
+    </script>
+</head>
+<body>
+<NYT_DYNAMIC_NOUSER_ADTAG="Top5"/>
+<NYT_DYNAMIC_NOUSER_ADTAG="Header1"/>
+<NYT_DYNAMIC_NOUSER_ADTAG="Header2"/>
+<NYT_DYNAMIC_NOUSER_ADTAG="Header3"/>
+<a name="top"></a>
+<div id="shell">
+<ul id="memberTools">
+
+<!-- start text link -->
+<li class="cColumn-TextAdsHeader">Subscribe:
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/interactive/yr/mo/day/arts&pos=Bar1&sn2=fe2fd1bd/40830af1&sn1=b40a0f68/25a41e6a&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-hd-digi-h3847Q-d3847R&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DW47AF%26CMP%3D3847Q" target="_blank">
+Home Delivery</a> / <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/interactive/yr/mo/day/arts&pos=Bar1&sn2=fe2fd1bd/40830af1&sn1=baec058e/381f84b2&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-hd-digi-h3847Q-d3847R&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fsubscriptions%2FMultiproduct%2Flp5558%2Ehtml%3Fadxc%3D162578%26adxa%3D267522%26page%3Dwww.nytimes.com/interactive/yr/mo/day/arts/design/20111204-SPACES.html%26pos%3DBar1%26campaignId%3D3847R" target="_blank">Digital</a>
+</li>
+<!-- end text link -->
+
+ 
+                        <li><a id="memberToolsLogin" href="https://myaccount.nytimes.com/auth/login">Log In</a></li>
+            <li><a href="https://myaccount.nytimes.com/gst/regi.html">Register Now</a></li>
+                            
+
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+</ul>
+<script type="text/javascript">
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+</script>
+<div id="page">
+<div id="masthead">
+<div class="inset insetHFullWidth">
+<div class="opposingFloatControl wrap containingBlock">
+<div id="branding" class="element1">
+<a href="http://www.nytimes.com"><img src="http://graphics8.nytimes.com/images/standalone/slideshow/nyt_logo.gif" alt="New York Times" id="NYTLogo"/></a>
+</div><!--close branding -->
+<div class="element2">
+<button id="moreSlideShowsButtonOpen" class="moreSlideShowsButton" type="button"><span>More Slide Shows</span></button>
+</div><!--close element2 -->
+<h2><a href="http://www.nytimes.com/pages/arts/design/index.html">Art & Design</a></h2>
+<div id="mastheadSectionOverlayMask" class="sectionOverlayContainer closing"  style="display:none;">
+<div id="mastheadSectionOverlay" class="sectionOverlay wrap">
+<div class="header">
+<div class="inset wrap">
+<div class="logo element1"><a href="http://www.nytimes.com">
+<img alt="New York Times" title="New York Times"
+									src="http://graphics8.nytimes.com/images/standalone/slideshow/nyt_logo_on_grey.gif" /></a>
+</div><!--close logo -->
+<div class="inlineSearchControl element1">
+<div class="insetH">
+<form action="http://query.nytimes.com/search/query" method="get">
+<label class="moduleHeader inlineLabel" for="searchInput">Search Slide Shows</label>
+<input type="hidden" name="srchst" value="m" />
+<input type="input" onfocus="if(typeof ( search ) == 'undefined') { this.value=''; search=true; }" value="Enter Search" name="query" id="searchInput" class="text" gtbfieldid="1" /><input id="go" name="submit" type="image" src="http://graphics8.nytimes.com/images/global/buttons/go_dark.gif">
+<input type="hidden" name="v" value="Slideshow" />
+<input type="hidden" name="o" value="e" />
+<input type="hidden" name="c" value="a" />
+<input type="hidden" name="d" value="tom" />
+</form>
+</div><!--close insetH -->
+</div><!--close inlineSearchControl -->
+<div class="refer element1">
+<a href="http://www.nytimes.com/multimedia">All Multimedia &raquo;</a>
+</div>
+<div class="element2">
+<button id="moreSlideShowsButtonClose" class="closeMoreSlideShowsButton" type="button"><span>Close</span></button>
+</div>
+</div><!--close inset -->
+</div><!--close header -->
+<div class="spanAB wrap">
+<div class="wideAb layout wrap">
+<div class="abColumn">
+<div class="columnGroup flushBottom">
+<div class="moreSlideShowsModule">
+<div class="opposingFloatControl wrap">
+<div class="previous element1">
+<div class="insetV">
+<div id="moreSlideShowsPrevious" class="stepperArrowPrevDk"></div>
+</div>
+</div><!--close previous -->
+<div id="moreSlideShowsModuleScrollWrapper" class="element1">
+<div id="moreSlideShowsModuleScrollContainer" class="scrollContainer wrap"></div><!--close scrollContainer -->
+</div><!--close moreSlideShowsModuleScrollWrapper -->
+<div class="next element2">
+<div class="insetV">
+<div id="moreSlideShowsNext" class="stepperArrowNextDk"></div>
+</div>
+</div><!--close next -->
+</div><!--close opposingFloatControl -->
+</div><!--close moreSlideShowsModule -->
+</div><!--close columnGroup -->
+</div><!--close abColumn -->
+<div class="cColumn">
+<div class="columnGroup flushBottom">
+<ul id="moreSlideShowsMenu" class="meta flush multiline wrap"></ul>
+</div>
+</div><!--close cColumn -->
+</div><!--close wideAb -->
+</div><!--close spanAB -->
+</div><!--close sectionOverlay -->
+</div><!--close sectionOverlayContainer -->
+</div><!--close opposingFloatControl -->
+<div class="singleRuleDividerThk"></div>
+</div><!--close inset -->
+</div><!--clode masthead -->                                    
+<div id="main">
+<!--intro slide -->
+<div class="spanAB wrap">
+<div class="abColumn">
+<!--cur: prev:-->
+<div class="columnGroup first">				
+<div class="slideShowModule module"> 
+<div class="header module">
+<div class="opposingFloatControl wrap">
+<div class="element1">
+<div class="storyHeader">
+<h1>Walking New York’s Public Spaces</h1>
+</div> <!--close header module -->
+</div><!--close element1 -->
+<div class="element2">
+<div class="pagination arrowStaticPaginationDk">
+<div class="opposingFloatControl wrap">
+<div class="element1">
+<div class="stepperArrowPrevDkDisabled">
+<a href="http://www.nytimes.com#">&laquo; Previous</a>
+</div>
+</div><!--close element1 -->
+<div class="element1">
+<div class="counter">1 of 9</div>
+</div><!--close element1 -->
+<div class="element2">
+<div class="stepperArrowNextDk">
+<a href="http://www.nytimes.com/slideshow/2011/12/04/arts/design/20111204-SPACES-2.html">Next &raquo;</a>
+</div>
+</div><!--close element2 -->
+</div>
+</div><!--close pagination -->	
+</div> <!--close element 2 -->
+</div><!--close headerGroup -->
+</div><!--close Slideshow header -->
+<div class="figure module">
+<div class="image">
+<div class="centeredElement" style="background-image:url('http://graphics8.nytimes.com/images/2011/12/04/arts/20111204-SPACES-slide-1OMS/20111204-SPACES-slide-1OMS-slide.jpg');width:600px; height:400px;">
+<img width="600" height="400" src="http://graphics8.nytimes.com/images/misc/pixel.gif" />
+</div>       
+</div><!--close image -->
+</div><!--close figure -->
+</div><!--close slideShowModule -->
+</div>
+<!--cur: prev:-->
+<div class="columnGroup ">				
+<script type="text/javascript">
+var articleToolsShareData = {"url":"http:\/\/www.nytimes.com\/slideshow\/2011\/12\/04\/arts\/design\/20111204-SPACES.html","headline":"Walking New York\u2019s Public Spaces","description":"The best public spaces encourage diverse urban experiences, from people watching to protesting, daydreaming to handball, eating, reading and sunbathing to strolling and snoozing.","keywords":"","section":"arts","sub_section":"design","section_display":"Arts","sub_section_display":"Art & Design","byline":null,"pubdate":"December 4, 2011","passkey":null};
+function getShareURL() {
+    return encodeURIComponent(articleToolsShareData.url);
+}
+function getShareHeadline() {
+    return encodeURIComponent(articleToolsShareData.headline);
+}
+function getShareDescription() {
+    return encodeURIComponent(articleToolsShareData.description);
+}
+function getShareKeywords() {
+    return encodeURIComponent(articleToolsShareData.keywords);
+}
+function getShareSection() {
+    return encodeURIComponent(articleToolsShareData.section);
+}
+function getShareSubSection() {
+	return encodeURIComponent(articleToolsShareData.sub_section);
+}
+function getShareSectionDisplay() {
+    return encodeURIComponent(articleToolsShareData.section_display);
+}
+function getShareSubSectionDisplay() {
+    return encodeURIComponent(articleToolsShareData.sub_section_display);
+}
+function getShareByline() {
+    return encodeURIComponent(articleToolsShareData.byline);
+}
+function getSharePubdate() {
+    return encodeURIComponent(articleToolsShareData.pubdate);
+}
+function getSharePasskey() {
+    return encodeURIComponent(articleToolsShareData.passkey);
+}
+</script>
+
+<div id="articleToolsTop" class="articleTools">
+<div class="box">
+<div class="inset">
+<ul id="toolsList" class="toolsList wrap">
+<li class="email">
+
+<a id="emailThis" onClick="s_code_linktrack('Article-Tool-EmailSignIn');" 
+           href="http://www.nytimes.com/auth/login?URI=http://www.nytimes.com/slideshow/2011/12/04/arts/design/20111204-SPACES.html">Sign In to E-Mail</a>
+</li>
+<!--NYT_DYNAMIC_SPLITPAGE <li class="singlePage">-->
+<A HREF="/slideshow/2011/12/04/arts/design/20111204-SPACES.html?pagewanted=all"><!--NYT_DYNAMIC_SPLITPAGE Single Page--></a>
+<!--NYT_DYNAMIC_SPLITPAGE </li>-->
+</ul>
+</div>
+</div>
+</div>
+
+</div>
+<!--cur: prev:-->
+<div class="columnGroup last">				
+</div>
+</div><!--close abColumn -->
+<div class="cColumn">
+<div class="columnGroup  first">
+<div class="slideShowMetaModule module">
+<div class="insetH">
+<div class="legend">
+<div class="caption"><p>Michael Kimmelman writes: “What makes high-density neighborhoods pedestrian friendly? Good public space for starters. The best public spaces encourage diverse urban experiences, from people watching to protesting, daydreaming to handball, eating, reading and sunbathing to strolling and snoozing.”</p>
+<div class="singleRuleDivider"></div>
+<p>The public steps above the TKTS booth at Duffy Square.</p></div>	            <p class="credit">Credit: Richard Perry/The New York Times</p>	        </div><!--close legend -->
+</div><!--close insetH -->
+</div><!--close slideShowMetaModule -->
+</div> <!--close columnGroup first -->
+<div class="columnGroup  last">
+
+<div class="bigAd" id="BigAd3">
+<!-- ADXINFO classification="bigad" campaign="MFADegas_1762249_nyt10"--><script type="text/javascript">
+function pr_swfver(){
+var osf,osfd,i,axo=1,v=0,nv=navigator;
+if(nv.plugins&&nv.mimeTypes.length){osf=nv.plugins["Shockwave Flash"];if(osf&&osf.description){osfd=osf.description;v=parseInt(osfd.substring(osfd.indexOf(".")-2))}}
+else{try{for(i=5;axo!=null;i++){axo=new ActiveXObject("ShockwaveFlash.ShockwaveFlash."+i);v=i}}catch(e){}}
+return v;
+}
+var pr_d=new Date();pr_d=pr_d.getDay()+"|"+pr_d.getHours()+":"+pr_d.getMinutes()+"|"+-pr_d.getTimezoneOffset()/60;
+var pr_postal="";
+var pr_data="";
+var pr_redir="http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fadx%2Fbin%2Fadx%5Fclick%2Ehtml%3Ftype%3Dgoto%26opzn%26page%3Dwww.nytimes.com/interactive/yr/mo/day/arts%26pos%3DBigAd3%26camp%3DMFADegas%5F1762249%5Fnyt10%26ad%3Ddegas%5FBA%2Darts%5Fstates%5Fnov23%26sn2%3Dfec7d63/c3306f4f%26snr%3Ddoubleclick%26snx%3D1322848856%26sn1%3D78e429e6%2Fe6d6f1c7%26goto%3D$CTURL$";
+var pr_pos="";
+var prHost=(("https:"==document.location.protocol)?"https://":"http://");var pr_sec=((prHost=='https://')?'&secure=1':'');
+if(pr_postal!=""){var przipmatch=/^\d{5}$/;if(przipmatch.test(pr_postal)){pr_pos+="&postal="+pr_postal;}}
+if((pr_data!="")&&(pr_data.indexOf("&")<0)){pr_pos+="&data="+pr_data;}
+var pr_s="ads.pointroll.com/PortalServe/?pid=1438580M58420111004213420&flash="+pr_swfver()+"&time="+pr_d+"&redir="+pr_redir+pr_pos+pr_sec+"&r="+Math.random();
+document.write("<scr"+"ipt type='text/javascript' src='"+prHost+pr_s+"'></scr"+"ipt>");
+</script>
+<noscript><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/interactive/yr/mo/day/arts&pos=BigAd3&sn2=fec7d63/c3306f4f&sn1=4feee31a/243302e3&camp=MFADegas_1762249_nyt10&ad=degas_BA-arts_states_nov23&goto=ads.pointroll.com%2FPortalServe%2F%3Fpid%3D1438580M58420111004213420%26pos%3Dc%26r%3D15082"><img border="0" width="300" height="250" src="http://ads.pointroll.com/PortalServe/?pid=1438580M58420111004213420&pos=i&r=15082"></a></noscript>
+</div>
+
+</div>	
+</div><!--close cColumn -->
+</div><!--close spanAB -->
+<script type="text/javascript">
+                        writePost();
+                    </script>
+<script type="text/javascript">
+                    NYTD.Slideshow.Init("arts", "design");
+                </script>
+</div><!--close main -->
+<div id="footer">
+<div class="singleRuleThk inset insetHFullWidth">
+<ul class="first">
+<li class="first"><a href="http://www.nytimes.com">Home</a></li>
+<li><a href="http://www.nytimes.com/pages/arts/design/index.html">Art & Design</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&copy; 2011</a> <a href="http://www.nytco.com/">The New York Times Company</a></li>
+<li><a href="http://www.nytimes.com/privacy">Privacy Policy</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+<li><a href="https://careers.nytco.com/TAM/nyt_docs/TAM/candidate.html">Work for Us</a></li>
+<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+</ul>
+</div><!--close inset -->
+</div>
+</div><!--close page -->
+</div><!--close shell -->
+
+
+
+<div align="center">
+<!-- Audience Incite 300x250 Survey Banner Tag for NYTimes:
+Start Vizu Audience Incite Tag / 300x250 Survey Banner / NYTimes -->
+<iframe src="http://puma.vizu.com/cdn/00/00/29/73/incite_300x250.html?wc=NYTimes;" width="300" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+<!-- End Vizu Audience Incite Tag / 300x250 Survey Banner / NYTimes -->
+</div>
+
+
+
+
+
+<IMG SRC="/adx/bin/clientside/34801607Q2FhkQ3DQ23Q23Q3FQ5BQ22k0fB2Q2FQ3BCpQ3BkpCQ5BQ3BC" height="1" width="3">
+
+
+			
+		<!-- Start UPT call -->
+		<img height="1" width="3" border=0 src="http://up.nytimes.com/?d=0/11/7&t=4&s=0&ui=&r=&u=www%2enytimes%2ecom%2fslideshow%2f2011%2f12%2f04%2farts%2fdesign%2f20111204%2dSPACES%2ehtml%3f">
+		<!-- End UPT call -->
+	
+		
+        <script language="JavaScript"><!--
+          var dcsvid="";
+          var regstatus="non-registered";
+        //--></script>
+        <script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+        <noscript>
+          <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div>
+        </noscript>
+   
+</body>
+</html>
+
+

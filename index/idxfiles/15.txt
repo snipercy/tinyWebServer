@@ -1,0 +1,862 @@
+Content-Length: 154
+Connection: close
+yld: 105201984870173585
+Location: http://pan.baidu.com/error/404.html
+Set-Cookie: BAIDUID=9FB5466DEE4B5C1761F7F728529D29F9:FG=1; expires=Thu, 02-Jun-16 08:00:09 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+P3P: CP=" OTI DSP COR IVA OUR IND COM "
+Cache-Control: no-cache
+Server: nginx
+X-Powered-By: PHP/5.4.24
+Pragma: no-cache
+
+<html>
+<head><title>302 Found</title></head>
+<body bgcolor="white">
+<center><h1>302 Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+ETag: "4200253835"
+Accept-Ranges: bytes
+Last-Modified: Thu, 07 May 2015 03:48:26 GMT
+Vary: Accept-Encoding
+Date: Wed, 03 Jun 2015 08:12:53 GMT
+Server: BWS/1.0
+Content-Length: 9597
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>���ڰٶ�</title>
+<link href="http://home.baidu.com/resource/r/home/style.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="http://home.baidu.com/resource/r/home/menu.js"></script>
+<script src="http://home.baidu.com/resource/r/home/flash.js" language="javascript"></script>
+</head>
+
+<body>
+<!--������ʼ --><div id="head"><a href="http://www.baidu.com/"><img src="http://home.baidu.com/resource/r/home/img/logo-yy.gif" class="log"></a></div><!--�������� -->
+<table border="0" cellspacing="0" cellpadding="0" id="menu">
+  <tr>
+    <td><!--����������ʼ --><script language="javascript">menuTop(1);</script><noscript>������ر����������javascript�����ܵ���ҳ�沿�ֹ����޷���ʾ���뿪��javascript�Ա������������ҳ��</noscript><!--������������ -->
+</td>
+    <td width="240"><!--վ��������ʼ --><script>
+			function doSearch(form){
+				form.ct.value = "2097152";
+				form.si.value = "home.baidu.com";
+				form.tn.value = "baidulocal";
+				form.action = "http://www.baidu.com/s";
+				return true;
+			}
+function cls(tar){
+    if(tar.value==tar.getAttribute('defaultvalue')) tar.value="";
+}
+function res(tar){
+    if(tar.value=='') tar.value=tar.getAttribute('defaultvalue');
+}
+			document.write("<FORM name=f1 onsubmit='return doSearch(this);'>");
+			document.write("<INPUT type=hidden name=tn><INPUT type=hidden name=si><INPUT type=hidden name=ct>");
+			document.write("<INPUT class=formfont size=16 name=word style='border:1px solid #7f9db9;background:url(http://home.baidu.com/resource/r/home/img/dot6.gif) no-repeat;padding-left:28px;color: #cbcbcb' onfocus='cls(this);' onblur='res(this);' value=\"վ������\"  defaultvalue=\"վ������\" onClick= \"javascript:if(this.value=='վ������')this.value=''\";>&nbsp;");
+			document.write("<INPUT type=submit value=�ٶ�һ��>");
+		</script><!--վ���������� -->
+</td>
+  </tr>
+</table>
+<!--ҳ��banner��ʼ -->
+<div class="bnrInd">
+  <script language="javascript">
+	//��ʼ��Flashʱ������xml·��
+	CreateFlash("banner", "http://home.baidu.com/resource/r/home/banner.swf", 1002, 280, "data=http://home.baidu.com/inddata.xml");
+</script></div>
+<!--ҳ��banner���� -->
+
+<div id="main">
+  <div class="indLeft1"><span class="f14b">���Ŷ�̬</span>
+    <ul class="indLsit1">
+       
+<li><strong>05/04/2015</strong><br>
+<a href="http://home.baidu.com/2015-05-07/1438584574.html" target="_blank">������90�����ݵ��̽����� </a></li>
+       
+<li><strong>04/30/2015</strong><br>
+<a href="http://home.baidu.com/2015-05-07/1437879812.html" target="_blank">�ٶ�Q1ҵ������Ԥ�� �ƶ�Ӫ��ռ�ȴ�50%</a></li>
+       
+<li><strong>04/29/2015</strong><br>
+<a href="http://home.baidu.com/2015-05-07/1436956178.html" target="_blank">�ٶȹ���ʦ���ڵ�ѡ������ҵ��λȫ����ģ...</a></li>
+       
+<li><strong>04/27/2015</strong><br>
+<a href="http://home.baidu.com/2015-05-07/1431675600.html" target="_blank">�����֤����ݽ����ڴ��ٶȻع�����</a></li>
+       
+<li><strong>04/26/2015</strong><br>
+<a href="http://home.baidu.com/2015-05-07/1434683583.html" target="_blank">�ٶ��������ʾ�Ԯ��֯���Ჴ������</a></li>
+       
+<li><strong>04/15/2015</strong><br>
+<a href="http://home.baidu.com/2015-05-07/1437183904.html" target="_blank">�ٶ���������ͨ��ѧ�������������˲�ƽ̨</a></li>
+            <li><a href="http://home.baidu.com/news/news/">����&raquo;</a></li>
+    </ul>
+
+  </div>
+  
+  <div class="indLeft2">
+   <span class="f14b">�ٶ�ֱ��</span>
+   <ul class="indLsit2">
+        <li>��������
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+         <td><a href="http://www.baidu.com/search/page_feature.html" target="_blank">������ɫ>></a></td>
+         <td><a href="http://www.baidu.com/search/skill.html" target="_blank">��������>></a></td>
+         <td><a href="http://www.baidu.com/search/zhinan.html" target="_blank">����ָ��>></a></td>
+       </tr>
+   </table>
+</li>
+        <li>�û���ϵ
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+         <td><a href="http://home.baidu.com/contact.html" target="_blank">��ϵ��ʽ>></a></td>
+         <td><a href="http://home.baidu.com/contact/visitbaidu.html" target="_blank">�ι۰ٶ�>></a></td>
+         <td><a href="http://tousu.baidu.com/" target="_blank">Ͷ������>></a></td>
+       </tr>
+   </table>
+</li>
+        <li>��Ƹ��Ϣ
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+         <td><a href="http://hr.baidu.com/" target="_blank">�����Ƹ>></a></td>
+         <td><a href="http://tongxue.baidu.com/" target="_blank">У԰��Ƹ>></a></td>
+         <td><a href="http://shixisheng.baidu.com/" target="_blank">ʵϰ����Ƹ>></a></td>
+       </tr>
+   </table>
+</li>
+        <li>�ٶ��ƹ�
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+         <td><a href="http://e.baidu.com/client/" target="_blank">�ɹ�����>></a></td>
+         <td><a href="http://e.baidu.com/product/" target="_blank">��Ʒ����>></a></td>
+         <td><a href="http://e.baidu.com/faq/" target="_blank">��������>></a></td>
+       </tr>
+   </table>
+</li>
+        <li>Ʒ��Ӫ��
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+         <td><a href="http://brandlink.baidu.com/index.php" target="_blank">Ʒ��ר��>></a></td>
+         <td><a href="http://ad.baidu.com/fuwu_1_5.html" target="_blank">��׼���>></a></td>
+         <td><a href="http://ad.baidu.com/fuwu_1_4.html" target="_blank">����Ӫ��>></a></td>
+       </tr>
+   </table>
+</li>
+        <li>�ٶ�����
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+         <td><a href="http://union.baidu.com" target="_blank">��������>></a></td>
+         <td><a href="http://union.baidu.com/product/prod-cpro.html" target="_blank">ҵ�����>></a></td>
+         <td><a href="http://yingxiao.baidu.com/support/union/?controller=index&action=main&castk=LTE%3D" target="_blank">֧������>></a></td>
+       </tr>
+   </table>
+</li>
+        <li>�ٶ�У԰
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+         <td><a href="http://campus.baidu.com/activity" target="_blank">У԰�>></a></td>
+         <td><a href="http://campus.baidu.com/course" target="_blank">У԰�γ�>></a></td>
+         <td><a href="http://campus.baidu.com/pages/about" target="_blank">У԰��ϵ>></a></td>
+       </tr>
+   </table>
+</li>
+   </ul>
+    
+  </div>
+  <div class="indRight">
+       <ul class="indLsit3">
+        <li>
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="105"><img src="http://home.baidu.com/resource/r/image/2014-11-27/cded7324a878249049285f27093fb1db.jpg"></td>
+<td><a href="http://logo.baidu.com/" target="_blank" class="f14">�ٶ�Ȥ����ʽ���� </a><br>
+               ���ͰٶȽ���logo��Ϊ��ϲ���Ĵ�����ޣ������ٶ�Ȥ���� </td>
+            </tr>
+          </table>
+        </li>     <li>
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="105"><img src="http://home.baidu.com/resource/r/image/2012-12-11/33fc59dbb24ce61c883227031d958ba9.jpg"></td>
+<td><a href="http://edu.baidu.com/" target="_blank" class="f14">�ٶ�Ӫ����ѧ</a><br>
+               �ٶ�Ӫ����ѧ�ԡ���Ӫ���˶���������Ӫ����Ϊʹ�����������ƶ��й�Ӫ����Ա������Ӫ��ˮƽ�Ĳ���������</td>
+            </tr>
+          </table>
+        </li>
+        <li>
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="105"><img src="http://home.baidu.com/resource/r/image/2011-05-10/1467988a3a3e68edeb6ed07b33207f7f.jpg"></td>
+<td><a href="http://gongyi.baidu.com/" target="_blank" class="f14">�ֺ���Ϣ�蹵 ����֪ʶ���</a><br>
+               �ٶȹ���Ƶ��ȫ�����ߣ������ڼ��ϰٶ�����������������������ȫ�����Ĺ�����Ϣƽ̨�� </td>
+            </tr>
+          </table>
+        </li>
+      <li>
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="105"><img src="http://home.baidu.com/resource/r/image/2009-12-21/fd0b8c296e71ec60dbf899c06f8da3bb.gif"></td>
+<td><a href="http://campus.baidu.com/" target="_blank" class="f14">�ٶ�У԰��ʽ����
+</a><br>
+               �ٶ�У԰��������У԰��������չ����У԰ʦ���Ļ������ǰٶ���ѧУ��ͨ������</td>
+            </tr>
+          </table>
+        </li>
+    </ul>
+    </div>
+  <div class="clear"></div>
+</div><!--ҳ���������ӿ�ʼ --><div id="pgft"><div>
+<a href="http://gongyi.baidu.com/" target="_blank">�ٶȹ���</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="http://csr.baidu.com/" target="_blank">�������</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="http://ir.baidu.com/" target="_blank">About Baidu</a>
+</div></div><!--ҳ���������ӽ��� -->
+<!--ҳ�Ű�Ȩ��Ϣ��ʼ --><div id="ft">&copy;2014 Baidu <a href="http://www.baidu.com/duty/">ʹ�ðٶ�ǰ�ض�</a> <a href="http://www.miibeian.gov.cn" target="_blank">��ICP֤030173��</a> <img src="http://gimg.baidu.com/img/gs.gif"></div>
+<!--ҳ�Ű�Ȩ��Ϣ���� -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F42e7e1210aed7043d64111e71e0796af' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</body>
+</html>Connection: close
+X-Powered-By: PHP/5.3.3
+X-Drupal-Cache: HIT
+Etag: "1455798237-0"
+Content-Language: zh-hans
+Link: <http://e.baidu.com/>; rel="canonical",<http://e.baidu.com/>; rel="shortlink"
+Cache-Control: public, max-age=600
+Last-Modified: Thu, 18 Feb 2016 12:23:57 GMT
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Vary: Cookie
+Vary: Accept-Encoding
+
+<!doctype html>
+<html>
+<head>
+  <!--<meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">-->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://e.baidu.com/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="百度推广，依托百度近80%的中国搜索引擎市场份额和60万家联盟网站，打造了5.38亿网民和企业之间的供需连接平台，不仅让有需求的人便捷地找到适合自己的产品和服务，也让企业用少量投入就可以获得大量潜在客户、有效提升企业品牌影响力。免费咨询热线：400-800-8888。" />
+<meta name="keywords" content="百度推广,搜索推广,移动推广,网盟推广,品牌推广,社区营销,增效工具,百度推广服务,加入百度推广,免费注册百度推广,百度推广的优势,网络推广,网络营销,拓展新客户,我要做移动推广,提升企业品牌,发展O2O,百度效果营销解决方案,百度移动营销解决方案,百度品牌营销解决方案,百度O2O 解决方案,百度直通车" />
+<link rel="canonical" href="http://e.baidu.com/" />
+<link rel="shortlink" href="http://e.baidu.com/" />
+  <title>百度推广官方网站 | 让有需求的客户找到你</title>
+  <link type="text/css" rel="stylesheet" href="http://e.baidu.com/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://e.baidu.com/sites/default/files/css/css_botNHIYRQPys-RH2iA3U4LbV9bPNRS64tLAs8ec1ch8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://e.baidu.com/sites/default/files/css/css_g_UneL04I_By-JV5ryZJJWsDW1p5XeBj7jW6RhipZ48.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://e.baidu.com/sites/default/files/css/css_pkBy_LpYNsBi5GYZiXD_HFbs5ZDgtylXGCLi2x9UdEo.css" media="all" />
+
+</head>
+<body class="html front not-logged-in no-sidebars page-frontpage" >
+    <!--Start header-top-->
+<div class="header-top">
+    <div class="wrapper">
+                <div class="header-nav fl">
+                <div id="block-block-9" class="block block-block">
+
+      
+    <ul><li><a href="/localservice" title="百度推广代理商">代理商查询</a></li><li><a class="e-wx" href="javascript:;" title="百度推广官方微信">官方微信<span><img src="/sites/default/files/baidu_erweima.jpg" alt="百度推广官方微信" width="258" height="298" /></span></a></li><li><a href="http://weibo.com/2359359985" target="_blank" title="百度推广官方微博">官方微博</a></li><li><a href="/help" title="百度推广帮助中心">帮助中心</a></li><li class="last"><a href="http://wangdan.baidu.com/echannel/login.action" target="_blank">登录</a></li></ul></div>
+        </div>
+        
+                <div class="header-right fr">
+                <div id="block-block-1" class="block block-block">
+
+      
+    <p><label class="fl">免费咨询</label> <span class="phone400 font-din">400-800-8888</span> <a class="apply-btn" onclick="_hmt.push(['_trackEvent', 'applyfrom', 'click','页面顶部在线申请'])" id="applyID_top1" href="/apply">免费注册</a></p></div>
+        </div>
+            </div>
+</div>
+<!-- END header-top -->
+
+<!--Start header-->
+<div class="header">
+    <div class="wrapper">
+                    <div class="logo"><a href="/"><img src="http://e.baidu.com/sites/all/themes/ebaidu/logo.png" alt="百度推广"/></a></div>
+        
+                <div class="nav">
+            <ul class="links"><li class="menu-237 first active"><a href="/" class="active">首页</a></li>
+<li class="menu-365"><a href="/product" title="">产品与服务</a></li>
+<li class="menu-524"><a href="/solutions-client">解决方案</a></li>
+<li class="menu-1024"><a href="/cases">成功案例</a></li>
+<li class="menu-1025 last"><a href="/news">动态资讯</a></li>
+</ul>        </div>
+            </div>
+</div>
+<!-- END header -->
+
+
+<!--首页主要内容区域-->
+    <div id="block-system-main" class="block block-system">
+
+      
+    <div class="front-banner" id="frontBanner">
+
+        <ul>          <li class="">  
+          <a href="http://huodong.baidu.com/zhuanpan"><img src="http://e.baidu.com/sites/default/files/styles/banner1900x400/public/zhuanpan_0.jpg?itok=3J88_AIr" width="1900" height="400" alt="幸运大转盘，豪礼赚翻天" /></a>  </li>
+          <li class="">  
+          <a href="http://huodong.baidu.com/miaosha"><img src="http://e.baidu.com/sites/default/files/styles/banner1900x400/public/%E9%A6%96%E9%A1%B5banner2.jpg?itok=gS7UY6C4" width="1900" height="400" alt="温暖秒杀，0元做推广" /></a>  </li>
+          <li class="">  
+          <a href="/solutions"><img src="http://e.baidu.com/sites/default/files/styles/banner1900x400/public/4%281%29.jpg?itok=0hsH34Fo" width="1900" height="400" alt="百度推广专业解决方案，满足企业多元化营销需求" title="亿万网民，无限商机" /></a>  </li>
+          <li class="">  
+          <a href="/product"><img src="http://e.baidu.com/sites/default/files/styles/banner1900x400/public/3%281%29_0.jpg?itok=6qWSHx8R" width="1900" height="400" alt="百度推广，让有需求的客户找到您" title="您知道的百度，您不知道的百度推广" /></a>  </li>
+          <li class="">  
+          <a href="http://huodong.baidu.com/zhitongche"><img src="http://e.baidu.com/sites/default/files/styles/banner1900x400/public/2%281%29.jpg?itok=c6eQmYuz" width="1900" height="400" alt="百度大招：本地直通车全面招商" title="本地直通车" /></a>  </li>
+      </ul>
+    <div class="front-banner-nav"></div>
+
+    </div><div class="page page1">
+    <h2>百度推广，让营销更有效率</h2>
+    <div class="page-nav clearfix">
+        <a href="javascript:;" class="first active">我要拓展新客户</a>
+        <a href="javascript:;">我要做移动推广</a>
+        <a href="javascript:;">我要提升企业品牌</a>
+        <a href="javascript:;" class="last">我要发展O2O</a>
+    </div>
+<div class="yx-box" style="display: block">
+        <h3>您的客户，正在百度上找您</h3>
+        <p class="center">百度推广基于服务数十万中小企业的经验，深刻理解企业推广的真实需求，利用自身搜索技术、流量资源<br />等领先优势，将您的企业信息以丰富多彩的样式展现给有需求的客户，并促使其与您产生更多互动，最终<br />达成交易，从而有效地帮您拓展客户。</p>
+        <p class="center"><a href="/solutions-client" class="more1">进一步了解 &gt;</a></p>
+
+        <div class="cell5 wrapper client-develop clearfix">
+            <div class="cell5-content">
+                <span class="img"><img src="/sites/all/themes/ebaidu/images/c9.png" alt="展现" /></span>
+                <span class="title">展现</span>
+                <div class="cell-detail">
+<h4>展现</h4>
+                    <p>让亿万有需求的网民<br />看到您的产品或服务信息
+                    </p>
+                    <a href="/solutions-client#zhanxian">了解更多 &gt;</a>
+                </div>
+            </div>
+            <div class="cell5-content">
+                <span class="img"><img src="/sites/all/themes/ebaidu/images/c10.png" alt="点击" /></span>
+                <span class="title">点击</span>
+                <div class="cell-detail">
+<h4>点击</h4>
+                    <p>通过更好的创意形式，<br />吸引网民点击进一步了解
+                    </p>
+                    <a href="/solutions-client#dianji">了解更多 &gt;</a>
+                </div>
+            </div>
+            <div class="cell5-content">
+                <span class="img"><img src="/sites/all/themes/ebaidu/images/c11.png" alt="访问" /></span>
+                <span class="title">访问</span>
+                <div class="cell-detail">
+<h4>访问</h4>
+                    <p>网民产生兴趣，访问您的企业网站，更进一步了解详情</p>
+                    <a href="/solutions-client#fangwen">了解更多 &gt;</a>
+                </div>
+            </div>
+            <div class="cell5-content">
+                <span class="img"><img src="/sites/all/themes/ebaidu/images/c12.png" alt="咨询" /></span>
+                <span class="title">咨询</span>
+                <div class="cell-detail">
+<h4>咨询</h4>
+                    <p>网民通过在线、电话等方式与您的企业产生互动沟通</p>
+                    <a href="/solutions-client#zixun">了解更多 &gt;</a>
+                </div>
+            </div>
+            <div class="cell5-content">
+                <span class="img"><img src="/sites/all/themes/ebaidu/images/c13.png" alt="成交" /></span>
+                <span class="title">成交</span>
+                <div class="cell-detail">
+<h4>成交</h4>
+                    <p>最终促使网民与您的企业产生实际交易
+                    </p>
+                    <a href="/solutions-client#chengjiao">了解更多 &gt;</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="yx-box" style="display: none;">
+        <h3>百度移动推广，让客户随时随地找到您</h3>
+        <p class="center">利用百度移动平台的强大流量资源与用户资源，把您的企业信息即时地展现在有需求的移动用户面前，促<br />使用户关注您的企业产品与服务，并进一步与您的企业建立深入沟通，最终达成交易。</p>
+        <p class="center"><a href="/solutions" class="more1">进一步了解 &gt;</a></p>
+
+        <div class="cell4 wrapper clearfix">
+            <div class="cell4-content">
+                <span class="img"><img src="/sites/all/themes/ebaidu/images/c1.png" alt="随时随地推广" /></span>
+                <span class="title">随时随地推广</span>
+                <div class="cell-detail">
+                    <p>移动时代商机无时无处<br />不在；百度移动推广，<br />让客户随时随地找到您</p>
+                    <a href="/solutions#any">了解更多 &gt;</a>
+                </div>
+            </div>
+            <div class="cell4-content">
+                <span class="img"><img src="/sites/all/themes/ebaidu/images/c2.png" alt="精准人群展现" /></span>
+                <span class="title">精准人群展现</span>
+                <div class="cell-detail">
+                    <p>移动终端支持位置、性别、<br />爱好等多纬度的人群定向，<br />让百度移动推广更精准
+                    </p>
+                    <a href="/solutions#jzrq">了解更多 &gt;</a>
+                </div>
+            </div>
+            <div class="cell4-content">
+                <span class="img"><img src="/sites/all/themes/ebaidu/images/c3.png" alt="多种组件促进转化" /></span>
+                <span class="title">多种组件促进转化</span>
+                <div class="cell-detail">
+                    <p>电话直航、电话回呼、APP下载、<br />地图导航等多种组件促进转化，<br />让成交更加容易</p>
+                    <a href="/solutions#dzzj">了解更多 &gt;</a>
+                </div>
+            </div>
+            <div class="cell4-content">
+                <span class="img"><img src="/sites/all/themes/ebaidu/images/c4.png" alt="满足多样业务需求" /></span>
+                <span class="title">满足多样业务需求</span>
+                <div class="cell-detail">
+                    <p>立即申请、立即预约、立即注册<br />等丰富样式满足多种业务需求，<br />让百度移动推广更具针对性
+                    </p>
+                    <a href="/solutions#ywxq">了解更多 &gt;</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="yx-box">
+        <h3>是品牌，总会被百度搜索</h3>
+        <p class="center">在亿万网民搜索您的品牌或相关内容时，百度推广即时展现您的品牌信息，帮您树立品牌形象，发挥品牌<br />在互联网上“营销收口”的核心功能；根据企业不同发展阶段的需求，以文字、图片、视频等丰富的创意<br />形式，让网民有效地认识您、了解您、喜欢您及信任您！</p>
+        <p class="center"><a href="/solutions-brand" class="more1">进一步了解 &gt;</a></p>
+
+        <div class="cell4 wrapper clearfix">
+            <div class="cell4-content">
+                <span class="img"><img src="/sites/all/themes/ebaidu/images/c5.png" alt="让客户知道您" /></span>
+                <span class="title">让客户知道您</span>
+                <div class="cell-detail">
+                    <p>
+                        问答营销、知识营销将推广信息与内容融为一体，无形中让客户更喜欢您！
+                    </p>
+                    <a href="/solutions-brand#zdn">了解更多 &gt;</a>
+                </div>
+            </div>
+            <div class="cell4-content">
+                <span class="img"><img src="/sites/all/themes/ebaidu/images/c6.png" alt="让客户了解您" /></span>
+                <span class="title">让客户了解您</span>
+                <div class="cell-detail">
+                    <p>品牌名片、品牌起跑线图文并茂，首位展现，帮助客户快速认识您！</p>
+                    <a href="/solutions-brand#ljn">了解更多 &gt;</a>
+                </div>
+            </div>
+            <div class="cell4-content">
+                <span class="img"><img src="/sites/all/themes/ebaidu/images/c7.png" alt="让客户喜欢您" /></span>
+                <span class="title">让客户喜欢您</span>
+                <div class="cell-detail">
+                    <p>品牌专区尊享更丰富的样式，传达更全面的信息，让客户全面了解您！</p>
+                    <a href="/solutions-brand#xhn">了解更多 &gt;</a>
+                </div>
+            </div>
+            <div class="cell4-content">
+                <span class="img"><img src="/sites/all/themes/ebaidu/images/c8.png" alt="让客户信任您" /></span>
+                <span class="title">让客户信任您</span>
+                <div class="cell-detail">
+                    <p>企业百科官方信息发布，权威信息背书，让客户毋庸置疑信任您！</p>
+                    <a href="/solutions-brand#xrn">了解更多 &gt;</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="yx-box">
+        <h3>百度O2O ，连接3600行</h3>
+        <p class="center">百度本地直通车以移动搜索推广及应用推荐的方式，将商户的推广信息精准地展现给周边5-30公里内有需<br />求的顾客，以多种创意团单吸引顾客在商户的网上店铺页面完成在线交易，从而帮助本地服务商户轻松<br />“找到顾客”、“收到钱”！</p>
+        <p class="center"><a href="/solutions-o2o" class="more1">进一步了解 &gt;</a></p>
+
+        <div class="cell2 clearfix">
+            <div class="cell2-content">
+                <span class="img"><img src="/sites/all/themes/ebaidu/images/c14.png" alt="帮您找到顾客" /></span>
+                <span class="title">帮您找到顾客</span>
+                <div class="cell-detail">
+                    <p>方圆十里，一网打尽，精准推广三大应用，优先推荐，随处可见</p>
+                    <a href="/solutions-o2o#zdgk">了解更多 &gt;</a>
+                </div>
+            </div>
+            <div class="cell2-content">
+                <span class="img"><img src="/sites/all/themes/ebaidu/images/c15.png" alt="帮您收到钱" /></span>
+                <span class="title">帮您收到钱</span>
+                <div class="cell-detail">
+                    <p>网上店铺，轻松享有，无需建站线上接单，预先收费，减少流失</p>
+                    <a href="/solutions-o2o#sdq">了解更多 &gt;</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div class="page blue">
+    <h4>百度推广帮助中心，帮您快速开启精准营销之旅！</h4>
+    <a href="/help" class="more3">了解百度推广 &gt;</a>
+</div><div class="page gray">
+    <h2>仅需四步，即可开启</h2>
+    <div class="wrapper step">
+        <div class="step4"><span class="img"><img src="/sites/all/themes/ebaidu/images/s1.png" alt="提交企业信息" /></span><span class="title">提交企业信息</span></div>
+        <div class="gap"></div>
+        <div class="step4"><span class="img"><img src="/sites/all/themes/ebaidu/images/s2.png" alt="营销顾问电话沟通" /></span><span class="title">营销顾问电话沟通</span></div>
+        <div class="gap"></div>
+        <div class="step4"><span class="img"><img src="/sites/all/themes/ebaidu/images/s3.png" alt="签订推广合同" /></span><span class="title">签订推广合同</span></div>
+        <div class="gap"></div>
+        <div class="step4"><span class="img"><img src="/sites/all/themes/ebaidu/images/s4.png" alt="上线优化推广" /></span><span class="title">上线优化推广</span></div>
+    </div>
+    <p class="center"><a onclick="_hmt.push(['_trackEvent', 'applyfrom', 'click', '首页在线申请'])" href="/apply" id="homeApplyID" class="blue-btn">立即在线申请</a></p>
+    <p class="submsg">专业客服，为您等候</p>
+</div><div class="front-banner" id="stepBanner">
+
+        <ul>          <li class="">  
+          <a href="/node/129"><img src="http://e.baidu.com/sites/default/files/styles/banner1900x500/public/%E9%A6%96%E9%A1%B5%E6%A1%88%E4%BE%8B1_0.png?itok=UnHq46vA" width="1900" height="500" alt="一个村庄与世界的互联" /></a>   </li>
+          <li class="">  
+          <a href="/node/90"><img src="http://e.baidu.com/sites/default/files/styles/banner1900x500/public/%E9%A6%96%E9%A1%B5%E6%A1%88%E4%BE%8B3_0.png?itok=Qc11mXlC" width="1900" height="500" alt="让文化绽放光芒" /></a>   </li>
+      </ul>
+    <div class="front-banner-nav"></div>
+    <a href="javascript:;" class="prev"></a>
+    <a href="javascript:;" class="next"></a>
+
+    </div><div class="page" style="padding-bottom: 0;">
+    <h2>
+        他们都在用百度推广
+    </h2>
+    <ul class="p3 wrapper list-paddingleft-2"><li>
+            <div class="font-din">
+                <span class="p font-din">100</span><span class="font-din">%</span>
+            </div>
+            <p>
+                福布斯中国企业排行榜TOP10正在使用百度推广
+            </p>
+        </li>
+        <li>
+            <div class="font-din">
+                <span class="p font-din">623000家</span><span class="font-plus">+</span>
+            </div>
+            <p>
+                正在使用百度推广的企业
+            </p>
+        </li>
+        <li>
+            <div class="font-din">
+                <span class="p font-din">59</span><span class="font-din">%</span><span class="font-plus">+</span>
+            </div>
+            <p>
+                创业板企业正在使用百度推广
+            </p>
+        </li>
+    </ul></div>
+<div class="scroll-partner wrapper">
+    <ul class=" list-paddingleft-2"><li>
+            <table><tbody><tr class="firstRow"><td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452069927102959.jpg" title="1452069927102959.jpg" alt="logo-1.jpg" /></td>
+                        <td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452069938163318.jpg" title="1452069938163318.jpg" alt="logo-2.jpg" /></td>
+                        <td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452069947628110.jpg" title="1452069947628110.jpg" alt="logo-3.jpg" /></td>
+                        <td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452069955312098.jpg" title="1452069955312098.jpg" alt="logo-4.jpg" /></td>
+                        <td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452069963311732.jpg" title="1452069963311732.jpg" alt="logo-5.jpg" /></td>
+                        <td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452069973886475.jpg" title="1452069973886475.jpg" alt="logo-6.jpg" /></td>
+                    </tr><tr><td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452069987506317.jpg" title="1452069987506317.jpg" alt="logo-7.jpg" /></td>
+                        <td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452069998441468.jpg" title="1452069998441468.jpg" alt="logo-8.jpg" /></td>
+                        <td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452070009886522.jpg" title="1452070009886522.jpg" alt="logo-9.jpg" /></td>
+                        <td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452070019876472.jpg" title="1452070019876472.jpg" alt="logo-10.jpg" /></td>
+                        <td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452070029304462.jpg" title="1452070029304462.jpg" alt="logo-11.jpg" /></td>
+                        <td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452070039167748.jpg" title="1452070039167748.jpg" alt="logo-12.jpg" /></td>
+                    </tr><tr><td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452070053972625.jpg" title="1452070053972625.jpg" alt="logo-13.jpg" /></td>
+                        <td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452070061377027.jpg" title="1452070061377027.jpg" alt="logo-14.jpg" /></td>
+                        <td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452070069437643.jpg" title="1452070069437643.jpg" alt="logo-15.jpg" /></td>
+                        <td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452070078201022.jpg" title="1452070078201022.jpg" alt="logo-16.jpg" /></td>
+                        <td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452070085979247.jpg" title="1452070085979247.jpg" alt="logo-17.jpg" /></td>
+                        <td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452070092352799.jpg" title="1452070092352799.jpg" alt="logo-18.jpg" /></td>
+                    </tr></tbody></table></li>
+        <li>
+            <table><tbody><tr class="firstRow"><td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452070112641417.jpg" title="1452070112641417.jpg" alt="logo-19.jpg" /></td>
+                        <td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452070122466597.jpg" title="1452070122466597.jpg" alt="logo-20.jpg" /></td>
+                        <td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452070129791439.jpg" title="1452070129791439.jpg" alt="logo-21.jpg" /></td>
+                        <td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452070137272771.jpg" title="1452070137272771.jpg" alt="logo-22.jpg" /></td>
+                        <td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452070146778553.jpg" title="1452070146778553.jpg" alt="logo-23.jpg" /></td>
+                        <td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452070154101037.jpg" title="1452070154101037.jpg" alt="logo-24.jpg" /></td>
+                    </tr><tr><td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452070164977299.jpg" title="1452070164977299.jpg" alt="logo-25.jpg" /></td>
+                        <td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452070171994926.jpg" title="1452070171994926.jpg" alt="logo-26.jpg" /></td>
+                        <td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452070179392199.jpg" title="1452070179392199.jpg" alt="logo-27.jpg" /></td>
+                        <td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452070188289296.jpg" title="1452070188289296.jpg" alt="logo-28.jpg" /></td>
+                        <td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452070196436191.jpg" title="1452070196436191.jpg" alt="logo-29.jpg" /></td>
+                        <td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452070203609871.jpg" title="1452070203609871.jpg" alt="logo-30.jpg" /></td>
+                    </tr><tr><td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452070216866381.jpg" title="1452070216866381.jpg" alt="logo-31.jpg" /></td>
+                        <td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452070224392181.jpg" title="1452070224392181.jpg" alt="logo-32.jpg" /></td>
+                        <td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452070234777464.jpg" title="1452070234777464.jpg" alt="logo-33.jpg" /></td>
+                        <td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452070241498498.jpg" title="1452070241498498.jpg" alt="logo-34.jpg" /></td>
+                        <td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452070250893474.jpg" title="1452070250893474.jpg" alt="logo-35.jpg" /></td>
+                        <td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452070257828277.jpg" title="1452070257828277.jpg" alt="logo-36.jpg" /></td>
+                    </tr></tbody></table></li>
+        <li>
+            <table><tbody><tr class="firstRow"><td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452070270671005.jpg" title="1452070270671005.jpg" alt="logo-37.jpg" /></td>
+                        <td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452070277238592.jpg" title="1452070277238592.jpg" alt="logo-38.jpg" /></td>
+                        <td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452070285118244.jpg" title="1452070285118244.jpg" alt="logo-39.jpg" /></td>
+                        <td>
+                            <img src="/sites/default/files/ueditor/1/upload/image/20160106/1452070292528933.jpg" title="1452070292528933.jpg" alt="logo-40.jpg" /></td>
+                        <td></td>
+                        <td></td>
+                    </tr><tr><td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr><tr><td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr></tbody></table></li>
+    </ul><a class="prev" href="javascript:;"> </a> <a class="next" href="javascript:;"> </a>
+</div></div>
+<!--END 首页主要内容区域-->
+
+
+<div id="layer"></div>
+
+<!--Start 在线申请-->
+    <div class="page footer-apply-form">
+            <div id="block-block-24" class="block block-block">
+
+      
+    <h2>免费注册百度推广</h2>
+<p class="apply-form-msg" style="font-size: 14px;">留下您的联系信息，我们会有专业营销顾问与您联系，一对一为您详细介绍百度推广相关产品和服务，帮您更高效的开展网络营销。</p>
+    <iframe name="frameHIDDEN" id="submitFrame" style="display:none"></iframe>
+    <form method="post" target="frameHIDDEN" action="http://wangdan.baidu.com/netorderimport/onlineApplicationSubmit.action" id="registForm" onsubmit="return checkApplyForm();" class="sq">
+<input type="hidden" name="referer" id="referer" /><input type="hidden" name="refer" value="106" id="wdRefer" /><ul class="clearfix"><li>
+                <span class="must">联系人姓名</span>
+                <input type="text" name="contactName" id="contactName" placeholder="填写推广负责人的真实姓名" class="init" size="30" maxlength="20" rel="em2" /></li>
+            <li class="tr">
+                <span class="must">联系人手机</span>
+                <input type="text" name="contactCell" id="contactCell" class="init" size="30" maxlength="12" /></li>
+
+ <li>
+                <span class="must">公司所在地</span>
+                <select class="province" name="currProvId" id="currProv"><option value="" style="display: none">省份</option></select><select class="city" name="currCityId" id="currCity" style="display: none"></select><div class="clear"></div>
+            </li>
+            <li class="tr">
+                <span class="must">公司名称</span>
+                <input type="text" name="companyName" id="companyName" class="done" size="30" maxlength="100" rel="em1" /></li>
+            <li>
+                <span>公司网址</span>
+                <input type="text" name="companyUrl" id="companyUrl" maxlength="180" rel="em4" class="init" /></li>
+
+            <li class="tr">
+                <span>电子邮箱</span>
+                <input name="email" id="email" size="30" maxlength="50" rel="em1" type="text" class="init" /></li>
+        </ul><button class="a-blue" type="submit" onclick="_hmt.push(['_trackEvent', 'apply_submit', 'click', '页面底部点击提交按钮次数']);">立即注册</button>
+    </form>
+
+
+<div class="submit-success" id="applySuccess">
+	<a href="javascript:;" class="close" onclick="hideDialog('applySuccess')" id="applyID_submitClose">×</a>
+	<h2>恭喜您提交成功</h2>
+	<p>百度推广咨询员会以官方电话 <span class="font-din">010-57835388</span><br />进行回拨，请您注意接听，谢谢</p>
+	<div class="center">
+		<a href="/help" class="blue-btn" id="applyID_submitCase">了解产品</a>
+	</div>
+</div></div>
+    </div>
+<!--END 在线申请-->
+
+<div class="page-bottom">
+    <!--Start 免费咨询-->
+        <!--END 免费咨询-->
+
+    <div class="bottom-region wrapper clearfix">
+                <div class="footer-nav">
+                <div id="block-menu-menu-pro" class="block block-menu">
+
+        <h2>产品与服务</h2>
+    
+    <ul class="menu clearfix"><li class="first leaf"><a href="/product" class="pro1" title="">搜索推广</a></li>
+<li class="leaf"><a href="/product-brand" class="pro4">品牌推广</a></li>
+<li class="leaf"><a href="/product-mobile" class="pro2">移动推广</a></li>
+<li class="leaf"><a href="/product-net" class="pro3">网盟推广</a></li>
+<li class="leaf"><a href="/product-community" class="pro5">社区营销</a></li>
+<li class="last leaf"><a href="/product-tools" class="pro6">增效工具</a></li>
+</ul></div>
+<div id="block-menu-menu-solution" class="block block-menu">
+
+        <h2>解决方案</h2>
+    
+    <ul class="menu clearfix"><li class="first leaf"><a href="/solutions-client">拓展新客户</a></li>
+<li class="leaf"><a href="/solutions">做移动推广</a></li>
+<li class="leaf"><a href="/solutions-brand">提升企业品牌</a></li>
+<li class="last leaf"><a href="/solutions-o2o">发展O2O</a></li>
+</ul></div>
+<div id="block-menu-menu-cases" class="block block-menu">
+
+        <h2>成功案例</h2>
+    
+    <ul class="menu clearfix"><li class="first leaf"><a href="/cases#dqcx">按地区</a></li>
+<li class="leaf"><a href="/cases#hycx">按行业</a></li>
+<li class="last leaf"><a href="/cases#zmqy">知名企业</a></li>
+</ul></div>
+<div id="block-menu-menu-news" class="block block-menu">
+
+        <h2>动态资讯</h2>
+    
+    <ul class="menu clearfix"><li class="first leaf"><a href="/news">新闻动态</a></li>
+<li class="last leaf"><a href="/news">活动专题</a></li>
+</ul></div>
+<div id="block-menu-menu-help" class="block block-menu">
+
+        <h2>帮助与支持</h2>
+    
+    <ul class="menu clearfix"><li class="first leaf"><a href="/help">常见问题</a></li>
+<li class="last leaf"><a href="/localservice">代理商查询</a></li>
+</ul></div>
+<div id="block-block-5" class="block block-block">
+
+        <h2>关注我们</h2>
+    
+    <p>
+    <img src="/sites/all/themes/ebaidu/images/qrcode.jpg" alt="qrcode.jpg" /></p></div>
+        </div>
+        
+                <div class="contact">
+                <div id="block-block-7" class="block block-block">
+
+      
+    <p><span class="phoneno font-din"> 400-800-8888 </span> <label>全国免费咨询电话</label> <a class="mail" href="mailto:ask@baidu.com"><span>ask@baidu.com</span></a></p><div class="wb"><a class="sina" title="腾讯微博" href="http://weibo.com/u/2359359985" target="_blank"> </a></div></div>
+        </div>
+            </div>
+</div>
+
+<div class="footer">
+        <div id="block-block-6" class="block block-block">
+
+      
+    <p>©2014 Baidu 使用百度必读 国家药监局：（京）-经营性-2012-0009</p>
+</div>
+</div>
+
+
+
+<!-- 右边浮动条 -->
+    <div class="right-float-bar">
+            <div id="block-block-8" class="block block-block">
+
+      
+    <p><a class="online-apply" href="javascript:;" onclick="_hmt.push(['_trackEvent', 'applyfrom', 'click','浮动免费注册']); showDialog('applyPop')"><span>免费<br />注册</span></a> <a class="service" href="javascript:;"><span>免费<br />咨询</span></a> <span class="tip font-din"><em> </em>400-800-8888</span><a class="top" title="置顶" onclick="toTop()" href="javascript:;"> </a></p></div>
+    </div>
+
+<!--Start 在线申请 弹框-->
+            <div id="block-block-25" class="block block-block">
+
+      
+    <div class="pop-form" id="applyPop">
+    <a href="javascript:;" class="close" onclick="hideDialog('applyPop')">&times;</a>
+    <div class="pop-form-main" style="display: block;">
+        <h2>免费注册百度推广</h2>
+<p class="apply-form-msg">留下您的联系信息，我们会有专业营销顾问与您联系，一对一为您详细介绍百度推广相关产品和服务，帮您更高效的开展网络营销。</p>
+        <iframe name="frameHIDDEN2" id="submitFrame2" style="display:none"></iframe>
+        <form id="registForm2" class="sq">
+            <input type="hidden" name="companyUrl2" id="companyUrl2" rel="em4" class="init" />
+            <input name="email2" id="email2"  rel="em1" type="hidden" class="init" />
+            <ul class="clearfix">
+                <li>
+                    <span class="must">联系人姓名</span>
+                    <input type="text" name="contactName2" id="contactName2" placeholder="填写推广负责人的真实姓名" class="init" size="30" maxlength="20" rel="em2">
+                </li>
+                <li>
+                    <span class="must">联系人手机</span>
+                    <input type="text" name="contactCell2" id="contactCell2" class="init" size="30" maxlength="12">
+                </li>
+                <li>
+                    <span class="must">公司所在地</span>
+                    <select class="province" name="currProvId2" id="currProv2">
+                        <option value="" style="display: none">省份</option>
+                    </select>
+                    <select class="city" name="currCityId2" id="currCity2" style="display: none"></select>
+                    <div class="clear"></div>
+                </li>
+                <li>
+                    <span class="must">公司名称</span>
+                    <input type="text" name="companyName2" id="companyName2" class="done" size="30" maxlength="100" rel="em1">
+                </li>
+            </ul>
+            <button class="a-blue" type="button" onclick="_hmt.push(['_trackEvent', 'apply_submit', 'click', '点击弹框提交按钮次数']); checkApplyForm2();" id="applySubmitID2">立即注册</button>
+        </form>
+    </div>
+
+
+    <div class="submit-success" id="applySuccess2" style="display: none;">
+        <h2>恭喜您提交成功</h2>
+        <p>百度推广咨询员会以官方电话 <span class="font-din">010-57835388</span><br>进行回拨，请您注意接听，谢谢</p>
+        <div class="center">
+            <a href="/help" class="blue-btn">了解产品</a>
+        </div>
+    </div>
+</div>
+
+<div id="Phoenix_form_style_iframe">&nbsp;</div></div>
+<!--END 在线申请 弹框-->
+  <script type="text/javascript" src="http://e.baidu.com/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://e.baidu.com/sites/default/files/js/js_JHwDCcO0RL5SfJbT0VUh-or6C5aXRDO5rAeyxfX5ECU.js"></script>
+<script type="text/javascript" src="http://e.baidu.com/sites/default/files/js/js_Kpt1_i9kPUjxxYQBkHYs0T9m1E0gNKMIOSDAW-FfiE8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ebaidu","theme_token":"lqRTz4iLaDOoY8DaPVoQz0UQl5fPYDhLzRKpw9oxu4o","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"public:\/\/languages\/zh-hans_Pdhu9gucDWrhIKSuhQPpWepIhCmD8WnU7kpndwJ6bog.js":1,"sites\/all\/themes\/ebaidu\/js\/jquery.js":1,"sites\/all\/themes\/ebaidu\/js\/jquery.placeholder.min.js":1,"sites\/all\/themes\/ebaidu\/js\/cycle.js":1,"sites\/all\/themes\/ebaidu\/js\/common.js":1,"sites\/all\/themes\/ebaidu\/js\/main.js":1,"sites\/all\/themes\/ebaidu\/js\/applyform.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/themes\/ebaidu\/layouts\/front\/front.css":1,"sites\/all\/themes\/ebaidu\/css\/style.css":1}}});
+//--><!]]>
+</script>
+  <script type="text/javascript" src="http://e.baidu.com/api/applyform2.js"></script>
+  <script>
+      var _hmt = _hmt || [];
+      (function() {
+          var hm = document.createElement("script");
+          hm.src = "//hm.baidu.com/hm.js?1f3202d820180a39f736f20fce790de8";
+          var s = document.getElementsByTagName("script")[0];
+          s.parentNode.insertBefore(hm, s);
+      })();
+  </script>
+  <script type='text/javascript'>
+      (function(a,b,c,d){
+          a[c]=function(){a[c]['ar']=a[c]['ar']||[];a[c]['ar'].push(arguments);};
+          var s=b.createElement('script');s.async = 1;s.src='//t.agrantsem.com/js/agt.js';
+          var r=b.getElementsByTagName('script')[0];r.parentNode.insertBefore(s,r);
+      })(window,document,'_agtjs','script');
+      _agtjs('init','AG_807183_SJYF','baidu.com');/*请将$网站主域$(包括“$”)替换为您嵌入代码的真实主域，例如：agrantsem.com*/
+      _agtjs('trackPv');
+      _agtjs('loadEvent',{atsev:101,'atsusr':'contactName'});
+      /* 请将$用户名$(包括“$”)替换为真实的用户名*/
+      /*需要绑定元素是指绑定页面元素的id或者class，分别用“#”和“.”选择，多个元素用“,”分割*/
+      /*关于参数，例如用户名，订单号等，需要填写注册的用户名或者订单号的参数，一般是您页面上取到的用户注册的用户名或生成的订单号*/
+  </script>
+  <script type="text/javascript">
+      var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+      document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ff4ab48039007f7608fe164e019ce90ca' type='text/javascript'%3E%3C/script%3E"))
+  </script>
+</body>
+</html>

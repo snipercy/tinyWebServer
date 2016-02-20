@@ -1,0 +1,3 @@
+Location: http://www.nytimes.com/glogin?URI=http://www.nytimes.com/2011/12/02/education/on-long-island-sat-cheating-was-hardly-a-secret.html&OQ=_rQ3D1Q26hp&OP=7b68ca0bQ2FQ2B,!WQ2BQ20ZQ26gyZZ-FQ2BFQ23iiQ2BiFQ2BQ23FQ2B!Q20.Q26V-(ZxQ2BZxBeZxzB(geVxQ20BgV-BQ26c!V-(xzB,VgBcVyQ20eQ2ABVBg!Q26y!-dc-te
+Connection: keep-alive
+

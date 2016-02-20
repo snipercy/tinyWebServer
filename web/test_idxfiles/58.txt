@@ -1,0 +1,957 @@
+Set-cookie: RMID=0c62dc7e25cf4ed9132ea153; expires=Saturday, 01-Dec-2012 18:04:30 GMT; path=/; domain=.nytimes.com
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Set-cookie: adxcs=s*2814e=0:1; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Crosswords, Games &amp; Cartoons - The New York Times</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="noarchive">
+<meta name="description" content="Solve the weekly New York Times Crossword Puzzle and play numerous games for free or subscribe to Premium Crosswords and enjoy the daily Crossword Puzzle online." />
+<meta name="keywords" content="Brain,Memory,Crossword Puzzles,Shortz, Will,Puzzles,Science and Technology,Svidler, Peter,Kramnik, Vladimir,Carlsen, Magnus,Moscow (Russia),Karjakin, Sergey,Chess,Beijing (China),Women's World Chess Championship,Koneru, Humpy,India,Chess,Hou Yifan,Bridge (Card Game),Cards and Card Games,Washington Square Park (NYC),New York City,Union Square (NYC),Chess,Photography,Chess,Fischer, Bobby" />
+<meta name="asset_id" content="">
+<meta name="CG" content="crosswords">
+<meta name="SCG" content="">
+<meta name="PT" content="Section Front">
+<meta name="PST" content="">
+<link rel="canonical" href="http://www.nytimes.com/pages/crosswords/index.html">
+<meta name="msapplication-starturl" content="http://www.nytimes.com/" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.nytimes.com/services/xml/rss/nyt/CrosswordGames.xml"/>
+
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/build/sectionfront/crosswords/styles.css" />
+<link rel="stylesheet" type="text/css" media="print" href="http://graphics8.nytimes.com/css/0.1/print/styles.css">
+<!--[if IE]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie.css);
+	    </style>
+	<![endif]-->
+<!--[if IE 6]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie6.css);
+	    </style>
+	<![endif]-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/DropDown.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/util/tooltip.js"></script>
+<script type="text/JavaScript">
+		var static_kw = "Brain;Memory;Crossword Puzzles;Shortz; Will;Puzzles;Science and Technology;Svidler; Peter;Kramnik; Vladimir;Carlsen; Magnus;Moscow (Russia);Karjakin; Sergey;Chess;Beijing (China);Women's World Chess Championship;Koneru; Humpy;India;Chess;Hou Yifan;Bridge (Card Game);Cards and Card Games;Washington Square Park (NYC);New York City;Union Square (NYC);Chess;Photography;Chess;Fischer; Bobby";
+		var dynamic_kw = "Brain;Memory;Crossword+Puzzles;Shortz;+Will;Puzzles;Science+and+Technology;Svidler;+Peter;Kramnik;+Vladimir;Carlsen;+Magnus;Moscow+%28Russia%29;Karjakin;+Sergey;Chess;Beijing+%28China%29;Women%27s+World+Chess+Championship;Koneru;+Humpy;India;Chess;Hou+Yifan;Bridge+%28Card+Game%29;Cards+and+Card+Games;Washington+Square+Park+%28NYC%29;New+York+City;Union+Square+%28NYC%29;Chess;Photography;Chess;Fischer;+Bobby";
+		var nyt_google_contents = dynamic_kw + static_kw;
+		var nyt_google_ad_channel = "crosswords";
+	</script>
+<script type="text/javascript" src="http://use.typekit.com/fml4qar.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" src="http://js.nyt.com/js2/build/sitewide/sitewide.js"></script>
+<script type="text/javascript" src="http://js.nyt.com/js/app/lib/jquery/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+</head>
+<body>
+<a name="top"></a>
+<div id="shell">
+
+<ul id="memberTools">
+
+ 
+                        <li><a id="memberToolsLogin" href="https://myaccount.nytimes.com/auth/login">Log In</a></li>
+            <li><a href="https://myaccount.nytimes.com/gst/regi.html">Register Now</a></li>
+                            
+
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+</ul>
+<div class="tabsContainer">
+<ul id="mainTabs" class="tabs">
+<li class="first mainTabHome"><a href="http://www.nytimes.com">Home Page</a></li>
+<li class="mainTabTodaysPaper"><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+<li class="mainTabVideo"><a href="http://www.nytimes.com/video">Video</a></li>
+<li class="mainTabMostPopular"><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+<li class="mainTabTimesTopics"><a href="http://topics.nytimes.com/top/reference/timestopics">Times Topics</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+</script>	<div id="page" class="tabContent active">
+<div class="clearfix" id="masthead">
+
+<div class="singleAd" id="Middle1C">
+<!-- ADXINFO classification="button" campaign="ING_DirectSiteSearchQ111_1694929-nyt1"--><A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/crosswords/index.html&pos=Middle1C&sn2=595061fe/a64a0ea8&sn1=59756299/46b02203&camp=ING_DirectSiteSearchQ111_1694929-nyt1&ad=NEW.88x31.SiteSearch.Wizard&goto=http://ad.doubleclick.net/jump/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.30" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.30"
+ BORDER=0 WIDTH=88 HEIGHT=31
+ ALT="Click Here"></A>
+</div>
+
+<div id="searchWidget">
+<div class="inlineSearchControl">
+<form enctype="application/x-www-form-urlencoded" action="http://query.nytimes.com/search/sitesearch" method="get" name="searchForm" id="searchForm">
+<input type="hidden" value="full" name="date_select"/>
+<label for="searchQuery">Search All NYTimes.com</label>
+<input type="text" class="text" value="" size="" name="query" id="searchQuery"/>
+<input type="hidden" id="searchAll" name="type" value="nyt"/>
+<input type="image" id="searchSubmit" title="Search" alt="Search" width="22" height="19" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"/>
+</form>
+</div>
+</div>
+
+<div id="branding" >
+<a href="http://www.nytimes.com"><img src="http://graphics8.nytimes.com/images/misc/nytlogo152x23.gif" alt="New York Times" id="NYTLogo"/></a>
+</div>
+
+<div id="date">
+<p>
+Friday, December  2, 2011
+</p>
+</div>
+
+<h2>
+<a href="http://www.nytimes.com/pages/crosswords/index.html">Crosswords & Games</a>
+</h2>
+
+</div>
+<div class="navigation tabsContainer">
+<ul class="tabs">
+<li id="navWorld" class="first ">
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>	<li id="navUs" >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>	<li id="navNyregion" >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>	<li id="navBusiness" >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>	<li id="navTechnology" >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>	<li id="navScience" >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>	<li id="navHealth" >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>	<li id="navSports" >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>	<li id="navOpinion" >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>	<li id="navArts" >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>	<li id="navStyle" >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>	<li id="navTravel" >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>	<li id="navJobs" >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>	<li id="navRealestate" >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>	<li id="navAutomobiles" >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li></ul>
+</div>
+
+<div id="main">
+<div class="spanAB wrap">
+<div class="wideA">
+<div class="abColumn">
+<div id="spanABTopRegion">
+<div class="columnGroup first">
+
+<div class="premiumCrosswordsModule">
+<div class="box blue">
+<div class="crosswordGridContainer">
+<div class="opposingFloatControl wrap">
+<div class="element1">
+<h1 class="premiumCrosswordsGraphicHeader"><span class="hideTxt">Premium Crosswords</span></h1>
+</div>
+<div class="element2">
+ <p class="refer inset">
+                        <a id="subscribeurl" href="http://www.nytimes.com/auth/login">Already a Subscriber? <strong>Click Here &#187;</strong></a>
+                    </p> 
+</div>
+</div>
+</div>
+<div class="inset">
+<div class="subColumn-3 wrap module">
+<div class="column firstColumn">
+<div class="insetH">
+<div class="buySubscriptionModule">
+<div class="box white flushBottom">
+<div class="inset">
+<h5 class="meta">Annual Subscription*</h5>
+<span class="subscriptionPrice important">$39.95</span>
+<a class="applicationButton buyNowButton" href="https://myaccount.nytimes.com/mem/purchase/gateway/checkout.html?OC=100201">Buy Now</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="column">
+<div class="insetH">
+<div class="buySubscriptionModule">
+<div class="box white flushBottom">
+<div class="inset">
+<h5 class="meta">Monthly Subscription*</h5>
+<span class="subscriptionPrice important">$6.95</span>
+<a class="applicationButton buyNowButton" href="https://myaccount.nytimes.com/mem/purchase/gateway/checkout.html?OC=100202">Buy Now</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="column lastColumn">
+<div class="insetH">
+<div class="buySubscriptionModule">
+<div class="box white flushBottom">
+<div class="inset">
+<h5 class="meta">One Year Gift Subscription</h5>
+<span class="subscriptionPrice important">$39.95</span>
+<a class="applicationButton buyNowButton" href="https://myaccount.nytimes.com/gst/purchase_gc.html?OC=100001">Buy Now</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="inset">
+<h2>Subscription Includes:</h2>
+</div>
+<div class="subColumn-3 wrap module">
+<div class="column firstColumn">
+<div class="insetH">
+<ul class="multiline">
+<li>Today's puzzle, available in Across Lite format or a print-friendly PDF</li>
+<li>5,000+ archival puzzles and solutions, including acrostics, cryptics and other specialty puzzles</li>
+</ul>
+</div>
+</div>
+<div class="column">
+<div class="insetH">
+<ul class="multiline">
+<li>Play against the Clock: Time yourself and see how you stack up</li>
+<li>Play with a friend!: Collaborate in real-time to solve with a friend</li>
+</ul>
+</div>
+</div>
+<div class="column lastColumn">
+<div class="insetH">
+<ul class="multiline">
+<li>Online-only monthly bonus puzzles</li>
+<li>Classic Puzzle Challenge: Challenge a friend, or yourself, to solve legendary puzzles from the archive.</li>
+</ul>
+<p class="refer insetH"><a href="http://www.nytimes.com/content/help/games/crosswords/crosswords.html">Frequently Asked Questions &raquo;</a></p>
+</div>
+</div>
+</div>
+<div class="singleRuleDivider module insetH"></div>
+<div class="insetH">
+<p class="disclaimer"><i>* Annual and monthly subscriptions are automatically renewed.  Standard U.S. tax rates will apply and international rates may vary.</i></p>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+	window.setTimeout(function() {
+	  var subscribeurl = document.getElementById('subscribeurl');
+	  if (subscribeurl) {
+		subscribeurl.href += "?URI=" + window.location.href;
+	  }
+	}, 0)
+</script>     
+<div class="doubleRuleDivider"></div>
+</div><!--end div.columnGroup -->
+</div><!--end #spanABTopRegion.opening -->
+<div class="aColumn">
+<!--cur:StandardThumbPremium prev:-->
+<div class="columnGroup first">
+	</div>
+<!--cur:StandardThumbNonPremium prev:StandardThumbPremium-->
+<div class="columnGroup ">
+<h6 class="sectionHeader">Sunday Puzzles</h6><div class="story">
+<p class="summary">
+You can now download and print the popular variety puzzles from the Sunday magazine free online.
+</p>
+<p class="summary">
+Look below for links to this week’s puzzle as well as answers to last week’s.
+</p>
+<ul>
+<li> 
+<a onmousedown="dcsMultiTrack('DCS.dcssip','www.nytimes.com','DCS.dcsuri','/pdf/xword/varietypuzzle.pdf','WT.ti','Crosswords Variety Puzzle','WT.cg_n','Crosswords/Games','WT.z_gpt','Games','WT.z_gpst','Crosswords','WT.z_dcsm','0');" href="http://graphics8.nytimes.com/packages/pdf/xword/varietypuzzle.pdf">This Week's Variety Puzzle</a> 
+(PDF)
+</li> 
+<li> 
+<a onmousedown="dcsMultiTrack('DCS.dcssip','www.nytimes.com','DCS.dcsuri','/pdf/xword/variety_ans.pdf','WT.ti','Crosswords Variety Puzzle Answers','WT.cg_n','Crosswords/Games','WT.z_gpt','Games','WT.z_gpst','Crosswords','WT.z_dcsm','0');" href="http://graphics8.nytimes.com/packages/pdf/xword/variety_ans.pdf">Last week's variety puzzle solution</a> 
+(PDF)
+</li> 
+<li> 
+<a onmousedown="dcsMultiTrack('DCS.dcssip','www.nytimes.com','DCS.dcsuri','/pdf/xword/sunday_ans.pdf','WT.ti','Crosswords Sunday Puzzle Answers','WT.cg_n','Crosswords/Games','WT.z_gpt','Games','WT.z_gpst','Crosswords','WT.z_dcsm','0');" href="http://graphics8.nytimes.com/packages/pdf/xword/sunday_ans.pdf">Last week's Sunday puzzle solution</a> 
+(PDF)
+</li>
+</ul>
+</div>	</div>
+<!--cur:StandardThumbPremium prev:StandardThumbNonPremium-->
+<div class="columnGroup ">
+	</div>
+<!--cur:StandardThumb prev:StandardThumbPremium-->
+<div class="columnGroup ">
+<div class="singleRuleDivider"></div><div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/ref/crosswords/classicpuz.html?ref=crosswords">
+<img src="http://graphics8.nytimes.com/images/standalone/crossword/crossword.gif" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/ref/crosswords/classicpuz.html?ref=crosswords">
+Classic Puzzle From the Archive</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Enjoy this weekly puzzle from our online archive, updated every Monday.</p>
+</div>
+<div class="singleRuleDivider"></div><div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/02/20/magazine/memory-games.html?ref=crosswords">
+<img src="http://graphics8.nytimes.com/images/2011/02/20/magazine/75-game-callout.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/02/20/magazine/memory-games.html?ref=crosswords">
+<span class="media icon interactive">Interactive Feature: </span>
+Total Recall</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Test your memorization skills with games from the World Memory Championship.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/interactive/2011/02/20/magazine/mind-secrets.html">Related Article: Secrets of a Mind-Gamer</a>
+</li>
+</ul>
+</div>
+<!--STYLESHEET - do not touch below! -->
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/blogs/3.1/screen/themes/gambit/style.css" media="screen" />
+<!--STYLESHEET - do not touch above! -->
+<div id="aCol">
+<div class="inline module game">
+<h2><img src="http://graphics8.nytimes.com/images/blogs/gambit/gamereplays.jpg" alt="Game Replays" /></h2>
+<div class="module">
+<h5>Loss</h5>
+<h3>Humpy Koneru</h3>
+<p class="match"><img src="http://graphics8.nytimes.com/images/blogs/gambit/match.jpg" alt="vs" /></p>
+<h5>Win</h5>
+<h3>Hou Yifan</h3>
+<a onclick="nytchess=window.open('http://ChessMagnetSchool.com/gambit/nytchess.php?mode=game&dataset=42&first=1254','nytchess','height=620,width=860,resizable'); return false" href="http://ChessMagnetSchool.com/gambit/nytchess.php?mode=game&dataset=42&first=1254" target="_blank"><strong>Replay the game »</strong></a>
+</div>
+<div class="module">
+<h5>Loss</h5>
+<h3>Humpy Koneru</h3>
+<p class="match"><img src="http://graphics8.nytimes.com/images/blogs/gambit/match.jpg" alt="vs" /></p>
+<h5>Win</h5>
+<h3>Hou Yifan</h3>
+<a onclick="nytchess=window.open('http://ChessMagnetSchool.com/gambit/nytchess.php?mode=game&dataset=42&first=1255','nytchess','height=620,width=860,resizable'); return false" href="http://ChessMagnetSchool.com/gambit/nytchess.php?mode=game&dataset=42&first=1255" target="_blank"><strong>Replay the game »</strong></a>
+</div>
+</div>
+</div><div class="singleRuleDivider"></div><div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2010/12/07/science/20101207_crossword.html?ref=crosswords">
+<img src="http://graphics8.nytimes.com/images/2010/12/07/science/07crossword/07crossword-thumbStandard-v2.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2010/12/07/science/20101207_crossword.html?ref=crosswords">
+<span class="media icon interactive">Interactive Feature: </span>
+Science Times Crossword</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A “Wednesday” level crossword edited by Will Shortz, The New York Times puzzle editor, on social scientists.</p>
+<ul class="refer">
+<li><a href="http://graphics8.nytimes.com/packages/pdf/science/1207_Crossword_Puzzle.pdf"><img src="http://graphics8.nytimes.com/images/multimedia/icons/document_icon.gif" alt="Documents" border="0" height="12" width="10"> PDF Version</a> | <a href="http://www.nytimes.com/specials/puzzles/SciencePuzzle.puz"> Across Lite Version</a></li>
+<li><a href="http://www.npr.org/2010/12/08/131909788/solving-puzzles-satisfies-the-nimble-brain" target="new"><img src="http://graphics8.nytimes.com/images/multimedia/icons/audio_icon.gif" alt="Audio" width="13" height="10" border="0"> NPR's Talk of the Nation: Solving Puzzles Satisfies The Nimble Brain</a></li>
+</ul>
+</div>
+<div class="singleRuleDivider"></div><div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/kenken/?ref=crosswords">
+<img src="http://graphics8.nytimes.com/images/2010/07/20/crosswords/kenken75.gif" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/kenken/?ref=crosswords">
+Play KENKEN</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Play what Will Shortz calls “the most addictive puzzle since Sudoku.” Exclusively on NYTimes.com, new puzzles daily.</p>
+</div>
+<div class="singleRuleDivider"></div><div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/ref/crosswords/setpuzzle.html?ref=crosswords">
+<img src="http://graphics8.nytimes.com/images/2007/12/19/crosswords/set75.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/ref/crosswords/setpuzzle.html?ref=crosswords">
+SET Puzzle</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Play SET! The popular card game of visual perception is now available on NYTimes.com. Four daily puzzles.</p>
+</div>
+<div class="singleRuleDivider"></div><div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/ref/crosswords/sudoku/easy.html?ref=crosswords">
+<img src="http://graphics8.nytimes.com/images/standalone/crossword/sudoku.gif" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/ref/crosswords/sudoku/easy.html?ref=crosswords">
+Sudoku</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Solve a daily sudoku puzzle that matches your level of expertise.</p>
+</div>
+<div class="singleRuleDivider"></div>	</div>
+<!--cur:StandardThumb prev:StandardThumb-->
+<div class="columnGroup last">
+<h6 class="sectionHeader">From the Learning Network</h6><div class="story">
+<h3><a href="http://learning.blogs.nytimes.com/2011/11/21/student-crossword-giving/">Crossword for Young Solvers: Giving</a></h3>
+<h6 class="byline">By FRANK LONGO</h6>
+<p class="refer"><a href="http://learning.blogs.nytimes.com/student-crossword-archive/"> Learning Network Puzzle Archive »</a></p>
+</div>
+<div class="story">
+<h3><a href="http://learning.blogs.nytimes.com/category/news-quiz/">Daily News Quiz</a></h3>
+</div>
+<div class="story">
+<h3><a
+  href="http://learning.blogs.nytimes.com/category/test-yourself/">Test Yourself: Question of the Day</a></h3>
+</div>
+</div>
+<div id="adxSponLink" class="columnGroup singleRule"></div>
+</div><!--close .aColumn -->
+<div class="bColumn">
+<div class="columnGroup SectionFront3Col first">
+    
+</div>
+<div class="columnGroup ">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://wordplay.blogs.nytimes.com/" title="Wordplay">
+<img src="http://graphics8.nytimes.com/images/blogs_v3/wordplay/wordplay190.gif" alt="Wordplay"/>
+</a> 
+</h3> 	<a href="http://wordplay.blogs.nytimes.com/" title="Wordplay">
+<img src="http://graphics8.nytimes.com/images/blogs_v3/wordplay/wordplay75.gif" alt="Wordplay" class="thumbnail"/>
+</a> <div class="story first">
+<h3><a href="http://wordplay.blogs.nytimes.com/2011/12/01/water/?ref=crosswords">Friday: Ones Who Might Get You Into Hot Water</a></h3>
+<p class="date">December 1, 2011 <span class="timestamp">10:00 PM ET</span></p>
+</div><div class="story">
+<h3><a href="http://wordplay.blogs.nytimes.com/2011/11/30/weasel/?ref=crosswords">Thursday: Pop Goes the Weasel</a></h3>
+<p class="date">November 30, 2011 <span class="timestamp"></span></p>
+</div><div class="story">
+<h3><a href="http://wordplay.blogs.nytimes.com/2011/11/30/redecorating/?ref=crosswords">We're Redecorating!</a></h3>
+<p class="date">November 30, 2011 <span class="timestamp"></span></p>
+</div><p class="refer">
+<a href="http://wordplay.blogs.nytimes.com/" title="Go to the Crosswords Blog">Go to the Crosswords Blog &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule ">
+<div class="story">
+<h6 class="kicker">Chess</h6>
+<h3><a href="http://www.nytimes.com/2011/11/27/crosswords/chess/chess-tal-memorial-marked-by-memorable-draws.html?ref=crosswords">
+Inventive or Error Filled, Draws Have Their Charms</a></h3>
+<h6 class="byline">
+By DYLAN LOEB McCLAIN	    </h6>
+<p class="summary">
+The recent Tal Memorial tournament in Moscow featured an unusual number of draws, some of which were more exciting than the outright victories.</p>
+</div>
+<div class="refer"><a href="http://topics.nytimes.com/topics/reference/timestopics/subjects/c/chess/index.html">More Chess Columns &raquo;</a></div>    
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">More Chess News</h6><div class="story">
+<h3><a href="http://www.nytimes.com/2011/11/25/crosswords/chess/hou-yifan-of-china-repeats-as-womens-chess-champion.html?ref=crosswords">
+17-Year-Old From China Repeats as Women’s Chess Champ</a></h3>
+<h6 class="byline">
+By DYLAN LOEB McCLAIN	    </h6>
+<p class="summary">
+Hou Yifan easily defended her title against Humpy Koneru, the best Indian woman to play the game, at a tournament in Albania.</p>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="story">
+<h6 class="kicker">Bridge</h6>
+<h3><a href="http://www.nytimes.com/2011/12/01/crosswords/bridge/winners-at-fall-nationals-in-seattle-bridge.html?ref=crosswords">
+Knockout Hinges on Decision: Ruff or Discard?</a></h3>
+<h6 class="byline">
+By PHILLIP ALDER	    </h6>
+<p class="summary">
+At the Fall Nationals in Seattle, two major events were decided on Monday.</p>
+</div>
+<div class="refer"><a href="http://topics.nytimes.com/topics/reference/timestopics/subjects/b/bridge_card_game/index.html">More Bridge Columns &raquo;</a></div>    
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<div class="columnGroup first">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/slideshow/2011/10/23/nyregion/20111123VISUALss.html?ref=crosswords">
+<img src="http://graphics8.nytimes.com/images/2011/10/23/nyregion/20111123VISUALss-slide-6EEU/20111123VISUALss-slide-6EEU-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay slideshow">Slide Show</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/slideshow/2011/10/23/nyregion/20111123VISUALss.html?ref=crosswords">
+Have Board, Will Hustle. Your Move.</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A small army of hustlers scratch out a living by playing chess in New York City.</p>
+</div>
+</div>
+<div class="columnGroup singleRule last">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/slideshow/2011/06/19/nyregion/20110619VISUALss.html?ref=crosswords">
+<img src="http://graphics8.nytimes.com/images/2011/06/19/nyregion/20110619VISUALss-slide-UC76/20110619VISUALss-slide-UC76-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay slideshow">Slide Show</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/slideshow/2011/06/19/nyregion/20110619VISUALss.html?ref=crosswords">
+A View of a Chess Genius</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+The photographer Harry Benson befriended the eccentric American chess champion Bobby Fischer in 1971. A book with Mr. Benson’s photographs of Mr. Fischer is being released this month.</p>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="story">
+<div class="thumbnail">
+<a href="http://mgames.nytimes.com/?ref=crosswords">
+<img src="http://graphics8.nytimes.com/images/2009/05/14/crosswords/75x75_icon.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://mgames.nytimes.com/?ref=crosswords">
+Crosswords for Mobile Devices</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+New York Times crosswords are now available for iPhone, BlackBerry and other devices.</p>
+</div>
+<div class="singleRuleDivider"></div><div class="story">
+<h6 class="kicker">Times Topics</h6>
+<h3><a href="http://topics.nytimes.com/top/reference/timestopics/subjects/c/crossword_puzzles/index.html?ref=crosswords">
+Crossword Puzzles</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Five free Times crossword puzzles, links to Web resources and more. </p>
+</div>
+</div>
+<div class="columnGroup doubleRule last">
+
+
+</div>
+</div><!--close .bColumn -->
+</div><!--close .abColumn -->
+<div class="cColumn">
+<!--Ads  -->                    <div class="columnGroup first">
+
+</div>
+<!--StandardThumb Ads -->                    <div class="columnGroup ">
+
+<div class="columnGroup">
+<h3 class="sectionHeader">MAC OSX LION USERS</h3>
+<div class="story">
+<p class="summary">If you are a Mac OSX user, please update your Across Lite version to 2.1. A free download is available here: <a href="http://www.litsoft.com/across/alite/download/">http://www.litsoft.com/across/alite/download/</a></p>
+</div>
+</div>
+<div class="singleRuleDivider"></div>
+<script language="javascript" type="text/javascript">
+Event.observe(window, 'load', function() {
+ if($$('#puzzleArchiveList .puzzleMonth')[0].innerHTML == "October 21") {
+  $$('#puzzleArchiveList .puzzleLink')[0].childElements()[0].remove();
+ }
+});
+</script>        	</div>
+<!--StandardThumb StandardThumb -->                    <div class="columnGroup ">
+<h6 class="sectionHeader">Today’s Cartoons</h6>
+<div class="subColumn-2 todaysCartoonsModule">
+<div class="column">
+<div class="columnGroup">
+<div class="story">
+<h5><a href="http://www.uclick.com/client/nyt/db/">Doonesbury</a></h5>
+<div class="w162">
+<a href="http://www.uclick.com/client/nyt/db/"><img src="http://graphics8.nytimes.com/images/blogs/laughlines/doonesbury162.jpg" alt="Doonesbury" /></a>
+</div>
+</div>
+</div>
+<div class="columnGroup">
+<div class="story">
+<div class="runaroundRight"><a href="http://www.uclick.com/client/nyt/ta"><img src="http://graphics8.nytimes.com/images/blogs/laughlines/auth_50.jpg" alt="Tony Auth"></a></div>
+<h5><a href="http://www.uclick.com/client/nyt/ta">Tony Auth</a></h5>
+</div>
+</div>
+<div class="columnGroup">
+<div class="story">
+<div class="runaroundRight"><a href="http://www.uclick.com/client/nyt/jd"><img src="http://graphics8.nytimes.com/images/blogs/laughlines/danziger_50.jpg" alt="Jeff Danziger"></a></div>
+<h5><a href="http://www.uclick.com/client/nyt/jd">Jeff Danziger</a></h5>
+</div>
+</div>
+<div class="columnGroup flushBottom">
+<div class="story">
+<div class="runaroundRight"><a href="http://www.uclick.com/client/nyt/gm"><img alt="Glenn McCoy" src="http://graphics8.nytimes.com/images/blogs/laughlines/mccoy_50.jpg"></a></div>
+<h5><a href="http://www.uclick.com/client/nyt/gm">Glenn McCoy</a></h5>
+</div>
+</div>
+</div><!--END .column -->
+<div class="column lastColumn">
+<div class="columnGroup">
+<div class="story">
+<h5><a href="http://www.uclick.com/client/nyt/rk/">Rudy Park</a></h5>
+<div class="w162">
+<a href="http://www.uclick.com/client/nyt/rk/"><img src="http://graphics8.nytimes.com/images/blogs/laughlines/rudypark162.jpg" alt="Rudy Park" /></a>
+</div>
+</div>
+</div>
+<div class="columnGroup">
+<div class="story">
+<div class="runaroundRight"><a href="http://www.uclick.com/client/nyt/po"><img src="http://graphics8.nytimes.com/images/blogs/laughlines/oliphant_50.jpg" alt="Pat Oliphant"></a></div>
+<h5><a href="http://www.uclick.com/client/nyt/po">Pat Oliphant</a></h5>
+</div>
+</div>
+<div class="columnGroup">
+<div class="story">
+<div class="runaroundRight"><a href="http://www.uclick.com/client/nyt/bs"><img src="http://graphics8.nytimes.com/images/blogs/laughlines/sargent_50.jpg" alt="Ben Sargent"></a></div>
+<h5><a href="http://www.uclick.com/client/nyt/bs">Ben Sargent</a></h5>
+</div>
+</div>
+<div class="columnGroup flushBottom">
+<div class="story">
+<div class="runaroundRight"><a href="http://www.uclick.com/client/nyt/tt"><img src="http://graphics8.nytimes.com/images/blogs/laughlines/toles_50.jpg" alt="Tom Toles"></a></div>
+<h5><a href="http://www.uclick.com/client/nyt/tt">Tom Toles</a></h5>
+</div>
+</div>
+</div><!--END .lastColumn -->
+</div><!--END .subColumn-2 -->        	</div>
+<!--Ads StandardThumb -->                    <div class="columnGroup ">
+
+			
+<div class="bigAd" id="SFMiddle">
+<!-- ADXINFO classification="bigad" campaign="Google_ADay20Widgets-1771500-nyt2"--><iframe width="300"height="250" src="http://agoogleaday.com/embed.html" frameborder="0"></iframe>
+<A HREF="http://ad.doubleclick.net/jump/N5295.276948.NYTIMES/B5719316.5;sz=1x1;ord=2011.12.02.18.04.30?"><IMG SRC="http://ad.doubleclick.net/ad/N5295.276948.NYTIMES/B5719316.5;sz=1x1;ord=2011.12.02.18.04.30?" BORDER=0 WIDTH=1 HEIGHT=1 ALT="Advertisement"></A>
+</div>
+
+
+
+<div class="singleAd" id="Box3">
+<!-- ADXINFO classification="feature_squares" campaign="nyt2011-regilite-P2-ticketwatch"--><IFRAME title="regilite" src="https://myaccount.nytimes.com/regilite?product=TR" width="336" height="90" marginheight="0" marginwidth="0" frameborder="0" vspace="0" hspace="0" scrolling="no"></IFRAME> 
+
+</div>
+
+
+</div>
+<!--Ads Ads -->                    <div class="columnGroup ">
+			
+
+
+
+
+<!--[TwoColumnAdLeft - Begin] -->
+<!--[TwoColumnAdLeft - End] -->
+<div class="advertisementColumnGroup">
+<!--[MarketPlaceGridAd - Begin] -->
+
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+    <!--[MarketPlaceGridAd - End] -->
+</div>
+</div>
+<!--Ads Ads -->                    <div class="columnGroup last">
+
+<div class="singleAd" id="Feature1">
+<!-- ADXINFO classification="hp-module" campaign="feature1-1280FifthAve-18-1712178-cla"--><!--Ad Template Begins Here -->
+<div class="story advertisement">
+<div class="callout">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/crosswords/index.html&pos=Feature1&sn2=400712c7/d8841a58&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/15/ad.271512/7.23.11_BRK11-2614_1280_nyt.com_module_update2.jpg" width="173" height="98" border="0" alt="Click for Details"></a>
+</div>
+<h5>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/crosswords/index.html&pos=Feature1&sn2=400712c7/d8841a58&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank"></a>
+</h5>
+<p class="summary"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/crosswords/index.html&pos=Feature1&sn2=400712c7/d8841a58&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank">Designed by<br>Robert&nbsp;&nbsp;A.M. Stern<br>Overlooking Central Park<br>Up to 5 Bedrooms</a></p>
+<div class="adCreative">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/crosswords/index.html&pos=Feature1&sn2=400712c7/d8841a58&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/15/ad.271512/5.19.11_1280_logo_78x36.jpg" width="78" height="36"></a>
+</div>
+</div>
+<!--Ad Template Ends Here -->
+</div>
+
+
+</div>
+</div><!--close cColumn -->
+</div><!--close wideA -->
+</div><!--close spanAB -->
+</div><!--close main -->
+<div id="footer">
+<ul class="first">
+<li class="first"><a href="http://www.nytimes.com">Home</a></li>
+<li >
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li>
+<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+</ul>    <ul>
+<li class="first"><a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&copy; 2011</a> <a href="http://www.nytco.com/">The New York Times Company</a></li>
+<li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Terms of Service</a></li>
+<li class="termsOfSale"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+<li><a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a></li>
+<li><a class="rssButton" href="http://www.nytimes.com/rss">RSS</a></li>
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+<li><a href="http://www.nytco.com/careers">Work for Us</a></li>
+<li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+</ul>
+</div>
+</div><!--close page -->
+</div><!--close shell -->
+
+
+
+
+
+
+
+<IMG SRC="/adx/bin/clientside/68042bd2Q2Fv2E1h!Q3C26yQ5B2E11RoQ3Ah-!oQ3A" height="1" width="3">
+
+<script type="text/javascript" language="JavaScript">
+// Written by /usr/local/knews/bin/commentcount.pl Fri Dec  2 13:02:02 2011
+var NYTArticleCommentCounts = {
+"100000001190843":{count:147, commentsEnabled:false},
+"100000001190858":{count:204, commentsEnabled:false},
+"100000001190907":{count:49, commentsEnabled:false},
+"100000001191255":{count:237, commentsEnabled:false},
+"100000001191704":{count:133, commentsEnabled:false},
+"100000001191724":{count:100, commentsEnabled:false},
+"100000001191950":{count:122, commentsEnabled:false},
+"100000001192133":{count:307, commentsEnabled:false},
+"100000001192329":{count:76, commentsEnabled:false},
+"100000001190961":{count:19, commentsEnabled:false},
+"100000001177231":{count:1, commentsEnabled:true},
+"100000001177245":{count:74, commentsEnabled:true},
+"100000001179958":{count:24, commentsEnabled:false},
+"100000001180322":{count:227, commentsEnabled:true},
+"100000001183078":{count:44, commentsEnabled:false},
+"100000001183080":{count:327, commentsEnabled:false},
+"100000001183081":{count:7, commentsEnabled:false},
+"100000001183084":{count:235, commentsEnabled:false},
+"100000001183087":{count:11, commentsEnabled:false},
+"100000001183089":{count:14, commentsEnabled:false},
+"100000001183090":{count:11, commentsEnabled:false},
+"100000001183091":{count:3, commentsEnabled:false},
+"100000001183094":{count:14, commentsEnabled:false},
+"100000001184186":{count:79, commentsEnabled:false},
+"100000001184524":{count:149, commentsEnabled:false},
+"100000001186117":{count:1, commentsEnabled:false},
+"100000001186193":{count:12, commentsEnabled:true},
+"100000001186569":{count:190, commentsEnabled:false},
+"100000001189184":{count:49, commentsEnabled:false},
+"100000001190721":{count:71, commentsEnabled:false},
+"100000001191577":{count:224, commentsEnabled:false},
+"100000001191688":{count:28, commentsEnabled:false},
+"100000001191719":{count:107, commentsEnabled:false},
+"100000001191931":{count:121, commentsEnabled:false},
+"100000001191985":{count:110, commentsEnabled:false},
+"100000001192057":{count:211, commentsEnabled:false},
+"100000001192188":{count:141, commentsEnabled:false},
+"100000001192496":{count:52, commentsEnabled:false},
+"100000001192500":{count:206, commentsEnabled:false},
+"100000001192600":{count:224, commentsEnabled:false},
+"100000001192611":{count:167, commentsEnabled:false},
+"100000001193250":{count:67, commentsEnabled:false},
+"100000001193262":{count:37, commentsEnabled:false},
+"100000001193344":{count:98, commentsEnabled:false},
+"100000001193527":{count:27, commentsEnabled:false},
+"100000001193629":{count:10, commentsEnabled:false},
+"100000001193702":{count:17, commentsEnabled:false},
+"100000001193743":{count:108, commentsEnabled:false},
+"100000001193763":{count:516, commentsEnabled:false},
+"100000001193825":{count:86, commentsEnabled:false},
+"100000001193857":{count:48, commentsEnabled:false},
+"100000001193859":{count:160, commentsEnabled:false},
+"100000001193890":{count:117, commentsEnabled:false},
+"100000001193920":{count:44, commentsEnabled:false},
+"100000001193944":{count:303, commentsEnabled:false},
+"100000001193948":{count:7, commentsEnabled:false},
+"100000001194088":{count:51, commentsEnabled:false},
+"100000001194098":{count:17, commentsEnabled:true},
+"100000001194137":{count:109, commentsEnabled:false},
+"100000001194342":{count:159, commentsEnabled:false},
+"100000001194394":{count:68, commentsEnabled:false},
+"100000001194454":{count:36, commentsEnabled:false},
+"100000001194795":{count:192, commentsEnabled:false},
+"100000001194808":{count:628, commentsEnabled:false},
+"100000001194892":{count:125, commentsEnabled:false},
+"100000001195360":{count:33, commentsEnabled:false},
+"100000001195689":{count:178, commentsEnabled:false},
+"100000001195802":{count:10, commentsEnabled:false},
+"100000001195854":{count:304, commentsEnabled:false},
+"100000001195914":{count:48, commentsEnabled:false},
+"100000001195920":{count:17, commentsEnabled:false},
+"100000001195923":{count:44, commentsEnabled:false},
+"100000001195938":{count:138, commentsEnabled:false},
+"100000001195940":{count:10, commentsEnabled:false},
+"100000001195947":{count:92, commentsEnabled:false},
+"100000001195952":{count:162, commentsEnabled:false},
+"100000001195976":{count:141, commentsEnabled:false},
+"100000001195982":{count:283, commentsEnabled:false},
+"100000001196229":{count:42, commentsEnabled:false},
+"100000001196250":{count:104, commentsEnabled:true},
+"100000001196432":{count:333, commentsEnabled:false},
+"100000001196658":{count:42, commentsEnabled:false},
+"100000001196737":{count:28, commentsEnabled:true},
+"100000001196861":{count:18, commentsEnabled:false},
+"100000001196955":{count:71, commentsEnabled:true},
+"100000001196963":{count:143, commentsEnabled:false},
+"100000001197064":{count:68, commentsEnabled:false},
+"100000001197489":{count:3, commentsEnabled:false},
+"100000001197999":{count:75, commentsEnabled:false},
+"100000001198014":{count:290, commentsEnabled:false},
+"100000001198050":{count:69, commentsEnabled:true},
+"100000001198076":{count:32, commentsEnabled:true},
+"100000001198092":{count:204, commentsEnabled:false},
+"100000001198110":{count:424, commentsEnabled:false},
+"100000001198123":{count:343, commentsEnabled:false},
+"100000001198126":{count:62, commentsEnabled:false},
+"100000001198138":{count:163, commentsEnabled:false},
+"100000001198377":{count:143, commentsEnabled:true},
+"100000001198446":{count:23, commentsEnabled:true},
+"100000001198471":{count:52, commentsEnabled:true},
+"100000001198476":{count:157, commentsEnabled:true},
+"100000001198581":{count:48, commentsEnabled:true},
+"100000001198642":{count:253, commentsEnabled:false},
+"100000001199366":{count:136, commentsEnabled:true},
+"100000001199374":{count:114, commentsEnabled:true},
+"100000001199444":{count:155, commentsEnabled:false},
+"100000001199658":{count:4, commentsEnabled:true},
+"100000001200046":{count:884, commentsEnabled:true},
+"100000001200335":{count:165, commentsEnabled:false},
+"100000001200378":{count:192, commentsEnabled:false},
+"100000001200458":{count:77, commentsEnabled:false},
+"100000001200844":{count:23, commentsEnabled:true},
+"100000001201276":{count:88, commentsEnabled:true},
+"100000001201525":{count:188, commentsEnabled:true},
+"100000001202361":{count:0, commentsEnabled:true},
+"100000001202521":{count:27, commentsEnabled:true},
+"100000001202701":{count:270, commentsEnabled:false},
+"100000001202807":{count:17, commentsEnabled:true},
+"100000001202815":{count:116, commentsEnabled:false},
+"100000001202831":{count:232, commentsEnabled:true},
+"100000001202861":{count:95, commentsEnabled:true},
+"100000001202869":{count:39, commentsEnabled:true},
+"100000001202871":{count:23, commentsEnabled:true},
+"100000001202889":{count:54, commentsEnabled:true},
+"100000001202895":{count:33, commentsEnabled:true},
+"100000001202901":{count:90, commentsEnabled:true},
+"100000001203208":{count:19, commentsEnabled:true},
+"100000001203416":{count:220, commentsEnabled:true},
+"100000001203664":{count:0, commentsEnabled:true},
+"100000001188908":{count:16, commentsEnabled:true},
+"100000001194403":{count:0, commentsEnabled:true},
+"100000001194404":{count:0, commentsEnabled:true},
+"100000001194405":{count:71, commentsEnabled:true},
+"100000001194406":{count:0, commentsEnabled:true},
+"100000001194419":{count:1, commentsEnabled:true},
+"100000001194423":{count:58, commentsEnabled:true},
+"100000001194424":{count:0, commentsEnabled:true},
+"100000001194425":{count:0, commentsEnabled:true},
+"100000001194427":{count:0, commentsEnabled:true},
+"100000001194843":{count:51, commentsEnabled:true},
+"100000001197746":{count:1, commentsEnabled:true},
+"100000001201815":{count:0, commentsEnabled:true},
+"100000001201989":{count:0, commentsEnabled:true}
+};
+</script>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/homepage/articleCommentCounts.js"></script>
+<script type="text/javascript" language="JavaScript">
+    ArticleCommentCounts.apply()
+    </script>
+
+			
+		<!-- Start UPT call -->
+		<img height="1" width="3" border=0 src="http://up.nytimes.com/?d=0/44/&t=9&s=0&ui=&r=&u=www%2enytimes%2ecom%2fpages%2fcrosswords%2findex%2ehtml%3f">
+		<!-- End UPT call -->
+	
+		
+        <script language="JavaScript"><!--
+          var dcsvid="";
+          var regstatus="non-registered";
+        //--></script>
+        <script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+        <noscript>
+          <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div>
+        </noscript>
+   
+</body>
+</html>

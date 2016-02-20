@@ -1,0 +1,1518 @@
+Set-cookie: RMID=0bd8082a26394ed9132e726b; expires=Saturday, 01-Dec-2012 18:04:30 GMT; path=/; domain=.nytimes.com
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Set-cookie: adxcs=s*28147=0:1; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Dining &amp; Wine - The New York Times</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="noarchive">
+<meta name="description" content="Find food and wine news and reviews on restaurants, recipes, cooking, desserts, chefs, fine dining, cuisine, New York restaurants, four-star restaurants and more." />
+<meta name="keywords" content="Ottolenghi, Yotam,London (England),Cooking and Cookbooks,Restaurants,Chefs,Vegetables,Chefs,Adria, Ferran,Batali, Mario,Vongerichten, Jean-Georges,Books and Literature,Besh, John,Cooking and Cookbooks,Blumenthal, Heston,Cooking and Cookbooks,Series,Pork,Restaurants,New York City,West Village (NYC),Fatty 'Cue (NYC Restaurant),Restaurants,Pelaccio, Zakary,Wines,Tea,Books of Wonder,Restaurants,Cafe de la Esquina (NYC),Restaurants,Williamsburg (NYC),Prospect Heights (NYC),Restaurants,Chuko (NYC),Upper West Side (NYC),Restaurants,Beverages,Alcoholic Beverages,Apples,Museum of Modern Art,Tableware,Cooking and Cookbooks,Salads,Cod (Fish),Cooking and Cookbooks,New York City,Restaurants,Mushrooms,Cooking and Cookbooks,Truffles,Recipes,Travel and Vacations,Restaurants,Wisconsin,Bars,Restaurants,Staten Island (NYC),Restaurants,Mamaroneck (NY),Nemea Greek Taverna (Mamaroneck, NY),Cooking and Cookbooks,Westchester County (NY),Bakeries and Baked Products,Restaurants,Connecticut,Food,Cooking and Cookbooks,Sayville (NY),Cooking and Cookbooks,Restaurants,Long Island (NY),Butera's (Sayville, NY),Thai Food (Cuisine),Ridgewood (NJ),Cooking and Cookbooks,Restaurants,Ridge Thai (Ridgewood, NJ),New Jersey,Cooking and Cookbooks,Parties (Social),Recipes,Cooking and Cookbooks,Cookies,Recipes,Medicine and Health,Fish and Other Marine Life,Diet and Nutrition,Cod (Fish),Recipes,Medicine and Health,Fish and Other Marine Life,Diet and Nutrition,Cooking and Cookbooks,Desserts,Recipes,Bananas,Cooking and Cookbooks,Recipes,Beef,Cooking and Cookbooks,Salads,Recipes,Turnips,Recipes,Medicine and Health,Diet and Nutrition,Fish and Other Marine Life,Cakes,Recipes,Cooking and Cookbooks,Cooking and Cookbooks,Ginger,Recipes,Spinach,Ginger,Pickles and Relishes,Cooking and Cookbooks,Recipes,Cooking and Cookbooks,Ginger,Recipes,Cod (Fish),Prospect Heights (NYC),Restaurants,Chuko (NYC),New York City,West Village (NYC),Fatty 'Cue (NYC Restaurant),Restaurants,Pelaccio, Zakary,Cafe de la Esquina (NYC),Restaurants,Williamsburg (NYC),New York City,Restaurants,East Harlem (NYC),New York City,Alfama (NYC Restaurant),Restaurants,Midtown Area (NYC),Restaurants,Williamsburg (NYC),East Village (NYC),Restaurants,Sushi,Restaurants,Manhattan (NYC),Boerum Hill (NYC),Bakeries and Baked Products,Restaurants,SoHo (NYC),Beer,Bars,Restaurants,Bakeries and Baked Products,Cookies" />
+<meta name="asset_id" content="">
+<meta name="CG" content="dining">
+<meta name="SCG" content="">
+<meta name="PT" content="Section Front">
+<meta name="PST" content="">
+<link rel="canonical" href="http://www.nytimes.com/pages/dining/index.html">
+<meta name="msapplication-starturl" content="http://www.nytimes.com/" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.nytimes.com/services/xml/rss/nyt/DiningandWine.xml"/>
+
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/build/sectionfront/dining/styles.css" />
+<link rel="stylesheet" type="text/css" media="print" href="http://graphics8.nytimes.com/css/0.1/print/styles.css">
+<!--[if IE]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie.css);
+	    </style>
+	<![endif]-->
+<!--[if IE 6]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie6.css);
+	    </style>
+	<![endif]-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/DropDown.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/util/tooltip.js"></script>
+<script type="text/JavaScript">
+		var static_kw = "Ottolenghi; Yotam;London (England);Cooking and Cookbooks;Restaurants;Chefs;Vegetables;Chefs;Adria; Ferran;Batali; Mario;Vongerichten; Jean-Georges;Books and Literature;Besh; John;Cooking and Cookbooks;Blumenthal; Heston;Cooking and Cookbooks;Series;Pork;Restaurants;New York City;West Village (NYC);Fatty 'Cue (NYC Restaurant);Restaurants;Pelaccio; Zakary;Wines;Tea;Books of Wonder;Restaurants;Cafe de la Esquina (NYC);Restaurants;Williamsburg (NYC);Prospect Heights (NYC);Restaurants;Chuko (NYC);Upper West Side (NYC);Restaurants;Beverages;Alcoholic Beverages;Apples;Museum of Modern Art;Tableware;Cooking and Cookbooks;Salads;Cod (Fish);Cooking and Cookbooks;New York City;Restaurants;Mushrooms;Cooking and Cookbooks;Truffles;Recipes;Travel and Vacations;Restaurants;Wisconsin;Bars;Restaurants;Staten Island (NYC);Restaurants;Mamaroneck (NY);Nemea Greek Taverna (Mamaroneck; NY);Cooking and Cookbooks;Westchester County (NY);Bakeries and Baked Products;Restaurants;Connecticut;Food;Cooking and Cookbooks;Sayville (NY);Cooking and Cookbooks;Restaurants;Long Island (NY);Butera's (Sayville; NY);Thai Food (Cuisine);Ridgewood (NJ);Cooking and Cookbooks;Restaurants;Ridge Thai (Ridgewood; NJ);New Jersey;Cooking and Cookbooks;Parties (Social);Recipes;Cooking and Cookbooks;Cookies;Recipes;Medicine and Health;Fish and Other Marine Life;Diet and Nutrition;Cod (Fish);Recipes;Medicine and Health;Fish and Other Marine Life;Diet and Nutrition;Cooking and Cookbooks;Desserts;Recipes;Bananas;Cooking and Cookbooks;Recipes;Beef;Cooking and Cookbooks;Salads;Recipes;Turnips;Recipes;Medicine and Health;Diet and Nutrition;Fish and Other Marine Life;Cakes;Recipes;Cooking and Cookbooks;Cooking and Cookbooks;Ginger;Recipes;Spinach;Ginger;Pickles and Relishes;Cooking and Cookbooks;Recipes;Cooking and Cookbooks;Ginger;Recipes;Cod (Fish);Prospect Heights (NYC);Restaurants;Chuko (NYC);New York City;West Village (NYC);Fatty 'Cue (NYC Restaurant);Restaurants;Pelaccio; Zakary;Cafe de la Esquina (NYC);Restaurants;Williamsburg (NYC);New York City;Restaurants;East Harlem (NYC);New York City;Alfama (NYC Restaurant);Restaurants;Midtown Area (NYC);Restaurants;Williamsburg (NYC);East Village (NYC);Restaurants;Sushi;Restaurants;Manhattan (NYC);Boerum Hill (NYC);Bakeries and Baked Products;Restaurants;SoHo (NYC);Beer;Bars;Restaurants;Bakeries and Baked Products;Cookies";
+		var dynamic_kw = "Ottolenghi;+Yotam;London+%28England%29;Cooking+and+Cookbooks;Restaurants;Chefs;Vegetables;Chefs;Adria;+Ferran;Batali;+Mario;Vongerichten;+Jean-Georges;Books+and+Literature;Besh;+John;Cooking+and+Cookbooks;Blumenthal;+Heston;Cooking+and+Cookbooks;Series;Pork;Restaurants;New+York+City;West+Village+%28NYC%29;Fatty+%27Cue+%28NYC+Restaurant%29;Restaurants;Pelaccio;+Zakary;Wines;Tea;Books+of+Wonder;Restaurants;Cafe+de+la+Esquina+%28NYC%29;Restaurants;Williamsburg+%28NYC%29;Prospect+Heights+%28NYC%29;Restaurants;Chuko+%28NYC%29;Upper+West+Side+%28NYC%29;Restaurants;Beverages;Alcoholic+Beverages;Apples;Museum+of+Modern+Art;Tableware;Cooking+and+Cookbooks;Salads;Cod+%28Fish%29;Cooking+and+Cookbooks;New+York+City;Restaurants;Mushrooms;Cooking+and+Cookbooks;Truffles;Recipes;Travel+and+Vacations;Restaurants;Wisconsin;Bars;Restaurants;Staten+Island+%28NYC%29;Restaurants;Mamaroneck+%28NY%29;Nemea+Greek+Taverna+%28Mamaroneck;+NY%29;Cooking+and+Cookbooks;Westchester+County+%28NY%29;Bakeries+and+Baked+Products;Restaurants;Connecticut;Food;Cooking+and+Cookbooks;Sayville+%28NY%29;Cooking+and+Cookbooks;Restaurants;Long+Island+%28NY%29;Butera%27s+%28Sayville;+NY%29;Thai+Food+%28Cuisine%29;Ridgewood+%28NJ%29;Cooking+and+Cookbooks;Restaurants;Ridge+Thai+%28Ridgewood;+NJ%29;New+Jersey;Cooking+and+Cookbooks;Parties+%28Social%29;Recipes;Cooking+and+Cookbooks;Cookies;Recipes;Medicine+and+Health;Fish+and+Other+Marine+Life;Diet+and+Nutrition;Cod+%28Fish%29;Recipes;Medicine+and+Health;Fish+and+Other+Marine+Life;Diet+and+Nutrition;Cooking+and+Cookbooks;Desserts;Recipes;Bananas;Cooking+and+Cookbooks;Recipes;Beef;Cooking+and+Cookbooks;Salads;Recipes;Turnips;Recipes;Medicine+and+Health;Diet+and+Nutrition;Fish+and+Other+Marine+Life;Cakes;Recipes;Cooking+and+Cookbooks;Cooking+and+Cookbooks;Ginger;Recipes;Spinach;Ginger;Pickles+and+Relishes;Cooking+and+Cookbooks;Recipes;Cooking+and+Cookbooks;Ginger;Recipes;Cod+%28Fish%29;Prospect+Heights+%28NYC%29;Restaurants;Chuko+%28NYC%29;New+York+City;West+Village+%28NYC%29;Fatty+%27Cue+%28NYC+Restaurant%29;Restaurants;Pelaccio;+Zakary;Cafe+de+la+Esquina+%28NYC%29;Restaurants;Williamsburg+%28NYC%29;New+York+City;Restaurants;East+Harlem+%28NYC%29;New+York+City;Alfama+%28NYC+Restaurant%29;Restaurants;Midtown+Area+%28NYC%29;Restaurants;Williamsburg+%28NYC%29;East+Village+%28NYC%29;Restaurants;Sushi;Restaurants;Manhattan+%28NYC%29;Boerum+Hill+%28NYC%29;Bakeries+and+Baked+Products;Restaurants;SoHo+%28NYC%29;Beer;Bars;Restaurants;Bakeries+and+Baked+Products;Cookies";
+		var nyt_google_contents = dynamic_kw + static_kw;
+		var nyt_google_ad_channel = "dining";
+	</script>
+<script type="text/javascript" src="http://use.typekit.com/fml4qar.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" src="http://js.nyt.com/js2/build/sitewide/sitewide.js"></script>
+<script type="text/javascript" src="http://js.nyt.com/js/app/lib/jquery/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+</head>
+<body>
+<a name="top"></a>
+<div id="shell">
+
+<ul id="memberTools">
+
+<!-- start text link -->
+<li class="cColumn-TextAdsHeader">Subscribe:
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/dining/index.html&pos=Bar1&sn2=4c95a01b/c1acc95c&sn1=2407a328/96bf5462&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-digi-hd-d3847U-h3847W&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fsubscriptions%2FMultiproduct%2Flp5558%2Ehtml%3Fadxc%3D162578%26adxa%3D267524%26page%3Dwww.nytimes.com/pages/dining/index.html%26pos%3DBar1%26campaignId%3D3847U" target="_blank">
+Digital</a> / <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/dining/index.html&pos=Bar1&sn2=4c95a01b/c1acc95c&sn1=8c0204ae/f0584be3&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-digi-hd-d3847U-h3847W&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DW47AF%26CMP%3D3847W" target="_blank">Home Delivery</a>
+</li>
+<!-- end text link -->
+
+ 
+                        <li><a id="memberToolsLogin" href="https://myaccount.nytimes.com/auth/login">Log In</a></li>
+            <li><a href="https://myaccount.nytimes.com/gst/regi.html">Register Now</a></li>
+                            
+
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+</ul>
+<div class="tabsContainer">
+<ul id="mainTabs" class="tabs">
+<li class="first mainTabHome"><a href="http://www.nytimes.com">Home Page</a></li>
+<li class="mainTabTodaysPaper"><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+<li class="mainTabVideo"><a href="http://www.nytimes.com/video">Video</a></li>
+<li class="mainTabMostPopular"><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+<li class="mainTabTimesTopics"><a href="http://topics.nytimes.com/top/reference/timestopics">Times Topics</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+</script>	<div id="page" class="tabContent active">
+<div class="clearfix" id="masthead">
+
+<div class="singleAd" id="Middle1C">
+<!-- ADXINFO classification="button" campaign="ING_DirectSiteSearchQ111_1694929-nyt1"--><A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/dining/index.html&pos=Middle1C&sn2=ad0352e2/2672fd0d&sn1=59756299/46b02203&camp=ING_DirectSiteSearchQ111_1694929-nyt1&ad=NEW.88x31.SiteSearch.Wizard&goto=http://ad.doubleclick.net/jump/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.30" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.30"
+ BORDER=0 WIDTH=88 HEIGHT=31
+ ALT="Click Here"></A>
+</div>
+
+<div id="searchWidget">
+<div class="inlineSearchControl">
+<form enctype="application/x-www-form-urlencoded" action="http://query.nytimes.com/search/sitesearch" method="get" name="searchForm" id="searchForm">
+<input type="hidden" value="full" name="date_select"/>
+<label for="searchQuery">Search All NYTimes.com</label>
+<input type="text" class="text" value="" size="" name="query" id="searchQuery"/>
+<input type="hidden" id="searchAll" name="type" value="nyt"/>
+<input type="image" id="searchSubmit" title="Search" alt="Search" width="22" height="19" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"/>
+</form>
+</div>
+</div>
+
+<div id="branding" >
+<a href="http://www.nytimes.com"><img src="http://graphics8.nytimes.com/images/misc/nytlogo152x23.gif" alt="New York Times" id="NYTLogo"/></a>
+</div>
+
+<div id="date">
+<p>
+Friday, December  2, 2011
+</p>
+</div>
+
+<h2>
+<a href="http://www.nytimes.com/pages/dining/index.html">Dining & Wine</a>
+</h2>
+
+</div>
+<div class="navigation tabsContainer">
+<ul class="tabs">
+<li id="navWorld" class="first ">
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>	<li id="navUs" >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>	<li id="navNyregion" >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>	<li id="navBusiness" >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>	<li id="navTechnology" >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>	<li id="navScience" >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>	<li id="navHealth" >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>	<li id="navSports" >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>	<li id="navOpinion" >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>	<li id="navArts" >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>	<li id="navStyle" class="selected">
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+<ul class="subNavigation"><li id="subNav_fashion"><a href="http://www.nytimes.com/pages/fashion/index.html">Fashion & Style</a></li><li id="subNav_dining" class="selected nochildren" ><a href="http://www.nytimes.com/pages/dining/index.html">Dining & Wine</a></li><li id="subNav_garden"><a href="http://www.nytimes.com/pages/garden/index.html">Home & Garden</a></li><li id="subNav_weddings"><a href="http://www.nytimes.com/pages/fashion/weddings/index.html">Weddings/Celebrations</a></li><li id="subNav_t-magazine"><a href="http://www.nytimes.com/pages/style/t/index.html">T Magazine</a></li></ul></li>	<li id="navTravel" >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>	<li id="navJobs" >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>	<li id="navRealestate" >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>	<li id="navAutomobiles" >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li></ul>
+</div>
+
+<div id="main">
+<div class="spanAB wrap">
+<div class="wideA">
+<div class="abColumn">
+<div id="spanABTopRegion">
+<div class="columnGroup first">
+<!--collectionKicker:[] -->
+<div class="filmstrip clearfix">
+<div class="doubleRuleDivider flushBottom flushTop"></div>
+<div class="subColumn-3 wrap">
+<div class="column firstColumn">
+<div class="columnGroup">
+<div class="wideThumb">
+<a href="http://www.nytimes.com/2011/12/04/magazine/yotam-ottolenghis-international-cuisine.html?ref=dining">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/dining/04fs-eat/04fs-eat-filmstrip.jpg" width="190" height="190" alt="" border="0" /> 
+</a>
+</div> 
+</div>
+</div>
+<div class="column">
+<div class="columnGroup">
+<div class="wideThumb">
+<a href="http://www.nytimes.com/2011/11/30/dining/when-the-chefs-come-home.html?ref=dining">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/dining/30FS_CHEF/30FS_CHEF-filmstrip.jpg" width="190" height="190" alt="" border="0" /> 
+</a>
+</div> 
+</div>
+</div>
+<div class="column lastColumn">
+<div class="columnGroup">
+<div class="wideThumb">
+<a href="http://www.nytimes.com/2011/11/30/dining/notable-cookbooks-of-2011.html?ref=dining">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/dining/30FS_COOKBOOK/30FS_COOKBOOK-filmstrip.jpg" width="190" height="190" alt="" border="0" /> 
+</a>
+</div> 
+</div>
+</div>
+</div><!--end div.subColumn-3.wrap -->
+<div class="headlines">	
+<div class="overlay">
+<div class="column firstColumn">
+<div class="columnGroup">    
+<h5> <a href="http://www.nytimes.com/2011/12/04/magazine/yotam-ottolenghis-international-cuisine.html?ref=dining">Yotam Ottolenghi’s International Cuisine &#x00bb;</a> </h5>
+<!--END FILMSTRIP-HEADLINE -->
+</div>
+</div>	
+<div class="column">
+<div class="columnGroup">    
+<h5> <a href="http://www.nytimes.com/2011/11/30/dining/when-the-chefs-come-home.html?ref=dining">When the Chefs Come Home &#x00bb;</a> </h5>
+<!--END FILMSTRIP-HEADLINE -->
+</div>
+</div>	
+<div class="column lastColumn">
+<div class="columnGroup">    
+<h5> <a href="http://www.nytimes.com/2011/11/30/dining/notable-cookbooks-of-2011.html?ref=dining">The Year’s Notable <br/>Cookbooks &#x00bb;</a> </h5>
+<!--END FILMSTRIP-HEADLINE -->
+</div>
+</div>		
+</div><!--close div.overlay -->
+</div><!--close div.headlines -->
+<div class="doubleRuleDivider flushBottom flushTop"></div>
+</div><!--end div.filmstrip.clearfix -->
+</div><!--end div.columnGroup -->
+</div><!--end #spanABTopRegion.opening -->
+<div class="aColumn">
+<!--cur:StandardThumb prev:-->
+<div class="columnGroup first">
+<div style="display:none;"><div class="story">
+<h6 class="kicker">Eat</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/04/magazine/yotam-ottolenghis-international-cuisine.html?ref=dining">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/magazine/04eat_span/mag-04Eat-t-000_CA0-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/04/magazine/yotam-ottolenghis-international-cuisine.html?ref=dining">
+Yotam Ottolenghi’s International Cuisine</a></h3>
+<h6 class="byline">
+By MARK BITTMAN	    </h6>
+<p class="summary">
+How to describe the food at the Israel-born chef’s London restaurants? It’s complicated.</p>
+<ul class="refer">
+<li>Recipes: <a href="http://www.nytimes.com/2011/12/04/magazine/Ottolenghi-Leek-and-Cardamom-Fritters.html">Leek-and-Cardamom Fritters</a> | <a href="http://www.nytimes.com/2011/12/04/magazine/Ottolenghi-Rice-With-Poached-Eggs.html">Rice With Poached Eggs</a></li>
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001197746" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/04/magazine/yotam-ottolenghis-international-cuisine.html"></span></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/30/dining/when-the-chefs-come-home.html?ref=dining">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/dining/30CHEFS1_SPAN/30CHEFS1_SPAN-thumbStandard-v2.jpg" width="75" height="75" alt="The chef John Besh, with three of his four children." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/30/dining/when-the-chefs-come-home.html?ref=dining">
+When the Chefs Come Home</a></h3>
+<h6 class="byline">
+By JULIA MOSKIN	    </h6>
+<p class="summary">
+In new cookbooks, star chefs like Mario Batali and Ferran Adrià step into the home kitchen.</p>
+<ul class="refer">
+<li><a href="http://well.blogs.nytimes.com/2011/11/30/lessons-in-home-cooking-from-star-chefs/"> <img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="Comment" width="9" height="11" border="0"> Post a Comment</a></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">Holiday Gift Guide</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/30/dining/notable-cookbooks-of-2011.html?ref=dining">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/dining/30COOKBOOK1/30COOKBOOK1-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/30/dining/notable-cookbooks-of-2011.html?ref=dining">
+The Year’s Notable Cookbooks</a></h3>
+<h6 class="byline">
+By JULIA MOSKIN, FLORENCE FABRICANT, PETE WELLS and NICK FOX	    </h6>
+<p class="summary">
+The Dining staff highlights some favorites from 2011.</p>
+</div>
+</div>	</div>
+<!--cur:StandardThumb prev:StandardThumb-->
+<div class="columnGroup ">
+<div class="story">
+<h6 class="kicker">Diner’s Journal</h6>
+<div class="thumbnail">
+<a href="http://dinersjournal.blogs.nytimes.com/2011/12/02/hot-toddies-at-the-beagle-in-the-east-village/?ref=dining">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/dining/dj-toddies/dj-toddies-thumbStandard.jpg" width="75" height="75" alt="Hot Toddies at the Beagle in the East Village" border="0" />
+</a>
+</div>
+<h3><a href="http://dinersjournal.blogs.nytimes.com/2011/12/02/hot-toddies-at-the-beagle-in-the-east-village/?ref=dining">
+Hot Toddies at the Beagle in the East Village</a></h3>
+<h6 class="byline">
+By FLORENCE FABRICANT	    </h6>
+<p class="summary">
+As the temperature drops, the Beagle in the East Village offers four kinds of toddies made with whiskey: hot toddy, whiskey skin, brick and hot buttered rum - and the Negus, made with port or Madeira.</p>
+</div>
+<div class="story">
+<h6 class="kicker">United Tastes</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/30/dining/pig-wings-as-tasty-morsels-take-flight-united-tastes.html?ref=dining">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/dining/30UNITED_SPAN/30UNITED_SPAN-thumbStandard.jpg" width="75" height="75" alt="Bob File saw that a catchy name could popularize ham shanks." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/30/dining/pig-wings-as-tasty-morsels-take-flight-united-tastes.html?ref=dining">
+As Tasty Morsels, Pig Wings Take Flight</a></h3>
+<h6 class="byline">
+By JOHN T. EDGE	    </h6>
+<p class="summary">
+Under various noms de porc — like Pig Wings — ham shanks are being served at restaurants and bars across the country.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Restaurant Review | Fatty 'Cue</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/30/dining/reviews/fatty-cue-nyc-restaurant-review.html?ref=dining">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/dining/30REST_SPAN/Rest-thumbStandard.jpg" width="75" height="75" alt="Fatty 'Cue in the West Village is the latest entry from Zakary Pelaccio." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/30/dining/reviews/fatty-cue-nyc-restaurant-review.html?ref=dining">
+A Roadhouse With a World View</a></h3>
+<h6 class="byline">
+By ERIC ASIMOV	    </h6>
+<p class="summary">
+The new Fatty ’Cue, the best of Zak Pelaccio’s restaurants, combines the original’s smoke-oriented menu with the Asian influence of its Fatty Crab siblings.</p>
+<ul class="refer">
+<li><a href="http://dinersjournal.blogs.nytimes.com/2011/11/29/reviewing-fatty-cue/"><img src="http://graphics.nytimes.com/images/multimedia/icons/photo_icon.gif" alt="Photographs" width="12" height="10" border="0"> Slide Show on Diner's Journal</a> | <a href="http://community.nytimes.com/comments/dinersjournal.blogs.nytimes.com/2011/11/29/reviewing-fatty-cue/"> <img src="http://graphics.nytimes.com/images/section/opinion/comment_icon.gif" alt="Comment" width="9" height="11" border="0"> Post a Comment</a></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">The Pour</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/30/dining/among-great-wines-plenty-of-choice-the-pour.html?ref=dining">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/dining/30POUR_SPAN/30POUR_SPAN-thumbStandard.jpg" width="75" height="75" alt="With top Burgundies and Bordeaux too costly for most people, wines like those from Rioja in Spain, pictured, and from the Santa Cruz Mountains of California are getting more attention and commanding more respect." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/30/dining/among-great-wines-plenty-of-choice-the-pour.html?ref=dining">
+Among Great Wines, Plenty of Choice</a></h3>
+<h6 class="byline">
+By ERIC ASIMOV	    </h6>
+<p class="summary">
+First-growth Bordeaux and grand cru Burgundy may be beyond the means of most wine lovers, but the unexpected benefits include a whole new world of once esoteric wines.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Feed Me</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/30/dining/pop-up-cafe-for-alices-tea-cup-feed-me.html?ref=dining">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/dining/30FEEDME/Feed-Me-thumbStandard.jpg" width="75" height="75" alt="Lauren Fox, left, and Haley Fox at Books of Wonder in Chelsea, with their mocha chocolate chip cake." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/30/dining/pop-up-cafe-for-alices-tea-cup-feed-me.html?ref=dining">
+Tea Time for All Ages (Fairy Dust Optional)</a></h3>
+<h6 class="byline">
+By ALEX WITCHEL	    </h6>
+<p class="summary">
+An Alice’s Tea Cup pop-up cafe at Books of Wonder caters to grandmas and grandsons alike.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Dining Briefs | Recently Opened</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/30/dining/reviews/cafe-de-la-esquina-nyc-restaurant-review.html?ref=dining">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/dining/30BRIEFS1_SPAN/Briefs-1-thumbStandard.jpg" width="75" height="75" alt="Chips and salsa outdoors at Café de la Esquina at Wythe Diner." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/30/dining/reviews/cafe-de-la-esquina-nyc-restaurant-review.html?ref=dining">
+Café de la Esquina</a></h3>
+<h6 class="byline">
+By LIGAYA MISHAN	    </h6>
+<p class="summary">
+There is no bouncer or grim goddess hostess wielding a clipboard of doom at the Williamsburg offshoot of La Esquina in SoHo.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Dining Briefs | Recently Opened</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/30/dining/reviews/chuko-nyc-restaurant-review.html?ref=dining">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/dining/30BRIEF2_SPAN/30BRIEF2_SPAN-thumbStandard.jpg" width="75" height="75" alt="Pork-broth ramen with Duroc pork at Chuko." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/30/dining/reviews/chuko-nyc-restaurant-review.html?ref=dining">
+Chuko</a></h3>
+<h6 class="byline">
+By LIGAYA MISHAN	    </h6>
+<p class="summary">
+Three veterans of Morimoto have opened a ramen shop in Prospect Heights, Brooklyn.</p>
+</div>
+</div>
+<!--cur:HeadlineOnly prev:StandardThumb-->
+<div class="columnGroup singleRule ">
+<ul class="headlinesOnly multiline flush">
+<div id="multiPlayer">
+<!--brightcove code starts here  09/30/08 build//-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/bcvideo/1.0/iframe/embed.js"></script>
+<script type="text/javascript">
+	NYT_VideoPlayerStart( {
+	   playerType  : "section",
+	   playlistId  : "1194820411913"
+	} );
+</script>
+<!--brightcove code ends here //-->
+</div>
+</ul>
+</div>
+<!--cur:StandardThumb prev:HeadlineOnly-->
+<div class="columnGroup singleRule ">
+<h6 class="sectionHeader">Food Stuff</h6><div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/30/dining/pecan-a-cafe-opens-on-the-upper-west-side.html?ref=dining">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/dining/30STUFF_CAFESPAN/30STUFF_CAFESPAN-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/30/dining/pecan-a-cafe-opens-on-the-upper-west-side.html?ref=dining">
+Pecan, a Cafe, Opens on the Upper West Side</a></h3>
+<h6 class="byline">
+By FLORENCE FABRICANT	    </h6>
+<p class="summary">
+A bright, modern branch of Pecan, a cafe whose TriBeCa parent has a homier personality, offers several vegetarian options.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/30/dining/a-hard-cider-from-an-heirloom-apple.html?ref=dining">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/dining/30STUFF_CIDER/30STUFF2-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/30/dining/a-hard-cider-from-an-heirloom-apple.html?ref=dining">
+A Hard Cider From an Heirloom Apple</a></h3>
+<h6 class="byline">
+By FLORENCE FABRICANT	    </h6>
+<p class="summary">
+The Newtown Pippin variety is the only apple used in a new cider from Original Sin.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/30/dining/slotted-spoon-at-moma-stores.html?ref=dining">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/dining/30STUFF_SPOON/30STUFF_SPOON-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/30/dining/slotted-spoon-at-moma-stores.html?ref=dining">
+Slotted Spoon at MoMA Stores</a></h3>
+<h6 class="byline">
+By FLORENCE FABRICANT	    </h6>
+<p class="summary">
+A sleek, shiny stainless-steel spoon can go from kitchen to dinner table without raising its pinky.</p>
+</div>
+<div class="singleRuleDivider"></div>
+</div>
+<!--cur:StandardThumb prev:StandardThumb-->
+<div class="columnGroup ">
+<div class="story">
+<h6 class="kicker">A Good Appetite</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/30/dining/with-raw-turnips-exploring-new-frontiers-in-salad-a-good-appetite.html?ref=dining">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/dining/30APPE_SPAN/30APPE_SPAN-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/30/dining/with-raw-turnips-exploring-new-frontiers-in-salad-a-good-appetite.html?ref=dining">
+Exploring New Frontiers in Salad</a></h3>
+<h6 class="byline">
+By MELISSA CLARK	    </h6>
+<p class="summary">
+Raw turnips are as gentle as carrots but juicier, with a very slight tang that makes the sweetness even more pronounced.</p>
+</div>
+<div class="story">
+<h6 class="kicker">City Kitchen</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/30/dining/after-thanksgiving-craving-light-flavorful-fish-city-kitchen.html?ref=dining">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/dining/30KITCH1_SPAN/30KITCH1_SPAN-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/30/dining/after-thanksgiving-craving-light-flavorful-fish-city-kitchen.html?ref=dining">
+Searching for Virtue, After a Weighty Feast</a></h3>
+<h6 class="byline">
+By DAVID TANIS	    </h6>
+<p class="summary">
+After so many days of feasting, it’s time for something light, fat-free and cleansing, but flavorful: fish.</p>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/11/30/dining/davidstea-brooklyn-buschenschank-open-off-the-menu.html?ref=dining">
+Off the Menu</a></h3>
+<h6 class="byline">
+By FLORENCE FABRICANT	    </h6>
+<p class="summary">
+The first two American branches of DavidsTea, a Canadian company selling loose teas, arrive in Manhattan, and other openings this week.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/30/dining/dining-calendar-from-nov-30.html?ref=dining">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/dining/30FCAL_SPAN/30FCAL_SPAN-thumbStandard.jpg" width="75" height="75" alt="There will be a tasting of caviars at the Four Seasons Hotel." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/30/dining/dining-calendar-from-nov-30.html?ref=dining">
+Dining Calendar</a></h3>
+<h6 class="byline">
+By	    </h6>
+<p class="summary">
+The Four Seasons hotel offers a caviar tasting, Le Parker Meridien hotel opens a display of gingerbread houses, and other events.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Eat</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/magazine/gooey-wild-mushroom-lasagna.html?ref=dining">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/magazine/27eat1_span/mag-27Eat-t_CA0-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/magazine/gooey-wild-mushroom-lasagna.html?ref=dining">
+Gooey Wild-Mushroom Lasagna</a></h3>
+<h6 class="byline">
+By SAM SIFTON	    </h6>
+<p class="summary">
+An earthy marriage of smoke, fire and cheese.</p>
+<ul class="refer">
+<li>Recipes: <a href="http://www.nytimes.com/2011/11/27/magazine/home-made-mushroom-lasagna.html">Home/Made Mushroom Lasagna</a> | <a href="http://www.nytimes.com/2011/11/27/magazine/herb-oil-recipe.html">Herb Oil</li>
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001183081" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/11/27/magazine/gooey-wild-mushroom-lasagna.html"></span></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">T Magazine</h6>
+<div class="thumbnail">
+<a href="http://tmagazine.blogs.nytimes.com/2011/11/29/edible-selby-danish-modern/?ref=dining">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/t-magazine/04remix-selby/04remix-selby-thumbStandard.jpg" width="75" height="75" alt="Edible Selby | Danish Modern" border="0" />
+</a>
+</div>
+<h3><a href="http://tmagazine.blogs.nytimes.com/2011/11/29/edible-selby-danish-modern/?ref=dining">
+Edible Selby | Danish Modern</a></h3>
+<h6 class="byline">
+By TODD SELBY and ABBY AGUIRRE	    </h6>
+<p class="summary">
+Behind Rene Redzepi's famously free-form approach is a highly studious investigation into the culinary possibilities of foraged ingredients.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Journeys</h6>
+<div class="thumbnail">
+<a href="http://travel.nytimes.com/2011/11/27/travel/wisconsin-supper-clubs-old-fashioned-and-open-to-all.html?ref=dining">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/travel/27JOURNEYS_SPAN/27JOURNEYS4-thumbStandard.jpg" width="75" height="75" alt="The White Stag Inn supper club in Sugar Camp." border="0" />
+</a>
+</div>
+<h3><a href="http://travel.nytimes.com/2011/11/27/travel/wisconsin-supper-clubs-old-fashioned-and-open-to-all.html?ref=dining">
+In Wisconsin, Supper Clubs Open to All</a></h3>
+<h6 class="byline">
+By DAVID McANINCH	    </h6>
+<p class="summary">
+Wisconsin supper clubs still seduce with iceberg salad, steak, a well-mixed cocktail and a ready table.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/slideshow/2011/11/27/travel/27WISCONSIN.html"><span class="icon slideshow">Slide Show</span>: The Supper Clubs of Wisconsin</a></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">Neighborhood Joint | New Brighton</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/nyregion/adobe-blues-restaurant-stands-out-on-staten-island.html?ref=dining">
+<img src="http://graphics8.nytimes.com/images/2011/11/20/nyregion/20111127JOINTss-slide-NYDP/20111127JOINTss-slide-NYDP-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/nyregion/adobe-blues-restaurant-stands-out-on-staten-island.html?ref=dining">
+Mosey In and Wet Your Whistle</a></h3>
+<h6 class="byline">
+By AMISHA PADNANI	    </h6>
+<p class="summary">
+Adobe Blues Restaurant has the look of a saloon or cantina, a changing selection of 180 beers and an array of unusual regulars. But Jake the One-Eyed Snake is history.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/slideshow/2011/11/20/nyregion/20111127adobe-blues.html"><span class="icon slideshow">Slide Show</span>: A Saloon on Staten Island</a></li>
+<li><a href="http://topics.nytimes.com/top/features/timestopics/series/neighborhood_joint/index.html">More Neighborhood Joints »</a></li>
+</ul>
+</div>
+<div class="singleRuleDivider"></div>
+</div>
+<!--cur:StandardThumb prev:StandardThumb-->
+<div class="columnGroup last">
+<h6 class="sectionHeader">Dining in the Region</h6><div class="story">
+<h6 class="kicker">Westchester Dining | Mamaroneck</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/nyregion/nemea-greek-taverna-in-mamaroneck-review.html?ref=dining">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/nyregion/27SUBDINEWE1/27SUBDINEWE1-thumbStandard.jpg" width="75" height="75" alt="Grilled lamb chops." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/nyregion/nemea-greek-taverna-in-mamaroneck-review.html?ref=dining">
+Classic Greek Fare, Above the Fray</a></h3>
+<h6 class="byline">
+By M. H. REED	    </h6>
+<p class="summary">
+Nemea Greek Taverna in Mamaroneck has a homey, welcoming atmosphere and a menu listing offerings that are a cut well above those at most other Greek restaurants in the county.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Connecticut Dining | Gourmet to Go</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/nyregion/all-of-the-flavor-with-little-of-the-effort.html?ref=dining">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/nyregion/27DINECT4/27DINECT4-thumbStandard.jpg" width="75" height="75" alt="Salmon cakes at the Pantry." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/nyregion/all-of-the-flavor-with-little-of-the-effort.html?ref=dining">
+All of the Flavor With Little of the Effort</a></h3>
+<h6 class="byline">
+By CHRISTOPHER BROOKS	    </h6>
+<p class="summary">
+Independent grocery stores around Connecticut are making efforts to help simplify entertaining with expanded lines of prepared foods.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Long Island Dining | Sayville</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/nyregion/buteras-restaurant-in-sayville-review.html?ref=dining">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/nyregion/27DINELI1/27DINELI1-thumbStandard.jpg" width="75" height="75" alt="Asparagus mushroom salad." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/nyregion/buteras-restaurant-in-sayville-review.html?ref=dining">
+Known for Big Portions, a Local Chain Expands</a></h3>
+<h6 class="byline">
+By JOANNE STARKEY	    </h6>
+<p class="summary">
+The popularity of Long Island’s four Butera’s restaurants stems from huge portions of well-prepared Italian food at moderate prices.</p>
+</div>
+<div class="story">
+<h6 class="kicker">New Jersey Dining | Ridgewood</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/nyregion/traditional-thai-but-with-surprises.html?ref=dining">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/nyregion/27DINENJ1/27DINENJ1-thumbStandard.jpg" width="75" height="75" alt="Pla mieng, a crispy tilapia filet topped with peanuts, chili, ginger, onions and shredded coconut, is among the highlights of the menu." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/nyregion/traditional-thai-but-with-surprises.html?ref=dining">
+Traditional Thai, but With Surprises</a></h3>
+<h6 class="byline">
+By SCOTT VEALE	    </h6>
+<p class="summary">
+Mee krob and pad Thai are among the worthy items on a large, varied and reasonably priced menu of traditional Thai dishes, some familiar, others less so, at Ridge Thai.</p>
+</div>
+</div>
+<div id="adxSponLink" class="columnGroup singleRule"></div>
+</div><!--close .aColumn -->
+<div class="bColumn">
+<div class="columnGroup SectionFront3Col first">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<div class="columnGroup first">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/gift-guide/holiday-2011/categories.html?ref=dining">
+<img src="http://graphics8.nytimes.com/images/2011/11/25/dining/giftguide2011-190b.png" width="190" height="126" alt="" border="0" />
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/gift-guide/holiday-2011/categories.html?ref=dining">
+</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Plan your shopping with The New York Times Holiday Gift Guide, including kitchen tools, spirits, books and more for the food lovers on your list.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/11/30/dining/notable-cookbooks-of-2011.html">The Year's Notable Cookbooks</a></li>
+<li><a href="http://www.nytimes.com/gift-guide/holiday-2011/diningguide_flofab2011/list.html">Florence Fabricant’s Pick of New Products</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<div class="columnGroup first">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/slideshow/2010/12/10/dining/20101210-dips-slideshow.html?ref=dining">
+<img src="http://graphics8.nytimes.com/images/2010/12/10/dining/20101210-dips-slideshow-slide-TXT7/20101210-dips-slideshow-slide-TXT7-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay slideshow">Slide Show</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/slideshow/2010/12/10/dining/20101210-dips-slideshow.html?ref=dining">
+Recipes for Party Dips and Appetizers</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Festive, savory snacks to set out at a holiday celebration.</p>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/slideshow/2010/12/14/dining/COOKIES.html?ref=dining">
+<img src="http://graphics8.nytimes.com/images/2010/12/14/dining/COOKIES-slide-80IL/COOKIES-slide-80IL-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay slideshow">Slide Show</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/slideshow/2010/12/14/dining/COOKIES.html?ref=dining">
+Recipes for Cookies and Bars</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Gingerbread, brownies, salty chocolate chip cookies and additional recipes for sweets.</p>
+</div>
+</div>
+<div class="columnGroup singleRule last">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://dinersjournal.blogs.nytimes.com/2011/11/29/reviewing-fatty-cue/?ref=dining">
+<img src="http://graphics8.nytimes.com/images/2011/11/29/dining/30REST_CHAMELEON-slide-P19B-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay slideshow">Slide Show</span>
+</a>
+</div>
+<h5><a href="http://dinersjournal.blogs.nytimes.com/2011/11/29/reviewing-fatty-cue/?ref=dining">
+Fatty ’Cue</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+The latest Fatty restaurant from Zak Pelaccio, in Greenwich Village, mashes up traditions from Southeast Asia, Europe and the American South.</p>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://dinersjournal.blogs.nytimes.com/" title="">
+<img src="http://graphics8.nytimes.com/images/2011/07/13/dining/dj-image/dj-image-custom1.gif" alt=""/>
+</a> 
+</h3> 	<a href="http://dinersjournal.blogs.nytimes.com/" title="">
+<img src="http://graphics8.nytimes.com/images/blogs_v3/dinersjournal/dinersjournal75.gif" alt="" class="thumbnail"/>
+</a> <div class="story first">
+<h3><a href="http://dinersjournal.blogs.nytimes.com/2011/12/02/weekend-fare-70/?ref=dining">Weekend Fare</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">11:18 AM ET</span></p>
+</div><div class="story">
+<h3><a href="http://dinersjournal.blogs.nytimes.com/2011/12/02/what-were-reading-323/?ref=dining">What We're Reading</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">9:42 AM ET</span></p>
+</div><div class="story">
+<h3><a href="http://dinersjournal.blogs.nytimes.com/2011/12/01/what-were-reading-322/?ref=dining">What We're Reading</a></h3>
+<p class="date">December 1, 2011 <span class="timestamp"></span></p>
+</div><p class="refer">
+<a href="http://dinersjournal.blogs.nytimes.com/" title="More From Diner&#39;s Journal">More From Diner&#39;s Journal &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule ">
+<h3 class="sectionHeader">This Week's Recipes</h3>
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/health/nutrition/albacore-steaks-with-simmered-fennel-recipes-for-health.html?ref=dining">
+Recipes for Health: Albacore Steaks With Simmered Fennel</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/01/health/nutrition/steamed-cod-or-sea-bass-salad-recipes-for-health.html?ref=dining">
+Recipes for Health: Steamed Cod or Sea Bass Salad With Red Peppers, Cilantro and Mint</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/30/dining/bananas-in-lime-syrup-recipe.html?ref=dining">
+Bananas in Lime Syrup</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/30/dining/ginger-glazed-short-ribs-recipe.html?ref=dining">
+Ginger-Glazed Short Ribs</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/30/dining/shaved-turnip-salad-with-arugula-and-prosciutto-recipe.html?ref=dining">
+Shaved Turnip Salad With Arugula and Prosciutto</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/30/health/nutrition/halibut-chard-and-potato-casserole-recipes-for-health.html?ref=dining">
+Recipes for Health: Halibut, Chard and Potato Casserole</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/30/dining/mocha-chocolate-chip-cake-recipe.html?ref=dining">
+Mocha Chocolate Chip Cake</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/30/dining/oil-free-spinach-with-ginger-and-garlic-recipe.html?ref=dining">
+Oil-Free Spinach With Ginger and Garlic</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/30/dining/quick-pickled-ginger-recipe.html?ref=dining">
+Quick Pickled Ginger</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/30/dining/cod-with-sesame-and-ginger-recipe.html?ref=dining">
+Cod With Sesame and Ginger</a>
+</h6>
+</li>
+</ul>
+</div>
+<div class="columnGroup doubleRule ">
+<h3 class="sectionHeader">Recent Reviews</h3>
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/30/dining/reviews/chuko-nyc-restaurant-review.html?ref=dining">
+Dining Briefs | Recently Opened: Chuko</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/30/dining/reviews/fatty-cue-nyc-restaurant-review.html?ref=dining">
+Restaurant Review | Fatty 'Cue: A Roadhouse With a World View</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/30/dining/reviews/cafe-de-la-esquina-nyc-restaurant-review.html?ref=dining">
+Dining Briefs | Recently Opened: Café de la Esquina</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/23/dining/reviews/agua-fresca-nyc-restaurant-review.html?ref=dining">
+Dining Briefs | Recently Opened: Agua Fresca</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/23/dining/reviews/alfama-nyc-restaurant-review.html?ref=dining">
+Dining Briefs | Recently Opened: Alfama</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/23/dining/reviews/isa-nyc-restaurant-review.html?ref=dining">
+Restaurant Review | Isa: The Allure of the Odd</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/16/dining/reviews/maharlika-nyc-restaurant-review.html?ref=dining">
+$25 and Under | Maharlika: Authentic Filipino Moderno</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/16/dining/reviews/sushi-yasuda-nyc-restaurant-review.html?ref=dining">
+Restaurant Review | Sushi Yasuda: Quiet, Please: Sushi Being Served</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/09/dining/reviews/bien-cuit-nyc-review.html?ref=dining">
+Dining Briefs | Recently Opened: Bien Cuit</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/09/dining/reviews/rouge-et-blanc-nyc-restaurant-review.html?ref=dining">
+Restaurant Review | Rouge et Blanc: How to Speak French-Vietnamese</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/09/dining/reviews/birreria-nyc-review.html?ref=dining">
+Dining Briefs | Recently Opened: Birreria</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/02/dining/reviews/airy-macarons-nyc-review.html?ref=dining">
+$25 and Under: Airy Macarons That Rise Above the Rest</a>
+</h6>
+</li>
+</ul>
+</div>
+<div class="columnGroup doubleRule last">
+
+
+<div class="singleAd" id="Box2">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/dining/index.html&pos=Box2&sn2=4c95a024/c1af495c&sn1=38d43609/ab3147cd&camp=nyt2011-circ-120x90-weekender-36H38&ad=071511-120x90-weekender-36H38&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DWC7AA%26CMP%3D36H38" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/13/ad.271312/11-0920_HDWeekender2_120x90.jpg" width="120" height="90" border="0"></a>
+
+</div>
+
+</div>
+</div><!--close .bColumn -->
+</div><!--close .abColumn -->
+<div class="cColumn">
+<!--Ads  -->                    <div class="columnGroup first">
+
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<!--START TRUNCATED restaurant search module for SCOOP-->
+<div class="restaurantSearchModule">
+<script type="text/javascript" src="/js/app/restaurants/1.0/toolsController.min.js"></script>
+<div class="inset wrap">
+<h5>New York City Restaurant Search</h5>
+<form name="widgetSearch" id="widgetSearch" action="#" method="get" onsubmit="NYTD.RestaurantTools.widgetSearch(this); return false;">
+<div class="neighborhood">
+<label for="neightborhood">neighborhood</label>
+<select id="neighborhood" name="neighborhood">
+<option value="">All</option>
+<option value="Bath Beach">Bath Beach</option>
+<option value="Bay Ridge">Bay Ridge</option>
+<option value="Bayside">Bayside</option>
+<option value="Brooklyn">Brooklyn</option>
+<option value="Brooklyn Heights">Brooklyn Heights</option>
+<option value="Carroll Gardens">Carroll Gardens</option>
+<option value="Chelsea">Chelsea</option>
+<option value="Chinatown">Chinatown</option>
+<option value="Clinton">Clinton</option>
+<option value="Cobble Hill">Cobble Hill</option>
+<option value="Coney Island">Coney Island</option>
+<option value="Downtown">Downtown</option>
+<option value="East Harlem">East Harlem</option>
+<option value="East Village">East Village</option>
+<option value="Financial District">Financial District</option>
+<option value="Flatiron/Union Square">Flatiron/Union Square</option>
+<option value="Greenwich Village">Greenwich Village</option>
+<option value="Harlem">Harlem</option>
+<option value="Inwood">Inwood</option>
+<option value="Long Island">Long Island</option>
+<option value="Lower East Side">Lower East Side</option>
+<option value="Lower Manhattan">Lower Manhattan</option>
+<option value="Manhattan">Manhattan</option>
+<option value="Meatpacking District">Meatpacking District</option>
+<option value="Midtown">Midtown</option>
+<option value="Midtown East">Midtown East</option>
+<option value="Midtown South">Midtown South</option>
+<option value="Midtown West">Midtown West</option>
+<option value="Morningside Heights">Morningside Heights</option>
+<option value="Murray Hill">Murray Hill</option>
+<option value="NoHo">NoHo</option>
+<option value="NoLIta">NoLIta</option>
+<option value="Park Slope North">Park Slope North</option>
+<option value="Prospect Heights">Prospect Heights</option>
+<option value="Queens">Queens</option>
+<option value="SoHo">SoHo</option>
+<option value="Staten Island">Staten Island</option>
+<option value="The Bronx">The Bronx</option>
+<option value="Times Square Theatre District">Times Square Theatre District</option>
+<option value="TriBeCa">TriBeCa</option>
+<option value="TriBeCa/SoHo">TriBeCa/SoHo</option>
+<option value="Upper East Side">Upper East Side</option>
+<option value="Upper West Side">Upper West Side</option>
+<option value="Washington Hts.">Washington Hts.</option>
+<option value="West Village">West Village</option>
+<option value="Williamsburg">Williamsburg</option>
+</select>
+</div>
+<div class="cuisine">
+<label for="cuisine">Cuisine</label>
+<select name="cuisine" id="cuisine">
+<option value="">All</option>
+<option value="Afghanistan">Afghanistan</option>
+<option value="African">African</option>
+<option value="American">American</option>
+<option value="Argentinian">Argentinian</option>
+<option value="Asian">Asian</option>
+<option value="Australian">Australian</option>
+<option value="Austrian">Austrian</option>
+<option value="Bakery/Baked Goods">Bakery/Baked Goods</option>
+<option value="Barbecue">Barbecue</option>
+<option value="Belgian">Belgian</option>
+<option value="Bistro">Bistro</option>
+<option value="Brazilian">Brazilian</option>
+<option value="Cafes">Cafes</option>
+<option value="Cajun/Creole">Cajun/Creole</option>
+<option value="Caribbean">Caribbean</option>
+<option value="Chinese">Chinese</option>
+<option value="Coffee">Coffee</option>
+<option value="Contemporary">Contemporary</option>
+<option value="Deli">Deli</option>
+<option value="Dessert">Dessert</option>
+<option value="Dim Sum">Dim Sum</option>
+<option value="Diners">Diners</option>
+<option value="East European">East European</option>
+<option value="English">English</option>
+<option value="European">European</option>
+<option value="Fast Food">Fast Food</option>
+<option value="French">French</option>
+<option value="German">German</option>
+<option value="Greek">Greek</option>
+<option value="Hamburgers">Hamburgers</option>
+<option value="Hot Dogs">Hot Dogs</option>
+<option value="Indian">Indian</option>
+<option value="Indonesian">Indonesian</option>
+<option value="Irish">Irish</option>
+<option value="Italian">Italian</option>
+<option value="Japanese">Japanese</option>
+<option value="Korean">Korean</option>
+<option value="Kosher">Kosher</option>
+<option value="Latin">Latin</option>
+<option value="Latin American">Latin American</option>
+<option value="Malaysian">Malaysian</option>
+<option value="Mediterranean">Mediterranean</option>
+<option value="Mexican">Mexican</option>
+<option value="Middle Eastern">Middle Eastern</option>
+<option value="Moroccan">Moroccan</option>
+<option value="New American">New American</option>
+<option value="Noodles">Noodles</option>
+<option value="Pakistani">Pakistani</option>
+<option value="Philippine">Philippine</option>
+<option value="Pizza">Pizza</option>
+<option value="Portuguese">Portuguese</option>
+<option value="Russian">Russian</option>
+<option value="Salads">Salads</option>
+<option value="Sandwiches">Sandwiches</option>
+<option value="Scandinavian">Scandinavian</option>
+<option value="Seafood">Seafood</option>
+<option value="Soups">Soups</option>
+<option value="Southeast Asian">Southeast Asian</option>
+<option value="Southern">Southern</option>
+<option value="Southwestern">Southwestern</option>
+<option value="Spanish">Spanish</option>
+<option value="Steak House">Steak House</option>
+<option value="Sushi">Sushi</option>
+<option value="Tapas">Tapas</option>
+<option value="Tea">Tea</option>
+<option value="Tex-Mex">Tex-Mex</option>
+<option value="Thai">Thai</option>
+<option value="Theme">Theme</option>
+<option value="Tibetan">Tibetan</option>
+<option value="Turkish">Turkish</option>
+<option value="Ukrainian">Ukrainian</option>
+<option value="Vegetarian">Vegetarian</option>
+<option value="Vietnamese">Vietnamese</option>
+<option value="Wine Bar">Wine Bar</option>
+</select>
+</div>
+<div class="price">
+<h6>Price</h6>
+<input value="$" name="price" id="$" type="checkbox">
+<label for="$"><abbr title="Inexpensive">$</abbr></label>
+<input value="$$" name="price" id="$$" type="checkbox">
+<label for="$$"><abbr title="Moderate">$$</abbr></label>
+<input value="$$$" name="price" id="$$$" type="checkbox">
+<label for="$$$"><abbr title="Expensive">$$$</abbr></label>
+<input value="$$$$" name="price" id="$$$$" type="checkbox">
+<label for="$$$$"><abbr title="Very Expensive">$$$$</abbr></label>
+</div>
+<div class="criticspicks clearfix">
+<h6><label for="only_critics_picks">Only Critics' Picks</label></h6>
+<input value="1" id="only_critics_picks" type="checkbox">
+<span class="NYTcriticpick">Critics' Picks</span>
+</div>
+<div class="byname">
+<label for="restoChooseName">Restaurant Name <span>(Optional)</span></label>
+<input type="text" value="" id="restoChooseName" class="input text greyed" name="keyword" autocomplete="off">
+<input align="absmiddle" class="go" border="0" alt="Go" type="image" src="http://graphics8.nytimes.com/images/global/global_search/go_button22x19.gif">
+</div>
+</form>
+</div><!--inset -->
+</div><!--end restaurantSearchModule for SCOOP-->        	</div>
+<!--Ads Simple -->                    <div class="columnGroup ">
+
+			
+<div class="bigAd" id="SFMiddle">
+<!-- ADXINFO classification="sumo" campaign="Dom_Perignon_Holiday_2011-1782308-nyt8"--><div align="center">
+<SCRIPT type="text/javascript" SRC="http://ad-emea.doubleclick.net/adj/N5359.281168.NEWYORKTIMES.COM/B6056838.17;sz=300x600;pc=nyt174465A285976;ord=2011.12.02.18.04.30?;click=http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/dining/index.html&pos=SFMiddle&camp=Dom_Perignon_Holiday_2011-1782308-nyt8&ad=domperignon_300x600_B6056838.17&sn2=bd5a3f09/25df2084&snr=doubleclick&snx=1322848848&sn1=2b41f57d/90c3c408&goto=">
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/dining/index.html&pos=SFMiddle&sn2=bd5a3f09/25df2084&sn1=248446b0/7e93ce6b&camp=Dom_Perignon_Holiday_2011-1782308-nyt8&ad=domperignon_300x600_B6056838.17&goto=http://ad-emea.doubleclick.net/jump/N5359.281168.NEWYORKTIMES.COM/B6056838.17;sz=300x600;pc=nyt174465A285976;ord=2011.12.02.18.04.30?" TARGET="_blank">
+<IMG SRC="http://ad-emea.doubleclick.net/ad/N5359.281168.NEWYORKTIMES.COM/B6056838.17;sz=300x600;pc=nyt174465A285976;ord=2011.12.02.18.04.30?"
+ BORDER=0 WIDTH=300 HEIGHT=600
+ ALT="Click Here"></A>
+</NOSCRIPT>
+</div>
+</div>
+
+
+
+<div class="singleAd" id="Box3">
+<!-- ADXINFO classification="feature_squares" campaign="nyt2011-regilite-P1-todaysheadlines"--><iframe title="regilite" src="https://myaccount.nytimes.com/regilite?product=TH" width="336" height="90" marginheight="0" marginwidth="0" frameborder="0" vspace="0" hspace="0" scrolling="no"></iframe>
+</div>
+
+
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<div class="recipeSearchModule">
+<div class="inset">
+<form method="get" action="http://query.nytimes.com/search/recipes">
+<h3 class="sectionHeader"><label for="recipeSearchQuery">Recipe Search Beta</label></h3><span class="caption important">Explore Times Archival Recipes</span>
+<div class="inlineSearchControl">
+<INPUT type="text" class="text" name="query" id="recipeSearchQuery">
+<input id="recipeSearchSubmit" title="Search" alt="Search" type="image" src="http://graphics8.nytimes.com/images/global/global_search/search_button40x19.gif">
+</div>
+</form>
+<h6 class="kicker">Suggested Recipe Searches</h6> <span class="meta"></span>
+<div class="subColumn-4 wrap">
+<div class="column">
+<div class="thumb">
+<a href="http://query.nytimes.com/search/recipes?query=hors%20d'oeuvres">
+<img src="http://graphics8.nytimes.com/images/2007/12/18/dining/19mini-75.jpg" alt="Hors d'Oeuvres">
+</a>
+</div>
+<h6 class="kicker"><a href="http://query.nytimes.com/search/recipes?query=hors%20d'oeuvres">Appetizers</a></h6>
+</div>
+<div class="column">
+<div class="thumb">
+<a href="http://query.nytimes.com/search/recipes?query=soup&submit.x=0&submit.y=0&submit=sub">
+<img src="http://graphics8.nytimes.com/packages/images/dining/recipe-search/soup.75.jpg" alt="soups">
+</a>
+</div>
+<h6 class="kicker"><a href="http://query.nytimes.com/search/recipes?query=soup&submit.x=0&submit.y=0&submit=sub">Soup</a></h6>
+</div>
+<div class="column">
+<div class="thumb">
+<a href="http://query.nytimes.com/search/recipes?query=potatoes&submit.x=0&submit.y=0">
+<img src="http://graphics8.nytimes.com/images/2010/11/24/dining/24appe-span/24appe-span-thumbStandard.jpg" alt="Potatoes">
+</a>
+</div>
+<h6 class="kicker"><a href="http://query.nytimes.com/search/recipes?query=potatoes&submit.x=0&submit.y=0">Potatoes</a></h6>
+</div>
+<div class="column lastColumn">
+<div class="thumb">
+<a href="http://query.nytimes.com/search/recipes?query=pie&x=25&y=10">
+<img src="http://graphics8.nytimes.com/images/2011/11/08/dining/pie-thumb/pie-thumb-custom1.jpg" alt="Pie">
+</a>
+</div>
+<h6 class="kicker"><a href="http://query.nytimes.com/search/recipes?query=pie&x=25&y=10">Pie</a></h6>
+</div>
+</div><!--END .subColumn-4 -->
+</div><!--END .inset -->
+</div><!--END .recipeSearchModule -->
+<div id="mostPopWidget" class="singleRule"> 
+
+      <!-- MOST POPULAR MODULE STARTS -->
+      <h4>MOST POPULAR - STYLE</h4>
+         <div id="tabsContainer">
+         <ul class="tabs">
+            <li class="selected"><a href="#">E-Mailed</a></li>
+            <li><a href="#">Blogged</a></li>
+            
+            <li><a href="#">Viewed</a></li>
+            
+         </ul>
+         </div>
+            <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"></HEAD><div class="tabContent tabContentActive" id="mostEmailed"><ol>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/fashion/01LITERARY_SPAN/01zLITERARY_SPAN-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/01/fashion/new-yorks-literary-cubs.html?src=me&amp;ref=style" title="Click to go to this article">The Literary Cubs</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/fashion/01FONDERIE2/01FONDERIE2-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/01/fashion/converting-ak-47s-into-jewelry.html?src=me&amp;ref=style" title="Click to go to this article">Another Shot: AK-47s as Jewelry</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/garden/01COVERGIFT_SPAN/01COVERGIFT_SPAN-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/01/garden/the-holiday-gimme-guide.html?src=me&amp;ref=style" title="Click to go to this article">The Gimme Guide</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/fashion/01skindeep/01skindeep-thumbStandard.jpg"  kicker="Skin Deep"><a href="http://www.nytimes.com/2011/12/01/fashion/product-picks-for-2011-skin-deep.html?src=me&amp;ref=style" title="Click to go to this article">Skin Deep: For Gifts, a Crop of the Creams</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/30/dining/30COOKBOOK1/30COOKBOOK1-thumbStandard.jpg"  kicker="Holiday Gift Guide"><a href="http://www.nytimes.com/2011/11/30/dining/notable-cookbooks-of-2011.html?src=me&amp;ref=style" title="Click to go to this article">Holiday Gift Guide: The Year&rsquo;s Notable Cookbooks</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/fashion/01SCENE1_SPAN/01SCENE1_SPAN-thumbStandard.jpg"  kicker="Scene City"><a href="http://www.nytimes.com/2011/12/01/fashion/at-art-basel-miami-beach-insiders-meet-newcomers-scene-city.html?src=me&amp;ref=style" title="Click to go to this article">Scene City: Mingling With the Veterans at Art Basel Miami Beach</a></li>
+<li kicker="Recipe"><a href="http://www.nytimes.com/2011/11/30/dining/mocha-chocolate-chip-cake-recipe.html?src=me&amp;ref=style" title="Click to go to this article">Recipe: Mocha Chocolate Chip Cake</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/fashion/01guyartbasel/01guyartbasel-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/02/fashion/eli-broad-a-major-art-collector-at-art-basel-miami-beach.html?src=me&amp;ref=style" title="Click to go to this article">A Shark Circles Art Basel Miami Beach</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/fashion/04whatiwore/04whatiwore-thumbStandard.jpg"  kicker="What I Wore"><a href="http://www.nytimes.com/2011/12/04/fashion/archie-panjabi-what-i-wore.html?src=me&amp;ref=style" title="Click to go to this article">What I Wore: In Something Familiar With All Her Black</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/04/fashion/04LOVE/04LOVE-thumbStandard.jpg"  kicker="Modern Love"><a href="http://www.nytimes.com/2011/12/04/fashion/what-a-scale-cant-measure-modern-love.html?src=me&amp;ref=style" title="Click to go to this article">Modern Love: What a Scale Can&rsquo;t Measure</a></li>
+</ol>
+        <a class="more" href="http://www.nytimes.com/gst/mostemailed.html">Go to Complete List &#x00bb;</a>
+        </div><!-- #most emailed top10 -->
+
+            <div class="tabContent" id="mostBlogged">
+<ol><li><a href="http://www.nytimes.com/2001/10/28/style/wedding-jennifer-weiner-adam-bonin.html?bl" title="Click to go to this article">WEDDING; Jennifer Weiner, Adam Bonin</a></li></ol>
+<a class="more" href="http://www.nytimes.com/gst/mostblogged.html">Go to Complete List &#x00bb;</a>
+</div><!-- #most blogged top10 -->
+
+            
+            <div class="tabContent" id="mostViewed"><ol>
+<li kicker="On the Runway"><a href="http://runway.blogs.nytimes.com/2011/12/01/an-unexpected-request/?src=mv&amp;ref=style" title="Click to go to this article">On the Runway: An Unexpected Request</a></li>
+<li kicker="Motherlode"><a href="http://parenting.blogs.nytimes.com/2011/12/01/my-20-years-as-a-dad-columnist/?src=mv&amp;ref=style" title="Click to go to this article">Motherlode: My 20 Years as a Dad Columnist</a></li>
+<li kicker="Motherlode"><a href="http://parenting.blogs.nytimes.com/2011/12/01/is-a-tablet-computer-for-babies-the-worst-toy-of-2011/?src=mv&amp;ref=style" title="Click to go to this article">Motherlode: Is a Tablet Computer for Babies the Worst Toy of 2011?</a></li>
+<li kicker="Diner's Journal"><a href="http://dinersjournal.blogs.nytimes.com/2011/12/01/what-were-reading-322/?src=mv&amp;ref=style" title="Click to go to this article">Diner's Journal: What We're Reading</a></li>
+<li kicker="Diner's Journal"><a href="http://dinersjournal.blogs.nytimes.com/2011/11/29/reviewing-fatty-cue/?src=mv&amp;ref=style" title="Click to go to this article">Diner's Journal: Reviewing Fatty 'Cue</a></li>
+<li kicker="On the Runway"><a href="http://runway.blogs.nytimes.com/2011/11/30/from-bathroom-basic-to-fashion-accessory/?src=mv&amp;ref=style" title="Click to go to this article">On the Runway: From Bathroom Basic to Fashion Accessory</a></li>
+<li kicker="Motherlode"><a href="http://parenting.blogs.nytimes.com/2011/11/30/teaching-etiquette-in-the-age-of-the-evite/?src=mv&amp;ref=style" title="Click to go to this article">Motherlode: Teaching Etiquette in the Age of the Evite</a></li>
+<li kicker="Motherlode"><a href="http://parenting.blogs.nytimes.com/2011/11/30/more-children-need-a-free-breakfast-lunch-and-dinner/?src=mv&amp;ref=style" title="Click to go to this article">Motherlode: More Children Need a Free Breakfast, Lunch - and Dinner</a></li>
+</ol>
+        </div><!-- #most viewed top10 -->
+
+            
+         <script type="text/javascript">new Accordian("mostPopWidget");</script>
+      <!-- MOST POPULAR MODULE ENDS -->
+   
+
+</div><!--close mostPopWidget -->
+</div>
+<!--Ads Simple -->                    <div class="columnGroup ">
+			
+
+<div class="bigAd" id="Box1">
+<!-- ADXINFO classification="Module" campaign="nyt2011_module_biz_piers_morgan_hp_ros_db"--><!-- MARKETING MODULE -->
+<div style="border:solid #999;border-width:1px;font-family:Arial,sans-serif;text-align:left; width:334px;background:#fff;" class="clearfix wrap">
+  <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/dining/index.html&pos=Box1&sn2=4c95a023/c1af895c&sn1=3cd7b396/8bf4d3f&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://mediadecoder.blogs.nytimes.com/2011/11/30/piers-morgan-struggles-to-beat-kings-ratings/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-PH%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm11/business_120211.jpg" width="334" height="154" border="0" alt=""></a> 
+  <div style="padding:7px 9px 0;background:#fff">
+      <h2 style="font-size:22px;line-height:24px; margin:0;padding:0 0 4px;"><a style="color:#004276;" target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/dining/index.html&pos=Box1&sn2=4c95a023/c1af895c&sn1=3cd7b396/8bf4d3f&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://mediadecoder.blogs.nytimes.com/2011/11/30/piers-morgan-struggles-to-beat-kings-ratings/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-HDR%26WT.mc_ev=click%26WT.mc_c=174041">Piers Morgan's struggle</a></h2>
+
+      <p style="margin:0 0 3px; padding:0;font-size: 11px;"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/dining/index.html&pos=Box1&sn2=4c95a023/c1af895c&sn1=dcca9a23/ff2c3589&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://nytimes.com/business/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-URL%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank" style="font-size:11px;margin:3px 0;padding:0;font-family:Arial,sans-serif;  color:#000; text-transform:uppercase;">Also in Business &raquo;</a></p>
+      <ul style="font-size:12px;margin:0; padding-bottom: 10px; border-bottom:1px solid #ccc;" class="refer">
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/dining/index.html&pos=Box1&sn2=4c95a023/c1af895c&sn1=7ddbcc18/6dfb3f78&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://dealbook.nytimes.com/2011/11/30/american-wont-be-the-last-airline-bankruptcy/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-L1%26WT.mc_ev=click%26WT.mc_c=174041" style="color: #004276">American won't be the last airline bankruptcy</a></li>
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/dining/index.html&pos=Box1&sn2=4c95a023/c1af895c&sn1=aada211/3630bfe3&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://www.nytimes.com/2011/11/30/business/media/pepto-bismol-highlights-overindulging-in-latest-campaign.html%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-L2%26WT.mc_ev=click%26WT.mc_c=174041" style="color: #004276">A look at Pepto-Bismol's new holiday commercials</a></li>
+      </ul>
+    </div>
+ 
+ <div style="padding:5px 9px; float:left; width:316px; background:#fff"> <a style="float:left" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/dining/index.html&pos=Box1&sn2=4c95a023/c1af895c&sn1=dcca9a23/ff2c3589&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://nytimes.com/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-LOGO%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/nytimes.gif" alt="nytimes.com" width="116" height="18" border="0"></a><a style="float:right" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/dining/index.html&pos=Box1&sn2=4c95a023/c1af895c&sn1=dcca9a23/ff2c3589&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://nytimes.com/business/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-VRT%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/verticals_business.gif" alt="Business" width="120" height="18" border="0"></a></div><br clear="all">
+
+</div>
+  <!-- /MARKETING MODULE -->
+
+</div>
+
+
+<div class="singleAd" id="Middle5">
+<!-- ADXINFO classification="FeaturedProduct" campaign="NYT2011-Mktg-TimesLimited-336x79-ROS"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/dining/index.html&pos=Middle5&sn2=2fcdf228/94f56834&sn1=8a6313d5/cc494640&camp=NYT2011-Mktg-TimesLimited-336x79-ROS&ad=TL-D-I-NYT-AD-FP-TLP-ROS-0211-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fmarketing%2Ftimeslimited%2F%3FWT%2Emc%5Fid%3DTL%2DD%2DI%2DNYT%2DAD%2DFP%2DTLP%2DROS%2D0211%2DNA%26WT%2Emc%5Fev%3Dclick" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/25/86/ad.258626/Times_Limited_336x79_v2.gif" width="336" height="79" border="0"></a>
+
+</div>
+
+
+
+<!--[TwoColumnAdLeft - Begin] -->
+	<div class="adHeader">
+<h4>
+Advertisements	    </h4>
+</div>
+<div class="cColumn-TextAdsBox">
+	<div class="cColumn-TextAdsLeft">
+<div class="cColumn-TextAd">
+<!-- ADXINFO classification="SiteForADay" campaign="nyt2011-mktg-arts_and_ents-s4d_ros"--><div style="width:320px; height:60px;"> 
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/dining/index.html&pos=Right5A&sn2=7b3b9f4e/2256804e&sn1=6a1102ca/9e7f5eda&camp=nyt2011-mktg-arts_and_ents-s4d_ros&ad=AR-D-I-NYT-AD-S4D-AandE-ROS-1211-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fevents%2Findex%2Ehtml%3FWT%2Emc%5Fid%3DAR%2DD%2DI%2DNYT%2DAD%2DS4D%2DAandE%2DROS%2D1211%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D175108" target="_blank"> 
+<img style="float:left; margin-right:10px;" src="http://graphics8.nytimes.com/adx/images/ADS/28/59/ad.285977/11-2187_ArtsEntertainment_86x60.gif" width="86" height="60" border="0" style="vertical-align:text-top;"></a>
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/dining/index.html&pos=Right5A&sn2=7b3b9f4e/2256804e&sn1=6a1102ca/9e7f5eda&camp=nyt2011-mktg-arts_and_ents-s4d_ros&ad=AR-D-I-NYT-AD-S4D-AandE-ROS-1211-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fevents%2Findex%2Ehtml%3FWT%2Emc%5Fid%3DAR%2DD%2DI%2DNYT%2DAD%2DS4D%2DAandE%2DROS%2D1211%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D175108" target="_blank">  <br />Introducing: The Interactive Arts & Entertainment Guide</a>
+</div>
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+</div>
+	</div>
+<!--[TwoColumnAdLeft - End] -->
+<div class="advertisementColumnGroup">
+<!--[MarketPlaceGridAd - Begin] -->
+
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+    <!--[MarketPlaceGridAd - End] -->
+</div>
+</div>
+<!--Ads Ads -->                    <div class="columnGroup last">
+
+<div class="singleAd" id="Feature1">
+<!-- ADXINFO classification="hp-module" campaign="feature1-1280FifthAve-18-1712178-cla"--><!--Ad Template Begins Here -->
+<div class="story advertisement">
+<div class="callout">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/dining/index.html&pos=Feature1&sn2=8d01ffe8/b152a7d&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/15/ad.271512/7.23.11_BRK11-2614_1280_nyt.com_module_update2.jpg" width="173" height="98" border="0" alt="Click for Details"></a>
+</div>
+<h5>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/dining/index.html&pos=Feature1&sn2=8d01ffe8/b152a7d&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank"></a>
+</h5>
+<p class="summary"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/dining/index.html&pos=Feature1&sn2=8d01ffe8/b152a7d&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank">Designed by<br>Robert&nbsp;&nbsp;A.M. Stern<br>Overlooking Central Park<br>Up to 5 Bedrooms</a></p>
+<div class="adCreative">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/dining/index.html&pos=Feature1&sn2=8d01ffe8/b152a7d&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/15/ad.271512/5.19.11_1280_logo_78x36.jpg" width="78" height="36"></a>
+</div>
+</div>
+<!--Ad Template Ends Here -->
+</div>
+
+
+<div class="singleAd" id="SponLink">
+<script language="JavaScript" type="text/javascript">
+    
+    // Sponlink_short
+
+    NYTD.GoogleAds.getGoogleAds("AFC", { 
+        google_ad_client:'nytimes_section_var',
+        ad_target_list:'sponLink'
+    });
+</script>
+</div>
+
+</div>
+</div><!--close cColumn -->
+</div><!--close wideA -->
+</div><!--close spanAB -->
+</div><!--close main -->
+<div id="footer">
+<ul class="first">
+<li class="first"><a href="http://www.nytimes.com">Home</a></li>
+<li >
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li>
+<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+</ul>    <ul>
+<li class="first"><a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&copy; 2011</a> <a href="http://www.nytco.com/">The New York Times Company</a></li>
+<li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Terms of Service</a></li>
+<li class="termsOfSale"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+<li><a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a></li>
+<li><a class="rssButton" href="http://www.nytimes.com/rss">RSS</a></li>
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+<li><a href="http://www.nytco.com/careers">Work for Us</a></li>
+<li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+</ul>
+</div>
+</div><!--close page -->
+</div><!--close shell -->
+
+
+
+
+
+
+
+<IMG SRC="/adx/bin/clientside/91c2405Q2Fl8Q7DmbD-Q268ambamQ23CrIILm-IC" height="1" width="3">
+
+<script type="text/javascript" language="JavaScript">
+// Written by /usr/local/knews/bin/commentcount.pl Fri Dec  2 13:02:02 2011
+var NYTArticleCommentCounts = {
+"100000001190843":{count:147, commentsEnabled:false},
+"100000001190858":{count:204, commentsEnabled:false},
+"100000001190907":{count:49, commentsEnabled:false},
+"100000001191255":{count:237, commentsEnabled:false},
+"100000001191704":{count:133, commentsEnabled:false},
+"100000001191724":{count:100, commentsEnabled:false},
+"100000001191950":{count:122, commentsEnabled:false},
+"100000001192133":{count:307, commentsEnabled:false},
+"100000001192329":{count:76, commentsEnabled:false},
+"100000001190961":{count:19, commentsEnabled:false},
+"100000001177231":{count:1, commentsEnabled:true},
+"100000001177245":{count:74, commentsEnabled:true},
+"100000001179958":{count:24, commentsEnabled:false},
+"100000001180322":{count:227, commentsEnabled:true},
+"100000001183078":{count:44, commentsEnabled:false},
+"100000001183080":{count:327, commentsEnabled:false},
+"100000001183081":{count:7, commentsEnabled:false},
+"100000001183084":{count:235, commentsEnabled:false},
+"100000001183087":{count:11, commentsEnabled:false},
+"100000001183089":{count:14, commentsEnabled:false},
+"100000001183090":{count:11, commentsEnabled:false},
+"100000001183091":{count:3, commentsEnabled:false},
+"100000001183094":{count:14, commentsEnabled:false},
+"100000001184186":{count:79, commentsEnabled:false},
+"100000001184524":{count:149, commentsEnabled:false},
+"100000001186117":{count:1, commentsEnabled:false},
+"100000001186193":{count:12, commentsEnabled:true},
+"100000001186569":{count:190, commentsEnabled:false},
+"100000001189184":{count:49, commentsEnabled:false},
+"100000001190721":{count:71, commentsEnabled:false},
+"100000001191577":{count:224, commentsEnabled:false},
+"100000001191688":{count:28, commentsEnabled:false},
+"100000001191719":{count:107, commentsEnabled:false},
+"100000001191931":{count:121, commentsEnabled:false},
+"100000001191985":{count:110, commentsEnabled:false},
+"100000001192057":{count:211, commentsEnabled:false},
+"100000001192188":{count:141, commentsEnabled:false},
+"100000001192496":{count:52, commentsEnabled:false},
+"100000001192500":{count:206, commentsEnabled:false},
+"100000001192600":{count:224, commentsEnabled:false},
+"100000001192611":{count:167, commentsEnabled:false},
+"100000001193250":{count:67, commentsEnabled:false},
+"100000001193262":{count:37, commentsEnabled:false},
+"100000001193344":{count:98, commentsEnabled:false},
+"100000001193527":{count:27, commentsEnabled:false},
+"100000001193629":{count:10, commentsEnabled:false},
+"100000001193702":{count:17, commentsEnabled:false},
+"100000001193743":{count:108, commentsEnabled:false},
+"100000001193763":{count:516, commentsEnabled:false},
+"100000001193825":{count:86, commentsEnabled:false},
+"100000001193857":{count:48, commentsEnabled:false},
+"100000001193859":{count:160, commentsEnabled:false},
+"100000001193890":{count:117, commentsEnabled:false},
+"100000001193920":{count:44, commentsEnabled:false},
+"100000001193944":{count:303, commentsEnabled:false},
+"100000001193948":{count:7, commentsEnabled:false},
+"100000001194088":{count:51, commentsEnabled:false},
+"100000001194098":{count:17, commentsEnabled:true},
+"100000001194137":{count:109, commentsEnabled:false},
+"100000001194342":{count:159, commentsEnabled:false},
+"100000001194394":{count:68, commentsEnabled:false},
+"100000001194454":{count:36, commentsEnabled:false},
+"100000001194795":{count:192, commentsEnabled:false},
+"100000001194808":{count:628, commentsEnabled:false},
+"100000001194892":{count:125, commentsEnabled:false},
+"100000001195360":{count:33, commentsEnabled:false},
+"100000001195689":{count:178, commentsEnabled:false},
+"100000001195802":{count:10, commentsEnabled:false},
+"100000001195854":{count:304, commentsEnabled:false},
+"100000001195914":{count:48, commentsEnabled:false},
+"100000001195920":{count:17, commentsEnabled:false},
+"100000001195923":{count:44, commentsEnabled:false},
+"100000001195938":{count:138, commentsEnabled:false},
+"100000001195940":{count:10, commentsEnabled:false},
+"100000001195947":{count:92, commentsEnabled:false},
+"100000001195952":{count:162, commentsEnabled:false},
+"100000001195976":{count:141, commentsEnabled:false},
+"100000001195982":{count:283, commentsEnabled:false},
+"100000001196229":{count:42, commentsEnabled:false},
+"100000001196250":{count:104, commentsEnabled:true},
+"100000001196432":{count:333, commentsEnabled:false},
+"100000001196658":{count:42, commentsEnabled:false},
+"100000001196737":{count:28, commentsEnabled:true},
+"100000001196861":{count:18, commentsEnabled:false},
+"100000001196955":{count:71, commentsEnabled:true},
+"100000001196963":{count:143, commentsEnabled:false},
+"100000001197064":{count:68, commentsEnabled:false},
+"100000001197489":{count:3, commentsEnabled:false},
+"100000001197999":{count:75, commentsEnabled:false},
+"100000001198014":{count:290, commentsEnabled:false},
+"100000001198050":{count:69, commentsEnabled:true},
+"100000001198076":{count:32, commentsEnabled:true},
+"100000001198092":{count:204, commentsEnabled:false},
+"100000001198110":{count:424, commentsEnabled:false},
+"100000001198123":{count:343, commentsEnabled:false},
+"100000001198126":{count:62, commentsEnabled:false},
+"100000001198138":{count:163, commentsEnabled:false},
+"100000001198377":{count:143, commentsEnabled:true},
+"100000001198446":{count:23, commentsEnabled:true},
+"100000001198471":{count:52, commentsEnabled:true},
+"100000001198476":{count:157, commentsEnabled:true},
+"100000001198581":{count:48, commentsEnabled:true},
+"100000001198642":{count:253, commentsEnabled:false},
+"100000001199366":{count:136, commentsEnabled:true},
+"100000001199374":{count:114, commentsEnabled:true},
+"100000001199444":{count:155, commentsEnabled:false},
+"100000001199658":{count:4, commentsEnabled:true},
+"100000001200046":{count:884, commentsEnabled:true},
+"100000001200335":{count:165, commentsEnabled:false},
+"100000001200378":{count:192, commentsEnabled:false},
+"100000001200458":{count:77, commentsEnabled:false},
+"100000001200844":{count:23, commentsEnabled:true},
+"100000001201276":{count:88, commentsEnabled:true},
+"100000001201525":{count:188, commentsEnabled:true},
+"100000001202361":{count:0, commentsEnabled:true},
+"100000001202521":{count:27, commentsEnabled:true},
+"100000001202701":{count:270, commentsEnabled:false},
+"100000001202807":{count:17, commentsEnabled:true},
+"100000001202815":{count:116, commentsEnabled:false},
+"100000001202831":{count:232, commentsEnabled:true},
+"100000001202861":{count:95, commentsEnabled:true},
+"100000001202869":{count:39, commentsEnabled:true},
+"100000001202871":{count:23, commentsEnabled:true},
+"100000001202889":{count:54, commentsEnabled:true},
+"100000001202895":{count:33, commentsEnabled:true},
+"100000001202901":{count:90, commentsEnabled:true},
+"100000001203208":{count:19, commentsEnabled:true},
+"100000001203416":{count:220, commentsEnabled:true},
+"100000001203664":{count:0, commentsEnabled:true},
+"100000001188908":{count:16, commentsEnabled:true},
+"100000001194403":{count:0, commentsEnabled:true},
+"100000001194404":{count:0, commentsEnabled:true},
+"100000001194405":{count:71, commentsEnabled:true},
+"100000001194406":{count:0, commentsEnabled:true},
+"100000001194419":{count:1, commentsEnabled:true},
+"100000001194423":{count:58, commentsEnabled:true},
+"100000001194424":{count:0, commentsEnabled:true},
+"100000001194425":{count:0, commentsEnabled:true},
+"100000001194427":{count:0, commentsEnabled:true},
+"100000001194843":{count:51, commentsEnabled:true},
+"100000001197746":{count:1, commentsEnabled:true},
+"100000001201815":{count:0, commentsEnabled:true},
+"100000001201989":{count:0, commentsEnabled:true}
+};
+</script>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/homepage/articleCommentCounts.js"></script>
+<script type="text/javascript" language="JavaScript">
+    ArticleCommentCounts.apply()
+    </script>
+
+			
+		<!-- Start UPT call -->
+		<img height="1" width="3" border=0 src="http://up.nytimes.com/?d=0/23/&t=3&s=0&ui=&r=&u=www%2enytimes%2ecom%2fpages%2fdining%2findex%2ehtml%3f">
+		<!-- End UPT call -->
+	
+		
+        <script language="JavaScript"><!--
+          var dcsvid="";
+          var regstatus="non-registered";
+        //--></script>
+        <script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+        <noscript>
+          <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div>
+        </noscript>
+   
+</body>
+</html>

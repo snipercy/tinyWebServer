@@ -1,0 +1,7 @@
+Set-cookie: RMID=00c3216841ec4ed9132d72d1; expires=Saturday, 01-Dec-2012 18:04:29 GMT; path=/; domain=.nytimes.com
+Location: http://ad.doubleclick.net/jump/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.29
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+

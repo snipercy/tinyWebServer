@@ -1,0 +1,30 @@
+Content-Length: 154
+Connection: Close
+Location: http://www.baidu.com/?tn=SE_PSStatistics_p1d9m0nf
+Server: Bws 1.0
+Set-Cookie: PSLOSTID=1034; Domain=.baidu.com; Path=/; Max-Age=60
+
+<html>
+<head><title>302 Found</title></head>
+<body bgcolor="white">
+<center><h1>302 Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+Date: Wed, 03 Jun 2015 08:12:53 GMT
+Location: http://tieba.baidu.com/
+P3p: CP=" OTI DSP COR IVA OUR IND COM "
+Server: Apache
+Set-Cookie: BAIDUID=7C23997890801B1CCBE02B555CEAF3D0:FG=1; expires=Thu, 02-Jun-16 08:12:53 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+Tracecode: 07735688380678768650060316
+Tracecode: 07735688381010195466060316
+Content-Length: 0
+
+Content-Encoding: gzip
+Content-Length: 1093
+Set-Cookie: qh[360]=1;Domain=.hao123.com;Path=/;Max-Age=300
+Pragma: no-cache
+
+ã« aûôF"yLÕò]œ∑¶°¶ß¶±wo÷∞ˆΩ†TS Zùçòà¨UÛE"¿*Œ3µVäwºU+n¸Í~8K∏$™UáÌ%áôè≥®uø∂µ≈õ—ßàâàT“Újµ~∏K?˜wy∆À<ö∂ÉH\"¢fd∂6Ì†•(T˚øf)ä«Y®Dû°Ç0í!·D‚ßÂ!ûIÆ∆V{dY-é
+&Kæü)∫cl#“√Ì∆∆£WJ¬…úXÊ£N¬d'è8
+Ì˙nÖé óZ‘hb\˘"F+ñÂH^§,‰»˝Ã%K=∆≥I"R0\[√Úf|AáÁ·Ö÷Ûµ?§Á√„w·

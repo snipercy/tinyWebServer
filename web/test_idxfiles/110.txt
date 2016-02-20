@@ -1,0 +1,3 @@
+Location: http://www.nytimes.com/glogin?URI=http://www.nytimes.com/2011/12/04/magazine/mitt-romney-bot.html&OQ=_rQ3D1&OP=16f37fdcQ2FQ51!67Q51-F0ipFFQ5DQ25Q51Q251__Q51_Q25Q511tQ51CXMXxQ5EO6Q51CQ5EQ5DQ5DSpFCO6RS7FQ5Dk8Q5DCL
+Connection: keep-alive
+

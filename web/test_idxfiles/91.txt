@@ -1,0 +1,688 @@
+Set-cookie: RMID=2c24588640f34ed9132f50f6; expires=Saturday, 01-Dec-2012 18:04:31 GMT; path=/; domain=.nytimes.com
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>T Magazine - Continuous Style Coverage - The New York Times</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="noarchive">
+<meta name="description" content="T Magazine - curating the culture of style." />
+<meta name="keywords" content="" />
+<meta name="asset_id" content="" />
+<meta name="TimesPeople" content="disallow" />
+<meta name="CG" content="t-magazine">
+<meta name="SCG" content="">
+<meta name="PT" content="Section Front">
+<meta name="PST" content="">
+<meta name="msapplication-starturl" content="http://www.nytimes.com/" />
+
+<link rel="canonical" href="http://www.nytimes.com/pages/t-magazine/index.html">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.nytimes.com/services/xml/rss/nyt/tmagazine.xml"/>
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/tmagazine/1.0/screen/build/homepage/styles.css">
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/tmagazine/1.0/print/styles.css" media="print">
+<!--[if IE]>
+        <style type="text/css">@import url(http://graphics8.nytimes.com/css/tmagazine/1.0/screen/build/homepage/ie.css);</style>
+    <![endif]-->
+<!--[if IE 6]>
+        <style type="text/css">@import url(http://graphics8.nytimes.com/css/tmagazine/1.0/screen/build/homepage/ie6.css);</style>
+    <![endif]-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script>
+</head>
+<body id="home" class="homepage">
+<a name="top"></a>
+<div id="shell" class="wrap">
+<div class="bcLayout layout closing">
+<div class="aColumn column">
+<div id="masthead">
+<div class="insetV">
+<h2><a href="http://www.nytimes.com/pages/t-magazine/index.html"><img src="http://graphics8.nytimes.com/images/tmagazine/logos/t-logo-190.gif" alt="The New York Times Style Magazine"></a></h2>
+</div>
+</div><!--close #masthead -->
+<div id="feed-control">
+<!--cur:StandardOrWideThumb prev:-->
+<div class="columnGroup first">
+<div class="feedModule">
+<div class="singleRule">
+<h4 class="graphicHeader themomentHeader"><a href="http://tmagazine.blogs.nytimes.com/?src=tmh">THE MOMENT</a></h4>
+<div class="singleRuleDk">
+<div class="story">
+<h6 class="dateline">December 2, 2011, 12:39 PM</h6>
+<h5><a href="http://tmagazine.blogs.nytimes.com/2011/12/02/viggo-talks-and-talks/?ref=t-magazine">Viggo Talks and Talks</a></h5>
+<h6 class="byline">By ZOE HELLER</h6>
+<div class="thumb runaroundLeft">
+<a href="http://tmagazine.blogs.nytimes.com/2011/12/02/viggo-talks-and-talks/?ref=t-magazine"><img class="image" src="http://graphics8.nytimes.com/images/2011/12/04/t-magazine/04well-viggo-slide-GZN3/04well-viggo-slide-GZN3-thumbStandard.jpg" alt="Viggo Talks and Talks" border="0" /></a>
+</div>
+<p class="summary">The actor Viggo Mortensen is not the strong, silent type he always seems to play. In his new role, as Sigmund Freud, he finally gets to speak his mind. <a href="http://tmagazine.blogs.nytimes.com/2011/12/02/viggo-talks-and-talks/?ref=t-magazine">More...</a></p>
+</div>
+</div>
+</div><!--close .singleRule -->
+<div class="singleRule">
+<div class="story">
+<h6 class="dateline">December 2, 2011, 11:30 AM</h6>
+<h5><a href="http://tmagazine.blogs.nytimes.com/2011/12/02/come-and-get-it/?ref=t-magazine">Come and Get It!</a></h5>
+<h6 class="byline">By T MAGAZINE</h6>
+<div class="thumb runaroundLeft">
+<a href="http://tmagazine.blogs.nytimes.com/2011/12/02/come-and-get-it/?ref=t-magazine"><img class="image" src="http://graphics8.nytimes.com/images/2011/12/04/t-magazine/04well-opener/04well-opener-thumbStandard.jpg" alt="Come and Get It!" border="0" /></a>
+</div>
+<p class="summary">Walter Martin and Paloma Munez's snowy T for our holiday issue was inspired by blizzards, namely those of D.W. Griffith and Stanley Kubrick. <a href="http://tmagazine.blogs.nytimes.com/2011/12/02/come-and-get-it/?ref=t-magazine">More...</a></p>
+</div>
+</div><!--close .singleRule -->
+<div class="singleRule">
+<div class="story">
+<h6 class="dateline">December 2, 2011, 10:00 AM</h6>
+<h5><a href="http://tmagazine.blogs.nytimes.com/2011/12/02/case-study-gifts-for-drinkers/?ref=t-magazine">Case Study | Gifts for Drinkers</a></h5>
+<h6 class="byline">By TOBY CECCHINI</h6>
+<div class="thumb runaroundLeft">
+<a href="http://tmagazine.blogs.nytimes.com/2011/12/02/case-study-gifts-for-drinkers/?ref=t-magazine"><img class="image" src="http://graphics8.nytimes.com/images/2011/12/01/t-magazine/01gift-cecchini/01gift-cecchini-thumbStandard.jpg" alt="Case Study | Gifts for Drinkers" border="0" /></a>
+</div>
+<p class="summary">T's cocktail columnist on this year's best boozy gifts: aged gin, retro jiggers, hand-cranked juicers and the smartest, cheapest shaker setup he's ever come across. <a href="http://tmagazine.blogs.nytimes.com/2011/12/02/case-study-gifts-for-drinkers/?ref=t-magazine">More...</a></p>
+</div>
+</div><!--close .singleRule -->
+</div><!--close .feedModule -->
+</div>
+<!--cur:Simple prev:StandardOrWideThumb-->
+<div class="columnGroup singleRule ">
+
+<div class="singleAd" id="Module1">
+<!-- ADXINFO classification="button" campaign="SIR-Vertival-Domino-1566112-cla"--><h6 class="adHeader">Advertisement</h6>
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/t-magazine/index.html&pos=Module1&sn2=627bc2a4/2b09cc53&sn1=63bbcd18/9234d63a&camp=SIR-Vertival-Domino-1566112-cla&ad=11.07.11_Sotheby-Domino&goto=http%3A%2F%2Fwww%2Esothebysrealty%2Ecom%2Feng%2Fsales%2Fdetail%2F180%2Dl%2D1281%2D4346232%2Fdana%2Dpoint%2Ddana%2Dpoint%2Dca%2D92629%3FWT%2Emc%5Fid%3DSIRnyttmag190" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/28/27/ad.282728/NYT_BrokerButton_CA.gif" width="190" height="75" border="0"></a>
+</div>
+
+</div>
+<!--cur:StandardOrWideThumb prev:Simple-->
+<div class="columnGroup singleRule last">
+<div class="feedModule">
+<div class="singleRule">
+<div class="story">
+<h6 class="dateline">December 2, 2011, 9:00 AM</h6>
+<h5><a href="http://tmagazine.blogs.nytimes.com/2011/12/02/design-miami-back-to-the-future/?ref=t-magazine">Design Miami | Back to the Future</a></h5>
+<h6 class="byline">By PILAR VILADAS</h6>
+<div class="largeThumb centeredElement">
+<a href="http://tmagazine.blogs.nytimes.com/2011/12/02/design-miami-back-to-the-future/?ref=t-magazine"><img class="image" src="http://graphics8.nytimes.com/images/2011/12/01/t-magazine/video-tmag-gdome/video-tmag-gdome-thumbWide.jpg" alt="Design Miami | Back to the Future" border="0" /></a>
+</div>
+<p class="summary">A prototype of Buckminster Fuller's "Fly's Eye Dome" and a reconstruction of his Dymaxion car are on display during Art Basel Miami Beach. <a href="http://tmagazine.blogs.nytimes.com/2011/12/02/design-miami-back-to-the-future/?ref=t-magazine">More...</a></p>
+</div>
+</div><!--close .singleRule -->
+<div class="singleRule">
+<div class="story">
+<h6 class="dateline">December 2, 2011, 8:00 AM</h6>
+<h5><a href="http://tmagazine.blogs.nytimes.com/2011/12/02/now-reading-darkmarket/?ref=t-magazine">Now Reading | 'DarkMarket'</a></h5>
+<h6 class="byline">By STEPHEN HEYMAN</h6>
+<div class="thumb runaroundLeft">
+<a href="http://tmagazine.blogs.nytimes.com/2011/12/02/now-reading-darkmarket/?ref=t-magazine"><img class="image" src="http://graphics8.nytimes.com/images/2011/12/01/t-magazine/01heyman-darkmarket/01heyman-darkmarket-thumbStandard.jpg" alt="Now Reading | 'DarkMarket'" border="0" /></a>
+</div>
+<p class="summary">Misha Glenny staked out the profane, male-dominated Internet underworld, where cybercriminals take credit card fraud to new heights. <a href="http://tmagazine.blogs.nytimes.com/2011/12/02/now-reading-darkmarket/?ref=t-magazine">More...</a></p>
+</div>
+</div><!--close .singleRule -->
+<div class="singleRule">
+<div class="story">
+<h6 class="dateline">December 1, 2011, 7:22 PM</h6>
+<h5><a href="http://tmagazine.blogs.nytimes.com/2011/12/01/perfectly-perfect-tory-burch/?ref=t-magazine">Perfectly Perfect | Tory Burch</a></h5>
+<h6 class="byline">By DAPHNE MERKIN</h6>
+<div class="thumb runaroundLeft">
+<a href="http://tmagazine.blogs.nytimes.com/2011/12/01/perfectly-perfect-tory-burch/?ref=t-magazine"><img class="image" src="http://graphics8.nytimes.com/images/2011/12/04/t-magazine/04well-burch-slide-KCXS/04well-burch-slide-KCXS-thumbStandard.jpg" alt="Perfectly Perfect | Tory Burch" border="0" /></a>
+</div>
+<p class="summary">When they made Tory Burch - gorgeous, successful, smart, loving - they forgot the flaws. Damn it. <a href="http://tmagazine.blogs.nytimes.com/2011/12/01/perfectly-perfect-tory-burch/?ref=t-magazine">More...</a></p>
+</div>
+</div><!--close .singleRule -->
+<div class="singleRule">
+<div class="story">
+<h6 class="dateline">December 1, 2011, 6:35 PM</h6>
+<h5><a href="http://tmagazine.blogs.nytimes.com/2011/12/01/out-there-abmb-more-parties-and-yes-some-art/?ref=t-magazine">Out There | Art Basel, More Parties and, Yes, Some Art</a></h5>
+<h6 class="byline">By KEVIN MCGARRY</h6>
+<div class="largeThumb centeredElement">
+<a href="http://tmagazine.blogs.nytimes.com/2011/12/01/out-there-abmb-more-parties-and-yes-some-art/?ref=t-magazine"><img class="image" src="http://graphics8.nytimes.com/images/2011/12/01/t-magazine/01rubell-mcgarry/01rubell-mcgarry-thumbWide.jpg" alt="Out There | Art Basel, More Parties and, Yes, Some Art" border="0" /></a>
+</div>
+<p class="summary">Day 2 of Art Basel proved fruitful with a plethora of festivities and great art. <a href="http://tmagazine.blogs.nytimes.com/2011/12/01/out-there-abmb-more-parties-and-yes-some-art/?ref=t-magazine">More...</a></p>
+</div>
+</div><!--close .singleRule -->
+<div class="singleRule">
+<div class="story">
+<h6 class="dateline">December 1, 2011, 6:15 PM</h6>
+<h5><a href="http://tmagazine.blogs.nytimes.com/2011/12/01/just-one-look-michael-kors/?ref=t-magazine">Just One Look | Michael Kors</a></h5>
+<h6 class="byline">By EDWARD BARSAMIAN</h6>
+<div class="thumb runaroundLeft">
+<a href="http://tmagazine.blogs.nytimes.com/2011/12/01/just-one-look-michael-kors/?ref=t-magazine"><img class="image" src="http://graphics8.nytimes.com/images/2011/12/01/t-magazine/01jol-michaelkors/01jol-michaelkors-thumbStandard.jpg" alt="Just One Look | Michael Kors" border="0" /></a>
+</div>
+<p class="summary">In the Michael Kors prefall collection, Southampton meets Santa Fe. <a href="http://tmagazine.blogs.nytimes.com/2011/12/01/just-one-look-michael-kors/?ref=t-magazine">More...</a></p>
+</div>
+</div><!--close .singleRule -->
+<div class="singleRule">
+<div class="story">
+<h6 class="dateline">December 1, 2011, 5:39 PM</h6>
+<h5><a href="http://tmagazine.blogs.nytimes.com/2011/12/01/out-there-miamis-it-couple/?ref=t-magazine">Out There | Miami's 'It' Couple</a></h5>
+<h6 class="byline">By KEVIN MCGARRY</h6>
+<div class="largeThumb centeredElement">
+<a href="http://tmagazine.blogs.nytimes.com/2011/12/01/out-there-miamis-it-couple/?ref=t-magazine"><img class="image" src="http://graphics8.nytimes.com/images/2011/12/01/t-magazine/01fisher-mcgarry/01fisher-mcgarry-thumbWide.jpg" alt="Out There | Miami's 'It' Couple" border="0" /></a>
+</div>
+<p class="summary">Jim Drain and Naomi Fisher are part of what make up Miami's art community. <a href="http://tmagazine.blogs.nytimes.com/2011/12/01/out-there-miamis-it-couple/?ref=t-magazine">More...</a></p>
+</div>
+</div><!--close .singleRule -->
+<div class="morePosts singleRule">
+<div class="insetV">
+<h4 class="graphicHeader morePostsHeader"><a href="http://tmagazine.blogs.nytimes.com/">SEE ALL POSTS &raquo;</a></h4>
+</div>
+</div><!--close .morePosts -->
+</div><!--close .feedModule -->
+</div>
+</div><!--end feed-control -->
+</div><!--close .aColumn -->
+<div id="bcColumn-control" class="bcColumn column">
+<div id="navigation-control" class="navigation">
+<ul id="mainNavigation" class="flush">
+<li class="firstItem"><a href="http://www.nytimes.com/pages/t-magazine/womens-fashion/index.html">Women's Fashion</a></li>
+<li class="secondItem"><a href="http://www.nytimes.com/pages/t-magazine/mens-fashion/index.html">Men's Fashion</a></li>
+<li class="thirdItem"><a href="http://www.nytimes.com/pages/t-magazine/design/index.html">Design</a></li>
+<li class="fourthItem"><a href="http://www.nytimes.com/pages/t-magazine/travel/index.html">Travel</a></li>
+<li class="fifthItem"><a href="http://www.nytimes.com/pages/t-magazine/food/index.html">Food</a></li>
+<li class="sixthItem"><a href="http://www.nytimes.com/pages/t-magazine/culture/index.html">Culture</a></li>
+<li class="lastItem"><a href="http://www.nytimes.com/gst/tmagazine/video/index.html">Video</a></li>
+</ul>
+</div><!--close .navigation -->
+<div id="bColumn-control" class="bColumn column">
+<div class="ledeFeature feature">
+<div id="ledeFeatureObject" class="promo">
+<div id="liquidCarousel">
+<div id="loading">
+<img src="http://graphics8.nytimes.com/images/tmagazine/homepage/spinner.gif" width="73" height="39" alt="Spinner">
+</div>
+<div id="prev" class="prev button">
+<div class="imgContainer"><img src="http://graphics8.nytimes.com/images/tmagazine/homepage/btn_prev.png" width="21" height="36" alt="Prev"></div>
+<div class="buttonBg"><!----></div>
+</div>
+<div id="next" class="next button">
+<div class="imgContainer"><img src="http://graphics8.nytimes.com/images/tmagazine/homepage/btn_next.png" width="21" height="36" alt="Prev"></div>
+<div class="buttonBg"><!----></div>
+</div>
+<div id="slider"><div id="sliderContent"></div></div>
+</div>
+</div>
+</div>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/app/tmagazine/liquidCarousel/LiquidCarousel.js" charset="utf-8"></script>
+<script language="JavaScript">
+	
+	var carouselData = "";
+	carouselData = '[';
+
+	carouselData += '{"title":"Profile in Style | Francesca Bonato", "kicker":"", "body":"For her accessories line, Bonato finds inspiration in the colors, fabrics and traditions of Mexico.", "credit":"The Selby", "image":"http://graphics8.nytimes.com/images/2011/12/04/t-magazine/04face-collage/04face-collage-tmagHP.jpg", "link":"http://www.nytimes.com/interactive/2011/12/04/t-magazine/04face-collage.html?ref=t-magazine", "template":"FlashVarDefault"},{"title":"", "kicker":"", "body":"A writer meets the proprietors of a small plot of dude-topia.", "credit":"Adrian Gaut", "image":"http://graphics8.nytimes.com/images/2011/12/04/t-magazine/04remix-sheds1/04remix-sheds1-tmagHP.jpg", "link":"http://tmagazine.blogs.nytimes.com/2011/11/23/me-and-my-man-shed/?scp=1&sq=man%20shed&st=Search&amp;ref=t-magazine", "template":"FlashVarDefault"},{"title":"", "kicker":"", "body":"ThreeASFOUR sets out to prove in their new exhibit that Judaism and Islam can live side by side.", "credit":"Neta Alonim", "image":"http://graphics8.nytimes.com/images/2011/11/29/t-magazine/29threeasfour/29threeasfour-tmagHP.jpg", "link":"http://tmagazine.blogs.nytimes.com/2011/11/29/come-together/?ref=t-magazine", "template":"FlashVarDefault"},{"title":"Terre Haute", "kicker":"T Magazine", "body":"A high-gloss tribute to the venerable fashion house of Dior, and a curiously timed retrospective of its fallen creative director, John Galliano.", "credit":"Photographs by Patrick Demarchelier", "image":"http://graphics8.nytimes.com/images/2011/12/04/t-magazine/04remix-dior-slide-V9I1/04remix-dior-slide-V9I1-tmagHP.jpg", "link":"http://tmagazine.blogs.nytimes.com/2011/11/29/terre-haute/?ref=t-magazine", "template":"FlashVarDefault"},{"title":"The Author as Your Average Joe", "kicker":"T Magazine", "body":"We interview the prolific Joseph Gordon-Levitt.", "credit":"", "image":"http://graphics8.nytimes.com/images/2011/12/04/t-magazine/04remix-levitt/04remix-levitt-tmagHP.jpg", "link":"http://tmagazine.blogs.nytimes.com/2011/11/28/the-author-as-your-average-joe/?ref=t-magazine", "template":"FlashVarDefault"},{"title":"Edible Selby | Danish Modern", "kicker":"", "body":"Behind Rene Redzepi’s famously free-form approach is a highly studious investigation into the culinary possibilities of foraged ingredients.", "credit":"The Selby", "image":"http://graphics8.nytimes.com/images/2011/12/04/t-magazine/04remix-selby/04remix-selby-tmagHP.jpg", "link":"http://www.nytimes.com/interactive/2011/12/04/t-magazine/04remix-selby.html?ref=t-magazine", "template":"FlashVarDefault"},{"title":"Almost Famous", "kicker":"T Magazine", "body":"William John Kennedy\'s recently unearthed photographs of Robert Indiana and Andy Warhol capture the artists on the cusp of fame.", "credit":"Photographs by William John Kennedy", "image":"http://graphics8.nytimes.com/images/2011/11/28/t-magazine/28warhol-aguirre-slide-F7SD/28warhol-aguirre-slide-F7SD-tmagHP.jpg", "link":"http://tmagazine.blogs.nytimes.com/2011/11/28/almost-famous/?ref=t-magazine", "template":"FlashVarDefault"},{"title":"Party Girl", "kicker":"T Magazine", "body":"Forget the less-is-more trend - tis the season to load it on.", "credit":"Photograph by Richard Burbridge. Fashion editor: Sara Moonves. Fashion assistant: Olivia Jade Horner. Hair by Teddy Charles for Orlo Salon. Makeup by James Kaliardos. Model: Ashley Smith.", "image":"http://graphics8.nytimes.com/images/2011/12/04/t-magazine/04face-opener-slide-XQX6/04face-opener-slide-XQX6-tmagHP.jpg", "link":"http://tmagazine.blogs.nytimes.com/2011/11/24/party-girl/?ref=t-magazine", "template":"FlashVarDefault"}';
+		carouselData += ',';
+		carouselData += '{"title":"Styled to a T | Taissa Farmiga", "kicker":"Styled to a T", "body":"The 17-year-old star of \\"American Horror Story,\\" is a Maui wowie in Jill Stuart.", "credit":"Photograph by Jeff Henrikson; fashion editor: Sara Moonves; hair and makeup by Christina Buzas for ArtistsByTimothyPriano.com", "image":"http://graphics8.nytimes.com/images/2011/12/04/t-magazine/04remix-tassia/04remix-tassia-tmagHP.jpg", "link":"http://tmagazine.blogs.nytimes.com/2011/11/24/styled-to-a-t-taissa-farmiga/?ref=t-magazine", "template":"FlashVarWithBorder"}';
+		carouselData += ',';
+		carouselData += '{"title":"", "kicker":"", "body":"For Assume Vivid Astro Focus, as for Lady Gaga, restraint is not a virtue, as seen in their immersive experience in merchandising at Barneys New York.", "credit":"Photographs by Ioulex", "image":"http://graphics8.nytimes.com/images/2011/11/23/t-magazine/23gaga-yablonsky-slide-SW4F/23gaga-yablonsky-slide-SW4F-tmagHP.jpg", "link":"http://tmagazine.blogs.nytimes.com/2011/11/23/artifacts-gagas-vivid-gifts/?ref=t-magazine", "template":"FlashVarDefault"},{"title":"", "kicker":"", "body":"A new fashion app for the iPad: A one-stop destination for Times fashion coverage and the latest from the runways.", "credit":"", "image":"http://graphics8.nytimes.com/images/2011/11/15/t-magazine/15collection-tmag/15collection-tmag-tmagHP-v2.jpg", "link":"http://nytimes.com/thecollection?ref=t-magazine", "template":"FlashVarDefault"}';
+	
+	carouselData += ']';
+	
+	</script>
+</div><!--close .bColumn -->
+<div id="cColumn-control" class="cColumn column">
+<!--Simple  -->                    <div class="columnGroup first">
+<div class="searchModule opening">
+<div class="insetV">
+<div class="search centeredElement">
+<div class="inlineSearchControl">
+<form method="get" action="http://query.nytimes.com/search/tmagazine" enctype="application/x-www-form-urlencoded">
+<input type="text" id="searchQuery" name="query" size="" value="SEARCH" class="text" onblur="if(this.value=='')this.value='SEARCH';" onfocus="if(this.value=='SEARCH')this.value='';" />
+<input type="image" src="http://graphics8.nytimes.com/images/tmagazine/buttons/search-button.gif" alt="Search" title="Search" id="searchSubmit" />
+</form>
+</div>
+</div>
+</div><!--close .insetV -->
+</div>
+<div class="issuesModule module">
+<style type="text/css" media="screen">
+.issuesModule .datelineLg {
+  margin-top: 6px;
+  text-transform: none;
+}
+.issuesModule .opposingFloatControl {
+  margin: 2px 0 8px;
+}
+.issuesModule .runaroundLeft {
+  margin-right: 10px;
+}
+.issuesModule h3 {
+  font-size: 1.4em;
+  line-height: 1.2em;
+  margin-bottom: 4px;
+}
+.issuesModule .refer {
+  clear: both;
+  border-top: 1px solid #e2e2e2;
+  padding-top: 8px;
+  text-align: center;
+}
+.issuesModule .element1,
+.issuesModule .element2 {
+  width: 170px;
+}
+</style>
+<h4 class="graphicHeader magazineHeader">Magazine</h4>
+<div class="singleRuleDk">
+<div class="opposingFloatControl wrap">
+<div class="element1">
+<div class="thumb runaroundLeft"><a href="http://www.nytimes.com/indexes/2011/11/18/t-magazine/travel-issue/index.html"><img src="http://www.nytimes.com/images/2011/11/20/t-magazine/20TMagTravelCover/20TMagTravelCover-custom4.jpg" alt="Design and Living"></a></div>
+<h6 class="datelineLg">Winter 2011</h6>
+<h3><a href="http://www.nytimes.com/indexes/2011/11/18/t-magazine/travel-issue/index.html">Travel</a></h3>
+</div>
+<div class="element2">
+<div class="thumb runaroundLeft"><a href="http://www.nytimes.com/indexes/2011/11/04/t-magazine/design-issue/index.html"><img src="http://graphics8.nytimes.com/images/2011/11/06/t-magazine/06TmagDLCover/06TmagDLCover-custom1.jpg" alt="Design and Living"></a></div>
+<h6 class="datelineLg">Winter 2011</h6>
+<h3><a href="http://www.nytimes.com/indexes/2011/11/04/t-magazine/design-issue/index.html">Design & Living </a></h3>
+</div>
+</div><!--END .opposingFloatControl -->
+<p class="refer"><a href="http://www.nytimes.com/interactive/t-magazine/past-issues.html">All Past Issues »</a></p>
+</div><!--END .singleRuleDk -->
+</div><!--END .styleMapsModule -->        	</div>
+<!--Ads Simple -->                    <div class="columnGroup ">
+
+<div class="bigAd" id="TMagMiddle">
+<!-- ADXINFO classification="BigAd" campaign="Hermes_Fall2011_1762620_nyt8"--><div align="center">
+<SCRIPT type="text/javascript" SRC="http://ad.doubleclick.net/adj/N3093.276948.NYTIMES/B5461013.8;sz=300x250;pc=nyt173719A276404;ord=2011.12.02.18.04.31?;click=http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/t-magazine/index.html&pos=TMagMiddle&camp=Hermes_Fall2011_1762620_nyt8&ad=Hermes_TMag_300x250_B5461013.8&sn2=11990820/b9df93bb&snr=doubleclick&snx=1322848851&sn1=d8ea19ac/89b3a4d4&goto=">
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/t-magazine/index.html&pos=TMagMiddle&sn2=11990820/b9df93bb&sn1=192a33db/25683d10&camp=Hermes_Fall2011_1762620_nyt8&ad=Hermes_TMag_300x250_B5461013.8&goto=http://ad.doubleclick.net/jump/N3093.276948.NYTIMES/B5461013.8;sz=300x250;pc=nyt173719A276404;ord=2011.12.02.18.04.31?" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N3093.276948.NYTIMES/B5461013.8;sz=300x250;pc=nyt173719A276404;ord=2011.12.02.18.04.31?"
+ BORDER=0 WIDTH=300 HEIGHT=250
+ ALT="Click Here"></A>
+</NOSCRIPT>
+</div>
+</div>
+
+</div>
+<!--Simple Ads -->                    <div class="columnGroup last">
+<div class="genericSingleModule module">
+<style type="text/css" media="screen">
+.genericSingleModule .inset {
+  margin: 5px 40px;
+}
+.genericSingleModule .runaroundLeft {
+  margin-right: 8px;
+}
+.genericSingleModule h4 {
+  margin-bottom: 5px;
+}
+.beautyHeader {
+ height: 9px;
+ background: transparent url(http://graphics8.nytimes.com/images/tmagazine/headers/header-beauty.gif)
+no-repeat center;
+}
+
+.edibleSelbyHeader {
+ height: 9px;
+ background: transparent
+url(http://graphics8.nytimes.com/images/tmagazine/headers/header-edible-selby.gif) no-repeat center;
+}
+.ofTheMomentHeader {
+ height: 9px;
+ background: transparent
+url(http://graphics8.nytimes.com/images/tmagazine/headers/header-look-of-the-moment.gif) no-repeat
+center;
+}
+
+.offTheShelfHeader {
+ height: 9px;
+ background: transparent
+url(http://graphics8.nytimes.com/images/tmagazine/headers/header-off-the-shelf.gif) no-repeat center;
+}
+
+.originalModelTsHeader {
+ height: 9px;
+ background: transparent
+url(http://graphics8.nytimes.com/images/tmagazine/headers/header-original-model-ts.gif) no-repeat
+center;
+}
+</style>
+<h4 class="graphicHeader beautyHeader">Beauty</h4>
+<div class="singleRuleDk">
+<div class="inset">
+<div class="thumb runaroundLeft">
+<a href="http://tmagazine.blogs.nytimes.com/2011/11/28/true-color/"><img alt="True Color" src="http://graphics8.nytimes.com/images/2011/12/04/t-magazine/04face-expert1/04face-expert1-thumbStandard.jpg"/></a></div>
+<h4><a href="http://tmagazine.blogs.nytimes.com/2011/11/28/true-color//">True Color</a></h4><h6 class="byline">By SANDRA BALLENTINE</h6>
+<p class="refer">One of New York City’s hottest hair colorists, Frederic Fekkai’s Reyad Fritas, can spin straw into gold.<br><br><a href="http://tmagazine.blogs.nytimes.com/category/beauty/">More Beauty Stories ...</a></p>
+</div><!--END .inset -->
+</div><!--END .singleRuleDk -->
+</div><!--END .styleMapsModule --><div class="styleMapsModule module">
+<style type="text/css" media="screen">   
+.styleMapsHeader {
+ height: 9px;
+ background: transparent url(http://graphics8.nytimes.com/images/tmagazine/headers/header-look-of-the-moment.gif) no-repeat center;
+}
+</style>
+<h4 class="graphicHeader ofTheMomentHeader">Look of the Moment</h4>
+<div class="singleRuleDk">
+<div class="inset">
+<div class="centeredText  wrap">
+<div class="column thumb">
+<a href="http://tmagazine.blogs.nytimes.com/2011/11/29/look-of-the-moment-stella-tennant/"><img alt="Stella Tennant" src="http://graphics8.nytimes.com/images/2011/11/29/t-magazine/29lotm-tennant/29lotm-tennant-thumbStandard.jpg"/></a>
+<h5><a href="http://tmagazine.blogs.nytimes.com/2011/11/29/look-of-the-moment-stella-tennant/">Stella Tennant</a></h5>
+</div>
+<div class="column thumb">
+<a href="http://tmagazine.blogs.nytimes.com/2011/11/16/look-of-the-moment-joan-smalls-2/"><img alt="Joan Smalls" src="http://graphics8.nytimes.com/images/2011/11/16/t-magazine/16lotm-smalls/16lotm-smalls-thumbStandard.jpg"/></a>
+<h5><a href="http://tmagazine.blogs.nytimes.com/2011/11/16/look-of-the-moment-joan-smalls-2/">Joan Smalls</a></h5>
+</div>
+<div class="column thumb">
+<a href="http://tmagazine.blogs.nytimes.com/2011/11/14/look-of-the-moment-tilda-swinton"><img alt="Tilda Swinton" src="http://graphics8.nytimes.com/images/2011/11/14/t-magazine/14lotm-swinton/14lotm-swinton-thumbStandard.jpg"/></a>
+<h5><a href="http://tmagazine.blogs.nytimes.com/2011/11/14/look-of-the-moment-tilda-swinton/">Tilda Swinton</a></h5>
+</div>
+<div class="column thumb  lastColumn">
+<a href="http://tmagazine.blogs.nytimes.com/2011/11/11/look-of-the-moment-vanessa-paradis/"><img alt="Vanessa Paradis" src="http://graphics8.nytimes.com/images/2011/11/11/t-magazine/11lotm-paradis/11lotm-paradis-thumbStandard.jpg"/></a>
+<h5><a href="http://tmagazine.blogs.nytimes.com/2011/11/11/look-of-the-moment-vanessa-paradis/">Vanessa Paradis</a></h5>
+</div>
+</div><!--END .centeredText -->
+</div><!--END .inset -->
+</div><!--END .singleRuleDk -->
+</div><!--END .styleMapsModule -->
+<div class="columnistsModule module">
+<script language="JavaScript" type="text/javascript" src="http://graphics8.nytimes.com/js/app/tmagazine/scroller/scroller.js"></script>        
+<h4 class="graphicHeader columnistsHeader">COLUMNISTS</h4>
+<div class="singleRuleDk">
+<div class="opposingFloatControl wrap">  
+<div class="previous element1">
+<div class="insetV">
+<div id="columnistsModuleNavArrowPrevious" class="navArrowPrevious"></div>
+</div>
+</div><!--close previous -->
+<div id="columnistsModuleScrollWrapper" class="column">
+<div id="columnistsModuleScrollContainer" class="column">
+<div class="column story">
+<div class="opposingFloatControl wrap">
+<div class="inset wrap">
+<div class="thumb element1">
+<img src="http://graphics8.nytimes.com/images/blogs/tmagazine/columnists/yablonsky.jpg" alt="Linda Yablonsky">
+</div>
+<div class="columnistMeta element2">
+<h4>Linda Yablonsky</h4>
+<h6 class="byline">ARTIFACTS</h6>
+<ul class="refer">    
+<li> <a href="http://tmagazine.blogs.nytimes.com/2011/11/23/artifacts-gagas-vivid-gifts/?src=tmcolum">Artifacts | Gaga's Vivid Gifts</a></li>
+<li><a href="http://tmagazine.blogs.nytimes.com/2011/11/04/artifacts-maurizio-cattelan-gives-his-all/?src=tmcolum">Maurizio Cattelan Gives His ‘All’</a></li> 
+<li><a href="http://tmagazine.blogs.nytimes.com/2011/11/02/artifacts-spartacus-chetwynds-monster-divas//?src=tmcolum">Spartacus Chetwynd’s Monster Divas</a></li>
+</ul>
+</div>
+</div><!--close inset -->
+</div>
+</div><!--close column -->     
+<div class="column story">
+<div class="opposingFloatControl wrap">
+<div class="inset wrap">
+<div class="thumb element1">
+<img src="http://graphics8.nytimes.com/images/blogs/tmagazine/columnists/Sciolino.jpg" alt="Elaine Sciolino">
+</div>
+<div class="columnistMeta element2">
+<h4> Elaine Sciolino </h4>
+<h6 class="byline">LUMIERE</h6>
+<ul class="refer">
+<li><a href="http://tmagazine.blogs.nytimes.com/2011/11/23/lumiere-d-cs-dinnertime-diplomacy/?src=tmcolum">Lumière | D.C.'s Dinnertime Diplomacy</a></li>
+<li>
+<a href="http://tmagazine.blogs.nytimes.com/2011/10/31/lumiere-closin-up-the-ritz/?src=tmcolum">Closin' Up the Ritz</a>
+</li>
+<li><a href="http://tmagazine.blogs.nytimes.com/2011/10/17/lumiere-wanna-know-a-secret/?src=tmcolum">Wanna Know a Secret?</a></li>
+</ul>
+</div>
+</div><!--close inset -->
+</div>
+</div><!--close column -->
+<div class="column story">
+<div class="opposingFloatControl wrap">
+<div class="inset wrap">
+<div class="thumb element1">
+<img src="http://graphics8.nytimes.com/images/blogs/themoment/posts/columnist_samurai.jpg" alt="Samurai Shopper">
+</div>
+<div class="columnistMeta element2">
+<h4>Samurai Shopper</h4>
+<h6 class="byline">S.S. FAIR</h6>
+<ul class="refer">
+<li><a href="http://tmagazine.blogs.nytimes.com/2011/11/22/samurai-shopper-the-1-solution/?src=tmcolum">Samurai Shopper | The 1% Solution</a></li>
+<li>
+<a href="http://tmagazine.blogs.nytimes.com/2011/11/09/samurai-shopper-the-razors-edgy/?src=tmcolum">The Razor’s Edgy</a></li>							
+<li><a href="http://tmagazine.blogs.nytimes.com/2011/10/19/samurai-shopper-odor-eaters/?src=tmcolum">Odor Eaters</a></li>
+</ul>
+</div>
+</div><!--close inset -->
+</div>
+</div><!--close column -->
+<div class="column story">
+<div class="opposingFloatControl wrap">
+<div class="inset wrap">
+<div class="thumb element1">
+<img src="http://graphics8.nytimes.com/images/blogs/tmagazine/columnists/Truong.jpg" alt="Monique Truong">
+</div>
+<div class="columnistMeta element2">
+<h4>Monique Truong</h4>
+<h6 class="byline">RAVENOUS</h6>
+<ul class="refer">    
+<li><a href="http://tmagazine.blogs.nytimes.com/2011/11/21/ravenous-the-stuffing-theory/?src=tmcolum">The Stuffing Theory</a></li> 
+<li><a href="http://tmagazine.blogs.nytimes.com/2011/10/06/ravenous-preserved-unripe-figs/?src=tmcolum">Preserved Unripe Figs</a></li>
+<li><a href="http://tmagazine.blogs.nytimes.com/2011/09/02/ravenous-thit-kuo/?src=tmcolum">Thit Heo Kho</a></li>
+</ul>
+</div>
+</div><!--close inset -->
+</div>
+</div><!--close column -->
+<div class="column story">
+<div class="opposingFloatControl wrap">
+<div class="inset wrap">
+<div class="thumb element1">
+<img src="http://graphics8.nytimes.com/images/blogs/tmagazine/columnists/ristretto.jpg" alt="Ristretto">
+</div>
+<div class="columnistMeta element2">
+<h4>Oliver Strand</h4>
+<h6 class="byline">RISTRETTO</h6>
+<ul class="refer">
+<li><a href="http://tmagazine.blogs.nytimes.com/2011/11/16/ristretto-bear-pond-espresso-how-much-sexy/?src=tmcolum">Bear Pond Espresso</a></li>
+<li><a href="http://tmagazine.blogs.nytimes.com/2011/10/20/ristretto-coffee-in-oslo/?src=tmcolum">Coffee in Oslo</a></li>
+<li><a href="http://tmagazine.blogs.nytimes.com/2011/09/12/ristretto-some-coffee-in-your-milk/?src=tmcolum">Some Coffee in Your Milk</a></li>
+</ul>
+</div>  </div><!--close inset -->
+</div>
+</div><!--close column -->
+<div class="column story">
+<div class="opposingFloatControl wrap">
+<div class="inset wrap">
+<div class="thumb element1">
+<img src="http://graphics8.nytimes.com/packages/images/tmagazine/columnists/75-thumb-toby-cecchini.jpg" alt="Toby Cecchini">
+</div>
+<div class="columnistMeta element2">
+<h4> Toby Cecchini </h4>
+<h6 class="byline">CASE STUDY</h6>
+<ul class="refer">
+<li><a href="http://tmagazine.blogs.nytimes.com/2011/11/14/case-study-quinine-syrup/?src=tmcolum">Quinine Syrup</a></li>
+<li><a href="http://tmagazine.blogs.nytimes.com/2011/08/22/case-study-the-white-peach-sgroppino/?src=tmcolum"">The White Peach Sgroppino</a></li>
+<li><a href="http://tmagazine.blogs.nytimes.com/2011/05/02/case-study-building-a-better-mixer/?src=tmcolum">Building a Better Mixer</a></li>
+</ul>
+</div>
+</div><!--close inset -->
+</div>
+</div><!--close column -->
+<div class="column story">
+<div class="opposingFloatControl wrap">
+<div class="inset wrap">
+<div class="thumb element1">
+<img src="http://graphics8.nytimes.com/images/blogs/tmagazine/columnists/iO-Tillett-Wright.jpg" alt="Notes From the Underground">
+</div>
+<div class="columnistMeta element2">
+<h4>iO Tillett Wright</h4>
+<h6 class="byline">NOTES FROM THE UNDERGROUND</h6>
+<ul class="refer">
+<li><a href="http://tmagazine.blogs.nytimes.com/2011/11/11/notes-from-the-underground-glenn-jones/?src=tmcolum">Glenn Jones</a></li>
+<li><a href="http://tmagazine.blogs.nytimes.com/2011/10/24/notes-from-the-underground-lightyear/?src=tmcolum">Lightyear</a></li>
+<li><a href="http://tmagazine.blogs.nytimes.com/2011/10/13/notes-from-the-underground-good-to-go/?src=tmcolum">Good to Go</a></li>
+</ul>
+</div>
+</div><!--close inset -->
+</div>
+</div><!--close column -->
+<div class="column story">
+<div class="opposingFloatControl wrap">
+<div class="inset wrap">
+<div class="thumb element1">
+<img src="http://graphics8.nytimes.com/images/blogs/tmagazine/columnists/EliasRedstone.jpg" alt="Elias Redstone">
+</div>
+<div class="columnistMeta element2">
+<h4>Elias Redstone</h4>
+<h6 class="byline">LONDON UNDERGROUND</h6>
+<ul class="refer">
+<li><a href="http://tmagazine.blogs.nytimes.com/2011/10/28/london-underground-animal-estates-london-edition/?src=tmcolum">Animal Estates, London Edition</a></li>											
+<li><a href="http://tmagazine.blogs.nytimes.com/2011/10/03/london-underground-food-market-dining/?src=tmcolum">Food Market Dining</a></li>
+<li><a href="http://tmagazine.blogs.nytimes.com/2011/07/28/london-underground-house-of-hackney/?src=tmcolum">House of Hackney</a></li>
+</ul>
+</div>  </div><!--close inset -->
+</div>
+</div><!--close column -->
+<div class="column story">
+<div class="opposingFloatControl wrap">
+<div class="inset wrap">
+<div class="thumb element1">
+<img src="http://graphics8.nytimes.com/images/blogs/tmagazine/columnists/misheff.jpg" alt="Johnny Misheff">
+</div>
+<div class="columnistMeta element2">
+<h4>Johnny Misheff</h4>
+<h6 class="byline">VISITING ARTISTS</h6>
+<ul class="refer">    
+<li><a href="http://tmagazine.blogs.nytimes.com/2011/09/09/visiting-artists-frank-benson/?src=tmcolum">Frank Benson</a></li>
+<li><a href="http://tmagazine.blogs.nytimes.com/2011/08/01/visiting-artists-luke-gilford/?src=tmcolum">Luke Gilford</a></li>
+<li><a href="http://tmagazine.blogs.nytimes.com/2011/06/29/visiting-artists-xavier-cha/?src=tmcolum">Xavier Cha</a></li> 
+</ul>
+</div>
+</div><!--close inset -->
+</div>
+</div><!--close column -->  
+<div class="column story">
+<div class="opposingFloatControl wrap">
+<div class="inset wrap">
+<div class="thumb element1">
+<img src="http://graphics8.nytimes.com/images/blogs/tmagazine/columnists/bhodge.jpg" alt="Brooke Hodge">
+</div>
+<div class="columnistMeta element2">
+<h4>Brooke Hodge</h4>
+<h6 class="byline">SEEING THINGS</h6>
+<ul class="refer">
+<li><a href="http://tmagazine.blogs.nytimes.com/2011/10/27/seeing-things-pacific-standard-design/?src=tmcolum">Pacific Standard Design</a></li>
+<li><a href="http://tmagazine.blogs.nytimes.com/2011/10/13/seeing-things-california-design-1930-1965/?src=tmcolum">‘California Design, 1930-1965’</a></li>   
+<li><a href="http://tmagazine.blogs.nytimes.com/2011/09/29/seeing-things-studio-visit-lecia-dole-recio/?src=tmcolum">Lecia Dole-Recio</a></li>
+</ul>
+</div>
+</div><!--close inset -->
+</div>
+</div><!--close column -->
+<div class="column story">
+<div class="opposingFloatControl wrap">
+<div class="inset wrap">
+<div class="thumb element1">
+<img src="http://graphics8.nytimes.com/images/blogs/tmagazine/columnists/SteveHeller.jpg" alt="Steve Heller">
+</div>
+<div class="columnistMeta element2">
+<h4>Steven Heller</h4>
+<h6 class="byline">GRAPHIC CONTENT</h6>
+<ul class="refer">
+<li><a href="http://tmagazine.blogs.nytimes.com/2011/11/02/graphic-content-eames-words/?src=tmcolum">‘Eames Words’</a></li> 
+<li><a href="http://tmagazine.blogs.nytimes.com/2011/10/05/graphic-content-urbanized/">‘Urbanized’</a></li>
+<li><a href="http://tmagazine.blogs.nytimes.com/2011/08/03/graphic-content-typonine/?src=tmcolum">Typonine</a></li>
+</ul>
+</div>
+</div><!--close inset -->
+</div>
+</div><!--close column -->
+<div class="column story">
+<div class="opposingFloatControl wrap">
+<div class="inset wrap">
+<div class="thumb element1">
+<img src="http://graphics8.nytimes.com/images/blogs/tmagazine/columnists/cpetkanas.jpg" alt="Christopher Petkanas">
+</div>
+<div class="columnistMeta element2">
+<h4>Christopher Petkanas</h4>
+<h6 class="byline">FABULOUS DEAD PEOPLE</h6>
+<ul class="refer">
+<li><a href="http://tmagazine.blogs.nytimes.com/2011/04/08/fabulous-dead-people-alexis-baron-de-rede/?src=tmcolum">Alexis, Baron de Rede</a></li>
+<li><a href="http://tmagazine.blogs.nytimes.com/2011/02/28/fabulous-dead-people-pauline-trigere/?src=tmcolum">Pauline Trigère</a></li>  
+<li><a href="http://tmagazine.blogs.nytimes.com/2011/01/12/fabulous-dead-people-beverley-nichols/?src=tmcolum">Beverley Nichols</a></li>
+</ul>
+</div>
+</div><!--close inset -->
+</div>
+</div><!--close column -->
+</div><!--close columnistsModuleScrollContainer -->
+</div>        
+<div class="next element2">
+<div class="insetV">
+<div id="columnistsModuleNavArrowNext" class="navArrowNext"></div>
+</div>  
+</div><!--close element2 -->
+</div><!--close opposingFloatControl -->
+</div><!--close singleRuleDk -->
+</div><!--close columnistsModule -->
+<script language="JavaScript">
+  Event.observe(window, 'load', function(){
+      var scroller = new NYTD.HorizontalScroller("columnistsModuleScrollWrapper", "columnistsModuleScrollContainer", "div.story", "columnistsModuleNavArrowPrevious", "columnistsModuleNavArrowNext", 1, 1).load();
+    });
+</script>
+<div class="featuredVideoModule module">
+<h4 class="graphicHeader featuredVideoHeader">FEATURED VIDEO</h4>
+<div class="singleRuleDk">
+<script type="text/javascript" src="http://graphics8.nytimes.com/bcvideo/1.0/iframe/embed.js"></script>
+<script type="text/javascript">
+                NYT_VideoPlayerStart( {
+                  playerType  : "homepage",
+                  playlistId  : "1194812905212"
+                } );
+    </script>
+</div>
+</div><!--close featureVideoModule module --><div class="rssFeedsModule module">
+<div class="box rounded">
+<div class="inset">
+<ul class="horizontalMenu wrap centeredElement">
+<li class="firstItem"><h4 class="graphicHeader rssFeedsHeader">RSS FEEDS</h4></li>
+<li class="secondItem"><a class="icon rssLg" href="http://www.nytimes.com/services/xml/rss/nyt/tmagazine.xml">T Magazine</a></li>
+</ul>
+</div>
+</div>
+</div><!--close rssFeedsModule -->        	</div>
+<div id="footer" class="singleRule">
+<ul id="footerNavigationTop" class="flush centeredElement">
+<li class="firstItem"><a href="http://www.nytimes.com">NYTIMES.COM</a></li>
+<li class="secondItem"><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">CONTACT US</a></li>
+<li class="lastItem"><a href="http://www.nytimes.whsites.net/mediakit/">MEDIA KIT</a></li>
+</ul>
+<ul id="footerNavigationBottom" class="flush centeredElement">
+<li class="firstItem"><a href="http://www.nytimes.com/ref/membercenter/help/privacysummary.html">PRIVACY POLICY</a></li>
+<li class="lastItem"><a href="http://www.nytco.com/">THE NEW YORK TIMES COMPANY</a></li>
+</ul>
+</div><!--close #footer -->
+</div><!--close .cColumn -->
+</div><!--close .bcColumn -->
+</div><!--close .bcLayout -->
+</div><!--close #shell -->
+
+
+
+
+
+
+
+<IMG SRC="/adx/bin/clientside/6ec713b4Q2Fq6EQ2BZr4VQ2A6Q5D2rgZQ2AQ25oQ3FQ5DQ25Q25VQ3FQ2B" height="1" width="3">
+
+
+			
+		<!-- Start UPT call -->
+		<img height="1" width="3" border=0 src="http://up.nytimes.com/?d=0//&t=3&s=0&ui=&r=&u=www%2enytimes%2ecom%2fpages%2ft%2dmagazine%2findex%2ehtml%3f">
+		<!-- End UPT call -->
+	
+		
+        <script language="JavaScript"><!--
+          var dcsvid="";
+          var regstatus="non-registered";
+        //--></script>
+        <script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+        <noscript>
+          <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div>
+        </noscript>
+   
+</body>
+</html>

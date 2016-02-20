@@ -1,0 +1,3 @@
+Location: http://www.nytimes.com/glogin?URI=http://www.nytimes.com/aponline/2011/12/02/world/americas/AP-CB-Cuba-Imprisoned-American.html&OQ=_rQ3D1Q26hp&OP=11b0a6caQ2F_TDP_8mxQ7CdmmEQ2B_0Q26m,HQ5E,D_Q2BQ2355_5Q2B_Q23Q2B_TmdH8_0JDdQ5Ex0Q7C_gQ25G)Q5DG)oP0G.JQ26dQ5EQ7Cm,D8GgJDdQ5Ex0,MeEJH
+Connection: keep-alive
+

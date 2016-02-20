@@ -1,0 +1,3 @@
+Location: http://topics.nytimes.com/top/opinion/thepubliceditor/index.html
+Connection: keep-alive
+

@@ -1,0 +1,11 @@
+Last-Modified: Wed, 09 Nov 2011 20:13:50 GMT
+ETag: "2f9-4ebadefe"
+Cache-Control: private, max-age=30295
+Date: Fri, 02 Dec 2011 18:04:29 GMT
+Content-Length: 761
+Connection: close
+
+.columnGroup .columnGroup{margin-right:0 !important;}.cColumn div.first .singleAd{zoom:expression(this.style.zoom = "",this == this.parentNode.firstChild ? this.style.borderTop = "0":null,this == this.parentNode.firstChild ? this.style.paddingTop ="0":"12px");}#mostPopWidget ul.tabs li{zoom:expression(this.style.zoom = "",this == this.parentNode.firstChild ? this.style.borderLeft = "1px solid #ccc":null);}.toolbarPromo{position:relative;margin-bottom:-6px;}.expandedTabbedNewsModule .tabContent .inset #ledePhoto{margin-right:-11px;}.expandedTabbedNewsModule,.expandedTabbedNewsModule .inset{position:relative;}.expandedTabbedNewsModule #ledePhoto img{position:relative;margin-left:0;}tive;
+  margin-left: 0;
+}
+/* End Expanded Tabbed News fixes */ fixes */

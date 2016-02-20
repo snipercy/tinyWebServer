@@ -1,0 +1,563 @@
+Set-cookie: RMID=21167df316c64ed9132f5f27; expires=Saturday, 01-Dec-2012 18:04:31 GMT; path=/; domain=.nytimes.com
+Connection: close
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+$Id: lp5558.html 82808 2011-11-22 18:53:44Z marie.leviste $
+$HeadURL: https://svn.prvt.nytimes.com/svn/frontend/subscriptions/trunk/Multiproduct/lp5558.html $
+(c)2011 The New York Times Company  
+--> 
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>
+The New York Times
+</title>
+<meta name="WT.cg_n" content="Digital Subscription" />
+<meta name="WT.z_gpt" content="E-Commerce" />
+<meta name="WT.z_gpst" content="Purchase" />
+<meta name="WT.si_n" content="Digital Subscription" />
+<meta name="WT.si_x" content="2" />
+<meta name="WT.ti" content="Landing Page - NYT"/>
+<meta name="WT.cg_s" content="NYT"/>
+<meta name="DCS.dcssip" content="www.nytimes.com"/>
+<meta name="DCS.dcuri" content="/subscriptions/Multiproduct/lp5558.html"/>
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/build/sitehelp/styles.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="css/global.css" />
+<!--[if IE]>
+	<style type="text/css">
+		@import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie.css);
+	</style>
+	<![endif]-->
+<!--[if IE 6]>
+	<style type="text/css">
+		@import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie6.css);
+	</style>
+	<![endif]-->
+<!--[if lt IE 7 ]><body class="ie6"><![endif]-->
+<style type="text/css">
+/*<![CDATA[*/
+		div.c11 {border:solid #999;border-width:1px;font-family:Arial,sans-serif;text-align:left; width:334px;background:#fff;}
+		div.c10 {padding:5px 9px; float:left; width:316px; background:#fff}
+		a.c9 {float:right}
+		a.c8 {float:left}
+		div.c7 {padding:7px 9px 0;background:#fff}
+		ul.c6 {font-size:12px;margin:0; padding-bottom: 10px; border-bottom:1px solid #ccc;}
+		li.c5 {font-size:12px}
+		p.c4 {margin:0 0 3px; padding:0;font-size: 11px;}
+		a.c3 {font-size:11px;margin:3px 0;padding:0;font-family:Arial,sans-serif; color:#000; text-transform:uppercase;}
+		h2.c2 {font-size:22px;line-height:24px; margin:0;padding:0 0 4px;}
+		a.c1 {color:#004276;}
+		/*]]>*/
+</style>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js">
+</script>
+<!-- Google Code for Digital Subscription Page Visitor Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1072417807;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "RPy5CPCOhQIQj5iv_wM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1072417807/?label=RPy5CPCOhQIQj5iv_wM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt=""
+src="https://www.googleadservices.com/pagead/conversion/1072417807/?value=20&amp;label=TRcoCPiNhQIQj5iv_wM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+		
+	$(document).ready(function(){   
+
+		
+			if ($('.radiobutton').is('[checked]')) {
+				$('.radiobutton').filter('[checked]').parent('.row').addClass('selectednew');
+			} else {
+				$('#radio_smart').attr('checked', true).parent('.row').addClass('selectednew');
+			}
+
+			$('input.radiobutton.first').click(function() {
+				$('#radio_tab').attr('checked', false);
+				$('#radio_dig').attr('checked', false);
+				$('.row').removeClass('selectednew');
+				$('.row.first').addClass('selectednew');
+
+			});
+
+			$('input.radiobutton.second').click(function() {
+				$('#radio_smart').attr('checked', false);
+				$('#radio_dig').attr('checked', false);
+				$('.row').removeClass('selectednew');
+				$('.row.second').addClass('selectednew');
+
+			});
+
+			$('input.radiobutton.third').click(function() {
+				$('#radio_smart').attr('checked', false);
+				$('#radio_tab').attr('checked', false);	
+				$('.row').removeClass('selectednew');
+				$('.row.third').addClass('selectednew');
+
+			});
+			
+       
+
+//Tabs
+		//$('#products > ul').tabs({ fx: { height: 'toggle', opacity: 'toggle' } });	
+		$(".infoContent").hide();
+		$("ul.nav-dig li:first").addClass("active").show();
+		$(".infoContent:first").show();
+
+		$("ul.nav-dig li").click(function() {
+			$("ul.nav-dig li").removeClass("active");
+			$(this).addClass("active");
+			$(".infoContent").hide();
+
+			var activeTab= $(this).find("a").attr("href");
+			$(activeTab).show();
+			return false;
+
+
+		});
+
+		//New window overlays
+
+		$('.boxNYT').hide();
+
+		$('a').click(function(){
+			$("div.boxNYT").hide();
+			$('div.' + this.className).show();  
+			
+		});
+
+
+
+		$('a.close').click(function(){
+			$('.boxNYT').hide();
+			
+		});
+
+		});
+
+		function goToURL() {
+		var elements= document.radioForm.elements;
+		for (var i = 0, element; element = elements[i]; i++) {
+		if (element.checked) {
+		window.location.href = element.value;
+		}
+		};
+		return false;
+		}
+		//]]>
+		</script>
+</head>
+<body>
+<!--End of code for WTO A/B Testing  -->
+
+
+<!--
+Start of DoubleClick Floodlight Tag: Please do not remove Activity name of this tag: NYT Pay 
+Wall Campaign Digital Subscriber Landing Page URL of the webpage where the tag is expected to 
+be placed: https://www.nytimes.com
+This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+Creation Date: 03/22/2011
+-->
+<script type="text/javascript">
+	if(document.location.hostname === "www.nytimes.com") {
+		var axel = Math.random() + "";
+		var a = axel * 10000000000000;
+		document.write('<iframe src="https://fls.doubleclick.net/activityi;src=588818;type=nytpa595;cat=nytpa582;ord='+ a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+		document.write('<noscript><iframe src="https://fls.doubleclick.net/activityi;src=588818;type=nytpa595;cat=nytpa582;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe></noscript>');
+	}	
+</script>
+<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+<p>
+<a name="top" id="top"></a>
+</p>
+<div id="shell" style="width: 895px">
+<ul id="memberTools">
+<!--ADXINFO classification="text_ad" campaign="nyt2011-circ-bar1_non-hp-subscribe-374K3"-->
+<li>Home delivery subscriber? <a href="https://myaccount.nytimes.com/link/homedelivery">Get free access</a>
+</li>
+<li>
+<a href="http://www.nytimes.com">NYTimes.com</a>
+</li>
+<li>
+<a href="http://www.nytimes.com/membercenter/sitehelp.html" target="_blank">Help</a>
+</li>
+</ul>
+<div id="page" class="tabContent active" style="width: 895px">
+<div class="clearfix" id="masthead">
+<div id="branding">
+<a href="http://www.nytimes.com"><img src="http://graphics8.nytimes.com/images/misc/nytlogo152x23.gif" alt="New York Times" id="NYTLogo" /></a>
+</div>
+<div id="date"></div>
+</div>
+<div id="container" class="clearfix">
+<div id="head">
+<h1>Unrivaled coverage. Unlimited access.</h1>
+<h3 class="lg">Introducing Times Digital Subscriptions, <strong>just 99&cent; for your first 4 weeks.</strong></h3>
+</div>
+<!--Window Overlays-->
+<div class="boxNYT smart">
+<div class="wrap1">
+<div class="wrap2">
+<div class="shadowwrap">
+<div class="hold clearfix">
+<a class="close"><img src="img/close.gif" /></a>
+<h4 class="margbot10">
+NYtimes.com &#43; Smartphone App
+</h4><img src="img/s-phone.jpg" />
+<ul>
+<li>Unlimited access to NYTimes.com from any device.
+</li>
+<li>Unlimited access to the NYTimes app for your BlackBerry<span class="sup">&reg;</span>, iPhone<span class="sup">&reg;</span>, Windows<span class="sup">&reg;</span> Phone 7 and Android&#153;-powered phones.
+</li>
+<li>After the introductory period, your rate will be $3.75 per week, billed every four weeks.
+</li>
+</ul>
+</div><!--end hold-->
+</div><!--end shadowwrap-->
+</div><!--end wrap2-->
+</div><!--end wrap1-->	
+</div><!--End boxNYT-->
+<div class="boxNYT tab ipad">
+<div class="wrap1">
+<div class="wrap2">
+<div class="shadowwrap">
+<div class="hold clearfix">
+<a class="close"><img src="img/close.gif" /></a>
+<h4 class="margbot10">
+NYtimes.com &#43; Tablet App
+</h4><img src="img/tablet.jpg" />
+<ul>
+<li>Unlimited access to NYTimes.com from any device.
+</li>
+<li>Unlimited access to the NYTimes app for iPad<span class="sup">&reg;</span>, the NYTimes App for the Chrome Web Store and Times Reader 2.0.
+</li>
+<li>After the introductory period, your rate will be $5.00 per week, billed every four weeks.
+</li>
+</ul>
+</div><!--end hold-->
+</div><!--end shadowwrap-->
+</div><!--end wrap2-->
+</div><!--end wrap1-->	
+</div><!--End boxNYT-->
+<div class="boxNYT all ipad">
+<div class="wrap1">
+<div class="wrap2">
+<div class="shadowwrap">
+<div class="hold clearfix">
+<a class="close"><img src="img/close.gif" /></a>
+<h4 class="margbot10">
+All digital access
+</h4><img src="img/all3.jpg" />
+<ul>
+<li>Unlimited access to NYTimes.com from any device.
+</li>
+<li>Unlimited access to the NYTimes app for BlackBerry<span class="sup">&reg;</span>, iPhone<span class="sup">&reg;</span>, Windows<span class="sup">&reg;</span> Phone 7 and Android&#153;-powered phones.
+</li>
+<li>Unlimited access to the NYTimes app for iPad<span class="sup">&reg;</span>, the NYTimes App for the Chrome Web Store and Times Reader 2.0.
+</li>
+<li><span class="bold">New:</span> Share your All Digital Access with a family member.</li>
+<li>After the introductory period, your rate will be $8.75 per week, billed every four weeks.
+</li>
+</ul>
+</div><!--end hold-->
+</div><!--end shadowwrap-->
+</div><!--end wrap2-->
+</div><!--end wrap1-->	
+</div><!--End boxNYT-->
+<!--End window overlays-->
+<div class="section first clearfix">
+<div class="leftTop">
+<img src="img/laptop.jpg" width="372" height="262" alt="New York Times Online" />
+<p class="ten margL gray center">
+Smartphone and tablet apps are not supported on all devices. Does not include e-reader editions, Premium Crosswords or The New York Times Crosswords apps. Prices shown are in U.S. Dollars. Other restrictions apply.
+</p>
+</div>
+<div class="rightTop">
+<div class="supertitle">First 4 weeks</div>
+<h3 class="sm margtop">Choose the subscription that&#8217;s best for you.</h3>
+<div class="priceR subhead">
+<h4>You Pay</h4>
+</div><div class="priceL subhead">
+<h4>Regular Rate</h4>
+</div>
+<form name="radioForm" action="#" method="POST" onsubmit="return goToURL();" id="paymodel">
+<div id="payform">
+<div class="rowContnew">
+<div class="row first clearfix">
+<input class="radiobutton first" type="radio" name="bundle" id="radio_smart" value="https://myaccount.nytimes.com/mem/purchase/gateway/checkout.html?OC=373674" />
+<div class="description">
+<h4>NYTIMES.COM &#43; Smartphone App</h4>
+<p class="twelve margL">Unlimited access to NYTimes.com and the NYTimes smartphone app.<br /><a class="smart">See details</a></p>
+</div>
+<div class="priceR">
+<h4>99&cent;</h4>
+</div><div class="priceL">
+<h4>&nbsp;$15&nbsp;</h4>
+</div>
+</div>
+<div class="row second clearfix">
+<input class="radiobutton second" type="radio" name="bundle" id="radio_tab" value="https://myaccount.nytimes.com/mem/purchase/gateway/checkout.html?OC=1000008" />
+<div class="description">
+<h4>NYTIMES.COM &#43; tablet app</h4>
+<p class="twelve margL">Unlimited access to NYTimes.com and the NYTimes tablet app. <br /><a class="tab">See details</a></p>
+</div>
+<div class="priceR">
+<h4>99&cent;</h4>
+</div><div class="priceL">
+<h4>&nbsp;$20&nbsp;</h4></div>
+</div>
+<div class="row third last clearfix">
+<input class="radiobutton third" type="radio" name="bundle" id="radio_dig" value="https://myaccount.nytimes.com/mem/purchase/gateway/checkout.html?OC=1000010" />
+<div class="description">
+<h4>All digital access </h4>
+<p class="twelve margL">Unlimited access to NYTimes.com and the NYTimes tablet and smartphone app.<br /><a class="all">See details</a></p>
+</div>
+<div class="priceR">	
+<h4>99&cent;</h4>
+</div><div class="priceL">
+<h4>&nbsp;$35&nbsp;</h4>
+</div>
+<div>
+</div>
+</div>
+<div class="btn-hold">
+<input id="subscribe" value="Get unlimited access &#9658;" type="submit" />
+</div>
+</div>
+</form>
+
+</div>
+</div>
+</div>
+</div>
+<div class="section md clearfix">
+<div class="intro clearfix">
+<div class="picContGift">
+<h2 class="new">
+Give a Times Digital Subscription as a gift. 
+</h2>
+<div class="leftBoxGift">
+<p>Award-winning articles. Breaking news coverage. Innovative apps. <br/>All wrapped up in the perfect package. This holiday season give someone on your shopping list unlimited access to NYTimes.com and more with a Times Digital Subscription.</p> <p>And <span class="tBold">save over 30%</span> when you act now.</p>
+<div class="buyGiftBtn"><a href="http://www.nytimes.com/subscriptions/Multiproduct/lp4021.html" onMouseDown="dcsMultiTrack('DCS.dcssip','www.nytimes.com','DCS.dcsuri','/subscriptions/Multiproduct/lp5558.html','WT.ti', 'Gift Sub from 99-cent-4wk LP','WT.cg_n', 'Digital Subscription','WT.cg_s', 'NYT','WT.z_gpt', 'E-Commerce','WT.z_gpst', 'Purchase', 'WT.z_gpsst', 'Gift Sub Purchase', 'WT.z_gift', 'regularLP - 99-cent-4wk', 'WT.z_dcsm', '1');"><img src="img/buyagiftbtn.jpg" width="144" height="27" alt="Buy a Gift" /></a></div>
+</div>
+
+<div class="rightBoxGift"><img src="img/giftpromo.png" alt="" width="409" height="237" all="NYTimes Digital Packages"/></div>
+
+<div class="rightBoxNytLogo"><img src="img/nyt-logoLG.gif" width="269" height="60" alt="NYT Logo" /></div>
+</div>
+</div>
+</div>
+<div class="section bottom clearfix">
+<h2 class="new">
+Frequently Asked Questions
+</h2>
+<div class="colLeft">
+<p>
+<span class="title">What is a digital subscription? What do I get when I subscribe?</span>To get unlimited access to NYTimes.com and our NYTimes apps, you&#8217;ll need a subscription. When you subscribe, you&#8217;ll get unlimited access to articles and blog posts, as well as video, slide shows and other multimedia features &#8212; on the Web site, on the mobile site, and on our smartphone and tablet apps. With your subscription, you&#8217;ll also get 100 Archive articles every four weeks. NYTimes digital subscriptions do not include Premium Crosswords or The New York Times Crosswords apps.  
+</p>
+<p>For more information on the recent changes to NYTimes.com, <a href="http://www.nytimes.com/letter" target="_blank">please read the letter from our publisher</a>.
+</p>
+<p>
+<span class="title">Can I get a digital subscription to NYTimes.com only?</span> No. The basic subscription package gives you unlimited access to NYTimes.com, plus the NYTimes app for your smartphone.
+</p><img src="img/userNYT2.jpg" alt="#" width="396" height="222" class="pad" />
+<p>
+<span class="title">I get home delivery of the newspaper. Do I get free access?</span> Yes. Print subscribers to The New York Times get a free All Digital Access subscription. This package features free, unlimited access to NYTimes.com on any device, plus the full range of NYTimes apps for your smartphone (iPhone, Android-powered phones, Windows<span class="sup">&reg;</span> Phone 7 and BlackBerry), your tablet (iPad) and your computer (Times Reader). Free, unlimited access is provided to all print subscribers, no matter what type of subscription you have (daily, weekday, Weekender, etc.). You&#8217;ll also qualify for free digital access if your home delivery is provided by a third party (rather than by The New York Times directly). 
+</p>
+<p>
+To activate your digital subscription benefits, <a href="https://myaccount.nytimes.com/link/homedelivery">visit this page to connect your home delivery subscription to an NYTimes.com account</a>.
+<a class="topLink" href="#top">Back to Top</a>
+</p>
+</div>
+<div class="colRight">
+<img src="img/usersNYT.jpg" alt="NY Times Users" width="385" height="169" class="pad" />
+
+<p><span class="title">Are there digital subscription discounts for colleges and universities?</span>
+Current college students, faculty and staff can save 50% on individual Times digital subscriptions. Restrictions apply. Visit our <a href="http://www.nytimes.com/subscriptions/edu/lp1999.html?campaignId=384XW">college rate page</a> to learn more and begin the order process at this special rate.  In addition, your college or university may purchase digital access at the college rate, under one bill, for a group of specific individuals.  Group subscriptions are available for all three digital subscription packages. To learn more, please contact <a href="mailto:edu@nytimes.com ?Subject=Learn more about digital subscription discounts for colleges and universities">
+edu@nytimes.com</a> or call (800) 753-7795. </p>
+<p><span class="title">Do you have a group or corporate subscription program?</span> 
+Yes. We offer group subscriptions, which allow companies and organizations to purchase digital access for a set number of authorized users, under one bill, and at a special discount. Group subscriptions are available for all three digital subscription packages. To learn more, e-mail <a href="mailto:groupsubs@nytimes.com?Subject=Learn more about NY Times group or corporate subscription program">
+groupsubs@nytimes.com</a> or call (800) 753-7795.</p>
+<p>
+<span class="title">What is the cancellation and refund policy?</span> You can cancel your subscription at any time. When you cancel, we will stop charging your account the following billing cycle. Each billing cycle is four weeks, so your unlimited access will continue for the remainder of the current four-week period. Afterward, you will still be able to view 20 articles a month on NYTimes.com and read Top News on our apps at no charge, just like any other visitor.
+</p>
+<p>
+<a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html#cancel" target="_blank">View the full cancellation and refund policy &raquo;</a>
+</p>
+<p>
+<span class="title">What if I don&#8217;t want to subscribe &#8212; can I still read NYTimes.com for free?</span> Visitors get 20 free articles (including blog posts, slide shows, video and other multimedia features) each calendar month on NYTimes.com, as well as access to browse the home page, section fronts, blog fronts and classifieds. Subscribers enjoy unrestricted access to all of the content on NYTimes.com, and 100 Archive articles every four weeks. Also note that NYTimes apps are free to download and install, and they include the Top News section for free. Subscribers get unlimited access to all sections within the app.
+</p>
+<p>
+<a href="http://www.nytimes.com/content/help/account/purchases/subscriptions-and-purchases.html" target="_blank">View our complete FAQ &raquo;</a>
+</p>
+</div>
+</div><!--NEW-->
+<div class="sectionInfo clearfix">
+<h2 class="new">
+Experience The Times. Any way you want it.
+</h2>
+<ul class="nav-dig">
+<li id="tab-1">
+<a href="#holdNyt">nytimes.com</a>
+</li>
+<li id="tab-2">
+<a href="#holdApps" class="app">smartphone apps</a>
+</li>
+<li id="tab-3">
+<a href="#holdFaq" class="faq">tablet apps</a>
+</li>
+<li id="tab-4">
+<a href="#holdHome" class="home">home delivery</a>
+</li>
+</ul>
+<div id="tabContainer">
+<!--Tab 1 content-->
+<div id="holdNyt" class="infoContent clearfix">
+<div class="holdLeft">
+<img src="img/tabHero1-nyt.jpg" width="286" height="223" alt="The New York Times" /><br />
+<a class="topLink" href="#top">Back to Top</a>
+</div>
+<div class="holdRight">
+<h2>
+NYTimes.com
+</h2>
+<h3 class="md">
+The world&#8217;s premier news site.
+</h3>
+<p>
+Enjoy unlimited access to the world&#8217;s finest journalism, with continuous coverage of the most important news, issues and newsmakers, plus provocative opinion and innovative multimedia.
+</p>
+<div class="tabSub first">
+<img src="img/icon-news.gif" width="45" height="45" alt="Video" />
+<h3 class="md">
+24-Hour News Desk
+</h3>
+<p>
+The New York Times newsroom is a 24-hour operation, with journalists in New York, across the nation and around the world reporting on critical events as they unfold.
+</p>
+</div>
+<div class="tabSub">
+<img src="img/icon-video.gif" width="45" height="45" alt="Blogs" />
+<h3 class="md">
+Videos
+</h3>
+<p>
+On a wide array of topics &#8212; from top news to new films to the latest technology &#8212; our videos capture events, issues and newsmakers, from the unique perspectives of renowned Times journalists.
+</p>
+</div>
+<div class="tabSub">
+<img src="img/icon-multi.gif" width="45" height="45" alt="Multimedia" />
+<h3 class="md">
+Multimedia
+</h3>
+<p>
+From interactive maps to timelines and slide shows, our dynamic multimedia bring out vital aspects of stories in new and compelling ways.
+</p>
+</div>
+<div class="tabSub">
+<img src="img/icon-blog.gif" width="45" height="45" alt="Podcasts" />
+<h3 class="md">
+Blogs
+</h3>
+<p>
+Over 50 in all, on technology, culture, health and more. Get a financial edge with DealBook; gain political insights with The Caucus; tap the minds of experts in every field.
+</p>
+</div>
+</div>
+</div><!--Tab 2 content-->
+<div id="holdApps" class="infoContent clearfix">
+<div class="holdLeft">
+<img src="img/tabHero2-phones.jpg" width="185" height="212" alt="Smartphones" /><br />
+<a class="topLink" href="#top">Back to Top</a>
+</div>
+<div class="holdRight">
+<h2>
+Smartphone apps
+</h2>
+<p>
+Access more than 25 Times sections with our suite of apps designed specifically for the iPhone, BlackBerry, Windows<span class="sup">&reg;</span> Phone 7 and Android-powered phones. Enjoy fast syncs and seamless access to articles and photos. Share articles with friends. Read The Times on the go, online or offline.
+</p>
+</div>
+</div><!--Tab 3 content-->
+<div id="holdFaq" class="infoContent clearfix">
+<div class="holdLeft">
+<img src="img/tabHero3-tablet.jpg" width="366" height="290" alt="Tablets" /><br />
+<a class="topLink" href="#top">Back to Top</a>
+</div>
+<div class="holdRight">
+<h2>
+Tablet apps
+</h2>
+<p>
+The NYTimes app for iPad gives you access to more than 25 sections, plus a selection of exclusive blogs, videos, photos and more. Plus, Times Reader 2.0 and the NYTimes App for the Chrome Web Store uniquely capture the experience of reading the printed newspaper on your computer.
+</p>
+</div>
+</div><!--Tab 4 content-->
+<div id="holdHome" class="infoContent clearfix">
+<div class="holdLeft">
+<img src="img/tabHero5-hd.jpg" width="342" height="214" alt="Home Delivery" /> <a class="topLink" href="#top">Back to Top</a>
+</div>
+<div class="holdRight">
+<h2>
+Home Delivery + Free All Digital Access
+</h2>
+<h3 class="md">
+The convenience of home delivery and so much more.
+</h3>
+<p>
+Whether you subscribe seven days a week or get a jump on your weekend with The Weekender, bringing you Friday-Sunday delivery, you&#8217;ll stay on top of unfolding events, get fresh insights into issues important to you and discover new worlds page after page. Plus, home delivery subscribers get unlimited access to NYTimes.com and our smartphone and tablet apps <span class="bold">free</span>.
+</p><a class="serifLG" href="http://www.nytimes.com/hdoffer">Save 50% when you sign up for home delivery &raquo;</a>
+</div>
+</div><!--end tabContainer-->
+<!--End NEW-->
+<div id="footer" style="margin-top: 25px;" class="eleven">
+<ul>
+<li class="first">
+<a href="http://www.nytimes.com/content/help/rights/copyright/copyright-notice.html" target="_blank">Copyright 2011</a> <a href="http://www.nytco.com/" target="_blank">The New York Times Company</a>
+</li>
+<li>
+<a href="http://www.nytimes.com/privacy" target="_blank">Privacy Policy</a>
+</li>
+<li>
+<a href="http://www.nytimes.com/content/help/contact/directory.html" target="_blank">Contact Us</a>
+</li>
+<li>
+<a href="http://www.nytimes.com/membercenter/sitehelp.html" target="_blank">Help</a>
+</li>
+</ul>
+</div>
+</div>
+</div><!--close page -->
+</div><!--close shell -->
+<script src="http://graphics8.nytimes.com/js/subscriptions/params.js" type="text/javascript"></script>
+<script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+<noscript>
+<div>
+<img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7" />
+</div>
+</noscript>
+<img height="1" width="1" border=0
+src="http://up.nytimes.com/?d=27/0/&t=22&r=&u=www.nytimes.com%2Fsubscriptions%2FMultiproduct%2Flp5558.html"/>
+</div>
+</body>
+</html>

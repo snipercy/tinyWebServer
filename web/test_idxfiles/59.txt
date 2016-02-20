@@ -1,0 +1,1529 @@
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Set-cookie: adxcs=s*28145=0:1; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Travel - Guides and Deals for Hotels, Restaurants and Vacations - The New York Times - The New York Times</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="noarchive">
+<meta name="description" content="Expert travel advice for destinations around the world from The New York Times, including hotel, restaurant, and vacation tips and deals." />
+<meta name="keywords" content="Hotels and Motels,Travel and Vacations,Travel and Vacations,Hotels and Motels,Travel and Vacations,Hotels and Motels,Travel and Vacations,Hotels and Motels,Travel and Vacations,Mexico,St John (Virgin Islands),Travel and Vacations,Cooking and Cookbooks,Travel and Vacations,Italy,Travel and Vacations,Hotels and Motels,Travel and Vacations,Arkansas,Oahu (Hawaii),Hikes and Hiking,Travel and Vacations,Travel and Vacations,Kelly, Brian,Travel and Vacations,Hotels and Motels,Travel and Vacations,Mexico,Travel and Vacations,Atlanta (Ga),St John (Virgin Islands),Travel and Vacations,Travel and Vacations" />
+<meta name="asset_id" content="">
+<meta name="CG" content="travel" />
+<meta name="SCG" content="" />
+<meta name="PT" content="Section Front" />
+<meta name="PST" content="" />
+<meta name="msapplication-starturl" content="http://www.nytimes.com/" />
+<link rel="canonical" href="http://www.nytimes.com/pages/travel/index.html">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.nytimes.com/services/xml/rss/nyt/Travel.xml"/>
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/build/sectionfront/travel/styles.css" />
+<link rel="stylesheet" type="text/css" media="print" href="http://graphics8.nytimes.com/css/0.1/print/styles.css">
+<!--[if IE]>
+        <style type="text/css">
+            @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie.css);
+        </style>
+    <![endif]-->
+<!--[if IE 6]>
+        <style type="text/css">
+            @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie6.css);
+        </style>
+    <![endif]-->
+
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/DropDown.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/util/tooltip.js"></script>
+<script type="text/JavaScript">
+    var static_kw = "Hotels and Motels;Travel and Vacations;Travel and Vacations;Hotels and Motels;Travel and Vacations;Hotels and Motels;Travel and Vacations;Hotels and Motels;Travel and Vacations;Mexico;St John (Virgin Islands);Travel and Vacations;Cooking and Cookbooks;Travel and Vacations;Italy;Travel and Vacations;Hotels and Motels;Travel and Vacations;Arkansas;Oahu (Hawaii);Hikes and Hiking;Travel and Vacations;Travel and Vacations;Kelly; Brian;Travel and Vacations;Hotels and Motels;Travel and Vacations;Mexico;Travel and Vacations;Atlanta (Ga);St John (Virgin Islands);Travel and Vacations;Travel and Vacations";
+    var dynamic_kw = "Hotels+and+Motels;Travel+and+Vacations;Travel+and+Vacations;Hotels+and+Motels;Travel+and+Vacations;Hotels+and+Motels;Travel+and+Vacations;Hotels+and+Motels;Travel+and+Vacations;Mexico;St+John+%28Virgin+Islands%29;Travel+and+Vacations;Cooking+and+Cookbooks;Travel+and+Vacations;Italy;Travel+and+Vacations;Hotels+and+Motels;Travel+and+Vacations;Arkansas;Oahu+%28Hawaii%29;Hikes+and+Hiking;Travel+and+Vacations;Travel+and+Vacations;Kelly;+Brian;Travel+and+Vacations;Hotels+and+Motels;Travel+and+Vacations;Mexico;Travel+and+Vacations;Atlanta+%28Ga%29;St+John+%28Virgin+Islands%29;Travel+and+Vacations;Travel+and+Vacations";
+    var nyt_google_contents = dynamic_kw + static_kw;
+    var nyt_google_ad_channel = "travel";
+    var google_ad_client = "nytimes_section_var";
+    </script>
+</head>
+<body>
+<a name="top"></a>
+<div id="shell">
+
+<ul id="memberTools">
+
+<!-- start text link -->
+<li class="cColumn-TextAdsHeader">Subscribe:
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/travel/index.html&pos=Bar1&sn2=93a18c00/4f06bcb2&sn1=2407a328/96bf5462&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-digi-hd-d3847U-h3847W&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fsubscriptions%2FMultiproduct%2Flp5558%2Ehtml%3Fadxc%3D162578%26adxa%3D267524%26page%3Dwww.nytimes.com/pages/travel/index.html%26pos%3DBar1%26campaignId%3D3847U" target="_blank">
+Digital</a> / <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/travel/index.html&pos=Bar1&sn2=93a18c00/4f06bcb2&sn1=8c0204ae/f0584be3&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-digi-hd-d3847U-h3847W&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DW47AF%26CMP%3D3847W" target="_blank">Home Delivery</a>
+</li>
+<!-- end text link -->
+
+ 
+                        <li><a id="memberToolsLogin" href="https://myaccount.nytimes.com/auth/login">Log In</a></li>
+            <li><a href="https://myaccount.nytimes.com/gst/regi.html">Register Now</a></li>
+                            
+
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+</ul>
+<div class="tabsContainer">
+<ul id="mainTabs" class="tabs">
+<li class="first mainTabHome"><a href="http://www.nytimes.com">Home Page</a></li>
+<li class="mainTabTodaysPaper"><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+<li class="mainTabVideo"><a href="http://www.nytimes.com/video">Video</a></li>
+<li class="mainTabMostPopular"><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+<li class="mainTabTimesTopics"><a href="http://topics.nytimes.com/top/reference/timestopics">Times Topics</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+</script>
+<div id="page" class="tabContent active">
+<div class="clearfix" id="masthead">
+
+<div class="singleAd" id="Middle1C">
+<!-- ADXINFO classification="button" campaign="ING_DirectSiteSearchQ111_1694929-nyt1"--><A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/travel/index.html&pos=Middle1C&sn2=a1b21273/9f7c18cd&sn1=59756299/46b02203&camp=ING_DirectSiteSearchQ111_1694929-nyt1&ad=NEW.88x31.SiteSearch.Wizard&goto=http://ad.doubleclick.net/jump/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.30" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.30"
+ BORDER=0 WIDTH=88 HEIGHT=31
+ ALT="Click Here"></A>
+</div>
+
+<div id="searchWidget">
+<div class="inlineSearchControl">
+<form enctype="application/x-www-form-urlencoded" action="http://query.nytimes.com/search/sitesearch" method="get" name="searchForm" id="searchForm">
+<input type="hidden" value="full" name="date_select"/>
+<label for="searchQuery">Search All NYTimes.com</label>
+<input type="text" class="text" value="" size="" name="query" id="searchQuery"/>
+<input type="hidden" id="searchAll" name="type" value="nyt"/>
+<input type="image" id="searchSubmit" title="Search" alt="Search" width="22" height="19" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"/>
+</form>
+</div>
+</div>
+
+<div id="branding" >
+<a href="http://www.nytimes.com"><img src="http://graphics8.nytimes.com/images/misc/nytlogo152x23.gif" alt="New York Times" id="NYTLogo"/></a>
+</div>
+
+<div id="date">
+<p>
+Friday, December  2, 2011
+</p>
+</div>
+
+<h2>
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</h2>
+
+</div>
+<div class="navigation tabsContainer">
+<ul class="tabs">
+<li id="navWorld" class="first ">
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>	<li id="navUs" >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>	<li id="navNyregion" >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>	<li id="navBusiness" >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>	<li id="navTechnology" >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>	<li id="navScience" >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>	<li id="navHealth" >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>	<li id="navSports" >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>	<li id="navOpinion" >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>	<li id="navArts" >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>	<li id="navStyle" >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>	<li id="navTravel" class="selected">
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>	<li id="navJobs" >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>	<li id="navRealestate" >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>	<li id="navAutomobiles" >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li></ul>
+</div>
+<script language="JavaScript" type="text/javascript" src="http://graphics8.nytimes.com/js/section/travel/navDropdownData.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://graphics8.nytimes.com/js/section/travel/destinations_arrays.js"></script> 
+<script language="JavaScript" type="text/javascript" src="http://graphics8.nytimes.com/js/section/travel/destinations_select_list.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://graphics8.nytimes.com/js/section/travel/travelsearch/suggest.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://graphics8.nytimes.com/js/app/travelsearch/autosuggest.js"></script>
+<div class="subNavigation tabContent active">
+<div class="column firstColumn">
+<div class="columnGroup">
+<div class="inlineSearchControl">
+<form name="travelGuide" method="get" id="travelGuide" action="http://query.nytimes.com/search/travel" enc="iso8859">
+<label for="query_term">Search <span class="destinationCount timestamp">1,000+ <span>destinations</span></span></label>
+<input id="query_term" type="text" name="term" class="text" value="" autocomplete="off"/>
+<div class="auto_complete" id="query_suggestions" style="display:none;"></div>
+<input type="image" src="http://graphics8.nytimes.com/images/global/buttons/go.gif" alt="Search" title="Search"/>
+</form>
+</div>
+</div>
+</div>
+
+<div class="column two lastColumn">
+<div class="columnGroup">
+<h5>Plan Your Trip <span class="timesPicks">Times Picks</span></h5>
+<form name="desinationGuide" onSubmit="return gotoSubSection(this);">
+<script language="JavaScript" type="text/javascript">
+					writeRegionCountryDropdown();
+				</script>
+<select name="subregion" class="destination" disabled>
+<option>Select a Destination</option>
+<option>--------------------</option>
+<option></option>
+<option></option>
+<option></option>
+</select>
+<input class="goButton" type="image" src="http://graphics8.nytimes.com/images/global/buttons/go.gif">
+</form>
+</div>
+
+</div>
+
+</div>		    		          
+
+<div class="singleAd" id="TopAd">
+<!-- ADXINFO classification="leaderboard_728" campaign="Lord_and_Taylor_Holiday_2011-1768261-nyt8"--><SCRIPT type="text/javascript" SRC="http://ad.doubleclick.net/adj/N2581.nytimes/B5584316.2;sz=728x90;pc=nyt173397A283427;ord=2011.12.02.18.04.30?;click=http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/travel/index.html&pos=TopAd&camp=Lord_and_Taylor_Holiday_2011-1768261-nyt8&ad=LordandTaylor_728x90_geo&sn2=114ca49e/bbed97dd&snr=doubleclick&snx=1322848863&sn1=18af2e66/c61faf9d&goto=">
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/travel/index.html&pos=TopAd&sn2=114ca49e/bbed97dd&sn1=312fc7a3/4872d5c3&camp=Lord_and_Taylor_Holiday_2011-1768261-nyt8&ad=LordandTaylor_728x90_geo&goto=http://ad.doubleclick.net/jump/N2581.nytimes/B5584316.2;sz=728x90;pc=nyt173397A283427;ord=2011.12.02.18.04.30?" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N2581.nytimes/B5584316.2;sz=728x90;pc=nyt173397A283427;ord=2011.12.02.18.04.30?"
+ BORDER=0 WIDTH=728 HEIGHT=90
+ ALT="Click Here"></A>
+</NOSCRIPT>
+</div>
+
+<div id="main">
+<div class="spanAB wrap">
+<div class="wideA">
+<div class="aColumn">
+<!--cur:LedeStory395WithTopicsLinks prev:-->
+<div class="columnGroup first">
+<div class="ledeStory">
+<div class="storyHeader">
+<h1><a href="http://travel.nytimes.com/2011/12/04/travel/my-life-in-hotels.html?ref=travel">
+My Life in Hotels</a></h1>
+<h6 class="byline">
+By GUY TREBAY                                
+</h6>
+</div><!--close .storyHeader -->
+<div class="ledePhoto">
+<div class="image">
+<a href="http://travel.nytimes.com/2011/12/04/travel/my-life-in-hotels.html?ref=travel"><img src="http://graphics8.nytimes.com/images/2011/12/04/travel/04HOTEL_395/04HOTEL_395-sfSpan-v2.jpg" width="395" height="263" alt="The Plaza in New York." border="0" /></a>
+</div>
+<h6 class="credit">Ruth Fremson/The New York Times</h6>
+<p class="caption">The Plaza in New York.</p>
+</div>
+<p class="summary">My affinity for hotels runs deep and is lifelong: the long, vacant corridors, the sense of hidden workings, the old-fashioned bath mats stamped with an establishment’s name.</p>
+</div><!--close .ledeStory -->
+</div>
+<!--cur:StandardThumbWithTopicsLinks prev:LedeStory395WithTopicsLinks-->
+<div class="columnGroup doubleRule last">
+<div class="story">
+<h3><a href="http://travel.nytimes.com/2011/12/04/travel/check-in-tips.html?ref=travel">
+Six Ways to Master Your Stay</a></h3>
+<h6 class="byline">
+By GUY TREBAY                        
+</h6>
+<p class="summary">Quarantine the comforter, stow the TV and always ask to see the third room first.</p>
+</div><!--close .story -->
+<div class="story">
+<h3><a href="http://travel.nytimes.com/2011/12/04/travel/five-hotels-that-get-five-stars.html?ref=travel">
+Five Hotels That Get Five Stars</a></h3>
+<h6 class="byline">
+By GUY TREBAY                        
+</h6>
+<p class="summary">From India to Paris to a corner of Arizona, places to be seen hidden or pampered.</p>
+</div><!--close .story -->
+<div class="story">
+<h6 class="kicker">Practical Traveler</h6>
+<div class="thumbnail">
+<a href="http://travel.nytimes.com/2011/12/04/travel/as-airlines-cut-back-hotels-step-in.html?ref=travel"><img src="http://graphics8.nytimes.com/images/2011/12/04/travel/04PRACILLO/04PRACILLO-thumbStandard.jpg" width="75" height="75" alt="" border="0" /></a>
+</div>
+<h3><a href="http://travel.nytimes.com/2011/12/04/travel/as-airlines-cut-back-hotels-step-in.html?ref=travel">
+Airlines Cut Back, Hotels Step In</a></h3>
+<h6 class="byline">
+By MICHELLE HIGGINS                        
+</h6>
+<p class="summary">To ease the way for harried travelers, hotels are adding services, from wardrobe storage to airport concierges.</p>
+<ul class="refer">
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001188908" overflowurl="http://community.nytimes.com/comments/travel.nytimes.com/2011/12/04/travel/as-airlines-cut-back-hotels-step-in.html"></span></li>
+</ul>
+</div><!--close .story -->
+<div class="story">
+<div class="thumbnail">
+<a href="http://travel.nytimes.com/2011/12/04/travel/36-hours-in-merida-mexico.html?ref=travel"><img src="http://graphics8.nytimes.com/images/2011/12/04/travel/04HOURS1_SPAN/04HOURS1-thumbStandard.jpg" width="75" height="75" alt="From left: A traditional Yucatecan dish served in the Chaya Maya restaurant; a traditional folk dance presentation, every Saturday night in an open air stage at the Remate Paseo Montejo; people ride bicycles on Paseo Montejo, which are closed for cars on Sundays." border="0" /></a>
+</div>
+<h3><a href="http://travel.nytimes.com/2011/12/04/travel/36-hours-in-merida-mexico.html?ref=travel">
+36 Hours in Mérida, Mexico</a></h3>
+<h6 class="byline">
+By ELISABETH MALKIN                        
+</h6>
+<p class="summary">The city, now one of the safest in Mexico, is an architectural jewel, with one of the country’s largest historic centers outside Mexico City.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/slideshow/2011/12/04/travel/04MERIDA.html"><span class="icon slideshow">Photos</span>: Mérida, Mexico</a></li>
+</ul>
+<ul class="refer flush">
+<li><a href="http://travel.nytimes.com/travel/guides/north-america/mexico/yucatan-peninsula/merida/overview.html"> Travel Guide: Merida &raquo;</a></li>
+</ul>
+</div><!--close .story -->
+<div class="story">
+<h6 class="kicker">Explorer</h6>
+<div class="thumbnail">
+<a href="http://travel.nytimes.com/2011/12/04/travel/stand-up-paddle-boarding-in-the-virgin-islands.html?ref=travel"><img src="http://graphics8.nytimes.com/images/2011/12/04/travel/04EXPLORER1_SPAN/04EXPLORER1-thumbStandard.jpg" width="75" height="75" alt="Sarah Swan, with an Arawak Expeditions group, demonstrates paddle boarding off St. John." border="0" /></a>
+</div>
+<h3><a href="http://travel.nytimes.com/2011/12/04/travel/stand-up-paddle-boarding-in-the-virgin-islands.html?ref=travel">
+Stand-Up Paddle Boarding in the Virgin Islands</a></h3>
+<h6 class="byline">
+By WENDY PLUMP                        
+</h6>
+<p class="summary">Better than boating or diving, paddle boarding is a 360-degree experience, with vistas of land and sea all around.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/slideshow/2011/12/04/travel/04PADDLE.html"><span class="icon slideshow">Slide Show</span>: Explorer: The Island From a Board</a></li>
+</ul>
+</div><!--close .story -->
+<div class="story">
+<h6 class="kicker">FRUGAL TRAVELER</h6>
+<div class="thumbnail">
+<a href="http://frugaltraveler.blogs.nytimes.com/2011/11/29/a-palm-beach-story-millions-not-required/?ref=travel"><img src="http://graphics8.nytimes.com/images/2011/12/04/travel/04FRUGAL-MAIN/04FRUGAL-MAIN-thumbStandard.jpg" width="75" height="75" alt="Cyclists on the Lake Trail that winds up the western edge of this barrier island." border="0" /></a>
+</div>
+<h3><a href="http://frugaltraveler.blogs.nytimes.com/2011/11/29/a-palm-beach-story-millions-not-required/?ref=travel">
+A Palm Beach Story, Millions Not Required</a></h3>
+<p class="summary">Seth Kugel golfed, rented wheels, shopped for fine clothes and sunned on private sands in Palm Beach — all for well under $200 a day.</p>
+</div><!--close .story -->
+<div class="story">
+<h6 class="kicker">Bites</h6>
+<div class="thumbnail">
+<a href="http://travel.nytimes.com/2011/12/04/travel/osteria-dei-mulini-in-polignano-a-mare-italy.html?ref=travel"><img src="http://graphics8.nytimes.com/images/2011/12/04/travel/04BITES_SPAN/04BITES_SPAN-thumbStandard.jpg" width="75" height="75" alt="" border="0" /></a>
+</div>
+<h3><a href="http://travel.nytimes.com/2011/12/04/travel/osteria-dei-mulini-in-polignano-a-mare-italy.html?ref=travel">
+Osteria dei Mulini in Polignano a Mare, Italy</a></h3>
+<h6 class="byline">
+By NICK CZAP                        
+</h6>
+<p class="summary">This restaurant in Puglia, reopened in January, has been serving traditional Puglian cuisine for centuries.</p>
+</div><!--close .story -->
+<div class="story">
+<h6 class="kicker">Check In, Check Out</h6>
+<div class="thumbnail">
+<a href="http://travel.nytimes.com/2011/12/04/travel/hotel-de-leurope-in-amsterdam-hotel-review.html?ref=travel"><img src="http://graphics8.nytimes.com/images/2011/12/04/travel/04CHECKIN_SPAN/04CHECKIN_SPAN-thumbStandard.jpg" width="75" height="75" alt="The stylish Hotel de l'Europe, recently refurbished, is situated on the Amstel River." border="0" /></a>
+</div>
+<h3><a href="http://travel.nytimes.com/2011/12/04/travel/hotel-de-leurope-in-amsterdam-hotel-review.html?ref=travel">
+Hotel Review: In Amsterdam, Hotel de l’Europe</a></h3>
+<h6 class="byline">
+By GERALDINE FABRIKANT                        
+</h6>
+<p class="summary">An $85-million renovation adds a Dutch nod to kitsch while keeping the continental high style.</p>
+<ul class="refer flush">
+<li><a href="http://travel.nytimes.com/travel/guides/europe/netherlands/amsterdam/overview.html"> Travel Guide: Amsterdam &raquo;</a></li>
+</ul>
+</div><!--close .story -->
+<div class="story">
+<h6 class="kicker">Heads Up</h6>
+<div class="thumbnail">
+<a href="http://travel.nytimes.com/2011/12/04/travel/art-meets-leisure-in-bentonville-arkansas.html?ref=travel"><img src="http://graphics8.nytimes.com/images/2011/12/04/travel/04HEADSUP_SPAN/04HEADSUP_SPAN-thumbStandard.jpg" width="75" height="75" alt="Walter and Jackie Walker examine a work by John Baldessari at the new Crystal Bridges Museum of American Art." border="0" /></a>
+</div>
+<h3><a href="http://travel.nytimes.com/2011/12/04/travel/art-meets-leisure-in-bentonville-arkansas.html?ref=travel">
+Art Meets Leisure in Arkansas</a></h3>
+<h6 class="byline">
+By SARAH STODOLA                        
+</h6>
+<p class="summary">Thanks to an impressive new American art museum, Bentonville, Ark., is drawing visitors and new attractions.</p>
+<ul class="refer flush">
+<li><a href="http://travel.nytimes.com/travel/guides/north-america/united-states/arkansas/overview.html"> Travel Guide: Arkansas &raquo;</a></li>
+</ul>
+</div><!--close .story -->
+<div class="story">
+<h6 class="kicker">Next Stop</h6>
+<div class="thumbnail">
+<a href="http://travel.nytimes.com/2011/12/04/travel/hiking-in-hawaiis-waimea-valley.html?ref=travel"><img src="http://graphics8.nytimes.com/images/2011/12/04/travel/04NEXT2_SPAN/04NEXT2_SPAN-thumbStandard.jpg" width="75" height="75" alt="From left: Wild strawberry guava; a hibiscus flower; and a guide holding native flowers." border="0" /></a>
+</div>
+<h3><a href="http://travel.nytimes.com/2011/12/04/travel/hiking-in-hawaiis-waimea-valley.html?ref=travel">
+The Waimea Valley Reveals Its Secrets</a></h3>
+<h6 class="byline">
+By BONNIE TSUI                        
+</h6>
+<p class="summary">The valley is home to thousands of acres of tropical rain forest, as well as archaeological finds. Now guided tours are available to areas previously off-limits.</p>
+</div><!--close .story -->
+<div class="story">
+<h6 class="kicker">ASK AN EXPERT</h6>
+<div class="thumbnail">
+<a href="http://travel.nytimes.com/2011/12/04/travel/brian-kelly-the-points-guy-on-how-to-rack-up-miles.html?ref=travel"><img src="http://graphics8.nytimes.com/images/2011/12/04/travel/sub04QNA1/sub04QNA1-thumbStandard.jpg" width="75" height="75" alt="" border="0" /></a>
+</div>
+<h3><a href="http://travel.nytimes.com/2011/12/04/travel/brian-kelly-the-points-guy-on-how-to-rack-up-miles.html?ref=travel">
+It’s the Season To Earn, and Spend, Points</a></h3>
+<h6 class="byline">
+By RACHEL LEE HARRIS                        
+</h6>
+<p class="summary">The holidays, with all that gift giving and traveling, are a great time for getting and spending points.</p>
+</div><!--close .story -->
+<div class="story">
+<h6 class="kicker">Letters</h6>
+<h3><a href="http://travel.nytimes.com/2011/12/04/travel/letters-to-the-editor-travel.html?ref=travel">
+Even More Frugal Miami</a></h3>
+<h6 class="byline">
+By THE NEW YORK TIMES                        
+</h6>
+<p class="summary">Readers respond to “Miami After Dark” on the Frugal Traveler blog on Nov. 15.</p>
+</div><!--close .story -->
+<div class="doubleRuleDivider"></div>
+</div>
+</div><!--close .aColumn -->
+<div class="bcColumn">
+<div id="SpanBCTopRegion" class="closing">
+<div class="columnGroup first">
+<!--BEGIN EXPEDIA BOOKING MODULE JAVASCRIPT FILES -->
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/section/travel/eta_enu1033/cal.js"></script>
+<iframe src="/js/section/travel/eta_enu1033/calx.html" style="visibility:hidden;position:absolute;" id="CalFrame" name="CalFrame" marginheight="0" marginwidth="0" noresize frameborder="0" scrolling="no"></iframe>
+<script language="javascript" src="http://graphics8.nytimes.com/js/section/travel/eta_enu1033/calx.js"></script>
+<script language="javascript" src="http://graphics8.nytimes.com/js/section/travel/expediaModulePrepare.js"></script>
+<!--END EXPEDIA BOOKING MODULE JAVASCRIPT FILES -->
+<!--contains entire module, each onclick toggles each form's searchtype content display -->
+<div class="expediaModule columnGroup" id="expediaSFModule">
+<div class="doubleRule expediaHeader">
+<a href="http://www.expedia.com/pubspec/scripts/eap.asp?GOTO=HOME&eapid=37294-1&olid=&mdpcid=37294-1.5.1.clickthru.home">
+<img src="http://graphics8.nytimes.com/images/section/travel/expedia.gif" class="runaroundRight">
+</a>
+<form method="get" action="http://www.expedia.com/pubspec/scripts/eap.asp" name="Wiz">
+<input type="hidden" value="37294-1" name="eapid"><input type="hidden" value="37294-1.8.1.secfront" name="mdpcid">
+<h3 class="sectionHeader inlineLabel">Book Your Trip</h3>
+<input type="radio" checked="checked" onclick="hw('flt');" id="sFlt" value="flt" name="srch">
+<label for="sFlt" class="inlineLabel moduleHeader">
+Flight
+</label>
+<input type="radio" onclick="hw('hot');" id="sHot" value="hot" name="srch">
+<label for="sHot" class="inlineLabel moduleHeader">
+Hotel
+</label>
+<input type="radio" onclick="hw('cru');" id="sCru" value="cru" name="srch">
+<label for="sCru" class="inlineLabel moduleHeader">
+Cruise
+</label>
+<input type="radio" onclick="hw('pac');" id="sPac" value="pac" name="srch">
+<label for="sPac" class="inlineLabel moduleHeader">
+Packages
+</label>
+<input type="radio" onclick="hw('car');" id="sCar" value="car" name="srch">
+<label for="sCar" class="inlineLabel moduleHeader">
+Car
+</label>
+</form>
+</div>
+<!--end .expediaSFHeader clearfix -->
+<div class="expediaModuleContent">
+<!--contains module content only  -->
+<div class="flight clearfix" id="flt" style="display: block;">
+<!--FLIGHT FORM - START (form name corresponds to search.submit()) -->
+<form method="GET" action="http://www.expedia.com/pubspec/scripts/eap.asp" name="FltForm">
+<input type="hidden" value="37294-1" name="eapid"><input type="hidden" value="EXPFLTWIZ" name="GOTO"><input type="hidden" value="-34980" name="rfrr"><input type="hidden" value="" name="olid"><input type="hidden" value="37294-1.8.1.secfront" name="mdpcid">
+<div class="columnSet">
+<div class="column placeColumn">
+<label for="fltFrom">
+Leaving from:
+</label>
+<input type="text" name="FrAirport" id="fltFrom" onfocus="HCal();"/>
+</div>
+<div class="column dateColumn lastColumn">
+<label for="fltDepartDate">
+Departing:
+</label>
+<input type="text" value="2/9/2010" name="FromDate" id="fltDepartDate" onclick="event.cancelBubble=true;SC(this,null);" onfocus="SC(this,null);"/>
+</div>
+</div>
+<div class="columnGoingTo">
+<div class="column placeColumn">
+<label for="fltTo">
+Going to:
+</label>
+<input type="text" name="ToAirport" id="fltTo" onfocus="HCal();"/>
+</div>
+<div class="column dateColumn">
+<label for="fltReturnDate">
+Returning:
+</label>
+<input type="text" value="2/11/2010" name="ToDate" id="fltReturnDate" onclick="event.cancelBubble=true;SC(this,null);" onfocus="SC(this,null);"/>
+</div>
+<div class="column selectColumn">
+<label for="fltAdults">
+Adults:
+</label>
+<select name="NumAdult" size="1" id="fltAdults">
+<option value="1">1</option>
+<option selected="selected" value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+</select>
+</div>
+<div class="column searchButtonColumn lastColumn">
+<div class="searchButton"><a href="#" onclick="document.FltForm.submit();">Search</a></div>
+</div>
+</div>
+</form>
+</div>
+<!--FLIGHT INPUTS - END -->
+<div style="display: none;" class="clearfix" id="hot">
+<!--HOTEL INPUTS - START -->
+<form method="get" action="http://www.expedia.com/pubspec/scripts/eap.asp" name="HotForm">
+<input type="hidden" value="37294-1" name="eapid"><input type="hidden" value="HOTSEARCH" name="GOTO"><input type="hidden" value="1033" name="lang"><input type="hidden" value="3" name="ovrd"><input type="hidden" value="-34980" name="rfrr"><input type="hidden" value="" name="olid"><input type="hidden" value="37294-1.8.1.secfront" name="mdpcid">
+<div class="columnSet">
+<div class="column placeColumn">
+<label for="hotelDestination">
+Destination:
+</label>
+<input type="text" id="hotelDestination" onfocus="HCal();" name="CityName" maxlength="64">
+</div>
+<div class="column dateColumn">
+<label for="hotelCheckin">
+Check-in:
+</label>
+<input type="Text" onfocus="SC(this,null);" onclick="event.cancelBubble=true;SC(this,null);" size="8" id="hotelCheckin" name="InDate" value="2/9/2010">
+</div>
+<div class="column dateColumn">
+<label for="hotelCheckout">
+Check-out:
+</label>
+<input type="text" onfocus="SC(document.HotForm.OutDate,document.HotForm.InDate);" onclick="event.cancelBubble=true;SC(this, document.HotForm.InDate);" size="8" id="hotelCheckout" name="OutDate" value="2/11/2010">
+</div>
+<div class="column selectColumn">
+<label for="hotelRooms">
+Rooms:
+</label>
+<select id="hotelRooms" size="1" name="NumRoom">
+<option value="1" selected="selected">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+</select>
+</div>
+<div class="column selectColumn">
+<label for="hotelAdults">
+Adults:
+</label>
+<select id="hotelAdults" size="1" name="NumAdult">
+<option value="0">0</option>
+<option value="1">1</option>
+<option value="2" selected="selected">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+</select>
+</div>
+<div class="column selectColumn">
+<label for="hotelChildren">
+Children:
+</label>
+<select id="hotelChildren" size="1" name="NumChild">
+<option value="0" selected="selected">0</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+</select>
+</div>
+</div>
+<div class="column searchButtonColumn lastColumn">
+<div class="searchButton"><a href="#" onclick="document.HotForm.submit();">Search</a></div>
+</div>
+</form>
+</div>
+<!--HOTEL INPUTS - END --><!--Cruise INPUTS - START -->
+<div style="display: none;" class="clearfix" id="cru">
+<form method="get" action="http://www.expedia.com/pubspec/scripts/eap.asp" name="CruForm">
+<input type="hidden" value="37294-1" name="eapid"><input type="hidden" value="CRUISESEARCH" name="GOTO"><input type="hidden" value="-34980" name="rfrr"><input type="hidden" value="" name="olid"><input type="hidden" value="37294-1.8.1.secfront" name="mdpcid">
+<div class="cruise">
+<div class="column selectColumn">
+<label for="cruDestination">
+Select a top destination:
+</label>
+<select id="cruDestination" name="destination">
+<option value="" selected="selected">----------------------------</option>
+<option value="6023184">Africa</option>
+<option value="203">Alaska</option>
+<option value="6050677">Asia</option>
+<option value="13">Bahamas</option>
+<option value="20">Bermuda</option>
+<option value="6022969">Caribbean</option>
+<option value="6022967">Europe</option>
+<option value="213">Hawaii</option>
+<option value="6023183">Mediterranean</option>
+<option value="6023750">Mediterranean - Eastern</option>
+<option value="6023751">Mediterranean - Western</option>
+<option value="6050655">Mexico</option>
+<option value="6049796">Northern Europe</option>
+<option value="-2">Nowhere</option>
+<option value="6023753">Panama Canal</option>
+<option value="6050676">South America</option>
+<option value="6023180">South Pacific</option>
+<option value="-3">Transatlantic</option>
+<option value="-4">Transpacific</option>
+<option value="6050649">United States & Canada</option>
+<option value="6023746">US Pacific Coast</option>
+<option value="-5">World</option>
+</select>
+</div>
+<div class="column selectColumn">
+<label for="cruDepartDate">
+Departing in:
+</label>
+<select id="cruDepartDate" name="FromDate">
+<option value="2/1/110">February 2010</option>
+<option value="3/1/110">March 2010</option>
+<option value="4/1/110">April 2010</option>
+<option value="5/1/110">May 2010</option>
+<option value="6/1/110">June 2010</option>
+<option value="7/1/110">July 2010</option>
+<option value="8/1/110">August 2010</option>
+<option value="9/1/110">September 2010</option>
+<option value="10/1/110">October 2010</option>
+<option value="11/1/110">November 2010</option>
+<option value="12/1/110">December 2010</option>
+<option value="1/1/111">January 2011</option>
+<option value="2/1/111">February 2011</option>
+</select>
+</div>
+<div class="column selectColumn">
+<label for="cruLength">
+Cruise length:
+</label>
+<select id="cruLength" name="CruiseLength">
+<option value="0" selected="selected">Show All</option>
+<option value="1">1-2 nights</option>
+<option value="2">3-5 nights</option>
+<option value="3">6-9 nights</option>
+<option value="4">10-14 nights</option>
+<option value="5">15+ nights</option>
+</select>
+</div>
+<div class="column searchButtonColumn lastColumn">
+<div class="searchButton"><a href="#" onclick="document.CruForm.submit();">Search</a></div>
+</div>
+</div>
+</form>
+</div>
+<!--CRUISE INPUTS - END --><!--PACKAGES INPUTS - START -->
+<div style="display: none;" class="clearfix" id="pac">
+<form method="GET" action="http://www.expedia.com/pubspec/scripts/eap.asp" name="PkgFormWithFlight">
+<input type="hidden" value="37294-1" name="eapid"><input type="hidden" value="PACKAGEWIZ" name="GOTO"><input type="hidden" value="-34980"><input type="hidden" value="2" name="PackageType"><input type="hidden" value="" name="olid"><input type="hidden" value="37294-1.8.1.secfront" name="mdpcid">
+<div class="columnSet">      
+<div class="column placeColumn lastColumn">
+<label for="pacFrom">
+Leaving from:
+</label>
+<input type="text" onfocus="HCal();" id="pacFrom" name="FrAirport">
+</div>
+</div>
+<div class="column placeColumn">
+<label for="pacTo">
+Going to:
+</label>
+<input type="text" onfocus="HCal();" id="pacTo" name="DestName">
+</div>
+<div class="column dateColumn">
+<label for="pacDepartDate">
+Departing:
+</label>
+<input type="text" onfocus="SC(this,null);" onclick="event.cancelBubble=true;SC(this,null);" value="2/9/2010" id="pacDepartDate" name="FromDate">
+</div>
+<div class="column dateColumn">
+<label for="pacReturnDate">
+Returning:
+</label>
+<input type="text" onfocus="SC(this,null);" onclick="event.cancelBubble=true;SC(this,null);" value="2/11/2010" id="pacReturnDate" name="ToDate">
+</div>
+<div class="column selectColumn">
+<label for="pacAdults">
+Adults:
+</label>
+<select id="pacAdults" size="1" name="NumAdult">
+<option value="0">0</option>
+<option value="1">1</option>
+<option value="2" selected="selected">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+</select>
+</div>
+<div class="column searchButtonColumn lastColumn">
+<div class="searchButton"><a href="#" onclick="document.PkgFormWithFlight.submit();">Search</a></div>
+</div>
+</form>
+</div>
+<!--CRUISE INPUTS - END -->
+<div style="display: none;" class="clearfix" id="car">
+<!--CAR INPUT - START -->
+<form method="get" action="http://www.expedia.com/pubspec/scripts/eap.asp" name="CarForm">
+<input type="hidden" value="37294-1" name="eapid"><input type="hidden" value="CARSEARCH" name="GOTO"><input type="hidden" value="-34980" name="rfrr"><input type="hidden" value="" name="olid"><input type="hidden" value="37294-1.5.1.ROS" name="mdpcid">
+<div class="tripByCar">      
+<div class="column placeColumn">
+<label for="carPickup">
+Pick-up location:
+</label>
+<input id="carPickup" onfocus="HCal();" name="PickUpLoc" maxlength="100">
+</div>
+<div class="column carTypeColumn">
+<label for="carClass">
+Car class:
+</label>
+<select id="carClass" class="expText2" name="Class">
+<option value="Economy" selected="selected">Economy</option>
+<option value="Compact">Compact</option>
+<option value="Midsize">Midsize</option>
+<option value="Standard">Standard</option>
+<option value="FullSize">Full Size</option>
+<option value="Premium">Premium</option>
+<option value="Luxury">Luxury</option>
+<option value="Convertible">Convertible</option>
+<option value="Minivan">Mini-van</option>
+<option value="SUV">Sport Utility</option>
+</select>
+</div>
+<div class="column dateColumn">
+<label for="carPickupDate">
+Pick-up:
+</label>
+<input type="text" onfocus="SC(this,null);" onclick="event.cancelBubble=true;SC(this,null);" id="carPickupDate" name="FromDate" value="2/9/2010">
+</div>
+<div class="column timeColumn">
+<select size="1" onfocus="HCal();" name="PickUpTime">
+<option value="1">12 AM</option>
+<option value="60">1 AM</option>
+<option value="120">2 AM</option>
+<option value="180">3 AM</option>
+<option value="240">4 AM</option>
+<option value="300">5 AM</option>
+<option value="360">6 AM</option>
+<option value="420">7 AM</option>
+<option value="480">8 AM</option>
+<option value="540">9 AM</option>
+<option value="600">10 AM</option>
+<option value="660" selected="selected">11 AM</option>
+<option value="720">12 noon</option>
+<option value="780">1 PM</option>
+<option value="840">2 PM</option>
+<option value="900">3 PM</option>
+<option value="960">4 PM</option>
+<option value="1020">5 PM</option>
+<option value="1080">6 PM</option>
+<option value="1140">7 PM</option>
+<option value="1200">8 PM</option>
+<option value="1260">9 PM</option>
+<option value="1320">10 PM</option>
+<option value="1380">11 PM</option>
+</select>
+</div>
+<div class="column dateColumn">
+<label for="carDropoffDate">
+Drop-off:
+</label>
+<input type="Text" onfocus="SC(this,document.CarForm.FromDate);" onclick="event.cancelBubble=true;SC(this,document.CarForm.FromDate);" id="carDropoffDate" name="ToDate" value="2/11/2010">
+</div>
+<div class="column timeColumn">
+<select size="1" onfocus="HCal();" name="DropTime">
+<option value="1">12 AM</option>
+<option value="60">1 AM</option>
+<option value="120">2 AM</option>
+<option value="180">3 AM</option>
+<option value="240">4 AM</option>
+<option value="300">5 AM</option>
+<option value="360">6 AM</option>
+<option value="420">7 AM</option>
+<option value="480">8 AM</option>
+<option value="540">9 AM</option>
+<option value="600">10 AM</option>
+<option value="660" selected="selected">11 AM</option>
+<option value="720">12 noon</option>
+<option value="780">1 PM</option>
+<option value="840">2 PM</option>
+<option value="900">3 PM</option>
+<option value="960">4 PM</option>
+<option value="1020">5 PM</option>
+<option value="1080">6 PM</option>
+<option value="1140">7 PM</option>
+<option value="1200">8 PM</option>
+<option value="1260">9 PM</option>
+<option value="1320">10 PM</option>
+<option value="1380">11 PM</option>
+</select>
+</div>
+</div>
+<div class="column searchButtonColumn lastColumn">
+<div class="searchButton"><a href="#" onclick="document.CarForm.submit();">Search</a></div>
+</div>
+</form>
+</div>
+<!--CAR INPUTS - END -->
+</div> <!--end of .expediaSFModuleContent -->
+</div>
+<script language="JavaScript" src="http://graphics8.nytimes.com/js/section/travel/expediaModuleCalendar.js"></script>
+<script language="JavaScript" for="window" event="onload">
+  var f=document.Wiz;
+  var iCount = 0;
+  if (f.sFlt.checked){f.sFlt.click();}
+  else if(f.sHot.checked){f.sHot.click();}
+  else if(f.sCru.checked){f.sCru.click();}
+  else if(f.sPac.checked){f.sPac.click();}
+  else if(f.sCar.checked){f.sCar.click();}
+  else{
+  f.srch[0].click();
+  }
+  
+</script>
+<script language="JavaScript">
+  var temp;
+  var dtDate = new Date(new Date().valueOf() + 1814400000);var strStartDate = (dtDate.getMonth() + 1) + '/' + dtDate.getDate() + '/' + dtDate.getFullYear() + '';var dtEndDate = new Date(new Date().valueOf() + 1987200000);var strEndDate = (dtEndDate.getMonth() + 1) + '/' + dtEndDate.getDate() + '/' + dtEndDate.getFullYear() + '';
+  
+  d=document.forms;
+  d.PkgFormWithFlight.FromDate.value = d.FltForm.FromDate.value = d.HotForm.InDate.value = d.CarForm.FromDate.value = strStartDate;
+  d.PkgFormWithFlight.ToDate.value = d.FltForm.ToDate.value = d.HotForm.OutDate.value = d.CarForm.ToDate.value = strEndDate;
+  
+</script>
+<!--Start TravBooking ad tag -->
+<!--End TravBooking ad tag -->
+<div class="doubleRuleDivider"></div> 
+</div><!--close .columnGroup -->
+</div><!--close #SpanBCTopRegion.opening -->                            </div><!--close .bcColumn -->
+<div class="bColumn">
+<div class="columnGroup SectionFront3ColSpanBCTop first">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<h6 class="sectionHeader">Mulitmedia</h6>
+<div class="columnGroup first">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/slideshow/2011/12/04/travel/04HOTEL.html?ref=travel">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/travel/04HOTEL-slide-PZFY/04HOTEL-slide-PZFY-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay slideshow">Slide Show</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/slideshow/2011/12/04/travel/04HOTEL.html?ref=travel">
+At Home in Hotels</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Guy Trebay on some of the hotels he has stayed at, including the Park Hyatt in Tokyo, the Bauer in Venice, a parking-lot motel in New Mexico and the Sunset in Los Angeles.</p>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/slideshow/2011/12/04/travel/04MERIDA.html?ref=travel">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/travel/04MERIDA-slide-CO0A/04MERIDA-slide-CO0A-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay slideshow">Slide Show</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/slideshow/2011/12/04/travel/04MERIDA.html?ref=travel">
+36 Hours in Mérida, Mexico</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Mérida, a languid city of pastel mansions and evening promenades is in the midst of a restoration boom, and the city’s cultural and restaurant scenes are flourishing.</p>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/slideshow/2011/12/01/travel/04SURFACING.html?ref=travel">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/travel/04SURFACING-slide-Z6D7/04SURFACING-slide-Z6D7-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay slideshow">Slide Show</span>
+</a>
+</div>
+<h6 class="kicker">SURFACING</h6>
+<h5><a href="http://www.nytimes.com/slideshow/2011/12/01/travel/04SURFACING.html?ref=travel">
+Dr. Martin Luther King Jr.’s Atlanta Neighborhood on the Upswing</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+As a cradle of culinary and artistic innovation, the area is seeing a wave of new art galleries, nightclubs and restaurants.</p>
+</div>
+</div>
+<div class="columnGroup singleRule last">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/slideshow/2011/12/04/travel/04PADDLE.html?ref=travel">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/travel/04PADDLE-slide-M1IK/04PADDLE-slide-M1IK-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay slideshow">Slide Show</span>
+</a>
+</div>
+<h6 class="kicker">Explorer</h6>
+<h5><a href="http://www.nytimes.com/slideshow/2011/12/04/travel/04PADDLE.html?ref=travel">
+The Island From a Board</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A trip to St. John as seen on a stand-up paddle board offers wide-ranging views of the land and fish beneath.</p>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule last">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<h6 class="sectionHeader">Gift Guides</h6>
+<div class="columnGroup first">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/gift-guide/holiday-2011/2011travelguide-prac/list.html?ref=travel">
+<img src="http://graphics8.nytimes.com/images/2011/11/16/travel/giftguide-prac/giftguide-prac-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+</a>
+</div>
+<h6 class="kicker">Practical Traveler</h6>
+<h5><a href="http://www.nytimes.com/gift-guide/holiday-2011/2011travelguide-prac/list.html?ref=travel">
+Twelve Gifts for the Compact Traveler</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+As airlines continue to hike fees for checked bags and overweight suitcases, fitting everything into one compact bag is more important than ever.</p>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<h6 class="kicker">Frugal Traveler</h6>
+<h5><a href="http://www.nytimes.com/gift-guide/holiday-2011/2011travelguide-frugal/list.html?ref=travel">
+Ten Gift Ideas for the Frugal Traveler</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Seth Kugel’s holiday gift guide for travelers features items for $50 and under (way under), and ideas for the really frugal: make-it-yourself gifts.</p>
+</div>
+</div>
+<div class="columnGroup singleRule last">
+<div class="singleRuleDivider"></div>        	</div>
+</div>
+</div><!--close .bColumn -->
+<div class="cColumn">
+<!--Ads  -->                    <div class="columnGroup first">
+
+</div>
+<!--Ads Ads -->                    <div class="columnGroup ">
+
+			
+<div class="bigAd" id="SFMiddle">
+<!-- ADXINFO classification="BigAd" campaign="Lord_and_Taylor_Holiday_2011-1768261-nyt8"--><SCRIPT type="text/javascript" SRC="http://ad.doubleclick.net/adj/N2581.nytimes/B5584316.3;sz=336x280;pc=nyt173397A283429;ord=2011.12.02.18.04.30?;click=http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/travel/index.html&pos=SFMiddle&camp=Lord_and_Taylor_Holiday_2011-1768261-nyt8&ad=LordandTaylor_336x280_geo&sn2=f2c4d7ee/c4d66249&snr=doubleclick&snx=1322848863&sn1=9b971ce5/f8b7082b&goto=">
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/travel/index.html&pos=SFMiddle&sn2=f2c4d7ee/c4d66249&sn1=259d7dbf/be54f66&camp=Lord_and_Taylor_Holiday_2011-1768261-nyt8&ad=LordandTaylor_336x280_geo&goto=http://ad.doubleclick.net/jump/N2581.nytimes/B5584316.3;sz=336x280;pc=nyt173397A283429;ord=2011.12.02.18.04.30?" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N2581.nytimes/B5584316.3;sz=336x280;pc=nyt173397A283429;ord=2011.12.02.18.04.30?"
+ BORDER=0 WIDTH=336 HEIGHT=280
+ ALT="Click Here"></A>
+</NOSCRIPT>
+</div>
+
+
+
+<div class="singleAd" id="Box3">
+<!-- ADXINFO classification="feature_squares" campaign="nyt2011-regilite-P1-greatgetaways"--><iframe title="regilite" src="https://myaccount.nytimes.com/regilite?product=GY" width="336" height="90" marginheight="0" marginwidth="0" frameborder="0" vspace="0" hspace="0" scrolling="no"></iframe>
+</div>
+
+
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<div id="mostPopWidget" class="singleRule"> 
+
+      <!-- MOST POPULAR MODULE STARTS -->
+      <h4>MOST POPULAR - TRAVEL</h4>
+         <div id="tabsContainer">
+         <ul class="tabs">
+            <li class="selected"><a href="#">E-Mailed</a></li>
+            <li><a href="#">Blogged</a></li>
+            
+            <li><a href="#">Viewed</a></li>
+            
+         </ul>
+         </div>
+            <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"></HEAD><div class="tabContent tabContentActive" id="mostEmailed"><ol>
+<li img="http://graphics8.nytimes.com/images/2011/12/04/travel/04HOURS1_SPAN/04HOURS1-thumbStandard.jpg"  kicker=""><a href="http://travel.nytimes.com/2011/12/04/travel/36-hours-in-merida-mexico.html?src=me&amp;ref=travel" title="Click to go to this article">36 Hours in M&eacute;rida, Mexico</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/greathomesanddestinations/01gh-location-span/01gh-location-span-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/01/greathomesanddestinations/in-tasmania-a-place-to-watch-nature-tv.html?src=me&amp;ref=travel" title="Click to go to this article">In Tasmania, a Place to Watch &lsquo;Nature TV&rsquo;</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/04/travel/04PRACILLO/04PRACILLO-thumbStandard.jpg"  kicker="Practical Traveler"><a href="http://travel.nytimes.com/2011/12/04/travel/as-airlines-cut-back-hotels-step-in.html?src=me&amp;ref=travel" title="Click to go to this article">Practical Traveler: Airlines Cut Back, Hotels Step In</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/27/travel/27JOURNEYS_SPAN/27JOURNEYS4-thumbStandard.jpg"  kicker="Journeys"><a href="http://travel.nytimes.com/2011/11/27/travel/wisconsin-supper-clubs-old-fashioned-and-open-to-all.html?src=me&amp;ref=travel" title="Click to go to this article">Journeys: In Wisconsin, Supper Clubs Open to All</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/greathomesanddestinations/01gh-househunting-span/01gh-househunting-span-thumbStandard.jpg"  kicker="International Real Estate"><a href="http://www.nytimes.com/2011/12/01/greathomesanddestinations/real-estate-in-quebec.html?src=me&amp;ref=travel" title="Click to go to this article">International Real Estate: House Hunting in ... Quebec</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/greathomesanddestinations/01gh-wyg-span/01gh-wyg-span-thumbStandard.jpg"  kicker="Property Values"><a href="http://www.nytimes.com/2011/12/01/greathomesanddestinations/real-estate-for-1-36-million.html?src=me&amp;ref=travel" title="Click to go to this article">Property Values: What You Get for ... $1.36 Million</a></li>
+<li kicker=""><a href="http://www.nytimes.com/interactive/2011/11/30/greathomesanddestinations/20111130_tasmania.html?src=me&amp;ref=travel" title="Click to go to this article">In Tasmania, Nature on Display</a></li>
+<li kicker=""><a href="http://www.nytimes.com/interactive/2011/11/28/greathomesanddestinations/20111204IHHQUEBEC.html?src=me&amp;ref=travel" title="Click to go to this article">A Quebec Country House on 253-Acres</a></li>
+<li kicker=""><a href="http://www.nytimes.com/interactive/2011/11/30/greathomesanddestinations/20111204WYG.html?src=me&amp;ref=travel" title="Click to go to this article">Homes for $1.36 Million</a></li>
+<li kicker=""><a href="http://travel.nytimes.com/2011/12/04/travel/check-in-tips.html?src=me&amp;ref=travel" title="Click to go to this article">Six Ways to Master Your Stay</a></li>
+</ol>
+        <a class="more" href="http://www.nytimes.com/gst/mostemailed.html">Go to Complete List &#x00bb;</a>
+        </div><!-- #most emailed top10 -->
+
+            <div class="tabContent" id="mostBlogged">
+<ol><li><a href="http://www.nytimes.com/2011/11/27/travel/traveling-with-kids-readers-prefer-you-didnt.html?bl" title="Click to go to this article">Traveling With Kids? Readers Prefer You Didn't</a></li></ol>
+<a class="more" href="http://www.nytimes.com/gst/mostblogged.html">Go to Complete List &#x00bb;</a>
+</div><!-- #most blogged top10 -->
+
+            
+            <div class="tabContent" id="mostViewed"><ol>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/greathomesanddestinations/01gh-wyg-span/01gh-wyg-span-thumbStandard.jpg"  kicker="Property Values"><a href="http://www.nytimes.com/2011/12/01/greathomesanddestinations/real-estate-for-1-36-million.html?src=mv&amp;ref=travel" title="Click to go to this article">Property Values: What You Get for ... $1.36 Million</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/04/travel/04HOURS1_SPAN/04HOURS1-thumbStandard.jpg"  kicker=""><a href="http://travel.nytimes.com/2011/12/04/travel/36-hours-in-merida-mexico.html?src=mv&amp;ref=travel" title="Click to go to this article">36 Hours in M&eacute;rida, Mexico</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/greathomesanddestinations/01gh-househunting-span/01gh-househunting-span-thumbStandard.jpg"  kicker="International Real Estate"><a href="http://www.nytimes.com/2011/12/01/greathomesanddestinations/real-estate-in-quebec.html?src=mv&amp;ref=travel" title="Click to go to this article">International Real Estate: House Hunting in ... Quebec</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/04/travel/04PRACILLO/04PRACILLO-thumbStandard.jpg"  kicker="Practical Traveler"><a href="http://travel.nytimes.com/2011/12/04/travel/as-airlines-cut-back-hotels-step-in.html?src=mv&amp;ref=travel" title="Click to go to this article">Practical Traveler: Airlines Cut Back, Hotels Step In</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/greathomesanddestinations/01gh-location-span/01gh-location-span-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/01/greathomesanddestinations/in-tasmania-a-place-to-watch-nature-tv.html?src=mv&amp;ref=travel" title="Click to go to this article">In Tasmania, a Place to Watch &lsquo;Nature TV&rsquo;</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/04/travel/04HOTEL_395/04HOTEL_395-thumbStandard-v2.jpg"  kicker=""><a href="http://travel.nytimes.com/2011/12/04/travel/my-life-in-hotels.html?src=mv&amp;ref=travel" title="Click to go to this article">My Life in Hotels</a></li>
+<li kicker=""><a href="http://travel.nytimes.com/2011/12/04/travel/five-hotels-that-get-five-stars.html?src=mv&amp;ref=travel" title="Click to go to this article">Five Hotels That Get Five Stars</a></li>
+<li kicker=""><a href="http://travel.nytimes.com/2011/12/04/travel/check-in-tips.html?src=mv&amp;ref=travel" title="Click to go to this article">Six Ways to Master Your Stay</a></li>
+<li kicker="In Transit"><a href="http://intransit.blogs.nytimes.com/2011/11/29/how-does-the-american-airlines-bankruptcy-affect-you/?src=mv&amp;ref=travel" title="Click to go to this article">In Transit: How Does the American Airlines Bankruptcy Affect You?</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/27/travel/27MOSCOW_SPAN/27MOSCOW-thumbStandard.jpg"  kicker=""><a href="http://travel.nytimes.com/2011/11/27/travel/moscow-in-the-winter-alive-and-illuminated.html?src=mv&amp;ref=travel" title="Click to go to this article">Moscow in the Snow</a></li>
+</ol>
+        </div><!-- #most viewed top10 -->
+
+            
+         <script type="text/javascript">new Accordian("mostPopWidget");</script>
+      <!-- MOST POPULAR MODULE ENDS -->
+   
+
+</div><!--close mostPopWidget -->
+
+
+
+
+
+
+</div>
+<!--Ads Simple -->                    <div class="columnGroup ">
+			
+
+<div class="bigAd" id="Box1">
+<!-- ADXINFO classification="Module" campaign="nyt2011_module_biz_piers_morgan_hp_ros_db"--><!-- MARKETING MODULE -->
+<div style="border:solid #999;border-width:1px;font-family:Arial,sans-serif;text-align:left; width:334px;background:#fff;" class="clearfix wrap">
+  <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/travel/index.html&pos=Box1&sn2=f92e18ed/502292ae&sn1=3cd7b396/8bf4d3f&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://mediadecoder.blogs.nytimes.com/2011/11/30/piers-morgan-struggles-to-beat-kings-ratings/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-PH%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm11/business_120211.jpg" width="334" height="154" border="0" alt=""></a> 
+  <div style="padding:7px 9px 0;background:#fff">
+      <h2 style="font-size:22px;line-height:24px; margin:0;padding:0 0 4px;"><a style="color:#004276;" target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/travel/index.html&pos=Box1&sn2=f92e18ed/502292ae&sn1=3cd7b396/8bf4d3f&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://mediadecoder.blogs.nytimes.com/2011/11/30/piers-morgan-struggles-to-beat-kings-ratings/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-HDR%26WT.mc_ev=click%26WT.mc_c=174041">Piers Morgan's struggle</a></h2>
+
+      <p style="margin:0 0 3px; padding:0;font-size: 11px;"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/travel/index.html&pos=Box1&sn2=f92e18ed/502292ae&sn1=dcca9a23/ff2c3589&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://nytimes.com/business/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-URL%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank" style="font-size:11px;margin:3px 0;padding:0;font-family:Arial,sans-serif;  color:#000; text-transform:uppercase;">Also in Business &raquo;</a></p>
+      <ul style="font-size:12px;margin:0; padding-bottom: 10px; border-bottom:1px solid #ccc;" class="refer">
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/travel/index.html&pos=Box1&sn2=f92e18ed/502292ae&sn1=7ddbcc18/6dfb3f78&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://dealbook.nytimes.com/2011/11/30/american-wont-be-the-last-airline-bankruptcy/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-L1%26WT.mc_ev=click%26WT.mc_c=174041" style="color: #004276">American won't be the last airline bankruptcy</a></li>
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/travel/index.html&pos=Box1&sn2=f92e18ed/502292ae&sn1=aada211/3630bfe3&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://www.nytimes.com/2011/11/30/business/media/pepto-bismol-highlights-overindulging-in-latest-campaign.html%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-L2%26WT.mc_ev=click%26WT.mc_c=174041" style="color: #004276">A look at Pepto-Bismol's new holiday commercials</a></li>
+      </ul>
+    </div>
+ 
+ <div style="padding:5px 9px; float:left; width:316px; background:#fff"> <a style="float:left" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/travel/index.html&pos=Box1&sn2=f92e18ed/502292ae&sn1=dcca9a23/ff2c3589&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://nytimes.com/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-LOGO%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/nytimes.gif" alt="nytimes.com" width="116" height="18" border="0"></a><a style="float:right" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/travel/index.html&pos=Box1&sn2=f92e18ed/502292ae&sn1=dcca9a23/ff2c3589&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://nytimes.com/business/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-VRT%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/verticals_business.gif" alt="Business" width="120" height="18" border="0"></a></div><br clear="all">
+
+</div>
+  <!-- /MARKETING MODULE -->
+
+</div>
+
+
+<div class="singleAd" id="Middle5">
+<!-- ADXINFO classification="feature_position" campaign="nyt2011-circ-middle5_promise-36H3U-38R9W-AK"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/travel/index.html&pos=Middle5&sn2=7df06241/d1850dbe&sn1=4d66a43a/361c78b4&camp=nyt2011-circ-middle5_promise-36H3U-38R9W-AK&ad=092111-11a-middle5_promise-AK&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DW42CS%26CMP%3D36H3U" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/71/ad.277135/11-0922_HDGenericD2_336x79_AK.jpg" width="336" height="79" border="0"></a><div class='kj_cx'></div>
+<script type='text/javascript'>
+var kjData = {akin: 'NYT-IP-4d0abbb3acf67-y05', adWidth: 336, adHeight: 79, btnStyle: 2, crnr: 'bl'};
+if(!kjG){var kjG=[]}kjG.push(kjData);if(!kjLdr){var kjLdr={ld:function(){var b=document; var a=b.createElement('script');a.type='text/javascript';a.src='http://a.akncdn.com/adkeeper.1.0.js'; (b.getElementsByTagName('body')[0]||b.getElementsByTagName('head')[0]).appendChild(a) },init:function(){var a=window,b=document;if(b.addEventListener){a.addEventListener('load',this.ld,false) }else{if(a.attachEvent){a.attachEvent('onload',this.ld)}}}};kjLdr.init()}; </script>
+
+
+</div>
+
+
+
+<!--[TwoColumnAdLeft - Begin] -->
+	<div class="adHeader">
+<h4>
+Advertisements	    </h4>
+</div>
+<div class="cColumn-TextAdsBox">
+	<div class="cColumn-TextAdsLeft">
+<div class="cColumn-TextAd">
+<!-- ADXINFO classification="SiteForADay" campaign="nyt2011-mktg-arts_and_ents-s4d_ros"--><div style="width:320px; height:60px;"> 
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/travel/index.html&pos=Right5A&sn2=4aa7062a/4f105cf3&sn1=6a1102ca/9e7f5eda&camp=nyt2011-mktg-arts_and_ents-s4d_ros&ad=AR-D-I-NYT-AD-S4D-AandE-ROS-1211-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fevents%2Findex%2Ehtml%3FWT%2Emc%5Fid%3DAR%2DD%2DI%2DNYT%2DAD%2DS4D%2DAandE%2DROS%2D1211%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D175108" target="_blank"> 
+<img style="float:left; margin-right:10px;" src="http://graphics8.nytimes.com/adx/images/ADS/28/59/ad.285977/11-2187_ArtsEntertainment_86x60.gif" width="86" height="60" border="0" style="vertical-align:text-top;"></a>
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/travel/index.html&pos=Right5A&sn2=4aa7062a/4f105cf3&sn1=6a1102ca/9e7f5eda&camp=nyt2011-mktg-arts_and_ents-s4d_ros&ad=AR-D-I-NYT-AD-S4D-AandE-ROS-1211-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fevents%2Findex%2Ehtml%3FWT%2Emc%5Fid%3DAR%2DD%2DI%2DNYT%2DAD%2DS4D%2DAandE%2DROS%2D1211%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D175108" target="_blank">  <br />Introducing: The Interactive Arts & Entertainment Guide</a>
+</div>
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+</div>
+	</div>
+<!--[TwoColumnAdLeft - End] -->
+<div class="advertisementColumnGroup">
+<!--[MarketPlaceGridAd - Begin] -->
+
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+    <!--[MarketPlaceGridAd - End] -->
+</div>
+</div>
+<!--Ads Ads -->                    <div class="columnGroup last">
+
+<div class="singleAd" id="Feature1">
+<!-- ADXINFO classification="hp-module" campaign="feature1-1280FifthAve-18-1712178-cla"--><!--Ad Template Begins Here -->
+<div class="story advertisement">
+<div class="callout">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/travel/index.html&pos=Feature1&sn2=8bd909ce/652abd48&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/15/ad.271512/7.23.11_BRK11-2614_1280_nyt.com_module_update2.jpg" width="173" height="98" border="0" alt="Click for Details"></a>
+</div>
+<h5>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/travel/index.html&pos=Feature1&sn2=8bd909ce/652abd48&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank"></a>
+</h5>
+<p class="summary"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/travel/index.html&pos=Feature1&sn2=8bd909ce/652abd48&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank">Designed by<br>Robert&nbsp;&nbsp;A.M. Stern<br>Overlooking Central Park<br>Up to 5 Bedrooms</a></p>
+<div class="adCreative">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/travel/index.html&pos=Feature1&sn2=8bd909ce/652abd48&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/15/ad.271512/5.19.11_1280_logo_78x36.jpg" width="78" height="36"></a>
+</div>
+</div>
+<!--Ad Template Ends Here -->
+</div>
+
+
+<div class="singleAd" id="SponLink">
+<script language="JavaScript" type="text/javascript">
+    
+    // Sponlink_short
+
+    NYTD.GoogleAds.getGoogleAds("AFC", { 
+        google_ad_client:'nytimes_section_var',
+        ad_target_list:'sponLink'
+    });
+</script>
+</div>
+
+</div>
+</div><!--close .cColumn -->
+<div class="abColumn closing">
+<div class="aColumn">
+<!--cur:DoubleRule prev:-->
+<div class="columnGroup first">
+<div id="multiPlayer" style="padding-top: 5px;">
+<!--brightcove code starts here  10/11/08 build//-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/bcvideo/1.0/iframe/embed.js"></script> 
+<script type="text/javascript"> 
+  NYT_VideoPlayerStart( { 
+     playerType  : "section", 
+     playlistId  : "1194811622331", 
+     targetDomId : "multiPlayer" 
+  } ); 
+  </script> 
+<!--brightcove code ends here //-->
+</div>
+</div>
+<!--cur:StandardThumb prev:DoubleRule-->
+<div class="columnGroup doubleRule ">
+<div class="story">
+<div class="thumbnail">
+<a href="http://travel.nytimes.com/2011/01/09/travel/09where-to-go.html?ref=travel">
+<img src="http://graphics8.nytimes.com/images/2011/01/09/travel/Cover/Cover-thumbStandard.jpg" width="75" height="75" alt="Absolute Sanctuary, a yoga and detox center on Koh Samui, Thailand." border="0" />
+</a>
+</div>
+<h3><a href="http://travel.nytimes.com/2011/01/09/travel/09where-to-go.html?ref=travel">
+The 41 Places to Go in 2011</a></h3>
+<h6 class="byline">
+By THE NEW YORK TIMES	    </h6>
+<p class="summary">
+From the beaches of Mexico to the wilds of Kurdistan, the places on this year’s list take you to the end of the world and back.</p>
+</div>
+</div>
+<!--cur:StandardThumb prev:StandardThumb-->
+<div class="columnGroup last">
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/thescoop?ref=travel">
+<img src="http://graphics8.nytimes.com/images/2010/09/22/travel/onlyinny75.gif" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/thescoop?ref=travel">
+New York City App</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+The Scoop is an insider’s guide to what to <a href="http://thescoop.nytlabs.com/#!/viewList/restaurants">eat</a>, <a href="http://thescoop.nytlabs.com/#!/viewList/bars">drink</a> and <a href="http://thescoop.nytlabs.com/#!/viewList/timeless">do</a> in New York from the staff of The Times. Want more? Check out our lists on <a href="http://thescoop.nytlabs.com/#!/viewList/coffeeshops">coffee</a>, <a href="http://thescoop.nytlabs.com/#!/viewList/shopping">shopping</a> and <a href="http://thescoop.nytlabs.com/#!/viewList/househome">home furnishing stores</a>.</p>
+<ul class="refer">
+<li><a href="http://itunes.apple.com/us/app/nytimes-the-scoop/id374981318?mt=8">Download the iPhone App</a></li>
+<li><a href="http://www.nytimes.com/thescoop">Read More</a> </li>
+<li><a href="http://thescoop.nytlabs.com/#!/viewHome">View Web Version</a></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://tmagazine.blogs.nytimes.com/tag/eurofile/?ref=travel">
+<img src="http://graphics8.nytimes.com/images/2010/07/07/t-magazine/07eurofile-marseille/07eurofile-marseille-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://tmagazine.blogs.nytimes.com/tag/eurofile/?ref=travel">
+Eurofile</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+In Alexander Lobrano’s new column, Eurofile, the author of “Hungry for Paris” writes about the best tables (and beds) on the continent.</p>
+</div>
+<div class="singleRuleDivider"></div>	</div>                                        <div id="adxSponLink" class="columnGroup"></div>
+</div><!--close second .aColumn -->
+<div class="bColumn">
+<div class="columnGroup first">
+<div class="relatedStories">
+<div class="kicker"><a href="http://frugaltraveler.blogs.nytimes.com/"><img src="http://graphics8.nytimes.com/images/blogs_v3/frugaltraveler/frugaltraveler190-subhead.gif"></a></div>
+<h3 class="sectionHeader">
+<a href="" title="">
+</a> 
+</h3> <div class="story first">
+<h3><a href="http://frugaltraveler.blogs.nytimes.com/2011/11/29/a-palm-beach-story-millions-not-required/?ref=travel">A Palm Beach Story, Millions Not Required</a></h3>
+</div><div class="story">
+<h3><a href="http://frugaltraveler.blogs.nytimes.com/2011/11/23/ten-gift-ideas-for-the-frugal-traveler/?ref=travel">Ten Cheap (and Cheapish) Travel Gift Ideas</a></h3>
+</div><div class="story">
+<h3><a href="http://frugaltraveler.blogs.nytimes.com/2011/11/15/miami-after-dark-without-the-swells/?ref=travel">Miami After Dark (Without the Swells)</a></h3>
+</div>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule ">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://intransit.blogs.nytimes.com/" title="">
+<img src="http://graphics8.nytimes.com/images/blogs_v3/intransit/intransit190c.gif" alt=""/>
+</a> 
+</h3> <div class="story first">
+<h3><a href="http://intransit.blogs.nytimes.com/2011/12/02/not-to-be-outdone-by-santa-saint-mikulas-brings-cheer-to-prague/?ref=travel">Not to be Outdone by Santa, St. Mikulas Brings Cheer to Prague</a></h3>
+</div><div class="story">
+<h3><a href="http://intransit.blogs.nytimes.com/2011/12/01/guess-where-this-is-42/?ref=travel">Guess Where This Is?</a></h3>
+</div><div class="story">
+<h3><a href="http://intransit.blogs.nytimes.com/2011/12/01/spains-star-chefs-are-branching-out/?ref=travel">Spain's Star Chefs Are Branching Out</a></h3>
+</div><p class="refer">
+<a href="http://intransit.blogs.nytimes.com/" title="Go to the Blog">Go to the Blog &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule ">
+<div class="relatedStories">
+<div class="kicker">Vacation Rentals</div>
+<h3 class="sectionHeader">
+<a href="" title="">
+</a> 
+</h3> <div class="story first"><script language="javascript" type="text/javascript" src="http://graphics8.nytimes.com/packages/js/multimedia/bundles/FadingSlideShow.js"></script>
+<script language="javascript" type="text/javascript" src="http://graphics8.nytimes.com/packages/js/multimedia/data/FadingSlideShow/20110224_vacationrentals.js"></script>
+<link type="text/css" rel="stylesheet" href="http://graphics8.nytimes.com/packages/css/multimedia/bundles/FadingSlideShow.css" />
+<div id="nytmm_embed965" class="nytmm_embed">
+</div>
+<script> var _obj = new NYTMM.FadingSlideShow($("nytmm_embed965"),190,126,chameleonData); _obj.setPhotoData(chameleonData.photos); </script>
+<div class="story">  
+<!--h5><a href="http://realestate.nytimes.com/vacation_rental.aspx">
+Vacation Rentals</a></h5><span class="timestamp">New</span-->
+<p class="summary">
+Search over 80,000 vacation rental listings, from New York City to the Caribbean to Europe.</p>
+<ul class="refer">
+<li><a href="http://realestate.nytimes.com/vacation_rental.aspx">Browse listings »</a>
+</li></ul></div></div>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule ">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://www.nytimes.com/pages/t-magazine/travel/index.html" title="T Magazine">
+<img src="http://graphics8.nytimes.com/images/section/style/header/t_style_magazine_190.gif" alt="T Magazine"/>
+</a> 
+</h3> <div class="story first">
+<h3><a href="http://tmagazine.blogs.nytimes.com/2011/11/30/vexed-in-venice/?ref=travel">Vexed in Venice</a></h3>
+</div><div class="story">
+<h3><a href="http://tmagazine.blogs.nytimes.com/2011/11/29/the-giving-spree-shalom-harlow/?ref=travel">The Giving Spree | Shalom Harlow</a></h3>
+</div><div class="story">
+<h3><a href="http://tmagazine.blogs.nytimes.com/2011/11/29/brother-can-you-spare-a-line/?ref=travel">Brother, Can You Spare a Line?</a></h3>
+</div><p class="refer">
+<a href="http://www.nytimes.com/pages/t-magazine/travel/index.html" title="More Travel From T Magazine">More Travel From T Magazine &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule last">
+
+
+<div class="singleAd" id="Box2">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/travel/index.html&pos=Box2&sn2=f92e18ee/502e92ae&sn1=38d43609/ab3147cd&camp=nyt2011-circ-120x90-weekender-36H38&ad=071511-120x90-weekender-36H38&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DWC7AA%26CMP%3D36H38" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/13/ad.271312/11-0920_HDWeekender2_120x90.jpg" width="120" height="90" border="0"></a>
+
+</div>
+
+</div>                                    </div><!--close second .bColumn -->
+</div><!--close .abColumn -->
+</div><!--close .wideA -->
+</div><!--close .spanAB -->
+</div><!--close #main -->
+<div id="footer">
+<ul class="first">
+<li class="first"><a href="http://www.nytimes.com">Home</a></li>
+<li >
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li>
+<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+</ul>    <ul>
+<li class="first"><a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&copy; 2011</a> <a href="http://www.nytco.com/">The New York Times Company</a></li>
+<li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Terms of Service</a></li>
+<li class="termsOfSale"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+<li><a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a></li>
+<li><a class="rssButton" href="http://www.nytimes.com/rss">RSS</a></li>
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+<li><a href="http://www.nytco.com/careers">Work for Us</a></li>
+<li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+</ul>
+</div>
+</div><!--close #page -->
+</div><!--close #shell -->
+
+
+
+
+
+
+<div align="center">
+<!-- Audience Incite 300x250 Survey Banner Tag for NYTimes:
+Start Vizu Audience Incite Tag / 300x250 Survey Banner / NYTimes -->
+<iframe src="http://puma.vizu.com/cdn/00/00/29/73/incite_300x250.html?wc=NYTimes;" width="300" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+<!-- End Vizu Audience Incite Tag / 300x250 Survey Banner / NYTimes -->
+</div>
+
+
+<IMG SRC="/adx/bin/clientside/2392a474Q2FAmlp4qMULd4Q5BQ3CQ24NQ27Q2733Q3CQ2Ad3LQ2AQ2A" height="1" width="3">
+
+<script type="text/javascript" language="JavaScript">
+// Written by /usr/local/knews/bin/commentcount.pl Fri Dec  2 13:02:02 2011
+var NYTArticleCommentCounts = {
+"100000001190843":{count:147, commentsEnabled:false},
+"100000001190858":{count:204, commentsEnabled:false},
+"100000001190907":{count:49, commentsEnabled:false},
+"100000001191255":{count:237, commentsEnabled:false},
+"100000001191704":{count:133, commentsEnabled:false},
+"100000001191724":{count:100, commentsEnabled:false},
+"100000001191950":{count:122, commentsEnabled:false},
+"100000001192133":{count:307, commentsEnabled:false},
+"100000001192329":{count:76, commentsEnabled:false},
+"100000001190961":{count:19, commentsEnabled:false},
+"100000001177231":{count:1, commentsEnabled:true},
+"100000001177245":{count:74, commentsEnabled:true},
+"100000001179958":{count:24, commentsEnabled:false},
+"100000001180322":{count:227, commentsEnabled:true},
+"100000001183078":{count:44, commentsEnabled:false},
+"100000001183080":{count:327, commentsEnabled:false},
+"100000001183081":{count:7, commentsEnabled:false},
+"100000001183084":{count:235, commentsEnabled:false},
+"100000001183087":{count:11, commentsEnabled:false},
+"100000001183089":{count:14, commentsEnabled:false},
+"100000001183090":{count:11, commentsEnabled:false},
+"100000001183091":{count:3, commentsEnabled:false},
+"100000001183094":{count:14, commentsEnabled:false},
+"100000001184186":{count:79, commentsEnabled:false},
+"100000001184524":{count:149, commentsEnabled:false},
+"100000001186117":{count:1, commentsEnabled:false},
+"100000001186193":{count:12, commentsEnabled:true},
+"100000001186569":{count:190, commentsEnabled:false},
+"100000001189184":{count:49, commentsEnabled:false},
+"100000001190721":{count:71, commentsEnabled:false},
+"100000001191577":{count:224, commentsEnabled:false},
+"100000001191688":{count:28, commentsEnabled:false},
+"100000001191719":{count:107, commentsEnabled:false},
+"100000001191931":{count:121, commentsEnabled:false},
+"100000001191985":{count:110, commentsEnabled:false},
+"100000001192057":{count:211, commentsEnabled:false},
+"100000001192188":{count:141, commentsEnabled:false},
+"100000001192496":{count:52, commentsEnabled:false},
+"100000001192500":{count:206, commentsEnabled:false},
+"100000001192600":{count:224, commentsEnabled:false},
+"100000001192611":{count:167, commentsEnabled:false},
+"100000001193250":{count:67, commentsEnabled:false},
+"100000001193262":{count:37, commentsEnabled:false},
+"100000001193344":{count:98, commentsEnabled:false},
+"100000001193527":{count:27, commentsEnabled:false},
+"100000001193629":{count:10, commentsEnabled:false},
+"100000001193702":{count:17, commentsEnabled:false},
+"100000001193743":{count:108, commentsEnabled:false},
+"100000001193763":{count:516, commentsEnabled:false},
+"100000001193825":{count:86, commentsEnabled:false},
+"100000001193857":{count:48, commentsEnabled:false},
+"100000001193859":{count:160, commentsEnabled:false},
+"100000001193890":{count:117, commentsEnabled:false},
+"100000001193920":{count:44, commentsEnabled:false},
+"100000001193944":{count:303, commentsEnabled:false},
+"100000001193948":{count:7, commentsEnabled:false},
+"100000001194088":{count:51, commentsEnabled:false},
+"100000001194098":{count:17, commentsEnabled:true},
+"100000001194137":{count:109, commentsEnabled:false},
+"100000001194342":{count:159, commentsEnabled:false},
+"100000001194394":{count:68, commentsEnabled:false},
+"100000001194454":{count:36, commentsEnabled:false},
+"100000001194795":{count:192, commentsEnabled:false},
+"100000001194808":{count:628, commentsEnabled:false},
+"100000001194892":{count:125, commentsEnabled:false},
+"100000001195360":{count:33, commentsEnabled:false},
+"100000001195689":{count:178, commentsEnabled:false},
+"100000001195802":{count:10, commentsEnabled:false},
+"100000001195854":{count:304, commentsEnabled:false},
+"100000001195914":{count:48, commentsEnabled:false},
+"100000001195920":{count:17, commentsEnabled:false},
+"100000001195923":{count:44, commentsEnabled:false},
+"100000001195938":{count:138, commentsEnabled:false},
+"100000001195940":{count:10, commentsEnabled:false},
+"100000001195947":{count:92, commentsEnabled:false},
+"100000001195952":{count:162, commentsEnabled:false},
+"100000001195976":{count:141, commentsEnabled:false},
+"100000001195982":{count:283, commentsEnabled:false},
+"100000001196229":{count:42, commentsEnabled:false},
+"100000001196250":{count:104, commentsEnabled:true},
+"100000001196432":{count:333, commentsEnabled:false},
+"100000001196658":{count:42, commentsEnabled:false},
+"100000001196737":{count:28, commentsEnabled:true},
+"100000001196861":{count:18, commentsEnabled:false},
+"100000001196955":{count:71, commentsEnabled:true},
+"100000001196963":{count:143, commentsEnabled:false},
+"100000001197064":{count:68, commentsEnabled:false},
+"100000001197489":{count:3, commentsEnabled:false},
+"100000001197999":{count:75, commentsEnabled:false},
+"100000001198014":{count:290, commentsEnabled:false},
+"100000001198050":{count:69, commentsEnabled:true},
+"100000001198076":{count:32, commentsEnabled:true},
+"100000001198092":{count:204, commentsEnabled:false},
+"100000001198110":{count:424, commentsEnabled:false},
+"100000001198123":{count:343, commentsEnabled:false},
+"100000001198126":{count:62, commentsEnabled:false},
+"100000001198138":{count:163, commentsEnabled:false},
+"100000001198377":{count:143, commentsEnabled:true},
+"100000001198446":{count:23, commentsEnabled:true},
+"100000001198471":{count:52, commentsEnabled:true},
+"100000001198476":{count:157, commentsEnabled:true},
+"100000001198581":{count:48, commentsEnabled:true},
+"100000001198642":{count:253, commentsEnabled:false},
+"100000001199366":{count:136, commentsEnabled:true},
+"100000001199374":{count:114, commentsEnabled:true},
+"100000001199444":{count:155, commentsEnabled:false},
+"100000001199658":{count:4, commentsEnabled:true},
+"100000001200046":{count:884, commentsEnabled:true},
+"100000001200335":{count:165, commentsEnabled:false},
+"100000001200378":{count:192, commentsEnabled:false},
+"100000001200458":{count:77, commentsEnabled:false},
+"100000001200844":{count:23, commentsEnabled:true},
+"100000001201276":{count:88, commentsEnabled:true},
+"100000001201525":{count:188, commentsEnabled:true},
+"100000001202361":{count:0, commentsEnabled:true},
+"100000001202521":{count:27, commentsEnabled:true},
+"100000001202701":{count:270, commentsEnabled:false},
+"100000001202807":{count:17, commentsEnabled:true},
+"100000001202815":{count:116, commentsEnabled:false},
+"100000001202831":{count:232, commentsEnabled:true},
+"100000001202861":{count:95, commentsEnabled:true},
+"100000001202869":{count:39, commentsEnabled:true},
+"100000001202871":{count:23, commentsEnabled:true},
+"100000001202889":{count:54, commentsEnabled:true},
+"100000001202895":{count:33, commentsEnabled:true},
+"100000001202901":{count:90, commentsEnabled:true},
+"100000001203208":{count:19, commentsEnabled:true},
+"100000001203416":{count:220, commentsEnabled:true},
+"100000001203664":{count:0, commentsEnabled:true},
+"100000001188908":{count:16, commentsEnabled:true},
+"100000001194403":{count:0, commentsEnabled:true},
+"100000001194404":{count:0, commentsEnabled:true},
+"100000001194405":{count:71, commentsEnabled:true},
+"100000001194406":{count:0, commentsEnabled:true},
+"100000001194419":{count:1, commentsEnabled:true},
+"100000001194423":{count:58, commentsEnabled:true},
+"100000001194424":{count:0, commentsEnabled:true},
+"100000001194425":{count:0, commentsEnabled:true},
+"100000001194427":{count:0, commentsEnabled:true},
+"100000001194843":{count:51, commentsEnabled:true},
+"100000001197746":{count:1, commentsEnabled:true},
+"100000001201815":{count:0, commentsEnabled:true},
+"100000001201989":{count:0, commentsEnabled:true}
+};
+</script>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/homepage/articleCommentCounts.js"></script>
+<script type="text/javascript" language="JavaScript">
+    ArticleCommentCounts.apply()
+    </script>
+
+			
+		<!-- Start UPT call -->
+		<img height="1" width="3" border=0 src="http://up.nytimes.com/?d=0/19/&t=3&s=0&ui=&r=&u=travel%2enytimes%2ecom%2f%3f">
+		<!-- End UPT call -->
+	
+		
+        <script language="JavaScript"><!--
+          var dcsvid="";
+          var regstatus="non-registered";
+        //--></script>
+        <script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+        <noscript>
+          <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div>
+        </noscript>
+   
+</body>
+</html>

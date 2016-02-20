@@ -1,0 +1,3 @@
+Location: http://www.nytimes.com/glogin?URI=http://www.nytimes.com/2011/12/02/us/drilling-down-fighting-over-oil-and-gas-well-leases.html&OQ=_rQ3D1Q26hp&OP=3e3f68eQ2FCmQ25Q7BCQ5Ech@iccQ5DQ23CQ23w..C.Q23CwQ23CW@CQ5EiEQ24Q24EUQ7C,Q5EcmU,Q20EQ7CtQ5DEUQ7C,cQ51Q25i,cEQ24,Q26UQ5E,Q7CQ26@,mQ25Q24Q24,Q24Q25Q26@Q25@Q3BtQ5DYQ24
+Connection: keep-alive
+

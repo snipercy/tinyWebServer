@@ -1,0 +1,688 @@
+Set-Cookie: ASPSESSIONIDQCQSQDAQ=OCBBFGIAIHKOKJBDGBELKENB; path=/
+Cache-control: private
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+
+	
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>Classifieds Marketplace - New York Times</title>
+		<base href="http://listings.nytimes.com/VacationRentalsAndInns/" />
+		<meta name="keywords" content="Vacation Rentals &amp; Inns" />
+		<meta name="description" content="Vacation Rentals &amp; Inns" />
+		<meta http-equiv="Expire" content="now" />
+		<meta http-equiv="Pragma" content="no-cache" />
+		<meta name="robots" content="noarchive" />		
+		<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/common/global.css" />
+		<style type="text/css">
+		@import url(http://graphics8.nytimes.com//css/common/screen/general.css);
+		@import url(http://graphics8.nytimes.com//css/common/screen/navigation.css);
+		@import url(http://graphics8.nytimes.com/css/standalone/classifieds/screen/gabriels.css);
+		</style>
+        <style type="text/css">
+        a:link {text-decoration:none;color:#001276}
+
+        img{border:0px;}
+        .topdivdemo1
+        {
+	        padding:4px 10px 4px 10px;
+	        border:1px solid #cdcdcf;
+	        border-bottom:1px solid #f1f2e4;
+	        background:#f8f8d4;
+	        color:#001276;
+	        text-align:left;
+	        width:150px;
+	        font-size:11px;
+	        font-family:arial;
+	        z-index: 50;
+	        position:relative;
+
+        }
+        .botdivdemo1 
+        {
+	        padding:10px;
+	        border:1px solid #cdcdcf;
+	        background:#ffffff;
+	        color:#323232;
+	        text-align:left;
+	        width:150px;
+	        font-size:11px;
+	        font-family:arial;
+	        z-index: 50;
+	        position:relative;
+        }
+        </style>
+<script type="text/javascript">
+	//-------------------------------------------------------------------------
+function ImageResize(imgname,imgwidth,imgheight){
+	if(imgname.width>imgwidth){
+		imgname.height = imgname.height*(imgwidth/imgname.width);
+		imgname.width = imgwidth;
+	}
+	if(imgname.height>imgheight){
+		imgname.width = imgname.width*(imgheight/imgname.height);
+		imgname.height = imgheight;
+	}
+}
+//-------------------------------------------------------------------------
+function User_logout(URL){
+	URL = "../+Comshare/Userlogout.asp?RoS=S&section=S&strType=R";
+	window.open(URL,"myNYT","width=300,height=150,left=0,top=0,resizable=yes,scrollbars=yes");
+}
+//-------------------------------------------------------------------------
+function ContactInfo(loc, categoryid){
+	var Email = '';
+  	URL = "../+ComShare/User_Info.asp?Email="+Email+"&loc="+loc+"&CategoryId="+categoryid;
+   	window.open(URL,"","width=450,height=450,left=20,top=40,resizable=no,scrollbars=yes");
+}
+//-------------------------------------------------------------------------
+function getCookie(Name){
+	var search = Name + "=";
+	if (document.cookie.length > 0){ 						// if there are any cookies
+		offset = document.cookie.indexOf(search);
+    	if (offset != -1){ 									// if cookie exists
+      		offset += search.length	;	      				// set index of beginning of value
+      		end = document.cookie.indexOf(";", offset);		// set index of end of cookie value
+      		if (end == -1){
+        		end = document.cookie.length;
+			}
+      		return unescape(document.cookie.substring(offset, end));
+    	}
+	}
+}
+//-------------------------------------------------------------------------
+function openEmail(baseURL) {
+	window.open(baseURL,"", "width=400,height=455,toolbar=no,status=no,directories=no,menubar=no,resizable=no,scrollbars=no");
+}
+//-------------------------------------------------------------------------
+function openPrint(baseURL) {
+	window.open(baseURL,"", "width=610,height=500,toolbar=no,status=no,directories=no,menubar=no,resizable=no,scrollbars=yes");
+}
+//---------------------------------------------------------------------------
+function ChangeEmail() {
+	document.TheNextPage.ChangeEmail.value = 'N';
+	document.TheNextPage.submit();
+	window.reload();
+	top.window.opener.location.reload();//test
+}
+//-------------------------------------------------------------------------
+function ChangeUser(loc){
+	URL = "../+Comshare/GetEmail.asp?loc="+loc+"&RoS=S&section=S&strType=R";
+	window.open(URL,"","width=615,height=360,top=0,left=0,resizable=no");
+}
+//-------------------------------------------------------------------------
+function UserProfile(loc){
+	URL = "../+ComShare/TrackerUserProfile.asp?RoS=S&section=S&strType=R";
+	window.open(URL,"","width=600,height=580,top=0,left=0,resizable=no");
+}	
+//-------------------------------------------------------------------------
+function SaveSelect(Lid){
+	res = getCookie("NYTULSEmailId");
+	if (res != null && res !=""){
+		window.open("../+Comshare/SaveListing.asp?ListingId=" + Lid+"&section=S&strType=R","SaveSelect","width=300,height=150,scrollbars,left=0,top=0");  			
+	}
+	else{
+  	      ChangeUser('l');
+	}        
+}
+//-------------------------------------------------------------------------
+function DeleteSelect(Lid){
+	res = getCookie("NYTULSEmailId");
+	if (res != null && res !=""){
+		window.open("../+Comshare/DeleteListing.asp?ListingId=" + Lid+"&section=S&strType=R","DeleteSelect","width=300,height=150,scrollbars,left=0,top=0");  	
+	}
+	else{
+		ChangeUser('l');
+	}        
+}
+//-------------------------------------------------------------------------
+function DeleteSearch(SearchName){
+	res = getCookie("EmailAddress");
+	if (res != null && res !=""){
+		window.open("../+Comshare/DeleteSearch.asp?SearchName=" + SearchName+"&section=S&strType=R","DeleteSearch","width=300,height=150,scrollbars,left=0,top=0");  	
+	}
+	else{
+		ChangeUser('l');
+	}      
+}
+//-------------------------------------------------------------------------
+function SelectSearch(){
+	if (document.SelectSearchCriteria.SearchName.selectedIndex != 0){
+		var strSearchName = document.SelectSearchCriteria.SearchName.value;
+  		var intSelectedIndex = document.SelectSearchCriteria.SearchName.selectedIndex
+		if (document.SelectSearchCriteria.SearchName.options[intSelectedIndex].searchType == "S"){
+			top.location = "../Sales/List_Listings.asp?SoL=S&SearchName=" + strSearchName
+		}
+		else{
+			top.location = "../Rentals/List_Listings.asp?SoL=S&SearchName=" + strSearchName
+		}
+  	}	
+}
+//-------------------------------------------------------------------------
+function popMultiMapWindow(baseURL){
+	var win = window.open(baseURL, 'myWin','width=700,height=545,scrollbars=yes,resizable=no,toolbar=no,menubar=no,status=no,location=no,directories=no');
+}
+//-------------------------------------------------------------------------
+function ExpandClose(ID, icon){
+	if(document.getElementById(ID).style.display == 'none'){
+		document.getElementById(ID).style.display = '';
+		document.images[icon].src = "../images/expand_close.gif";
+ 	}
+	else{
+		document.getElementById(ID).style.display = 'none'
+        document.images[icon].src = "../images/expand_open.gif";
+ 	}
+}
+//-------------------------------------------------------------------------
+function updateListing(num,lid,ros,strType,act){
+	res = getCookie("EmailAddress");
+	if (res != null && res !=""){
+		var str = "";
+		//if (strType == 'R')  //Listings Results
+		//{
+			if (act == 'D')
+				str = '<a href="javascript:updateListing(' + num + ',\'' + lid + '\',\'' + ros + '\',\'' + strType + '\',\'S\');">Save Listing<img src="../+comshare/updatelisting.asp?flag=' + act + '&RoS=' + ros  + '&strType=' + strType + '&Lid=' + lid + '&anticache=' + Math.floor(Math.random()*5000) + '" alt="" width="1" height="1" border="0" /></a>';
+			else
+				str = '<a href="javascript:updateListing(' + num + ',\'' + lid + '\',\'' + ros + '\',\'' + strType + '\',\'D\');">Remove Listing<img src="../+comshare/updatelisting.asp?flag=' + act + '&RoS=' + ros  + '&strType=' + strType + '&Lid=' + lid + '&anticache=' + Math.floor(Math.random()*5000) + '" alt="" width="1" height="1" border="0" /></a>';
+		//}
+		if(document.getElementById("savedlisting" + num)) {
+			document.getElementById("savedlisting" + num).innerHTML = str;
+			for(i=0;i<100;i++) { /* do nothing */ }
+		}
+	}
+    else{
+		ChangeUser('l');
+	}    
+}
+
+//-------------------------------------------------------------------------
+</script>
+		<!--[if IE 7]>
+			<style type="text/css"> @import url(http://graphics8.nytimes.com/css/common/screen/ie7.css); </style>
+		<![endif]-->
+		
+			<script type="text/javascript" src="http://graphics10.nytimes.com/js/common.js"></script>
+			<script type="text/javascript" src="http://graphics10.nytimes.com/js/common/screen/modifyNavigationDisplay.js"></script>
+			<script type="text/javascript" src="http://graphics10.nytimes.com/js/todays_date.js"></script>
+			<script type="text/javascript" src="http://graphics10.nytimes.com/js/Tacoda_AMS_DDC_Header.js"></script>
+			
+
+<!--AD TAGS -->
+<script src=""></script>
+	</head>
+	<body>
+<!-- Top5 position -->
+<script language="JavaScript">
+<!--
+if (typeof adxpos_Top5 != "undefined")
+    document.write(adxads[adxpos_Top5]);
+// -->
+</script>
+
+	<div id="shell">
+	<div id="login">
+	<ul id="memberTools">
+	<li><iframe height="15" width="480" scrolling="no" frameborder="0"  src="http://www.nytimes.com/export_html/common/new_login_iframe.html">
+	[Your user agent does not support frames or is currently configured
+	not to display frames. However, you may visit
+	<a href="http://www.nytimes.com/export_html/common/new_login_iframe.html">the related document.</a>]
+	</iframe></li>
+	</ul>
+	<ul class="tabs">
+	<li><a href="http://www.nytimes.com">Home Page</a></li>
+	<!--<li><a href="http://my.nytimes.com">My Times</a></li>-->
+	<li><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today&#39;s Paper</a></li>
+	<li><a href="http://www.nytimes.com/video">Video</a></li>
+	<li><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+	<li><a href="http://www.nytimes.com/timestopics">Times Topics</a></li>
+	</ul>
+	</div><!-- close login -->
+
+	<div id="page">
+	<div id="masthead">
+	<div id="Middle1"><!-- Middle1C position -->
+	
+	</div><!-- close Middle1C -->
+
+	<form id="searchForm" name="searchForm" method="GET" action="http://query.nytimes.com/gst/sitesearch_selector.html" enctype="application/x-www-form-urlencoded">
+	<input type="hidden" name="date_select" value="full">
+
+	<div id="searchWidget">
+	<input id="searchQuery" type="text" name="query" size="20" value="">
+
+	<div id="searchInputs">
+
+	<input type="image" src="http://graphics8.nytimes.com/images/global/global_search/search_button40x19.gif" alt="Search" title="Search" id="searchSubmit">
+	<ul class="inputGroup">
+
+	<li><input id="searchAll" type="radio" name="type" value="nyt" checked="checked">&nbsp;<label for="searchAll">All 
+	NYT</label></li>
+	</ul>
+	</div><!-- close searchInputs -->
+
+	</div><!-- close searchWidget -->
+
+	</form>
+
+	<img id="NYTLogo" alt="New York Times" title="New York Times" src="http://www.nytimes.com/images/misc/nytlogo153x23.gif">
+
+	<div id="date">
+	<script type="text/javascript">document.write(day + ' ' + month + ' ' + myweekday + ', ' + year);</script>
+	</div><!-- close date -->
+
+	<h1><a href="http://listings.nytimes.com/classifiedsmarketplace/">Classifieds Marketplace</a></h1>
+	</div><!-- close masthead -->
+
+	<div id="navigation" class="">
+	<ul class="tabs">
+	<li id="navWorld" class="selected">
+	<a href="http://www.nytimes.com/pages/world/index.html">
+	World
+	</a>
+
+    <ul style="padding-bottom:3px;">
+    <li style="border:1px solid #E2E2E2;background-color:#fff;padding:2px 10px;text-transform:none;margin:0 0px 0 50px;">
+        <span style="text-transform:uppercase;font-weight:bold;"><a href="http://listings.nytimes.com/classifiedsmarketplace/">Classifieds Marketplace</a></span>
+        
+        <span class="selected nochildren" style="padding-left:10px;"><a style="color:#004276;" href="../../BusinessDirectory/">Business Directory</a></span>
+        
+        <span class="selected nochildren" style="padding-left:10px;"><a style="color:#004276;" href="../../CampsAndSchools/">Camps &amp; Schools</a></span>
+        
+        <span class="selected nochildren" style="padding-left:10px;"><a style="color:#004276;" href="../../HomeAndGarden/">Home &amp; Garden Directory</a></span>
+        
+        <span class="selected nochildren" style="padding-left:10px;"><a href="../../VacationRentalsAndInns/" style="color:#004276;font-weight:bold;">Vacation Rentals &amp; Inns</a></span>
+        
+    </li>
+    </ul>
+	    <!--<ul style="text-align:center;border:1px solid red;">
+	        <li  ><a href="../CampsAndSchools/">Camps &amp; Schools</a></li>	
+	        <li ><a href="../HomeAndGarden/">Home &amp; Garden</a></li>
+	        <li ><a href="http://query.nytimes.com/gst/personals.html?pquery=&cat=All&submit2.x=10&submit2.y=14">Personals</a></li>	
+	        <li ><a href="../BusinessDirectory/">Business Directory</a></li>
+	        <li class="selected nochildren"><a href="../VacationRentalsAndInns/">Vacation Properties</a></li>
+	        <li ><a href="../Weddings/">Weddings Directory</a></li>
+	    </ul>-->
+	</li><!--navWorld-->
+	<li id="navUS"><a href="http://www.nytimes.com/pages/national/index.html">U.S.</a></li>
+	<li id="navNYRegion"><a href="http://www.nytimes.com/pages/nyregion/index.html">
+	N.Y. / Region</a></li>
+	<li id="navBusiness"><a href="http://www.nytimes.com/pages/business/index.html">
+	Business</a></li>
+	<li id="navTechnology"><a href="http://tech.nytimes.com/pages/technology/index.html">
+	Technology</a></li>
+	<li id="navScience"><a href="http://www.nytimes.com/pages/science/index.html">
+	Science</a></li>
+	<li id="navHealth"><a href="http://www.nytimes.com/pages/health/index.html">
+	Health</a></li>
+	<li id="navSports"><a href="http://www.nytimes.com/pages/sports/index.html">
+	Sports</a></li>
+	<li id="navOpinion"><a href="http://www.nytimes.com/pages/opinion/index.html">
+	Opinion</a></li>
+	<li id="navArts"><a href="http://www.nytimes.com/pages/arts/index.html">Arts</a></li>
+	<li id="navStyle"><a href="http://www.nytimes.com/pages/style/index.html">Style</a></li>
+	<li id="navTravel"><a href="http://travel.nytimes.com/pages/travel/index.html">
+	Travel</a></li>
+	<li id="navJobs"><a href="http://jobmarket.nytimes.com/pages/jobs/index.html">
+	Jobs</a></li>
+	<li id="navRealestate"><a href="http://www.nytimes.com/pages/realestate/index.html">
+	Real Estate</a></li>
+	<li id="navAutos"><a href="http://www.nytimes.com/pages/automobiles/index.html">
+	Autos</a></li></ul>
+	</div><!-- close navigation -->
+	<script type="text/javascript">modifyNavigationDisplay();</script>
+
+<div id="adxLeaderboard">
+<!-- TopAd position -->
+<script language="JavaScript">
+if (typeof adxpos_TopAd != "undefined")
+    document.write(adxads[adxpos_TopAd]);
+// 
+</script>
+<noscript>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=cookie&pos=TopAd">
+<img src="http://www.nytimes.com/adx/bin/adx_remote.html?type=noscript&page=listings.nytimes.com/campsandschools/search&posall=Top5,TopAd,SFMiddle,Bottom7,Bottom8,Bottom9,Inv1,Inv2,Inv3&pos=TopAd&query=qstring&keywords=?"></a></noscript>
+
+</div><!-- close adxLeaderboard -->
+
+	<div id="main" style="margin-top:0;padding-bottom:0px;">
+	<a name="top"></a>
+	
+<link rel="stylesheet" type="text/css" href="css/gabriels.css">
+<link rel="stylesheet" type="text/css" href="css/searchBox-large.css">
+		
+			<form name="details" method="POST" ID="Form1">
+				<!--<input type="hidden" name="SubCatId" value="" ID="Hidden6">-->
+				<input type="hidden" name="GroupId" value="" ID="Hidden1">
+				<input type="hidden" name="RegionId" value="" ID="Hidden7">
+				<input type="hidden" name="Keyword" value="" ID="Hidden8">
+				<input type="hidden" name="strLsId" id="strLsId" value="">
+				<input type="hidden" name="Lid" value="" ID="Hidden9">
+				<input type="hidden" name="LIndex" value="" ID="Hidden10">
+				<input type="hidden" name="ctRS" value="" ID="Hidden11">
+			</form>
+
+<script language="javascript" type="text/javascript" src="js/SearchIndex.js"></script>
+<script language="JavaScript">
+function LookDetails(lc,lid,ct) {
+	document.details.Lid.value = lid;
+	//document.details.LIndex.value = ct;
+	//original:document.details.action = "View_" + lc + "listing.asp";
+	document.details.action = "View_listing.asp";
+	document.details.submit();
+}
+//getRegions drop down
+function getRegions_drop()
+{
+ 	document.searchBox.action="searchindex.asp"
+	document.searchBox.submit();
+}
+</script>
+
+<div id="gtsContent" class="twoColumn">
+	<div class="leftColumn">
+	
+	<script language="javascript" type="text/javascript" src="http://listings.nytimes.com/VacationRentalsAndInns/js/prototype.js"></script>
+	<script language="javascript" type="text/javascript">
+		<!--
+		var getLocations_defaultOption = '';
+		function getLocations_ajax(pCategoryID, pRegionGroupID, pDefaultOption) {
+			getLocations_defaultOption = pDefaultOption;
+			theSelects		= document.getElementsByName('RegionId');
+			theSelect		= theSelects[1];
+			theSelect.options.length = 1;
+			theSelect.options.length = 2;
+			theSelect.options[1] = new Option("Loading...", "")
+
+			var url		= 'http://listings.nytimes.com/VacationRentalsAndInns/Ajax/LoadLocations.asp';
+			var pars	= 'CategoryID=' + pCategoryID + '&RegionGroupID=' + pRegionGroupID;
+			var request	= new Ajax.Request(url, {method: 'post', parameters: pars, onComplete: getLocations_ajax_DELEGATE});
+		}
+		function getLocations_ajax_DELEGATE(textResponse) {
+			optionsArray	= eval('new Array' + textResponse.responseText + ';');
+			theSelects		= document.getElementsByName('RegionId');
+			theSelect		= theSelects[1];
+			theSelect.options.length = 1;
+			
+			for (i=0; i<optionsArray.length; i++) {
+				optionsValues = optionsArray[i].split(':');
+				theSelect.options[theSelect.options.length] = new Option(optionsValues[1], optionsValues[0]);
+				if (theSelect.options[theSelect.options.length-1].value == getLocations_defaultOption) theSelect.options[theSelect.options.length-1].selected = true;
+			}
+		}
+		//-->
+	</script>
+	
+
+<div id="searchBox">
+
+<div id="searchBox-title">Search Vacation Rentals &amp; Inns Listings</div>
+
+
+
+<div id="searchBox-desc">
+		Search Small Inns & Lodgeslistings from The New York Times.
+		<!--CategoryID is NOT NYTSCH-->
+</div><!--searchBox-desc-->
+
+<div>
+
+
+<script>
+	<!--
+	function submitSearchbox() {
+		if (document.searchBox.KeyWord.value == '-- Keyword --') document.searchBox.KeyWord.value = '';
+		document.searchBox.submit();
+	}
+	//-->
+</script>
+
+<form name="searchBox" action="http://listings.nytimes.com/VacationRentalsAndInns/List_Listings.asp">
+<input type="hidden" name="ChangeEmail">
+
+	<select name="GroupId" id="GroupId" onchange="getLocations_ajax('NYTWTS', this.options[this.selectedIndex].value, '');">
+		<option value="">-- Select a Region or Country --</option>
+		
+			<option value="5" >All Areas</option>
+			<option value="10" >United States</option>
+			<option value="2150" >&nbsp;&nbsp;&nbsp;Arizona</option><option value="2250" >&nbsp;&nbsp;&nbsp;California</option><option value="2300" >&nbsp;&nbsp;&nbsp;Colorado</option><option value="2550" >&nbsp;&nbsp;&nbsp;Florida</option><option value="2600" >&nbsp;&nbsp;&nbsp;Georgia</option><option value="2650" >&nbsp;&nbsp;&nbsp;Hawaii</option><option value="2700" >&nbsp;&nbsp;&nbsp;Idaho</option><option value="2950" >&nbsp;&nbsp;&nbsp;Kentucky</option><option value="3050" >&nbsp;&nbsp;&nbsp;Maine</option><option value="3150" >&nbsp;&nbsp;&nbsp;Massachusetts</option><option value="3250" >&nbsp;&nbsp;&nbsp;Michigan</option><option value="3400" >&nbsp;&nbsp;&nbsp;Missouri</option><option value="3450" >&nbsp;&nbsp;&nbsp;Montana</option><option value="3550" >&nbsp;&nbsp;&nbsp;Nevada</option><option value="3600" >&nbsp;&nbsp;&nbsp;New Hampshire</option><option value="3650" >&nbsp;&nbsp;&nbsp;New Jersey</option><option value="3750" >&nbsp;&nbsp;&nbsp;New York</option><option value="3800" >&nbsp;&nbsp;&nbsp;North Carolina</option><option value="4050" >&nbsp;&nbsp;&nbsp;Pennsylvania</option><option value="4200" >&nbsp;&nbsp;&nbsp;South Carolina</option><option value="4250" >&nbsp;&nbsp;&nbsp;South Dakota</option><option value="4300" >&nbsp;&nbsp;&nbsp;Tennessee</option><option value="4350" >&nbsp;&nbsp;&nbsp;Texas</option><option value="4450" >&nbsp;&nbsp;&nbsp;Utah</option><option value="4500" >&nbsp;&nbsp;&nbsp;Vermont</option><option value="4650" >&nbsp;&nbsp;&nbsp;Washington State</option><option value="4750" >&nbsp;&nbsp;&nbsp;Wisconsin</option><option value="100" >Europe</option><option value="150" >Caribbean</option><option value="200" >Mexico</option><option value="400" >Central America</option><option value="350" >Australia & Pacific</option><option value="25" >International</option><option value="50" >Other</option> 
+	</select>
+
+
+	<div id="searchBox-andOr1">and/or</div>
+
+	<label for="RegionId" id="searchBox-locationLabel">Location:</label>
+	
+		<select name="RegionId" id="RegionId">
+		<!--<select name="RegionId" id="RegionId" onchange="javascript:getRegions()">-->
+			<option value="">-- Select a Location --</option>
+			
+		</select>
+		
+	<div id="searchBox-andOr2">and/or</div>
+	<label for="searchBox-keyword" id="searchBox-keywordLabel">Keyword:</label>
+	<!--<div style="border:1px solid green; float:right;width:25px;">-->
+	<input type="text" name="KeyWord" id="searchBox-keyword" value="-- Keyword --" onFocus="if(this.value=='-- Keyword --') this.value='';" onBlur="if(this.value=='') this.value='-- Keyword --';">
+	<!--<a href="javascript:Search_Listings();">-->
+	<a id="searchBox-button" href="javascript:submitSearchbox();"><img src="http://listings.nytimes.com/Redesign/+Comshare/images/button-go.gif"></a>
+	<!--</div>-->
+</form>
+</div>
+
+</div>
+<!---->
+	<form name="TheNextPage" method="post" action="List_Listings.asp">
+	<input type="hidden" name="CategoryId" value="NYTWTS">
+	<input type="hidden" name="strStates" value="2150+&nbsp;&nbsp;&nbsp;Arizona:2250+&nbsp;&nbsp;&nbsp;California:2300+&nbsp;&nbsp;&nbsp;Colorado:2550+&nbsp;&nbsp;&nbsp;Florida:2600+&nbsp;&nbsp;&nbsp;Georgia:2650+&nbsp;&nbsp;&nbsp;Hawaii:2700+&nbsp;&nbsp;&nbsp;Idaho:2950+&nbsp;&nbsp;&nbsp;Kentucky:3050+&nbsp;&nbsp;&nbsp;Maine:3150+&nbsp;&nbsp;&nbsp;Massachusetts:3250+&nbsp;&nbsp;&nbsp;Michigan:3400+&nbsp;&nbsp;&nbsp;Missouri:3450+&nbsp;&nbsp;&nbsp;Montana:3550+&nbsp;&nbsp;&nbsp;Nevada:3600+&nbsp;&nbsp;&nbsp;New Hampshire:3650+&nbsp;&nbsp;&nbsp;New Jersey:3750+&nbsp;&nbsp;&nbsp;New York:3800+&nbsp;&nbsp;&nbsp;North Carolina:4050+&nbsp;&nbsp;&nbsp;Pennsylvania:4200+&nbsp;&nbsp;&nbsp;South Carolina:4250+&nbsp;&nbsp;&nbsp;South Dakota:4300+&nbsp;&nbsp;&nbsp;Tennessee:4350+&nbsp;&nbsp;&nbsp;Texas:4450+&nbsp;&nbsp;&nbsp;Utah:4500+&nbsp;&nbsp;&nbsp;Vermont:4650+&nbsp;&nbsp;&nbsp;Washington State:4750+&nbsp;&nbsp;&nbsp;Wisconsin:100+Europe:150+Caribbean:200+Mexico:400+Central America:350+Australia & Pacific:25+International:50+Other:">
+	<input type="hidden" name="strUS" value="United States">
+	<input type="hidden" name="ChangeEmail" value="">
+	<input type="hidden" name="FirstFlag" value="">
+    </form>
+
+		<div class='subcategoryGroup subcategoryGroup-left'><h3><a href='List_Listings.asp?GroupID=2150' class='text_dest_hd'>Arizona</a></h3><ul><li><a href='List_Listings.asp?GroupID=2150&RegionId=106500' class='text_dest_link'>Ahwatukee</a></li><li><a href='List_Listings.asp?GroupID=2150&RegionId=108305' class='text_dest_link'>Scottsdale</a></li><li><a href='List_Listings.asp?GroupID=2150&RegionId=109205' class='text_dest_link'>Flagstaff</a></li><li><a href='List_Listings.asp?GroupID=2150&RegionId=109800' class='text_dest_link'>Lake Havasu</a></li><li><a href='List_Listings.asp?GroupID=2150&RegionId=111005' class='text_dest_link'>Tucson</a></li></div><div class='subcategoryGroup subcategoryGroup-left'><h3><a href='List_Listings.asp?GroupID=2250' class='text_dest_hd'>California</a></h3><ul><li><a href='List_Listings.asp?GroupID=2250&RegionId=125805' class='text_dest_link'>South Lake Tahoe</a></li><li><a href='List_Listings.asp?GroupID=2250&RegionId=128905' class='text_dest_link'>Dana Point</a></li><li><a href='List_Listings.asp?GroupID=2250&RegionId=129905' class='text_dest_link'>Coronado</a></li><li><a href='List_Listings.asp?GroupID=2250&RegionId=130805' class='text_dest_link'>San Diego</a></li><li><a href='List_Listings.asp?GroupID=2250&RegionId=133605' class='text_dest_link'>Napa Valley</a></li></div><div class='subcategoryGroup subcategoryGroup-left'><h3><a href='List_Listings.asp?GroupID=2300' class='text_dest_hd'>Colorado</a></h3><ul><li><a href='List_Listings.asp?GroupID=2300&RegionId=165805' class='text_dest_link'>Beaver Creek</a></li><li><a href='List_Listings.asp?GroupID=2300&RegionId=165905' class='text_dest_link'>Breckenridge</a></li><li><a href='List_Listings.asp?GroupID=2300&RegionId=166305' class='text_dest_link'>Dillon</a></li><li><a href='List_Listings.asp?GroupID=2300&RegionId=167605' class='text_dest_link'>Winter Park</a></li><li><a href='List_Listings.asp?GroupID=2300&RegionId=169105' class='text_dest_link'>Telluride</a></li></div><div class='subcategoryGroup subcategoryGroup-left'><h3><a href='List_Listings.asp?GroupID=2550' class='text_dest_hd'>Florida</a></h3><ul><li><a href='List_Listings.asp?GroupID=2550&RegionId=183805' class='text_dest_link'>Captiva Island</a></li><li><a href='List_Listings.asp?GroupID=2550&RegionId=185605' class='text_dest_link'>Disney Area</a></li><li><a href='List_Listings.asp?GroupID=2550&RegionId=186105' class='text_dest_link'>Kissimmee Disney Area</a></li><li><a href='List_Listings.asp?GroupID=2550&RegionId=189905' class='text_dest_link'>Miami Beach</a></li><li><a href='List_Listings.asp?GroupID=2550&RegionId=191205' class='text_dest_link'>Siesta Key</a></li></div><div class='subcategoryGroup subcategoryGroup-left'><h3><a href='List_Listings.asp?GroupID=2600' class='text_dest_hd'>Georgia</a></h3><ul><li><a href='List_Listings.asp?GroupID=2600&RegionId=241905' class='text_dest_link'>Stone Mountain</a></li><li><a href='List_Listings.asp?GroupID=2600&RegionId=242205' class='text_dest_link'>Jekyll Island</a></li><li><a href='List_Listings.asp?GroupID=2600&RegionId=242505' class='text_dest_link'>St. Marys</a></li><li><a href='List_Listings.asp?GroupID=2600&RegionId=242605' class='text_dest_link'>St. Simons Island</a></li><li><a href='List_Listings.asp?GroupID=2600&RegionId=243005' class='text_dest_link'>Blairsville</a></li></div><div class='subcategoryGroup subcategoryGroup-left'><h3><a href='List_Listings.asp?GroupID=2650' class='text_dest_hd'>Hawaii</a></h3><ul><li><a href='List_Listings.asp?GroupID=2650&RegionId=253505' class='text_dest_link'>Moloaa Bay</a></li><li><a href='List_Listings.asp?GroupID=2650&RegionId=254305' class='text_dest_link'>Haiku</a></li><li><a href='List_Listings.asp?GroupID=2650&RegionId=254500' class='text_dest_link'>Milolii</a></li><li><a href='List_Listings.asp?GroupID=2650&RegionId=254705' class='text_dest_link'>Kaanapali</a></li><li><a href='List_Listings.asp?GroupID=2650&RegionId=258505' class='text_dest_link'>North Shore</a></li></div><div class='subcategoryGroup subcategoryGroup-left'><h3><a href='List_Listings.asp?GroupID=2700' class='text_dest_hd'>Idaho</a></h3><ul><li><a href='List_Listings.asp?GroupID=2700&RegionId=271705' class='text_dest_link'>Sun Valley</a></li><li><a href='List_Listings.asp?GroupID=2700&RegionId=276900' class='text_dest_link'>Ketchum</a></li></div><div class='subcategoryGroup subcategoryGroup-left'><h3><a href='List_Listings.asp?GroupID=2950' class='text_dest_hd'>Kentucky</a></h3><ul><li><a href='List_Listings.asp?GroupID=2950&RegionId=283905' class='text_dest_link'>Cadiz</a></li><li><a href='List_Listings.asp?GroupID=2950&RegionId=286000' class='text_dest_link'>Burnside</a></li><li><a href='List_Listings.asp?GroupID=2950&RegionId=286200' class='text_dest_link'>Monticello</a></li></div><div class='subcategoryGroup subcategoryGroup-left'><h3><a href='List_Listings.asp?GroupID=3050' class='text_dest_hd'>Maine</a></h3><ul><li><a href='List_Listings.asp?GroupID=3050&RegionId=288305' class='text_dest_link'>Southwest Harbor</a></li><li><a href='List_Listings.asp?GroupID=3050&RegionId=288705' class='text_dest_link'>China Lake</a></li><li><a href='List_Listings.asp?GroupID=3050&RegionId=291305' class='text_dest_link'>Bethel</a></li><li><a href='List_Listings.asp?GroupID=3050&RegionId=291405' class='text_dest_link'>Bridgton</a></li><li><a href='List_Listings.asp?GroupID=3050&RegionId=293105' class='text_dest_link'>Old Orchard Beach</a></li></div><div class='subcategoryGroup subcategoryGroup-left'><h3><a href='List_Listings.asp?GroupID=3150' class='text_dest_hd'>Massachusetts</a></h3><ul><li><a href='List_Listings.asp?GroupID=3150&RegionId=317405' class='text_dest_link'>Hancock</a></li><li><a href='List_Listings.asp?GroupID=3150&RegionId=320105' class='text_dest_link'>West Harwich</a></li><li><a href='List_Listings.asp?GroupID=3150&RegionId=320605' class='text_dest_link'>Aquinnah</a></li><li><a href='List_Listings.asp?GroupID=3150&RegionId=320805' class='text_dest_link'>Oak Bluffs</a></li><li><a href='List_Listings.asp?GroupID=3150&RegionId=325700' class='text_dest_link'>Dennis Port</a></li></div><div class='subcategoryGroup subcategoryGroup-left'><h3><a href='List_Listings.asp?GroupID=3250' class='text_dest_hd'>Michigan</a></h3><ul><li><a href='List_Listings.asp?GroupID=3250&RegionId=332205' class='text_dest_link'>Frankfort</a></li><li><a href='List_Listings.asp?GroupID=3250&RegionId=332605' class='text_dest_link'>Grand Beach</a></li><li><a href='List_Listings.asp?GroupID=3250&RegionId=335405' class='text_dest_link'>Northport</a></li><li><a href='List_Listings.asp?GroupID=3250&RegionId=336105' class='text_dest_link'>Sawyer</a></li><li><a href='List_Listings.asp?GroupID=3250&RegionId=336205' class='text_dest_link'>Silver Lake</a></li></div><div class='subcategoryGroup subcategoryGroup-left'><h3><a href='List_Listings.asp?GroupID=3400' class='text_dest_hd'>Missouri</a></h3><ul><li><a href='List_Listings.asp?GroupID=3400&RegionId=363105' class='text_dest_link'>Lake Ozark</a></li><li><a href='List_Listings.asp?GroupID=3400&RegionId=363305' class='text_dest_link'>Osage Beach</a></li><li><a href='List_Listings.asp?GroupID=3400&RegionId=363405' class='text_dest_link'>Rocky Mount</a></li><li><a href='List_Listings.asp?GroupID=3400&RegionId=363505' class='text_dest_link'>Sunrise Beach</a></li><li><a href='List_Listings.asp?GroupID=3400&RegionId=365000' class='text_dest_link'>Laurie</a></li></div><div class='subcategoryGroup subcategoryGroup-left'><h3><a href='List_Listings.asp?GroupID=3450' class='text_dest_hd'>Montana</a></h3><ul><li><a href='List_Listings.asp?GroupID=3450&RegionId=370900' class='text_dest_link'>Bigfork</a></li></div><div class='subcategoryGroup subcategoryGroup-left'><h3><a href='List_Listings.asp?GroupID=3550' class='text_dest_hd'>Nevada</a></h3><ul><li><a href='List_Listings.asp?GroupID=3550&RegionId=373605' class='text_dest_link'>Incline Village</a></li><li><a href='List_Listings.asp?GroupID=3550&RegionId=373705' class='text_dest_link'>Stateline</a></li><li><a href='List_Listings.asp?GroupID=3550&RegionId=373805' class='text_dest_link'>Zephyr Cove</a></li></div><div class='subcategoryGroup subcategoryGroup-left'><h3><a href='List_Listings.asp?GroupID=3600' class='text_dest_hd'>New Hampshire</a></h3><ul><li><a href='List_Listings.asp?GroupID=3600&RegionId=375905' class='text_dest_link'>Moultonborough</a></li><li><a href='List_Listings.asp?GroupID=3600&RegionId=376005' class='text_dest_link'>Tamworth</a></li><li><a href='List_Listings.asp?GroupID=3600&RegionId=378105' class='text_dest_link'>Sugar Hill</a></li><li><a href='List_Listings.asp?GroupID=3600&RegionId=378205' class='text_dest_link'>Thornton</a></li><li><a href='List_Listings.asp?GroupID=3600&RegionId=383300' class='text_dest_link'>Bethlehem</a></li></div><div class='subcategoryGroup subcategoryGroup-left'><h3><a href='List_Listings.asp?GroupID=3650' class='text_dest_hd'>New Jersey</a></h3><ul><li><a href='List_Listings.asp?GroupID=3650&RegionId=386800' class='text_dest_link'>Brigantine</a></li><li><a href='List_Listings.asp?GroupID=3650&RegionId=386805' class='text_dest_link'>Belmar</a></li><li><a href='List_Listings.asp?GroupID=3650&RegionId=387505' class='text_dest_link'>Lavallette</a></li><li><a href='List_Listings.asp?GroupID=3650&RegionId=388505' class='text_dest_link'>Point Pleasant</a></li><li><a href='List_Listings.asp?GroupID=3650&RegionId=389005' class='text_dest_link'>Surf City</a></li></div><div class='subcategoryGroup subcategoryGroup-left'><h3><a href='List_Listings.asp?GroupID=3750' class='text_dest_hd'>New York</a></h3><ul><li><a href='List_Listings.asp?GroupID=3750&RegionId=397200' class='text_dest_link'>Adirondack</a></li><li><a href='List_Listings.asp?GroupID=3750&RegionId=397605' class='text_dest_link'>Lake George</a></li><li><a href='List_Listings.asp?GroupID=3750&RegionId=398005' class='text_dest_link'>Saranac Lake</a></li><li><a href='List_Listings.asp?GroupID=3750&RegionId=409700' class='text_dest_link'>Ashland</a></li><li><a href='List_Listings.asp?GroupID=3750&RegionId=418400' class='text_dest_link'>Kerhonkson</a></li></div><div class='subcategoryGroup subcategoryGroup-left'><h3><a href='List_Listings.asp?GroupID=3800' class='text_dest_hd'>North Carolina</a></h3><ul><li><a href='List_Listings.asp?GroupID=3800&RegionId=431405' class='text_dest_link'>Marion</a></li><li><a href='List_Listings.asp?GroupID=3800&RegionId=433400' class='text_dest_link'>Marshall</a></li><li><a href='List_Listings.asp?GroupID=3800&RegionId=435705' class='text_dest_link'>Flat Rock</a></li><li><a href='List_Listings.asp?GroupID=3800&RegionId=436705' class='text_dest_link'>Bryson City</a></li><li><a href='List_Listings.asp?GroupID=3800&RegionId=448000' class='text_dest_link'>Smocky Mountains</a></li></div><div class='subcategoryGroup subcategoryGroup-left'><h3><a href='List_Listings.asp?GroupID=4050' class='text_dest_hd'>Pennsylvania</a></h3><ul><li><a href='List_Listings.asp?GroupID=4050&RegionId=463005' class='text_dest_link'>Albrightsville</a></li><li><a href='List_Listings.asp?GroupID=4050&RegionId=463305' class='text_dest_link'>Bushkill</a></li><li><a href='List_Listings.asp?GroupID=4050&RegionId=463805' class='text_dest_link'>Lake Harmony</a></li><li><a href='List_Listings.asp?GroupID=4050&RegionId=464200' class='text_dest_link'>Blue Mountains</a></li><li><a href='List_Listings.asp?GroupID=4050&RegionId=467900' class='text_dest_link'>Towamensing Trails</a></li></div><div class='subcategoryGroup subcategoryGroup-left'><h3><a href='List_Listings.asp?GroupID=4200' class='text_dest_hd'>South Carolina</a></h3><ul><li><a href='List_Listings.asp?GroupID=4200&RegionId=472505' class='text_dest_link'>Garden City</a></li><li><a href='List_Listings.asp?GroupID=4200&RegionId=473405' class='text_dest_link'>Litchfield</a></li><li><a href='List_Listings.asp?GroupID=4200&RegionId=473505' class='text_dest_link'>near Charleston</a></li><li><a href='List_Listings.asp?GroupID=4200&RegionId=473705' class='text_dest_link'>Ocean Lakes</a></li><li><a href='List_Listings.asp?GroupID=4200&RegionId=474705' class='text_dest_link'>Folly Beach</a></li></div><div class='subcategoryGroup subcategoryGroup-left'><h3><a href='List_Listings.asp?GroupID=4250' class='text_dest_hd'>South Dakota</a></h3><ul><li><a href='List_Listings.asp?GroupID=4250&RegionId=480705' class='text_dest_link'>Deadwood</a></li><li><a href='List_Listings.asp?GroupID=4250&RegionId=480805' class='text_dest_link'>Hill City</a></li><li><a href='List_Listings.asp?GroupID=4250&RegionId=481005' class='text_dest_link'>Nemo</a></li><li><a href='List_Listings.asp?GroupID=4250&RegionId=481205' class='text_dest_link'>Spearfish</a></li><li><a href='List_Listings.asp?GroupID=4250&RegionId=481300' class='text_dest_link'>Lead</a></li></div><div class='subcategoryGroup subcategoryGroup-left'><h3><a href='List_Listings.asp?GroupID=4300' class='text_dest_hd'>Tennessee</a></h3><ul><li><a href='List_Listings.asp?GroupID=4300&RegionId=482105' class='text_dest_link'>Gatlinburg</a></li><li><a href='List_Listings.asp?GroupID=4300&RegionId=482305' class='text_dest_link'>Pigeon Forge</a></li><li><a href='List_Listings.asp?GroupID=4300&RegionId=482405' class='text_dest_link'>Sevierville</a></li></div><div class='subcategoryGroup subcategoryGroup-left'><h3><a href='List_Listings.asp?GroupID=4350' class='text_dest_hd'>Texas</a></h3><ul><li><a href='List_Listings.asp?GroupID=4350&RegionId=490105' class='text_dest_link'>Conroe</a></li><li><a href='List_Listings.asp?GroupID=4350&RegionId=490205' class='text_dest_link'>Burnet</a></li><li><a href='List_Listings.asp?GroupID=4350&RegionId=490305' class='text_dest_link'>Horseshoe Bay</a></li><li><a href='List_Listings.asp?GroupID=4350&RegionId=490505' class='text_dest_link'>Spicewood</a></li></div><div class='subcategoryGroup subcategoryGroup-left'><h3><a href='List_Listings.asp?GroupID=4450' class='text_dest_hd'>Utah</a></h3><ul><li><a href='List_Listings.asp?GroupID=4450&RegionId=502505' class='text_dest_link'>Eden</a></li><li><a href='List_Listings.asp?GroupID=4450&RegionId=504700' class='text_dest_link'>Park City</a></li></div><div class='subcategoryGroup subcategoryGroup-left'><h3><a href='List_Listings.asp?GroupID=4500' class='text_dest_hd'>Vermont</a></h3><ul><li><a href='List_Listings.asp?GroupID=4500&RegionId=506505' class='text_dest_link'>Cavendish</a></li><li><a href='List_Listings.asp?GroupID=4500&RegionId=506605' class='text_dest_link'>Ludlow</a></li><li><a href='List_Listings.asp?GroupID=4500&RegionId=506805' class='text_dest_link'>Jamaica</a></li><li><a href='List_Listings.asp?GroupID=4500&RegionId=506905' class='text_dest_link'>Stratton</a></li></div><div class='subcategoryGroup subcategoryGroup-left'><h3><a href='List_Listings.asp?GroupID=4650' class='text_dest_hd'>Washington State</a></h3><ul><li><a href='List_Listings.asp?GroupID=4650&RegionId=535900' class='text_dest_link'>Bainbridge Island</a></li><li><a href='List_Listings.asp?GroupID=4650&RegionId=536200' class='text_dest_link'>Bremerton</a></li><li><a href='List_Listings.asp?GroupID=4650&RegionId=536600' class='text_dest_link'>Coupeville</a></li><li><a href='List_Listings.asp?GroupID=4650&RegionId=536700' class='text_dest_link'>Freeland</a></li><li><a href='List_Listings.asp?GroupID=4650&RegionId=537700' class='text_dest_link'>Langley</a></li></div><div class='subcategoryGroup subcategoryGroup-left'><h3><a href='List_Listings.asp?GroupID=4750' class='text_dest_hd'>Wisconsin</a></h3><ul><li><a href='List_Listings.asp?GroupID=4750&RegionId=544005' class='text_dest_link'>Sturgeon Bay</a></li><li><a href='List_Listings.asp?GroupID=4750&RegionId=544105' class='text_dest_link'>lake geneva</a></li></div><div class='subcategoryGroup subcategoryGroup-left'><h3><a href='List_Listings.asp?GroupID=100' class='text_dest_hd'>Europe</a></h3><ul><li><a href='List_Listings.asp?GroupID=100&RegionId=10610' class='text_dest_link'>France</a></li></div><div class='subcategoryGroup subcategoryGroup-left'><h3><a href='List_Listings.asp?GroupID=150' class='text_dest_hd'>Caribbean</a></h3><ul><li><a href='List_Listings.asp?GroupID=150&RegionId=14300' class='text_dest_link'>Other Caribbean</a></li></div><div class='subcategoryGroup subcategoryGroup-left'><h3><a href='List_Listings.asp?GroupID=200' class='text_dest_hd'>Mexico</a></h3><ul><li><a href='List_Listings.asp?GroupID=200&RegionId=330600' class='text_dest_link'>Playa del Carmen</a></li></div><div class='subcategoryGroup subcategoryGroup-left'><h3><a href='List_Listings.asp?GroupID=400' class='text_dest_hd'>Central America</a></h3><ul><li><a href='List_Listings.asp?GroupID=400&RegionId=15200' class='text_dest_link'>Costa Rica</a></li></ul></div>
+		
+		<div class="doubleLine"></div>
+		<script type="text/JavaScript">
+	var google_hints = "Summer+Camp"
+</script>
+
+<script>
+<!--
+ if (typeof adxpos_SponLink != "undefined")
+  document.write(adxads[adxpos_SponLink]);
+// -->
+</script>
+<noscript>
+<a href="http://www.nytimes.com/adx/bin/adx_remote.html?type=cookie&pos=SponLink">
+<img src="http://www.nytimes.com/adx/bin/adx_remote.html?type=noscript&page=listings.nytimes.com/VacationRentalsAndInns/search&posall=Top5,TopLeft,Middle1,SFMiddle,SponLink,TopAd,Right3,Right1,Bottom7,Bottom8,Bottom9,Inv1,Inv2,Inv3&pos=SponLink&query=qstring&keywords=?">
+</a></noscript>
+	</div>
+	<div class="rightColumn">
+		
+
+<!--live url:--><a id="postAnAd" href="https://placead.nytimes.com/default.asp?CategoryID=NYTWTS">Post Your Listing on The New York Times &raquo;</a>
+<!--staging url: 
+<a id="postAnAd" href="http://209.11.106.150/NYTULS_FSBOStaging/default.asp?CategoryID=NYTWTS">Post Your Listing on The New York Times &raquo;</a>-->
+
+
+<div class="advertisement">
+
+<!-- SFMiddle position -->
+<div>
+<script language="JavaScript">
+
+if (typeof adxpos_SFMiddle != "undefined")
+    document.write(adxads[adxpos_SFMiddle]);
+
+</script>
+</div>
+
+</div>
+
+
+		<div class="featuredListing">
+			<h3>Featured Listing</h3>
+			<!--<div class="featuredContent">-->
+			<div style="margin:0px; padding:0px;float:left;width:170px;">
+				<a href="View_Listing.asp?CategoryID=NYTWTS&Lid=80-WTS1111103" class="featuredListing-title" style="color:#004276;padding:0 0 3px 0;">Spectacular Villa in Monte Cristo Estates in Cabo </a>
+				
+				<div style="font:11px normal Arial, sans-serif;color:#000000;overflow:hidden;">Villa Monte Cristo Estates Pueblo Bonito in Cabo San Lucas Spectacular 3 bdrm villa located in the exclusive gated Monte Cristo Estates community in the hills of the prestigious section of Pueblo Boni...</div>
+			    
+			</div>
+		    <table border="0" cellpadding="0" cellspacing="0" width="125" height="125" style="overflow:hidden; border:1px solid #cccccc; float:right;">
+				<tr>
+					<td bgcolor="White" align="center" valign="middle"><a href="View_Listing.asp?CategoryID=NYTWTS&Lid=80-WTS1111103"><img src="http://gimagesr.gabriels.net/ImageReader.aspx?W=125&H=125&ImageURL=http%3A%2F%2Fnytulsimages%2Egabriels%2Enet%2Foutsideentrance%2Ejpg" onerror="this.src='../+Comshare/images/noPhoto-125x125.gif';"/></a></td>
+				</tr>
+		    </table>
+			<div class="clearAll"></div>
+		</div>
+		<!--<div class="singleLine"></div>-->
+		
+
+<!--<div class="rightRail-content">-->
+<div class="printad">
+	<h3>Place Your Ad in Print</h3>
+	To have your ad appear in the New York newspaper, please call 800-AD-TIMES or <a href="https://www.nytadvertising.com/was/ATWWeb/ProcessorAction.do">click here</a>.
+</div>
+
+<style>
+.featuredListing_1 {
+	font-family: Arial;
+	font-size: 12px;
+	/*border: 1px solid #cdcdcd;*/
+	background-color:#f0f4f5;
+	margin: 0 0 10px 0;
+	padding: 0px;
+	display: block;
+	/*width: 308px;*/
+}
+</style>
+<!--<div class="singleLine"></div>-->
+<!---->
+
+
+<div class="rightRail-content">
+	<h3>Contact Us</h3>
+	For help with ONLINE ads, please email:
+	<a href="mailto:onlineclassifieds@nytimes.com">onlineclassifieds@nytimes.com</a>
+</div>
+		
+	</div>
+</div>
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+
+	</div><!-- close main -->
+	<!-- BEGIN FOOTER -->
+	<div id="footer">
+	<div class="footerRow">
+	<a href="http://www.nytimes.com">Home</a>
+	<ul>
+	<li><a href="http://www.nytimes.com/pages/world/index.html">World</a></li>
+	<li><a href="http://www.nytimes.com/pages/national/index.html">U.S.</a></li>
+	<li><a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y./Region</a></li>
+	<li><a href="http://www.nytimes.com/pages/business/index.html">Business</a></li>
+	<li><a href="http://tech.nytimes.com/pages/technology/index.html">Technology</a></li>
+	<li><a href="http://www.nytimes.com/pages/science/index.html">Science</a></li>
+	<li><a href="http://www.nytimes.com/pages/health/index.html">Health</a></li>
+	<li><a href="http://www.nytimes.com/pages/sports/index.html">Sports</a></li>
+	<li><a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a></li>
+	<li><a href="http://www.nytimes.com/pages/arts/index.html">Arts</a></li>
+	<li><a href="http://www.nytimes.com/pages/style/index.html">Style</a></li>
+
+	<li><a href="http://travel.nytimes.com/pages/travel/index.html">Travel</a></li>
+	<li><a href="http://jobmarket.nytimes.com/pages/jobs/index.html">Jobs</a></li>
+	<li><a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a></li>
+	<li><a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a></li>
+	<li><a href="#top">Back to Top</a></li>
+	</ul>
+
+	</div><!-- close footerRow -->
+
+	<a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">Copyright&nbsp;<script type="text/javascript">var date = new Date(); document.write(date.getFullYear());</script></a>&nbsp;<a href="http://www.nytco.com/">The 
+	New York Times Company</a>
+
+	<ul>
+	<li><a href="http://www.nytimes.com/privacy">Privacy Policy</a></li>
+	<li><a href="http://www.nytimes.com/search">Search</a></li>
+	<li><a href="http://www.nytimes.com/corrections.html">Corrections</a></li>
+	<li><a href="http://www.nytimes.com/rss" class="rssButton">RSS</a></li>
+	<li><a href="http://firstlook.nytimes.com">First Look</a></li>
+	<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+	<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">
+	Contact Us</a></li>
+	<li><a href="http://www.nytdigital.com/careers">Work for Us</a></li>
+
+	<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+	</ul>
+
+	</div><!-- close footer -->
+
+	</div><!-- close page -->
+
+	</div><!-- close shell -->
+
+	<!-- END FOOTER -->
+
+	
+	<!-- SiteCatalyst code version: G.5.
+	Copyright 1997-2003 Omniture, Inc. More info available at
+	http://www.omniture.com --><script language="JavaScript"><!--
+	var s_account="nytclassifieds,nytimesglobal"
+	var s_pageName="SmallInnsAndLodges/searchindex.asp"
+	var s_server="listings.nytimes.com"
+	var s_channel="classifieds"
+	var s_pageType=""
+	var s_prop1=""
+	var s_prop2=""
+	var s_prop3=""
+	var s_prop4=""
+	var s_prop5=""
+	var s_prop6=""
+	var s_prop7=""
+	var s_prop8=""
+	var s_prop9=""
+	var s_prop10=""
+	var s_prop12=""
+	var s_prop13=""
+	var s_prop14=""
+	var s_prop15=""
+	var s_prop16=""
+	var s_prop17=""
+	var s_prop18=""
+	var s_prop19=""
+	var s_prop20=""
+	var s_campaign=""
+	var s_state=""
+	var s_zip=""
+	var s_events=""
+	var s_products=""
+	var s_purchaseID=""
+	var s_eVar1=""
+	var s_eVar2=""
+	var s_eVar3=""
+	var s_eVar4=""
+	var s_eVar5=""
+	var s_eVar6=""
+	var s_eVar7=""
+	var s_eVar8=""
+	var s_eVar9=""
+	var s_eVar10=""
+	//--></script><script language="JavaScript" src="http://graphics8.nytimes.com/js/s_code_combined.js"></script>
+	<script language="JavaScript"><!--
+	s_code=s_dc(s_account);if(s_code)s_d.write(s_code)
+	//--></script>
+	<!-- End SiteCatalyst code version: G.5. -->
+
+	<script language="Javascript">Tacoda_AMS_DDC_addPair("t_section","General Classifieds")</script>
+	<script language="Javascript">Tacoda_AMS_DDC_addPair("site","nytimes.com")</script>
+	<script language="JavaScript">Tacoda_AMS_DDC("http://te.nytimes.com/tte/blank.gif","1.0")</script>  
+	
+	</body>
+	<!--BEGIN AD TAGS-->
+	
+    <!--END AD TAGS-->
+	</html>
+	

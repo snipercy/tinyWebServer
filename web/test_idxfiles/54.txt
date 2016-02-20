@@ -1,0 +1,1155 @@
+Set-cookie: RMID=272cf63864634ed9132f780c; expires=Saturday, 01-Dec-2012 18:04:31 GMT; path=/; domain=.nytimes.com
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Set-cookie: adxcl=t*2a284=4efe96cf:1322849071; expires=Saturday, 01-Dec-2012 18:04:31 GMT; path=/; domain=.nytimes.com
+Set-cookie: adxcs=s*2a284=0:1|s*2814a=0:1; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Arts - Television - The New York Times</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="noarchive">
+<meta name="description" content="Find news &amp; TV reviews on actors &amp; actresses, sitcoms, networks, cable, series, finale, movies, HBO, writers &amp; directors, talk shows, the Emmy Awards, listings &amp; ratings." />
+<meta name="keywords" content="Gable, Clark,Young, Loretta,Lewis, Judy,Deaths (Obituaries),Actors and Actresses,Television,Discovery Channel,Television,Public Broadcasting Service,Fox Broadcasting,Fox Broadcasting Co,Television,Finneran, Katie,Pressly, Jaime,Molina, Alfred,Clark, Mary Higgins,Clark, Carol Higgins,Turner Network Television,Pakula, Alan J,Corbett, John,Turow, Scott,Television,Harden, Marcia Gay,Pullman, Bill,Schiff, Richard,Television,Full Tilt Poker,National Broadcasting Co,Lee, Paul,Television,ABC Inc,Reality Television,E! Entertainment Television,Models (Professional),Television,Television,Television,Comedy and Humor,Mencia, Carlos,Television,Faison, Donald,TV Land,Knight, Wayne,Johnston, Kristen,Basche, David Alan,DVD (Digital Versatile Disc),Television" />
+<meta name="asset_id" content="">
+<meta name="CG" content="arts">
+<meta name="SCG" content="television">
+<meta name="PT" content="Section Front">
+<meta name="PST" content="Subsection Front">
+<link rel="canonical" href="http://www.nytimes.com/pages/arts/television/index.html">
+<meta name="msapplication-starturl" content="http://www.nytimes.com/" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.nytimes.com/services/xml/rss/nyt/Television.xml"/>
+
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/build/sectionfront/arts/television/styles.css" />
+<link rel="stylesheet" type="text/css" media="print" href="http://graphics8.nytimes.com/css/0.1/print/styles.css">
+<!--[if IE]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie.css);
+	    </style>
+	<![endif]-->
+<!--[if IE 6]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie6.css);
+	    </style>
+	<![endif]-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/DropDown.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/util/tooltip.js"></script>
+<script type="text/JavaScript">
+		var static_kw = "Gable; Clark;Young; Loretta;Lewis; Judy;Deaths (Obituaries);Actors and Actresses;Television;Discovery Channel;Television;Public Broadcasting Service;Fox Broadcasting;Fox Broadcasting Co;Television;Finneran; Katie;Pressly; Jaime;Molina; Alfred;Clark; Mary Higgins;Clark; Carol Higgins;Turner Network Television;Pakula; Alan J;Corbett; John;Turow; Scott;Television;Harden; Marcia Gay;Pullman; Bill;Schiff; Richard;Television;Full Tilt Poker;National Broadcasting Co;Lee; Paul;Television;ABC Inc;Reality Television;E! Entertainment Television;Models (Professional);Television;Television;Television;Comedy and Humor;Mencia; Carlos;Television;Faison; Donald;TV Land;Knight; Wayne;Johnston; Kristen;Basche; David Alan;DVD (Digital Versatile Disc);Television";
+		var dynamic_kw = "Gable;+Clark;Young;+Loretta;Lewis;+Judy;Deaths+%28Obituaries%29;Actors+and+Actresses;Television;Discovery+Channel;Television;Public+Broadcasting+Service;Fox+Broadcasting;Fox+Broadcasting+Co;Television;Finneran;+Katie;Pressly;+Jaime;Molina;+Alfred;Clark;+Mary+Higgins;Clark;+Carol+Higgins;Turner+Network+Television;Pakula;+Alan+J;Corbett;+John;Turow;+Scott;Television;Harden;+Marcia+Gay;Pullman;+Bill;Schiff;+Richard;Television;Full+Tilt+Poker;National+Broadcasting+Co;Lee;+Paul;Television;ABC+Inc;Reality+Television;E%21+Entertainment+Television;Models+%28Professional%29;Television;Television;Television;Comedy+and+Humor;Mencia;+Carlos;Television;Faison;+Donald;TV+Land;Knight;+Wayne;Johnston;+Kristen;Basche;+David+Alan;DVD+%28Digital+Versatile+Disc%29;Television";
+		var nyt_google_contents = dynamic_kw + static_kw;
+		var nyt_google_ad_channel = "arts_television";
+	</script>
+<script type="text/javascript" src="http://use.typekit.com/fml4qar.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" src="http://js.nyt.com/js2/build/sitewide/sitewide.js"></script>
+<script type="text/javascript" src="http://js.nyt.com/js/app/lib/jquery/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+</head>
+<body>
+<a name="top"></a>
+<div id="shell">
+
+<ul id="memberTools">
+
+<!-- start text link -->
+<li class="cColumn-TextAdsHeader">Subscribe:
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/television/index.html&pos=Bar1&sn2=ebfecbd0/3d62bfbd&sn1=b40a0f68/25a41e6a&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-hd-digi-h3847Q-d3847R&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DW47AF%26CMP%3D3847Q" target="_blank">
+Home Delivery</a> / <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/television/index.html&pos=Bar1&sn2=ebfecbd0/3d62bfbd&sn1=baec058e/381f84b2&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-hd-digi-h3847Q-d3847R&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fsubscriptions%2FMultiproduct%2Flp5558%2Ehtml%3Fadxc%3D162578%26adxa%3D267522%26page%3Dwww.nytimes.com/pages/arts/television/index.html%26pos%3DBar1%26campaignId%3D3847R" target="_blank">Digital</a>
+</li>
+<!-- end text link -->
+
+ 
+                        <li><a id="memberToolsLogin" href="https://myaccount.nytimes.com/auth/login">Log In</a></li>
+            <li><a href="https://myaccount.nytimes.com/gst/regi.html">Register Now</a></li>
+                            
+
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+</ul>
+<div class="tabsContainer">
+<ul id="mainTabs" class="tabs">
+<li class="first mainTabHome"><a href="http://www.nytimes.com">Home Page</a></li>
+<li class="mainTabTodaysPaper"><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+<li class="mainTabVideo"><a href="http://www.nytimes.com/video">Video</a></li>
+<li class="mainTabMostPopular"><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+<li class="mainTabTimesTopics"><a href="http://topics.nytimes.com/top/reference/timestopics">Times Topics</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+</script>	<div id="page" class="tabContent active">
+<div class="clearfix" id="masthead">
+
+<div class="singleAd" id="Middle1C">
+<!-- ADXINFO classification="button" campaign="ING_DirectSiteSearchQ111_1694929-nyt1"--><A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/television/index.html&pos=Middle1C&sn2=37090c49/dacf39e4&sn1=59756299/46b02203&camp=ING_DirectSiteSearchQ111_1694929-nyt1&ad=NEW.88x31.SiteSearch.Wizard&goto=http://ad.doubleclick.net/jump/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.31" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.31"
+ BORDER=0 WIDTH=88 HEIGHT=31
+ ALT="Click Here"></A>
+</div>
+
+<div id="searchWidget">
+<div class="inlineSearchControl">
+<form enctype="application/x-www-form-urlencoded" action="http://query.nytimes.com/search/sitesearch" method="get" name="searchForm" id="searchForm">
+<input type="hidden" value="full" name="date_select"/>
+<label for="searchQuery">Search All NYTimes.com</label>
+<input type="text" class="text" value="" size="" name="query" id="searchQuery"/>
+<input type="hidden" id="searchAll" name="type" value="nyt"/>
+<input type="image" id="searchSubmit" title="Search" alt="Search" width="22" height="19" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"/>
+</form>
+</div>
+</div>
+
+<div id="branding" >
+<a href="http://www.nytimes.com"><img src="http://graphics8.nytimes.com/images/misc/nytlogo152x23.gif" alt="New York Times" id="NYTLogo"/></a>
+</div>
+
+<div id="date">
+<p>
+Friday, December  2, 2011
+</p>
+</div>
+
+<h2>
+<a href="http://www.nytimes.com/pages/arts/television/index.html">Television</a>
+</h2>
+
+</div>
+<div class="navigation tabsContainer">
+<ul class="tabs">
+<li id="navWorld" class="first ">
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>	<li id="navUs" >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>	<li id="navNyregion" >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>	<li id="navBusiness" >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>	<li id="navTechnology" >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>	<li id="navScience" >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>	<li id="navHealth" >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>	<li id="navSports" >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>	<li id="navOpinion" >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>	<li id="navArts" class="selected">
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>	<li id="navStyle" >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>	<li id="navTravel" >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>	<li id="navJobs" >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>	<li id="navRealestate" >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>	<li id="navAutomobiles" >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li></ul>
+</div>
+<div class="subNavigation tabContent active"> 
+<div class="column first"> 
+<div class="columnGroup"> 
+<div class="inlineSearchControl"> 
+<form action="http://query.nytimes.com/search/television" method="get"> 
+<label for="tvsearchQuery">
+Search <span>TV Shows, Movies and People</span>
+</label> 
+<input id="tvsearchQuery" type="text" class="text" name="query" autocomplete="off"/> 
+<div class="querySuggestions" style="display:none;"></div> 
+<input type="image" title="Search" alt="Search" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"/> 
+</form> 
+</div> 
+</div> 
+</div> 
+<div class="column two last"> 
+<div class="columnGroup"> 
+<h5>More in Television </h5> 
+<ul> 
+<li class="first"><a href="http://www.nytimes.com/ref/arts/television/whatson-thisweek.html">What's On This Week</a></li> 
+<li class="two"><a href="http://mediadecoder.blogs.nytimes.com">Media Decoder</a></li> 
+<li class="three last"><a href="http://tvlistings.nytimes.com/tvlistings/ZCGrid.do?aid=nyt">TV Listings</a></li> 
+</ul> 
+</div> 
+</div> 
+</div>
+
+<div class="singleAd" id="TopAd">
+<!-- ADXINFO classification="leaderboard_728" campaign="Baby_Buggy_1782769-nyt13"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/television/index.html&pos=TopAd&sn2=fb908d4a/bde2a208&sn1=605ab3aa/26441441&camp=Baby_Buggy_1782769-nyt13&ad=728x90_BabyBuggy&goto=http%3A%2F%2Fbabybuggy%2Eorg%2Fnews%2Devents%2Fevents%2F" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/28/52/ad.285294/BB_10YR_NYT_LEADERBOARD_BANNER.gif" width="728" height="90" border="0"></a>
+
+</div>
+
+<div id="main">
+<div class="spanAB wrap">
+<div class="wideA">
+<div class="abColumn">
+<div class="aColumn">
+<!--cur:LedeStory395 prev:-->
+<div class="columnGroup first">
+<div class="ledeStory">
+<div class="ledePhoto runaroundRight w190">
+<div class="image"> 
+<a href="http://www.nytimes.com/2011/12/01/arts/television/judy-lewis-secret-daughter-of-hollywood-dies-at-76.html?ref=television"><img border="0" height="187" width="190" alt="Loretta Young with Judy Lewis, her daughter with Clark Gable. Ms. Lewis did not know her parents' identities until adulthood." src="http://graphics8.nytimes.com/images/2011/12/01/arts/LEWIS-3-obit/LEWIS-3-obit-articleInline.jpg"/></a>
+</div>
+<h6 class="credit">Courtesy of the Everett Collection</h6>
+<p class="caption">Loretta Young with Judy Lewis, her daughter with Clark Gable. Ms. Lewis did not know her parents' identities until adulthood.</p>
+</div>
+<div class="storyHeader">
+<h1><a href="http://www.nytimes.com/2011/12/01/arts/television/judy-lewis-secret-daughter-of-hollywood-dies-at-76.html?ref=television">Judy Lewis, Secret Daughter of Hollywood, Dies at 76</a></h1>
+<h6 class="byline">
+By PAUL VITELLO                    </h6>
+</div>
+<p class="summary">
+Ms. Lewis, the daughter of an unwed Loretta Young and Clark Gable, was 31 before she confronted her mother and learned the truth of her upbringing.</p>
+</div>
+<div class="storyFollowsLede">
+<h6 class="kicker">Television Review</h6>
+<h3><a href="http://tv.nytimes.com/2011/12/01/arts/television/weed-wars-on-discovery-channel-review.html?ref=television">
+Where Selling Pot Is No Longer a Backroom Deal</a></h3>
+<h6 class="byline">
+By MIKE HALE 
+</h6>
+<p class="summary">
+“Weed Wars” on Discovery Channel takes a look at the modern face of marijuana retailing.</p>
+</div>
+<div class="storyFollowsLede">
+<h6 class="kicker">Television Review | 'The Grove'</h6>
+<h3><a href="http://tv.nytimes.com/2011/12/01/arts/television/the-grove-for-world-aids-day-on-pbs-review.html?ref=television">
+A Battle in San Francisco Over a Garden of Memories</a></h3>
+<h6 class="byline">
+By NEIL GENZLINGER 
+</h6>
+<p class="summary">
+“The Grove,” on PBS Thursday in honor of World AIDS Day, examines a battle in San Francisco over the National AIDS Memorial Grove, dedicated to people who have died from the disease.</p>
+</div>
+</div>
+<!--cur:BlogModule prev:LedeStory395-->
+<div class="columnGroup singleRule ">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://artsbeat.blogs.nytimes.com/category/television/" title="ArtsBeat">
+<img src="http://graphics8.nytimes.com/images/blogs/artsbeat/artsbeat163.gif" alt="ArtsBeat"/>
+</a> 
+</h3> <div class="story first">
+<p class="date">December 2, 2011 <span class="timestamp">8:34 AM ET</span></p><h3><a href="http://artsbeat.blogs.nytimes.com/2011/12/02/x-factor-watch-payback-for-simon-cowell/?ref=television">'X Factor' Watch: Payback for Simon Cowell</a></h3>
+<p class="summary">
+Red herrings and other false steps on "The X Factor."</p>
+</div><div class="story">
+<p class="date">December 1, 2011 <span class="timestamp">4:33 PM ET</span></p><h3><a href="http://artsbeat.blogs.nytimes.com/2011/12/01/viewers-dont-hate-new-fox-sitcom/?ref=television">Viewers Don't Hate New Fox Sitcom</a></h3>
+<p class="summary">
+The premiere of "I Hate My Teenage Daughter" draws 6.8 million people.</p>
+</div><div class="story">
+<p class="date">December 1, 2011 <span class="timestamp"></span></p><h3><a href="http://artsbeat.blogs.nytimes.com/2011/12/01/montclair-film-festival-gains-directors-and-a-cheerleader-named-stephen-colbert/?ref=television">Montclair Film Festival Gains Directors, and a Cheerleader Named Stephen Colbert</a></h3>
+<p class="summary">
+Raphaela Neihausen and Thom Powers, who run the Stranger Than Fiction documentary series and the DOC NYC festival, will oversee programming for the first Montclair International Film Festival next year. In the meantime, Mr. Colbert, who sits on the Montclair festival's board, is happy to talk up the event.</p>
+</div><p class="refer">
+<a href="http://artsbeat.blogs.nytimes.com/category/television/" title="More Television News in ArtsBeat">More Television News in ArtsBeat &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<!--cur:StandardThumb prev:BlogModule-->
+<div class="columnGroup singleRule last">
+<div class="story">
+<h6 class="kicker">The TV Watch</h6>
+<div class="thumbnail">
+<a href="http://tv.nytimes.com/2011/11/30/arts/television/i-hate-my-teenage-daughter-on-fox.html?ref=television">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/arts/TEENAGE/TEENAGE-thumbStandard.jpg" width="75" height="75" alt="“I Hate My Teenage Daughter,” a Fox comedy making its debut on Wednesday, stars Jaime Pressly, left, and Katie Finneran as two divorced mothers who are desperate to be liked by their daughters." border="0" />
+</a>
+</div>
+<h3><a href="http://tv.nytimes.com/2011/11/30/arts/television/i-hate-my-teenage-daughter-on-fox.html?ref=television">
+Raising a Teenager? What’s Not to Hate?</a></h3>
+<h6 class="byline">
+By ALESSANDRA STANLEY	    </h6>
+<p class="summary">
+In “I Hate My Teenage Daughter,” on Fox, Jaime Pressly and Katie Finneran are two Texas mothers trying their best.</p>
+</div>
+<div class="story">
+<h6 class="kicker">The TV Watch</h6>
+<div class="thumbnail">
+<a href="http://tv.nytimes.com/2011/11/29/arts/television/scott-turows-innocent-on-tnt.html?ref=television">
+<img src="http://graphics8.nytimes.com/images/2011/11/29/arts/mystery/mystery-thumbStandard.jpg" width="75" height="75" alt="Bill Pullman plays the judge Rusty Sabich in "Scott Turow's Innocent," the first of six made-for-television movies that comprise TNT's "Mystery Movie Night."" border="0" />
+</a>
+</div>
+<h3><a href="http://tv.nytimes.com/2011/11/29/arts/television/scott-turows-innocent-on-tnt.html?ref=television">
+Prosecutor Who Can’t Avoid Trouble</a></h3>
+<h6 class="byline">
+By ALESSANDRA STANLEY	    </h6>
+<p class="summary">
+“Scott Turow’s Innocent,” a sequel to “Presumed Innocent,” begins TNT’s “Mystery Movie Night,” on Tuesday.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/28/business/media/today-repeats-help-fill-nbcs-late-night-lineup.html?ref=television">
+<img src="http://graphics8.nytimes.com/images/2011/11/28/business/nbc/nbc-thumbStandard.jpg" width="75" height="75" alt="Hoda Kotb, left, and Kathie Lee Gifford sipping white wine through clear flexible straws on the set of “Today.”" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/28/business/media/today-repeats-help-fill-nbcs-late-night-lineup.html?ref=television">
+‘Today’ Repeats Come to the Late-Night Rescue</a></h3>
+<h6 class="byline">
+By BRIAN STELTER	    </h6>
+<p class="summary">
+When NBC removed “Poker After Dark” from its overnight time slot, it looked to the fourth hour of “Today.”</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/28/business/media/new-life-surprisingly-for-abc-prime-time.html?ref=television">
+<img src="http://graphics8.nytimes.com/images/2011/11/28/business/28abc3/28abc3-thumbStandard.jpg" width="75" height="75" alt="The audience for “Happy Endings," a holdover from last season, has improved 55 percent." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/28/business/media/new-life-surprisingly-for-abc-prime-time.html?ref=television">
+New Life, Surprisingly, for ABC Prime Time</a></h3>
+<h6 class="byline">
+By BILL CARTER	    </h6>
+<p class="summary">
+The overachieving network has surprised critics who expected its season to be dominated by the demise of venerable shows like “Desperate Housewives.”</p>
+</div>
+<div class="story">
+<h6 class="kicker">Television Review</h6>
+<div class="thumbnail">
+<a href="http://tv.nytimes.com/2011/11/28/arts/television/scouted-reality-show-on-e-review.html?ref=television">
+<img src="http://graphics8.nytimes.com/images/2011/11/28/arts/SCOUTED/SCOUTED-thumbStandard.jpg" width="75" height="75" alt="Cheyann, one of the models discovered on “Scouted,” a new reality show." border="0" />
+</a>
+</div>
+<h3><a href="http://tv.nytimes.com/2011/11/28/arts/television/scouted-reality-show-on-e-review.html?ref=television">
+Human Treasure Hunt: Scavenging for Moldable Models</a></h3>
+<h6 class="byline">
+By JON CARAMANICA	    </h6>
+<p class="summary">
+“Scouted,” a reality show on E, is about scavenging for potential models.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/arts/television/new-girls-2-broke-girls-last-man-standing-new-season-for-old-jokes.html?ref=television">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/arts/27SUBJPCOMEDY1/27SUBJPCOMEDY1-thumbStandard.jpg" width="75" height="75" alt="Mary Tyler Moore , career woman, with Ed Asner, abrasive boss, in “The Mary Tyler Moore Show.”" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/arts/television/new-girls-2-broke-girls-last-man-standing-new-season-for-old-jokes.html?ref=television">
+Naked Truth: New Sitcoms Are Reruns</a></h3>
+<h6 class="byline">
+By NEIL GENZLINGER	    </h6>
+<p class="summary">
+New girls, broke girls, dumb dads, clueless bosses: everything old is new again in a supposed comeback season for sitcoms.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/11/27/arts/television/carlos-mencia-new-territory-on-comedy-central.html ">A Comedian's Act, Leaner but Not Meaner </a></li>
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001186569" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/11/27/arts/television/new-girls-2-broke-girls-last-man-standing-new-season-for-old-jokes.html"></span></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">Television</h6>
+<h3><a href="http://www.nytimes.com/2011/11/27/arts/television/carlos-mencia-new-territory-on-comedy-central.html?ref=television">
+A Comedian’s Act Is Leaner but Not Meaner</a></h3>
+<h6 class="byline">
+By JOEL KELLER	    </h6>
+<p class="summary">
+The comedian Carlos Mencia — who has a coming Comedy Central special, “Carlos Mencia: New Territory” — has shed 70 pounds and the weight of a controversy dogging his heels.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Television Review | 'The Exes'</h6>
+<div class="thumbnail">
+<a href="http://tv.nytimes.com/2011/11/26/arts/television/the-exes-with-donald-faison-and-wayne-knight-review.html?ref=television">
+<img src="http://graphics8.nytimes.com/images/2011/11/26/arts/exes/exes-thumbStandard.jpg" width="75" height="75" alt=""The Exes": From left, David Alan Basche, Wayne Knight and Donald Faison in this new TV Land show that will be broadcast on Wednesday nights at 10:30, Eastern and Pacific times; 9:30, Central time." border="0" />
+</a>
+</div>
+<h3><a href="http://tv.nytimes.com/2011/11/26/arts/television/the-exes-with-donald-faison-and-wayne-knight-review.html?ref=television">
+The New Roomie Proves That Three Is a Crowd, Especially When He Overshares</a></h3>
+<h6 class="byline">
+By MIKE HALE	    </h6>
+<p class="summary">
+TV Land’s latest comedy, “The Exes,” features the sitcom veterans Kristen Johnston, Wayne Knight and Donald Faison.</p>
+</div>
+</div>
+<div id="adxSponLink" class="columnGroup singleRule"></div>
+</div><!--close .aColumn -->
+<div class="bColumn">
+<div class="columnGroup SectionFront3Col first">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<h6 class="sectionHeader">Video</h6>
+<div class="columnGroup first">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://video.nytimes.com/video/2011/11/17/arts/television/100000001178170/excerpt-woody-allen-a-documentary.html?ref=television">
+<img src="http://graphics8.nytimes.com/images/2011/11/17/multimedia/video-woody1/video-woody1-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay video">Video</span>
+</a>
+</div>
+<h5><a href="http://video.nytimes.com/video/2011/11/17/arts/television/100000001178170/excerpt-woody-allen-a-documentary.html?ref=television">
+Excerpt: Woody Allen: A Documentary</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A scene from a new “American Masters” special about Mr. Allen that will debut on PBS on Sunday.</p>
+<ul class="refer">
+<li><a href="http://tv.nytimes.com/2011/11/18/arts/television/woody-allen-a-documentary-on-pbs-review.html" target="_blank">Related Review</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<div class="columnGroup first">
+<h6 class="sectionHeader"> 2011 Holiday Gift Guide </h6>
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/gift-guide/holiday-2011/categories.html?ref=television">
+<img src="http://graphics8.nytimes.com/images/apps/gift-guide/guide/holiday-2011/promos/giftguide2011-190b.png" width="190" height="126" alt="" border="0" />
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/gift-guide/holiday-2011/categories.html?ref=television">
+</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Plan your holiday shopping with The New York Times 2011 Holiday Gift Guide.</p>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="story">
+<h6 class="kicker">Holiday Gift Guide</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/25/arts/television/tv-shows-on-dvd-roundup-holiday-gift-guide-2011.html?ref=television">
+<img src="http://graphics8.nytimes.com/images/2011/11/25/arts/25tvdvd/25tvdvd-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/25/arts/television/tv-shows-on-dvd-roundup-holiday-gift-guide-2011.html?ref=television">
+Catching Up on TV Shows, Past and Present</a></h3>
+<h6 class="byline">
+By MIKE HALE	    </h6>
+<p class="summary">
+A look at TV shows on DVD for the holiday season.</p>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<h6 class="sectionHeader">The New Season</h6>
+<div class="columnGroup first">
+<script type="text/javascript" src="http://graphics8.nytimes.com/packages/js/multimedia/bundles/SlidingBColGallery.js"></script>
+<script language="javascript" type="text/javascript" src="http://graphics8.nytimes.com/packages/js/multimedia/data/SlidingGallery/2011fallTVpreview.js"></script>
+<link type="text/css" rel="stylesheet" href="http://graphics8.nytimes.com/packages/css/multimedia/bundles/SlidingBColGallery.css" />
+<div id="NYTMM_Embed95">
+</div>
+<script> var _obj = new NYTMM.SlidingBColGallery($("NYTMM_Embed95"),190,126,chameleonData); _obj.setFixedHeight(250); _obj.setPhotoData(chameleonData.photos); </script>        	</div>
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">TV Highlights</h6><div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/ref/arts/television/whatson-thisweek.html?ref=television">
+<img src="http://www.nytimes.com/images/2009/02/26/arts/television/whatsontonight75x75.gif" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/ref/arts/television/whatson-thisweek.html?ref=television">
+What’s On This Week</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A daily updated summary of the week in TV.</p>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://mediadecoder.blogs.nytimes.com/" title="Media Decoder">
+<img src="http://graphics8.nytimes.com/images/blogs_v3/mediadecoder/mediadecoder190.png" alt="Media Decoder"/>
+</a> 
+</h3> <div class="story first">
+<h3><a href="http://mediadecoder.blogs.nytimes.com/2011/12/02/with-verizons-3-6-billion-spectrum-deal-cable-and-wireless-inch-closer/?ref=television">With Verizon's $3.6 Billion Spectrum Deal, Cable and Wireless Inch Closer</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">11:37 AM ET</span></p>
+</div><div class="story">
+<h3><a href="http://mediadecoder.blogs.nytimes.com/2011/12/02/the-breakfast-meeting-for-dec-2/?ref=television">The Breakfast Meeting for Dec. 2</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">9:51 AM ET</span></p>
+</div><div class="story">
+<h3><a href="http://mediadecoder.blogs.nytimes.com/2011/12/01/opponent-of-antipiracy-bills-signs-on-to-a-counterproposal/?ref=television">Opponent of Antipiracy Bill Backs Counterproposal</a></h3>
+<p class="date">December 1, 2011 <span class="timestamp">7:10 PM ET</span></p>
+</div><p class="refer">
+<a href="http://mediadecoder.blogs.nytimes.com/" title="Go to Blog">Go to Blog &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<h6 class="sectionHeader flushBottom">Multimedia</h6>
+<div class="columnGroup firstArticleInline">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/slideshow/2011/11/18/arts/REGIS.html?ref=television">
+<img src="http://graphics8.nytimes.com/images/2011/11/18/arts/REGIS-slide-KW2L/REGIS-slide-KW2L-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay slideshow">Slide Show</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/slideshow/2011/11/18/arts/REGIS.html?ref=television">
+Regis Signs Off</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Regis Philbin took his final bow on “Live! With Regis and Kelly” on Friday.</p>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://video.nytimes.com/video/2011/11/17/arts/television/100000001178135/excerpt-woody-allen-a-documentary.html?ref=television">
+<img src="http://graphics8.nytimes.com/images/2011/11/17/multimedia/video-woody2/video-woody2-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay video">Video</span>
+</a>
+</div>
+<h5><a href="http://video.nytimes.com/video/2011/11/17/arts/television/100000001178135/excerpt-woody-allen-a-documentary.html?ref=television">
+Excerpt: 'Woody Allen: A Documentary'</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A scene from a new “American Masters” special about Mr. Allen that will debut on PBS on Sunday.</p>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://video.nytimes.com/video/2011/10/13/arts/television/100000001111101/excerpt-happy-endings.html?ref=television">
+<img src="http://graphics8.nytimes.com/images/2011/10/13/multimedia/video-happy/video-happy-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay video">Video</span>
+</a>
+</div>
+<h5><a href="http://video.nytimes.com/video/2011/10/13/arts/television/100000001111101/excerpt-happy-endings.html?ref=television">
+Excerpt: 'Happy Endings'</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+The ABC sitcom is the only 'Friends' clone left from last season.</p>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://video.nytimes.com/video/2011/09/25/arts/television/100000001073253/excerpt-dancing-with-the-stars.html?ref=television">
+<img src="http://graphics8.nytimes.com/images/2011/09/25/multimedia/video-dancing/video-dancing-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay video">Video</span>
+</a>
+</div>
+<h5><a href="http://video.nytimes.com/video/2011/09/25/arts/television/100000001073253/excerpt-dancing-with-the-stars.html?ref=television">
+Excerpt: 'Dancing with the Stars'</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+The professional dancers are becoming the stars of the talent competition.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/09/26/arts/television/dancing-with-the-stars-is-turned-on-its-head.html?ref=arts" target="_blank">Related Article</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup singleRule lastArticleInline">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/slideshow/2011/09/25/arts/television/25NOVICK.html?ref=television">
+<img src="http://graphics8.nytimes.com/images/2011/09/25/arts/television/25NOVICK-slide-B5VL/25NOVICK-slide-B5VL-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay slideshow">Slide Show</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/slideshow/2011/09/25/arts/television/25NOVICK.html?ref=television">
+Scenes From ‘Prohibition’</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+“Prohibition,” the new documentary by Ken Burns and Lynn Novick, will have its premiere on PBS on Oct. 2.</p>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule last">
+
+
+<div class="singleAd" id="Box2">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/television/index.html&pos=Box2&sn2=ebfd4bd1/3d5f2fbd&sn1=38d43609/ab3147cd&camp=nyt2011-circ-120x90-weekender-36H38&ad=071511-120x90-weekender-36H38&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DWC7AA%26CMP%3D36H38" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/13/ad.271312/11-0920_HDWeekender2_120x90.jpg" width="120" height="90" border="0"></a>
+
+</div>
+
+</div>
+</div><!--close .bColumn -->
+</div><!--close .abColumn -->
+<div class="cColumn">
+<!--Ads  -->                    <div class="columnGroup first">
+
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<style type="text/css">
+#zcc-grid-label {
+font-family:Arial,Helvetica,sans-serif;
+font-size:1.4em;
+font-weight:bold;
+margin:0 0 4px;
+}
+#zcc-wrap {
+margin:0;
+padding:0 0 12px;
+width:335px;
+}
+.zcc-primetime {
+border-collapse:collapse;
+border-left:1px solid #CCCCCC;
+border-top:1px solid #CCCCCC;
+caption-side:top;
+color:#333333;
+font-family:Arial,Helvetica,sans-serif;
+line-height:1.3em;
+margin:0 0 8px;
+table-layout:fixed;
+width:100%;
+}
+#zcc-wrap td {
+border-bottom:1px solid #CCCCCC;
+border-right:1px solid #CCCCCC;
+font-size:1em;
+overflow:hidden;
+padding:3px 4px 2px;
+vertical-align:top;
+}
+#zcc-wrap th {
+border-bottom:1px solid #CCCCCC;
+border-right:1px solid #CCCCCC;
+font-size:0.93em;
+font-weight:bold;
+line-height:13px;
+overflow:hidden;
+padding:3px 4px;
+text-align:center;
+white-space:nowrap;
+}
+#zcc-wrap a {
+color:#004276;
+font-weight:bold;
+text-decoration:none;
+}
+#zcc-wrap a:hover {
+text-decoration:underline;
+}
+#zcc-wrap .zcc-station {
+padding-top:5px;
+text-align:center;
+vertical-align:middle;
+}
+#zcc-wrap img {
+margin:0 0 2px;
+}
+#zcc-complete {
+position:relative;
+}
+#zcc-complete td {
+border:0 none;
+font-size:99.5%;
+padding-top:8px;
+position:absolute;
+}
+</style>
+<h2 id="zcc-grid-label">What’s On Tonight</h2>
+<script type="text/javascript">
+        
+            var divName = "zcc-wrap";
+        
+    </script><script type="text/javascript" src="http://tvlistings.nytimes.com/tvlistings/zbPrimeTimeGrid.jsp?v=1&aid=nyt&zipcode=10128&lineupId=NY31534:X&sList=10003,10098,10991,10212"></script><div id="zcc-wrap"><script type="text/javascript">
+            
+                buildXHTML();
+                var divEl = document.getElementById(divName);
+                divEl.getElementsByTagName('TH')[0].setAttribute('id','zcc-head-station');
+                divEl.getElementsByTagName('TH')[0].innerHTML = 'Station';
+                var tdBot = document.getElementById('zcc-complete').getElementsByTagName('TD')[0];
+                tdBot.firstChild.innerHTML = 'View Complete TV Listings »';
+            
+        </script></div>
+</div>
+<!--Ads Simple -->                    <div class="columnGroup ">
+
+			
+<div class="bigAd" id="SFMiddle">
+<!-- ADXINFO classification="bigad" campaign="Google_TVq4ND11-1778341a-nyt2"--><div align="center">
+<SCRIPT type="text/javascript" SRC="http://ad.doubleclick.net/adj/N5295.NewYorkTimes/B6014979.4;sz=300x250;pc=nyt172676A282149;ord=2011.12.02.18.04.31;click=http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/television/index.html&pos=SFMiddle&camp=Google_TVq4ND11-1778341a-nyt2&ad=Google_TVq4ND11.TV.Cluster.dart300x250&sn2=350ec78b/28a77678&snr=doubleclick&snx=1322848855&sn1=db6fa25a/ca2c79ce&goto=">
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/television/index.html&pos=SFMiddle&sn2=350ec78b/28a77678&sn1=d579649d/b592fd49&camp=Google_TVq4ND11-1778341a-nyt2&ad=Google_TVq4ND11.TV.Cluster.dart300x250&goto=http://ad.doubleclick.net/jump/N5295.NewYorkTimes/B6014979.4;sz=300x250;pc=nyt172676A282149;ord=2011.12.02.18.04.31" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N5295.NewYorkTimes/B6014979.4;sz=300x250;pc=nyt172676A282149;ord=2011.12.02.18.04.31"
+ BORDER=0 WIDTH=300 HEIGHT=250
+ ALT="Click Here"></A>
+</NOSCRIPT>
+</div>
+</div>
+
+
+
+<div class="singleAd" id="Box3">
+<!-- ADXINFO classification="feature_squares" campaign="nyt2011-regilite-P1-TimesLimited-ros"--><iframe title="regilite" src="https://myaccount.nytimes.com/regilite?product=LT" width="336" height="90" marginheight="0" marginwidth="0" frameborder="0" vspace="0" hspace="0" scrolling="no"></iframe>
+</div>
+
+
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<div id="mostPopWidget" class="singleRule"> 
+
+      <!-- MOST POPULAR MODULE STARTS -->
+      <h4>MOST POPULAR - ARTS</h4>
+         <div id="tabsContainer">
+         <ul class="tabs">
+            <li class="selected"><a href="#">E-Mailed</a></li>
+            <li><a href="#">Blogged</a></li>
+            
+            <li><a href="#">Viewed</a></li>
+            
+         </ul>
+         </div>
+            <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"></HEAD><div class="tabContent tabContentActive" id="mostEmailed"><ol>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/arts/LEWIS-3-obit/LEWIS-3-obit-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/01/arts/television/judy-lewis-secret-daughter-of-hollywood-dies-at-76.html?src=me&amp;ref=arts" title="Click to go to this article">Judy Lewis, Secret Daughter of Hollywood, Dies at 76</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/arts/02STORY1_SPAN/02STORY1-thumbStandard.jpg"  kicker="Art Review"><a href="http://www.nytimes.com/2011/12/02/arts/design/storytelling-in-japanese-art-at-the-met-review.html?src=me&amp;ref=arts" title="Click to go to this article">Art Review: Unfurling a Thousand Years of Gods, Demons and Romance</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/29/books/best2011cap/best2011cap-thumbStandard.jpg"  kicker="Holiday Gift Guide"><a href="http://www.nytimes.com/2011/12/11/books/10-best-books-of-2011.html?src=me&amp;ref=arts" title="Click to go to this article">Holiday Gift Guide: The 10 Best Books of 2011</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/arts/02CORIO_SPAN/02CORIO-thumbStandard.jpg"  kicker="Movie Review | 'Coriolanus'"><a href="http://movies.nytimes.com/2011/12/02/movies/ralph-fiennes-and-vanessa-redgrave-in-coriolanus-review.html?src=me&amp;ref=arts" title="Click to go to this article">Movie Review | 'Coriolanus': He&rsquo;s the Hero of the People, and He Hates It</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/arts/02LUMINOUS/02LUMINOUS-thumbStandard.jpg"  kicker="Art Review"><a href="http://www.nytimes.com/2011/12/02/arts/design/luminous-modernism-at-scandinavia-house-review.html?src=me&amp;ref=arts" title="Click to go to this article">Art Review: Shadowy Lure of Scandinavia Fights the Bright Pull of Paris</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/arts/02SHAME/02SHAME-thumbStandard-v2.jpg"  kicker="Movie Review | 'Shame'"><a href="http://movies.nytimes.com/2011/12/02/movies/shame-directed-by-steve-mcqueen-review.html?src=me&amp;ref=arts" title="Click to go to this article">Movie Review | 'Shame': Only One Thing on His Mind</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/arts/01faust-span/01faust-span-thumbStandard.jpg"  kicker="Music Review"><a href="http://www.nytimes.com/2011/12/01/arts/music/a-review-of-the-metropolitan-operas-faust.html?src=me&amp;ref=arts" title="Click to go to this article">Music Review: This Faust Builds Atom Bombs (He Still Sings)</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/04/arts/04ONCE2/04ONCE2-thumbStandard.jpg"  kicker="Arts & Leisure"><a href="http://www.nytimes.com/2011/12/04/theater/the-film-once-becomes-a-new-york-musical.html?src=me&amp;ref=arts" title="Click to go to this article">Arts &amp; Leisure: A Second Arrival for &lsquo;Once&rsquo;</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/arts/02BONNIE/02BONNIE-thumbStandard.jpg"  kicker="Theater Review | 'Bonnie & Clyde'"><a href="http://theater.nytimes.com/2011/12/02/theater/reviews/bonnie-clyde-with-laura-osnes-and-jeremy-jordan-review.html?src=me&amp;ref=arts" title="Click to go to this article">Theater Review | 'Bonnie &amp; Clyde': Armed and Amorous, Committing Cold-Blooded Musical</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/arts/sub-carpetbagger-1/sub-carpetbagger-1-thumbStandard.jpg"  kicker="The Carpetbagger"><a href="http://www.nytimes.com/2011/12/01/movies/awardsseason/in-film-so-many-men-on-the-verge-of-a-crisis.html?src=me&amp;ref=arts" title="Click to go to this article">The Carpetbagger: American Masculinity, Shown in All Its Angst</a></li>
+</ol>
+        <a class="more" href="http://www.nytimes.com/gst/mostemailed.html">Go to Complete List &#x00bb;</a>
+        </div><!-- #most emailed top10 -->
+
+            <div class="tabContent" id="mostBlogged">
+<ol><li><a href="http://www.nytimes.com/2006/12/04/arts/04wigg.html?bl&amp;ex=1165986000&amp;en=1fa26d70cd47cd44&amp;ei=5087%0A" title="Click to go to this article">Hush, Mama, Don't You Cry, A New Yellow Wiggle Will Sing</a></li></ol>
+<a class="more" href="http://www.nytimes.com/gst/mostblogged.html">Go to Complete List &#x00bb;</a>
+</div><!-- #most blogged top10 -->
+
+            
+            <div class="tabContent" id="mostViewed"><ol>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/arts/LEWIS-3-obit/LEWIS-3-obit-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/01/arts/television/judy-lewis-secret-daughter-of-hollywood-dies-at-76.html?src=mv&amp;ref=arts" title="Click to go to this article">Judy Lewis, Secret Daughter of Hollywood, Dies at 76</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/arts/02STORY1_SPAN/02STORY1-thumbStandard.jpg"  kicker="Art Review"><a href="http://www.nytimes.com/2011/12/02/arts/design/storytelling-in-japanese-art-at-the-met-review.html?src=mv&amp;ref=arts" title="Click to go to this article">Art Review: Unfurling a Thousand Years of Gods, Demons and Romance</a></li>
+<li kicker="Carpetbagger"><a href="http://carpetbagger.blogs.nytimes.com/2011/12/01/is-it-the-year-of-the-dude-film/?src=mv&amp;ref=arts" title="Click to go to this article">Carpetbagger: Is It the Year of the Dude Film?</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/arts/02LUMINOUS/02LUMINOUS-thumbStandard.jpg"  kicker="Art Review"><a href="http://www.nytimes.com/2011/12/02/arts/design/luminous-modernism-at-scandinavia-house-review.html?src=mv&amp;ref=arts" title="Click to go to this article">Art Review: Shadowy Lure of Scandinavia Fights the Bright Pull of Paris</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/arts/01faust-span/01faust-span-thumbStandard.jpg"  kicker="Music Review"><a href="http://www.nytimes.com/2011/12/01/arts/music/a-review-of-the-metropolitan-operas-faust.html?src=mv&amp;ref=arts" title="Click to go to this article">Music Review: This Faust Builds Atom Bombs (He Still Sings)</a></li>
+<li kicker="ArtsBeat"><a href="http://artsbeat.blogs.nytimes.com/2011/12/02/x-factor-watch-payback-for-simon-cowell/?src=mv&amp;ref=arts" title="Click to go to this article">ArtsBeat: 'X Factor' Watch: Payback for Simon Cowell</a></li>
+<li kicker="ArtsBeat"><a href="http://artsbeat.blogs.nytimes.com/2011/11/30/kanye-west-tops-grammy-nominations/?src=mv&amp;ref=arts" title="Click to go to this article">ArtsBeat: Kanye West Tops Grammy Nominations</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/04/arts/04KEYS_SPAN/04KEYS-thumbStandard.jpg"  kicker="Arts & Leisure"><a href="http://www.nytimes.com/2011/12/04/arts/music/the-black-keys-change-gears-with-el-camino.html?src=mv&amp;ref=arts" title="Click to go to this article">Arts &amp; Leisure: First, Hit It Big. Then Change.</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/arts/02RAUSCHENBERG_SPAN/SUBRAUSCHENBERG1-thumbStandard.jpg"  kicker="Art Review"><a href="http://www.nytimes.com/2011/12/02/arts/design/selections-from-the-private-collection-of-robert-rauschenberg-at-gagosian-gallery.html?src=mv&amp;ref=arts" title="Click to go to this article">Art Review: A Portrait of the Artist as Exuberant Collector</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/arts/EXPAND/EXPAND-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/01/arts/design/san-francisco-museum-of-modern-art-expansion-aims-for-friendly.html?src=mv&amp;ref=arts" title="Click to go to this article">An Imposing Museum Turns Warm and Fuzzy</a></li>
+</ol>
+        </div><!-- #most viewed top10 -->
+
+            
+         <script type="text/javascript">new Accordian("mostPopWidget");</script>
+      <!-- MOST POPULAR MODULE ENDS -->
+   
+
+</div><!--close mostPopWidget -->
+</div>
+<!--Ads Simple -->                    <div class="columnGroup ">
+			
+
+<div class="bigAd" id="Box1">
+<!-- ADXINFO classification="Module" campaign="nyt2011_module_movies_dude_film_hp_ros_db"--><!-- MARKETING MODULE -->
+<div style="border:solid #999;border-width:1px;font-family:Arial,sans-serif;text-align:left; width:334px;background:#fff;" class="clearfix wrap">
+  <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/television/index.html&pos=Box1&sn2=ebfd4bd0/3d5f1fbd&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/2011/12/01/is-it-the-year-of-the-dude-film/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-PH%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm11/movies_120211.jpg" width="334" height="154" border="0" alt=""></a> 
+  <div style="padding:7px 9px 0;background:#fff">
+      <h2 style="font-size:22px;line-height:24px; margin:0;padding:0 0 4px;"><a style="color:#004276;" target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/television/index.html&pos=Box1&sn2=ebfd4bd0/3d5f1fbd&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/2011/12/01/is-it-the-year-of-the-dude-film/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-HDR%26WT.mc_ev=click%26WT.mc_c=175075">Is it the year of the dude film?</a></h2>
+
+      <p style="margin:0 0 3px; padding:0;font-size: 11px;"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/television/index.html&pos=Box1&sn2=ebfd4bd0/3d5f1fbd&sn1=9f65a43f/6fae85ce&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://nytimes.com/movies/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-URL%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank" style="font-size:11px;margin:3px 0;padding:0;font-family:Arial,sans-serif;  color:#000; text-transform:uppercase;">Also in Movies &raquo;</a></p>
+      <ul style="font-size:12px;margin:0; padding-bottom: 10px; border-bottom:1px solid #ccc;" class="refer">
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/television/index.html&pos=Box1&sn2=ebfd4bd0/3d5f1fbd&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/2011/11/29/patton-oswalt-steals-the-scene-at-gotham-awards/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-L1%26WT.mc_ev=click%26WT.mc_c=175075" style="color: #004276">All about the Gotham Awards</a></li>
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/television/index.html&pos=Box1&sn2=ebfd4bd0/3d5f1fbd&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-L2%26WT.mc_ev=click%26WT.mc_c=175075" style="color: #004276">Awards season from The Carpetbagger</a></li>
+      </ul>
+    </div>
+ 
+ <div style="padding:5px 9px; float:left; width:316px; background:#fff"> <a style="float:left" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/television/index.html&pos=Box1&sn2=ebfd4bd0/3d5f1fbd&sn1=9f65a43f/6fae85ce&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://nytimes.com/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-LOGO%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/nytimes.gif" alt="nytimes.com" width="116" height="18" border="0"></a><a style="float:right" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/television/index.html&pos=Box1&sn2=ebfd4bd0/3d5f1fbd&sn1=9f65a43f/6fae85ce&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://nytimes.com/movies/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-VRT%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/verticals_movies.gif" alt="Movies" width="120" height="18" border="0"></a></div><br clear="all">
+
+</div>
+  <!-- /MARKETING MODULE -->
+
+
+</div>
+
+
+<div class="singleAd" id="Middle5">
+<!-- ADXINFO classification="FeaturedProduct" campaign="nyt2011-mktg-giftguides-336x79-ros"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/television/index.html&pos=Middle5&sn2=9e735bfa/637080f7&sn1=d6f7d74/359f08bf&camp=nyt2011-mktg-giftguides-336x79-ros&ad=GG-D-I-NYT-AD-FP-HGG-ROS-1111-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fgift%2Dguide%2Fholiday%2D2011%2Fcategories%2Ehtml%3FWT%2Emc%5Fid%3DGG%2DD%2DI%2DNYT%2DAD%2DFP%2DHGG%2DROS%2D1111%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D173906" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/28/40/ad.284068/GiftGuide_336x79.gif" width="336" height="79" border="0"></a>
+
+</div>
+
+
+
+<!--[TwoColumnAdLeft - Begin] -->
+	<div class="adHeader">
+<h4>
+Advertisements	    </h4>
+</div>
+<div class="cColumn-TextAdsBox">
+	<div class="cColumn-TextAdsLeft">
+<div class="cColumn-TextAd">
+<!-- ADXINFO classification="SiteForADay" campaign="nyt2011-mktg-arts_and_ents-s4d_ros"--><div style="width:320px; height:60px;"> 
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/television/index.html&pos=Right5A&sn2=9a7a0cfb/18aaecc4&sn1=6a1102ca/9e7f5eda&camp=nyt2011-mktg-arts_and_ents-s4d_ros&ad=AR-D-I-NYT-AD-S4D-AandE-ROS-1211-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fevents%2Findex%2Ehtml%3FWT%2Emc%5Fid%3DAR%2DD%2DI%2DNYT%2DAD%2DS4D%2DAandE%2DROS%2D1211%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D175108" target="_blank"> 
+<img style="float:left; margin-right:10px;" src="http://graphics8.nytimes.com/adx/images/ADS/28/59/ad.285977/11-2187_ArtsEntertainment_86x60.gif" width="86" height="60" border="0" style="vertical-align:text-top;"></a>
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/television/index.html&pos=Right5A&sn2=9a7a0cfb/18aaecc4&sn1=6a1102ca/9e7f5eda&camp=nyt2011-mktg-arts_and_ents-s4d_ros&ad=AR-D-I-NYT-AD-S4D-AandE-ROS-1211-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fevents%2Findex%2Ehtml%3FWT%2Emc%5Fid%3DAR%2DD%2DI%2DNYT%2DAD%2DS4D%2DAandE%2DROS%2D1211%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D175108" target="_blank">  <br />Introducing: The Interactive Arts & Entertainment Guide</a>
+</div>
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+</div>
+	</div>
+<!--[TwoColumnAdLeft - End] -->
+<div class="advertisementColumnGroup">
+<!--[MarketPlaceGridAd - Begin] -->
+
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+    <!--[MarketPlaceGridAd - End] -->
+</div>
+</div>
+<!--Ads Ads -->                    <div class="columnGroup last">
+
+<div class="singleAd" id="Feature1">
+<!-- ADXINFO classification="hp-module" campaign="feature1-1280FifthAve-18-1712178-cla"--><!--Ad Template Begins Here -->
+<div class="story advertisement">
+<div class="callout">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/television/index.html&pos=Feature1&sn2=2f7eea22/639a4895&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/15/ad.271512/7.23.11_BRK11-2614_1280_nyt.com_module_update2.jpg" width="173" height="98" border="0" alt="Click for Details"></a>
+</div>
+<h5>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/television/index.html&pos=Feature1&sn2=2f7eea22/639a4895&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank"></a>
+</h5>
+<p class="summary"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/television/index.html&pos=Feature1&sn2=2f7eea22/639a4895&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank">Designed by<br>Robert&nbsp;&nbsp;A.M. Stern<br>Overlooking Central Park<br>Up to 5 Bedrooms</a></p>
+<div class="adCreative">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/television/index.html&pos=Feature1&sn2=2f7eea22/639a4895&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/15/ad.271512/5.19.11_1280_logo_78x36.jpg" width="78" height="36"></a>
+</div>
+</div>
+<!--Ad Template Ends Here -->
+</div>
+
+
+<div class="singleAd" id="SponLink">
+<script language="JavaScript" type="text/javascript">
+    
+    // Sponlink_short
+
+    NYTD.GoogleAds.getGoogleAds("AFC", { 
+        google_ad_client:'nytimes_section_var',
+        ad_target_list:'sponLink'
+    });
+</script>
+</div>
+
+</div>
+</div><!--close cColumn -->
+</div><!--close wideA -->
+</div><!--close spanAB -->
+</div><!--close main -->
+<div id="footer">
+<ul class="first">
+<li class="first"><a href="http://www.nytimes.com">Home</a></li>
+<li >
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li>
+<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+</ul>    <ul>
+<li class="first"><a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&copy; 2011</a> <a href="http://www.nytco.com/">The New York Times Company</a></li>
+<li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Terms of Service</a></li>
+<li class="termsOfSale"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+<li><a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a></li>
+<li><a class="rssButton" href="http://www.nytimes.com/rss">RSS</a></li>
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+<li><a href="http://www.nytco.com/careers">Work for Us</a></li>
+<li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+</ul>
+</div>
+</div><!--close page -->
+</div><!--close shell -->
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/lib/prototype/1.6.0.2/prototype.js"></script>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/lib/prototype/extensions/event.js"></script>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/lib/NYTD/scrollbox/1.0/scrollbox.js"></script>
+
+
+
+
+
+
+<div align="center">
+<!-- Audience Incite 300x250 Survey Banner Tag for NYTimes:
+Start Vizu Audience Incite Tag / 300x250 Survey Banner / NYTimes -->
+<iframe src="http://puma.vizu.com/cdn/00/00/29/73/incite_300x250.html?wc=NYTimes;" width="300" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+<!-- End Vizu Audience Incite Tag / 300x250 Survey Banner / NYTimes -->
+</div>
+
+
+<IMG SRC="/adx/bin/clientside/6b6ae19fQ2FBfXPPZ@Gfo6HYmQ20hEQ20fGY@Q20h" height="1" width="3">
+
+<script type="text/javascript" language="JavaScript">
+// Written by /usr/local/knews/bin/commentcount.pl Fri Dec  2 13:02:02 2011
+var NYTArticleCommentCounts = {
+"100000001190843":{count:147, commentsEnabled:false},
+"100000001190858":{count:204, commentsEnabled:false},
+"100000001190907":{count:49, commentsEnabled:false},
+"100000001191255":{count:237, commentsEnabled:false},
+"100000001191704":{count:133, commentsEnabled:false},
+"100000001191724":{count:100, commentsEnabled:false},
+"100000001191950":{count:122, commentsEnabled:false},
+"100000001192133":{count:307, commentsEnabled:false},
+"100000001192329":{count:76, commentsEnabled:false},
+"100000001190961":{count:19, commentsEnabled:false},
+"100000001177231":{count:1, commentsEnabled:true},
+"100000001177245":{count:74, commentsEnabled:true},
+"100000001179958":{count:24, commentsEnabled:false},
+"100000001180322":{count:227, commentsEnabled:true},
+"100000001183078":{count:44, commentsEnabled:false},
+"100000001183080":{count:327, commentsEnabled:false},
+"100000001183081":{count:7, commentsEnabled:false},
+"100000001183084":{count:235, commentsEnabled:false},
+"100000001183087":{count:11, commentsEnabled:false},
+"100000001183089":{count:14, commentsEnabled:false},
+"100000001183090":{count:11, commentsEnabled:false},
+"100000001183091":{count:3, commentsEnabled:false},
+"100000001183094":{count:14, commentsEnabled:false},
+"100000001184186":{count:79, commentsEnabled:false},
+"100000001184524":{count:149, commentsEnabled:false},
+"100000001186117":{count:1, commentsEnabled:false},
+"100000001186193":{count:12, commentsEnabled:true},
+"100000001186569":{count:190, commentsEnabled:false},
+"100000001189184":{count:49, commentsEnabled:false},
+"100000001190721":{count:71, commentsEnabled:false},
+"100000001191577":{count:224, commentsEnabled:false},
+"100000001191688":{count:28, commentsEnabled:false},
+"100000001191719":{count:107, commentsEnabled:false},
+"100000001191931":{count:121, commentsEnabled:false},
+"100000001191985":{count:110, commentsEnabled:false},
+"100000001192057":{count:211, commentsEnabled:false},
+"100000001192188":{count:141, commentsEnabled:false},
+"100000001192496":{count:52, commentsEnabled:false},
+"100000001192500":{count:206, commentsEnabled:false},
+"100000001192600":{count:224, commentsEnabled:false},
+"100000001192611":{count:167, commentsEnabled:false},
+"100000001193250":{count:67, commentsEnabled:false},
+"100000001193262":{count:37, commentsEnabled:false},
+"100000001193344":{count:98, commentsEnabled:false},
+"100000001193527":{count:27, commentsEnabled:false},
+"100000001193629":{count:10, commentsEnabled:false},
+"100000001193702":{count:17, commentsEnabled:false},
+"100000001193743":{count:108, commentsEnabled:false},
+"100000001193763":{count:516, commentsEnabled:false},
+"100000001193825":{count:86, commentsEnabled:false},
+"100000001193857":{count:48, commentsEnabled:false},
+"100000001193859":{count:160, commentsEnabled:false},
+"100000001193890":{count:117, commentsEnabled:false},
+"100000001193920":{count:44, commentsEnabled:false},
+"100000001193944":{count:303, commentsEnabled:false},
+"100000001193948":{count:7, commentsEnabled:false},
+"100000001194088":{count:51, commentsEnabled:false},
+"100000001194098":{count:17, commentsEnabled:true},
+"100000001194137":{count:109, commentsEnabled:false},
+"100000001194342":{count:159, commentsEnabled:false},
+"100000001194394":{count:68, commentsEnabled:false},
+"100000001194454":{count:36, commentsEnabled:false},
+"100000001194795":{count:192, commentsEnabled:false},
+"100000001194808":{count:628, commentsEnabled:false},
+"100000001194892":{count:125, commentsEnabled:false},
+"100000001195360":{count:33, commentsEnabled:false},
+"100000001195689":{count:178, commentsEnabled:false},
+"100000001195802":{count:10, commentsEnabled:false},
+"100000001195854":{count:304, commentsEnabled:false},
+"100000001195914":{count:48, commentsEnabled:false},
+"100000001195920":{count:17, commentsEnabled:false},
+"100000001195923":{count:44, commentsEnabled:false},
+"100000001195938":{count:138, commentsEnabled:false},
+"100000001195940":{count:10, commentsEnabled:false},
+"100000001195947":{count:92, commentsEnabled:false},
+"100000001195952":{count:162, commentsEnabled:false},
+"100000001195976":{count:141, commentsEnabled:false},
+"100000001195982":{count:283, commentsEnabled:false},
+"100000001196229":{count:42, commentsEnabled:false},
+"100000001196250":{count:104, commentsEnabled:true},
+"100000001196432":{count:333, commentsEnabled:false},
+"100000001196658":{count:42, commentsEnabled:false},
+"100000001196737":{count:28, commentsEnabled:true},
+"100000001196861":{count:18, commentsEnabled:false},
+"100000001196955":{count:71, commentsEnabled:true},
+"100000001196963":{count:143, commentsEnabled:false},
+"100000001197064":{count:68, commentsEnabled:false},
+"100000001197489":{count:3, commentsEnabled:false},
+"100000001197999":{count:75, commentsEnabled:false},
+"100000001198014":{count:290, commentsEnabled:false},
+"100000001198050":{count:69, commentsEnabled:true},
+"100000001198076":{count:32, commentsEnabled:true},
+"100000001198092":{count:204, commentsEnabled:false},
+"100000001198110":{count:424, commentsEnabled:false},
+"100000001198123":{count:343, commentsEnabled:false},
+"100000001198126":{count:62, commentsEnabled:false},
+"100000001198138":{count:163, commentsEnabled:false},
+"100000001198377":{count:143, commentsEnabled:true},
+"100000001198446":{count:23, commentsEnabled:true},
+"100000001198471":{count:52, commentsEnabled:true},
+"100000001198476":{count:157, commentsEnabled:true},
+"100000001198581":{count:48, commentsEnabled:true},
+"100000001198642":{count:253, commentsEnabled:false},
+"100000001199366":{count:136, commentsEnabled:true},
+"100000001199374":{count:114, commentsEnabled:true},
+"100000001199444":{count:155, commentsEnabled:false},
+"100000001199658":{count:4, commentsEnabled:true},
+"100000001200046":{count:884, commentsEnabled:true},
+"100000001200335":{count:165, commentsEnabled:false},
+"100000001200378":{count:192, commentsEnabled:false},
+"100000001200458":{count:77, commentsEnabled:false},
+"100000001200844":{count:23, commentsEnabled:true},
+"100000001201276":{count:88, commentsEnabled:true},
+"100000001201525":{count:188, commentsEnabled:true},
+"100000001202361":{count:0, commentsEnabled:true},
+"100000001202521":{count:27, commentsEnabled:true},
+"100000001202701":{count:270, commentsEnabled:false},
+"100000001202807":{count:17, commentsEnabled:true},
+"100000001202815":{count:116, commentsEnabled:false},
+"100000001202831":{count:232, commentsEnabled:true},
+"100000001202861":{count:95, commentsEnabled:true},
+"100000001202869":{count:39, commentsEnabled:true},
+"100000001202871":{count:23, commentsEnabled:true},
+"100000001202889":{count:54, commentsEnabled:true},
+"100000001202895":{count:33, commentsEnabled:true},
+"100000001202901":{count:90, commentsEnabled:true},
+"100000001203208":{count:19, commentsEnabled:true},
+"100000001203416":{count:220, commentsEnabled:true},
+"100000001203664":{count:0, commentsEnabled:true},
+"100000001188908":{count:16, commentsEnabled:true},
+"100000001194403":{count:0, commentsEnabled:true},
+"100000001194404":{count:0, commentsEnabled:true},
+"100000001194405":{count:71, commentsEnabled:true},
+"100000001194406":{count:0, commentsEnabled:true},
+"100000001194419":{count:1, commentsEnabled:true},
+"100000001194423":{count:58, commentsEnabled:true},
+"100000001194424":{count:0, commentsEnabled:true},
+"100000001194425":{count:0, commentsEnabled:true},
+"100000001194427":{count:0, commentsEnabled:true},
+"100000001194843":{count:51, commentsEnabled:true},
+"100000001197746":{count:1, commentsEnabled:true},
+"100000001201815":{count:0, commentsEnabled:true},
+"100000001201989":{count:0, commentsEnabled:true}
+};
+</script>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/homepage/articleCommentCounts.js"></script>
+<script type="text/javascript" language="JavaScript">
+    ArticleCommentCounts.apply()
+    </script>
+
+			
+		<!-- Start UPT call -->
+		<img height="1" width="3" border=0 src="http://up.nytimes.com/?d=0/11/13&t=3&s=0&ui=&r=&u=www%2enytimes%2ecom%2fpages%2farts%2ftelevision%2findex%2ehtml%3f">
+		<!-- End UPT call -->
+	
+		
+        <script language="JavaScript"><!--
+          var dcsvid="";
+          var regstatus="non-registered";
+        //--></script>
+        <script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+        <noscript>
+          <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div>
+        </noscript>
+   
+</body>
+</html>

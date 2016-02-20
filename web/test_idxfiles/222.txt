@@ -1,0 +1,3 @@
+Location: http://www.nytimes.com/glogin?URI=http://www.nytimes.com/2011/12/02/arts/design/storytelling-in-japanese-art-at-the-met-review.html&OQ=_rQ3D1&OP=4ac4e0cdQ2FbuqXbK1J5Q3C11(YbYQ3DQ2BQ2BbQ2BYbQ3DYbQ5EQ3C(5bKq5aP4b5(1Q3Cf(q22a4PQ27a4Q27UQ5ErQ5E4q5qQ27Q5EQ3C(Q27Q5E(Q27(Q23qQ27iq(Q27Q3CqpaquVQ23(i2
+Connection: keep-alive
+

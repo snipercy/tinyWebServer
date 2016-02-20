@@ -1,0 +1,969 @@
+Connection: close
+Set-cookie: RMID=3bd2a86e1ef14ed913302732; expires=Saturday, 01-Dec-2012 18:04:32 GMT; path=/; domain=.nytimes.com
+
+
+ 
+                         
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    <title>‘Shame,’ Directed by Steve McQueen - Review - NYTimes.com</title>
+
+    	
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="description" content="In “Shame,” the new feature from the British artist turned filmmaker Steve McQueen, the protagonist is a handsome, youngish Manhattanite who is hooked on sex.">
+    <meta name="keywords" content="Movies,Fassbender  Michael,McQueen  Steve,Shame (Movie)">
+    <meta name="ROBOTS" content="NOARCHIVE">
+    <meta name="DISPLAYDATE" content="December 1, 2011">
+    <meta name="hdl" content="‘Shame,’ Directed by Steve McQueen - Review">
+    <meta name="hdl_p" content="Only One Thing On His Mind">
+    <meta name="byl" content="By A. O. SCOTT">
+    <meta name="lp" content="In “Shame,” the new feature from the British artist turned filmmaker Steve McQueen, the protagonist is a handsome, youngish Manhattanite who is hooked on sex.">
+    <meta name="cre" content="The New York Times">
+    <meta name="edt" content="NewYork">
+    <meta name="pdate" content="20111201">
+    <meta name="ttl" content="Shame (Movie)">
+    <meta name="virtloc" content="">
+    <meta name="des" content="Movies">
+    <meta name="per" content="Fassbender, Michael;McQueen, Steve">
+    <meta name="org" content="">
+    <meta name="geo" content="">
+    <meta name="misspelling" content="">
+    <meta name="dat" content="December 1, 2011">
+    <meta name="tom" content="Review">
+    <meta name="cat" content="">
+    <meta name="col" content="Movie Review | &#039;Shame&#039;">
+    <meta name="dsk" content="Movies">
+    <meta name="articleid" content="100000001200073">
+    <meta name="ARTICLE_TEMPLATE_VERSION" CONTENT="700">
+    <meta name="hdr_img" content="/images/article/header/sect_movies.gif">
+    <meta name="thumbnail" content="images/2011/12/02/arts/02SHAME/02SHAME-thumbStandard-v2.jpg">
+    <meta name="thumbnail_height" content="75">
+    <meta name="thumbnail_width" content="75">
+    <meta name="xlarge" content="images/2011/12/02/arts/02SHAME/02SHAME-articleLarge-v2.jpg">
+    <meta name="xlarge_height" content="330">
+    <meta name="xlarge_width" content="600">
+    <meta name="sectionfront_jsonp" content="http://json8.nytimes.com/pages/movies/index.jsonp">
+    <meta name="CG" content="movies">
+    <meta name="SCG" content="">
+    <meta name="PT" content="Article">
+    <meta name="PST" content="Review">
+    <meta name="msapplication-starturl" content="http://www.nytimes.com/">
+    <meta name="MID" content="463342">
+    <meta name="MTI" content="Shame">
+    <link rel="canonical" href="http://movies.nytimes.com/2011/12/02/movies/shame-directed-by-steve-mcqueen-review.html">
+    <meta property="og:url" content="http://movies.nytimes.com/2011/12/02/movies/shame-directed-by-steve-mcqueen-review.html"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:title" content="‘Shame,’ Directed by Steve McQueen - Review"/>
+    <meta property="og:image" content="http://graphics8.nytimes.com/images/2011/12/02/arts/02SHAME/02SHAME-thumbStandard-v2.jpg"/>
+    <link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/build/article/2.0/movies/reviews/styles.css?v=20111130"><!--[if IE]>
+    <style type="text/css">
+        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie.css);
+    </style>
+<![endif]-->
+<!--[if IE 6]>
+    <style type="text/css">
+        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie6.css);
+    </style>
+<![endif]-->
+
+    <script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script>
+    <script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/DropDown.js"></script>
+    <script type="text/javascript" src="http://graphics8.nytimes.com/js/util/tooltip.js"></script>
+    <script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/altClickToSearch.js"></script>
+    <script type="text/javascript" src="http://graphics8.nytimes.com/js/app/article/upNext.js"></script>
+    <script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences_all.js"></script>
+    <script type="text/javascript" src="http://objects.tremormedia.com/embed/js/banners.js"></script>
+    <script type="text/javascript" src="http://graphics8.nytimes.com/js2/build/video/2.0/videomanager.js"></script>
+    <script type="text/javascript" src="http://graphics8.nytimes.com/js/app/article/articleAssets/abstractAsset.js"></script>
+    <script type="text/javascript" src="http://graphics8.nytimes.com/js/app/article/articleAssets/videoAsset.js"></script>
+    <script type="text/javascript" src="http://graphics8.nytimes.com/js/app/article/expandableAsset.js"></script>
+    <script type="text/javascript" src="http://graphics8.nytimes.com/js/article/articleShare.js"></script>
+    <script type="text/javascript" src="http://graphics8.nytimes.com/js/build/article/movies/reviews/top.js"></script>
+</head>
+<body>
+    	<script type="text/javascript">
+function getMetaValue(name) {
+  var els = document.getElementsByName(name);
+  if (els && els[0]) { return els[0].content; }
+  return "";
+}
+
+<!-- Begin KRUX Digital Control Tag for New York Times -->
+
+KRUXSetup = {
+   pubid: "79816aa8-435a-471a-be83-4b3e0946daf2",
+   site: "NYTimes",
+   section: getMetaValue('CG'),
+   subSection: getMetaValue('SCG'),
+   pageAttributes: {
+      page_type: getMetaValue('PT')
+   }
+};
+</script>
+<script type="text/javascript" src="http://cdn.krxd.net/kruxcontent/releases/krux-4.7.2.js"></script>
+<!-- End KRUX Digital Control Tag for New York Times -->
+    <a name="top"></a>
+    <div id="shell">
+        <ul id="memberTools">
+    
+                        <!-- start text link -->
+<li class="cColumn-TextAdsHeader">Subscribe:
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/movies&pos=Bar1&sn2=7eccf591/a936b85a&sn1=2407a328/96bf5462&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-digi-hd-d3847U-h3847W&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fsubscriptions%2FMultiproduct%2Flp5558%2Ehtml%3Fadxc%3D162578%26adxa%3D267524%26page%3Dwww.nytimes.com/yr/mo/day/movies/shame-directed-by-steve-mcqueen-review.html%26pos%3DBar1%26campaignId%3D3847U" target="_blank">
+Digital</a> / <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/movies&pos=Bar1&sn2=7eccf591/a936b85a&sn1=8c0204ae/f0584be3&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-digi-hd-d3847U-h3847W&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DW47AF%26CMP%3D3847W" target="_blank">Home Delivery</a>
+</li>
+<!-- end text link -->                
+                                                                            <li><a id="memberToolsLogin" href="https://myaccount.nytimes.com/auth/login">Log In</a></li>
+            <li><a href="https://myaccount.nytimes.com/gst/regi.html">Register Now</a></li>
+                                                                    
+                                                                
+    <li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+
+</ul>
+
+    <div class="tabsContainer">
+        <ul id="mainTabs" class="tabs">
+            <li class="first mainTabHome"><a href="http://www.nytimes.com">Home Page</a></li>
+            
+            <li class="mainTabTodaysPaper"><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+            
+            <li class="mainTabVideo"><a href="http://www.nytimes.com/video">Video</a></li>
+            
+            <li class="mainTabMostPopular"><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+            
+            <li class="mainTabTimesTopics"><a href="http://topics.nytimes.com/top/reference/timestopics">Times Topics</a></li>
+        </ul>
+    </div>
+
+<script type="text/javascript">
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+</script>        <div id="page" class="tabContent active">
+            
+
+            <div class="clearfix" id="masthead">
+            		    			<div class="singleAd"  id="Middle1C">
+			<div class="clearfix">
+			<!-- ADXINFO classification="button" campaign="ING_DirectSiteSearchQ111_1694929-nyt1"--><A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/movies&pos=Middle1C&sn2=43e7fcfa/d3db8d70&sn1=59756299/46b02203&camp=ING_DirectSiteSearchQ111_1694929-nyt1&ad=NEW.88x31.SiteSearch.Wizard&goto=http://ad.doubleclick.net/jump/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.32" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.32"
+ BORDER=0 WIDTH=88 HEIGHT=31
+ ALT="Click Here"></A>			</div>
+			</div>
+					            
+                                        
+            <div id="searchWidget">
+                <div class="inlineSearchControl">
+                    <form enctype="application/x-www-form-urlencoded" action="http://query.nytimes.com/search/sitesearch" method="get" name="searchForm" id="searchForm">
+                        <input type="hidden" value="full" name="date_select"/>
+                        <label for="searchQuery">Search All NYTimes.com</label>
+                        <input type="text" class="text" value="" size="" name="query" id="searchQuery"/>
+                        <input type="hidden" id="searchAll" name="type" value="nyt"/>
+                        <input type="image" id="searchSubmit" title="Search" alt="Search" width="22" height="19" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"/>
+                    </form>
+                </div>
+            </div>
+            
+        
+        <div id="branding" >
+        
+                                                <a href="http://www.nytimes.com"><img src="http://graphics8.nytimes.com/images/misc/nytlogo152x23.gif" alt="New York Times" id="NYTLogo"/></a>
+                            
+
+                </div>
+
+        
+        
+                            
+                    <h2>
+        
+                
+                            
+
+            
+			
+                            <a href="http://www.nytimes.com/pages/movies/index.html">Movies</a>
+            
+                        </h2>
+
+
+                            
+        </div>
+                    		     
+ 
+<div class="navigation tabsContainer">
+<ul class="tabs">
+	<li id="navWorld" class="first ">
+		<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+		</li>	<li id="navUs" >
+		<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+		</li>	<li id="navNyregion" >
+		<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+		</li>	<li id="navBusiness" >
+		<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+		</li>	<li id="navTechnology" >
+		<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+		</li>	<li id="navScience" >
+		<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+		</li>	<li id="navHealth" >
+		<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+		</li>	<li id="navSports" >
+		<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+		</li>	<li id="navOpinion" >
+		<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+		</li>	<li id="navArts" class="selected">
+		<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+		</li>	<li id="navStyle" >
+		<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+		</li>	<li id="navTravel" >
+		<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+		</li>	<li id="navJobs" >
+		<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+		</li>	<li id="navRealestate" >
+		<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+		</li>	<li id="navAutomobiles" >
+		<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+		</li></ul>
+</div>
+
+<div class="subNavigation tabContent active">
+  <NYT_DYNAMIC_IFADS Position1B><div class="column firstColumn adjustedColumn"></NYT_DYNAMIC_IFADS>
+    <NYT_DYNAMIC_IFNOADS Position1B><div class="column firstColumn"></NYT_DYNAMIC_IFNOADS>
+    <div class="columnGroup">
+      <div class="inlineSearchControl">
+        <form name="searchForm" method="get" action="http://movies.nytimes.com/gst/movies/msearch.html" enctype="application/x-www-form-urlencoded">
+          <label for="msearch_query">Search <span class="meta">Movies, People and Showtimes by ZIP Code</span></label>
+          <input id="msearch_query" type="text" name="query" class="text" value="" />
+          <input type="image" src="http://graphics8.nytimes.com/images/global/buttons/go.gif" alt="Search" title="Search"/>
+        </form>
+      </div>
+      
+    </div>
+  <NYT_DYNAMIC_IFADS Position1B></div></NYT_DYNAMIC_IFADS>
+    <NYT_DYNAMIC_IFNOADS Position1B></div></NYT_DYNAMIC_IFNOADS>
+  <div class="column two lastColumn">
+    <div class="columnGroup">
+      <h5>More in Movies &#x00bb;</h5>
+      <ul>
+        <li class="firstItem"><a href="http://movies.nytimes.com/movies/intheaters.html">In Theaters</a></li>
+        <li class="specialSection"><a href="http://movies.nytimes.com/movies/comingsoon.html">Coming Soon</a></li>
+        <li><a href="http://movies.nytimes.com/movies/critics/critics-picks">Critics' Picks</a></li>
+        <li>
+          <a href="http://movies.nytimes.com/pages/movies/homevideo/index.html">On DVD</a>
+        </li>
+        <li><a href="http://movies.nytimes.com/movie/showtimes">Tickets &amp; Showtimes</a></li>
+        <li><a href="http://movies.nytimes.com/movies/trailers.html">Trailers</a></li>
+		<li class="lastItem"><a href=" http://artsbeat.blogs.nytimes.com/">ArtsBeat</a></li>       
+      </ul> 
+    </div>
+  </div>
+</div>		    		    			<div class="singleAd"  id="PushDown">
+			<div class="clearfix">
+			<SCRIPT type="text/javascript" SRC="http://ad.doubleclick.net/adj/N553.276948.NYTIMES/B5907325;sz=970x66;pc=nyt169824A277994;ord=2011.12.02.18.04.32;click=http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/movies&pos=PushDown&camp=Amex_2011Q4GABM-CTN_1771054-nyt1&ad=B5907325_966x70_ROS&sn2=b64b33fe/3d538319&snr=doubleclick&snx=1322848849&sn1=bb29b74/1d13163b&goto=">
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/movies&pos=PushDown&sn2=b64b33fe/3d538319&sn1=6eefc930/9435e847&camp=Amex_2011Q4GABM-CTN_1771054-nyt1&ad=B5907325_966x70_ROS&goto=http://ad.doubleclick.net/jump/N553.276948.NYTIMES/B5907325;sz=970x66;pc=nyt169824A277994;ord=2011.12.02.18.04.32" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N553.276948.NYTIMES/B5907325;sz=970x66;pc=nyt169824A277994;ord=2011.12.02.18.04.32"
+ BORDER=0 WIDTH=970 HEIGHT=66
+ ALT="Click Here"></A>
+</NOSCRIPT>			</div>
+			</div>
+						            <div id="main">
+                <div class="spanAB wrap closing">
+                    <div id="abColumn" class="abColumn"><!-- open abColumn -->
+                       <div id="article">
+                        
+		<!--cur: prev:-->
+	<div class="columnGroup first">				
+		<span itemscope itemtype="http://schema.org/Review" itemref="article">
+<h6 class="kicker">Movie Review</h6>
+<div id="movieTitle">
+<span itemprop="itemReviewed" itemscope itemtype="http://schema.org/Movie">
+<h2 class="movie"><a itemprop="url" href="http://movies.nytimes.com/movie/463342/Shame/overview"><span itemprop="name">Shame (2011)</span></a></h2>
+</span>
+</div><!-- #movieTitle -->
+
+<NYT_SPAN_IMAGE><div class="articleSpanImage"><img itemprop="image" src="http://graphics8.nytimes.com/images/2011/12/02/arts/02SHAME/02SHAME-articleLarge-v2.jpg" width="600" height="330" alt="" border="0">
+<div class="credit">Abbot Genser/Fox Searchlight Pictures</div>
+<p class="caption">Michael Fassbender in "Shame." </p>
+</div></NYT_SPAN_IMAGE>    <!--[if lt IE 8]>
+        <script type="text/javascript">
+            var wImage = $('wideImage').getElementsByTagName("img")[0].getAttribute('src');
+            $('wideImage').getElementsByTagName("img")[0].setAttribute('src',"http://graphics8.nytimes.com/images/global/backgrounds/transparentBG.gif");
+            var filter = "progId:DXImageTransform.Microsoft.AlphaImageLoader(src='"+wImage+"', sizingMethod='scale' )";
+            $('wideImage').getElementsByTagName("img")[0].style.filter = filter;
+            </script>
+    <![endif]-->
+<h1 class="articleHeadline"><a itemprop="url" href="http://movies.nytimes.com/2011/12/02/movies/shame-directed-by-steve-mcqueen-review.html"><span itemprop="name">Only One Thing on His Mind</span></a></h1>
+    <h6 class="byline">By A. O. SCOTT</h6>
+    <h6 class="dateline">Published: December 1, 2011<meta itemprop="datePublished" content="2011-12-01"></h6>
+</span><script type="text/javascript">
+var articleToolsShareData = {"url":"http:\/\/movies.nytimes.com\/2011\/12\/02\/movies\/shame-directed-by-steve-mcqueen-review.html","headline":"Only One Thing on His Mind","description":"In \u201cShame,\u201d the new feature from the British artist turned filmmaker Steve McQueen, the protagonist is a handsome, youngish Manhattanite who is hooked on sex.","keywords":"Movies,Fassbender  Michael,McQueen  Steve","section":"movies","sub_section":null,"section_display":"Movies","sub_section_display":null,"byline":"By A. O. SCOTT","pubdate":"December 1, 2011","passkey":null};
+function getShareURL() {
+    return encodeURIComponent(articleToolsShareData.url);
+}
+function getShareHeadline() {
+    return encodeURIComponent(articleToolsShareData.headline);
+}
+function getShareDescription() {
+    return encodeURIComponent(articleToolsShareData.description);
+}
+function getShareKeywords() {
+    return encodeURIComponent(articleToolsShareData.keywords);
+}
+function getShareSection() {
+    return encodeURIComponent(articleToolsShareData.section);
+}
+function getShareSubSection() {
+	return encodeURIComponent(articleToolsShareData.sub_section);
+}
+function getShareSectionDisplay() {
+    return encodeURIComponent(articleToolsShareData.section_display);
+}
+function getShareSubSectionDisplay() {
+    return encodeURIComponent(articleToolsShareData.sub_section_display);
+}
+function getShareByline() {
+    return encodeURIComponent(articleToolsShareData.byline);
+}
+function getSharePubdate() {
+    return encodeURIComponent(articleToolsShareData.pubdate);
+}
+function getSharePasskey() {
+    return encodeURIComponent(articleToolsShareData.passkey);
+}
+</script>
+
+
+<div id="articleToolsTop" class="articleTools">
+	<div class="box">
+		<div class="inset">
+			<ul id="toolsList" class="toolsList wrap">
+			    
+	                <li class="email">
+                                        		                         		         	                		         		                		         	                                                                                  		         	                		         		                		         	                                        <a id="emailThis" href="http://www.nytimes.com/auth/login?URI=http://movies.nytimes.com/2011/12/02/movies/shame-directed-by-steve-mcqueen-review.html" onclick="s_code_linktrack('Article-Tool-EmailSignIn');">Sign In to E-Mail</a>
+                		         	                		         		                		         	                                                                           </li>
+
+                                    <li class="print">
+                                                                                    <a href="http://movies.nytimes.com/2011/12/02/movies/shame-directed-by-steve-mcqueen-review.html?src=dayp&pagewanted=print">Print</a>
+                                                                        </li>
+                                                                                                                                    	<script name="javascript">
+	function submitCCCForm(){
+		var PopUp = window.open('', '_Icon','location=no,toolbar=no,status=no,width=650,height=550,scrollbars=yes,resizable=yes');
+		var form = document.forms["cccform"];
+		// ensure that we are operating on the Form, not a NodeList
+		if (form.nodeName == "FORM") {
+			form.submit();
+		} else if (form[0] && form[0].nodeName == "FORM") {
+			form[0].submit();
+		}
+	}
+	</script>
+	<li class="reprints">			<form name="cccform" action="https://s100.copyright.com/CommonApp/LoadingApplication.jsp" target="_Icon">
+			<input type="hidden" name="Title" value="Only One Thing on His Mind">
+			<input type="hidden" name="Author" value="By A. O. SCOTT ">
+			<input type="hidden" name="ContentID" value="http://www.nytimes.com/2011/12/02/movies/shame-directed-by-steve-mcqueen-review.html">
+			<input type="hidden" name="FormatType" value="default">
+			<input type="hidden" name="PublicationDate" value="December 2, 2011">
+			<input type="hidden" name="PublisherName" value="The New York Times">
+			<input type="hidden" name="Publication" value="nytimes.com">
+			<input type="hidden" name="wordCount" value="12">
+		</form>
+			<a href="#" onClick="submitCCCForm()">Reprints</a>
+	</li>						
+	        </ul>
+
+	<div class="articleToolsSponsor" id="Frame4A"><div class="clearfix"><!-- ADXINFO classification="Button120x60" campaign="FSL2011_articletools_120x60_1629908c_nyt5"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/movies&pos=Frame4A&sn2=9b5d8c1d/9644a0a5&sn1=36dd48d5/33ce2b3b&camp=FSL2011_articletools_120x60_1629908c_nyt5&ad=120x60_descendents_NOW&goto=http%3A%2F%2Fwww%2Efoxsearchlight%2Ecom%2Fthedescendants" target="_blank">
+<img src="http://graphics.nytimes.com/adx/images/ADS/28/40/ad.284087/Descendants120x60layered.gif" width="120" height="60" border="0"></a>
+</div></div>        </div>
+    </div>
+</div>
+
+
+
+<div class="articleBody" itemprop="reviewBody">
+        
+    
+                                                                                            <p>
+                            The cruel paradox of addiction is that it transforms a source of pleasure into an inescapable, insatiable need. An abundance &mdash; an overdose &mdash; of movies and books explores the logic of this condition, mostly with respect to drugs or alcohol. <a href="http://movies.nytimes.com/gst/movies/titlelist.html?v_idlist=444969;337133;109710;128894;358931;44069;235953;128895;120006;44070&inline=nyt_ttl">&ldquo;Shame,&rdquo;</a> the relentless new feature from the British artist turned filmmaker <a href="http://movies.nytimes.com/person/1580463/Steve-McQueen">Steve McQueen</a>, has a lot in common with films that plumb the toxic romance of the bottle or the needle. The crucial difference is that its protagonist, a handsome, youngish Manhattanite named Brandon (<a href="http://movies.nytimes.com/person/397825/Michael-Fassbender?inline=nyt-per" title="" class="meta-per">Michael Fassbender</a>), is hooked on sex.        </p>
+                                                </div>
+<div class="articleInline runaroundLeft">
+    	<h3 class="more">More About This Movie</h3>
+<ul id="leftNav" class="flush">
+    <li class="first"><a href="http://movies.nytimes.com/movie/463342/Shame/overview">Overview</a></li>
+    <li class="selected"><a href="http://movies.nytimes.com/2011/12/02/movies/shame-directed-by-steve-mcqueen-review.html">New York Times Review</a></li>
+    <li class=""><a href="http://movies.nytimes.com/movie/463342/Shame/details">Cast, Credits &amp; Awards</a></li>
+    <li class="last"><a href="http://community.nytimes.com/rate-review/movies.nytimes.com/movie/463342/Shame/overview">Readers' Reviews <span id="readerReviewsCount"></span></a></li>
+</ul>
+		
+
+		        		    <div class="columnGroup doubleRule">    </div></div>            <script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+                        <div class="articleInline runaroundLeft" style="margin-top: -11px">        <h6 class="sectionHeader flushBottom">Multimedia</h6>
+        </div>                                                  
+              
+        	<div class="articleInline runaroundLeft firstArticleInline">
+        		
+<div class="story expandAssetContainer" style="z-index: 1; background: transparent;">
+    <div class="thumbnailContainer">
+	        <div class="wideThumb">
+            <img src="http://graphics8.nytimes.com/images/2011/10/06/arts/video-fassbender/video-fassbender-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+            <a href="javascript:void;" class="playOverlay"></a>
+        </div>
+        
+        
+    <h6><a href="javascript:void;" class="video">Interview: Michael Fassbender</a></h6>
+    
+        
+         </div>
+   
+    <div class="assetContainer">
+        <div class="assetWrapper" style="display:none">
+            <div class="videoHeader">Interview: Michael Fassbender</div>
+            <div id="100000001096728" class="articleInlineVideoHolder">
+            <script type="text/javascript">
+                Event.observe(window, 'load', function() { 
+                    NYTD.ArticleInline.addToVideoArray("100000001096728", "movies", "http://video.nytimes.com/video/2011/10/06/movies/100000001096728/interview-michael-fassbender.html?ref=movies");
+                });
+            </script>
+	       </div>
+	   </div>
+    </div>
+	<div class="assetCompanionAd" style="position:abosulte;display:none;">
+	    <div class="adContainer" style="display:none;">
+	        <div class="adClose"><a href="javascript:return false;" class="dialogBoxClose">Close Video</a></div>
+	        <div class="adContent"></div>
+	        <div class="assetAdSectionLink">
+	           <div class="singleRuleDivider"></div>
+	           <a href="http://video.nytimes.com/video/playlist/movies">See More Videos &#187;</a>
+	        </div>
+	   </div>
+    </div> 
+</div>        	</div>
+        	                <div class="articleInline runaroundLeft"><div class="articleInline runaroundLeft"></div>
+                		    <div class="columnGroup doubleRule">     
+    	<h3 class="sectionHeader">Related</h3>
+        
+    <ul class="headlinesOnly multiline flush">
+                    <li>
+    <h6><a href="http://www.nytimes.com/2011/11/27/movies/steve-mcqueen-and-michael-fassbender-team-up-in-shame.html?ref=movies">
+                                    Movies: Unlikely Look at Sex and the City</a>
+        				(November 27, 2011)
+	             </h6>
+</li>
+            </ul>
+</div>
+        		</div>
+    
+<div class="articleBody" itemprop="reviewBody">
+                                                                        <p>
+                            This poses a special challenge for Mr. McQueen, since there are rules, conventions and cognitive habits that limit how explicit &mdash; and how explicitly unpleasant &mdash; movie sex can be. Watching someone else take a drink or snort a line will not cause intoxication in the viewer, but watching other people get naked and squirm around together is a sure-enough turn-on to be the basis of a lucrative industry. How can visual pleasure communicate existential misery? It is a real and interesting challenge, and if &ldquo;Shame&rdquo; falls short of meeting it, the seriousness of its effort is hard to deny.        </p>
+                                                                                <p>
+                            Mr. McQueen does not take the easy route of selecting for his case study a lonely, unattractive shut-in, but rather a very good-looking, admirably proportioned fellow with nice clothes (when he is in them), decent manners and a well-paying job. Brandon, who works at a small high-tech firm and lives in an austere apartment in a Chelsea high-rise, seems to be stuck in a sleek, downbeat 21st-century version of Shakespeare&rsquo;s <a title="The sonnet" href="http://www.artofeurope.com/shakespeare/sha12.htm">Sonnet 129</a>. That poem, as incisive an anatomy of erotic compulsion as exists in English, begins by evoking &ldquo;the expense of spirit in a waste of shame&rdquo; and cycles through the rages and frustrations of lust before collapsing in exhausted fatalism:        </p>
+                                                                                <p>
+                            All this the world well knows; yet none knows well        </p>
+                                                                                <p>
+                            to shun the heaven that leads men to this hell.        </p>
+                                                                                <p>
+                            &ldquo;Shame,&rdquo; anchored to the treadmill of Brandon&rsquo;s pathology, strips this ancient, futile wisdom of its poetry. Mr. McQueen is a tenaciously literal filmmaker, mistrusting metaphor and psychological speculation and dwelling on the facts of behavior and bodily experience. His debut feature, <a title="Web page on film" href="http://www.hungerthemovie.co.uk/">&ldquo;Hunger,&rdquo;</a> in which Mr. Fassbender played Bobby Sands, the I.R.A. militant who starved himself to death in a British-administered prison in 1981, was an unflinching look at the corporeal consequences of political zeal. It focused less on the nature of Sands&rsquo;s cause than on the effects, on his own person, of his commitment to it.        </p>
+                                                                                <p>
+                            And the most memorable aspect of that film may have been Mr. Fassbender&rsquo;s commitment to the role, a discipline he re-enacts here in circumstances that are only superficially more pleasant. A prisoner of his own needs, Brandon &mdash; to use a curiously apt Victorian phrase &mdash; abuses himself mercilessly. When he cannot manage a casual encounter, he calls an escort service, and when that is inconvenient, there is always an Internet chat site or the men&rsquo;s room at work, where he sneaks off for solitary daytime activity.        </p>
+                                                                                <p>
+                            His routine is disrupted by the arrival of his sister, Sissy (Carey Mulligan), whose neediness is the opposite of Brandon&rsquo;s emotional detachment and whose sloppiness threatens his self-control. Her history of self-abuse apparently includes cutting and possible suicide attempts, and her intrusive dependency provokes Brandon to frightening and otherwise uncharacteristically violent displays of temper.        </p>
+                                                                                <p>
+                            Different as they are, these siblings clearly share a self-destructive tendency, the sources of which lie somewhere in the background, beyond the reach of the film&rsquo;s curiosity. &ldquo;We&rsquo;re not bad people,&rdquo; Sissy says in a teary message she leaves on Brandon&rsquo;s cellphone. &ldquo;We just come from a bad place,&rdquo; a place specified only as New Jersey.        </p>
+                                                                                <p>
+                            The New York they find themselves in is a melancholy and seductive place, where easy money and relaxed sexual mores combine to produce an atmosphere of general anomie brightened by a few glimmers of comic possibility. In one brilliantly executed early scene, Brandon stands by as his boss (James Badge Dale), a boorish would-be ladies&rsquo; man, fails spectacularly to pick up a pretty blonde at a bar. Brandon succeeds without making an overt move or saying very much, and Mr. McQueen&rsquo;s deft choreography of eye contact reveals everything we need to know about the workings of desire.        </p>
+                                                                                <p>
+                            More awkward, but much funnier, is a dinner date at which Brandon and Marianne (Nicole Beharie), a co-worker, are subjected to the attentions of an aggressively incompetent waiter and also to their own uncertainty about the rules of attraction. But these moments feel less like insights into human interaction than like concessions to an idea of social life that Mr. McQueen does not quite believe in.        </p>
+                                                                                <p>
+                            More problematic is his reliance on moments of showy cinematic beauty &mdash; a long nighttime tracking shot, a Hudson River sunset seen from a high window in the Standard Hotel &mdash; that serve at once to alleviate the film&rsquo;s harshness and undermine its rigor. And the impulse to explore Brandon&rsquo;s problem in some kind of narrative leaves &ldquo;Shame&rdquo; caught between therapeutic melodrama and melodramatic despair. The climax is, for Brandon, a chaotic downward slide that blends provocation with a scolding, breathless moralism. How far will he go? He&rsquo;ll have sex with a man! With two women!        </p>
+                                                                                <p>
+                            Is &ldquo;Shame&rdquo; the name of something Brandon does feel, or of something the filmmakers think he should feel? The movie, for all its displays of honesty (which is to say nudity), is also curiously coy. It presents Brandon for our titillation, our disapproval and perhaps our envy, but denies him access to our sympathy. I know, that&rsquo;s the point, that Mr. McQueen wants to show how the intensity of Brandon&rsquo;s need shuts him off from real intimacy, but this seems to be a foregone conclusion, the result of an elegant experiment that was rigged from the start.        </p>
+                                                                                <p>
+                            <em>&ldquo;Shame&rdquo; is rated NC-17 (No one 17 or under admitted). Younger viewers will have to go elsewhere to learn that sex can sometimes be fun. </em>        </p>
+                                                                                <p>
+                            <strong>SHAME</strong>        </p>
+                                                                                <p>
+                            <em>Opens on Friday in Manhattan. </em>        </p>
+                                                                                <p>
+                            Directed by <a href="http://movies.nytimes.com/person/1580463/Steve-McQueen">Steve McQueen</a>; written by Mr. McQueen and Abi Morgan; director of photography, Sean Bobbitt; edited by Joe Walker; music by Harry Escott; production design by Judy Becker; costumes by David Robinson; produced by Iain Canning and Emile Sherman; released by Fox Searchlight Pictures. Running time: 1 hour 39 minutes.        </p>
+                                                                                <p>
+                            WITH: <a href="http://movies.nytimes.com/person/397825/Michael-Fassbender?inline=nyt-per" title="" class="meta-per">Michael Fassbender</a> (Brandon), Carey Mulligan (Sissy), James Badge Dale (David) and Nicole Beharie (Marianne).        </p>
+                                                                                        </div>	</div>
+			<!--cur: prev:-->
+	<div class="columnGroup ">				
+		<div class="articleFooter">
+		
+
+	<div class="articleCorrection">
+
+	
+	
+	
+	</div>
+
+	
+	<div class="articleMeta">
+		<div class="opposingFloatControl wrap">
+		    				<div class="element1">
+					<h6 class="metaFootnote">A version of this review appeared in print on December 2, 2011, on page C1 of the New York edition with the headline: Only One Thing On His Mind.</h6>
+				</div>
+								</div>
+	</div>
+</div>	</div>
+			<!--cur: prev:-->
+	<div class="columnGroup ">				
+		<div id="articleExtras">
+<div class="expandedToolsRight">
+<div class="articleTools">
+    <div class="box">
+        <div class="inset">
+            <ul id="toolsList" class="toolsList wrap">
+                
+                    <li class="email">
+                                                                         		         	                		         		                		         	                                                                                  		         	                		         		                		         	
+                                        <a id="emailThis" href="http://www.nytimes.com/auth/login?URI=http://movies.nytimes.com/2011/12/02/movies/shame-directed-by-steve-mcqueen-review.html" onclick="s_code_linktrack('Article-Tool-EmailSignIn');">Sign In to E-Mail</a>
+                		         	                		         		                		         	
+                                                                           </li>
+
+                                    <li class="print">
+                                                                                    <a href="http://movies.nytimes.com/2011/12/02/movies/shame-directed-by-steve-mcqueen-review.html?src=dayp&pagewanted=print">Print</a>
+                                                                        </li>
+                                                                                        	<script name="javascript">
+	function submitCCCForm(){
+		var PopUp = window.open('', '_Icon','location=no,toolbar=no,status=no,width=650,height=550,scrollbars=yes,resizable=yes');
+		var form = document.forms["cccform"];
+		// ensure that we are operating on the Form, not a NodeList
+		if (form.nodeName == "FORM") {
+			form.submit();
+		} else if (form[0] && form[0].nodeName == "FORM") {
+			form[0].submit();
+		}
+	}
+	</script>
+	<li class="reprints">			<form name="cccform" action="https://s100.copyright.com/CommonApp/LoadingApplication.jsp" target="_Icon">
+			<input type="hidden" name="Title" value="Only One Thing on His Mind">
+			<input type="hidden" name="Author" value="By A. O. SCOTT ">
+			<input type="hidden" name="ContentID" value="http://www.nytimes.com/2011/12/02/movies/shame-directed-by-steve-mcqueen-review.html">
+			<input type="hidden" name="FormatType" value="default">
+			<input type="hidden" name="PublicationDate" value="December 2, 2011">
+			<input type="hidden" name="PublisherName" value="The New York Times">
+			<input type="hidden" name="Publication" value="nytimes.com">
+			<input type="hidden" name="wordCount" value="12">
+		</form>
+			<a href="#" onClick="submitCCCForm()">Reprints</a>
+	</li>						
+            </ul>
+                    </div>
+    </div>
+</div>
+<script type="text/javascript">
+writePost();
+</script>
+</div>
+</div>
+		    			<div class="singleAd"  id="Bottom1">
+			<div class="clearfix">
+			<table width="100%" border="0">
+<tr>
+<td><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/movies&pos=Bottom1&sn2=654d08fb/95173754&sn1=ca8e388/cbca2908&camp=nyt2011-circ-footer_clickhere-36H9U&ad=051110-footer_clickhere-36H9U&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F101%3FSPTR%5FID%3DhdNYT%26MediaCode%3DW16AK%26CMP%3D36H9U"><img src="http://graphics.nytimes.com/ads/circulation/icon-newspaper.jpg" height="27" width="40" alt="Get Home
+Delivery" align="middle" border="0"/><font size="-1" class="nav" color="#000066" align="left">&nbsp;Get 50% Off The New York Times & Free All Digital Access.</font></a>
+
+</td>
+</tr>
+</table>			</div>
+			</div>
+						</div>
+			<!--cur: prev:-->
+	<div class="columnGroup ">				
+		
+
+	</div>
+			<!--cur: prev:-->
+	<div class="columnGroup ">				
+		<div class="singleRuleDivider"></div>
+<div class="articleBottomExtra subColumns">
+    <div class="column">
+        
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/app/article/outbrain.js"></script>    </div>                
+    <div class="column lastColumn">
+            <div class="emailAlertModule module">
+    <h5 class="sectionHeaderSm">Get Free E-mail Alerts on These Topics</h5>
+    <form action="https://myaccount.nytimes.com/mem/tnt.html" method="GET" enctype="application/x-www-form-urlencoded">
+        <input type="hidden" name="retA" value="http://www.nytimes.com//2011/12/02/movies/shame-directed-by-steve-mcqueen-review.html" >
+        <input type="hidden" name="retT" value="Only One Thing on His Mind">
+        <input type="hidden" name="module" value="call">
+        <input type="hidden" name="alert_context" value="1">
+        <ul class="flush">
+        <li>
+            <input type="hidden" name="topic1" value="Movies">
+            <input type="hidden" name="topic_field1" value="des">
+                            <a class="inTextReferEmail" href="https://myaccount.nytimes.com/mem/tnt.html?module=call&alert_context=1&topic1=Movies&topic_field1=des&topic1_check=y&retA=&retT=&cskey=" onClick="javascript:s_code_linktrack('Article-RelatedTopics'); dcsMultiTrack('DCS.dcssip','www.nytimes.com','DCS.dcsuri','/newstracker/add.html','WT.ti','Newstracker Add','WT.z_nta','Add','WT.pers','Per','WT.z_dcsm','1');" onmousedown="NYTD.relatedSearches.clickHandler(event);"  >Movies</a>
+             
+        </li>
+        <li>
+            <input type="hidden" name="topic1" value="Fassbender%2C+Michael">
+            <input type="hidden" name="topic_field1" value="per">
+                            <a class="inTextReferEmail" href="https://myaccount.nytimes.com/mem/tnt.html?module=call&alert_context=1&topic1=Fassbender%2C+Michael&topic_field1=per&topic1_check=y&retA=&retT=&cskey=" onClick="javascript:s_code_linktrack('Article-RelatedTopics'); dcsMultiTrack('DCS.dcssip','www.nytimes.com','DCS.dcsuri','/newstracker/add.html','WT.ti','Newstracker Add','WT.z_nta','Add','WT.pers','Per','WT.z_dcsm','1');" onmousedown="NYTD.relatedSearches.clickHandler(event);"  >Fassbender, Michael</a>
+             
+        </li>
+        <li>
+            <input type="hidden" name="topic1" value="McQueen%2C+Steve">
+            <input type="hidden" name="topic_field1" value="per">
+                            <a class="inTextReferEmail" href="https://myaccount.nytimes.com/mem/tnt.html?module=call&alert_context=1&topic1=McQueen%2C+Steve&topic_field1=per&topic1_check=y&retA=&retT=&cskey=" onClick="javascript:s_code_linktrack('Article-RelatedTopics'); dcsMultiTrack('DCS.dcssip','www.nytimes.com','DCS.dcsuri','/newstracker/add.html','WT.ti','Newstracker Add','WT.z_nta','Add','WT.pers','Per','WT.z_dcsm','1');" onmousedown="NYTD.relatedSearches.clickHandler(event);"  >McQueen, Steve</a>
+             
+        </li>
+
+    </ul>
+    </form>
+    </div>
+
+
+    </div>
+</div>	</div>
+			<!--cur: prev:-->
+	<div class="columnGroup last">				
+		
+
+<script type="text/javascript">
+// Readers Reviews and Ratings variables
+NYTD.CRNR                        = window.NYTD.CRNR || {};
+NYTD.CRNR.communityHost          = 'http://community.nytimes.com';
+NYTD.CRNR.assetName              = "Shame";
+NYTD.CRNR.pageType               = 'rate-review';
+NYTD.CRNR.vertical               = 'movies';
+NYTD.CRNR.countLocation          = 'readerReviewsCount';
+NYTD.CRNR.commentElement         = 'submitReview';
+NYTD.CRNR.communityAssetLabels   = 'NYT_Movies';
+NYTD.CRNR.communityAssetTaxonomy = 'movies/2011/Shame';
+NYTD.CRNR.communityAssetURL      = 'http://movies.nytimes.com/movie/463342/Shame/overview';
+NYTD.CRNR.communityMD5           = 'DvluKLo2N/PQ2T4cKZzNUw';
+NYTD.CRNR.javascriptHost         = 'http://movies.nytimes.com';
+// variables defined for the pagination
+NYTD.CRNR.currentPageNum         = 1;
+NYTD.CRNR.basePage               = 'http://community.nytimes.com/rate-review/movies.nytimes.com/movie/463342/Shame/overview';
+NYTD.CRNR.pageSort               = 'newest';
+NYTD.CRNR.reviewCount            = '25';
+</script>
+
+<div class="singleRuleDivider"></div>
+<div id="readerRating" class="readerRating wrap"></div>
+<div class="columnGroup doubleRule">
+    <div id="readerReviews">
+        <div id="commentsWell">
+            <div id="readerComments">
+                <div id="rnrShowComments"></div>
+                <div id="readerRatingClone" class="readerRating ratingsWell"></div>
+                <div id="rnrPostComments"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="singleRuleDivider"></div>
+	</div>
+	                       </div>
+                    </div><!-- close abColumn -->
+
+                    <div id="cColumn" class="cColumn">
+                        
+
+
+
+			<!--   -->                    <div class="columnGroup first">
+        		        	</div>
+        				<!--   -->                    <div class="columnGroup ">
+        		        	</div>
+        				<!--   -->                    <div class="columnGroup ">
+        		        	</div>
+        					<!--   -->                    <div class="columnGroup ">
+        		             
+                                                 <script type="text/javascript">
+                 NYTD.ArticleShareAd(AdShareData, {"type":"1","url":"","title":"","description":"","asset_id":"","pub_date":"","author":"","col_name":"","kicker":"","source":"Advertisement","section":"Advertisement","adx_setup_tag":"www.nytimes.com\/yr\/mo\/day\/movies\/shame-directed-by-steve-mcqueen-review.html","adx_keywords":"","nytdsection":"","nytdsubsection":"","encrypted_key":"9HT7CAI2jqWYe3ohlSFQ8w"});
+            </script> 
+        
+                	</div>
+        				<!--   -->                    <div class="columnGroup ">
+        		<script src="http://graphics8.nytimes.com/js/app/lib/prototype/1.6.0.2/prototype.js" language="javascript"></script><script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script><script src="http://graphics8.nytimes.com/js/app/movies/widgets/showtime/showtimeWidget.js" language="javascript"></script><script>	NYTD.Movies.showtimesWidget = new NYTD.Movies.ShowTimesWidget();    var widget_url= "/svc/movies/mymovietimes.html?output_type=html";  var zipcode = '';  var movieid = '';  if($('zipcode')){zipcode = $('zipcode').getValue(); }  if($('movieid')){movieid = $('movieid').getValue();}  if(zipcode ==  '' || movieid == ''){	var meta = document.getElementsByTagName("meta");	if(meta != '') {		for(var i=0;i<meta.length;i++){						if(zipcode ==  '' && meta[i].name == "TSZC"){				zipcode = meta[i].content;			}			if(movieid ==  '' && meta[i].name == "MID"){				movieid = meta[i].content;			}		}	}  }	if(zipcode !=  '' && movieid != ''){		widget_url = widget_url+'&zipcode='+zipcode+'&movie_id='+movieid;	}else if(zipcode !=  '' && movieid == ''){		widget_url = widget_url+'&zipcode='+zipcode;	}	else if(zipcode ==  '' && movieid != ''){		widget_url = widget_url+'&movie_id='+movieid;	}  NYTD.Movies.showtimesWidget.makeRequest(widget_url, 'GET');</script>	<div id="showtimeWidget" class="moviesShowTimeModule">		<div id="w_1" class="MYTW_widget MYTW_showtime">			<div id="contentHolder">			</div>		</div>	</div>	<div class="showtimeFooter_external clearfix">		<div id="widgetAd"><!-- ADX AD="Position1A" --></div>		<div class="refer"><a href="http://movies.nytimes.com/movie/showtimes"> More Theaters Near You &#187;</a></div>	</div><!-- .showtimeFooter -->        	</div>
+        				<!--   -->                    <div class="columnGroup last">
+        		
+<div id="mostPopWidget" class="doubleRule"></div>
+<script src="http://graphics8.nytimes.com/js/app/recommendations/recommendationsModule.js" type="text/javascript" charset="utf-8"></script>
+
+        	</div>
+        	
+
+
+
+<div class="columnGroup">
+    
+</div>
+                    </div>
+
+                </div><!-- close spanAB -->
+                	
+  <!-- start MOTH -->
+  	<div id="insideNYTimes" class="doubleRule">
+            <script type="text/javascript" src="http://js.nyt.com/js/app/moth/moth.js"></script>
+        <div id="insideNYTimesHeader">
+                    <div class="navigation"><span id="leftArrow"><img id="mothReverse" src="http://i1.nyt.com/images/global/buttons/moth_reverse.gif" /></span>&nbsp;<span id="rightArrow"><img id="mothForward" src="http://i1.nyt.com/images/global/buttons/moth_forward.gif" /></span></div>
+                <h4>
+            Inside NYTimes.com        </h4>
+    </div>
+    
+        
+    <div id="insideNYTimesScrollWrapper">
+        <table id="insideNYTimesBrowser" cellspacing="0">
+            <tbody>
+                <tr>
+                                                <td class="first">
+        <div class="story">
+            <h6 class="kicker">
+                                    <a href="http://theater.nytimes.com/pages/theater/index.html">Theater &raquo;</a>
+                            </h6>
+            <div class="mothImage">
+                <a href="http://theater.nytimes.com/2011/12/02/theater/reviews/bonnie-clyde-with-laura-osnes-and-jeremy-jordan-review.html"><img src="http://i1.nyt.com/images/2011/12/02/theater/02MOTH_BONNIE/02MOTH_BONNIE-moth.jpg" alt="Armed and Amorous: A Cold-Blooded Musical" width="151" height="151" /></a>
+            </div>
+            <h6 class="headline"><a href="http://theater.nytimes.com/2011/12/02/theater/reviews/bonnie-clyde-with-laura-osnes-and-jeremy-jordan-review.html">Armed and Amorous: A Cold-Blooded Musical</a></h6>
+        </div>
+    </td>
+                                                <td>
+        <div class="story">
+            <h6 class="kicker">
+                                    <a href="http://www.nytimes.com/pages/national/index.html">U.S. &raquo;</a>
+                            </h6>
+            <div class="mothImage">
+                <a href="http://www.nytimes.com/2011/12/02/us/more-military-dogs-show-signs-of-combat-stress.html"><img src="http://i1.nyt.com/images/2011/12/02/us/02moth_canine/02moth_canine-moth.jpg" alt="After Duty, Dogs Suffer Like Soldiers" width="151" height="151" /></a>
+            </div>
+            <h6 class="headline"><a href="http://www.nytimes.com/2011/12/02/us/more-military-dogs-show-signs-of-combat-stress.html">After Duty, Dogs Suffer Like Soldiers</a></h6>
+        </div>
+    </td>
+                                                <td>
+        <div class="story">
+            <h6 class="kicker">
+                                    <a href="http://www.nytimes.com/pages/sports/index.html">Sports &raquo;</a>
+                            </h6>
+            <div class="mothImage">
+                <a href="http://www.nytimes.com/2011/12/02/sports/kelly-cobb-leads-duke-to-womens-national-semifinals.html"><img src="http://i1.nyt.com/images/2011/12/02/sports/02moth_duke/02moth_duke-moth.jpg" alt="Duke Freshman Bloomed in Unlikely Place" width="151" height="151" /></a>
+            </div>
+            <h6 class="headline"><a href="http://www.nytimes.com/2011/12/02/sports/kelly-cobb-leads-duke-to-womens-national-semifinals.html">Duke Freshman Bloomed in Unlikely Place</a></h6>
+        </div>
+    </td>
+                                                    <td>
+            <div class="story">
+                <h6 class="kicker"><a href="http://www.nytimes.com/pages/opinion/index.html">Opinion &raquo;</a></h6>
+                <h3><a href="http://opinionator.blogs.nytimes.com/2011/12/01/health-care-for-a-changing-work-force/">Fixes: Health Care for a New Workforce</a></h3>
+                <p class="summary">With 42 million independent workers in the United States, the Freelancers Union&rsquo;s health plan may be a model for the future.</p>
+            </div>
+        </td>
+                                                <td>
+        <div class="story">
+            <h6 class="kicker">
+                                    <a href="http://www.nytimes.com/pages/arts/design/index.html">Arts and Design &raquo;</a>                            </h6>
+            <div class="mothImage">
+                <a href="http://www.nytimes.com/2011/12/02/arts/design/luminous-modernism-at-scandinavia-house-review.html"><img src="http://i1.nyt.com/images/2011/12/02/arts/02MOTH_LUMINOUS/02MOTH_LUMINOUS-moth.jpg" alt="&lsquo;Luminous Modernism&rsquo; at Scandinavia House" width="151" height="151" /></a>
+            </div>
+            <h6 class="headline"><a href="http://www.nytimes.com/2011/12/02/arts/design/luminous-modernism-at-scandinavia-house-review.html">&lsquo;Luminous Modernism&rsquo; at Scandinavia House</a></h6>
+        </div>
+    </td>
+                                                <td>
+        <div class="story">
+            <h6 class="kicker">
+                                    <a href="http://www.nytimes.com/pages/opinion/index.html">Opinion &raquo;</a>
+                            </h6>
+            <div class="mothImage">
+                <a href="http://www.nytimes.com/2011/12/02/opinion/can-russia-help-us-withdraw-from-afghanistan.html"><img src="http://i1.nyt.com/images/2011/12/02/opinion/02moth_opart/02moth_opart-moth.jpg" alt="Op-Ed: Can Russia Help Us in Afghanistan?" width="151" height="151" /></a>
+            </div>
+            <h6 class="headline"><a href="http://www.nytimes.com/2011/12/02/opinion/can-russia-help-us-withdraw-from-afghanistan.html">Op-Ed: Can Russia Help Us in Afghanistan?</a></h6>
+        </div>
+    </td>
+                                                <td class="hidden">
+        <div class="story">
+            <h6 class="kicker">
+                                    <a href="http://www.nytimes.com/pages/arts/design/index.html">Arts and Design &raquo;</a>                            </h6>
+            <div class="mothImage">
+                <a href="http://www.nytimes.com/2011/12/02/arts/design/storytelling-in-japanese-art-at-the-met-review.html"><span class="img" src="http://i1.nyt.com/images/2011/12/02/arts/02MOTH_STORY/02MOTH_STORY-moth.jpg" alt="A Thousand Years of Gods, Demons and Romance" width="151" height="151" /></a>
+            </div>
+            <h6 class="headline"><a href="http://www.nytimes.com/2011/12/02/arts/design/storytelling-in-japanese-art-at-the-met-review.html">A Thousand Years of Gods, Demons and Romance</a></h6>
+        </div>
+    </td>
+                                                <td class="hidden">
+        <div class="story">
+            <h6 class="kicker">
+                                    <a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate &raquo;</a>
+                            </h6>
+            <div class="mothImage">
+                <a href="http://www.nytimes.com/2011/12/04/realestate/the-hunt-upper-east-side-the-time-is-now-apartment.html"><span class="img" src="http://i1.nyt.com/images/2011/12/04/realestate/04MOTH_SUBHUNT/04MOTH_SUBHUNT-moth.jpg" alt="The Time-Is-Now Apartment" width="151" height="151" /></a>
+            </div>
+            <h6 class="headline"><a href="http://www.nytimes.com/2011/12/04/realestate/the-hunt-upper-east-side-the-time-is-now-apartment.html">The Time-Is-Now Apartment</a></h6>
+        </div>
+    </td>
+                                                    <td class="hidden">
+            <div class="story">
+                <h6 class="kicker"><a href="http://www.nytimes.com/pages/opinion/index.html">Opinion &raquo;</a></h6>
+                <h3><a href="http://www.nytimes.com/roomfordebate/2011/12/01/save-america-shop-at-work/">Shop at Work, and Save America</a></h3>
+                <p class="summary">Room for Debate asks: Should employers be worried about lost productivity, or grateful to workers who are always online?</p>
+            </div>
+        </td>
+                                                <td class="hidden">
+        <div class="story">
+            <h6 class="kicker">
+                                    <a href="http://www.nytimes.com/pages/movies/index.html"> Movies &raquo;</a>                            </h6>
+            <div class="mothImage">
+                <a href="http://movies.nytimes.com/2011/12/02/movies/shame-directed-by-steve-mcqueen-review.html"><span class="img" src="http://i1.nyt.com/images/2011/12/02/movies/02MOTH_SHAME/02MOTH_SHAME-moth.jpg" alt="Only One Thing on His Mind" width="151" height="151" /></a>
+            </div>
+            <h6 class="headline"><a href="http://movies.nytimes.com/2011/12/02/movies/shame-directed-by-steve-mcqueen-review.html">Only One Thing on His Mind</a></h6>
+        </div>
+    </td>
+                                                    <td class="hidden">
+            <div class="story">
+                <h6 class="kicker"><a href="http://www.nytimes.com/pages/opinion/index.html">Opinion &raquo;</a></h6>
+                <h3><a href="http://www.nytimes.com/2011/12/02/opinion/forensic-analysts-should-defend-reports-in-court.html">Op-Ed: The Price of the Bill of Rights</a></h3>
+                <p class="summary">Should an analyst who produced a fingerprint report have to show up at trial to face questions about the report?</p>
+            </div>
+        </td>
+                                                <td class="hidden">
+        <div class="story">
+            <h6 class="kicker">
+                                    <a href="http://www.nytimes.com/pages/travel/index.html">Travel &raquo;</a>
+                            </h6>
+            <div class="mothImage">
+                <a href="http://travel.nytimes.com/2011/12/04/travel/as-airlines-cut-back-hotels-step-in.html"><span class="img" src="http://i1.nyt.com/images/2011/12/04/travel/04MOTH_PRAC/04MOTH_PRAC-moth.jpg" alt="Airlines Cut Back, Hotels Step In" width="151" height="151" /></a>
+            </div>
+            <h6 class="headline"><a href="http://travel.nytimes.com/2011/12/04/travel/as-airlines-cut-back-hotels-step-in.html">Airlines Cut Back, Hotels Step In</a></h6>
+        </div>
+    </td>
+                                    </tr>
+            </tbody>
+        </table>
+    </div>
+    
+    </div><!-- end #insideNYTimes -->
+
+            </div><!-- close main -->
+                <div id="footer">
+<ul class="first">
+	<li class="first"><a href="http://www.nytimes.com">Home</a></li>
+		<li >
+		<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+	</li>
+		<li >
+		<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+	</li>
+		<li >
+		<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+	</li>
+		<li >
+		<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+	</li>
+		<li >
+		<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+	</li>
+		<li >
+		<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+	</li>
+		<li >
+		<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+	</li>
+		<li >
+		<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+	</li>
+		<li >
+		<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+	</li>
+		<li >
+		<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+	</li>
+		<li >
+		<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+	</li>
+		<li >
+		<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+	</li>
+		<li >
+		<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+	</li>
+		<li >
+		<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+	</li>
+		<li >
+		<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+	</li>
+		<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+</ul>    <ul>
+        <li class="first"><a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&copy; 2011</a> <a href="http://www.nytco.com/">The New York Times Company</a></li>
+        <li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+        <li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>
+        <li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Terms of Service</a></li>
+        <li class="termsOfSale"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+        <li><a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a></li>
+        <li><a class="rssButton" href="http://www.nytimes.com/rss">RSS</a></li>
+        <li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+        <li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+        <li><a href="http://www.nytco.com/careers">Work for Us</a></li>
+        <li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+    </ul>
+</div>
+        </div><!-- close page -->
+    </div><!-- close shell -->
+
+    <script type="text/javascript" src="http://graphics8.nytimes.com/js/app/community/V3/createHtmlMetaTags.js"></script>
+    <script type="text/javascript" src="http://graphics8.nytimes.com/js/app/community/V3/getCRNRFiles.js"></script>
+    <script type="text/javascript" src="http://graphics8.nytimes.com/js/app/community/V3/turnkey.js"></script>
+    <script type="text/javascript" src="http://graphics8.nytimes.com/js/build/article/movies/reviews/bottom.js"></script>
+    	
+<script type="text/javascript">
+var dcsvid = "16834169";
+var regstatus = "registered";
+</script>
+
+<script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script><noscript><div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div></noscript>
+
+<!-- Start UPT call --><img height="1" width="3" border="0" src="http://up.nytimes.com/?d=0//&amp;t=&amp;s=0&amp;ui=16834169&amp;r=&amp;u=movies.nytimes.com%2F2011%2F12%2F02%2Fmovies%2Fshame-directed-by-steve-mcqueen-review.html"><!-- End UPT call -->
+	<IMG SRC="/adx/bin/clientside/1f17f5a2Q2FQ3EQ3FIqQ3F!B_rQ5D0fQ3F@_Q5CQ3F_kkkkMFQ25Q3FRM!!!lkkI)!MF-)" height="1" width="3">
+</body>
+	<div align="center">
+<!-- Audience Incite 300x250 Survey Banner Tag for NYTimes:
+Start Vizu Audience Incite Tag / 300x250 Survey Banner / NYTimes -->
+<iframe src="http://puma.vizu.com/cdn/00/00/29/73/incite_300x250.html?wc=NYTimes;" width="300" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+<!-- End Vizu Audience Incite Tag / 300x250 Survey Banner / NYTimes -->
+</div>
+</html>
+	
+<!--It took 0.405 ms to render.//-->

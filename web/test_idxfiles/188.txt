@@ -1,0 +1,3 @@
+Location: http://jobmarket.nytimes.com/pages/jobs
+Connection: keep-alive
+

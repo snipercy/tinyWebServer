@@ -1,0 +1,3 @@
+Location: http://www.nytimes.com/glogin?URI=http://www.nytimes.com/2011/12/01/greathomesanddestinations/real-estate-for-1-36-million.html&OQ=_rQ3D1Q26hp&OP=711452a5Q2FJ(tBJQ5DchQ25SccmQ24JQ24KQ3AQ3AJQ3AQ24JKQ3AJVStumZcntQ25uPQ5DQ5DtQ25mQ7CPumQ7CcPQ25JStu96tQ25mumt6Q7DcS6Q3A6fQ2F6nQ7C99Q7CcPpZmn9
+Connection: keep-alive
+

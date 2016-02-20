@@ -1,0 +1,3 @@
+Location: http://www.nytimes.com/glogin?URI=http://www.nytimes.com/2011/12/02/opinion/forensic-analysts-should-defend-reports-in-court.html&OQ=_rQ3D1Q26hp&OP=58da309aQ2FQ2FgvEQ2FDQ5D_Q22lQ5DQ5Du@Q2F@CQ3FQ3FQ2FQ3F@Q2FC@Q2FQ5DQ5B)Q23)Q5DQ23Q2FQ3CQ5DlvQ23Q22)_O,Q23,5HQ22uQ22OQ22sQ5DV5DODvQ3CvQ23DOlvQ5BQ5DluQ22O)Q23O_Q5DVluBsum5
+Connection: keep-alive
+

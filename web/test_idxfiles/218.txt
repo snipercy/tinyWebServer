@@ -1,0 +1,1217 @@
+Set-cookie: RMID=21167df316c64ed913325f2a; expires=Saturday, 01-Dec-2012 18:04:34 GMT; path=/; domain=.nytimes.com
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Set-cookie: adxcs=s*2814a=0:1; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Arts - Art &amp; Design - The New York Times</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="noarchive">
+<meta name="description" content="Find news &amp; reviews on art &amp; design, paintings, photography, antiques, art museums, sculpture, art galleries, architects &amp; architecture &amp; artists." />
+<meta name="keywords" content="Parks and Other Recreation Areas,Architecture,Pedestrian Malls,Manhattan (NYC),Garvin, Alexander,Restoration and Renovation,Sidewalks,Area Planning and Renewal,Metropolitan Museum of Art,Art,Japan,Scandinavia House,Art,Metropolitan Museum of Art,Museums,Museum of Fine Arts (Houston),Tinterow, Gary,Art,Rauschenberg, Robert,Museums,Collectors and Collections,Parties (Social),Broad, Eli,Art,Art Basel Miami Beach,Miami Beach (Fla),Art,Museums,Architecture,San Francisco Museum of Modern Art,Snohetta,New York City,Art,Knoedler &amp; Company,Miami (Fla),Robins, Craig,Goldman, Tony,Knight Foundation,Art,Art Basel Miami Beach,Bas, Hernan,Rubell, Don,Rubell, Mera,Miami Art Museum,Lin, Maya,Newport Restoration Foundation,Parks and Other Recreation Areas,Newport (RI),Historic Buildings and Sites,Art,Architecture,Duke, Doris,Monuments and Memorials,New Models, Design and Products,Design,Mobile Applications,Kelly, Ellsworth,Art,Museum of Fine Arts (Boston),Parties (Social),Miami Beach (Fla),Restaurants,Art,Art Basel Miami Beach,Nineteen Hundred Twenties,Brooklyn (NYC),Carousels,New York City,South Street Seaport Museum,Museums,Jones, Susan Henshaw,Culture (Arts),Musee du Quai Branly,Museums,Cite de l'Architecture et du Patrimoine,Paris (France),Cite de l'Histoire de l'Immigration,Performa,Art,Theater,Art,Cerletty, Mathew,Art,Newman, Barnett,Art,McEwen, Adam,Frick Collection,Guggenheim, Solomon R, Museum,Art,Watteau, Jean-Antoine,Cattelan, Maurizio,Guggenheim, Solomon R, Foundation,Art,Braman, Sarah,Art,Antiques,Books and Literature,Books and Literature,Art,Christmas,Alternative and Renewable Energy,Electric Light and Power,Paris (France),Holidays and Special Occasions,New York City,Doyle, Thomas A,McMahon, Colleen,Corot, Jean-Baptiste-Camille,Art,Sentences (Criminal),Occupy Wall Street,Design,Demonstrations, Protests, and Riots,Missouri,Kansas City Symphony,Classical Music,Lyric Opera of Kansas City,Kauffman Center for the Performing Arts,Kansas City (Mo),Culture (Arts),Still, Clyfford, Museum,Denver (Colo),Art,Museums,Still, Clyfford,Parties (Social),Performance Art,Art,Los Angeles Museum of Contemporary Art,Abramovic, Marina,Museums,Photography,Sculpture,Baldessari, John,Getty, J Paul, Museum,High Line (NYC),New Museum of Contemporary Art,Art,Manet, Edouard,Auctions,Duquette, Tony,Books and Literature,Sotheby's,Brooklyn Museum,Antiques,Ceramics and Pottery,Art,Gordon, John Stuart,Art,Lislegaard, Ann,Art,Kelley, Mary Reid,Art,Hope, Shane,Beck, Bianca,Art,Art,Metropolitan Museum of Art,Japan,Art Basel (Festival),Art,Parties (Social),Art Basel Miami Beach,Fashion and Apparel,Art,Parties (Social),Art Basel Miami Beach,Art,Books and Literature,Casanova, Giacomo,National Library of France,Libraries and Librarians,Music,Art,New Orleans (La),Art,Barnes Foundation,Museums" />
+<meta name="asset_id" content="">
+<meta name="CG" content="arts">
+<meta name="SCG" content="design">
+<meta name="PT" content="Section Front">
+<meta name="PST" content="Subsection Front">
+<link rel="canonical" href="http://www.nytimes.com/pages/arts/design/index.html">
+<meta name="msapplication-starturl" content="http://www.nytimes.com/" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.nytimes.com/services/xml/rss/nyt/ArtandDesign.xml"/>
+
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/build/sectionfront/arts/design/styles.css" />
+<link rel="stylesheet" type="text/css" media="print" href="http://graphics8.nytimes.com/css/0.1/print/styles.css">
+<!--[if IE]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie.css);
+	    </style>
+	<![endif]-->
+<!--[if IE 6]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie6.css);
+	    </style>
+	<![endif]-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/DropDown.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/util/tooltip.js"></script>
+<script type="text/JavaScript">
+		var static_kw = "Parks and Other Recreation Areas;Architecture;Pedestrian Malls;Manhattan (NYC);Garvin; Alexander;Restoration and Renovation;Sidewalks;Area Planning and Renewal;Metropolitan Museum of Art;Art;Japan;Scandinavia House;Art;Metropolitan Museum of Art;Museums;Museum of Fine Arts (Houston);Tinterow; Gary;Art;Rauschenberg; Robert;Museums;Collectors and Collections;Parties (Social);Broad; Eli;Art;Art Basel Miami Beach;Miami Beach (Fla);Art;Museums;Architecture;San Francisco Museum of Modern Art;Snohetta;New York City;Art;Knoedler & Company;Miami (Fla);Robins; Craig;Goldman; Tony;Knight Foundation;Art;Art Basel Miami Beach;Bas; Hernan;Rubell; Don;Rubell; Mera;Miami Art Museum;Lin; Maya;Newport Restoration Foundation;Parks and Other Recreation Areas;Newport (RI);Historic Buildings and Sites;Art;Architecture;Duke; Doris;Monuments and Memorials;New Models; Design and Products;Design;Mobile Applications;Kelly; Ellsworth;Art;Museum of Fine Arts (Boston);Parties (Social);Miami Beach (Fla);Restaurants;Art;Art Basel Miami Beach;Nineteen Hundred Twenties;Brooklyn (NYC);Carousels;New York City;South Street Seaport Museum;Museums;Jones; Susan Henshaw;Culture (Arts);Musee du Quai Branly;Museums;Cite de l'Architecture et du Patrimoine;Paris (France);Cite de l'Histoire de l'Immigration;Performa;Art;Theater;Art;Cerletty; Mathew;Art;Newman; Barnett;Art;McEwen; Adam;Frick Collection;Guggenheim; Solomon R; Museum;Art;Watteau; Jean-Antoine;Cattelan; Maurizio;Guggenheim; Solomon R; Foundation;Art;Braman; Sarah;Art;Antiques;Books and Literature;Books and Literature;Art;Christmas;Alternative and Renewable Energy;Electric Light and Power;Paris (France);Holidays and Special Occasions;New York City;Doyle; Thomas A;McMahon; Colleen;Corot; Jean-Baptiste-Camille;Art;Sentences (Criminal);Occupy Wall Street;Design;Demonstrations; Protests; and Riots;Missouri;Kansas City Symphony;Classical Music;Lyric Opera of Kansas City;Kauffman Center for the Performing Arts;Kansas City (Mo);Culture (Arts);Still; Clyfford; Museum;Denver (Colo);Art;Museums;Still; Clyfford;Parties (Social);Performance Art;Art;Los Angeles Museum of Contemporary Art;Abramovic; Marina;Museums;Photography;Sculpture;Baldessari; John;Getty; J Paul; Museum;High Line (NYC);New Museum of Contemporary Art;Art;Manet; Edouard;Auctions;Duquette; Tony;Books and Literature;Sotheby's;Brooklyn Museum;Antiques;Ceramics and Pottery;Art;Gordon; John Stuart;Art;Lislegaard; Ann;Art;Kelley; Mary Reid;Art;Hope; Shane;Beck; Bianca;Art;Art;Metropolitan Museum of Art;Japan;Art Basel (Festival);Art;Parties (Social);Art Basel Miami Beach;Fashion and Apparel;Art;Parties (Social);Art Basel Miami Beach;Art;Books and Literature;Casanova; Giacomo;National Library of France;Libraries and Librarians;Music;Art;New Orleans (La);Art;Barnes Foundation;Museums";
+		var dynamic_kw = "Parks+and+Other+Recreation+Areas;Architecture;Pedestrian+Malls;Manhattan+%28NYC%29;Garvin;+Alexander;Restoration+and+Renovation;Sidewalks;Area+Planning+and+Renewal;Metropolitan+Museum+of+Art;Art;Japan;Scandinavia+House;Art;Metropolitan+Museum+of+Art;Museums;Museum+of+Fine+Arts+%28Houston%29;Tinterow;+Gary;Art;Rauschenberg;+Robert;Museums;Collectors+and+Collections;Parties+%28Social%29;Broad;+Eli;Art;Art+Basel+Miami+Beach;Miami+Beach+%28Fla%29;Art;Museums;Architecture;San+Francisco+Museum+of+Modern+Art;Snohetta;New+York+City;Art;Knoedler+%26+Company;Miami+%28Fla%29;Robins;+Craig;Goldman;+Tony;Knight+Foundation;Art;Art+Basel+Miami+Beach;Bas;+Hernan;Rubell;+Don;Rubell;+Mera;Miami+Art+Museum;Lin;+Maya;Newport+Restoration+Foundation;Parks+and+Other+Recreation+Areas;Newport+%28RI%29;Historic+Buildings+and+Sites;Art;Architecture;Duke;+Doris;Monuments+and+Memorials;New+Models;+Design+and+Products;Design;Mobile+Applications;Kelly;+Ellsworth;Art;Museum+of+Fine+Arts+%28Boston%29;Parties+%28Social%29;Miami+Beach+%28Fla%29;Restaurants;Art;Art+Basel+Miami+Beach;Nineteen+Hundred+Twenties;Brooklyn+%28NYC%29;Carousels;New+York+City;South+Street+Seaport+Museum;Museums;Jones;+Susan+Henshaw;Culture+%28Arts%29;Musee+du+Quai+Branly;Museums;Cite+de+l%27Architecture+et+du+Patrimoine;Paris+%28France%29;Cite+de+l%27Histoire+de+l%27Immigration;Performa;Art;Theater;Art;Cerletty;+Mathew;Art;Newman;+Barnett;Art;McEwen;+Adam;Frick+Collection;Guggenheim;+Solomon+R;+Museum;Art;Watteau;+Jean-Antoine;Cattelan;+Maurizio;Guggenheim;+Solomon+R;+Foundation;Art;Braman;+Sarah;Art;Antiques;Books+and+Literature;Books+and+Literature;Art;Christmas;Alternative+and+Renewable+Energy;Electric+Light+and+Power;Paris+%28France%29;Holidays+and+Special+Occasions;New+York+City;Doyle;+Thomas+A;McMahon;+Colleen;Corot;+Jean-Baptiste-Camille;Art;Sentences+%28Criminal%29;Occupy+Wall+Street;Design;Demonstrations;+Protests;+and+Riots;Missouri;Kansas+City+Symphony;Classical+Music;Lyric+Opera+of+Kansas+City;Kauffman+Center+for+the+Performing+Arts;Kansas+City+%28Mo%29;Culture+%28Arts%29;Still;+Clyfford;+Museum;Denver+%28Colo%29;Art;Museums;Still;+Clyfford;Parties+%28Social%29;Performance+Art;Art;Los+Angeles+Museum+of+Contemporary+Art;Abramovic;+Marina;Museums;Photography;Sculpture;Baldessari;+John;Getty;+J+Paul;+Museum;High+Line+%28NYC%29;New+Museum+of+Contemporary+Art;Art;Manet;+Edouard;Auctions;Duquette;+Tony;Books+and+Literature;Sotheby%27s;Brooklyn+Museum;Antiques;Ceramics+and+Pottery;Art;Gordon;+John+Stuart;Art;Lislegaard;+Ann;Art;Kelley;+Mary+Reid;Art;Hope;+Shane;Beck;+Bianca;Art;Art;Metropolitan+Museum+of+Art;Japan;Art+Basel+%28Festival%29;Art;Parties+%28Social%29;Art+Basel+Miami+Beach;Fashion+and+Apparel;Art;Parties+%28Social%29;Art+Basel+Miami+Beach;Art;Books+and+Literature;Casanova;+Giacomo;National+Library+of+France;Libraries+and+Librarians;Music;Art;New+Orleans+%28La%29;Art;Barnes+Foundation;Museums";
+		var nyt_google_contents = dynamic_kw + static_kw;
+		var nyt_google_ad_channel = "arts_design";
+	</script>
+<script type="text/javascript" src="http://use.typekit.com/fml4qar.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" src="http://js.nyt.com/js2/build/sitewide/sitewide.js"></script>
+<script type="text/javascript" src="http://js.nyt.com/js/app/lib/jquery/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+</head>
+<body>
+<a name="top"></a>
+<div id="shell">
+
+<ul id="memberTools">
+
+<!-- start text link -->
+<li class="cColumn-TextAdsHeader">Subscribe:
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/design/index.html&pos=Bar1&sn2=7e609337/66eef037&sn1=b40a0f68/25a41e6a&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-hd-digi-h3847Q-d3847R&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DW47AF%26CMP%3D3847Q" target="_blank">
+Home Delivery</a> / <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/design/index.html&pos=Bar1&sn2=7e609337/66eef037&sn1=baec058e/381f84b2&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-hd-digi-h3847Q-d3847R&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fsubscriptions%2FMultiproduct%2Flp5558%2Ehtml%3Fadxc%3D162578%26adxa%3D267522%26page%3Dwww.nytimes.com/pages/arts/design/index.html%26pos%3DBar1%26campaignId%3D3847R" target="_blank">Digital</a>
+</li>
+<!-- end text link -->
+
+ 
+                        <li><a id="memberToolsLogin" href="https://myaccount.nytimes.com/auth/login">Log In</a></li>
+            <li><a href="https://myaccount.nytimes.com/gst/regi.html">Register Now</a></li>
+                            
+
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+</ul>
+<div class="tabsContainer">
+<ul id="mainTabs" class="tabs">
+<li class="first mainTabHome"><a href="http://www.nytimes.com">Home Page</a></li>
+<li class="mainTabTodaysPaper"><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+<li class="mainTabVideo"><a href="http://www.nytimes.com/video">Video</a></li>
+<li class="mainTabMostPopular"><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+<li class="mainTabTimesTopics"><a href="http://topics.nytimes.com/top/reference/timestopics">Times Topics</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+</script>	<div id="page" class="tabContent active">
+<div class="clearfix" id="masthead">
+
+<div class="singleAd" id="Middle1C">
+<!-- ADXINFO classification="button" campaign="ING_DirectSiteSearchQ111_1694929-nyt1"--><A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/design/index.html&pos=Middle1C&sn2=a7ef4d0b/521db1e6&sn1=59756299/46b02203&camp=ING_DirectSiteSearchQ111_1694929-nyt1&ad=NEW.88x31.SiteSearch.Wizard&goto=http://ad.doubleclick.net/jump/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.34" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.34"
+ BORDER=0 WIDTH=88 HEIGHT=31
+ ALT="Click Here"></A>
+</div>
+
+<div id="searchWidget">
+<div class="inlineSearchControl">
+<form enctype="application/x-www-form-urlencoded" action="http://query.nytimes.com/search/sitesearch" method="get" name="searchForm" id="searchForm">
+<input type="hidden" value="full" name="date_select"/>
+<label for="searchQuery">Search All NYTimes.com</label>
+<input type="text" class="text" value="" size="" name="query" id="searchQuery"/>
+<input type="hidden" id="searchAll" name="type" value="nyt"/>
+<input type="image" id="searchSubmit" title="Search" alt="Search" width="22" height="19" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"/>
+</form>
+</div>
+</div>
+
+<div id="branding" >
+<a href="http://www.nytimes.com"><img src="http://graphics8.nytimes.com/images/misc/nytlogo152x23.gif" alt="New York Times" id="NYTLogo"/></a>
+</div>
+
+<div id="date">
+<p>
+Friday, December  2, 2011
+</p>
+</div>
+
+<h2>
+<a href="http://www.nytimes.com/pages/arts/design/index.html">Art & Design</a>
+</h2>
+
+</div>
+<div class="navigation tabsContainer">
+<ul class="tabs">
+<li id="navWorld" class="first ">
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>	<li id="navUs" >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>	<li id="navNyregion" >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>	<li id="navBusiness" >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>	<li id="navTechnology" >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>	<li id="navScience" >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>	<li id="navHealth" >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>	<li id="navSports" >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>	<li id="navOpinion" >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>	<li id="navArts" class="selected">
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+<ul class="subNavigation"><li id="subNav_design" class="selected nochildren" ><a href="http://www.nytimes.com/pages/arts/design/index.html">Art & Design</a></li><li id="subNav_books"><a href="http://www.nytimes.com/pages/books/index.html">Books</a></li><li id="subNav_dance"><a href="http://www.nytimes.com/pages/arts/dance/index.html">Dance</a></li><li id="subNav_movies"><a href="http://movies.nytimes.com/pages/movies/index.html">Movies</a></li><li id="subNav_music"><a href="http://www.nytimes.com/pages/arts/music/index.html">Music</a></li><li id="subNav_television"><a href="http://www.nytimes.com/pages/arts/television/index.html">Television</a></li><li id="subNav_theater"><a href="http://theater.nytimes.com/pages/theater/index.html">Theater</a></li><li id="subNav_video-games"><a href="http://www.nytimes.com/pages/arts/video-games/index.html">Video Games</a></li><li id="subNav_events"><a href="http://www.nytimes.com/events">Events</a></li></ul></li>	<li id="navStyle" >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>	<li id="navTravel" >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>	<li id="navJobs" >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>	<li id="navRealestate" >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>	<li id="navAutomobiles" >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li></ul>
+</div>
+
+<div class="singleAd" id="TopAd">
+<!-- ADXINFO classification="bigad" campaign="PAFAADSF_1768184_nyt10"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/design/index.html&pos=TopAd&sn2=ab655798/4d211152&sn1=b1b5acde/ff6dc037&camp=PAFAADSF_1768184_nyt10&ad=pafa_LB_ADSF_dec1&goto=http%3A%2F%2Fwww%2Epafa%2Eorg%2FMuseum%2FExhibitions%2FCurrently%2DOn%2DView%2FBill%2DViola%2DOcean%2DWithout%2Da%2DShore%2F1088%2F" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/28/57/ad.285759/11_28_PAFA_768x90_nytimes.jpg" width="768" height="90" border="0"></a>
+
+</div>
+
+<div id="main">
+<div class="spanAB wrap">
+<div class="wideA">
+<div class="abColumn">
+<div class="aColumn">
+<!--cur:LedeStory395 prev:-->
+<div class="columnGroup first">
+<div class="ledeStory">
+<div class="storyHeader">
+<h6 class="kicker">Arts & Leisure</h6>
+<h1><a href="http://www.nytimes.com/2011/12/04/arts/design/alexander-garvin-looks-at-public-spaces-in-new-york.html?ref=design">
+Treasuring Urban Oases</a></h1>
+<h6 class="byline">
+By MICHAEL KIMMELMAN        			<span class="timestamp">8:00 AM ET</span>
+</h6>
+</div>
+<div class="ledePhoto">
+<div class="image">
+<a href="http://www.nytimes.com/2011/12/04/arts/design/alexander-garvin-looks-at-public-spaces-in-new-york.html?ref=design"><img src="http://graphics8.nytimes.com/images/2011/12/04/arts/04SUBSPACES_SPAN/04SUBSPACES_SPAN-sfSpan.jpg" border="0" width="395" height="263" alt="The fountain at Bryant Park in Midtown." /></a>
+</div>
+<h6 class="credit">Richard Perry/The New York Times</h6>
+<p class="caption">The fountain at Bryant Park in Midtown.</p>
+</div>
+<p class="summary">
+Alexander Garvin, an architect and urban planner, has spent the better part of the last half-century thinking about New York City’s public spaces.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/slideshow/2011/12/04/arts/design/20111204-SPACES.html"><img src="http://graphics8.nytimes.com/images/multimedia/icons/photo_icon.gif" alt="Photographs" width="12" height="10" border="0"> Walking New York's Public Spaces</a></li>
+</ul>
+</div>
+<div class="storyFollowsLede">
+<h6 class="kicker">Art Review</h6>
+<h3><a href="http://www.nytimes.com/2011/12/02/arts/design/storytelling-in-japanese-art-at-the-met-review.html?ref=design">
+Unfurling a Thousand Years of Gods, Demons and Romance</a></h3>
+<h6 class="byline">
+By ROBERTA SMITH 
+</h6>
+<p class="summary">
+“Storytelling in Japanese Art” at the Metropolitan Museum of Art reveals the narrative side of Japanese art in a lavish assortment of hand scrolls, hanging scrolls, screens and books.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/slideshow/2011/12/02/arts/design/20111202_STORYTELLING.html"><span class="icon slideshow">Slide Show</span></a></li>
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001202361" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/02/arts/design/storytelling-in-japanese-art-at-the-met-review.html"></span></li>
+</ul>
+</div>
+<div class="storyFollowsLede">
+<h6 class="kicker">Art Review</h6>
+<h3><a href="http://www.nytimes.com/2011/12/02/arts/design/luminous-modernism-at-scandinavia-house-review.html?ref=design">
+Shadowy Lure of Scandinavia Fights the Bright Pull of Paris</a></h3>
+<h6 class="byline">
+By KEN JOHNSON 
+</h6>
+<p class="summary">
+A new exhibition at Scandinavia House presents 48 paintings and drawings, mostly from the first decade of the 20th century.</p>
+</div>
+</div>
+<!--cur:BlogModule prev:LedeStory395-->
+<div class="columnGroup singleRule ">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://artsbeat.blogs.nytimes.com/category/art-design/" title="ArtsBeat">
+<img src="http://graphics8.nytimes.com/images/blogs/artsbeat/artsbeat163.gif" alt="ArtsBeat"/>
+</a> 
+</h3> <div class="story first">
+<p class="date">December 1, 2011 <span class="timestamp">5:00 PM ET</span></p><h3><a href="http://artsbeat.blogs.nytimes.com/2011/12/01/15-million-gift-changes-miami-art-museum-to-jorge-m-perez-art-museum/?ref=design">$15 Million Gift Changes Miami Art Museum to Jorge M. Pérez Art Museum</a></h3>
+<p class="summary">
+The director welcomes the gift but a trustee has resigned over the renaming.</p>
+</div><div class="story">
+<p class="date">December 1, 2011 <span class="timestamp">2:29 PM ET</span></p><h3><a href="http://artsbeat.blogs.nytimes.com/2011/12/01/judge-dismisses-suit-against-dallas-art-museum/?ref=design">Judge Dismisses Suit Against Dallas Art Museum</a></h3>
+<p class="summary">
+The claim that the museum's former director and two trustees cheated the plaintiff is rejected.</p>
+</div><div class="story">
+<p class="date">December 1, 2011 <span class="timestamp"></span></p><h3><a href="http://artsbeat.blogs.nytimes.com/2011/12/01/look-up-in-the-sky-its-an-astronomical-price-for-a-comic-book/?ref=design">Look! Up in the Sky! It's an Astronomical Price for a Comic Book!</a></h3>
+<p class="summary">
+Action Comics No. 1, which features the first appearance of Superman, sells for more than $2 million.</p>
+</div><p class="refer">
+<a href="http://artsbeat.blogs.nytimes.com/category/art-design/" title="More Design News in ArtsBeat">More Design News in ArtsBeat &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<!--cur:StandardThumb prev:BlogModule-->
+<div class="columnGroup singleRule ">
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/arts/design/gary-tinterow-named-director-of-museum-of-fine-arts-houston.html?ref=design">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/arts/02HOUSTON/02HOUSTON-thumbStandard.jpg" width="75" height="75" alt="Gary Tinterow" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/arts/design/gary-tinterow-named-director-of-museum-of-fine-arts-houston.html?ref=design">
+Met Veteran Named Director of Houston Art Museum</a></h3>
+<h6 class="byline">
+By CAROL VOGEL	    </h6>
+<p class="summary">
+Gary Tinterow has been named director of the Museum of Fine Arts, Houston, and will leave his position at the Metropolitan Museum of Art.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Art Review</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/arts/design/selections-from-the-private-collection-of-robert-rauschenberg-at-gagosian-gallery.html?ref=design">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/arts/02RAUSCHENBERG_SPAN/SUBRAUSCHENBERG1-thumbStandard.jpg" width="75" height="75" alt="From left, “Untitled” (1962), by Jean Tinguely; “Power Object,” from Mali, artist unknown; and two Amazonian fertility suits." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/arts/design/selections-from-the-private-collection-of-robert-rauschenberg-at-gagosian-gallery.html?ref=design">
+A Portrait of the Artist as Exuberant Collector</a></h3>
+<h6 class="byline">
+By ROBERTA SMITH	    </h6>
+<p class="summary">
+Everything in this show at the Gagosian Gallery was once owned by Robert Rauschenberg (1925-2008), but there is nothing by the artist himself on view.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/fashion/eli-broad-a-major-art-collector-at-art-basel-miami-beach.html?ref=design">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/fashion/01guyartbasel/01guyartbasel-thumbStandard.jpg" width="75" height="75" alt="Maria Bell and Eli Broad at The Kingdom of Morocco and Maybach dinner in celebration of Art Basel." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/fashion/eli-broad-a-major-art-collector-at-art-basel-miami-beach.html?ref=design">
+A Shark Circles Art Basel Miami Beach</a></h3>
+<h6 class="byline">
+By GUY TREBAY	    </h6>
+<p class="summary">
+A few sightings of Eli Broad, the billionaire philanthropist and art collector, quietly making the rounds at the fair in South Florida.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/01/arts/design/san-francisco-museum-of-modern-art-expansion-aims-for-friendly.html?ref=design">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/arts/EXPAND/EXPAND-thumbStandard.jpg" width="75" height="75" alt="A rendering of the San Francisco Museum of Modern Art's planned expansion, designed by Snohetta." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/01/arts/design/san-francisco-museum-of-modern-art-expansion-aims-for-friendly.html?ref=design">
+An Imposing Museum Turns Warm and Fuzzy</a></h3>
+<h6 class="byline">
+By ROBIN POGREBIN	    </h6>
+<p class="summary">
+In an ambitious expansion, the San Francisco Museum of Modern Art chose a design meant to convey an open, friendly and embracing presence to the public.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/01/arts/design/knoedler-art-gallery-in-nyc-closes-after-165-years.html?ref=design">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/nyregion/ALT-3-GALLERY/ALT-3-GALLERY-thumbStandard.jpg" width="75" height="75" alt="Knoedler & Company, at 19 East 70th Street, announced its immediate closing on Wednesday. Founded in 1846, it has occupied eight different homes. It sold its town house in February." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/01/arts/design/knoedler-art-gallery-in-nyc-closes-after-165-years.html?ref=design">
+A Gallery That Helped Create the American Art World Closes Shop After 165 Years</a></h3>
+<h6 class="byline">
+By PATRICIA COHEN	    </h6>
+<p class="summary">
+Knoedler & Company, one of the oldest art galleries in the country, helped nurture the American art community, displaying great American artists before New York had a major museum.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/30/arts/design/how-art-basel-is-remaking-miami.html?ref=design">
+<img src="http://graphics8.nytimes.com/images/2011/11/29/arts/artsspecial/MIAMIART-slide-1FY5/MIAMIART-slide-1FY5-thumbStandard-v2.jpg" width="75" height="75" alt="Miami's Wynwood Art District will feature murals by international graffiti artists during the 10th edition the city's Art Basel festival that begins Thursday." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/30/arts/design/how-art-basel-is-remaking-miami.html?ref=design">
+Miami, City of Sun and Beaches, Is Now About Art</a></h3>
+<h6 class="byline">
+By LIZETTE ALVAREZ and JORDAN MELNICK	    </h6>
+<p class="summary">
+Since Art Basel made Miami Beach its American home, it has infused Miami’s booming contemporary-art scene with an unmistakable swagger.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/slideshow/2011/11/29/arts/artsspecial/MIAMIART.html"><img src="http://graphics8.nytimes.com/images/multimedia/icons/photo_icon.gif" alt="Photographs" width="12" height="10" border="0"> Slide Show: Miami's Maturing Art Scene </a></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/29/arts/design/doris-duke-memorial-plan-by-maya-lin-splits-newports-old-guard.html?ref=design">
+<img src="http://graphics8.nytimes.com/images/2011/11/28/arts/lin2/lin2-thumbStandard.jpg" width="75" height="75" alt="Maya Lin's plan model for Queen Anne Square in Newport, R.I." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/29/arts/design/doris-duke-memorial-plan-by-maya-lin-splits-newports-old-guard.html?ref=design">
+Plan for a Memorial Splits Newport’s Old Guard</a></h3>
+<h6 class="byline">
+By RANDY KENNEDY	    </h6>
+<p class="summary">
+Maya Lin’s plan for a memorial to the heiress and preservationist Doris Duke in a park in Newport, R.I., has critics and defenders.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/28/arts/design/innovations-that-make-everyday-life-a-little-easier.html?ref=design">
+<img src="http://graphics8.nytimes.com/images/2011/11/28/arts/28iht-design28A/28iht-design28C-thumbStandard.jpg" width="75" height="75" alt="Designed by Irma Boom, the jacket cover of "Project Japan: Metabolism Talks," by Rem Koolhaas and Hans Ulrich Obrist." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/28/arts/design/innovations-that-make-everyday-life-a-little-easier.html?ref=design">
+Innovations That Make Everyday Life a Little Easier</a></h3>
+<h6 class="byline">
+By ALICE RAWSTHORN	    </h6>
+<p class="summary">
+Designers are able to translate leaps in technology into things we find useful or appealing.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Art and Design</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/arts/design/ellsworth-kellys-wood-sculptures-in-boston.html?ref=design">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/arts/27ELSWORTH2/27ELSWORTH2-thumbStandard.jpg" width="75" height="75" alt="Ellsworth Kelly in his studio in Spencertown, N.Y." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/arts/design/ellsworth-kellys-wood-sculptures-in-boston.html?ref=design">
+Seeking the Calligraphy in the Grain</a></h3>
+<h6 class="byline">
+By TED LOOS	    </h6>
+<p class="summary">
+Ellsworth Kelly, known for his hard-edge painting, worked in wood, too, and his sculptures are on display in Boston.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/fashion/where-to-party-at-art-basel-miami-beach.html?ref=design">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/fashion/27BASEL1_SPAN/27BASEL1_SPAN-thumbStandard.jpg" width="75" height="75" alt="Viewing art at the Zwirner Gallery during Art Basel Miami Beach last year." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/fashion/where-to-party-at-art-basel-miami-beach.html?ref=design">
+Where to Party at Art Basel Miami Beach</a></h3>
+<h6 class="byline">
+By BEE-SHYUAN CHANG	    </h6>
+<p class="summary">
+Events and parties will mark the 10th year of Art Basel Miami Beach this year.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Look</h6>
+<h3><a href="http://www.nytimes.com/2011/11/27/magazine/janes-carousel.html?ref=design">
+What Goes Around</a></h3>
+<h6 class="byline">
+By JULIE BOSMAN	    </h6>
+<p class="summary">
+Jane’s Carousel, built in 1922, now sits on the Brooklyn waterfront, restored to its jazz-era glory.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/nyregion/south-street-seaport-museums-sos-call-is-answered.html?ref=design">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/nyregion/27JONES/27JONES-thumbStandard.jpg" width="75" height="75" alt="Susan Henshaw Jones leads the South Street Seaport Museum." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/nyregion/south-street-seaport-museums-sos-call-is-answered.html?ref=design">
+At Harbor, Answering an S.O.S.</a></h3>
+<h6 class="byline">
+By ROBIN FINN	    </h6>
+<p class="summary">
+If Susan Henshaw Jones succeeds in resurrecting the South Street Seaport Museum, it will be the third time in her career that she has turned around a moribund institution.</p>
+</div>
+</div>
+<!--cur:HeadlineOnly prev:StandardThumb-->
+<div class="columnGroup singleRule ">
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/26/arts/design/quai-branly-museum-in-paris-glorifies-the-other.html?ref=design">
+Critic’s Notebook: French Museums Atone for a Colonial History</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/26/arts/design/performa-11-is-bigger-but-not-better.html?ref=design">
+Critic’s Notebook: So Big, Performa Now Misses the Point</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/25/arts/design/mathew-cerletty-at-algus-greenspon.html?ref=design">
+Art in Review: Mathew Cerletty: ‘Susan’ at Algus Greenspon</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/25/arts/design/barnett-newman-at-craig-f-starr-gallery-review.html?ref=design">
+Art in Review: Barnett Newman at Craig F. Starr Gallery</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/25/arts/design/adam-mcewens-real-slow-drag-at-marianne-boesky-gallery-review.html?ref=design">
+Art in Review: Adam McEwen’s ‘Real Slow Drag’ at Marianne Boesky Gallery</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/25/arts/design/guggenheim-names-six-finalists-for-2012-hugo-boss-prize.html?ref=design">
+Inside Art: Six Named as Finalists for Hugo Boss Prize</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/25/arts/design/sarah-bramans-yours-at-mitchell-innes-nash-review.html?ref=design">
+Art in Review: Sarah Braman’s ‘Yours’ at Mitchell-Innes & Nash —</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/25/arts/design/books-on-antiques-gold-silver-voodoo-gems-and-textiles.html?ref=design">
+Holiday Gift Guide: Caravans Between Covers</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/25/arts/design/art-books-recommended-as-gifts-for-art-lovers.html?ref=design">
+Holiday Gift Guide: For Art Lovers, Volumes Meant to Awe and Inspire</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/24/world/europe/french-sun-in-the-south-fuels-a-festive-glow-in-paris.html?ref=design">
+French Sun in the South Fuels a Festive Glow in Paris</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/22/nyregion/defendant-in-corot-art-fraud-case-gets-6-year-prison-sentence.html?ref=design">
+In Art Fraud Case, Defendant With a History Receives a Six-Year Sentence</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/21/arts/design/elements-of-style-as-occupy-movement-evolves.html?ref=design">
+Elements of Style as Occupy Movement Evolves</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/21/arts/music/kauffman-center-for-the-performing-arts-in-kansas-city-mo.html?ref=design">
+Critic’s Notebook: Arts Center Reflects a New Dawn on the Prairie</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/20/arts/design/clyfford-still-museum-in-denver.html?ref=design">
+Abstract Expressionist Made Whole</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/20/fashion/marina-abramovics-crossover-moment.html?ref=design">
+A Career Provocateur</a>
+</h6>
+</li>
+</ul>
+</div>
+<!--cur:HeadlineOnly prev:HeadlineOnly-->
+<div class="columnGroup singleRule last">
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/25/arts/design/museum-and-gallery-listings-for-nov-25-dec-1.html?ref=design">
+Museum and Gallery Listings for Nov. 25-Dec. 1</a>
+</h6>
+</li>
+</ul>
+</div>
+<div id="adxSponLink" class="columnGroup singleRule"></div>
+</div><!--close .aColumn -->
+<div class="bColumn">
+<div class="columnGroup SectionFront3Col first">
+<div class="story">
+<h6 class="kicker">Inside Art</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/arts/design/the-ungovernables-at-new-museum-a-manet-to-the-getty.html?ref=design">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/arts/VOGEL/VOGEL-thumbStandard.jpg" width="75" height="75" alt="A rendering of “The First $100,000 I Ever Made,” a work by John Baldessari being erected along the High Line this month." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/arts/design/the-ungovernables-at-new-museum-a-manet-to-the-getty.html?ref=design">
+A Rising Generation of Artistic Resistance</a></h3>
+<h6 class="byline">
+By CAROL VOGEL	    </h6>
+<p class="summary">
+“The Ungovernables” at the New Museum; the J. Paul Getty Museum acquires a Manet portrait; and John Baldessari’s $100,000 bill at the High Line.</p>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="story">
+<h6 class="kicker">Antiques</h6>
+<h3><a href="http://www.nytimes.com/2011/12/02/arts/design/madison-square-presbyterian-church-fragments-found.html?ref=design">
+Madison Square Church Survives in Fragments</a></h3>
+<h6 class="byline">
+By EVE M. KAHN	    </h6>
+<p class="summary">
+Madison Square Presbyterian Church, demolished in 1919, lives on in fragments scattered from Brooklyn to Riverside, Calif.</p>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<h3 class="sectionHeader">Art in Review</h3>
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/design/ann-lislegaard-timemachine.html?ref=design">
+Ann Lislegaard: ‘TimeMachine’</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/design/mary-reid-kelley-the-syphilis-of-sisyphus.html?ref=design">
+Art In Review: Mary Reid Kelley: ‘The Syphilis of Sisyphus ’</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/design/shane-hope-transubstrational-as-a-smartmatter-of-nanofacture.html?ref=design">
+Art In Review: Shane Hope: ‘Transubstrational: As a Smartmatter of Nanofacture’</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/design/bianca-beck-body.html?ref=design">
+Art In Review: Bianca Beck: ‘Body’</a>
+</h6>
+</li>
+</ul>
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<h6 class="sectionHeader flushBottom">Multimedia</h6>
+<div class="columnGroup firstArticleInline">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/slideshow/2011/12/02/arts/design/20111202_STORYTELLING.html?ref=design">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/arts/20111202_STORYTELLING-slide-L4BF/20111202_STORYTELLING-slide-L4BF-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay slideshow">Slide Show</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/slideshow/2011/12/02/arts/design/20111202_STORYTELLING.html?ref=design">
+‘Storytelling in Japanese Art’</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Images from the new exhibition at the Metropolitan Museum of Art.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/12/02/arts/design/storytelling-in-japanese-art-at-the-met-review.html">Art Review</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/slideshow/2011/12/01/fashion/20111201-SCENE.html?ref=design">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/fashion/20111201-SCENE-slide-FFBB/20111201-SCENE-slide-FFBB-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay slideshow">Slide Show</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/slideshow/2011/12/01/fashion/20111201-SCENE.html?ref=design">
+Art Basel Miami Beach: Tuesday Night</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Parties for Ferrari and White Cube gallery kick off the10th year of Art Basel Miami Beach.</p>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/slideshow/2011/12/01/fashion/02scenecityartbasel.html?ref=design">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/fashion/02scenecityartbasel-slide-7G9R/02scenecityartbasel-slide-7G9R-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay slideshow">Slide Show</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/slideshow/2011/12/01/fashion/02scenecityartbasel.html?ref=design">
+Art Basel Miami Beach: Wednesday Night</a></h5>
+<h6 class="byline">
+By DENNY LEE            </h6>
+<p class="summary">
+Dueling beach parties for MoCA and Art.sy.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/slideshow/2011/12/01/fashion/20111201-SCENE.html"><span class="icon slideshow">Slide Show</span>: Art Basel Miami Beach: Tuesday Night</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/slideshow/2011/11/29/arts/design/casanova.html?ref=design">
+<img src="http://graphics8.nytimes.com/images/2011/11/29/arts/design/casanova-slide-HZS7/casanova-slide-HZS7-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay slideshow">Slide Show</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/slideshow/2011/11/29/arts/design/casanova.html?ref=design">
+Seduction As Art</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Images from the exhibition “Casanova — The Passion for Freedom.”</p>
+</div>
+</div>
+<div class="columnGroup singleRule lastArticleInline">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/slideshow/2011/11/21/arts/design/20111122-swoon-ss.html?ref=design">
+<img src="http://graphics8.nytimes.com/images/2011/11/21/arts/design/20111122-swoon-ss-slide-082C/20111122-swoon-ss-slide-082C-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay slideshow">Slide Show</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/slideshow/2011/11/21/arts/design/20111122-swoon-ss.html?ref=design">
+House Music in New Orleans</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+The Music Box is an interactive art installation composed of structures that double as musical instruments.</p>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<div class="columnGroup first">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/indexes/2011/10/21/arts/artsspecial/index.html?ref=design">
+<img src="http://graphics8.nytimes.com/images/2011/10/23/arts/artsspecial/23PAINT1/23PAINT1-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+</a>
+</div>
+<h6 class="kicker">Special Section</h6>
+<h5><a href="http://www.nytimes.com/indexes/2011/10/21/arts/artsspecial/index.html?ref=design">
+Fine Arts & Exhibits</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Big museum shows, love affairs and art all night.</p>
+<ul class="refer">
+<li><a href="http://video.nytimes.com/video/2011/10/19/arts/artsspecial/100000001122835/restoring-natural-history.html"><span class="icon video">Video</span>: Restoring Natural History</a></li>
+<li><a href="http://www.nytimes.com/slideshow/2011/10/23/arts/artsspecial/23gallery-slideshow.html"><span class="icon slideshow">Slide Show</span>: Picasso’s Muse</a></li>
+<li><a href="http://www.nytimes.com/indexes/2011/10/22/arts/artsspecial/"> Complete Special Section </a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://www.nytimes.com/pages/style/t/index.html" title="T Magazine">
+<img src="http://graphics8.nytimes.com/images/section/style/header/t_style_magazine_190.gif" alt="T Magazine"/>
+</a> 
+</h3> <div class="story first">
+<h3><a href="http://tmagazine.blogs.nytimes.com/2011/12/02/design-miami-back-to-the-future/?ref=design">Design Miami | Back to the Future</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">9:00 AM ET</span></p>
+</div><div class="story">
+<h3><a href="http://tmagazine.blogs.nytimes.com/2011/12/01/design-miami-bring-your-a-game/?ref=design">Design Miami | Bring Your A-Game</a></h3>
+<p class="date">December 1, 2011 <span class="timestamp">3:11 PM ET</span></p>
+</div><div class="story">
+<h3><a href="http://tmagazine.blogs.nytimes.com/2011/11/30/london-underground-the-prozac-of-print/?ref=design">London Underground | The Prozac of Print</a></h3>
+<p class="date">November 30, 2011 <span class="timestamp"></span></p>
+</div><p class="refer">
+<a href="http://www.nytimes.com/pages/style/t/index.html" title="Go to T Magazine">Go to T Magazine &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<h6 class="sectionHeader flushBottom">Multimedia</h6>
+<div class="columnGroup firstArticleInline">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/2011/07/09/arts/design/20110709-barnes-art-pano.html?ref=design">
+<img src="http://graphics8.nytimes.com/images/2011/07/10/arts/barnespromo/barnespromo-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay interactive">Interactive Feature</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/interactive/2011/07/09/arts/design/20110709-barnes-art-pano.html?ref=design">
+Collector as Artist: The Barnes Foundation</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Take an interactive tour with Randy Kennedy through the Barnes Foundation, one of America’s strangest art museums since the day its doors opened in 1925.</p>
+<ul class="refer">
+<li><a href="http://artsbeat.blogs.nytimes.com/2011/07/11/an-interactive-tour-through-the-barnes-foundation/">More From ArtsBeat</a> | <a href="http://artsbeat.blogs.nytimes.com/2011/07/11/an-interactive-tour-through-the-barnes-foundation/#postComment"><img src="http://graphics.nytimes.com/images/section/opinion/comment_icon.gif" alt="Comment" style="margin-right: 3px; padding-top: 3px;" border="0">  Share Your Memories</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="story">
+<h6 class="kicker">The Scoop</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/thescoop?ref=design">
+<img src="http://graphics8.nytimes.com/images/2010/09/21/arts/events75.png" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/thescoop?ref=design">
+New York City iPhone App</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Get a selection of the listings on your iPhone with The Scoop, The Times’s guide to what to eat, see and do in New York.</p>
+<ul class="refer flush"><li><a href="http://www.nytimes.com/thescoop">Learn More and Download  &raquo;</a></li>
+</ul></div>
+</div>
+<div class="columnGroup doubleRule last">
+
+
+<div class="singleAd" id="Box2">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/design/index.html&pos=Box2&sn2=7e609038/6906f037&sn1=38d43609/ab3147cd&camp=nyt2011-circ-120x90-weekender-36H38&ad=071511-120x90-weekender-36H38&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DWC7AA%26CMP%3D36H38" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/13/ad.271312/11-0920_HDWeekender2_120x90.jpg" width="120" height="90" border="0"></a>
+
+</div>
+
+</div>
+</div><!--close .bColumn -->
+</div><!--close .abColumn -->
+<div class="cColumn">
+<!--Ads  -->                    <div class="columnGroup first">
+
+</div>
+<!--Ads Ads -->                    <div class="columnGroup ">
+
+			
+<div class="bigAd" id="SFMiddle">
+<!-- ADXINFO classification="bigad" campaign="PAFAADSF_1768184_nyt10"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/design/index.html&pos=SFMiddle&sn2=23fbeed7/5bc6e68a&sn1=db96c2d5/17fcc436&camp=PAFAADSF_1768184_nyt10&ad=pafa_BA_ADSF_dec1&goto=http%3A%2F%2Fwww%2Epafa%2Eorg%2FMuseum%2FExhibitions%2FCurrently%2DOn%2DView%2FBill%2DViola%2DOcean%2DWithout%2Da%2DShore%2F1088%2F" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/28/57/ad.285758/11_28_PAFA_336x280_nytimes.jpg" width="336" height="280" border="0"></a>
+
+</div>
+
+
+
+<div class="singleAd" id="Box3">
+<!-- ADXINFO classification="feature_squares" campaign="nyt2011-regilite-P1-TimesLimited-ros"--><iframe title="regilite" src="https://myaccount.nytimes.com/regilite?product=LT" width="336" height="90" marginheight="0" marginwidth="0" frameborder="0" vspace="0" hspace="0" scrolling="no"></iframe>
+</div>
+
+
+<div class="bigAd" id="SFFranchise">
+<!-- ADXINFO classification="bigad" campaign="BrooklynMuseum_1762967_nyt10"--><div align="center">
+<script type="text/javascript">
+   var movieWidth = 300;
+   var movieHeight = 250;
+   var altSrc = "http://graphics8.nytimes.com/adx/images/ADS/28/57/ad.285753/BMM-0027-NYT_Nov18_300x250_Static.jpg";
+   var swfFile = "http://graphics8.nytimes.com/adx/images/ADS/28/57/ad.285753/BMM-0027-NYT_Nov18_300x250_v2.swf";
+   var altClickThru = "http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/design/index.html&pos=SFFranchise&sn2=835ea03a/fd8cc7b2&sn1=ae8f0f41/94127ba9&camp=BrooklynMuseum_1762967_nyt10&ad=hideseek_BA_SFfranchise_dec1&goto=http%3A%2F%2Fwww%2Ebrooklynmuseum%2Eorg%2Fexhibitions%2Fhide%5Fseek%2F";
+   var swfSrc = swfFile + "?clicktag=" + escape(altClickThru);
+</script>
+<script type="text/javascript" src="http://www.nytimes.com/ads/common/embed3.js">
+</script>
+</div>
+</div>
+
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<div class="singleRuleDivider"></div><script type="text/javascript" src="/js/app/events/1.0/module.js"></script>
+<div id="eventsCalendarModule" class="eventsCalendarModule"></div>        	</div>
+<!--Ads Simple -->                    <div class="columnGroup ">
+			
+
+<div class="bigAd" id="Box1">
+<!-- ADXINFO classification="Module" campaign="nyt2011_module_movies_dude_film_hp_ros_db"--><!-- MARKETING MODULE -->
+<div style="border:solid #999;border-width:1px;font-family:Arial,sans-serif;text-align:left; width:334px;background:#fff;" class="clearfix wrap">
+  <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/design/index.html&pos=Box1&sn2=7e609037/691ef037&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/2011/12/01/is-it-the-year-of-the-dude-film/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-PH%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm11/movies_120211.jpg" width="334" height="154" border="0" alt=""></a> 
+  <div style="padding:7px 9px 0;background:#fff">
+      <h2 style="font-size:22px;line-height:24px; margin:0;padding:0 0 4px;"><a style="color:#004276;" target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/design/index.html&pos=Box1&sn2=7e609037/691ef037&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/2011/12/01/is-it-the-year-of-the-dude-film/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-HDR%26WT.mc_ev=click%26WT.mc_c=175075">Is it the year of the dude film?</a></h2>
+
+      <p style="margin:0 0 3px; padding:0;font-size: 11px;"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/design/index.html&pos=Box1&sn2=7e609037/691ef037&sn1=9f65a43f/6fae85ce&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://nytimes.com/movies/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-URL%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank" style="font-size:11px;margin:3px 0;padding:0;font-family:Arial,sans-serif;  color:#000; text-transform:uppercase;">Also in Movies &raquo;</a></p>
+      <ul style="font-size:12px;margin:0; padding-bottom: 10px; border-bottom:1px solid #ccc;" class="refer">
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/design/index.html&pos=Box1&sn2=7e609037/691ef037&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/2011/11/29/patton-oswalt-steals-the-scene-at-gotham-awards/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-L1%26WT.mc_ev=click%26WT.mc_c=175075" style="color: #004276">All about the Gotham Awards</a></li>
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/design/index.html&pos=Box1&sn2=7e609037/691ef037&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-L2%26WT.mc_ev=click%26WT.mc_c=175075" style="color: #004276">Awards season from The Carpetbagger</a></li>
+      </ul>
+    </div>
+ 
+ <div style="padding:5px 9px; float:left; width:316px; background:#fff"> <a style="float:left" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/design/index.html&pos=Box1&sn2=7e609037/691ef037&sn1=9f65a43f/6fae85ce&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://nytimes.com/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-LOGO%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/nytimes.gif" alt="nytimes.com" width="116" height="18" border="0"></a><a style="float:right" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/design/index.html&pos=Box1&sn2=7e609037/691ef037&sn1=9f65a43f/6fae85ce&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://nytimes.com/movies/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-VRT%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/verticals_movies.gif" alt="Movies" width="120" height="18" border="0"></a></div><br clear="all">
+
+</div>
+  <!-- /MARKETING MODULE -->
+
+
+</div>
+
+
+<div class="singleAd" id="Middle5">
+<!-- ADXINFO classification="feature_position" campaign="nyt2011-circ-middle5_promise-36H3U-38R9W-AK"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/design/index.html&pos=Middle5&sn2=521db1f4/229f3d00&sn1=4d66a43a/361c78b4&camp=nyt2011-circ-middle5_promise-36H3U-38R9W-AK&ad=092111-11a-middle5_promise-AK&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DW42CS%26CMP%3D36H3U" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/71/ad.277135/11-0922_HDGenericD2_336x79_AK.jpg" width="336" height="79" border="0"></a><div class='kj_cx'></div>
+<script type='text/javascript'>
+var kjData = {akin: 'NYT-IP-4d0abbb3acf67-y05', adWidth: 336, adHeight: 79, btnStyle: 2, crnr: 'bl'};
+if(!kjG){var kjG=[]}kjG.push(kjData);if(!kjLdr){var kjLdr={ld:function(){var b=document; var a=b.createElement('script');a.type='text/javascript';a.src='http://a.akncdn.com/adkeeper.1.0.js'; (b.getElementsByTagName('body')[0]||b.getElementsByTagName('head')[0]).appendChild(a) },init:function(){var a=window,b=document;if(b.addEventListener){a.addEventListener('load',this.ld,false) }else{if(a.attachEvent){a.attachEvent('onload',this.ld)}}}};kjLdr.init()}; </script>
+
+
+</div>
+
+
+
+<!--[TwoColumnAdLeft - Begin] -->
+	<div class="adHeader">
+<h4>
+Advertisements	    </h4>
+</div>
+<div class="cColumn-TextAdsBox">
+	<div class="cColumn-TextAdsLeft">
+<div class="cColumn-TextAd">
+<!-- ADXINFO classification="SiteForADay" campaign="nyt2011-mktg-arts_and_ents-s4d_ros"--><div style="width:320px; height:60px;"> 
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/design/index.html&pos=Right5A&sn2=e40e2d2c/dcb24013&sn1=6a1102ca/9e7f5eda&camp=nyt2011-mktg-arts_and_ents-s4d_ros&ad=AR-D-I-NYT-AD-S4D-AandE-ROS-1211-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fevents%2Findex%2Ehtml%3FWT%2Emc%5Fid%3DAR%2DD%2DI%2DNYT%2DAD%2DS4D%2DAandE%2DROS%2D1211%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D175108" target="_blank"> 
+<img style="float:left; margin-right:10px;" src="http://graphics8.nytimes.com/adx/images/ADS/28/59/ad.285977/11-2187_ArtsEntertainment_86x60.gif" width="86" height="60" border="0" style="vertical-align:text-top;"></a>
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/design/index.html&pos=Right5A&sn2=e40e2d2c/dcb24013&sn1=6a1102ca/9e7f5eda&camp=nyt2011-mktg-arts_and_ents-s4d_ros&ad=AR-D-I-NYT-AD-S4D-AandE-ROS-1211-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fevents%2Findex%2Ehtml%3FWT%2Emc%5Fid%3DAR%2DD%2DI%2DNYT%2DAD%2DS4D%2DAandE%2DROS%2D1211%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D175108" target="_blank">  <br />Introducing: The Interactive Arts & Entertainment Guide</a>
+</div>
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+</div>
+	</div>
+<!--[TwoColumnAdLeft - End] -->
+<div class="advertisementColumnGroup">
+<!--[MarketPlaceGridAd - Begin] -->
+
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+    <!--[MarketPlaceGridAd - End] -->
+</div>
+</div>
+<!--StandardThumb Ads -->                    <div class="columnGroup ">
+<div id="mostPopWidget" class="singleRule"> 
+
+      <!-- MOST POPULAR MODULE STARTS -->
+      <h4>MOST POPULAR - ARTS</h4>
+         <div id="tabsContainer">
+         <ul class="tabs">
+            <li class="selected"><a href="#">E-Mailed</a></li>
+            <li><a href="#">Blogged</a></li>
+            
+            <li><a href="#">Viewed</a></li>
+            
+         </ul>
+         </div>
+            <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"></HEAD><div class="tabContent tabContentActive" id="mostEmailed"><ol>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/arts/LEWIS-3-obit/LEWIS-3-obit-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/01/arts/television/judy-lewis-secret-daughter-of-hollywood-dies-at-76.html?src=me&amp;ref=arts" title="Click to go to this article">Judy Lewis, Secret Daughter of Hollywood, Dies at 76</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/arts/02STORY1_SPAN/02STORY1-thumbStandard.jpg"  kicker="Art Review"><a href="http://www.nytimes.com/2011/12/02/arts/design/storytelling-in-japanese-art-at-the-met-review.html?src=me&amp;ref=arts" title="Click to go to this article">Art Review: Unfurling a Thousand Years of Gods, Demons and Romance</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/29/books/best2011cap/best2011cap-thumbStandard.jpg"  kicker="Holiday Gift Guide"><a href="http://www.nytimes.com/2011/12/11/books/10-best-books-of-2011.html?src=me&amp;ref=arts" title="Click to go to this article">Holiday Gift Guide: The 10 Best Books of 2011</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/arts/02CORIO_SPAN/02CORIO-thumbStandard.jpg"  kicker="Movie Review | 'Coriolanus'"><a href="http://movies.nytimes.com/2011/12/02/movies/ralph-fiennes-and-vanessa-redgrave-in-coriolanus-review.html?src=me&amp;ref=arts" title="Click to go to this article">Movie Review | 'Coriolanus': He&rsquo;s the Hero of the People, and He Hates It</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/arts/02LUMINOUS/02LUMINOUS-thumbStandard.jpg"  kicker="Art Review"><a href="http://www.nytimes.com/2011/12/02/arts/design/luminous-modernism-at-scandinavia-house-review.html?src=me&amp;ref=arts" title="Click to go to this article">Art Review: Shadowy Lure of Scandinavia Fights the Bright Pull of Paris</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/arts/02SHAME/02SHAME-thumbStandard-v2.jpg"  kicker="Movie Review | 'Shame'"><a href="http://movies.nytimes.com/2011/12/02/movies/shame-directed-by-steve-mcqueen-review.html?src=me&amp;ref=arts" title="Click to go to this article">Movie Review | 'Shame': Only One Thing on His Mind</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/arts/01faust-span/01faust-span-thumbStandard.jpg"  kicker="Music Review"><a href="http://www.nytimes.com/2011/12/01/arts/music/a-review-of-the-metropolitan-operas-faust.html?src=me&amp;ref=arts" title="Click to go to this article">Music Review: This Faust Builds Atom Bombs (He Still Sings)</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/04/arts/04ONCE2/04ONCE2-thumbStandard.jpg"  kicker="Arts & Leisure"><a href="http://www.nytimes.com/2011/12/04/theater/the-film-once-becomes-a-new-york-musical.html?src=me&amp;ref=arts" title="Click to go to this article">Arts &amp; Leisure: A Second Arrival for &lsquo;Once&rsquo;</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/arts/02BONNIE/02BONNIE-thumbStandard.jpg"  kicker="Theater Review | 'Bonnie & Clyde'"><a href="http://theater.nytimes.com/2011/12/02/theater/reviews/bonnie-clyde-with-laura-osnes-and-jeremy-jordan-review.html?src=me&amp;ref=arts" title="Click to go to this article">Theater Review | 'Bonnie &amp; Clyde': Armed and Amorous, Committing Cold-Blooded Musical</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/arts/sub-carpetbagger-1/sub-carpetbagger-1-thumbStandard.jpg"  kicker="The Carpetbagger"><a href="http://www.nytimes.com/2011/12/01/movies/awardsseason/in-film-so-many-men-on-the-verge-of-a-crisis.html?src=me&amp;ref=arts" title="Click to go to this article">The Carpetbagger: American Masculinity, Shown in All Its Angst</a></li>
+</ol>
+        <a class="more" href="http://www.nytimes.com/gst/mostemailed.html">Go to Complete List &#x00bb;</a>
+        </div><!-- #most emailed top10 -->
+
+            <div class="tabContent" id="mostBlogged">
+<ol><li><a href="http://www.nytimes.com/2006/12/04/arts/04wigg.html?bl&amp;ex=1165986000&amp;en=1fa26d70cd47cd44&amp;ei=5087%0A" title="Click to go to this article">Hush, Mama, Don't You Cry, A New Yellow Wiggle Will Sing</a></li></ol>
+<a class="more" href="http://www.nytimes.com/gst/mostblogged.html">Go to Complete List &#x00bb;</a>
+</div><!-- #most blogged top10 -->
+
+            
+            <div class="tabContent" id="mostViewed"><ol>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/arts/LEWIS-3-obit/LEWIS-3-obit-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/01/arts/television/judy-lewis-secret-daughter-of-hollywood-dies-at-76.html?src=mv&amp;ref=arts" title="Click to go to this article">Judy Lewis, Secret Daughter of Hollywood, Dies at 76</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/arts/02STORY1_SPAN/02STORY1-thumbStandard.jpg"  kicker="Art Review"><a href="http://www.nytimes.com/2011/12/02/arts/design/storytelling-in-japanese-art-at-the-met-review.html?src=mv&amp;ref=arts" title="Click to go to this article">Art Review: Unfurling a Thousand Years of Gods, Demons and Romance</a></li>
+<li kicker="Carpetbagger"><a href="http://carpetbagger.blogs.nytimes.com/2011/12/01/is-it-the-year-of-the-dude-film/?src=mv&amp;ref=arts" title="Click to go to this article">Carpetbagger: Is It the Year of the Dude Film?</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/arts/02LUMINOUS/02LUMINOUS-thumbStandard.jpg"  kicker="Art Review"><a href="http://www.nytimes.com/2011/12/02/arts/design/luminous-modernism-at-scandinavia-house-review.html?src=mv&amp;ref=arts" title="Click to go to this article">Art Review: Shadowy Lure of Scandinavia Fights the Bright Pull of Paris</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/arts/01faust-span/01faust-span-thumbStandard.jpg"  kicker="Music Review"><a href="http://www.nytimes.com/2011/12/01/arts/music/a-review-of-the-metropolitan-operas-faust.html?src=mv&amp;ref=arts" title="Click to go to this article">Music Review: This Faust Builds Atom Bombs (He Still Sings)</a></li>
+<li kicker="ArtsBeat"><a href="http://artsbeat.blogs.nytimes.com/2011/12/02/x-factor-watch-payback-for-simon-cowell/?src=mv&amp;ref=arts" title="Click to go to this article">ArtsBeat: 'X Factor' Watch: Payback for Simon Cowell</a></li>
+<li kicker="ArtsBeat"><a href="http://artsbeat.blogs.nytimes.com/2011/11/30/kanye-west-tops-grammy-nominations/?src=mv&amp;ref=arts" title="Click to go to this article">ArtsBeat: Kanye West Tops Grammy Nominations</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/04/arts/04KEYS_SPAN/04KEYS-thumbStandard.jpg"  kicker="Arts & Leisure"><a href="http://www.nytimes.com/2011/12/04/arts/music/the-black-keys-change-gears-with-el-camino.html?src=mv&amp;ref=arts" title="Click to go to this article">Arts &amp; Leisure: First, Hit It Big. Then Change.</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/arts/02RAUSCHENBERG_SPAN/SUBRAUSCHENBERG1-thumbStandard.jpg"  kicker="Art Review"><a href="http://www.nytimes.com/2011/12/02/arts/design/selections-from-the-private-collection-of-robert-rauschenberg-at-gagosian-gallery.html?src=mv&amp;ref=arts" title="Click to go to this article">Art Review: A Portrait of the Artist as Exuberant Collector</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/arts/EXPAND/EXPAND-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/01/arts/design/san-francisco-museum-of-modern-art-expansion-aims-for-friendly.html?src=mv&amp;ref=arts" title="Click to go to this article">An Imposing Museum Turns Warm and Fuzzy</a></li>
+</ol>
+        </div><!-- #most viewed top10 -->
+
+            
+         <script type="text/javascript">new Accordian("mostPopWidget");</script>
+      <!-- MOST POPULAR MODULE ENDS -->
+   
+
+</div><!--close mostPopWidget -->
+</div>
+<!--Ads StandardThumb -->                    <div class="columnGroup last">
+
+<div class="singleAd" id="Feature1">
+<!-- ADXINFO classification="hp-module" campaign="feature1-GilbaneProperties-1770810-cla"--><!--Ad Template Begins Here -->
+<div class="story advertisement">
+<div class="callout">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/design/index.html&pos=Feature1&sn2=108186a4/8487d3ba&sn1=3145f6ef/1f7e77ab&camp=feature1-GilbaneProperties-1770810-cla&ad=7.23.11-gilbane-173x98-SFM&goto=http%3A%2F%2Fliveatsurfside%2Ecom%2FNYT" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/17/ad.271744/Surfside.jpg" width="173" height="98" border="0" alt="Click for Details"></a>
+</div>
+<h5>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/design/index.html&pos=Feature1&sn2=108186a4/8487d3ba&sn1=3145f6ef/1f7e77ab&camp=feature1-GilbaneProperties-1770810-cla&ad=7.23.11-gilbane-173x98-SFM&goto=http%3A%2F%2Fliveatsurfside%2Ecom%2FNYT" target="_blank"><font size=1>SURFSIDE Narragansett RI.</font></a>
+</h5>
+<p class="summary"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/design/index.html&pos=Feature1&sn2=108186a4/8487d3ba&sn1=3145f6ef/1f7e77ab&camp=feature1-GilbaneProperties-1770810-cla&ad=7.23.11-gilbane-173x98-SFM&goto=http%3A%2F%2Fliveatsurfside%2Ecom%2FNYT" target="_blank"><font size=1>2 & 3-bedroom oceanfront condos and townhomes from the 400s.</font></a>
+</p>
+<div class="adCreative">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/design/index.html&pos=Feature1&sn2=108186a4/8487d3ba&sn1=3145f6ef/1f7e77ab&camp=feature1-GilbaneProperties-1770810-cla&ad=7.23.11-gilbane-173x98-SFM&goto=http%3A%2F%2Fliveatsurfside%2Ecom%2FNYT" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/17/ad.271744/SurfsideLogo-TypeOnly.jpg" width="78" height="36"></a>
+</div>
+</div>
+<!--Ad Template Ends Here -->
+</div>
+
+
+</div>
+</div><!--close cColumn -->
+</div><!--close wideA -->
+</div><!--close spanAB -->
+</div><!--close main -->
+<div id="footer">
+<ul class="first">
+<li class="first"><a href="http://www.nytimes.com">Home</a></li>
+<li >
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li>
+<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+</ul>    <ul>
+<li class="first"><a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&copy; 2011</a> <a href="http://www.nytco.com/">The New York Times Company</a></li>
+<li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Terms of Service</a></li>
+<li class="termsOfSale"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+<li><a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a></li>
+<li><a class="rssButton" href="http://www.nytimes.com/rss">RSS</a></li>
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+<li><a href="http://www.nytco.com/careers">Work for Us</a></li>
+<li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+</ul>
+</div>
+</div><!--close page -->
+</div><!--close shell -->
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/lib/prototype/1.6.0.2/prototype.js"></script>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/lib/prototype/extensions/event.js"></script>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/lib/NYTD/scrollbox/1.0/scrollbox.js"></script>
+
+
+
+
+
+
+
+<IMG SRC="/adx/bin/clientside/4a81f9baQ2FrvEm9RQ25vQ5E3)vvQ5EmO(EQ259R(9" height="1" width="3">
+
+<script type="text/javascript" language="JavaScript">
+// Written by /usr/local/knews/bin/commentcount.pl Fri Dec  2 13:02:02 2011
+var NYTArticleCommentCounts = {
+"100000001190843":{count:147, commentsEnabled:false},
+"100000001190858":{count:204, commentsEnabled:false},
+"100000001190907":{count:49, commentsEnabled:false},
+"100000001191255":{count:237, commentsEnabled:false},
+"100000001191704":{count:133, commentsEnabled:false},
+"100000001191724":{count:100, commentsEnabled:false},
+"100000001191950":{count:122, commentsEnabled:false},
+"100000001192133":{count:307, commentsEnabled:false},
+"100000001192329":{count:76, commentsEnabled:false},
+"100000001190961":{count:19, commentsEnabled:false},
+"100000001177231":{count:1, commentsEnabled:true},
+"100000001177245":{count:74, commentsEnabled:true},
+"100000001179958":{count:24, commentsEnabled:false},
+"100000001180322":{count:227, commentsEnabled:true},
+"100000001183078":{count:44, commentsEnabled:false},
+"100000001183080":{count:327, commentsEnabled:false},
+"100000001183081":{count:7, commentsEnabled:false},
+"100000001183084":{count:235, commentsEnabled:false},
+"100000001183087":{count:11, commentsEnabled:false},
+"100000001183089":{count:14, commentsEnabled:false},
+"100000001183090":{count:11, commentsEnabled:false},
+"100000001183091":{count:3, commentsEnabled:false},
+"100000001183094":{count:14, commentsEnabled:false},
+"100000001184186":{count:79, commentsEnabled:false},
+"100000001184524":{count:149, commentsEnabled:false},
+"100000001186117":{count:1, commentsEnabled:false},
+"100000001186193":{count:12, commentsEnabled:true},
+"100000001186569":{count:190, commentsEnabled:false},
+"100000001189184":{count:49, commentsEnabled:false},
+"100000001190721":{count:71, commentsEnabled:false},
+"100000001191577":{count:224, commentsEnabled:false},
+"100000001191688":{count:28, commentsEnabled:false},
+"100000001191719":{count:107, commentsEnabled:false},
+"100000001191931":{count:121, commentsEnabled:false},
+"100000001191985":{count:110, commentsEnabled:false},
+"100000001192057":{count:211, commentsEnabled:false},
+"100000001192188":{count:141, commentsEnabled:false},
+"100000001192496":{count:52, commentsEnabled:false},
+"100000001192500":{count:206, commentsEnabled:false},
+"100000001192600":{count:224, commentsEnabled:false},
+"100000001192611":{count:167, commentsEnabled:false},
+"100000001193250":{count:67, commentsEnabled:false},
+"100000001193262":{count:37, commentsEnabled:false},
+"100000001193344":{count:98, commentsEnabled:false},
+"100000001193527":{count:27, commentsEnabled:false},
+"100000001193629":{count:10, commentsEnabled:false},
+"100000001193702":{count:17, commentsEnabled:false},
+"100000001193743":{count:108, commentsEnabled:false},
+"100000001193763":{count:516, commentsEnabled:false},
+"100000001193825":{count:86, commentsEnabled:false},
+"100000001193857":{count:48, commentsEnabled:false},
+"100000001193859":{count:160, commentsEnabled:false},
+"100000001193890":{count:117, commentsEnabled:false},
+"100000001193920":{count:44, commentsEnabled:false},
+"100000001193944":{count:303, commentsEnabled:false},
+"100000001193948":{count:7, commentsEnabled:false},
+"100000001194088":{count:51, commentsEnabled:false},
+"100000001194098":{count:17, commentsEnabled:true},
+"100000001194137":{count:109, commentsEnabled:false},
+"100000001194342":{count:159, commentsEnabled:false},
+"100000001194394":{count:68, commentsEnabled:false},
+"100000001194454":{count:36, commentsEnabled:false},
+"100000001194795":{count:192, commentsEnabled:false},
+"100000001194808":{count:628, commentsEnabled:false},
+"100000001194892":{count:125, commentsEnabled:false},
+"100000001195360":{count:33, commentsEnabled:false},
+"100000001195689":{count:178, commentsEnabled:false},
+"100000001195802":{count:10, commentsEnabled:false},
+"100000001195854":{count:304, commentsEnabled:false},
+"100000001195914":{count:48, commentsEnabled:false},
+"100000001195920":{count:17, commentsEnabled:false},
+"100000001195923":{count:44, commentsEnabled:false},
+"100000001195938":{count:138, commentsEnabled:false},
+"100000001195940":{count:10, commentsEnabled:false},
+"100000001195947":{count:92, commentsEnabled:false},
+"100000001195952":{count:162, commentsEnabled:false},
+"100000001195976":{count:141, commentsEnabled:false},
+"100000001195982":{count:283, commentsEnabled:false},
+"100000001196229":{count:42, commentsEnabled:false},
+"100000001196250":{count:104, commentsEnabled:true},
+"100000001196432":{count:333, commentsEnabled:false},
+"100000001196658":{count:42, commentsEnabled:false},
+"100000001196737":{count:28, commentsEnabled:true},
+"100000001196861":{count:18, commentsEnabled:false},
+"100000001196955":{count:71, commentsEnabled:true},
+"100000001196963":{count:143, commentsEnabled:false},
+"100000001197064":{count:68, commentsEnabled:false},
+"100000001197489":{count:3, commentsEnabled:false},
+"100000001197999":{count:75, commentsEnabled:false},
+"100000001198014":{count:290, commentsEnabled:false},
+"100000001198050":{count:69, commentsEnabled:true},
+"100000001198076":{count:32, commentsEnabled:true},
+"100000001198092":{count:204, commentsEnabled:false},
+"100000001198110":{count:424, commentsEnabled:false},
+"100000001198123":{count:343, commentsEnabled:false},
+"100000001198126":{count:62, commentsEnabled:false},
+"100000001198138":{count:163, commentsEnabled:false},
+"100000001198377":{count:143, commentsEnabled:true},
+"100000001198446":{count:23, commentsEnabled:true},
+"100000001198471":{count:52, commentsEnabled:true},
+"100000001198476":{count:157, commentsEnabled:true},
+"100000001198581":{count:48, commentsEnabled:true},
+"100000001198642":{count:253, commentsEnabled:false},
+"100000001199366":{count:136, commentsEnabled:true},
+"100000001199374":{count:114, commentsEnabled:true},
+"100000001199444":{count:155, commentsEnabled:false},
+"100000001199658":{count:4, commentsEnabled:true},
+"100000001200046":{count:884, commentsEnabled:true},
+"100000001200335":{count:165, commentsEnabled:false},
+"100000001200378":{count:192, commentsEnabled:false},
+"100000001200458":{count:77, commentsEnabled:false},
+"100000001200844":{count:23, commentsEnabled:true},
+"100000001201276":{count:88, commentsEnabled:true},
+"100000001201525":{count:188, commentsEnabled:true},
+"100000001202361":{count:0, commentsEnabled:true},
+"100000001202521":{count:27, commentsEnabled:true},
+"100000001202701":{count:270, commentsEnabled:false},
+"100000001202807":{count:17, commentsEnabled:true},
+"100000001202815":{count:116, commentsEnabled:false},
+"100000001202831":{count:232, commentsEnabled:true},
+"100000001202861":{count:95, commentsEnabled:true},
+"100000001202869":{count:39, commentsEnabled:true},
+"100000001202871":{count:23, commentsEnabled:true},
+"100000001202889":{count:54, commentsEnabled:true},
+"100000001202895":{count:33, commentsEnabled:true},
+"100000001202901":{count:90, commentsEnabled:true},
+"100000001203208":{count:19, commentsEnabled:true},
+"100000001203416":{count:220, commentsEnabled:true},
+"100000001203664":{count:0, commentsEnabled:true},
+"100000001188908":{count:16, commentsEnabled:true},
+"100000001194403":{count:0, commentsEnabled:true},
+"100000001194404":{count:0, commentsEnabled:true},
+"100000001194405":{count:71, commentsEnabled:true},
+"100000001194406":{count:0, commentsEnabled:true},
+"100000001194419":{count:1, commentsEnabled:true},
+"100000001194423":{count:58, commentsEnabled:true},
+"100000001194424":{count:0, commentsEnabled:true},
+"100000001194425":{count:0, commentsEnabled:true},
+"100000001194427":{count:0, commentsEnabled:true},
+"100000001194843":{count:51, commentsEnabled:true},
+"100000001197746":{count:1, commentsEnabled:true},
+"100000001201815":{count:0, commentsEnabled:true},
+"100000001201989":{count:0, commentsEnabled:true}
+};
+</script>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/homepage/articleCommentCounts.js"></script>
+<script type="text/javascript" language="JavaScript">
+    ArticleCommentCounts.apply()
+    </script>
+
+			
+		<!-- Start UPT call -->
+		<img height="1" width="3" border=0 src="http://up.nytimes.com/?d=0/11/7&t=3&s=0&ui=&r=&u=www%2enytimes%2ecom%2fpages%2farts%2fdesign%2findex%2ehtml%3f">
+		<!-- End UPT call -->
+	
+		
+        <script language="JavaScript"><!--
+          var dcsvid="";
+          var regstatus="non-registered";
+        //--></script>
+        <script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+        <noscript>
+          <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div>
+        </noscript>
+   
+</body>
+</html>

@@ -1,0 +1,42 @@
+Content-Length: 183
+Location: http://click.union.jd.com/statistic/statisticClick.action?unionId=75
+Connection: close
+Expires: Wed, 03 Jun 2015 08:00:10 GMT
+Cache-Control: max-age=0
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>JDWS/1.0.0</center>
+</body>
+</html>
+Location: /phoenix.zhtml?c=188488&p=irol-homeprofile
+Content-Length: 752
+Cache-Control: private, max-age=20
+Date: Wed, 03 Jun 2015 08:12:55 GMT
+Connection: close
+
+<html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href="/phoenix.zhtml?c=188488&amp;p=irol-homeprofile">here</a>.</h2>
+</body></html>
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>
+	Untitled Page
+</title></head>
+<body>
+    <form name="form1" method="post" action="" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzgzNDMwNTMzZGQhoQiaxoKlh76cOZQdWaMTtx95lMM2/zwwve2pg7lv4Q==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="0CA2836C" />
+    <div>
+    
+    </div>
+    </form>
+</body>
+</html>
+

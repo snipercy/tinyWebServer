@@ -1,0 +1,1443 @@
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Set-cookie: adxcs=s*28145=0:1; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<title>As Airlines Cut Back, Hotels Step In - NYTimes.com</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="To ease the way for harried travelers, hotels are adding services, from wardrobe storage to airport concierges.">
+<meta name="keywords" content="Travel and Vacations,Hotels and Motels">
+<meta name="ROBOTS" content="NOARCHIVE">
+<meta name="DISPLAYDATE" content="November 30, 2011">
+<meta name="hdl" content="As Airlines Cut Back, Hotels Step In">
+<meta name="hdl_p" content="Airlines Cut Back, Hotels Step In">
+<meta name="byl" content="By MICHELLE HIGGINS">
+<meta name="lp" content="To ease the way for harried travelers, hotels are adding services, from wardrobe storage to airport concierges.">
+<meta name="cre" content="The New York Times">
+<meta name="edt" content="The New York Times on the Web">
+<meta name="pdate" content="20111130">
+<meta name="ttl" content="">
+<meta name="virtloc" content="">
+<meta name="des" content="Travel and Vacations;Hotels and Motels">
+<meta name="per" content="">
+<meta name="org" content="">
+<meta name="geo" content="">
+<meta name="misspelling" content="">
+<meta name="dat" content="November 30, 2011">
+<meta name="tom" content="News">
+<meta name="cat" content="">
+<meta name="col" content="Practical Traveler">
+<meta name="dsk" content="Travel">
+<meta name="articleid" content="100000001188908">
+<meta name="ARTICLE_TEMPLATE_VERSION" CONTENT="700">
+<meta name="hdr_img" content="/images/article/header/sect_travel.gif">
+<meta name="thumbnail" content="images/2011/12/04/travel/04PRACILLO/04PRACILLO-thumbStandard.jpg">
+<meta name="thumbnail_height" content="75">
+<meta name="thumbnail_width" content="75">
+<meta name="xlarge" content="">
+<meta name="xlarge_height" content="">
+<meta name="xlarge_width" content="">
+<meta name="sectionfront_jsonp" content="http://json8.nytimes.com/pages/travel/index.jsonp">
+<meta name="CG" content="travel">
+<meta name="SCG" content="">
+<meta name="PT" content="Article">
+<meta name="PST" content="News">
+<meta name="msapplication-starturl" content="http://www.nytimes.com/">
+<link rel="canonical" href="http://travel.nytimes.com/2011/12/04/travel/as-airlines-cut-back-hotels-step-in.html">
+<meta property="og:url" content="http://travel.nytimes.com/2011/12/04/travel/as-airlines-cut-back-hotels-step-in.html"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="As Airlines Cut Back, Hotels Step In"/>
+<meta property="og:image" content="http://graphics8.nytimes.com/images/2011/12/04/travel/04PRACILLO/04PRACILLO-thumbStandard.jpg"/>
+
+
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/build/article/2.0/travel/styles.css"><!--[if IE]>
+    <style type="text/css">
+        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie.css);
+    </style>
+<![endif]-->
+<!--[if IE 6]>
+    <style type="text/css">
+        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie6.css);
+    </style>
+<![endif]-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/DropDown.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/util/tooltip.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/altClickToSearch.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/app/article/upNext.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/article/articleShare.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/article/comments/crnrXHR.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/app/article/articleCommentCount.js"></script>
+</head>
+
+    
+
+<body >
+
+<script type="text/javascript">
+function getMetaValue(name) {
+  var els = document.getElementsByName(name);
+  if (els && els[0]) { return els[0].content; }
+  return "";
+}
+
+<!-- Begin KRUX Digital Control Tag for New York Times -->
+
+KRUXSetup = {
+   pubid: "79816aa8-435a-471a-be83-4b3e0946daf2",
+   site: "NYTimes",
+   section: getMetaValue('CG'),
+   subSection: getMetaValue('SCG'),
+   pageAttributes: {
+      page_type: getMetaValue('PT')
+   }
+};
+</script>
+<script type="text/javascript" src="http://cdn.krxd.net/kruxcontent/releases/krux-4.7.2.js"></script>
+<!-- End KRUX Digital Control Tag for New York Times -->
+
+<a name="top"></a>
+<div id="shell">
+<ul id="memberTools">
+
+<!-- start text link -->
+<li class="cColumn-TextAdsHeader">Subscribe:
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/travel&pos=Bar1&sn2=ab1f72a0/b005c8a5&sn1=b40a0f68/25a41e6a&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-hd-digi-h3847Q-d3847R&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DW47AF%26CMP%3D3847Q" target="_blank">
+Home Delivery</a> / <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/travel&pos=Bar1&sn2=ab1f72a0/b005c8a5&sn1=baec058e/381f84b2&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-hd-digi-h3847Q-d3847R&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fsubscriptions%2FMultiproduct%2Flp5558%2Ehtml%3Fadxc%3D162578%26adxa%3D267522%26page%3Dwww.nytimes.com/yr/mo/day/travel/as-airlines-cut-back-hotels-step-in.html%26pos%3DBar1%26campaignId%3D3847R" target="_blank">Digital</a>
+</li>
+<!-- end text link -->
+
+ 
+                        <li><a id="memberToolsLogin" href="https://myaccount.nytimes.com/auth/login">Log In</a></li>
+            <li><a href="https://myaccount.nytimes.com/gst/regi.html">Register Now</a></li>
+                            
+
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+</ul>
+<div class="tabsContainer">
+<ul id="mainTabs" class="tabs">
+<li class="first mainTabHome"><a href="http://www.nytimes.com">Home Page</a></li>
+<li class="mainTabTodaysPaper"><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+<li class="mainTabVideo"><a href="http://www.nytimes.com/video">Video</a></li>
+<li class="mainTabMostPopular"><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+<li class="mainTabTimesTopics"><a href="http://topics.nytimes.com/top/reference/timestopics">Times Topics</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+</script>        <div id="page" class="tabContent active">
+<div class="clearfix" id="masthead">
+
+<div class="singleAd" id="Middle1C">
+<!-- ADXINFO classification="button" campaign="ING_DirectSiteSearchQ111_1694929-nyt1"--><A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/travel&pos=Middle1C&sn2=38276262/b2213b6&sn1=59756299/46b02203&camp=ING_DirectSiteSearchQ111_1694929-nyt1&ad=NEW.88x31.SiteSearch.Wizard&goto=http://ad.doubleclick.net/jump/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.34" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.34"
+ BORDER=0 WIDTH=88 HEIGHT=31
+ ALT="Click Here"></A>
+</div>
+
+<div id="searchWidget">
+<div class="inlineSearchControl">
+<form enctype="application/x-www-form-urlencoded" action="http://query.nytimes.com/search/sitesearch" method="get" name="searchForm" id="searchForm">
+<input type="hidden" value="full" name="date_select"/>
+<label for="searchQuery">Search All NYTimes.com</label>
+<input type="text" class="text" value="" size="" name="query" id="searchQuery"/>
+<input type="hidden" id="searchAll" name="type" value="nyt"/>
+<input id="searchSubmit" title="Search" width="22" height="19" alt="Search" type="image" src="http://graphics8.nytimes.com/images/global/buttons/go.gif">
+</form>
+</div>
+</div>
+<div id="branding" >
+<a href="http://www.nytimes.com"><span id="nytIhtMastheadLogo">
+<a href="http://www.nytimes.com"><img src="http://graphics8.nytimes.com/images/misc/nytlogo152x23.gif" alt="New York Times" id="NYTLogo"/></a>
+</span></a>
+</div>
+
+<h2>
+
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</h2>
+
+</div>
+<div class="navigation tabsContainer">
+<ul class="tabs">
+<li id="navWorld" class="first ">
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>	<li id="navUs" >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>	<li id="navNyregion" >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>	<li id="navBusiness" >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>	<li id="navTechnology" >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>	<li id="navScience" >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>	<li id="navHealth" >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>	<li id="navSports" >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>	<li id="navOpinion" >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>	<li id="navArts" >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>	<li id="navStyle" >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>	<li id="navTravel" class="selected">
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>	<li id="navJobs" >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>	<li id="navRealestate" >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>	<li id="navAutomobiles" >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li></ul>
+</div>
+<script language="JavaScript" type="text/javascript" src="http://graphics8.nytimes.com/js/section/travel/navDropdownData.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://graphics8.nytimes.com/js/section/travel/destinations_arrays.js"></script> 
+<script language="JavaScript" type="text/javascript" src="http://graphics8.nytimes.com/js/section/travel/destinations_select_list.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://graphics8.nytimes.com/js/section/travel/travelsearch/suggest.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://graphics8.nytimes.com/js/app/travelsearch/autosuggest.js"></script>
+<div class="subNavigation tabContent active">
+<div class="column firstColumn">
+<div class="columnGroup">
+<div class="inlineSearchControl">
+<form name="travelGuide" method="get" id="travelGuide" action="http://query.nytimes.com/search/travel" enc="iso8859">
+<label for="query_term">Search <span class="destinationCount timestamp">1,000+ <span>destinations</span></span></label>
+<input id="query_term" type="text" name="term" class="text" value="" autocomplete="off"/>
+<div class="auto_complete" id="query_suggestions" style="display:none;"></div>
+<input title="Search" alt="Search" type="image" src="http://graphics8.nytimes.com/images/global/buttons/go.gif">
+</form>
+</div>
+</div>
+</div>
+
+<div class="column two lastColumn">
+<div class="columnGroup">
+<h5>Plan Your Trip <span class="timesPicks">Times Picks</span></h5>
+<form name="desinationGuide" onSubmit="return gotoSubSection(this);">
+<script language="JavaScript" type="text/javascript">
+					writeRegionCountryDropdown();
+				</script>
+<select name="subregion" class="destination" disabled>
+<option>Select a Destination</option>
+<option>--------------------</option>
+<option></option>
+<option></option>
+<option></option>
+</select>
+<input class="goButton" type="image" src="http://graphics8.nytimes.com/images/global/buttons/go.gif">
+</form>
+</div>
+
+</div>
+
+</div>		    		    		          
+
+
+
+
+<div id="main">
+<div class="spanAB wrap closing">
+<div id="abColumn" class="abColumn"><!--open abColumn -->
+<div id="article">
+<!--cur: prev:-->
+<div class="columnGroup first">				
+<h6 class="kicker">Practical Traveler</h6>
+<h1 class="articleHeadline"><NYT_HEADLINE  version="1.0" type=" ">Airlines Cut Back, Hotels Step In</NYT_HEADLINE></h1>
+<NYT_BYLINE >    <h6 class="byline">By <a rel="author" href="http://topics.nytimes.com/top/reference/timestopics/people/h/michelle_higgins/index.html?inline=nyt-per" title="More Articles by Michelle Higgins" class="meta-per">MICHELLE HIGGINS</a></h6>
+</NYT_BYLINE>
+<h6 class="dateline">Published: November 30, 2011    </h6>
+<script type="text/javascript">
+var articleToolsShareData = {"url":"http:\/\/travel.nytimes.com\/2011\/12\/04\/travel\/as-airlines-cut-back-hotels-step-in.html","headline":"Airlines Cut Back, Hotels Step In","description":"To ease the way for harried travelers, hotels are adding services, from wardrobe storage to airport concierges.","keywords":"Travel and Vacations,Hotels and Motels","section":"travel","sub_section":null,"section_display":"Travel","sub_section_display":null,"byline":"By <a rel=\"author\" href=\"http:\/\/topics.nytimes.com\/top\/reference\/timestopics\/people\/h\/michelle_higgins\/index.html?inline=nyt-per\" title=\"More Articles by Michelle Higgins\" class=\"meta-per\">MICHELLE HIGGINS<\/a>","pubdate":"November 30, 2011","passkey":null};
+function getShareURL() {
+    return encodeURIComponent(articleToolsShareData.url);
+}
+function getShareHeadline() {
+    return encodeURIComponent(articleToolsShareData.headline);
+}
+function getShareDescription() {
+    return encodeURIComponent(articleToolsShareData.description);
+}
+function getShareKeywords() {
+    return encodeURIComponent(articleToolsShareData.keywords);
+}
+function getShareSection() {
+    return encodeURIComponent(articleToolsShareData.section);
+}
+function getShareSubSection() {
+	return encodeURIComponent(articleToolsShareData.sub_section);
+}
+function getShareSectionDisplay() {
+    return encodeURIComponent(articleToolsShareData.section_display);
+}
+function getShareSubSectionDisplay() {
+    return encodeURIComponent(articleToolsShareData.sub_section_display);
+}
+function getShareByline() {
+    return encodeURIComponent(articleToolsShareData.byline);
+}
+function getSharePubdate() {
+    return encodeURIComponent(articleToolsShareData.pubdate);
+}
+function getSharePasskey() {
+    return encodeURIComponent(articleToolsShareData.passkey);
+}
+</script>
+<div id="articleToolsTop" class="articleTools">
+<div class="box">
+<div class="inset">
+<ul id="toolsList" class="toolsList wrap">
+<li class="comments"><a onClick="javascript:dcsMultiTrack('DCS.dcssip','www.nytimes.com','DCS.dcsuri','/article comments/view-tools.html','WT.ti','Article Comments View Tools','WT.z_aca','Tools-View','WT.gcom','Com');" href="http://community.nytimes.com/comments/travel.nytimes.com/2011/12/04/travel/as-airlines-cut-back-hotels-step-in.html" >comments <span id="commentCount"></span></a></li>
+<li class="email">
+
+<a id="emailThis" onClick="s_code_linktrack('Article-Tool-EmailSignIn');" 
+           href="http://www.nytimes.com/auth/login?URI=http://travel.nytimes.com/2011/12/04/travel/as-airlines-cut-back-hotels-step-in.html">Sign In to E-Mail</a>
+</li>
+<li class="print">
+<A HREF="/2011/12/04/travel/as-airlines-cut-back-hotels-step-in.html?pagewanted=print">Print</a>
+</li>
+
+<A HREF="/2011/12/04/travel/as-airlines-cut-back-hotels-step-in.html?pagewanted=all"></a>
+
+<NYT_REPRINTS_FORM>
+
+<script name="javascript">
+	function submitCCCForm(){
+		var PopUp = window.open('', '_Icon','location=no,toolbar=no,status=no,width=650,height=550,scrollbars=yes,resizable=yes');
+		var form = document.forms["cccform"];
+		// ensure that we are operating on the Form, not a NodeList
+		if (form.nodeName == "FORM") {
+			form.submit();
+		} else if (form[0] && form[0].nodeName == "FORM") {
+			form[0].submit();
+		}
+	}
+	</script>
+<li class="reprints">			<form name="cccform" action="https://s100.copyright.com/CommonApp/LoadingApplication.jsp" target="_Icon">
+<input type="hidden" name="Title" value="Airlines Cut Back, Hotels Step In">
+<input type="hidden" name="Author" value="By MICHELLE HIGGINS ">
+<input type="hidden" name="ContentID" value="http://www.nytimes.com/2011/12/04/travel/as-airlines-cut-back-hotels-step-in.html">
+<input type="hidden" name="FormatType" value="default">
+<input type="hidden" name="PublicationDate" value="December 4, 2011">
+<input type="hidden" name="PublisherName" value="The New York Times">
+<input type="hidden" name="Publication" value="nytimes.com">
+<input type="hidden" name="wordCount" value="12">
+</form>
+<a href="#" onClick="submitCCCForm()">Reprints</a>
+</li>	        
+</NYT_REPRINTS_FORM>
+</ul>
+<div class="articleToolsSponsor" id="Frame4A"><!-- ADXINFO classification="Button120x60" campaign="FSL2011_articletools_120x60_1629908c_nyt5"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/travel&pos=Frame4A&sn2=af69e5d4/8b462b77&sn1=36dd48d5/33ce2b3b&camp=FSL2011_articletools_120x60_1629908c_nyt5&ad=120x60_descendents_NOW&goto=http%3A%2F%2Fwww%2Efoxsearchlight%2Ecom%2Fthedescendants" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/28/40/ad.284087/Descendants120x60layered.gif" width="120" height="60" border="0"></a>
+</div>        </div>
+</div>
+</div>
+<div class="articleBody">
+
+
+
+
+
+<NYT_TEXT >
+
+<NYT_CORRECTION_TOP>
+</NYT_CORRECTION_TOP>
+    <p>
+YOU don&rsquo;t have to fly first-class to get V.I.P. treatment at the airport &mdash; if you stay at the right hotel. As more and more guests show up harried after airline delays, baggage issues and other travel hassles, hotels are stepping in with new services designed to make the airport experience less stressful. From wardrobe storage to airport concierges, here&rsquo;s a rundown of some of the options being offered.        </p> 
+</div>
+<div class="articleInline runaroundLeft">
+  
+<!--forceinline-->   
+<div class="inlineImage module">
+<div class="image">
+<div class="icon enlargeThis"><a href="javascript:pop_me_up2('http://www.nytimes.com/imagepages/2011/12/04/travel/04PRACILLO.html','04PRACILLO_html','width=720,height=741,scrollbars=yes,toolbars=no,resizable=yes')">Enlarge This Image</a></div>
+<a href="javascript:pop_me_up2('http://www.nytimes.com/imagepages/2011/12/04/travel/04PRACILLO.html','04PRACILLO_html','width=720,height=741,scrollbars=yes,toolbars=no,resizable=yes')">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/travel/04PRACILLO/04PRACILLO-articleInline.jpg" width="190" height="179" alt="">
+</a>
+</div>
+<h6 class="credit">André Letria</h6>
+<p>
+</p>
+</div>
+  
+   
+</div>
+<div id="readerscomment" class="inlineLeft"></div>
+<div class="articleBody">
+ <p>
+<strong>Your Own Concierge</strong>        </p><p>
+A few years ago, the <a href="http://www.peninsula.com/Beverly_Hills/en/default.aspx">Peninsula Beverly Hills</a> hired Jimmy Bardolf as the hotel&rsquo;s director of transportation and resident &ldquo;airport concierge.&rdquo; Mr. Bardolf, along with his staff of five, meets guests at Los Angeles International Airport, gets them access to airline lounges and helps solve all manner of problems, including securing better seats on planes if available. At the airport Mr. Bardolf can be seen carrying around a 30-pound briefcase filled with everything from baby wipes to Krazy Glue for broken nails.        </p><p>
+&ldquo;Instead of guests having a poor experience here and making up for it when they get to the hotel,&rdquo; Mr. Bardolf said from one of several cellphones he carries while at the airport to connect with hotel staff members and guests, &ldquo;we try to be a concierge at the airport and make their lives a bit easier whether they&rsquo;re coming off an hour flight or a 14-hour flight.&rdquo;        </p><p>
+While there is no charge for arriving guests, departing guests pay $100 per family for speeding up the security process and getting access to airport lounges. That&rsquo;s at least $100 less than American Airlines charges per couple for a similar V.I.P. option called Five Star Service.        </p><p>
+Other hotels are teaming up with airports to offer similar services. Several Jamaican resorts, including <a href="http://www.roundhill.com/">Round Hill Hotel & Villas</a> and <a href="http://www.islandoutpost.com/">Island Outpost Hotel & Villas</a>, have a relationship with Club Mobay, a V.I.P. service at Montego Bay airport that speeds departing guests through security and immigration and into a 10,000-square-foot lounge with Wi-Fi, showers, bar, mini-spa and a kids&rsquo; corner, for $30 a person &mdash; about $5 less than you pay at the airport as of Dec. 15.        </p><p>
+And guests of the new <a href="http://www.fourseasons.com/marrakech/pagea/?source=gaw11mksS01&kw=&creative=14676127298&KW_ID=s3Exhfw4A|pcrid|14676127298">Four Seasons Marrakech</a> who use the hotel&rsquo;s pickup service for 600 dirhams ($74) are whisked to a V.I.P. lounge to have their passports checked instead of waiting in line at customs.        </p><p>
+<strong>Luggage Solutions </strong>        </p><p>
+Overburdened with luggage? Leave your bags at home. Last year, <a href="http://www.starwoodhotels.com/westin/index.html">Westin Hotels & Resorts</a> began lending guests New Balance sneakers and workout apparel to help reduce bulk in carry-on bags. Shoes come with new socks; sports shirts, pants and bras are washed between workouts, and shoe soles replaced.        </p><p>
+<a href="http://www.fairmont.com/">Fairmont Hotels & Resorts</a> offers a free similar program with Adidas gear for elite members of its loyalty program or $10 per stay for other members. Other hotels like the <a href="http://www.fourseasons.com/chicagofs/pagea/?source=gaw09cfsS02&kw=four+seasons+chicago&creative=8071364343&KW_ID=su2lKHXBS|pcrid|8071364343&gclid=CNX60P3N2awCFQ1x5QodszUEpw">Four Seasons Chicago</a> and the <a href="http://www.fourseasons.com/chicagorc/pagea/?source=gaw09crcS02&kw=ritz+carlton+chicago&creative=6637677393&KW_ID=sm81UdGSU|pcrid|6637677393&gclid=CMbK8YnO2awCFUbf4AodLBexpg">Ritz-Carlton Chicago</a> (also a Four Seasons hotel) eliminate the need for luggage completely by storing clothes for repeat clientele, at no charge beyond laundering. Guests arrive to a closet full of clothes that have been laundered and pressed.        </p><p>
+For a $315 fee, the <a href="http://www.trumpsohohotel.com/?si=true">Trump SoHo</a> in New York goes a step further, curating guests&rsquo; garments with the help of the luxury valet company Garde Robe, which stores and catalogs clothes by size, color and season, and will pull together outfits for specific occasions.        </p><p>
+Hotels are also helping travelers dodge overweight luggage fees. Last year, the <a href="http://hamptoninn.hilton.com/en/hp/hotels/index.jhtml?ctyhocn=TPAWCHX">Hampton Inn & Suites Wesley Chapel</a>, just north of Tampa, Fla., installed a luggage weight scale in the lobby after overhearing one too many guests vent about getting hit with overweight or excess luggage charges.        </p><p>
+&ldquo;We ordered a luggage scale right then,&rdquo; said Janet Arnold, general manager of the hotel, which also keeps a variety of postal boxes for guests to ship items home if it will help them keep costs down. &ldquo;It gets used about five times a week on average.&rdquo;        </p><p>
+<strong>Food for the Plane</strong>        </p><p>
+From the Four Seasons Seattle to <a href="http://www.jeffersondc.com/">the Jefferson</a> in Washington, D.C., many hotels now offer meals to go. Roughly 60 percent of departing guests at <a href="http://palmilla.oneandonlyresorts.com/">One & Only Palmilla</a> in Los Cabos, Mexico, order from the Air to Go menu, which includes sandwiches like slow-roasted pork on pita bread or grilled chicken breast with fruit and a cookie, for 280 pesos (about $20). The <a href="http://www.fourseasons.com/seattle/pagea/?source=gaw09seaS06&kw=four+seasons+seattle&creative=6455454075&KW_ID=sTjF52nRn|pcrid|6455454075&gclid=COy0kvPO2awCFWc65QodxHV4jw">Four Seasons Seattle</a> introduced a Flight Bites menu last year, with meals like pasta salad with grilled eggplant and tomatoes, cured meats, pickles and cookies served in compostable containers, for $30.        </p><p>
+The<a href="http://www.montagedeervalley.com/"> Montage Deer Valley</a> in Park City, Utah, has $18 boxes packed with local fare like sandwiches made from Creminelli salami and Gold Creek aged Cheddar, homemade granola bars and honey pops made by the resort&rsquo;s resident beekeeper. And Hilton&rsquo;s <a href="http://hamptoninn1.hilton.com/en_US/hp/index.do;jsessionid=3AD5AFCDB19D3357D87093F3BB91F584.etc21">Hampton Inn</a> chain offers free On the Run Breakfast Bags packed with water, fruit, a muffin and a cereal bar each morning.        </p><p>
+<strong>A Place to Relax</strong>        </p><p>
+A growing number of international hotels are adding their own airport lounges for guests who want to freshen up after a long flight or relax before takeoff. Last year, the <a href="http://www.fourseasons.com/hualalai/pagea/?source=gaw09hllS23&kw=four+seasons+hualalai&creative=7464662845&KW_ID=sA19XJcic|pcrid|7464662845&gclid=CLrjrMHP2awCFUdn5Qod6GersQ">Four Seasons Resort Hualalai</a> opened an airport lounge at Kona International Airport with a wet bar, Wi-Fi, charging stations for electronics and refreshments. In February, three of Hilton&rsquo;s Maldives Resorts &mdash; the <a href="http://www1.hilton.com/en_US/hi/hotel/MLEIRHI-Hilton-Maldives-Iru-Fushi-Resort-Spa/index.do">Hilton Maldives Iru Fushi Resort & Spa</a>, <a href="http://waldorfastoriamaldives.com/">Waldorf Astoria Maldives</a> and <a href="http://conradhotels1.hilton.com/en/ch/hotels/index.do?ctyhocn=MLEHICI&WT.srch=1">Conrad Maldives Rangali Island</a> &mdash; opened lounges (one for Hilton guests and one for Conrad and Waldorf guests) at the seaplane terminal of Male International Airport offering showers, Wi-Fi, a children&rsquo;s play room, shoulder massages and a resident chef who serves up smoked salmon pizza, Thai fish cakes and other dishes. The lounges, which stay open until 11 p.m., are free to guests upon arrival. Departing guests pay $80 per adult and $40 per child.        </p><p>
+Hotels at airports are also stepping up. For example, <a href="http://www.starwoodhotels.com/sheraton/index.html">Sheraton Hotels & Resorts</a> offers half-day rates at its airport properties for travelers with long layovers or delays who want to spend the time in the privacy of a hotel room.        </p><NYT_CORRECTION_BOTTOM>	<div class="articleCorrection">
+</div>
+</NYT_CORRECTION_BOTTOM><NYT_UPDATE_BOTTOM>
+</NYT_UPDATE_BOTTOM>
+</NYT_TEXT>
+</div>	</div>
+<!--cur: prev:-->
+<div class="columnGroup ">				
+<div class="articleFooter">
+<div class="articleMeta">
+<div class="opposingFloatControl wrap">
+</div>
+</div>
+</div>	</div>
+<!--cur: prev:-->
+<div class="columnGroup ">				
+<div id="articleExtras">
+<div class="expandedToolsRight">
+<div class="articleTools">
+<div class="box">
+<div class="inset">
+<ul id="toolsList" class="toolsList wrap">
+<li class="comments"><a onClick="javascript:dcsMultiTrack('DCS.dcssip','www.nytimes.com','DCS.dcsuri','/article comments/view-tools.html','WT.ti','Article Comments View Tools','WT.z_aca','Tools-View','WT.gcom','Com');" href="http://community.nytimes.com/comments/travel.nytimes.com/2011/12/04/travel/as-airlines-cut-back-hotels-step-in.html" >comments <span id="commentCount"></span></a></li>
+<li class="email">
+<a id="emailThis" onClick="s_code_linktrack('Article-Tool-EmailSignIn');" 
+            href="http://www.nytimes.com/auth/login?URI=http://travel.nytimes.com/2011/12/04/travel/as-airlines-cut-back-hotels-step-in.html">Sign In to E-Mail</a>
+</li>
+<li class="print">
+<A HREF="/2011/12/04/travel/as-airlines-cut-back-hotels-step-in.html?pagewanted=print">Print</a>
+</li>
+
+<A HREF="/2011/12/04/travel/as-airlines-cut-back-hotels-step-in.html?pagewanted=all"></a>
+
+<NYT_REPRINTS_FORM>
+
+<script name="javascript">
+	function submitCCCForm(){
+		var PopUp = window.open('', '_Icon','location=no,toolbar=no,status=no,width=650,height=550,scrollbars=yes,resizable=yes');
+		var form = document.forms["cccform"];
+		// ensure that we are operating on the Form, not a NodeList
+		if (form.nodeName == "FORM") {
+			form.submit();
+		} else if (form[0] && form[0].nodeName == "FORM") {
+			form[0].submit();
+		}
+	}
+	</script>
+<li class="reprints">			<form name="cccform" action="https://s100.copyright.com/CommonApp/LoadingApplication.jsp" target="_Icon">
+<input type="hidden" name="Title" value="Airlines Cut Back, Hotels Step In">
+<input type="hidden" name="Author" value="By MICHELLE HIGGINS ">
+<input type="hidden" name="ContentID" value="http://www.nytimes.com/2011/12/04/travel/as-airlines-cut-back-hotels-step-in.html">
+<input type="hidden" name="FormatType" value="default">
+<input type="hidden" name="PublicationDate" value="December 4, 2011">
+<input type="hidden" name="PublisherName" value="The New York Times">
+<input type="hidden" name="Publication" value="nytimes.com">
+<input type="hidden" name="wordCount" value="12">
+</form>
+<a href="#" onClick="submitCCCForm()">Reprints</a>
+</li>	        
+</NYT_REPRINTS_FORM>
+</ul>
+        </div>
+</div>
+</div>
+<script type="text/javascript">
+writePost();
+</script>
+</div>
+</div>
+
+<div class="singleAd" id="Bottom1">
+<table width="100%" border="0">
+<tr>
+<td><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/travel&pos=Bottom1&sn2=8bed0360/90c04697&sn1=ca8e388/cbca2908&camp=nyt2011-circ-footer_clickhere-36H9U&ad=051110-footer_clickhere-36H9U&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F101%3FSPTR%5FID%3DhdNYT%26MediaCode%3DW16AK%26CMP%3D36H9U"><img src="http://graphics8.nytimes.com/ads/circulation/icon-newspaper.jpg" height="27" width="40" alt="Get Home
+Delivery" align="middle" border="0"/><font size="-1" class="nav" color="#000066" align="left">&nbsp;Get 50% Off The New York Times & Free All Digital Access.</font></a>
+
+</td>
+</tr>
+</table>
+</div>
+
+</div>
+<!--cur: prev:-->
+<div class="columnGroup ">				
+<div class="singleRuleDivider"></div>
+<div class="articleBottomExtra subColumns">
+<div class="column">
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/app/article/outbrain.js"></script>    </div>                
+<div class="column lastColumn">
+<div class="emailAlertModule module">
+<h5 class="sectionHeaderSm">Get Free E-mail Alerts on These Topics</h5>
+<form action="https://myaccount.nytimes.com/mem/tnt.html" method="GET" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="retA" value="http://www.nytimes.com//2011/12/04/travel/as-airlines-cut-back-hotels-step-in.html" >
+<input type="hidden" name="retT" value="Airlines Cut Back, Hotels Step In">
+<input type="hidden" name="module" value="call">
+<input type="hidden" name="alert_context" value="1">
+<ul class="flush">
+<li>
+<input type="hidden" name="topic1" value="Travel+and+Vacations">
+<input type="hidden" name="topic_field1" value="des">
+<a class="inTextReferEmail" href="https://myaccount.nytimes.com/mem/tnt.html?module=call&alert_context=1&topic1=Travel+and+Vacations&topic_field1=des&topic1_check=y&retA=&retT=&cskey=" onClick="javascript:s_code_linktrack('Article-RelatedTopics'); dcsMultiTrack('DCS.dcssip','www.nytimes.com','DCS.dcsuri','/newstracker/add.html','WT.ti','Newstracker Add','WT.z_nta','Add','WT.pers','Per','WT.z_dcsm','1');" onmousedown="NYTD.relatedSearches.clickHandler(event);"  >Travel and Vacations</a>
+</li>
+<li>
+<input type="hidden" name="topic1" value="Hotels+and+Motels">
+<input type="hidden" name="topic_field1" value="des">
+<a class="inTextReferEmail" href="https://myaccount.nytimes.com/mem/tnt.html?module=call&alert_context=1&topic1=Hotels+and+Motels&topic_field1=des&topic1_check=y&retA=&retT=&cskey=" onClick="javascript:s_code_linktrack('Article-RelatedTopics'); dcsMultiTrack('DCS.dcssip','www.nytimes.com','DCS.dcsuri','/newstracker/add.html','WT.ti','Newstracker Add','WT.z_nta','Add','WT.pers','Per','WT.z_dcsm','1');" onmousedown="NYTD.relatedSearches.clickHandler(event);"  >Hotels and Motels</a>
+</li>
+</ul>
+</form>
+</div>
+</div>
+</div>	</div>
+<!--cur: prev:-->
+<div class="columnGroup last">				
+
+<div class="columnGroup" id="adxSponLink"></div>
+<script language="JavaScript">
+        google_hints="Airlines Cut Back, Hotels Step In";google_ad_channel="archive, archive_travel, archive_Travel";
+</script>
+<!-- ADXINFO classification="feature_squares" campaign="ARTICLE_GOOGLE_SPONLINK"--><script language="JavaScript" type="text/javascript">
+    
+    // Sponlink_short
+
+    NYTD.GoogleAds.getGoogleAds("AFC", { 
+        google_ad_client:'nytimes_article_var',
+	google_ad_channel:'left',
+        ad_target_list:'sponLink'
+    });
+</script>
+
+</div>
+</div>
+</div><!--close abColumn -->
+<div class="cColumn">
+
+<div class="columnGroup">
+
+</div>
+<!---->                    <div class="columnGroup first">
+
+</div>
+<!---->                    <div class="columnGroup ">
+
+<div class="singleAd" id="MiddleRight">
+<!-- ADXINFO classification="sumo" campaign="Banana_RepublicGG-1781003-nyt8"--><SCRIPT type="text/javascript" SRC="http://ad.doubleclick.net/adj/N2949.nytimes.comSD6440/B6060247.2;sz=300x600;pc=nyt174572A285373;ord=2011.12.02.18.04.34?;click=http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/travel&pos=MiddleRight&camp=Banana_RepublicGG-1781003-nyt8&ad=banana_300x600_B6060247.2&sn2=76654b96/ff382ae&snr=doubleclick&snx=1322848853&sn1=83cf5b28/45002ad7&goto=">
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/travel&pos=MiddleRight&sn2=76654b96/ff382ae&sn1=676830ae/b70f86f1&camp=Banana_RepublicGG-1781003-nyt8&ad=banana_300x600_B6060247.2&goto=http://ad.doubleclick.net/jump/N2949.nytimes.comSD6440/B6060247.2;sz=300x600;pc=nyt174572A285373;ord=2011.12.02.18.04.34?" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N2949.nytimes.comSD6440/B6060247.2;sz=300x600;pc=nyt174572A285373;ord=2011.12.02.18.04.34?"
+ BORDER=0 WIDTH=300 HEIGHT=600
+ ALT="Click Here"></A>
+</NOSCRIPT>
+</div>
+
+</div>
+<!---->                    <div class="columnGroup ">
+
+<div class="singleAd" id="Box3">
+<!-- ADXINFO classification="feature_squares" campaign="nyt2011-regilite-P1-greatgetaways"--><iframe title="regilite" src="https://myaccount.nytimes.com/regilite?product=GY" width="336" height="90" marginheight="0" marginwidth="0" frameborder="0" vspace="0" hspace="0" scrolling="no"></iframe>
+</div>
+
+</div>
+<!---->                    <div class="columnGroup ">
+
+</div>
+<!---->                    <div class="columnGroup ">
+<!--[if IE 7]>
+    <style type="text/css">
+        @import url(http://graphics8.nytimes.com/css/section/travel/screen/ie7.css);
+    </style>
+<![endif]-->
+<style type="text/css">
+/* BEGIN Utility */
+.clearfix:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}  
+
+/* Hides from IE-mac \*/
+* html .clearfix {
+  height: 1%; 
+}
+/* End hide from IE-mac */
+</style>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/section/travel/eta_enu1033/cal.js"></script>
+<iframe src="/js/section/travel/eta_enu1033/calx.html" style="visibility:hidden;position:absolute;" id="CalFrame" name="CalFrame" marginheight="0" marginwidth="0" noresize frameborder="0" scrolling="no"></iframe>
+<script language="javascript" src="http://graphics8.nytimes.com/js/section/travel/eta_enu1033/calx.js"></script>
+<script language="javascript" src="http://graphics8.nytimes.com/js/section/travel/expediaModulePrepare.js"></script>
+<TABLE CELLPADDING="0" CELLSPACING="0" border="0" class="expediaBooking">
+<TR>
+<TH>
+<div class="expediaHeading">
+<span id="fltHeader">Book Flights</span>
+<span id="hotHeader">Book A Hotel</span>
+<span id="carHeader">Rent A Car</span>
+<span id="cruHeader">Book A Cruise</span>
+<span id="pacHeader">Book A Package</span>
+<span id="tshHeader">Book An Activity</span>
+</div>
+<a href="http://www.expedia.com/pubspec/scripts/eap.asp?GOTO=HOME&eapid=37294-1&olid=&mdpcid=37294.clickthru.home" target="_blank"><img src="http://graphics8.nytimes.com/images/section/travel/expedia_moduleHeader.gif" alt="expedia"/></a>
+</TH>
+</TR>
+<TR>
+<TD class="content">
+<form name="Wiz" ACTION="http://www.expedia.com" METHOD="get" class="rGroup">
+<input name="opts" type="hidden" value="spec">
+<div class="row1">
+<span>
+<input type="radio" name="srch" value="flt" id="sFlt" style="" onclick="hw('flt');" checked="checked">
+<label for="sFlt">Flight</label>
+</span>
+<span>
+<input type="radio" name="srch" value="hot" id="sHot" style="" onclick="hw('hot');">
+<label for="sHot">Hotel</label>
+</span>
+<span class="last">
+<input type="radio" name="srch" value="pac" id="sPac" style="" onclick="hw('pac');">
+<label for="sPac">Packages</label>
+</span>
+</div>
+<div class="row2">
+<span>
+<input type="radio" name="srch" value="car" id="sCar" style=""  onclick="hw('car');">
+<label for="sCar">Car</label>
+</span>
+<span>
+<input type="radio" name="srch" value="cru" id="sCru" style="" onclick="hw('cru');">
+<label for="sCru">Cruise</label>
+</span>
+<span class="last">
+<input type="radio" name="srch" value="tsh" id="sTsh" style="" onclick="hw('tsh');">
+<label for="sTsh">Activities</label>
+</span>
+</div>
+</form>
+<div class="bottom clearfix" style="clear:left;">
+<!--bottom cell -->
+<!--START PACKAGES SEARCH -->
+<div id="pac" STYLE="display:none;" class="bookingInfo">
+<FORM NAME="PkgTypeFrm" id="PkgType"> <!--class change -->
+<label class="newlineLabel"> What type of package do you want? </label>
+<select NAME="PackageType" class="explong" OnChange="SetPkgType(document.PkgTypeFrm.PackageType.value);">
+<option value="2" SELECTED>Flight and hotel</option>
+<option value="1">Flight, hotel and car</option>
+<option value="3">Hotel and car</option>
+<option value="5">Flight and car</option>
+</select>
+<input name="PrevPkgType" type="hidden" value="2">
+</FORM>
+<div ID="PkgWithFlight">
+<FORM Name="PkgFormWithFlight" ACTION="http://www.expedia.com/pubspec/scripts/eap.asp" METHOD="GET">
+<input name="eapid" type="hidden" value="37294-1">
+<input name="GOTO" type=hidden value="PACKAGEWIZ">
+<input TYPE=hidden NAME=rfrr VALUE="-34980">
+<input TYPE=hidden NAME=PackageType VALUE=2>
+<input TYPE=hidden NAME=olid VALUE="">
+<input TYPE=hidden NAME=mdpcid VALUE="37294-1.8.1">
+<div class="clearfix">
+<div class="expleft first">
+<label class="newlineLabel">Leaving from: </label>
+<input class="explong" type="Text" name="FrAirport" SIZE="22" value="" MAXLENGTH="64" onfocus="HCal();">
+<label class="newlineLabel">Departing: </label>
+<input class="expdate" type="Text" name="FromDate" size=10 onclick="event.cancelBubble=true;SC(document.PkgFormWithFlight.FromDate,null);" onfocus="SC(document.PkgFormWithFlight.FromDate,null);">
+<SELECT class="exptime" NAME="FromTime" onfocus="HCal();">
+<Option Value="361">Morn.</Option><Option Value="901">Noon.</Option><Option Value="1081">Eve.</Option>
+</SELECT>
+</div>
+<div class="expleft">
+<label class="newlineLabel">Going to: </label>
+<input TYPE="TEXT" class="explong" size="22" NAME=DestName onfocus="HCal();">
+<label class="newlineLabel">Returning: </label>
+<input class="expdate" type="Text" name="ToDate" size=10 onclick="event.cancelBubble=true;SC(document.PkgFormWithFlight.ToDate,document.PkgFormWithFlight.FromDate);" onfocus="SC(document.PkgFormWithFlight.ToDate,document.PkgFormWithFlight.FromDate);">
+<SELECT class="exptime" NAME="ToTime" onfocus="HCal();">
+<Option Value="361">Morn.</Option><Option Value="901">Noon.</Option><Option Value="1081">Eve.</Option>
+</SELECT>
+</div>
+</div>
+<TABLE CELLPADDING="0" CELLSPACING="0" class="passengers lastrow"> <!--table1aa -->
+<TR>
+<TD>
+<label for="NumAdult2" class="newlineLabel">Adults:</label>
+<SELECT class="size11select" NAME="NumAdult" id="NumAdult2"><OPTION VALUE="0">0<OPTION VALUE="1">1<OPTION SELECTED VALUE="2">2<OPTION VALUE="3">3<OPTION VALUE="4">4</SELECT>
+</TD>
+<TD>
+<label for="NumSenior2" class="newlineLabel">Seniors:</label>
+<SELECT class="size11select" NAME="NumSenior" id="NumChild2"><OPTION VALUE="0" SELECTED>0<OPTION VALUE="1">1<OPTION VALUE="2">2<OPTION VALUE="3">3<OPTION VALUE="4">4</SELECT>
+</TD>
+<TD>
+<label for="NumChild2" class="newlineLabel">Children:</label>
+<SELECT class="size11select" NAME="NumChild" id="NumChild2"><OPTION VALUE="0" SELECTED>0<OPTION VALUE="1">1<OPTION VALUE="2">2<OPTION VALUE="3">3<OPTION VALUE="4">4</SELECT>
+</TD>
+<TD class="expSearch">
+<table cellpadding="0" cellspacing="0" border="0" class="expSearchButton" onclick="document.PkgFormWithFlight.submit();">  <!--table1ab -->
+<tr><td><img src="http://media.expedia.com/media/content/shared/graphics/other/button_left.gif" width="17px" height="22px" alt="" /></td><td class="expSearchMitte">Search for packages</td><td><img src="http://media.expedia.com/media/content/shared/graphics/other/button_right.gif" width="7px" height="22px" alt="" /></td></tr></table> <!--end table1ab -->
+</TD>
+</TR>
+</TABLE>
+</FORM>
+</div><!--close #PkgWithFlight -->
+<div ID="PkgNoFlight" STYLE="display:none;">
+<FORM Name=PkgFormNoFlight ACTION="http://www.expedia.com/pubspec/scripts/eap.asp" METHOD=GET>
+<input name="eapid" type=hidden value="37294-1">
+<input name="GOTO" type=hidden value="PACKAGEWIZ">
+<input TYPE=hidden NAME=rfrr VALUE="-34980">
+<input TYPE=hidden NAME=PackageType VALUE="3">
+<input TYPE=hidden NAME=olid VALUE="">
+<input TYPE=hidden NAME=mdpcid VALUE="37294-1.8.1">
+<div id="PkgGoingto">
+<div class="newlineLabel"><br/>Destination: </div>
+<input TYPE="TEXT" class="explong" NAME=DestName onfocus="HCal();">
+</div>
+<div class="clearfix">
+<div class="expleft first">
+<label class="newlineLabel">Check-in: </label>
+<input class="expdate" type="Text" name="FromDate" size=10 onclick="event.cancelBubble=true;SC(document.PkgFormNoFlight.FromDate,null);" onfocus="SC(document.PkgFormNoFlight.FromDate,null);">
+<select class="exptime" NAME="FromTime" onfocus="HCal();">
+<Option Value="1">12 AM</Option><Option Value="60">1 AM</Option><Option Value="120">2 AM</Option><Option Value="180">3 AM</Option><Option Value="240">4 AM</Option><Option Value="300">5 AM</Option><Option Value="360">6 AM</Option><Option Value="420">7 AM</Option><Option Value="480">8 AM</Option><Option Value="540">9 AM</Option><Option Value="600">10 AM</Option><Option Selected="true" value="660">11 AM</Option><Option Value="720">12 noon</Option><Option Value="780">1 PM</Option><Option Value="840">2 PM</Option><Option Value="900">3 PM</Option><Option Value="960">4 PM</Option><Option Value="1020">5 PM</Option><Option Value="1080">6 PM</Option><Option Value="1140">7 PM</Option><Option Value="1200">8 PM</Option><Option Value="1260">9 PM</Option><Option Value="1320">10 PM</Option><Option Value="1380">11 PM</Option>
+</select>
+</div>
+<div class="expleft second">
+<label class="newlineLabel">Check-out: </label>
+<input class="expdate" type="Text" name="ToDate" size=10 onclick="event.cancelBubble=true;SC(document.PkgFormNoFlight.ToDate,document.PkgFormNoFlight.FromDate);" onfocus="SC(document.PkgFormNoFlight.ToDate,document.PkgFormNoFlight.FromDate);">
+<select class="exptime" NAME="ToTime" onfocus="HCal();">
+<Option Value="1">12 AM</Option><Option Value="60">1 AM</Option><Option Value="120">2 AM</Option><Option Value="180">3 AM</Option><Option Value="240">4 AM</Option><Option Value="300">5 AM</Option><Option Value="360">6 AM</Option><Option Value="420">7 AM</Option><Option Value="480">8 AM</Option><Option Value="540">9 AM</Option><Option Value="600">10 AM</Option><Option Selected="true" value="660">11 AM</Option><Option Value="720">12 noon</Option><Option Value="780">1 PM</Option><Option Value="840">2 PM</Option><Option Value="900">3 PM</Option><Option Value="960">4 PM</Option><Option Value="1020">5 PM</Option><Option Value="1080">6 PM</Option><Option Value="1140">7 PM</Option><Option Value="1200">8 PM</Option><Option Value="1260">9 PM</Option><Option Value="1320">10 PM</Option><Option Value="1380">11 PM</Option>
+</select>
+</div>
+</div>
+<TABLE CELLPADDING="0" CELLSPACING="0" class="passengers lastrow">
+<TR>
+<TD>
+<label class="newlineLabel">Adults:</label>
+<SELECT class="size11select" NAME="NumAdult"><OPTION VALUE="0">0<OPTION VALUE="1">1<OPTION SELECTED VALUE="2">2<OPTION VALUE="3">3<OPTION VALUE="4">4</SELECT>
+</TD>
+<TD>
+<label class="newlineLabel">Seniors:</label>
+<SELECT class="size11select" NAME="NumSenior"><OPTION VALUE="0" SELECTED>0<OPTION VALUE="1">1<OPTION VALUE="2">2<OPTION VALUE="3">3<OPTION VALUE="4">4</SELECT>
+</TD>
+<TD>
+<label class="newlineLabel">Children:</label>
+<SELECT class="size11select" NAME="NumChild"><OPTION VALUE="0" SELECTED>0<OPTION VALUE="1">1<OPTION VALUE="2">2<OPTION VALUE="3">3<OPTION VALUE="4">4</SELECT>
+</TD>
+<TD class="expSearch">
+<table cellpadding="0" cellspacing="0" border="0" class="expSearchButton" onclick="document.PkgFormNoFlight.submit();"><tr><td><img src="http://media.expedia.com/media/content/shared/graphics/other/button_left.gif" width="17px" height="22px" alt="" /></td><td class="expSearchMitte">Search for packages</td><td><img src="http://media.expedia.com/media/content/shared/graphics/other/button_right.gif" width="7px" height="22px" alt="" /></td></tr></table>
+</TD>
+</TR>
+</TABLE>
+</FORM>
+</div><!--close #PkgNoFlight -->
+<div ID="PkgWithFlightCar" STYLE="display:none;">
+<FORM Name=PkgFormWithFlightCar ACTION="http://www.expedia.com/pubspec/scripts/eap.asp" METHOD=GET>
+<input name="eapid" type=hidden value="37294-1">
+<input name="GOTO" type=hidden value="PACKAGEWIZ">
+<input TYPE=hidden NAME=rfrr VALUE="-34980">
+<input TYPE=hidden NAME=PackageType VALUE=5>
+<input TYPE=hidden NAME=olid VALUE="">
+<input TYPE=hidden NAME=mdpcid VALUE="37294-1.8.1">
+<div class="clearfix">
+<div class="expleft first">
+<label class="newlineLabel">Leaving from: </label>
+<input class="explong" type="Text" name="FrAirport" SIZE="22" value="" MAXLENGTH="64" onfocus="HCal();">
+<div class="newlineLabel">Departing:</div>
+<input class="expdate" type="Text" name="FromDate" size=10 onclick="event.cancelBubble=true;SC(document.PkgFormWithFlightCar.FromDate,null);" onfocus="SC(document.PkgFormWithFlightCar.FromDate,null);">
+<SELECT class="exptime" NAME="FromTime" onfocus="HCal();">
+<Option Value="361">Morn.</Option><Option Value="901">Noon.</Option><Option Value="1081">Eve.</Option>
+</SELECT>
+</div>
+<div class="expleft">
+<label class="newlineLabel">Going to: </label>
+<input TYPE="TEXT" class="explong" size="22" NAME=DestName onfocus="HCal();">
+<div class="newlineLabel">Returning: </div>
+<input class="expdate" type="Text" name="ToDate" size=10 onclick="event.cancelBubble=true;SC(document.PkgFormWithFlightCar.ToDate,document.PkgFormWithFlightCar.FromDate);" onfocus="SC(document.PkgFormWithFlightCar.ToDate,document.PkgFormWithFlightCar.FromDate);">
+<SELECT class="exptime" NAME="ToTime" onfocus="HCal();">
+<Option Value="361">Morn.</Option><Option Value="901">Noon.</Option><Option Value="1081">Eve.</Option>
+</SELECT>
+</div>
+</div>
+<TABLE CELLPADDING="0" CELLSPACING="0" class="passengers lastrow">
+<TR>
+<TD>
+<label for="NumAdult4" class="newlineLabel">Adults:</label>
+<SELECT class="size11select" NAME="NumAdult" id="NumAdult4"><OPTION VALUE="0">0<OPTION VALUE="1">1<OPTION SELECTED VALUE="2">2<OPTION VALUE="3">3<OPTION VALUE="4">4</SELECT>
+</TD>
+<TD>
+<label for="NumSenior4" class="newlineLabel">Seniors:</label>
+<SELECT class="size11select" NAME="NumSenior" id="NumSenior4"><OPTION VALUE="0" SELECTED>0<OPTION VALUE="1">1<OPTION VALUE="2">2<OPTION VALUE="3">3<OPTION VALUE="4">4</SELECT>
+</TD>
+<TD>
+<label for="NumChild4" class="newlineLabel">Children:</label>
+<SELECT class="size11select" NAME="NumChild" id="NumChild4"><OPTION VALUE="0" SELECTED>0<OPTION VALUE="1">1<OPTION VALUE="2">2<OPTION VALUE="3">3<OPTION VALUE="4">4</SELECT>
+</TD>
+<TD class="expSearch">
+<table cellpadding="0" cellspacing="0" border="0" class="expSearchButton" onclick="document.PkgFormWithFlightCar.submit();">
+<tr>
+<td><img src="http://media.expedia.com/media/content/shared/graphics/other/button_left.gif" width="17px" height="22px" alt="" /></td>
+<td class="expSearchMitte">Search for packages</td>
+<td><img src="http://media.expedia.com/media/content/shared/graphics/other/button_right.gif" width="7px" height="22px" alt="" /></td>
+</tr>
+</table>
+</TD>
+</TR>
+</FORM>
+</TABLE>
+</div><!--close #PkgWithFlightCar -->
+</div><!--close #pac -->
+<!--END PACKAGES SEARCH -->
+<!--START HOTELS SEARCH -->
+<div id="hot" STYLE="display:none;" class="bookingInfo">
+<FORM NAME=HotForm ACTION="http://www.expedia.com/pubspec/scripts/eap.asp" METHOD=get>
+<input name="eapid" type=hidden value="37294-1">
+<input TYPE=HIDDEN NAME=GOTO VALUE="HOTSEARCH">
+<input TYPE=hidden NAME=lang VALUE="1033">
+<input TYPE=hidden NAME=ovrd VALUE="3">
+<input TYPE=hidden NAME=rfrr VALUE="-34980">
+<input TYPE=hidden NAME=olid VALUE="">
+<input TYPE=hidden NAME=mdpcid VALUE="37294-1.8.1">
+<TABLE CELLPADDING="0" CELLSPACING="0" border="0">
+<TR>
+<TD>
+<label class="newlineLabel" for="hotCity">Search for hotels in: </label>
+<input class="explong" TYPE="text" NAME="CityName" onfocus="HCal();" id="hotCity" />
+</TD>
+<TD>
+<div class="newlineLabel">Check-in: </div>
+<input class="expdate" type="Text" name="InDate" size=10 onclick="event.cancelBubble=true;SC(document.HotForm.InDate,null);" onfocus="SC(document.HotForm.InDate,null);">
+</TD>
+<TD>
+<div class="newlineLabel">Check-out: </div>
+<input class="expdate" type="Text" name="OutDate" size=10 onclick="event.cancelBubble=true;SC(document.HotForm.OutDate,document.HotForm.InDate);" onfocus="SC(document.HotForm.OutDate,document.HotForm.InDate);">
+</TD>
+</TR>
+</TABLE>
+<div class="passengers lastrow">
+<div class="expleft">
+<label class="newlineLabel">Rooms:</label>
+<select NAME="NumRoom" OnChange="mrd(document.HotForm.NumRoom.value)" onfocus="HCal();"><OPTION VALUE="1">1<OPTION VALUE="2">2<OPTION VALUE="3">3</SELECT>
+</div>
+<!--<div id="rm1txt"><span class="roomNum"><B>Room 1</B></span></div> -->
+<div class="expleft">
+<label class="newlineLabel">Adults: </label>
+<SELECT class="size11select" NAME="NumAdult"><OPTION VALUE="1">1<OPTION SELECTED VALUE="2">2<OPTION VALUE="3">3<OPTION VALUE="4">4</SELECT>
+</div>
+<div class="expleft">
+<label class="newlineLabel">Children: </label>
+<SELECT class="size11select" NAME="NumChild"><OPTION VALUE="0">0<OPTION VALUE="1">1<OPTION VALUE="2">2<OPTION VALUE="3">3<OPTION VALUE="4">4</SELECT>
+</div>
+<div id="hotrm2" STYLE="display:none;clear:left;">
+<div class="expleft roomNum">Room 2</div>
+<div class="expleft">
+<label class="newlineLabel">Adults: </label>
+<SELECT class="size11select" NAME="NumAdult2"><OPTION VALUE="1">1<OPTION VALUE="2">2<OPTION VALUE="3">3<OPTION VALUE="4">4</SELECT>
+</div>
+<div class="expleft">
+<label class="newlineLabel">Children: </label>
+<SELECT class="size11select" NAME="NumChild2"><OPTION VALUE="0">0<OPTION VALUE="1">1<OPTION VALUE="2">2<OPTION VALUE="3">3<OPTION VALUE="4">4</SELECT>
+</div>
+</div>
+<div id="hotrm3" STYLE="display:none;clear:left;">
+<div class="expleft roomNum">Room 3</div>
+<div class="expleft">
+<label class="newlineLabel">Adults: </label>
+<SELECT class="size11select" NAME="NumAdult3"><OPTION VALUE="1">1<OPTION VALUE="2">2<OPTION VALUE="3">3<OPTION VALUE="4">4</SELECT>
+</div>
+<div class="expleft">
+<label class="newlineLabel">Children: </label>
+<SELECT class="size11select" NAME="NumChild3"><OPTION VALUE="0">0<OPTION VALUE="1">1<OPTION VALUE="2">2<OPTION VALUE="3">3<OPTION VALUE="4">4</SELECT>
+</div>
+</div>
+<div class="expSearch">
+<div id="rm1txt"></div>
+<table cellpadding="0" cellspacing="0" border="0" class="expSearchButton" onclick="document.HotForm.submit();">
+<tr><td><img src="http://media.expedia.com/media/content/shared/graphics/other/button_left.gif" width="17px" height="22px" alt="" /></td><td class="expSearchMitte">Search for hotels</td><td><img src="http://media.expedia.com/media/content/shared/graphics/other/button_right.gif" width="7px" height="22px" alt="" /></td></tr>
+</table>
+</div>
+</div>
+</FORM>
+</div>
+<!--END HOTELS SEARCH -->
+<!--START FLIGHTS SEARCH -->
+<div id="flt" STYLE="display:none;" class="bookingInfo">
+<FORM NAME=FltForm ACTION="http://www.expedia.com/pubspec/scripts/eap.asp" METHOD=get>
+<input name="eapid" type=hidden value="37294-1">
+<input TYPE=hidden NAME=GOTO VALUE="EXPFLTWIZ">
+<input TYPE=hidden NAME=rfrr VALUE="-34980">
+<input TYPE=hidden NAME=olid VALUE="">
+<input TYPE=hidden NAME=mdpcid VALUE="37294-1.8.1">
+<TABLE CELLPADDING="0" CELLSPACING="0" border="0">
+<TR class="departureRow">
+<TD NOWRAP>
+<div class="newlineLabel">Leaving from: </div>
+<input class="explong" type="Text" name="FrAirport" value="" MAXLENGTH="64" onfocus="HCal();">
+<div class="newlineLabel">Departing: </div>
+<input class="expdate" type="Text" name="FromDate" onclick="event.cancelBubble=true;SC(document.FltForm.FromDate,null);" onfocus="SC(document.FltForm.FromDate,null);">
+<select class="exptime" NAME="FromTime" onfocus="HCal();">
+<Option Value="1">12 AM</Option><Option Value="60">1 AM</Option><Option Value="120">2 AM</Option><Option Value="180">3 AM</Option><Option Value="240">4 AM</Option><Option Value="300">5 AM</Option><Option Value="360">6 AM</Option><Option Value="420">7 AM</Option><Option Value="480">8 AM</Option><Option Value="540">9 AM</Option><Option Value="600">10 AM</Option><Option Selected="true" value="660" style="width:280px !important;">11 AM</Option><Option Value="720">12 noon</Option><Option Value="780">1 PM</Option><Option Value="840">2 PM</Option><Option Value="900">3 PM</Option><Option Value="960">4 PM</Option><Option Value="1020">5 PM</Option><Option Value="1080">6 PM</Option><Option Value="1140">7 PM</Option><Option Value="1200">8 PM</Option><Option Value="1260">9 PM</Option><Option Value="1320">10 PM</Option><Option Value="1380">11 PM</Option>
+</select>
+</TD>
+<TD NOWRAP>
+<div class="newlineLabel">Going to: </div>
+<input class="explong" TYPE="text" NAME="ToAirport" onfocus="HCal();">
+<div class="newlineLabel">Returning: </div>
+<input class="expdate" type="Text" name="ToDate" size=10 onclick="event.cancelBubble=true;SC(document.FltForm.ToDate,document.FltForm.FromDate);" onfocus="SC(document.FltForm.ToDate,document.FltForm.FromDate);">
+<select class="exptime" NAME="ToTime" onfocus="HCal();">
+<Option Value="1">12 AM</Option><Option Value="60">1 AM</Option><Option Value="120">2 AM</Option><Option Value="180">3 AM</Option><Option Value="240">4 AM</Option><Option Value="300">5 AM</Option><Option Value="360">6 AM</Option><Option Value="420">7 AM</Option><Option Value="480">8 AM</Option><Option Value="540">9 AM</Option><Option Value="600">10 AM</Option><Option Selected="true" value="660">11 AM</Option><Option Value="720">12 noon</Option><Option Value="780">1 PM</Option><Option Value="840">2 PM</Option><Option Value="900">3 PM</Option><Option Value="960">4 PM</Option><Option Value="1020">5 PM</Option><Option Value="1080">6 PM</Option><Option Value="1140">7 PM</Option><Option Value="1200">8 PM</Option><Option Value="1260">9 PM</Option><Option Value="1320">10 PM</Option><Option Value="1380">11 PM</Option>
+</SELECT>
+</TD>
+</TR>
+</TABLE>
+<div class="lastrow clearfix">
+<div class="passengers">
+<div class="expleft">
+<label for="NumAdult" class="newlineLabel">Adults:</label>
+<SELECT NAME="NumAdult" id="NumAdult"><OPTION VALUE="1">1<OPTION SELECTED VALUE="2">2<OPTION VALUE="3">3<OPTION VALUE="4">4</SELECT>
+</div>
+<div class="expleft">
+<label for="NumSenior" class="newlineLabel">Seniors:</label>
+<SELECT NAME="NumSenior" id="NumChild"><OPTION VALUE="0" SELECTED>0<OPTION VALUE="1">1<OPTION VALUE="2">2<OPTION VALUE="3">3<OPTION VALUE="4">4</SELECT>
+</div>
+<div class="expleft">
+<label for="NumChild" class="newlineLabel">Children:</label>
+<SELECT NAME="NumChild" id="NumChild"><OPTION VALUE="0" SELECTED>0<OPTION VALUE="1">1<OPTION VALUE="2">2<OPTION VALUE="3">3<OPTION VALUE="4">4</SELECT>
+</div>
+</div>
+<div class="expright">
+<table cellpadding="0" cellspacing="0" onclick="document.FltForm.submit();" class="expSearchButton">
+<tr>
+<td><img src="http://media.expedia.com/media/content/shared/graphics/other/button_left.gif" width="17px" height="22px" alt="" /></td>
+<td class="expSearchMitte">Search for flights</td>
+<td><img src="http://media.expedia.com/media/content/shared/graphics/other/button_right.gif" width="7px" height="22px" alt="" /></td>
+</tr>
+</table>
+</div>
+</div>
+</FORM>
+</div>
+<!--END FLIGHTS SEARCH -->
+<!--START CARS SEARCH -->
+<div id="car" STYLE="display:none;" class="bookingInfo">
+<FORM Name=CarForm ACTION="http://www.expedia.com/pubspec/scripts/eap.asp" METHOD=get>
+<input name="eapid" type=hidden value="37294-1">
+<input TYPE=HIDDEN NAME=GOTO VALUE=CARSEARCH>
+<input TYPE=hidden NAME=rfrr VALUE="-34980">
+<input TYPE=hidden NAME=olid VALUE="">
+<input TYPE=hidden NAME=mdpcid VALUE="37294-1.8.1">
+<TABLE CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<label class="newlineLabel" for="carPickup">Pick-up location:</label>
+<input class="explong" maxLength=100 name="PickUpLoc" class="text1B" onfocus="HCal();" id="carPickup" />
+</TD>
+<TD>
+<label class="newlineLabel" for="carClass">Car class:</label>
+<select name="Class" class="explong" id="carClass">
+<Option Value="NoPreference">No Preference</Option><Option Value="Economy">Economy</Option><Option Value="Compact">Compact</Option><Option Value="Midsize">Midsize</Option><Option Value="Standard">Standard</Option><Option Value="FullSize">Full Size</Option><Option Value="Premium">Premium</Option><Option Value="Luxury">Luxury</Option><Option Value="Convertible">Convertible</Option><Option Value="Minivan">Mini-van</Option><Option Value="SUV">Sport Utility Vehicle</Option>
+</select>
+</TD>
+</TR>
+<TR>
+<TD>
+<div class="newlineLabel">Pick-up: </div>
+<input type="Text" class="expdate" name="FromDate" size=10 onclick="event.cancelBubble=true;SC(document.CarForm.FromDate,null);" onfocus="SC(document.CarForm.FromDate,null);">
+<SELECT NAME="PickUpTime" class="exptime" onfocus="HCal();">
+<Option Value="1">12 AM</Option><Option Value="60">1 AM</Option><Option Value="120">2 AM</Option><Option Value="180">3 AM</Option><Option Value="240">4 AM</Option><Option Value="300">5 AM</Option><Option Value="360">6 AM</Option><Option Value="420">7 AM</Option><Option Value="480">8 AM</Option><Option Value="540">9 AM</Option><Option Value="600">10 AM</Option><Option Selected="true" value="660">11 AM</Option><Option Value="720">12 noon</Option><Option Value="780">1 PM</Option><Option Value="840">2 PM</Option><Option Value="900">3 PM</Option><Option Value="960">4 PM</Option><Option Value="1020">5 PM</Option><Option Value="1080">6 PM</Option><Option Value="1140">7 PM</Option><Option Value="1200">8 PM</Option><Option Value="1260">9 PM</Option><Option Value="1320">10 PM</Option><Option Value="1380">11 PM</Option>
+</SELECT>
+</TD>
+<TD>
+<div class="newlineLabel">Drop-off: </div>
+<input type="Text" class="expdate" name="ToDate" size=10 onclick="event.cancelBubble=true;SC(document.CarForm.ToDate,document.CarForm.FromDate);" onfocus="SC(document.CarForm.ToDate,document.CarForm.FromDate);">
+<SELECT NAME="DropTime" class="exptime" onfocus="HCal();">
+<Option Value="1">12 AM</Option><Option Value="60">1 AM</Option><Option Value="120">2 AM</Option><Option Value="180">3 AM</Option><Option Value="240">4 AM</Option><Option Value="300">5 AM</Option><Option Value="360">6 AM</Option><Option Value="420">7 AM</Option><Option Value="480">8 AM</Option><Option Value="540">9 AM</Option><Option Value="600">10 AM</Option><Option Selected="true" value="660">11 AM</Option><Option Value="720">12 noon</Option><Option Value="780">1 PM</Option><Option Value="840">2 PM</Option><Option Value="900">3 PM</Option><Option Value="960">4 PM</Option><Option Value="1020">5 PM</Option><Option Value="1080">6 PM</Option><Option Value="1140">7 PM</Option><Option Value="1200">8 PM</Option><Option Value="1260">9 PM</Option><Option Value="1320">10 PM</Option><Option Value="1380">11 PM</Option>
+</SELECT>
+</TD>
+</TR>
+</TABLE>
+<div class="lastrow clearfix">
+<table cellpadding="0" cellspacing="0" border="0" onclick="document.CarForm.submit();" class="expSearchButton">
+<tr>
+<td><img src="http://media.expedia.com/media/content/shared/graphics/other/button_left.gif" width="17px" height="22px" alt="" /></td>
+<td class="expSearchMitte">Search for cars</td>
+<td><img src="http://media.expedia.com/media/content/shared/graphics/other/button_right.gif" width="7px" height="22px" alt="" /></td>
+</tr>
+</table>
+</div>
+</FORM>
+</div>
+<!--END CARS SEARCH -->
+<!--START CRUISES SEARCH -->
+<div id="cru" STYLE="display:none;" class="bookingInfo">
+<FORM NAME=CruForm ACTION="http://www.expedia.com/pubspec/scripts/eap.asp" METHOD=get>
+<input name="eapid" type=hidden value="37294-1">
+<input type="hidden" name="GOTO" value="CRUISESEARCH">
+<input TYPE=hidden NAME=rfrr VALUE="-34980">
+<input TYPE=hidden NAME=olid VALUE="">
+<input TYPE=hidden NAME=mdpcid VALUE="37294-1.8.1">
+<TABLE CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<label class="newlineLabel">Select a top destination:</label>
+<select name="destination" class="explong">
+<Option Value="">----------------------------</Option>
+<Option Value="6023184">Africa</Option>
+<Option Value="203">Alaska</Option>
+<Option Value="6050677">Asia</Option>
+<Option Value="13">Bahamas</Option>
+<Option Value="20">Bermuda</Option>
+<Option Value="6022969">Caribbean</Option>
+<Option Value="6022967">Europe</Option>
+<Option Value="213">Hawaii</Option>
+<Option Value="6023183">Mediterranean</Option>
+<Option Value="6023750">Mediterranean - Eastern</Option>
+<Option Value="6023751">Mediterranean - Western</Option>
+<Option Value="6050655">Mexico</Option>
+<Option Value="6049796">Northern Europe</Option>
+<Option Value="-2">Nowhere</Option>
+<Option Value="6023753">Panama Canal</Option>
+<Option Value="6050676">South America</Option>
+<Option Value="6023180">South Pacific</Option>
+<Option Value="-3">Transatlantic</Option>
+<Option Value="-4">Transpacific</Option>
+<Option Value="6050649">United States &amp; Canada</Option>
+<Option Value="6023746">US Pacific Coast</Option>
+<Option Value="-5">World</Option>
+</select>
+</TD>
+<TD>
+<div class="newlineLabel">Departing in:</div>
+<select name="FromDate" class="explong"></select>
+</TD>
+</TR>
+</TABLE>
+<div class="lastrow clearfix">
+<div class="expleft">
+<label class="newlineLabel">Cruise length:</label>
+<select class="explong" NAME="CruiseLength">
+<Option Value="0">Show All</Option><Option Value="1">1-2 nights</Option><Option Value="2">3-5 nights</Option><Option Value="3">6-9 nights</Option><Option Value="4">10-14 nights</Option><Option Value="5">15+ nights</Option>
+</select>
+</div>
+<div class="expright">
+<table cellpadding="0" cellspacing="0" border="0" onclick="document.CruForm.submit();" class="expSearchButton">
+<tr>
+<td><img src="http://media.expedia.com/media/content/shared/graphics/other/button_left.gif" width="17px" height="22px" alt="" /></td>
+<td class="expSearchMitte">Search for cruises</td>
+<td><img src="http://media.expedia.com/media/content/shared/graphics/other/button_right.gif" width="7px" height="22px" alt="" /></td>
+</tr>
+</table>
+</div>
+</div>
+</FORM>
+</div>
+<!--END CRUISES SEARCH -->
+<!--START ACTIVITIES SEARCH -->
+<div id="tsh" STYLE="display:none;" class="bookingInfo">
+<FORM NAME=TshForm ACTION="http://www.expedia.com/pubspec/scripts/eap.asp" METHOD=get>
+<input name="eapid" type=hidden value="37294-1">
+<input type="hidden" name="GOTO" value="TSHOPSSEARCH">
+<input TYPE=hidden NAME=rfrr VALUE="-34980">
+<input TYPE=hidden NAME=olid VALUE="">
+<input TYPE=hidden NAME=mdpcid VALUE="37294-1.8.1">
+<label class="newlineLabel">Destination:</label>
+<input class="explong" type="Text" name="LocationName" SIZE="22" MAXLENGTH="64" onfocus="HCal();">
+<div class="lastrow clearfix">
+<div class="expleft">
+<label class="newlineLabel">From:</label>
+<input CLASS="expdate" type="Text" name="StartDate" onclick="event.cancelBubble=true;SC(document.TshForm.StartDate,null);" onfocus="SC(document.TshForm.StartDate,null);">
+</div>
+<div class="expleft">
+<label class="newlineLabel">To:</label>
+<input CLASS="expdate" type="Text" name="EndDate" onclick="event.cancelBubble=true;SC(document.TshForm.EndDate,document.TshForm.StartDate);" onfocus="SC(document.TshForm.EndDate,TshForm.StartDate);">
+</div>
+<div class="expright">
+<table cellpadding="0" cellspacing="0" border="0" onclick="document.TshForm.submit();" class="expSearchButton">
+<tr>
+<td><img src="http://media.expedia.com/media/content/shared/graphics/other/button_left.gif" width="17px" height="22px" alt="" /></td><td class="expSearchMitte">Search for activities</td><td><img src="http://media.expedia.com/media/content/shared/graphics/other/button_right.gif" width="7px" height="22px" alt="" /></td>
+</tr>
+</table>
+</div>
+</div>
+</FORM>
+</div> <!--end of div#tsh activities box -->
+<!--END ACTIVITIES SEARCH -->
+</div>
+</TD>
+</TR>
+</FORM>
+</TABLE>
+<script language="JavaScript" src="http://graphics8.nytimes.com/js/section/travel/expediaModuleCalendar.js"></script>
+<SCRIPT language="JavaScript" for="window" event="onload">
+<!--
+    var f=document.Wiz;
+    var iCount = 0;
+    if (f.sPac.checked){f.sPac.click();}
+    else if(f.sHot.checked){f.sHot.click();}
+    else if(f.sFlt.checked){f.sFlt.click();}
+    else if(f.sCar.checked){f.sCar.click();}
+    else if(f.sCru.checked){f.sCru.click();}
+    else if(f.sTsh.checked){f.sTsh.click();}
+    else{
+        f.srch[0].click();
+    }
+
+    var f=document.HotForm;if (f.NumRoom.selectedIndex == 1){mrd(2);}else if (f.NumRoom.selectedIndex == 2){mrd(3);}else{mrd(1);}
+
+    SetPkgType(document.PkgTypeFrm.PackageType.value);
+//-->
+</SCRIPT>
+<script language=JavaScript>
+<!--
+    var temp;
+
+    var dtDate = new Date(new Date().valueOf() + 1814400000);var strStartDate = (dtDate.getMonth() + 1) + '/' + dtDate.getDate() + '/' + dtDate.getFullYear() + '';var dtEndDate = new Date(new Date().valueOf() + 1987200000);var strEndDate = (dtEndDate.getMonth() + 1) + '/' + dtEndDate.getDate() + '/' + dtEndDate.getFullYear() + '';
+
+    d=document.forms;
+    d.PkgFormNoFlight.FromDate.value = d.PkgFormWithFlight.FromDate.value = d.PkgFormWithFlightCar.FromDate.value = d.FltForm.FromDate.value = d.HotForm.InDate.value = d.CarForm.FromDate.value = d.TshForm.StartDate.value = strStartDate;
+    d.PkgFormNoFlight.ToDate.value = d.PkgFormWithFlight.ToDate.value = d.PkgFormWithFlightCar.ToDate.value = d.FltForm.ToDate.value = d.HotForm.OutDate.value = d.CarForm.ToDate.value = d.TshForm.EndDate.value = strEndDate;
+//-->
+</SCRIPT>
+
+</div>
+<!---->                    <div class="columnGroup ">
+<div id="mostPopWidget" class="doubleRule"></div>
+<script src="http://graphics8.nytimes.com/js/app/recommendations/recommendationsModule.js" type="text/javascript" charset="utf-8"></script>
+</div>
+<!---->                    <div class="columnGroup ">
+
+</div>
+<!---->                    <div class="columnGroup ">
+
+</div>
+<!---->                    <div class="columnGroup ">
+
+</div>
+<!---->                    <div class="columnGroup ">
+
+<div class="bigAd" id="Box1">
+<!-- ADXINFO classification="Module" campaign="nyt2011_module_movies_dude_film_hp_ros_db"--><!-- MARKETING MODULE -->
+<div style="border:solid #999;border-width:1px;font-family:Arial,sans-serif;text-align:left; width:334px;background:#fff;" class="clearfix wrap">
+  <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/travel&pos=Box1&sn2=ddf56423/c95882ba&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/2011/12/01/is-it-the-year-of-the-dude-film/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-PH%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm11/movies_120211.jpg" width="334" height="154" border="0" alt=""></a> 
+  <div style="padding:7px 9px 0;background:#fff">
+      <h2 style="font-size:22px;line-height:24px; margin:0;padding:0 0 4px;"><a style="color:#004276;" target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/travel&pos=Box1&sn2=ddf56423/c95882ba&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/2011/12/01/is-it-the-year-of-the-dude-film/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-HDR%26WT.mc_ev=click%26WT.mc_c=175075">Is it the year of the dude film?</a></h2>
+
+      <p style="margin:0 0 3px; padding:0;font-size: 11px;"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/travel&pos=Box1&sn2=ddf56423/c95882ba&sn1=9f65a43f/6fae85ce&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://nytimes.com/movies/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-URL%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank" style="font-size:11px;margin:3px 0;padding:0;font-family:Arial,sans-serif;  color:#000; text-transform:uppercase;">Also in Movies &raquo;</a></p>
+      <ul style="font-size:12px;margin:0; padding-bottom: 10px; border-bottom:1px solid #ccc;" class="refer">
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/travel&pos=Box1&sn2=ddf56423/c95882ba&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/2011/11/29/patton-oswalt-steals-the-scene-at-gotham-awards/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-L1%26WT.mc_ev=click%26WT.mc_c=175075" style="color: #004276">All about the Gotham Awards</a></li>
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/travel&pos=Box1&sn2=ddf56423/c95882ba&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-L2%26WT.mc_ev=click%26WT.mc_c=175075" style="color: #004276">Awards season from The Carpetbagger</a></li>
+      </ul>
+    </div>
+ 
+ <div style="padding:5px 9px; float:left; width:316px; background:#fff"> <a style="float:left" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/travel&pos=Box1&sn2=ddf56423/c95882ba&sn1=9f65a43f/6fae85ce&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://nytimes.com/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-LOGO%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/nytimes.gif" alt="nytimes.com" width="116" height="18" border="0"></a><a style="float:right" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/travel&pos=Box1&sn2=ddf56423/c95882ba&sn1=9f65a43f/6fae85ce&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://nytimes.com/movies/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-VRT%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/verticals_movies.gif" alt="Movies" width="120" height="18" border="0"></a></div><br clear="all">
+
+</div>
+  <!-- /MARKETING MODULE -->
+
+
+</div>
+
+</div>
+<!---->                    <div class="columnGroup ">
+<!--[TwoColumnAdLeft - Begin] -->
+	<div class="adHeader">
+<h4>
+Advertisements	    </h4>
+</div>
+<div class="cColumn-TextAdsBox">
+	<div class="cColumn-TextAdsLeft">
+<div class="cColumn-TextAd">
+<!-- ADXINFO classification="SiteForADay" campaign="NYT2011-Mktg-NeediestCases-S4D-ROS"--><div style="width:320px; height:60px;"> 
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/travel&pos=Right5A&sn2=3901de1d/bae6a367&sn1=83a259e6/49fd2187&camp=NYT2011-Mktg-NeediestCases-S4D-ROS&ad=Mtkg_NeediestCases_S4D_2011&goto=https%3A%2F%2Fnytneediestcases%2Ecom%2F" target="_blank"> 
+<img style="float:left; margin-right:10px;" src="http://graphics8.nytimes.com/adx/images/ADS/28/26/ad.282606/11-1929_NeediestCasses_86x60.jpg" width="86" height="60" border="0" style="vertical-align:text-top;"></a>
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/travel&pos=Right5A&sn2=3901de1d/bae6a367&sn1=83a259e6/49fd2187&camp=NYT2011-Mktg-NeediestCases-S4D-ROS&ad=Mtkg_NeediestCases_S4D_2011&goto=https%3A%2F%2Fnytneediestcases%2Ecom%2F" target="_blank">  <br />Help New Yorkers in need.<br />Donate Today.</a>
+</div>
+			</div>
+</div>
+	</div>
+<!--[TwoColumnAdLeft - End] -->
+</div>
+<!---->                    <div class="columnGroup ">
+
+<div class="singleAd" id="Middle5">
+<!-- ADXINFO classification="FeaturedProduct" campaign="NYT2011-Mktg-NeediestCases-336x79-ROS"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/travel&pos=Middle5&sn2=1e164468/9d897cc7&sn1=5fcc55b8/8fa361fc&camp=NYT2011-Mktg-NeediestCases-336x79-ROS&ad=Mtkg_NeediestCases_336x79_2011&goto=https%3A%2F%2Fnytneediestcases%2Ecom%2F" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/28/26/ad.282607/11-1929_NeediestCasses_336x79.jpg" width="336" height="79" border="0"></a>
+
+</div>
+
+</div>
+<!---->                    <div class="columnGroup last">
+
+</div>
+<div class="columnGroup">
+
+<div  id="adxSponLinkA"></div>
+<script language="JavaScript" type="text/javascript">
+    // Sponlink_A_Short
+
+     if (document.getElementById("MiddleRight")) { google_targeting = 'content'; }
+     NYTD.GoogleAds.getGoogleAds("AFC", { 
+        google_ad_client:'nytimes_article_var',
+        ad_target_list:'sponLinkA'
+     });
+
+</script>
+
+</div>
+
+
+
+
+
+
+</div>
+</div><!--close spanAB -->
+
+  <!-- start MOTH -->
+  	<div id="insideNYTimes" class="doubleRule">
+            <script type="text/javascript" src="http://js.nyt.com/js/app/moth/moth.js"></script>
+        <div id="insideNYTimesHeader">
+                    <div class="navigation"><span id="leftArrow"><img id="mothReverse" src="http://i1.nyt.com/images/global/buttons/moth_reverse.gif" /></span>&nbsp;<span id="rightArrow"><img id="mothForward" src="http://i1.nyt.com/images/global/buttons/moth_forward.gif" /></span></div>
+                <h4>
+            Inside NYTimes.com        </h4>
+    </div>
+    
+        
+    <div id="insideNYTimesScrollWrapper">
+        <table id="insideNYTimesBrowser" cellspacing="0">
+            <tbody>
+                <tr>
+                                                <td class="first">
+        <div class="story">
+            <h6 class="kicker">
+                                    <a href="http://theater.nytimes.com/pages/theater/index.html">Theater &raquo;</a>
+                            </h6>
+            <div class="mothImage">
+                <a href="http://theater.nytimes.com/2011/12/02/theater/reviews/bonnie-clyde-with-laura-osnes-and-jeremy-jordan-review.html"><img src="http://i1.nyt.com/images/2011/12/02/theater/02MOTH_BONNIE/02MOTH_BONNIE-moth.jpg" alt="Armed and Amorous: A Cold-Blooded Musical" width="151" height="151" /></a>
+            </div>
+            <h6 class="headline"><a href="http://theater.nytimes.com/2011/12/02/theater/reviews/bonnie-clyde-with-laura-osnes-and-jeremy-jordan-review.html">Armed and Amorous: A Cold-Blooded Musical</a></h6>
+        </div>
+    </td>
+                                                <td>
+        <div class="story">
+            <h6 class="kicker">
+                                    <a href="http://www.nytimes.com/pages/national/index.html">U.S. &raquo;</a>
+                            </h6>
+            <div class="mothImage">
+                <a href="http://www.nytimes.com/2011/12/02/us/more-military-dogs-show-signs-of-combat-stress.html"><img src="http://i1.nyt.com/images/2011/12/02/us/02moth_canine/02moth_canine-moth.jpg" alt="After Duty, Dogs Suffer Like Soldiers" width="151" height="151" /></a>
+            </div>
+            <h6 class="headline"><a href="http://www.nytimes.com/2011/12/02/us/more-military-dogs-show-signs-of-combat-stress.html">After Duty, Dogs Suffer Like Soldiers</a></h6>
+        </div>
+    </td>
+                                                <td>
+        <div class="story">
+            <h6 class="kicker">
+                                    <a href="http://www.nytimes.com/pages/sports/index.html">Sports &raquo;</a>
+                            </h6>
+            <div class="mothImage">
+                <a href="http://www.nytimes.com/2011/12/02/sports/kelly-cobb-leads-duke-to-womens-national-semifinals.html"><img src="http://i1.nyt.com/images/2011/12/02/sports/02moth_duke/02moth_duke-moth.jpg" alt="Duke Freshman Bloomed in Unlikely Place" width="151" height="151" /></a>
+            </div>
+            <h6 class="headline"><a href="http://www.nytimes.com/2011/12/02/sports/kelly-cobb-leads-duke-to-womens-national-semifinals.html">Duke Freshman Bloomed in Unlikely Place</a></h6>
+        </div>
+    </td>
+                                                    <td>
+            <div class="story">
+                <h6 class="kicker"><a href="http://www.nytimes.com/pages/opinion/index.html">Opinion &raquo;</a></h6>
+                <h3><a href="http://opinionator.blogs.nytimes.com/2011/12/01/health-care-for-a-changing-work-force/">Fixes: Health Care for a New Workforce</a></h3>
+                <p class="summary">With 42 million independent workers in the United States, the Freelancers Union&rsquo;s health plan may be a model for the future.</p>
+            </div>
+        </td>
+                                                <td>
+        <div class="story">
+            <h6 class="kicker">
+                                    <a href="http://www.nytimes.com/pages/arts/design/index.html">Arts and Design &raquo;</a>                            </h6>
+            <div class="mothImage">
+                <a href="http://www.nytimes.com/2011/12/02/arts/design/luminous-modernism-at-scandinavia-house-review.html"><img src="http://i1.nyt.com/images/2011/12/02/arts/02MOTH_LUMINOUS/02MOTH_LUMINOUS-moth.jpg" alt="&lsquo;Luminous Modernism&rsquo; at Scandinavia House" width="151" height="151" /></a>
+            </div>
+            <h6 class="headline"><a href="http://www.nytimes.com/2011/12/02/arts/design/luminous-modernism-at-scandinavia-house-review.html">&lsquo;Luminous Modernism&rsquo; at Scandinavia House</a></h6>
+        </div>
+    </td>
+                                                <td>
+        <div class="story">
+            <h6 class="kicker">
+                                    <a href="http://www.nytimes.com/pages/opinion/index.html">Opinion &raquo;</a>
+                            </h6>
+            <div class="mothImage">
+                <a href="http://www.nytimes.com/2011/12/02/opinion/can-russia-help-us-withdraw-from-afghanistan.html"><img src="http://i1.nyt.com/images/2011/12/02/opinion/02moth_opart/02moth_opart-moth.jpg" alt="Op-Ed: Can Russia Help Us in Afghanistan?" width="151" height="151" /></a>
+            </div>
+            <h6 class="headline"><a href="http://www.nytimes.com/2011/12/02/opinion/can-russia-help-us-withdraw-from-afghanistan.html">Op-Ed: Can Russia Help Us in Afghanistan?</a></h6>
+        </div>
+    </td>
+                                                <td class="hidden">
+        <div class="story">
+            <h6 class="kicker">
+                                    <a href="http://www.nytimes.com/pages/arts/design/index.html">Arts and Design &raquo;</a>                            </h6>
+            <div class="mothImage">
+                <a href="http://www.nytimes.com/2011/12/02/arts/design/storytelling-in-japanese-art-at-the-met-review.html"><span class="img" src="http://i1.nyt.com/images/2011/12/02/arts/02MOTH_STORY/02MOTH_STORY-moth.jpg" alt="A Thousand Years of Gods, Demons and Romance" width="151" height="151" /></a>
+            </div>
+            <h6 class="headline"><a href="http://www.nytimes.com/2011/12/02/arts/design/storytelling-in-japanese-art-at-the-met-review.html">A Thousand Years of Gods, Demons and Romance</a></h6>
+        </div>
+    </td>
+                                                <td class="hidden">
+        <div class="story">
+            <h6 class="kicker">
+                                    <a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate &raquo;</a>
+                            </h6>
+            <div class="mothImage">
+                <a href="http://www.nytimes.com/2011/12/04/realestate/the-hunt-upper-east-side-the-time-is-now-apartment.html"><span class="img" src="http://i1.nyt.com/images/2011/12/04/realestate/04MOTH_SUBHUNT/04MOTH_SUBHUNT-moth.jpg" alt="The Time-Is-Now Apartment" width="151" height="151" /></a>
+            </div>
+            <h6 class="headline"><a href="http://www.nytimes.com/2011/12/04/realestate/the-hunt-upper-east-side-the-time-is-now-apartment.html">The Time-Is-Now Apartment</a></h6>
+        </div>
+    </td>
+                                                    <td class="hidden">
+            <div class="story">
+                <h6 class="kicker"><a href="http://www.nytimes.com/pages/opinion/index.html">Opinion &raquo;</a></h6>
+                <h3><a href="http://www.nytimes.com/roomfordebate/2011/12/01/save-america-shop-at-work/">Shop at Work, and Save America</a></h3>
+                <p class="summary">Room for Debate asks: Should employers be worried about lost productivity, or grateful to workers who are always online?</p>
+            </div>
+        </td>
+                                                <td class="hidden">
+        <div class="story">
+            <h6 class="kicker">
+                                    <a href="http://www.nytimes.com/pages/movies/index.html"> Movies &raquo;</a>                            </h6>
+            <div class="mothImage">
+                <a href="http://movies.nytimes.com/2011/12/02/movies/shame-directed-by-steve-mcqueen-review.html"><span class="img" src="http://i1.nyt.com/images/2011/12/02/movies/02MOTH_SHAME/02MOTH_SHAME-moth.jpg" alt="Only One Thing on His Mind" width="151" height="151" /></a>
+            </div>
+            <h6 class="headline"><a href="http://movies.nytimes.com/2011/12/02/movies/shame-directed-by-steve-mcqueen-review.html">Only One Thing on His Mind</a></h6>
+        </div>
+    </td>
+                                                    <td class="hidden">
+            <div class="story">
+                <h6 class="kicker"><a href="http://www.nytimes.com/pages/opinion/index.html">Opinion &raquo;</a></h6>
+                <h3><a href="http://www.nytimes.com/2011/12/02/opinion/forensic-analysts-should-defend-reports-in-court.html">Op-Ed: The Price of the Bill of Rights</a></h3>
+                <p class="summary">Should an analyst who produced a fingerprint report have to show up at trial to face questions about the report?</p>
+            </div>
+        </td>
+                                                <td class="hidden">
+        <div class="story">
+            <h6 class="kicker">
+                                    <a href="http://www.nytimes.com/pages/travel/index.html">Travel &raquo;</a>
+                            </h6>
+            <div class="mothImage">
+                <a href="http://travel.nytimes.com/2011/12/04/travel/as-airlines-cut-back-hotels-step-in.html"><span class="img" src="http://i1.nyt.com/images/2011/12/04/travel/04MOTH_PRAC/04MOTH_PRAC-moth.jpg" alt="Airlines Cut Back, Hotels Step In" width="151" height="151" /></a>
+            </div>
+            <h6 class="headline"><a href="http://travel.nytimes.com/2011/12/04/travel/as-airlines-cut-back-hotels-step-in.html">Airlines Cut Back, Hotels Step In</a></h6>
+        </div>
+    </td>
+                                    </tr>
+            </tbody>
+        </table>
+    </div>
+    
+    </div><!-- end #insideNYTimes -->
+
+            </div><!--close main -->
+<div id="footer">
+<ul class="first">
+<li class="first"><a href="http://www.nytimes.com">Home</a></li>
+<li >
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li>
+<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+</ul>    <ul>
+<li class="first"><a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&copy; 2011</a> <a href="http://www.nytco.com/">The New York Times Company</a></li>
+<li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Terms of Service</a></li>
+<li class="termsOfSale"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+<li><a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a></li>
+<li><a class="rssButton" href="http://www.nytimes.com/rss">RSS</a></li>
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+<li><a href="http://www.nytco.com/careers">Work for Us</a></li>
+<li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+</ul>
+</div>
+</div><!--close page -->
+</div><!--close shell -->
+<IMG SRC="/adx/bin/clientside/310fe01eQ2FZ,Q5CVAgeF73ALQ3Eex2WFFQ3E422744" height="1" width="3">
+   
+
+
+</body>
+
+
+			
+		<!-- Start UPT call -->
+		<img height="1" width="3" border=0 src="http://up.nytimes.com/?d=0/19/&t=2&s=0&ui=&r=&u=travel%2enytimes%2ecom%2f2011%2f12%2f04%2ftravel%2fas%2dairlines%2dcut%2dback%2dhotels%2dstep%2din%2ehtml%3f">
+		<!-- End UPT call -->
+	
+		
+        <script language="JavaScript"><!--
+          var dcsvid="";
+          var regstatus="non-registered";
+        //--></script>
+        <script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+        <noscript>
+          <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div>
+        </noscript>
+   
+
+
+</html>
+
+
+
+
+

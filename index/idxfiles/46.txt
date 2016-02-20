@@ -1,0 +1,157 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-Hans" lang="zh-Hans">
+	<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel="stylesheet" type="text/css" href="/n/upload/templates/pc_default/jquery-ui-custom.css" />
+<link rel="stylesheet" type="text/css" href="/n/upload/templates/pc_default/template.css" />
+<script type="text/javascript" src="/n/third_party/jquery/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="/n/third_party/jqueryui/js/jquery-ui-1.10.3.custom.min.js"></script>
+<script type="text/javascript" src="/n/third_party/jquery-touch-punch/jquery.ui.touch-punch.min.js"></script>
+<script type="text/javascript" src="/n/scripts/survey_runtime.js"></script>
+<script type="text/javascript" src="/n/scripts/coookies.js"></script>
+<script type="text/javascript" src="/n/scripts/expressions/em_javascript.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+LSvar={"bFixNumAuto":1,"bNumRealValue":0,"sLEMradix":"."};
+/*]]>*/
+</script>
+<title>Hao123用户生活服务需求调查问卷（PC端2）</title>
+<meta name="generator" content="LimeSurvey http://www.limesurvey.org" />
+
+<!-- The following line includes jquery-ui.css or jquery-ui-custom.css from template dir, template.css and needed specific css file for survey -->
+
+
+<!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="/n/upload/templates/pc_default/ie_fix_6.css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="/n/upload/templates/pc_default/ie_fix_7.css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" href="/n/upload/templates/pc_default/ie_fix_8.css" />
+<![endif]-->
+
+<!-- The following CSS hides visual elements of the progress bar from screen readers. -->
+<style type="text/css" media="aural tty">
+    progress-graph .zero, progress-graph .graph, progress-graph .cent { display: none; }
+		</style>
+	<!-- The following line includes jquery.js, jquery-ui.js, survey_runtime.js , template.js and needed specific js file for survey -->
+	<script type="text/javascript" src="/n/upload/templates/pc_default/template.js"></script>
+<link rel="shortcut icon" href="/n/upload/templates/pc_default/favicon.ico" />
+
+</head>
+<body class="default lang-zh-Hans groupbygroup showprogress showqnumcode-X"><script type="text/javascript">
+/*<![CDATA[*/
+setJsVar();
+/*]]>*/
+</script>
+
+    <div class="outerframe">
+        <table class="innerframe">
+            <tr>
+                <td>
+<form id="limesurvey" name="limesurvey" autocomplete="off" action="/n/index.php/survey/index" method="post">
+
+<!-- START THE SURVEY -->
+<table class="welcome-table">
+    <tr>
+        <td class="survey-description">
+
+            <noscript><span class='warningjs'>注意：您的浏览器已禁用JavaScript。您可能无法回答调查中所有的问题。请核实浏览器参数。</span></noscript>
+            <table width="100%" cellpadding="0">
+                <tbody>
+                <tr>
+                    <td valign="bottom" id="logo">
+                        <a href="http://www.baidu.com" target="_blank"><img width="137" height="46" src="http://www.baidu.com/img/logo-yy.gif" alt=""></a>
+                    </td>
+                    <td valign="bottom">
+                        <h1>Hao123用户生活服务需求调查问卷（PC端2）</h1>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+
+        </td>
+    </tr>
+    <tr>
+        <td class="language-changer">
+            
+        </td>
+    </tr>
+    <tr>
+        <td class="survey-welcome">
+            <span class='surveywelcome'><p>
+	亲爱的hao123用户：<br />
+	您好！我们正在进行一项关于生活服务需求的调查，希望您能花几分钟时间填写问卷，您的意见将帮助我们更好的改进hao123，认真填答的用户将有机会获得<span style="color:#ff0000;">30元手机话费</span>，更有<span style="color:#ff0000;">小度路由器</span>、<span style="color:#ff0000;">熊掌U盘（8G）</span>、<span style="color:#ff0000;">笔记本套装</span>等限量版百度好礼等着幸运的您，谢谢您的配合和支持！～～</p>
+<p>
+	<br />
+	百度用户体验部<br />
+	 </p>
+</span><br/><br/>
+
+            <!--p class='surveydescription'></p><br/-->
+            <span class="x-questions"></span>
+        </td>
+    </tr>
+</table>
+<table class="navigator-table">
+    <tr>
+        <td class="save-all">
+            
+        </td>
+        <td class="submit-buttons">
+            <button type="submit" id="movenextbtn" value="movenext" name="movenext" accesskey="n" class="submit button">下一页</button>
+        </td>
+        <td class="clear-all">
+            <button type="submit" id="clearall" value="clearall" name="clearall" class="clearall button" data-confirmedby="confirm-clearall" title="这个操作需要确认。">退出并清除调查</button><input id="confirm-clearall" value="confirm" class="hide jshide" type="checkbox" name="confirm-clearall" /><label class="hide jshide" for="confirm-clearall">您确定要清除所有反馈吗？</label>
+        </td>
+    </tr>
+</table>
+<input type='hidden' name='sid' value='797394' id='sid' />
+
+<input type='hidden' name='lastgroupname' value='_WELCOME_SCREEN_' id='lastgroupname' />
+<input type='hidden' name='LEMpostKey' value='556802706' id='LEMpostKey' />
+<input type='hidden' name='thisstep' id='thisstep' value='0' />
+
+</form>
+    		</td>
+    	</tr>
+    </table>
+</div>
+<script type='text/javascript'>
+<!--
+var LEMmode='group';
+var LEMgseq=-1;
+var alert_limit;
+var alert_excluded;
+function ExprMgr_process_relevance_and_tailoring(evt_type,sgqa,type){
+if(type != undefined) {alert_limit=0;} else {alert_limit='undefined'};
+alert_excluded = 0;
+if (typeof LEM_initialized == 'undefined') {
+LEM_initialized=true;
+LEMsetTabIndexes();
+}
+if (evt_type == 'onchange' && (typeof last_sgqa !== 'undefined' && sgqa==last_sgqa) && (typeof last_evt_type !== 'undefined' && last_evt_type == 'TAB' && type != 'checkbox')) {
+  last_evt_type='onchange';
+  last_sgqa=sgqa;
+  return;
+}
+last_evt_type = evt_type;
+last_sgqa=sgqa;
+
+}
+//-->
+</script>
+
+
+	</body>
+</html>
+Date: Wed, 03 Jun 2015 08:12:54 GMT
+Location: http://v.baidu.com/error.html
+P3p: CP=" OTI DSP COR IVA OUR IND COM "
+Server: apache
+Set-Cookie: BAIDUID=5FAF9B8865CDE3D6CC8B6EE2850EB661:FG=1; max-age=31536000; expires=Thu, 02-Jun-16 08:12:54 GMT; domain=.baidu.com; path=/; version=1
+X-Powered-By: PHP/5.2.17
+

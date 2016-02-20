@@ -1,0 +1,237 @@
+Set-cookie: RMID=05fa2f5a57464ed913319a4e; expires=Saturday, 01-Dec-2012 18:04:33 GMT; path=/; domain=.nytimes.com
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Video Showcase: Real Estate - New York Times</title>
+<!--Begin common meta tags--><meta  http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta  http-equiv="Expires" content="now">
+
+<meta  http-equiv="Pragma" content="no-cache">
+
+<meta  http-equiv="Cache-Control" content="no-cache">
+
+<meta  name="robots" content="noarchive">
+
+<!--End common meta tags-->
+<!--Begin common script tags-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/browserSize.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/Tacoda_AMS_DDC_Header.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/DropDown.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/modifyNavigationDisplay.js"></script>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/fileit.js"></script>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/todays_date.js"></script>
+<script type="text/javascript" language="JavaScript">
+  function linkbox(url, winName) {
+    window.open(url, winName,"location=yes,directories=yes,menubar=yes,toolbar=yes,status=yes,resizable=yes,scrollbars=yes");
+  }
+  </script>
+<script src="./js/experience_util.js" type="text/javascript"></script>
+<script type="text/javascript" src="./js/brightcove.js"></script>
+<!--End common script tags-->
+<!--Begin common css-->
+<!--[if IE 7]>
+    <style type="text/css">
+      @import url(http://graphics8.nytimes.com/css/common/screen/ie7.css);
+    </style>
+  <![endif]-->
+<!--End common css-->
+<LINK rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/common/global.css">
+<style type="text/css">
+  @import url(http://graphics8.nytimes.com/css/standalone/betamail/screen/general.css);
+  </style>
+<style type="text/css">
+	@import "./css/brightcove.css";					
+</style>
+</head>
+<body onload="bc_doLoad()">
+<div id="shell">
+<div id="login">
+<ul id="memberTools">
+<li><iframe width="480" scrolling="no" height="15" frameborder="0" src="http://www.nytimes.com/export_html/common/new_login_iframe.html" style="width: 480px; height: 15px;"></iframe></li>
+</ul>
+<ul class="tabs">
+<li><a href="http://www.nytimes.com">Home Page</a></li>
+<li><a href="http://my.nytimes.com">My Times</a></li>
+<li><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+<li><a href="http://www.nytimes.com/video">Video</a></li>
+<li><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+<li><a href="http://www.nytimes.com/timestopics">Times Topics</a></li>
+</ul>
+</div>
+<div id="page">
+<div id="main">
+<a name="top" id="top"></a>
+<div id="mktg" align="center">
+<div id="bc_nytimesHeader"></div>
+<div id="bc_container">
+<div id="bc_whiteSpacer"></div>
+<div id="bc_leftNavBG"></div>
+<div id="bc_leftNav">
+<div id="bc_BrokerContainer">
+<div class="bc_leftNavDiv">
+<div class="bc_navHeaderText">BY FIRM:</div>
+</div>
+</div>
+<div id="bc_LocationContainer">
+<div class="bc_leftNavDiv">
+<div class="bc_navHeaderText">BY LOCATION:</div>
+</div>
+</div>
+</div>
+<div id="bc_playerArea" class="bc_playerArea">
+<div id="bc_lineupTitleDiv"></div>
+<div id="bc_playerLeftColumn">
+<div id="bc_player">
+</div>
+<div id="bc_titleInfoArea">
+<div id="bc_titleText"></div>
+<div id="bc_titleDesc"></div>
+<div id="bc_contact">Contact: </div>
+<div id="bc_longDesc"></div>
+<div id="bc_relatorText"></div>
+</div>
+</div>
+<div id="bc_aboutContainer">
+<div id="bc_aboutTitleText">A special advertising section from <a href="http://www.nytimes.com/realestate/">NYTimes.com/realestate</a></div>
+<div id="bc_aboutText"></div>
+</div>
+</div>
+</div>
+<br><br>
+</div>
+</div>
+<div class="hideContent">
+<!--SiteCatalyst code version: G.5.
+          Copyright 1997-2003 Omniture, Inc. More info available at
+          http://www.omniture.com 
+        -->
+<script language="JavaScript" type="text/javascript">
+        var s_account="nytimesglobal"
+        var s_pageName=document.title.replace(/^the new york times/i, "NYT")
+        var s_server=""
+        var s_channel=""
+        var s_pageType=""
+        var s_prop1="other"
+        var s_prop2=""
+        var s_prop3=""
+        var s_prop4=""
+        var s_prop5=""
+        var s_prop6=""
+        var s_prop7=""
+        var s_prop8=""
+        var s_prop9=""
+        var s_prop10=""
+        var s_prop12=""
+        var s_prop13=""
+        var s_prop14=""
+        var s_prop15=""
+        var s_prop16=""
+        var s_prop17=""
+        var s_prop18=""
+        var s_prop19=""
+        var s_prop20=""
+        var s_campaign=""
+        var s_state=""
+        var s_zip=""
+        var s_events=""
+        var s_products=""
+        var s_purchaseID=""
+        var s_eVar1=""
+        var s_eVar2=""
+        var s_eVar3=""
+        var s_eVar4=""
+        var s_eVar5=""
+        var s_eVar6=""
+        var s_eVar7=""
+        var s_eVar8=""
+        var s_eVar9=""
+        var s_eVar10=""
+        </script>
+<script language="JavaScript" src="http://graphics8.nytimes.com/js/s_code_combined.js" type="text/javascript">
+        </script>
+<script language="JavaScript" type="text/javascript">
+        s_code=s_dc(s_account);if(s_code)s_d.write(s_code)
+        </script> 
+<!--End SiteCatalyst code version: G.5. -->
+<!--Start UPT call -->
+<img height="1" width="3" border="0" src="http://up.nytimes.com/?d=0//&amp;t=6&amp;s=0&amp;ui=&amp;r=&amp;u=www%2enytimes%2ecom%2fgst%2fbetamail%2ehtml%3fURI%3dhttp%3a%2f%2fmy%2enytimes%2ecom%2f%26OQ%3d%5frQ3D1%26OP%3d423bb8d4Q2FipEPiwShEQ5CuQ5BiGhdQ5CQ7BQ7BwCiQ5BQ26hPEhQ5CQ7ByQ22hEGhEuiQ5BQ26hSQ5BEwIQ3BhQ5Bg"> <!--End UPT call -->
+<script language="JavaScript" type="text/javascript">
+        var dcsvid="";
+        var regstatus="non-registered";
+        </script>
+<script language="javascript" type="text/javascript">
+        var js_host="http://graphics8.nytimes.com/js/app/analytics/";
+        </script>
+<script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.0.js" type="text/javascript">
+        </script> 
+<noscript>
+<div>
+<img alt="DCSimg" id="DCSimg" width="1" height="1" src="http://wt.o.nytimes.com/dcsa5pgfq10000c9zuysqk0lm_6i8y/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7" name="DCSimg">
+</div>
+</noscript> 
+<script language="Javascript" type="text/javascript">
+          Tacoda_AMS_DDC_addPair("t_section","")
+        </script>
+<script language="Javascript" type="text/javascript">
+         Tacoda_AMS_DDC_addPair("site","nytimes.com")
+        </script>
+<script language="JavaScript" type="text/javascript">
+         Tacoda_AMS_DDC("http://te.nytimes.com/tte/blank.gif","1.0")
+        </script>
+</div>
+<div id="footer">
+<div class="footerRow">
+<a href="http://www.nytimes.com">Home</a>
+<ul>
+<li><a href="http://www.nytimes.com/pages/world/index.html">World</a></li>
+<li><a href="http://www.nytimes.com/pages/national/index.html">U.S.</a></li>
+<li><a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a></li>
+<li><a href="http://www.nytimes.com/pages/business/index.html">Business</a></li>
+<li><a href="http://tech.nytimes.com/pages/technology/index.html">Technology</a></li>
+<li><a href="http://www.nytimes.com/pages/science/index.html">Science</a></li>
+<li><a href="http://www.nytimes.com/pages/health/index.html">Health</a></li>
+<li><a href="http://www.nytimes.com/pages/sports/index.html">Sports</a></li>
+<li><a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a></li>
+<li><a href="http://www.nytimes.com/pages/arts/index.html">Arts</a></li>
+<li><a href="http://www.nytimes.com/pages/style/index.html">Style</a></li>
+<li><a href="http://travel.nytimes.com">Travel</a></li>
+<li><a href="http://jobmarket.nytimes.com/pages/jobs/index.html">Jobs</a></li>
+<li><a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a></li>
+<li><a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a></li>
+<li><a href="#top">Back to Top</a></li>
+</ul>
+</div>
+<a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">Copyright 2007</a> <a href="http://www.nytco.com/">The New York Times Company</a>
+<ul>
+<li><a href="http://www.nytimes.com/privacy">Privacy Policy</a></li>
+<li><a href="http://www.nytimes.com/search">Search</a></li>
+<li><a href="http://www.nytimes.com/corrections.html">Corrections</a></li>
+<li><a href="http://www.nytimes.com/rss" class="rssButton">RSS</a></li>
+<li><a href="http://firstlook.nytimes.com">First Look</a></li>
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+<li><a href="http://www.nytco.com/career.html">Work for Us</a></li>
+<li><a href="http://www.nytimes.whsites.net/mediakit/">Media Kit</a></li>
+<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+</ul>
+</div>
+</div>
+</div>
+<img SRC="/adx/bin/clientside/704e6b2aQ2FncZyQ7DQ51ayQ20dQ24Q24ZdQ25Q7DQ7D0Q5Cccad1" height="1" width="3">
+</body>
+</html>

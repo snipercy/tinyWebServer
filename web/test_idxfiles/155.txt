@@ -1,0 +1,3 @@
+Location: http://query.nytimes.com/search/business?query=
+Connection: keep-alive
+

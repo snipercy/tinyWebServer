@@ -1,0 +1,3 @@
+Location: http://www.nytimes.com/glogin?URI=http://www.nytimes.com/2011/12/02/us/more-military-dogs-show-signs-of-combat-stress.html&OQ=_rQ3D1&OP=199be400Q2FuJQ5Dgucm_GQ7Bmm2Q3FuQ3F!kkukQ3Fu!Q3FuxGuimQ7BQ5DKiQ26AQ262dQ7BQ7CKcmXGKGVmJKGQ26XFGKm-K_migd2KG2Q7BQ5DGG,V2iA
+Connection: keep-alive
+

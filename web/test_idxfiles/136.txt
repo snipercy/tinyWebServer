@@ -1,0 +1,3 @@
+Location: http://www.nytimes.com/glogin?URI=http://www.nytimes.com/2011/12/04/arts/design/alexander-garvin-looks-at-public-spaces-in-new-york.html&OQ=_rQ3D1Q26hp&OP=438a2772Q2FQ2BsQ22Q3CQ2BFlQ5BNtllL4Q2B4(Q23Q23Q2BQ234Q2B(HQ2BRtLNQ2BFQ22NjQ5EQ5DQ2BR0Q227RQ5DFQ22tQ3BQ5ERtUjQ5DQ3B0llYNQ3BRLQ3BfDQ3C0jQ5BQ3BNfRQ5BQ22NQ3BjQ5DQ3BQ5DQ22sQ3BZltYoQ51LQ3E0
+Connection: keep-alive
+

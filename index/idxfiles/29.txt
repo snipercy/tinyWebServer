@@ -1,0 +1,8 @@
+Date: Wed, 03 Jun 2015 08:00:10 GMT
+Server: BWS/1.0
+Connection: close
+
+Cache-Control: private
+Connection: Close
+
+window.baidu.sug({q:"",p:false,s:[]});

@@ -1,0 +1,1205 @@
+Set-cookie: RMID=0e1072ee18204ed9132d0db5; expires=Saturday, 01-Dec-2012 18:04:29 GMT; path=/; domain=.nytimes.com
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Set-cookie: adxcs=s*2814e=0:1; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Politics - Election News - 2012 Presidential Campaign - Breaking News, Blogs, Results - The New York Times</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="noarchive">
+<meta name="description" content="News, opinion and multimedia on politics and government." />
+<meta name="keywords" content="Presidential Election of 2012,Romney, Mitt,Republican Party,Gingrich, Newt,Obama, Barack,Democratic Party,Income Inequality,Republican Party,Presidential Election of 2012,United States Politics and Government,Payroll Tax,Obama, Barack,Presidential Election of 2012,Arizona,Hispanic-Americans,Illegal Immigrants,Immigration and Emigration,Obama, Barack,Acquired Immune Deficiency Syndrome,Global Fund to Fight AIDS, Tuberculosis and Malaria,Obama, Barack,Campaign Finance,Edwards, John,Sexual Harassment,Richardson, Bill,New Mexico,Cain, Herman,Presidential Election of 2012,United States Politics and Government,United States Defense and Military Forces,Law and Legislation,Al Qaeda,Terrorism,Senate,Detainees,United States Politics and Government,Television,Iowa,Voting and Voters,Presidential Election of 2012,New Hampshire,Romney, Mitt,Santorum, Rick,Fox News Channel,Presidential Elections (US),Cain, Herman,Huntsman, Jon M Jr,States (US),Gingrich, Newt,News and News Media,Perry, Rick,Income Tax,Referendums,Taxation,Brown, Edmund G Jr,Sales and Excise Taxes,Budgets and Budgeting,California,Boehner, John A,Taxation,Democratic Party,Social Security (US),Republican Party,Payroll Tax,United States Economy,Senate,Federal Budget (US),Obama, Barack,House of Representatives,Massachusetts,House of Representatives,Congress (US),United States Politics and Government,News and News Media,Frank, Barney,United States,Layoffs and Job Reductions,Michigan,Bing, Dave,Budgets and Budgeting,Snyder, Richard Dale,Detroit (Mich),Politics and Government,Same-Sex Marriage, Civil Unions and Domestic Partnerships,Cuomo, Andrew M,Campaign Finance,Politics and Government,New York State,Presidential Election of 2012,Voting and Voters,Primaries and Caucuses,Texas,Republican Party,Perry, Rick,United States Politics and Government,Voting and Voters,San Francisco (Calif),San Francisco Board of Supervisors,Elections,Campaign Finance,Elections,House of Representatives,Law and Legislation,Presidential Elections (US),Cain, Herman,Branstad, Terry E,Presidential Election of 2012,Gingrich, Newt,Sexual Harassment,Republican Party,Presidential Election of 2012,Fox News Channel,Cain, Herman,Conflicts of Interest,van Susteren, Greta,News and News Media,Redistricting and Reapportionment,Abbott, Greg,Texas,Supreme Court,Elections,Illinois,Blagojevich, Rod R,Senate,Frauds and Swindling,Extortion and Blackmail,Los Angeles (Calif),Police,Philadelphia (Pa),Occupy Wall Street,Demonstrations, Protests, and Riots,Campaign Finance,Romney, Mitt,Elections,Presidential Election of 2012,Politics and Government,Mormons (Church of Jesus Christ of Latter-Day Saints),Elections,Campaign Finance" />
+<meta name="asset_id" content="">
+<meta name="CG" content="us">
+<meta name="SCG" content="politics">
+<meta name="PT" content="Section Front">
+<meta name="PST" content="Subsection Front">
+<meta name="msapplication-starturl" content="http://www.nytimes.com/" />
+<link rel="canonical" href="http://www.nytimes.com/pages/politics/index.html">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.nytimes.com/services/xml/rss/nyt/Politics.xml"/>
+
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/build/sectionfront/us/politics/specialseason/styles.css" />
+<link rel="stylesheet" type="text/css" media="print" href="http://graphics8.nytimes.com/css/0.1/print/styles.css">
+<!--[if IE]>
+        <style type="text/css">
+            @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie.css);
+        </style>
+    <![endif]-->
+<!--[if IE 6]>
+        <style type="text/css">
+            @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie6.css);
+        </style>
+    <![endif]-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/DropDown.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/util/tooltip.js"></script>
+<script type="text/JavaScript">
+        var static_kw = "Presidential Election of 2012;Romney; Mitt;Republican Party;Gingrich; Newt;Obama; Barack;Democratic Party;Income Inequality;Republican Party;Presidential Election of 2012;United States Politics and Government;Payroll Tax;Obama; Barack;Presidential Election of 2012;Arizona;Hispanic-Americans;Illegal Immigrants;Immigration and Emigration;Obama; Barack;Acquired Immune Deficiency Syndrome;Global Fund to Fight AIDS; Tuberculosis and Malaria;Obama; Barack;Campaign Finance;Edwards; John;Sexual Harassment;Richardson; Bill;New Mexico;Cain; Herman;Presidential Election of 2012;United States Politics and Government;United States Defense and Military Forces;Law and Legislation;Al Qaeda;Terrorism;Senate;Detainees;United States Politics and Government;Television;Iowa;Voting and Voters;Presidential Election of 2012;New Hampshire;Romney; Mitt;Santorum; Rick;Fox News Channel;Presidential Elections (US);Cain; Herman;Huntsman; Jon M Jr;States (US);Gingrich; Newt;News and News Media;Perry; Rick;Income Tax;Referendums;Taxation;Brown; Edmund G Jr;Sales and Excise Taxes;Budgets and Budgeting;California;Boehner; John A;Taxation;Democratic Party;Social Security (US);Republican Party;Payroll Tax;United States Economy;Senate;Federal Budget (US);Obama; Barack;House of Representatives;Massachusetts;House of Representatives;Congress (US);United States Politics and Government;News and News Media;Frank; Barney;United States;Layoffs and Job Reductions;Michigan;Bing; Dave;Budgets and Budgeting;Snyder; Richard Dale;Detroit (Mich);Politics and Government;Same-Sex Marriage; Civil Unions and Domestic Partnerships;Cuomo; Andrew M;Campaign Finance;Politics and Government;New York State;Presidential Election of 2012;Voting and Voters;Primaries and Caucuses;Texas;Republican Party;Perry; Rick;United States Politics and Government;Voting and Voters;San Francisco (Calif);San Francisco Board of Supervisors;Elections;Campaign Finance;Elections;House of Representatives;Law and Legislation;Presidential Elections (US);Cain; Herman;Branstad; Terry E;Presidential Election of 2012;Gingrich; Newt;Sexual Harassment;Republican Party;Presidential Election of 2012;Fox News Channel;Cain; Herman;Conflicts of Interest;van Susteren; Greta;News and News Media;Redistricting and Reapportionment;Abbott; Greg;Texas;Supreme Court;Elections;Illinois;Blagojevich; Rod R;Senate;Frauds and Swindling;Extortion and Blackmail;Los Angeles (Calif);Police;Philadelphia (Pa);Occupy Wall Street;Demonstrations; Protests; and Riots;Campaign Finance;Romney; Mitt;Elections;Presidential Election of 2012;Politics and Government;Mormons (Church of Jesus Christ of Latter-Day Saints);Elections;Campaign Finance";
+        var dynamic_kw = "Presidential+Election+of+2012;Romney;+Mitt;Republican+Party;Gingrich;+Newt;Obama;+Barack;Democratic+Party;Income+Inequality;Republican+Party;Presidential+Election+of+2012;United+States+Politics+and+Government;Payroll+Tax;Obama;+Barack;Presidential+Election+of+2012;Arizona;Hispanic-Americans;Illegal+Immigrants;Immigration+and+Emigration;Obama;+Barack;Acquired+Immune+Deficiency+Syndrome;Global+Fund+to+Fight+AIDS;+Tuberculosis+and+Malaria;Obama;+Barack;Campaign+Finance;Edwards;+John;Sexual+Harassment;Richardson;+Bill;New+Mexico;Cain;+Herman;Presidential+Election+of+2012;United+States+Politics+and+Government;United+States+Defense+and+Military+Forces;Law+and+Legislation;Al+Qaeda;Terrorism;Senate;Detainees;United+States+Politics+and+Government;Television;Iowa;Voting+and+Voters;Presidential+Election+of+2012;New+Hampshire;Romney;+Mitt;Santorum;+Rick;Fox+News+Channel;Presidential+Elections+%28US%29;Cain;+Herman;Huntsman;+Jon+M+Jr;States+%28US%29;Gingrich;+Newt;News+and+News+Media;Perry;+Rick;Income+Tax;Referendums;Taxation;Brown;+Edmund+G+Jr;Sales+and+Excise+Taxes;Budgets+and+Budgeting;California;Boehner;+John+A;Taxation;Democratic+Party;Social+Security+%28US%29;Republican+Party;Payroll+Tax;United+States+Economy;Senate;Federal+Budget+%28US%29;Obama;+Barack;House+of+Representatives;Massachusetts;House+of+Representatives;Congress+%28US%29;United+States+Politics+and+Government;News+and+News+Media;Frank;+Barney;United+States;Layoffs+and+Job+Reductions;Michigan;Bing;+Dave;Budgets+and+Budgeting;Snyder;+Richard+Dale;Detroit+%28Mich%29;Politics+and+Government;Same-Sex+Marriage;+Civil+Unions+and+Domestic+Partnerships;Cuomo;+Andrew+M;Campaign+Finance;Politics+and+Government;New+York+State;Presidential+Election+of+2012;Voting+and+Voters;Primaries+and+Caucuses;Texas;Republican+Party;Perry;+Rick;United+States+Politics+and+Government;Voting+and+Voters;San+Francisco+%28Calif%29;San+Francisco+Board+of+Supervisors;Elections;Campaign+Finance;Elections;House+of+Representatives;Law+and+Legislation;Presidential+Elections+%28US%29;Cain;+Herman;Branstad;+Terry+E;Presidential+Election+of+2012;Gingrich;+Newt;Sexual+Harassment;Republican+Party;Presidential+Election+of+2012;Fox+News+Channel;Cain;+Herman;Conflicts+of+Interest;van+Susteren;+Greta;News+and+News+Media;Redistricting+and+Reapportionment;Abbott;+Greg;Texas;Supreme+Court;Elections;Illinois;Blagojevich;+Rod+R;Senate;Frauds+and+Swindling;Extortion+and+Blackmail;Los+Angeles+%28Calif%29;Police;Philadelphia+%28Pa%29;Occupy+Wall+Street;Demonstrations;+Protests;+and+Riots;Campaign+Finance;Romney;+Mitt;Elections;Presidential+Election+of+2012;Politics+and+Government;Mormons+%28Church+of+Jesus+Christ+of+Latter-Day+Saints%29;Elections;Campaign+Finance";
+        var nyt_google_contents = dynamic_kw + static_kw;
+        var nyt_google_ad_channel = "us_politics";
+    </script>
+</head>
+<body>
+<a name="top"></a>
+<div id="shell">
+
+<ul id="memberTools">
+
+<!-- start text link -->
+<li class="cColumn-TextAdsHeader">Subscribe:
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/politics/index.html&pos=Bar1&sn2=f3960241/63c4cbea&sn1=2407a328/96bf5462&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-digi-hd-d3847U-h3847W&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fsubscriptions%2FMultiproduct%2Flp5558%2Ehtml%3Fadxc%3D162578%26adxa%3D267524%26page%3Dwww.nytimes.com/pages/politics/index.html%26pos%3DBar1%26campaignId%3D3847U" target="_blank">
+Digital</a> / <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/politics/index.html&pos=Bar1&sn2=f3960241/63c4cbea&sn1=8c0204ae/f0584be3&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-digi-hd-d3847U-h3847W&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DW47AF%26CMP%3D3847W" target="_blank">Home Delivery</a>
+</li>
+<!-- end text link -->
+
+ 
+                        <li><a id="memberToolsLogin" href="https://myaccount.nytimes.com/auth/login">Log In</a></li>
+            <li><a href="https://myaccount.nytimes.com/gst/regi.html">Register Now</a></li>
+                            
+
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+</ul>
+<div class="tabsContainer">
+<ul id="mainTabs" class="tabs">
+<li class="first mainTabHome"><a href="http://www.nytimes.com">Home Page</a></li>
+<li class="mainTabTodaysPaper"><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+<li class="mainTabVideo"><a href="http://www.nytimes.com/video">Video</a></li>
+<li class="mainTabMostPopular"><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+<li class="mainTabTimesTopics"><a href="http://topics.nytimes.com/top/reference/timestopics">Times Topics</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+</script>    <div id="page" class="tabContent active">
+<div class="clearfix" id="masthead">
+
+<div class="singleAd" id="Middle1C">
+<!-- ADXINFO classification="button" campaign="ING_DirectSiteSearchQ111_1694929-nyt1"--><A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/politics/index.html&pos=Middle1C&sn2=b91f7916/9014e6df&sn1=59756299/46b02203&camp=ING_DirectSiteSearchQ111_1694929-nyt1&ad=NEW.88x31.SiteSearch.Wizard&goto=http://ad.doubleclick.net/jump/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.29" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.29"
+ BORDER=0 WIDTH=88 HEIGHT=31
+ ALT="Click Here"></A>
+</div>
+
+<div id="searchWidget">
+<div class="inlineSearchControl">
+<form enctype="application/x-www-form-urlencoded" action="http://query.nytimes.com/search/sitesearch" method="get" name="searchForm" id="searchForm">
+<input type="hidden" value="full" name="date_select"/>
+<label for="searchQuery">Search All NYTimes.com</label>
+<input type="text" class="text" value="" size="" name="query" id="searchQuery"/>
+<input type="hidden" id="searchAll" name="type" value="nyt"/>
+<input type="image" id="searchSubmit" title="Search" alt="Search" width="22" height="19" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"/>
+</form>
+</div>
+</div>
+
+<div id="branding" >
+<a href="http://www.nytimes.com"><img src="http://graphics8.nytimes.com/images/misc/nytlogo152x23.gif" alt="New York Times" id="NYTLogo"/></a>
+</div>
+
+<div id="date">
+<p>
+Friday, December  2, 2011
+</p>
+</div>
+
+<h2>
+<a href="http://www.nytimes.com/pages/politics/index.html">Politics</a>
+</h2>
+
+</div>
+<div class="navigation tabsContainer">
+<ul class="tabs">
+<li id="navWorld" class="first ">
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>	<li id="navUs" class="selected">
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>	<li id="navNyregion" >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>	<li id="navBusiness" >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>	<li id="navTechnology" >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>	<li id="navScience" >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>	<li id="navHealth" >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>	<li id="navSports" >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>	<li id="navOpinion" >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>	<li id="navArts" >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>	<li id="navStyle" >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>	<li id="navTravel" >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>	<li id="navJobs" >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>	<li id="navRealestate" >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>	<li id="navAutomobiles" >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li></ul>
+</div>
+
+<div class="singleAd" id="TopAd">
+<!-- ADXINFO classification="leaderboard_728" campaign="Citi_NatContContextAddress_1778585-nyt1"--><script language="JavaScript" type="text/javascript" src="http://view.atdmt.com/NYC/jview/359855726/direct;wi.728;hi.90;pc.172960_282801/01/2011.12.02.18.04.29?click=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fadx%2Fbin%2Fadx%5Fclick%2Ehtml%3Ftype%3Dgoto%26opzn%26page%3Dwww.nytimes.com/pages/politics/index.html%26pos%3DTopAd%26camp%3DCiti%5FNatContContextAddress%5F1778585%2Dnyt1%26ad%3Datlas%2D359855726%5F728x90%5FROS%26sn2%3D7cde5fdb/43cd6249%26snr%3Ddoubleclick%26snx%3D1322848862%26sn1%3Da24f8359%2Fd9b22823%26goto%3D">
+</script><noscript><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/politics/index.html&pos=TopAd&sn2=7cde5fdb/43cd6249&sn1=c8e65fa8/cdc43793&camp=Citi_NatContContextAddress_1778585-nyt1&ad=atlas-359855726_728x90_ROS&goto=http%3A%2F%2Fclk%2Eatdmt%2Ecom%2FNYC%2Fgo%2F359855726%2Fdirect%3Bwi%2E728%3Bhi%2E90%3Bpc%2E172960%5F282801%2F01%2F2011.12.02.18.04.29%2F" target="_blank"><img border="0" src="http://view.atdmt.com/NYC/view/359855726/direct;wi.728;hi.90;pc.172960_282801/01/2011.12.02.18.04.29/" /></a></noscript>
+</div>
+
+<div id="main">
+<div class="baseLayout wrap">
+<div class="nav column">
+<div class="columnGroup first">				
+<style type="text/css">
+<!--
+
+.subNavigation .resultsItem a {
+ background:url("data:image/png;charset=utf-8;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAqCAYAAABLGYAnAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA+FJREFUeNrEWM1PE1EQn263LW2Bgg0iAZISKqIYEYhIogZ6MkYOXPRa0IsJB/wPkHj0on8BcPIIBz1pAgkxwYREUKMGG/kKIkVoSz+2X1uc2S7LtvRjuws4yWR32337m9/Mm5n3ng6KiAfgOl4GUNtRHZB+zpAYw8y2pVIuKFHYPIAEMiKCOop9JK7TgRphs0Cr8DKK+rSUj3AMA8Dz6sFF985A2gDFkkJNqGTOaAEWXM4woFYYMb6qgIXJhqwt/fccHs/nPtJSxuoQfByvg2qt/2swgG3qNRhaW+Q/L6LOok46ndcWC4H71LIm2bLboe7jTKFXVlHH0IiJXDFXDYz5DYbLLcVeo7COY0hWssOierZEENin14PpRpfSIcLcQgOeSeCREmcrsaU4+1gWeJxsxu6uUu0ePTRA98ZiOWiNRIqOIKB9ZJptbP23BbXOczHfzWYIsGzBIhJEUC+yzQY2lc5aLiMC6lxlJdzZ3wdbMnksrsSWz1PBstIrr0SjMeC4qHCfTPIQCoXpdkAAp/JIBnSFQlAXjwvP5I1YkbK529AIeysb0rPPF5Dug8EwAiWV1XYCnK+ogOZoFOyJhCJG2yEOIr/WVfv9WLCjGmp1RuWLmo7Cl2AhktSne0GKgUDckL+fK5FA5XmY55shsFWT9hx/9FFNi4mCk8dkhYXOfpjreSg2c9DkdmoAirrRlysueN83JBigVaIcJ4CPFQNfb2hD0EewXeOAk5KdrS0QcumF3S611XpMtfpYTIorMV1u7oaTFP/eHvxeWwMpkQ8NIHA7OiQjrqcALNR2+R9owABfe2n8U+/jKmJ9ksLjApNAg4GjQqSXv/CO436s3Bw2RwzmPqPRCHq9/kRAd71e2FxdFSZZwVRLoNtpMpBW2GxgxapnKS+HMmxASoW+EcZSHfT7M5gWzfOaaottx5dusTRQPtiKRjDojTKL5XjqYFtOIUtixytcw0sx93iWaTk1Pvn26wAqnIH4WRnwTK592CnKNPM/gMvNRrqMseK+7CwZw/CDDrjb0zRI4O6zZPz8yW1ovyjUEDebvQW+YLeeCjAyRcadaIDUdh06jPlB9ot/dsNAM/7D0iaEuLgmprfa68F9/2pOUgRecLu09NMLi8te4erZ8Bc0hsCcjVWCW50N1QJw4Y2iZ7nkjSJ5ZnsvLD3XnrOqCdeETky1FS17NjUFBrWDcTpb6MYl/nBWMoS4q/LySrk+peQASCNjFwIvZuxSxR86UF+eEjDtz5sOgY8tJmRecIiT0K3RE3QwMI36ityct6vlPQRMh4MWmL35DgGzjkMIZIlA5SxzyT8BBgCwznniPBFyEwAAAABJRU5ErkJggg==") no-repeat scroll center 0 transparent;
+ height:15px;
+ padding-top:45px;
+}
+
+-->
+.subNavigation .congressItem a {
+background:url("http://graphics8.nytimes.com/images/section/us/politics/icons/v_keyvotesincongress.png") no-repeat scroll center 2px transparent;
+height:24px;
+padding-top:52px;
+
+}
+.subNavigation .congressItem span {
+ line-height: 1.2em;
+}
+
+#politicsSubNavigationModule .nytint-electionResultsGroupItem a {
+    background: url('http://graphics8.nytimes.com/images/section/us/politics/icons/v_polls.png') no-repeat center 2px;
+    height: 24px;
+    line-height: 1.1em;
+    padding-top: 54px;
+}
+#politicsSubNavigationModule .nytint-raceProfilesGroupItem a {
+    background: url('http://graphics8.nytimes.com/images/section/us/politics/icons/governors_lg.png') no-repeat center 2px;
+    height: 24px;
+    line-height: 1.1em;
+    padding-top: 47px;
+}   
+#politicsSubNavigationModule .nytint-caucusGroupItem a {
+    background: url('http://graphics8.nytimes.com/images/section/us/politics/icons/v_thecaucus.png') no-repeat center 2px;
+    height: 24px;
+    line-height: 1.1em;
+    padding-top: 47px;
+}
+#politicsSubNavigationModule .nytint-fiveGroupItem a {
+    background: url('http://graphics8.nytimes.com/images/section/us/politics/icons/v_fivethirtyeight.png') no-repeat center 2px;
+    height: 24px;
+    line-height: 1.1em;
+    padding-top: 47px;
+}
+#politicsSubNavigationModule .nytint-watchGroupItem a {
+    background: url('http://graphics8.nytimes.com/images/section/us/politics/icons/v_2012watch.png') no-repeat center 2px;
+    height: 24px;
+    line-height: 1.1em;
+    padding-top: 47px;
+}
+#politicsSubNavigationModule .nytint-calendarGroupItem a {
+    background: url('http://graphics8.nytimes.com/images/section/us/politics/icons/v_electioncalendar.png') no-repeat center 2px;
+    height: 24px;
+    line-height: 1.1em;
+    padding-top: 47px;
+}
+</style>
+
+<div id="politicsSubNavigationModule">
+   <div class="subNavigation">
+       <ul class="primaryList">
+           <li class="firstItem selected politicsHomeItem"><a href="http://politics.nytimes.com/">Politics<br/>Home</a></li>
+           <li class="nytint-caucusGroupItem"><a href="http://thecaucus.blogs.nytimes.com/">The Caucus</a></li>
+         <li class="nytint-fiveGroupItem"><a href="http://fivethirtyeight.blogs.nytimes.com/">FiveThirty<br/>Eight</a></li>
+         <li class="nytint-watchGroupItem"><a href="http://elections.nytimes.com/2012/candidates">G.O.P.<br/>  Candidates</a></li>    
+<li class="nytint-calendarGroupItem"><a href="http://elections.nytimes.com/2012/primaries/calendar">Primary<br/>  Calendar</a></li>  
+           <li class="congressItem"><a href="http://politics.nytimes.com/congress/"><span>Inside<br/> Congress</span></a></li>   
+           <li class="nytint-electionResultsGroupItem"><a href="http://topics.nytimes.com/top/reference/timestopics/subjects/n/newyorktimes-poll-watch/index.html">Poll Watch</a></li>
+           <li class="lastItem videoItem"><a href="http://video.nytimes.com/video/playlist/politics/1194811622221/index.html">Video</a></li>
+           </ul>
+
+       <h6 class="moduleHeaderBd">In The News</h6>
+       <ul>
+           <li class="firstItem "><a href="http://topics.nytimes.com/top/reference/timestopics/subjects/f/federal_budget_us/index.html">Federal<br/>Budget</a>
+           </li>
+           <li><a href="http://topics.nytimes.com/top/reference/timestopics/people/o/barack_obama/index.html">Barack Obama</a></li>
+           <li class="lastItem"><a href="http://topics.nytimes.com/top/reference/timestopics/organizations/o/occupy_wall_street/index.html">Occupy <br/>Wall Street</a></li>
+
+       </ul>
+   </div>
+</div>
+
+ 	</div>                </div>
+<div class="column lastColumn">
+<div id="spanABCRegion">
+<div class="columnGroup first">				
+</div>
+</div><!--close spanABC -->            <div class="spanAB wrap">
+<div class="wideA">
+<div class="abColumn">
+<div class="aColumn closing">
+<!--cur:LedeStoryHPMedium prev:-->
+<div class="columnGroup first">
+<div class="ledeStory">
+<div class="storyHeader">
+<h1><a href="http://www.nytimes.com/2011/12/02/us/politics/republican-leaders-still-seem-torn-about-mitt-romney.html?ref=politics">
+Republican Leaders Still Seem Torn About Romney</a></h1>
+<h6 class="byline">
+By JEFF ZELENY            </h6>
+</div>
+<div class="ledePhoto">
+<div class="image">
+<a href="http://www.nytimes.com/2011/12/02/us/politics/republican-leaders-still-seem-torn-about-mitt-romney.html?ref=politics"><img src="http://graphics8.nytimes.com/images/2011/12/02/us/JP-REPUBS-1/JP-REPUBS-1-hpMedium-v2.jpg" border="0" width="337" height="240" alt="Mitt Romney addressing supporters in Troy, Mich., last month. His effort to create an air of inevitability has been undercut." /></a>
+</div>
+<h6 class="credit">Fabrizio Costantini for The New York Times</h6>
+<p class="caption">Mitt Romney addressing supporters in Troy, Mich., last month. His effort to create an air of inevitability has been undercut.</p>
+</div>
+<p class="summary">
+Republicans, though bullish about their party’s chances of winning the White House, are coming to the conclusion that their nominee will carry substantial flaws into the general election.</p>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/top/reference/timestopics/people/r/mitt_romney/index.html">Times Topic: Mitt Romney</a>
+</li>
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001202901" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/02/us/politics/republican-leaders-still-seem-torn-about-mitt-romney.html"></span></li>
+</ul>
+</div>
+</div>
+<!--cur:StandardThumb prev:LedeStoryHPMedium-->
+<div class="columnGroup singleRule ">
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/12/02/us/politics/democrats-look-to-payroll-issue-for-upper-hand.html?ref=politics">
+Democrats See an Advantage in Debate Over Payroll Tax</a></h3>
+<h6 class="byline">
+By JACKIE CALMES	    </h6>
+<p class="summary">
+Senate Democrats have put proud antitax Republicans in the position of opposing a tax cut for the middle-class because it comes with a surtax on higher earners.</p>
+<ul class="refer">
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001202889" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/02/us/politics/democrats-look-to-payroll-issue-for-upper-hand.html"></span></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/us/politics/with-boom-in-hispanic-voters-obama-sees-opportunity-in-arizona.html?ref=politics">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/us/02latinos_span/02latinos_span-thumbStandard-v3.jpg" width="75" height="75" alt="Raquel Contreras, 19, an Arizona State University student, leads a school club that supports President Obama's 2012 re-election. She spends her spare time conducting voter registration drives, canvassing door-to-door and staffing phone banks." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/us/politics/with-boom-in-hispanic-voters-obama-sees-opportunity-in-arizona.html?ref=politics">
+Obama to Vie for Arizona as Latino Numbers Rise</a></h3>
+<h6 class="byline">
+By HELENE COOPER	    </h6>
+<p class="summary">
+The state’s crackdown on illegal immigration coincides with a surge in the number of Latinos of voting age.</p>
+<ul class="refer">
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001201276" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/02/us/politics/with-boom-in-hispanic-voters-obama-sees-opportunity-in-arizona.html"></span></li>
+</ul>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/12/02/us/politics/obama-says-he-will-seek-more-money-for-aids-programs.html?ref=politics">
+Obama Says He Will Seek More Money for AIDS Programs</a></h3>
+<h6 class="byline">
+By JACKIE CALMES	    </h6>
+<p class="summary">
+The action won praise for the president from activists who have criticized him in the past.</p>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/12/02/us/ex-governor-bill-richardson-is-said-to-be-under-investigation.html?ref=politics">
+Ex-Governor Is Said to Be Focal Point of Inquiry</a></h3>
+<h6 class="byline">
+By MARC LACEY and DAN FROSCH	    </h6>
+<p class="summary">
+Bill Richardson, the former governor of New Mexico, is being investigated by a federal grand jury for possible violations of campaign finance laws, according to people with knowledge of the inquiry.</p>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/top/reference/timestopics/people/r/bill_richardson/index.html">Times Topic: Bill Richardson</a></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">Political Times</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/us/politics/the-tantalizing-lure-of-the-outsider-candidate.html?ref=politics">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/us/BAI-1/BAI-1-thumbStandard.jpg" width="75" height="75" alt="Herman Cain at an Iowa religious forum in March. His recent troubles say a lot about the voters' desire for political rookies." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/us/politics/the-tantalizing-lure-of-the-outsider-candidate.html?ref=politics">
+The Tantalizing Lure of the Outsider Candidate</a></h3>
+<h6 class="byline">
+By MATT BAI	    </h6>
+<p class="summary">
+Herman Cain’s recent troubles say a lot about the craving for genuine outsiders in politics — and why they so rarely succeed.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/us/senate-declines-to-resolve-issue-of-american-qaeda-suspects-arrested-in-us.html?ref=politics">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/us/SENATE/SENATE-thumbStandard.jpg" width="75" height="75" alt="Senator Lindsey Graham, right, says American Qaeda suspects arrested in the United States should not be exempted from battlefield-style detention. Senator Mike Lee, left, disagrees." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/us/senate-declines-to-resolve-issue-of-american-qaeda-suspects-arrested-in-us.html?ref=politics">
+Senate Declines to Clarify Rights of American Qaeda Suspects Arrested in U.S.</a></h3>
+<h6 class="byline">
+By CHARLIE SAVAGE	    </h6>
+<p class="summary">
+The Senate on Thursday decided not to make clearer the current law about the rights of Americans suspected of being terrorists.</p>
+</div>
+<div class="story">
+<h3><a href="http://thecaucus.blogs.nytimes.com/2011/12/01/cain-tells-of-aiding-accuser-without-informing-his-wife/?ref=politics">
+Cain Says He Aided Accuser Without Telling His Wife</a></h3>
+<h6 class="byline">
+By SUSAN SAULNY	    </h6>
+<p class="summary">
+Herman Cain reveals more details about his relationship with a woman who says she had an affair with him.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/01/us/politics/presidential-candidates-make-fewer-in-person-appearances.html?ref=politics">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/us/01campaign_337/01campaign_337-thumbStandard.jpg" width="75" height="75" alt="Sean Hannity, left, with Newt Gingrich on Wednesday in Greenville, S.C., in his 53rd Fox interview of the season. Mr. Gingrich has spent more time on TV than most of his Republican rivals." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/01/us/politics/presidential-candidates-make-fewer-in-person-appearances.html?ref=politics">
+The Up-Close-and-Personal Candidate? A Thing of the Past</a></h3>
+<h6 class="byline">
+By JEFF ZELENY	    </h6>
+<p class="summary">
+Even in early-voting states, where voters have long taken pride in their ability to meet candidates in homes and cafes, presidential contenders are less likely to be seen this year.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/interactive/2011/11/30/us/politics/candidates-on-fox.html"><span class="icon graphic">Interactive Graphic</span>: Campaigning on Fox</a></li>
+<li><a href="http://www.nytimes.com/2011/12/01/us/politics/presidential-candidates-make-fewer-in-person-appearances.html#postcomment"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="Comment" style="margin-right: 3px; padding-top: 3px;" border="0"> Post a Comment</a> | <a href="http://www.nytimes.com/2011/12/01/us/politics/presidential-candidates-make-fewer-in-person-appearances.html#commentsContainer">Read <span class="commentCountText" articleid="100000001199374"></span> </a></li>
+</ul>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/12/01/us/in-california-a-push-for-tax-increases-on-the-2012-ballot.html?ref=politics">
+In California, Asking Voters to Raise Taxes</a></h3>
+<h6 class="byline">
+By ADAM NAGOURNEY	    </h6>
+<p class="summary">
+Withering budget cuts and mushrooming deficits may test California’s longtime resistance to tax increases next year.</p>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/12/01/us/politics/social-security-payroll-tax-hike-drives-wedge-in-washington.html?ref=politics">
+G.O.P. and Democrats Differ on How to Prevent Social Security Payroll Tax Increase</a></h3>
+<h6 class="byline">
+By ROBERT PEAR and JENNIFER STEINHAUER	    </h6>
+<p class="summary">
+A small number of Republican lawmakers indicated that they would be open to the idea of raising additional revenues to offset the cost of extending the payroll tax cut.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Political Memo</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/01/us/politics/barney-frank-often-prickly-always-quotable-political-memo.html?ref=politics">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/us/FRANK/FRANK-thumbStandard.jpg" width="75" height="75" alt="Representative Barney Frank of Massachusetts discussed his decision not to seek re-election in 2012 in a news conference on Tuesday at the Capitol." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/01/us/politics/barney-frank-often-prickly-always-quotable-political-memo.html?ref=politics">
+The Always Quotable, Not Perfect Gentleman From Massachusetts</a></h3>
+<h6 class="byline">
+By CAROLYN RYAN	    </h6>
+<p class="summary">
+Representative Barney Frank, who is not seeking re-election, is known for his tirades, as well as his intellect and liberal passion. Reporters often teased out a special fury in him.</p>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/top/reference/timestopics/people/f/barney_frank/index.html">Times Topic: Barney Frank</a></li>
+</ul>
+</div>
+</div>
+<!--cur:HeadlineOnly prev:StandardThumb-->
+<div class="columnGroup singleRule ">
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/in-detroit-a-bid-to-prevent-a-state-takeover.html?ref=politics">
+In Detroit, an Effort to Prevent a State Takeover</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/nyregion/cuomo-fund-fills-with-money-from-thankful-gay-donors.html?ref=politics">
+After Pushing Gay Marriage, Cuomo Is Thanked With Money</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/a-little-matter-of-11-weeks-that-could-change-voting-results.html?ref=politics">
+A Little Matter of 11 Weeks That Could Change Voting Results</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/analysis-finds-incorrect-use-of-ranked-choice-voting.html?ref=politics">
+Analysis Finds Incorrect Use of Ranked-Choice Voting</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/politics/house-votes-to-end-financing-for-presidential-campaigns.html?ref=politics">
+House Votes to End Financing for Presidential Campaigns</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/01/us/politics/herman-cain-stays-defiant-amid-questions.html?ref=politics">
+Amid Questions, Cain Stays Defiant</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://thecaucus.blogs.nytimes.com/2011/12/01/a-promise-to-avoid-negative-advertising/?ref=politics">
+A Promise to Avoid Negative Advertising</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/01/us/politics/Greta-Van-Susteren-of-Fox-News-Faces-Questions-on-Ties-to-Herman-Cain.html?ref=politics">
+News Host Is Scrutinized for Her Ties to Candidate</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/01/us/texas-justices-asked-to-halt-use-of-maps.html?ref=politics">
+Texas: Justices Asked to Halt Use of Maps</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/01/us/illinois-prison-sought-for-rod-blagojevich.html?ref=politics">
+Illinois: Prison Sought for Blagojevich</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/01/us/occupy-los-angeles-philadelphia-camps-cleared-by-police.html?ref=politics">
+‘Occupy’ Protesters Evicted in Two Cities</a>
+</h6>
+</li>
+</ul>
+</div>
+<!--cur:StandardThumb prev:HeadlineOnly-->
+<div class="columnGroup singleRule last">
+<h6 class="sectionHeader">From the Magazine</h6><div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/04/magazine/mitt-romney-bot.html?ref=politics">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/magazine/04romney_span/04romney_span-thumbStandard-v3.jpg" width="75" height="75" alt="At the Peterborough Town House in New Hampshire last month." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/04/magazine/mitt-romney-bot.html?ref=politics">
+Building a Better Mitt Romney-Bot</a></h3>
+<h6 class="byline">
+By ROBERT DRAPER	    </h6>
+<p class="summary">
+His camp doesn’t need to turn their guy into someone you’d have a beer with. They just need to eliminate the bugs in the machine.</p>
+<ul class="refer">
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001194423" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/04/magazine/mitt-romney-bot.html"></span></li>
+</ul>
+</div>
+</div>
+<div id="adxSponLink" class="columnGroup singleRule"></div>
+</div><!--close .aColumn -->
+<div class="bColumn closing">
+<div class="columnGroup first">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<div class="columnGroup first">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://submit.nytimes.com/campaign-materials?ref=politics">
+<img src="http://graphics8.nytimes.com/images/2011/11/15/us/15campaignad-2/15campaignad-2-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay interactive">Interactive</span>
+</a>
+</div>
+<h5><a href="http://submit.nytimes.com/campaign-materials?ref=politics">
+Submit Your Photos of Campaign Materials</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+The Times wants to see what the “ground game” of the 2012 presidential race looks like to you. Send us your photos of campaign materials: fliers, postcards, billboards and more.</p>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://thecaucus.blogs.nytimes.com/" title="The Caucus: The Times Politics Blog">
+<img src="http://graphics8.nytimes.com/images/blogs_v3/thecaucus/thecaucus163.gif" alt="The Caucus: The Times Politics Blog"/>
+</a> 
+</h3> <div class="story first">
+<p class="date">December 2, 2011 <span class="timestamp">11:09 AM ET</span></p><h3><a href="http://thecaucus.blogs.nytimes.com/2011/12/02/ethics-report-lists-probable-cause-in-jackson-investigation/?ref=politics">Ethics Office Releases Report on Jackson's Push for Senate Seat</a></h3>
+<p class="summary">
+Investigators examining the 2008 push by Representative Jesse Jackson Jr. to take Barack Obama's Senate seat found "probable cause" that the Illinois Democrat directed one of his supporters to raise money in exchange for an appointment to the Senate, an investigative report shows.</p>
+</div><div class="story">
+<p class="date">December 2, 2011 <span class="timestamp">9:57 AM ET</span></p><h3><a href="http://thecaucus.blogs.nytimes.com/2011/12/02/parties-can-look-to-92-as-a-guide-for-2012/?ref=politics">Parties Can Look to ’92 as a Guide for 2012</a></h3>
+<p class="summary">
+Republicans are hopeful, even confident, that 1992 is a template (albeit with party roles reversed) for 2012. Here’s a matchup of 1992 versus 2012 — and a look at where the parallels could benefit one party or the other.</p>
+</div><p class="refer">
+<a href="http://thecaucus.blogs.nytimes.com/" title="Go to Blog">Go to Blog &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule ">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://fivethirtyeight.blogs.nytimes.com/" title="">
+<img src="http://graphics8.nytimes.com/images/blogs_v3/fivethirtyeight/fivethirtyeight163.gif" alt=""/>
+</a> 
+</h3> <div class="story first">
+<p class="date">December 2, 2011 <span class="timestamp">6:00 AM ET</span></p><h3><a href="http://fivethirtyeight.blogs.nytimes.com/2011/12/02/does-romney-have-a-moderate-problem/?ref=politics">Does Romney Have a Moderate Problem?</a></h3>
+<p class="summary">
+Mitt Romney's middling appeal among moderate voters is not doing as much as it might to help offset his weak poll numbers with the most conservative Republicans.</p>
+</div><p class="refer">
+<a href="http://fivethirtyeight.blogs.nytimes.com/" title="Go to Blog">Go to Blog &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">Politics Podcast</h6><div class="story">
+<div class="runaroundRight" style="margin-bottom: 2px;">
+<img src="http://graphics8.nytimes.com/images/apps/podcasts/w75/thecaucus.gif" alt="Podcast" width="75" height="75"/><br />
+<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=270235641" class="subscribe"><img src="http://graphics8.nytimes.com/images/global/buttons/subscribe_button.gif" alt="Subscribe" width="74" height="20" hspace="0"/></a>
+</div>
+<p class="summary">Nov. 24, 2011: Foreign Policy and attack ads take front and center for the Republican presidential hopefuls.
+</p>
+<ul class="refer">
+<li style="background:none">
+<script src="http://graphics8.nytimes.com/packages/js/multimedia/swfobject1.1.js"></script>
+<script src="http://graphics8.nytimes.com/packages/html/multimedia/js/NYTInlineEmbed.js" ></script>
+<script>
+mm.DI = true;
+mm.LI = false;
+mm.AH = "The Caucus Podcast";
+mm.AS = "20110721_POLPOINTS_AUDIO";
+mm.AD = "1116";
+mm.AU = "http://dts.podtrac.nytimes.com/redirect.mp3/podcasts.nytimes.com/podcasts/2011/11/23/us/politics/23caucus_pod/24caucus.mp3";
+mm.IU = "";
+writePlayer();
+</script>
+</li>
+</ul>
+</div>    
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<div class="columnGroup first">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/2011/10/17/us/politics/a-guide-to-political-donations.html?ref=politics">
+<img src="http://graphics8.nytimes.com/images/2011/10/17/us/politics/donate-promo-190.png" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay interactive">Interactive Feature</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/interactive/2011/10/17/us/politics/a-guide-to-political-donations.html?ref=politics">
+A Guide to Political Donations</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+You play the donor: a guide to spending $25 to $10 million to influence elections after the emergence of Super PACs.</p>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<div class="columnGroup first">
+<div class="relatedStories"><div class="internal">
+<h3 class="sectionHeader"><a href="http://politics.nytimes.com/congress/" title="Key Votes in Congress"><img src="http://graphics8.nytimes.com/images/promos/politics/keyvotes_163.gif" alt="Key Votes in Congress"></a></h3>
+<div class="story first">
+<h5><a href="http://politics.nytimes.com/congress/votes/112/house/1/873">Ends Public Financing for Presidential Campaigns</a></h5>
+<p class="date">December  1, 2011</p>
+</div>
+<div class="story">
+<h5><a href="http://politics.nytimes.com/congress/votes/112/house/1/858">Fails To Pass Balanced Budget Amendment</a></h5>
+<p class="date">November 18, 2011</p>
+</div>
+<div class="story">
+<h5><a href="http://politics.nytimes.com/congress/votes/112/house/1/857"></a></h5>
+<p class="date">November 17, 2011</p>
+</div>
+</div></div>
+        	</div>
+<div class="columnGroup singleRule ">
+<div class="relatedStories"><div class="internal">
+<h3 class="sectionHeader"><a href="http://politics.nytimes.com/congress/" title="Key Votes in the Senate"><img src="http://graphics8.nytimes.com/images/promos/politics/congress_senate_163.gif" alt="Key Votes in the Senate"></a></h3>
+<div class="story first">
+<h5><a href="http://politics.nytimes.com/congress/votes/112/senate/1/177">Fails To Advance Obama Jobs Bill</a></h5>
+<p class="date">October 20, 2011</p>
+</div>
+<div class="story">
+<h5><a href="http://politics.nytimes.com/congress/votes/112/senate/1/163">Passes U.S.-Colombia Trade Agreement</a></h5>
+<p class="date">October 12, 2011</p>
+</div>
+<div class="story">
+<h5><a href="http://politics.nytimes.com/congress/votes/112/senate/1/162">Passes U.S.-Panama Trade Agreement</a></h5>
+<p class="date">October 12, 2011</p>
+</div>
+</div></div>
+        	</div>
+<div class="columnGroup singleRule last">
+<div class="story">
+<div class="refer"><br/> <a href="http://politics.nytimes.com/congress/">More Congressional Votes »</a></div>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="relatedStories abuzz">
+<h3 class="sectionHeader">Politics Headlines From Around the Web                  </h3>
+<h6><a href="#" onclick="return" onmouseover="tooltip.show(this,'Blogrunner automatically monitors news articles and blog posts and tracks news events as they develop across the Web. Blogrunner alerts you to topics that are frequently linked to and commented upon. The publications tracked by Blogrunner are chosen by New York Times editors.');" onmouseout="tooltip.rollout();" class="what_is">What's This?</a></h6>
+<div class="story">
+<h5 class="source">The Daily Beast</h5>
+<h4><a href="http://www.thedailybeast.com/articles/2011/12/02/herman-cain-s-marriage-shaken-by-infidelity-charges.html" target="_blank">Cains&#39; Shaky Marriage Shaken Anew</a></h4>
+</div>
+<div class="story">
+<h5 class="source">Bloomberg</h5>
+<h4><a href="http://www.bloomberg.com/news/2011-12-02/gingrich-accepting-gore-invite-lands-on-love-seat-with-pelosi.html" target="_blank">How Gingrich Landed on Love Seat With Pelosi</a></h4>
+</div>
+<div class="story">
+<h5 class="source">Salon</h5>
+<h4><a href="http://www.salon.com/2011/12/01/congress_endorsing_military_detention_a_new_aumf/singleton/" target="_blank">Congress endorsing military detention, a new AUMF - Salon.com</a></h4>
+</div>
+<div class="story">
+<h5 class="source">First Read</h5>
+<h4><a href="http://firstread.msnbc.msn.com/_news/2011/12/02/9164872-first-thoughts-cant-buy-me-love" target="_blank">First Thoughts: Can&#39;t buy me love</a></h4>
+</div>
+<div class="story">
+<h5 class="source">The Huffington Post</h5>
+<h4><a href="http://www.huffingtonpost.com/2011/12/01/michele-bachmann-gay-marriage_n_1123784.html" target="_blank">Michele Bachmann: Gay People Can Get Married -- But Only To Members Of The Opposite Sex</a></h4>
+</div>
+<p class="more"><a href="http://www.blogrunner.com/snapshot/topics/politics/" target="_blank">More at Blogrunner 
+                        &#187;</a></p>
+</div>
+    
+</div>
+<div class="columnGroup doubleRule last">
+<h6 class="sectionHeader">Election Archives</h6><div class="story">
+<h5><a href="http://elections.nytimes.com/2010/results/senate">2010 Election Results </a></h5>
+<p class="summary">State-by-state results and highlights. </p>
+</div>
+<div class="story">
+<h5><a href="http://elections.nytimes.com/2010/house">2010 Race Profiles</a></h5>
+<p class="summary">Race ratings and profiles for House, Senate and governors.</p>
+</div>    
+</div>
+</div><!--close .bColumn -->
+</div><!--close .abColumn -->
+<div class="cColumn closing">
+<!--Ads  -->                    <div class="columnGroup first">
+
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<div class="opinionModule">
+<div class="columnGroup fullWidth flushBottom">
+<div class="subColumn-2 wrap noBackground">
+<div class="insetH">
+<h4 class="sectionHeaderHome"><a href="http://www.nytimes.com/pages/opinion/index.html">Opinion »</a></h4>
+<h6 class="moduleHeader"></h6>
+</div>
+<div class="column firstColumn">
+<div class="columnGroup flushBottom">
+<div class="story flushbottom">
+<h6 class="kicker">Timothy Egan</h6>
+<h5><a href="http://opinionator.blogs.nytimes.com/2011/12/01/gun-nuts-in-a-rut/?hp">
+Gun Nuts in a Rut
+</a></h5>
+<p class="summary">
+Despite all evidence to the contrary, the National Rifle Association is determined to see President Obama as anti-gun.
+</p>
+</div>
+</div></div>
+<div class="column lastColumn">
+<div class="columnGroup flushBottom">
+<ul class="headlinesOnly flushBottom">
+<li><h6 class="multilineIcon"><a href="http://www.nytimes.com/2011/12/02/opinion/brooks-the-spirit-of-enterprise.html?ref=politics">Brooks: The Spirit of Enterprise</a></h6></li>
+<li><h6><a href="http://www.nytimes.com/2011/12/02/opinion/krugman-killing-the-euro.html?ref=politics">Krugman: Euro at Risk</a></h6></li>
+<li><h6><a href="http://www.nytimes.com/2011/12/02/opinion/the-fed-and-the-euro.html?ref=politics">Editorial: The Fed and the Euro</a></h6></li>
+<li class="flushBottom"><h6><a href="http://video.nytimes.com/video/2011/12/01/opinion/100000001202664/bloggingheads-the-3-3-3-plan.html?ref=politics"><img src="http://graphics.nytimes.com/images/multimedia/icons/video_icon.gif" alt="Video" width="12" height="9" border="0"/> Bloggingheads: The 3-3-3 Plan</a></h6></li></ul>
+</div></div></div></div></div>        	</div>
+<!--Ads Simple -->                    <div class="columnGroup ">
+
+			
+<div class="bigAd" id="SFMiddle">
+<!-- ADXINFO classification="bigad" campaign="MSNBCEdSchultz_1783043_nyt9"--><script type="text/javascript">
+function pr_swfver(){
+var osf,osfd,i,axo=1,v=0,nv=navigator;
+if(nv.plugins&&nv.mimeTypes.length){osf=nv.plugins["Shockwave Flash"];if(osf&&osf.description){osfd=osf.description;v=parseInt(osfd.substring(osfd.indexOf(".")-2))}}
+else{try{for(i=5;axo!=null;i++){axo=new ActiveXObject("ShockwaveFlash.ShockwaveFlash."+i);v=i}}catch(e){}}
+return v;
+}
+var pr_d=new Date();pr_d=pr_d.getDay()+"|"+pr_d.getHours()+":"+pr_d.getMinutes()+"|"+-pr_d.getTimezoneOffset()/60;
+var pr_postal="";
+var pr_data="";
+var pr_redir="http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fadx%2Fbin%2Fadx%5Fclick%2Ehtml%3Ftype%3Dgoto%26opzn%26page%3Dwww.nytimes.com/pages/politics/index.html%26pos%3DSFMiddle%26camp%3DMSNBCEdSchultz%5F1783043%5Fnyt9%26ad%3Dtalentchamps%5FBA%5Fpolitics%26sn2%3Db9484575/c33f5491%26snr%3Ddoubleclick%26snx%3D1322848851%26sn1%3Dc3c24de1%2F5a00e8f3%26goto%3D$CTURL$";
+var pr_pos="";
+var prHost=(("https:"==document.location.protocol)?"https://":"http://");var pr_sec=((prHost=='https://')?'&secure=1':'');
+if(pr_postal!=""){var przipmatch=/^\d{5}$/;if(przipmatch.test(pr_postal)){pr_pos+="&postal="+pr_postal;}}
+if((pr_data!="")&&(pr_data.indexOf("&")<0)){pr_pos+="&data="+pr_data;}
+var pr_s="ads.pointroll.com/PortalServe/?pid=1343783C72820110628195624&flash="+pr_swfver()+"&time="+pr_d+"&redir="+pr_redir+pr_sec+"&r="+Math.random();
+document.write("<scr"+"ipt type='text/javascript' src='"+prHost+pr_s+"'></scr"+"ipt>");
+</script>
+<noscript><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/politics/index.html&pos=SFMiddle&sn2=b9484575/c33f5491&sn1=a0ce5a1f/4a41df4a&camp=MSNBCEdSchultz_1783043_nyt9&ad=talentchamps_BA_politics&goto=ads.pointroll.com%2FPortalServe%2F%3Fpid%3D1343783C72820110628195624%26pos%3Dc%26r%3D17119"><img border="0" width="300" height="250" src="http://ads.pointroll.com/PortalServe/?pid=1343783C72820110628195624&pos=i&r=17119"></a></noscript>
+</div>
+
+
+
+<div class="singleAd" id="Box3">
+<!-- ADXINFO classification="feature_squares" campaign="nyt2011-regilite-P2-ticketwatch"--><IFRAME title="regilite" src="https://myaccount.nytimes.com/regilite?product=TR" width="336" height="90" marginheight="0" marginwidth="0" frameborder="0" vspace="0" hspace="0" scrolling="no"></IFRAME> 
+
+</div>
+
+
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<div class="singleRuleDivider"></div><div id="multiPlayer"><script type="text/javascript" src="http://graphics8.nytimes.com/bcvideo/1.0/iframe/embed.js"></script>
+<script type="text/javascript">
+    NYT_VideoPlayerStart( {
+        playerType  : "homepage",
+        playlistId  : "1194811622221"
+    } );
+</script></div>        	</div>
+<!--Ads Simple -->                    <div class="columnGroup ">
+			
+
+<div class="bigAd" id="Box1">
+<!-- ADXINFO classification="Module" campaign="nyt2011_module_biz_piers_morgan_hp_ros_db"--><!-- MARKETING MODULE -->
+<div style="border:solid #999;border-width:1px;font-family:Arial,sans-serif;text-align:left; width:334px;background:#fff;" class="clearfix wrap">
+  <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/politics/index.html&pos=Box1&sn2=f3760241/63c9abea&sn1=3cd7b396/8bf4d3f&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://mediadecoder.blogs.nytimes.com/2011/11/30/piers-morgan-struggles-to-beat-kings-ratings/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-PH%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm11/business_120211.jpg" width="334" height="154" border="0" alt=""></a> 
+  <div style="padding:7px 9px 0;background:#fff">
+      <h2 style="font-size:22px;line-height:24px; margin:0;padding:0 0 4px;"><a style="color:#004276;" target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/politics/index.html&pos=Box1&sn2=f3760241/63c9abea&sn1=3cd7b396/8bf4d3f&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://mediadecoder.blogs.nytimes.com/2011/11/30/piers-morgan-struggles-to-beat-kings-ratings/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-HDR%26WT.mc_ev=click%26WT.mc_c=174041">Piers Morgan's struggle</a></h2>
+
+      <p style="margin:0 0 3px; padding:0;font-size: 11px;"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/politics/index.html&pos=Box1&sn2=f3760241/63c9abea&sn1=dcca9a23/ff2c3589&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://nytimes.com/business/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-URL%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank" style="font-size:11px;margin:3px 0;padding:0;font-family:Arial,sans-serif;  color:#000; text-transform:uppercase;">Also in Business &raquo;</a></p>
+      <ul style="font-size:12px;margin:0; padding-bottom: 10px; border-bottom:1px solid #ccc;" class="refer">
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/politics/index.html&pos=Box1&sn2=f3760241/63c9abea&sn1=7ddbcc18/6dfb3f78&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://dealbook.nytimes.com/2011/11/30/american-wont-be-the-last-airline-bankruptcy/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-L1%26WT.mc_ev=click%26WT.mc_c=174041" style="color: #004276">American won't be the last airline bankruptcy</a></li>
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/politics/index.html&pos=Box1&sn2=f3760241/63c9abea&sn1=aada211/3630bfe3&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://www.nytimes.com/2011/11/30/business/media/pepto-bismol-highlights-overindulging-in-latest-campaign.html%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-L2%26WT.mc_ev=click%26WT.mc_c=174041" style="color: #004276">A look at Pepto-Bismol's new holiday commercials</a></li>
+      </ul>
+    </div>
+ 
+ <div style="padding:5px 9px; float:left; width:316px; background:#fff"> <a style="float:left" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/politics/index.html&pos=Box1&sn2=f3760241/63c9abea&sn1=dcca9a23/ff2c3589&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://nytimes.com/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-LOGO%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/nytimes.gif" alt="nytimes.com" width="116" height="18" border="0"></a><a style="float:right" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/politics/index.html&pos=Box1&sn2=f3760241/63c9abea&sn1=dcca9a23/ff2c3589&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://nytimes.com/business/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-VRT%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/verticals_business.gif" alt="Business" width="120" height="18" border="0"></a></div><br clear="all">
+
+</div>
+  <!-- /MARKETING MODULE -->
+
+</div>
+
+
+<div class="singleAd" id="Middle5">
+<!-- ADXINFO classification="FeaturedProduct" campaign="nyt2011_tmag_winter_travel_336x79_ros"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/politics/index.html&pos=Middle5&sn2=29cd5f67/323ef197&sn1=b795d039/3f1e2fb3&camp=nyt2011_tmag_winter_travel_336x79_ros&ad=TM-D-I-NYT-AD-FP-WTI-ROS-1111-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Findexes%2F2011%2F11%2F18%2Ft%2Dmagazine%2Ftravel%2Dissue%2Findex%2Ehtml%3FWT%2Emc%5Fid%3DTM%2DD%2DI%2DNYT%2DAD%2DFP%2DWTI%2DROS%2D1111%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D174077" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/28/44/ad.284409/TMag_Travel_336x79.jpg" width="336" height="79" border="0"></a>
+
+</div>
+
+
+
+<!--[TwoColumnAdLeft - Begin] -->
+	<div class="adHeader">
+<h4>
+Advertisements	    </h4>
+</div>
+<div class="cColumn-TextAdsBox">
+	<div class="cColumn-TextAdsLeft">
+<div class="cColumn-TextAd">
+<!-- ADXINFO classification="SiteForADay" campaign="nyt2011-mktg-arts_and_ents-s4d_ros"--><div style="width:320px; height:60px;"> 
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/politics/index.html&pos=Right5A&sn2=c797e2ef/28c08389&sn1=6a1102ca/9e7f5eda&camp=nyt2011-mktg-arts_and_ents-s4d_ros&ad=AR-D-I-NYT-AD-S4D-AandE-ROS-1211-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fevents%2Findex%2Ehtml%3FWT%2Emc%5Fid%3DAR%2DD%2DI%2DNYT%2DAD%2DS4D%2DAandE%2DROS%2D1211%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D175108" target="_blank"> 
+<img style="float:left; margin-right:10px;" src="http://graphics8.nytimes.com/adx/images/ADS/28/59/ad.285977/11-2187_ArtsEntertainment_86x60.gif" width="86" height="60" border="0" style="vertical-align:text-top;"></a>
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/politics/index.html&pos=Right5A&sn2=c797e2ef/28c08389&sn1=6a1102ca/9e7f5eda&camp=nyt2011-mktg-arts_and_ents-s4d_ros&ad=AR-D-I-NYT-AD-S4D-AandE-ROS-1211-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fevents%2Findex%2Ehtml%3FWT%2Emc%5Fid%3DAR%2DD%2DI%2DNYT%2DAD%2DS4D%2DAandE%2DROS%2D1211%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D175108" target="_blank">  <br />Introducing: The Interactive Arts & Entertainment Guide</a>
+</div>
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+</div>
+	</div>
+<!--[TwoColumnAdLeft - End] -->
+<div class="advertisementColumnGroup">
+<!--[MarketPlaceGridAd - Begin] -->
+
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+    <!--[MarketPlaceGridAd - End] -->
+</div>
+</div>
+<!--Ads Ads -->                    <div class="columnGroup last">
+
+<div class="singleAd" id="Feature1">
+<!-- ADXINFO classification="hp-module" campaign="feature1-1280FifthAve-18-1712178-cla"--><!--Ad Template Begins Here -->
+<div class="story advertisement">
+<div class="callout">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/politics/index.html&pos=Feature1&sn2=412ff2a7/8ef1baa0&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/15/ad.271512/7.23.11_BRK11-2614_1280_nyt.com_module_update2.jpg" width="173" height="98" border="0" alt="Click for Details"></a>
+</div>
+<h5>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/politics/index.html&pos=Feature1&sn2=412ff2a7/8ef1baa0&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank"></a>
+</h5>
+<p class="summary"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/politics/index.html&pos=Feature1&sn2=412ff2a7/8ef1baa0&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank">Designed by<br>Robert&nbsp;&nbsp;A.M. Stern<br>Overlooking Central Park<br>Up to 5 Bedrooms</a></p>
+<div class="adCreative">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/politics/index.html&pos=Feature1&sn2=412ff2a7/8ef1baa0&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/15/ad.271512/5.19.11_1280_logo_78x36.jpg" width="78" height="36"></a>
+</div>
+</div>
+<!--Ad Template Ends Here -->
+</div>
+
+
+<div class="singleAd" id="SponLink">
+<script language="JavaScript" type="text/javascript">
+    
+    // Sponlink_short
+
+    NYTD.GoogleAds.getGoogleAds("AFC", { 
+        google_ad_client:'nytimes_section_var',
+        ad_target_list:'sponLink'
+    });
+</script>
+</div>
+
+</div>
+</div><!--close cColumn -->
+</div><!--close wideA -->
+</div><!--close spanAB -->
+</div>
+</div><!--close baseLayout -->
+</div><!--close main -->
+<div id="spanABCBottomRegion">
+<div class="columnGroup first">				
+<div class="doubleRule" id="insideNYTimes">
+<div id="insideNYTimesHeader">
+<h4>Politics Multimedia</h4>
+</div>
+<div id="insideNYTimesScrollWrapper">
+<table cellspacing="0" id="insideNYTimesBrowser">
+<tbody>
+<tr>
+<td class="first">
+<div class="story">                                 <h6 class="kicker"><a href="http://topics.nytimes.com/top/reference/timestopics/subjects/p/presidential_elections_us/index.html">2012 Watch »</a></h6>
+<div class="mothImage">
+<a href="http://elections.nytimes.com/2012/primaries/calendar"><img height="151" width="151" alt="Members of the Bipartisan Deficit Panel" src="http://graphics8.nytimes.com/images/2011/11/28/us/politics/politics-MOTH-debates/politics-MOTH-debates-moth.jpg"></a>
+</div>
+<h6>                                 <a href="http://elections.nytimes.com/2012/primaries/calendar">Primary Calendar and Past Debates</a></h6></div> 
+</td>
+<td>
+<div class="story">   <h6 class="kicker"><a href="http://topics.nytimes.com/top/reference/timestopics/subjects/p/presidential_elections_us/index.html">2012 Watch »</a></h6>
+<div class="mothImage">
+<a href="http://elections.nytimes.com/2012/campaign-finance?hp&ref=politics#canda=barack-obama&candb=mitt-romney"><img height="151" width="151" alt="Graphic: Comparing Republican and Obama Budget Plans" src="http://graphics8.nytimes.com/images/2011/07/28/us/2012-money-promo/2012-money-promo-moth.jpg"></a>
+</div><h6><a href="http://elections.nytimes.com/2012/campaign-finance?hp&ref=politics#canda=barack-obama&candb=mitt-romney">Interactive Graphic: The Money Race</a>
+</h6></div>   
+</td>
+<td>
+<div class="story">
+<h6 class="kicker"><a href="http://topics.nytimes.com/top/reference/timestopics/subjects/p/presidential_elections_us/index.html">2012 Watch »</a></h6>
+<div class="mothImage">
+<a href="http://elections.nytimes.com/2012/candidates"><img height="151" width="151" alt="Interactive Feature: Possible Republican Presidential Candidates" src="http://graphics8.nytimes.com/images/2011/03/05/us/caucus-hulse/caucus-hulse-custom1.jpg"></a>
+</div><h6><a href="http://elections.nytimes.com/2012/candidates">Interactive Graphic: G.O.P. Presidential Contenders</a></h6>
+</div> 
+</td> <td>
+<div class="story">                                    <h6 class="kicker"><a href="http://topics.nytimes.com/top/news/health/diseasesconditionsandhealthtopics/health_insurance_and_managed_care/health_care_reform/index.html">Health Care Overhaul »</a></h6>
+<div class="mothImage">
+<a href="http://www.nytimes.com/interactive/2010/12/14/health/policy/health-care-timeline.html"><img height="151" width="151" alt="Timeline: The Growing Legal and Political Opposition" src="http://graphics8.nytimes.com/images/2010/12/14/us/14health-4/14health-4-custom2.jpg"></a>
+</div><h6><a href="http://www.nytimes.com/interactive/2010/12/14/health/policy/health-care-timeline.html">Timeline: The Growing Legal and Political Opposition</a></h6>
+</div></td>
+<td><div class="story">
+<h6 class="kicker"><a href="http://topics.nytimes.com/top/reference/timestopics/organizations/c/congress/index.html">Legislation »</a></h6>
+<h3><a href="http://politics.nytimes.com/congress/">Interactive Feature: Inside Congress</a></h3>
+<p class="summary">
+Recent roll calls, bills and more from Capitol Hill.
+</p>
+</div>     
+</td>
+<td class="last">
+<div class="story">                                    <h6 class="kicker"><a href="http://topics.nytimes.com/topics/reference/timestopics/organizations/s/senate/index.html">Senate »</a></h6>
+<div class="mothImage">
+<a href="javascript:pop_me_up2('http://www.nytimes.com/imagepages/2011/05/14/us/20110515_SENATE_graphic.html?ref=politics','776_1102','width=776,height=1102,location=no,scrollbars=yes,toolbars=no,resizable=yes')"><img height="151" width="151" alt="Graphic: Crucial Senate Races in 2012" src="http://graphics8.nytimes.com/images/2011/05/14/us/20110515_SENATE_graphic/20110515_SENATE_graphic-custom2.jpg"></a>
+</div><h6><a href="javascript:pop_me_up2('http://www.nytimes.com/imagepages/2011/05/14/us/20110515_SENATE_graphic.html?ref=politics','776_1102','width=776,height=1102,location=no,scrollbars=yes,toolbars=no,resizable=yes')">Graphic: Crucial Senate Races in 2012</a></h6>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>        <div id="footer">
+<ul class="first">
+<li class="first"><a href="http://www.nytimes.com">Home</a></li>
+<li >
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li>
+<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+</ul>    <ul>
+<li class="first"><a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&copy; 2011</a> <a href="http://www.nytco.com/">The New York Times Company</a></li>
+<li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Terms of Service</a></li>
+<li class="termsOfSale"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+<li><a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a></li>
+<li><a class="rssButton" href="http://www.nytimes.com/rss">RSS</a></li>
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+<li><a href="http://www.nytco.com/careers">Work for Us</a></li>
+<li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+</ul>
+</div>
+</div><!--close page -->
+</div><!--close shell -->
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/lib/NYTD/0.0.1/tabset.js"></script>
+<script type="text/javascript" language="JavaScript">
+    NYTD.TabSet($$('div.filmstripWithTabs')[0]);
+    </script>
+
+
+
+
+
+
+<script src="http://content.dl-rms.com/rms/5081/nodetag.js"></script>
+
+
+<IMG SRC="/adx/bin/clientside/eba796dQ2FQ2BiqQ2F4B3Q2FihQ22Q7CqhQ7C9Q2ANQ7CiN3K9" height="1" width="3">
+
+<script type="text/javascript" language="JavaScript">
+// Written by /usr/local/knews/bin/commentcount.pl Fri Dec  2 13:02:02 2011
+var NYTArticleCommentCounts = {
+"100000001190843":{count:147, commentsEnabled:false},
+"100000001190858":{count:204, commentsEnabled:false},
+"100000001190907":{count:49, commentsEnabled:false},
+"100000001191255":{count:237, commentsEnabled:false},
+"100000001191704":{count:133, commentsEnabled:false},
+"100000001191724":{count:100, commentsEnabled:false},
+"100000001191950":{count:122, commentsEnabled:false},
+"100000001192133":{count:307, commentsEnabled:false},
+"100000001192329":{count:76, commentsEnabled:false},
+"100000001190961":{count:19, commentsEnabled:false},
+"100000001177231":{count:1, commentsEnabled:true},
+"100000001177245":{count:74, commentsEnabled:true},
+"100000001179958":{count:24, commentsEnabled:false},
+"100000001180322":{count:227, commentsEnabled:true},
+"100000001183078":{count:44, commentsEnabled:false},
+"100000001183080":{count:327, commentsEnabled:false},
+"100000001183081":{count:7, commentsEnabled:false},
+"100000001183084":{count:235, commentsEnabled:false},
+"100000001183087":{count:11, commentsEnabled:false},
+"100000001183089":{count:14, commentsEnabled:false},
+"100000001183090":{count:11, commentsEnabled:false},
+"100000001183091":{count:3, commentsEnabled:false},
+"100000001183094":{count:14, commentsEnabled:false},
+"100000001184186":{count:79, commentsEnabled:false},
+"100000001184524":{count:149, commentsEnabled:false},
+"100000001186117":{count:1, commentsEnabled:false},
+"100000001186193":{count:12, commentsEnabled:true},
+"100000001186569":{count:190, commentsEnabled:false},
+"100000001189184":{count:49, commentsEnabled:false},
+"100000001190721":{count:71, commentsEnabled:false},
+"100000001191577":{count:224, commentsEnabled:false},
+"100000001191688":{count:28, commentsEnabled:false},
+"100000001191719":{count:107, commentsEnabled:false},
+"100000001191931":{count:121, commentsEnabled:false},
+"100000001191985":{count:110, commentsEnabled:false},
+"100000001192057":{count:211, commentsEnabled:false},
+"100000001192188":{count:141, commentsEnabled:false},
+"100000001192496":{count:52, commentsEnabled:false},
+"100000001192500":{count:206, commentsEnabled:false},
+"100000001192600":{count:224, commentsEnabled:false},
+"100000001192611":{count:167, commentsEnabled:false},
+"100000001193250":{count:67, commentsEnabled:false},
+"100000001193262":{count:37, commentsEnabled:false},
+"100000001193344":{count:98, commentsEnabled:false},
+"100000001193527":{count:27, commentsEnabled:false},
+"100000001193629":{count:10, commentsEnabled:false},
+"100000001193702":{count:17, commentsEnabled:false},
+"100000001193743":{count:108, commentsEnabled:false},
+"100000001193763":{count:516, commentsEnabled:false},
+"100000001193825":{count:86, commentsEnabled:false},
+"100000001193857":{count:48, commentsEnabled:false},
+"100000001193859":{count:160, commentsEnabled:false},
+"100000001193890":{count:117, commentsEnabled:false},
+"100000001193920":{count:44, commentsEnabled:false},
+"100000001193944":{count:303, commentsEnabled:false},
+"100000001193948":{count:7, commentsEnabled:false},
+"100000001194088":{count:51, commentsEnabled:false},
+"100000001194098":{count:17, commentsEnabled:true},
+"100000001194137":{count:109, commentsEnabled:false},
+"100000001194342":{count:159, commentsEnabled:false},
+"100000001194394":{count:68, commentsEnabled:false},
+"100000001194454":{count:36, commentsEnabled:false},
+"100000001194795":{count:192, commentsEnabled:false},
+"100000001194808":{count:628, commentsEnabled:false},
+"100000001194892":{count:125, commentsEnabled:false},
+"100000001195360":{count:33, commentsEnabled:false},
+"100000001195689":{count:178, commentsEnabled:false},
+"100000001195802":{count:10, commentsEnabled:false},
+"100000001195854":{count:304, commentsEnabled:false},
+"100000001195914":{count:48, commentsEnabled:false},
+"100000001195920":{count:17, commentsEnabled:false},
+"100000001195923":{count:44, commentsEnabled:false},
+"100000001195938":{count:138, commentsEnabled:false},
+"100000001195940":{count:10, commentsEnabled:false},
+"100000001195947":{count:92, commentsEnabled:false},
+"100000001195952":{count:162, commentsEnabled:false},
+"100000001195976":{count:141, commentsEnabled:false},
+"100000001195982":{count:283, commentsEnabled:false},
+"100000001196229":{count:42, commentsEnabled:false},
+"100000001196250":{count:104, commentsEnabled:true},
+"100000001196432":{count:333, commentsEnabled:false},
+"100000001196658":{count:42, commentsEnabled:false},
+"100000001196737":{count:28, commentsEnabled:true},
+"100000001196861":{count:18, commentsEnabled:false},
+"100000001196955":{count:71, commentsEnabled:true},
+"100000001196963":{count:143, commentsEnabled:false},
+"100000001197064":{count:68, commentsEnabled:false},
+"100000001197489":{count:3, commentsEnabled:false},
+"100000001197999":{count:75, commentsEnabled:false},
+"100000001198014":{count:290, commentsEnabled:false},
+"100000001198050":{count:69, commentsEnabled:true},
+"100000001198076":{count:32, commentsEnabled:true},
+"100000001198092":{count:204, commentsEnabled:false},
+"100000001198110":{count:424, commentsEnabled:false},
+"100000001198123":{count:343, commentsEnabled:false},
+"100000001198126":{count:62, commentsEnabled:false},
+"100000001198138":{count:163, commentsEnabled:false},
+"100000001198377":{count:143, commentsEnabled:true},
+"100000001198446":{count:23, commentsEnabled:true},
+"100000001198471":{count:52, commentsEnabled:true},
+"100000001198476":{count:157, commentsEnabled:true},
+"100000001198581":{count:48, commentsEnabled:true},
+"100000001198642":{count:253, commentsEnabled:false},
+"100000001199366":{count:136, commentsEnabled:true},
+"100000001199374":{count:114, commentsEnabled:true},
+"100000001199444":{count:155, commentsEnabled:false},
+"100000001199658":{count:4, commentsEnabled:true},
+"100000001200046":{count:884, commentsEnabled:true},
+"100000001200335":{count:165, commentsEnabled:false},
+"100000001200378":{count:192, commentsEnabled:false},
+"100000001200458":{count:77, commentsEnabled:false},
+"100000001200844":{count:23, commentsEnabled:true},
+"100000001201276":{count:88, commentsEnabled:true},
+"100000001201525":{count:188, commentsEnabled:true},
+"100000001202361":{count:0, commentsEnabled:true},
+"100000001202521":{count:27, commentsEnabled:true},
+"100000001202701":{count:270, commentsEnabled:false},
+"100000001202807":{count:17, commentsEnabled:true},
+"100000001202815":{count:116, commentsEnabled:false},
+"100000001202831":{count:232, commentsEnabled:true},
+"100000001202861":{count:95, commentsEnabled:true},
+"100000001202869":{count:39, commentsEnabled:true},
+"100000001202871":{count:23, commentsEnabled:true},
+"100000001202889":{count:54, commentsEnabled:true},
+"100000001202895":{count:33, commentsEnabled:true},
+"100000001202901":{count:90, commentsEnabled:true},
+"100000001203208":{count:19, commentsEnabled:true},
+"100000001203416":{count:220, commentsEnabled:true},
+"100000001203664":{count:0, commentsEnabled:true},
+"100000001188908":{count:16, commentsEnabled:true},
+"100000001194403":{count:0, commentsEnabled:true},
+"100000001194404":{count:0, commentsEnabled:true},
+"100000001194405":{count:71, commentsEnabled:true},
+"100000001194406":{count:0, commentsEnabled:true},
+"100000001194419":{count:1, commentsEnabled:true},
+"100000001194423":{count:58, commentsEnabled:true},
+"100000001194424":{count:0, commentsEnabled:true},
+"100000001194425":{count:0, commentsEnabled:true},
+"100000001194427":{count:0, commentsEnabled:true},
+"100000001194843":{count:51, commentsEnabled:true},
+"100000001197746":{count:1, commentsEnabled:true},
+"100000001201815":{count:0, commentsEnabled:true},
+"100000001201989":{count:0, commentsEnabled:true}
+};
+</script>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/homepage/articleCommentCounts.js"></script>
+<script type="text/javascript" language="JavaScript">
+    ArticleCommentCounts.apply()
+    </script>
+
+			
+		<!-- Start UPT call -->
+		<img height="1" width="3" border=0 src="http://up.nytimes.com/?d=0//&t=3&s=0&ui=&r=&u=www%2enytimes%2ecom%2fpages%2fpolitics%2findex%2ehtml%3f">
+		<!-- End UPT call -->
+	
+		
+        <script language="JavaScript"><!--
+          var dcsvid="";
+          var regstatus="non-registered";
+        //--></script>
+        <script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+        <noscript>
+          <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div>
+        </noscript>
+   
+</body>
+</html>

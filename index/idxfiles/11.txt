@@ -1,0 +1,2429 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>°Ù¶È²úÆ·´óÈ«</title>
+<style type="text/css">
+body{margin:0;padding:7px 0 0;font-size:14px;font-family:Arial, Helvetica, sans-serif;position:relative;}
+a{color:#0000cc;}
+a:link{color:#0000cc}
+img,ul,li,h3,form,table{margin:0;padding:0;border:0;list-style:none;}
+#head{width:100%;border-bottom: 1px solid #ebebeb;}
+.s_form:after,.s_tab:after{content:".";display:block;height:0;clear:both;visibility:hidden}
+.s_form{zoom:1;width:1000px;height:55px;margin:0 auto;}
+.logo{float:left;margin:7px 0 0;}
+.logo img{width:101px;}
+.fm{clear:none;position:relative;float:left; margin:11px 0 0 10px;}
+.s_ipt_wr{border:1px solid #b6b6b6;border-color:#7b7b7b #b6b6b6 #b6b6b6 #7b7b7b;background:#fff;display:inline-block;vertical-align:top;width:539px;height:32px;margin-right:0px;border-right-width:0px;border-color:#b8b8b8 transparent #cccccc #b8b8b8;overflow:hidden;}
+.s_ipt_wr:hover,.s_ipt_wr.ipthover{border-color:#999 transparent #b3b3b3 #999;}
+.s_ipt_wr.iptfocus{border-color:#4791ff transparent #4791ff #4791ff;} 
+.i{width:540px;height:34px;font:16px/18px arial;line-height:22px\9;padding:5px 10px 8px 7px;background:#fff;border:0;outline:none;-webkit-appearance:none}
+.btn_wr{width:auto;height:auto;border-bottom:1px solid transparent;*border-bottom:none;display:inline-block;}
+.btn{width:100px;height:34px;font-size:14px;color:white;letter-spacing:1px;background:#3385ff;border:none;padding:0;border-bottom:1px solid #2d78f4;outline:medium;*border-bottom:none;-webkit-appearance:none;-webkit-border-radius:0px;cursor:pointer;}
+.btn_h{background:#317ef3;border-bottom:1px solid #2868c8;*border-bottom:none;box-shadow:1px 1px 1px #cccccc;}
+#s_tab{background:#f8f8f8;width:100%;height:38px;padding:0;float:none;zoom:1;font:normal 13px/36px arial,"Sim Sun"}
+#s_tab_wrap{width:1000px;margin:0 auto;}
+#main{width:1000px;padding:0;margin:0 auto;}
+.crumb{font-family:arial "Sim Sun";color:#666;}
+.crumb a{text-decoration:none;color:#0000d0;}
+.crumb a:hover{text-decoration:underline;}
+input{padding-top:0;padding-bottom:0;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
+#u,#head,#tool,#search,#foot{font-size:13px}
+.seth{margin-left:20px;display:none;}
+.seth a{color:#00c}
+#help{margin-left:20px;}
+.short-line{margin:0 0 0 7px;color:#999999;}
+#tb_mr{color:#00c;cursor:pointer;position:relative;z-index:298}
+#tb_mr small{font-size:11px}
+#tb_mr b{font-weight:normal;text-decoration:underline}
+#more{width:58px;height:100px;border:1px solid #9A99FF;background:#fff;position:absolute;z-index:298;left:452px;top:45px;*top:46px;overflow:hidden;display:none;outline:none}
+#more a{width:53px;height:25%;line-height:24px;display:block;padding:0 0 0 7px;color:#0001CF;text-decoration:none}
+#more a span{font-family:"ËÎÌå"}
+#more a:hover{background:#D9E1F6}
+#more div{height:1px;overflow:hidden;background:#ccf;margin:0 3px}
+#page{white-space:nowrap}
+#page{word-spacing:4px}
+#page .n{font-size:16px}
+.tools{width:220px;position:absolute;top:10px;}
+.tools a{text-decoration:none;}
+.tools a:hover{text-decoration:underline;}
+#mHolder{width:62px;position:relative;z-index:296;top:-18px;margin-left:9px;margin-right:-12px;display:none}
+#mCon{height:18px;position:absolute;right:7px;top:3px;top:6px\9;cursor:pointer;padding:0 18px 0 0;line-height:18px;background:url(//www.baidu.com/img/bg-1.0.0.gif) no-repeat right -133px;background-position:right -135px\9}
+#mCon span{color:#00c;cursor:default;display:block}
+#mCon .hw{text-decoration:underline;cursor:pointer}
+#mMenu{width:56px;border:1px solid #9a99ff;position:absolute;right:7px;top:28px;display:none;background:#fff}
+#mMenu a{width:100%;height:100%;color:#00c;display:block;line-height:22px;text-indent:6px;text-decoration:none}
+#mMenu a:hover{background:#d9e1f6}
+#mMenu .ln{height:1px;background:#ccf;overflow:hidden;margin:2px;font-size:1px;line-height:1px}
+
+h3{font-size:14px;padding-bottom:10px;margin:30px 0 0 0;border-bottom:1px solid #ebebeb;font-family:arial,"Sim Sun";color:#333;width:1000px;}
+h3 sup{font:normal 14px arial,"Sim Sun";color:#fff;padding-left:2px;vertical-align:top;background-color:#f43d39;margin-left:6px;}
+h3.new{margin:30px 0 0 0;}
+.l{float:left;}
+.con{float:left;width:225px;margin:0 20px 0  0;_overflow:hidden;_height:66px;padding:15px 0 16px 10px;height:34px;border-bottom:1px solid #f3f3f3;}
+.con_last{margin:0;}
+.con a{margin-bottom:4px;display:inline-block;font-family:arial "MicroSoft YaHei";font-weight:bold;color:#014cd2;text-decoration:none;}
+.con a:hover{text-decoration:underline;}
+.con span{font-family:arial,"Sim Sun";font-size:12px;color:#666;}
+
+.abg{width:24px;height:24px;display:block;float:left;margin-right:8px;overflow:hidden;background:url(img/more.png) no-repeat left -2244px;}
+
+.yueduqi{background-position:left -2244px;}
+.yidongyingyong{background-position:left top;}
+.jdo{background-position:left -2142px;}
+.yi{background-position:left -1802px;}
+.car{background-position:left -1734px;}
+.web{background-position:left -1700px;}
+.video{background-position:left -1292px;}
+.mp3{background-position:left -1020px;}
+.map{background-position:left -952px;}
+.news{background-position:left -1088px;}
+.image{background-position:left -714px;}
+.dict{background-position:left -476px;}
+.u_tool{background-position:left -884px;}
+.tuan{background-position:left -1564px;}
+.hao123{background-position:left -612px;}
+.site_nav{background-position:left -1360px;}
+.lvyou{background-position:left -2108px;}
+.zhidao{background-position:left -2040px;}
+.baike{background-position:left -238px;}
+.tieba{background-position:left -1156px;}
+.xinzhi{background-position:left -2210px;}
+.hi{background-position:left -646px;}
+.wenku{background-position:left -1666px;}
+.zhangmen{background-position:left -1054px;}
+.shenbian{background-position:left -1258px;}
+.jingyan{background-position:left -816px;}
+.cang{background-position:left -340px;}
+.youxi{background-position:left -1904px;}
+.ting{background-position:left -1462px;}
+.youxizixun{background-position:left -1938px;}
+.search_mobile{background-position:left -1836px;}
+.baidu_mobile{background-position:left -1836px;}
+.ime_mobile{background-position:left -1326px;}
+.kuaisou{background-position:left -136px;}
+.map_mobile{background-position:left -986px;}
+.open{background-position:left -1122px;}
+.zhanzhang{background-position:left -2006px;}
+.tongji{background-position:left -1496px;}
+.lianmeng{background-position:left -1632px;}
+.tuiguang{background-position:left -1598px;}
+.guanjia{background-position:left -578px;}
+.data{background-position:left -442px;}
+.fengyunbang{background-position:left -1530px;}
+.zhishu{background-position:left -748px;}
+.yingyong{background-position:left -68px;}
+.yingyin{background-position:left -170px;}
+.hi{background-position:left -680px;}
+.tool{background-position:left -306px;}
+.ime{background-position:left -1428px;}
+.qian{background-position:left -1190px;}
+.liubanlv{background-position:left -272px;}
+.fanyi{background-position:left -102px;}
+.xunren{background-position:left -1768px;}
+.gongyi{background-position:left -544px;}
+.jijinhui{background-position:left -374px;}
+.mangdao{background-position:left -408px;}
+.laonian{background-position:left -34px;}
+.zhuanli{background-position:left -2074px;}
+.qiyi{background-position:left -1224px;}
+.youa{background-position:left -1870px;}
+.baifubao{background-position:left -204px;}
+.leju{background-position:left -850px;}
+.tiankong{background-position:left -1394px;}
+.skygame{background-position:left -2278px;}
+.developer{background-position:left -2312px;}
+.mobileexplore{background-position:left -2346px;}
+.yuedu{background-position:left -2380px;}
+.leju{background-position:left -2414px;}
+.mobilesearch{background-position:left -2448px;}
+.zhangshangbaidu{background-position:left -2482px;}
+.mobile-tongxunlu{background-position:left -2516px;}
+.liulanqi{background-position:left -2550px;}
+.fenxiang{background-position:left -2584px;}
+.yunzhineng{background-position:left -2618px;}
+.ydtongji{background-position:left -2652px;}
+.ydapp{background-position:left -2686px;}
+.kaifazhe{background-position:left -2720px;}
+.baiduxiangche{background-position:left -2754px;}
+.wangpan{background-position:left -2788px;}
+.xiaoyuan{background-position:left -2822px;}
+.yingxiao{background-position:left -2856px;}
+.ting2{background-position:left -2890px;}
+
+/**/
+.attr_856{background-position:left -7934px;}
+.attr_855{background-position:left -7900px;}
+.attr_854{background-position:left -7764px;}
+.attr_851{background-position:left -7594px;}
+.attr_850{background-position:left -7560px;}
+.attr_849{background-position:left -7492px;}
+.attr_848{background-position:left -7424px;}
+.attr_847{background-position:left -7390px;}
+.attr_845{background-position:left -7220px;}
+.attr_844{background-position:left -7152px;}
+.attr_843{background-position:left -6574px;}
+.attr_842{background-position:left -6540px;}
+.attr_841{background-position:left -6506px;}
+.attr_840{background-position:left -6472px;}
+.attr_839{background-position:left -6438px;}
+.attr_838{background-position:left -6404px;}
+.attr_835{background-position:left -6316px;}
+.attr_834{background-position:left -6282px;}
+.attr_833{background-position:left -6248px;}
+.attr_832{background-position:left -6214px;}
+.attr_831{background-position:left -6180px;}
+.attr_830{background-position:left -6146px;}
+.attr_829{background-position:left -6112px;}
+.attr_828{background-position:left -6078px;}
+.attr_827{background-position:left -6044px;}
+.attr_826{background-position:left -6010px;}
+.attr_824{background-position:left -5908px;}
+.attr_823{background-position:left -7526px;}
+.attr_822{background-position:left -5840px;}
+.attr_821{background-position:left -5806px;}
+.attr_820{background-position:left -5772px;}
+.attr_819{background-position:left -5738px;}
+.attr_818{background-position:left -5670px;}
+.attr_816{background-position:left -5704px;}
+.attr_815{background-position:left -5568px;}
+.attr_814{background-position:left -7254px;}
+.attr_813{background-position:left -5500px;}
+.attr_810{background-position:left -5398px;}
+.attr_809{background-position:left -5942px;}
+.attr_808{background-position:left -5330px;}
+.attr_806{background-position:left -5263px;}
+.attr_805{background-position:left -7186px;}
+.attr_804{background-position:left -5195px;}
+.attr_803{background-position:left -5127px;}
+.attr_802{background-position:left -5059px;}
+.attr_800{background-position:left -4991px;}
+.attr_796{background-position:left -4845px;}
+.attr_795{background-position:left -4777px;}
+.attr_794{background-position:left -4743px;}
+.attr_793{background-position:left -4709px;}
+.attr_792{background-position:left -4675px;}
+.attr_791{background-position:left -4811px;}
+.attr_790{background-position:left -4505px;}
+.attr_789{background-position:left -5093px;}
+.attr_787{background-position:left -4301px;}
+.attr_786{background-position:left -4267px;}
+.attr_785{background-position:left -7288px;}
+.attr_784{background-position:left -4199px;}
+.attr_783{background-position:left -4132px;}
+.attr_782{background-position:left -4098px;}
+.attr_776{background-position:left -7866px;}
+.attr_775{background-position:left -3792px;}
+.attr_774{background-position:left -5161px;}
+.attr_771{background-position:left -3452px;}
+.attr_767{background-position:left -3316px;}
+.attr_766{background-position:left -3282px;}
+.attr_720{background-position:left -6880px;}
+.attr_701{background-position:left -3928px;}
+.attr_699{background-position:left -3554px;}
+.ydtongji{background-position:left -2652px;}
+.kaifazhe{background-position:left -7832px;}
+.lvyou{background-position:left -6778px;}
+.fenxiang{background-position:left -2584px;}
+.zhishu{background-position:left -748px;}
+.yuedu{background-position:left -7084px;}
+.fengyunbang{background-position:left -1530px;}
+.baifubao{background-position:left -4573px;}
+.jingyan{background-position:left -6744px;}
+.data{background-position:left -442px;}
+.map_mobile{background-position:left -986px;}
+.guanjia{background-position:left -578px;}
+.ime{background-position:left -7322px;}
+.ydapp{background-position:left -3520px;}
+.image{background-position:left -6948px;}
+.tuiguang{background-position:left -1598px;}
+.zhidao{background-position:left -7118px;}
+.mobileexplore{background-position:left -2346px;}
+.news{background-position:left -6914px;}
+.lianmeng{background-position:left -1632px;}
+.tieba{background-position:left -6982px;}
+.map{background-position:left -6812px;}
+.tongji{background-position:left -1496px;}
+.gongyi{background-position:left -544px;}
+.baike{background-position:left -6710px;}
+.mp3{background-position:left -1020px;}
+.ime_mobile{background-position:left -1326px;}
+.wangpan{background-position:left -2788px;}
+.yingyin{background-position:left -170px;}
+.zhanzhang{background-position:left -2006px;}
+.hi{background-position:left -3214px;}
+.video{background-position:left -7016px;}
+.yingyong{background-position:left -68px;}
+.site_nav{background-position:left -6846px;}
+.xiaoyuan{background-position:left -2822px;}
+.liulanqi{background-position:left -4539px;}
+.fanyi{background-position:left -102px;}
+.open{background-position:left -1122px;}
+.wenku{background-position:left -7050px;}
+.web{background-position:left -1700px;}
+.youxi{background-position:left -1904px;}
+.hao123{background-position:left -4437px;}
+.yingxiao{background-position:left -2856px;}
+
+
+.cl{clear:both;height:0px;line-height:0px;font-size:0px;overflow:hidden;}
+.footer{height:42px;line-height:42px;border-top:1px solid #ebebeb;background-color:#f8f8f8;text-align:center;color:#666;font-size:12px;margin-top:40px;width:100%;}
+.footer a{color:#666;}
+</style>
+</head>
+<script type="text/javascript">
+function h(obj){obj.style.behavior='url(#default#homepage)';obj.setHomePage('http://www.baidu.com/more/')};
+</script>
+<body>
+<div id="head">
+    	<div id="s_fm" class="s_form">
+    		<a href="http://www.baidu.com" class="logo">
+    			<img src="//www.baidu.com/img/baidu_jgylogo3.gif" border="0" alt="µ½°Ù¶ÈÊ×Ò³" onMouseDown="nsclick('logo')">
+    		</a>
+    		<form name="f" action="//www.baidu.com/s"  class="fm">
+    			<input type="hidden" name="bs" value="lv">
+    			<input type="hidden" name="f" value="8">
+    			<input type="hidden" name="rsv_bp" value="1">
+    			<input type="hidden" name="rsv_spt" value="3">
+    			<span class="s_ipt_wr" onmousedown="this.className='s_ipt_wr iptfocus'" onmouseout="this.className='s_ipt_wr'"><input name="wd" id="kw" class="i" value="" maxlength="100"></span><span class="btn_wr" ><input type="submit" id="su" value="°Ù¶ÈÒ»ÏÂ" class="btn" onmouseover="this.className='btn btn_h'" onmousedown="this.className='btn btn_h'" onmouseout="this.className='btn'"></span><span class="tools"><span id="mHolder"><div id="mCon"><span>ÊäÈë·¨</span></div><ul id="mMenu"><li><a href="#" name="ime_hw">ÊÖĞ´</a></li><li><a href="#" name="ime_py">Æ´Òô</a></li><li class="ln"></li><li><a href="#" name="ime_cl">¹Ø±Õ</a></li></ul></span><span class="seth" id="seth"><a href="#" onClick="h(this);">°Ñ±¾Ò³ÉèÎªÖ÷Ò³</a><span class="short-line">|</span></span><a id="help" target="_blank" href="http://www.baidu.com/search/jiqiao.html" onMouseDown="nsclick('help')">°ïÖú</a></span>
+    		</form>
+		</div>
+	</div>
+	<div id="s_tab" class="s_tab">
+		<div id="s_tab_wrap">
+			<div class="crumb"><a href="http://www.baidu.com/">°Ù¶ÈÊ×Ò³</a>&nbsp;&nbsp;<span style="font-family:simsun">&gt;</span>&nbsp;&nbsp;²úÆ·´óÈ«</div>
+		</div>
+	</div>
+<div id="main">
+         
+         <div id="content">
+
+        <!--ĞÂÉÏÏß²úÆ·ÁĞ±í-->
+        <h3  class="new">ĞÂÉÏÏß<sup>ĞÂ£¡</sup></h3>
+<div class="con"><div><a href="http://store.baidu.com/" class="abg attr_856" target="_blank"></a></div><div><a href="http://store.baidu.com/" target="_blank">°Ù¶ÈÎ´À´ÉÌµê</a><br /><span>ÖÇÄÜÓ²¼ş¾ÛºÏÏúÊÛÆ½Ì¨</span></div></div>
+<div class="con"><div><a href="http://ssp.baidu.com/" class="abg attr_855" target="_blank"></a></div><div><a href="http://ssp.baidu.com/" target="_blank">°Ù¶ÈSSPÃ½Ìå·şÎñ</a><br /><span>Ã½ÌåÊÕÒæ¹ÜÀíÓëÓÅ»¯·şÎñ</span></div></div>
+<div class="con"><div><a href="http://yuyin.baidu.com/" class="abg attr_854" target="_blank"></a></div><div><a href="http://yuyin.baidu.com/" target="_blank">°Ù¶ÈÓïÒô</a><br /><span>ÓïÒôÊ¶±ğºÏ³É¼¼Êõ¿ª·Å</span></div></div>
+<div class="con"><div><a href="http://bce.baidu.com/" class="abg attr_851" target="_blank"></a></div><div><a href="http://bce.baidu.com/" target="_blank">°Ù¶È¿ª·ÅÔÆ</a><br /><span>°Ù¶ÈÈ«ÏµÁĞÔÆ¼ÆËã²úÆ·</span></div></div>
+<div class="con"><div><a href="http://yi.baidu.com/userdownload" class="abg attr_850" target="_blank"></a></div><div><a href="http://yi.baidu.com/userdownload" target="_blank">°Ù¶ÈÒ½Éú</a><br /><span>°Ù¶ÈÔÚÏßÔ¤Ô¼¹ÒºÅÆ½Ì¨</span></div></div>
+<div class="con"><div><a href="http://fang.baidu.com/" class="abg attr_849" target="_blank"></a></div><div><a href="http://fang.baidu.com/" target="_blank">°Ù¶È·¿²ú</a><br /><span>·¿²úĞÅÏ¢ËÑË÷·şÎñÆ½Ì¨</span></div></div>
+<div class="con"><div><a href="http://gupiao.baidu.com/" class="abg attr_848" target="_blank"></a></div><div><a href="http://gupiao.baidu.com/" target="_blank">°Ù¶È¹ÉÊĞÍ¨</a><br /><span>´óÊı¾İÑ¡¹É£¬¹ÉÆ±Í¶×Ê</span></div></div>
+<div class="con"><div><a href="http://italk.baidu.com/" class="abg attr_847" target="_blank"></a></div><div><a href="http://italk.baidu.com/" target="_blank">°Ù¶ÈÍ¼»°</a><br /><span>Ãâ·ÑµÄµ¯Ä»Ê½ÆÀÂÛ·şÎñ</span></div></div>
+<div class="con"><div><a href="http://tianyan.baidu.com/" class="abg attr_844" target="_blank"></a></div><div><a href="http://tianyan.baidu.com/" target="_blank">°Ù¶ÈÌìÑÛ</a><br /><span>ËÑË÷ÊµÊ±º½°à¶¯Ì¬</span></div></div>
+<div class="con"><div><a href="http://zoo.baidu.com" class="abg attr_832" target="_blank"></a></div><div><a href="http://zoo.baidu.com" target="_blank">°Ù¶È¶¯ÎïÔ°</a><br /><span>ÖĞ¹úÊ×¸ö¶¯ÎïÖ±²¥Æ½Ì¨</span></div></div>
+
+        <div class="cl"></div>
+
+        <!--ËÑË÷·şÎñ²úÆ·ÁĞ±í-->
+        <h3 >ËÑË÷·şÎñ</h3>
+<div class="con"><div><a href="http://rj.baidu.com/" class="abg attr_843" target="_blank"></a></div><div><a href="http://rj.baidu.com/" target="_blank">°Ù¶ÈÈí¼şÖĞĞÄ</a><br /><span>PCÈí¼ş×ÊÔ´ÏÂÔØ</span></div></div>
+<div class="con"><div><a href="http://www.baidu.com/" class="abg web" target="_blank"></a></div><div><a href="http://www.baidu.com/" target="_blank">ÍøÒ³</a><br /><span>ËÑË÷º£Á¿ÍøÂç×ÊÁÏ¡¢×ÊÔ´</span></div></div>
+<div class="con"><div><a href="http://video.baidu.com/" class="abg video" target="_blank"></a></div><div><a href="http://video.baidu.com/" target="_blank">ÊÓÆµ</a><br /><span>ËÑË÷º£Á¿ÍøÂçÊÓÆµ</span></div></div>
+<div class="con"><div><a href="http://fanyi.baidu.com/" class="abg fanyi" target="_blank"></a></div><div><a href="http://fanyi.baidu.com/" target="_blank">°Ù¶È·­Òë</a><br /><span>ÇáËÉ½â¾öÓïÑÔ²îÒìÀ§ÈÅ</span></div></div>
+<div class="con"><div><a href="http://music.baidu.com/" class="abg mp3" target="_blank"></a></div><div><a href="http://music.baidu.com/" target="_blank">ÒôÀÖ</a><br /><span>ËÑË÷ÊÔÌıÏÂÔØº£Á¿ÒôÀÖ</span></div></div>
+<div class="con"><div><a href="http://map.baidu.com/" class="abg map" target="_blank"></a></div><div><a href="http://map.baidu.com/" target="_blank">µØÍ¼</a><br /><span>ËÑË÷¹¦ÄÜÍê±¸µÄÍøÂçµØÍ¼</span></div></div>
+<div class="con"><div><a href="http://news.baidu.com/" class="abg news" target="_blank"></a></div><div><a href="http://news.baidu.com/" target="_blank">ĞÂÎÅ</a><br /><span>ËÑË÷ä¯ÀÀ×îÈÈĞÂÎÅ×ÊÑ¶</span></div></div>
+<div class="con"><div><a href="http://image.baidu.com/" class="abg image" target="_blank"></a></div><div><a href="http://image.baidu.com/" target="_blank">Í¼Æ¬</a><br /><span>ËÑË÷º£Á¿ÍøÂçÍ¼Æ¬</span></div></div>
+<div class="con"><div><a href="http://stu.baidu.com" class="abg attr_792" target="_blank"></a></div><div><a href="http://stu.baidu.com" target="_blank">°Ù¶ÈÊ¶Í¼</a><br /><span>ÒÔÍ¼ËÑĞÅÏ¢£¬·¢ÏÖ¸ü¶à¿ÉÄÜ£¡</span></div></div>
+<div class="con"><div><a href="http://piao.baidu.com/" class="abg attr_793" target="_blank"></a></div><div><a href="http://piao.baidu.com/" target="_blank">°Ù¶ÈÆ±Îñ</a><br /><span>ÂòµÍ¼Û·ÅĞÄÆ±£¬ÉÏ°Ù¶ÈÆ±Îñ</span></div></div>
+<div class="con"><div><a href="http://y.baidu.com" class="abg attr_796" target="_blank"></a></div><div><a href="http://y.baidu.com" target="_blank">°Ù¶ÈÒôÀÖÈË</a><br /><span>·¢ÏÖ×îºÃµÄÔ­´´ÒôÀÖ</span></div></div>
+<div class="con"><div><a href="http://caifu.baidu.com?tf=nb-cpdq/" class="abg attr_805" target="_blank"></a></div><div><a href="http://caifu.baidu.com?tf=nb-cpdq/" target="_blank">°Ù¶È²Æ¸»</a><br /><span>Àí²Æ£¬´û¿î£¬±£ÏÕ£¬ÉÏ°Ù¶È²Æ¸»</span></div></div>
+<div class="con"><div><a href="http://fanyi.baidu.com/paper" class="abg attr_810" target="_blank"></a></div><div><a href="http://fanyi.baidu.com/paper" target="_blank">Ó¢Óï×÷ÎÄ°ï</a><br /><span>ÄãµÄÓ¢Óï×÷ÎÄºÃ°ïÊÖ£¡</span></div></div>
+<div class="con"><div><a href="http://jiaoyu.baidu.com/" class="abg attr_813" target="_blank"></a></div><div><a href="http://jiaoyu.baidu.com/" target="_blank">°Ù¶È½ÌÓı</a><br /><span>¿Î³Ì¡¢»ú¹¹¡¢¿¼ÊÔ¼°ÔÚÏßÑ§Ï°Æ½Ì¨£¡</span></div></div>
+<div class="con"><div><a href="http://jiankang.baidu.com" class="abg attr_814" target="_blank"></a></div><div><a href="http://jiankang.baidu.com" target="_blank">°Ù¶È½¡¿µ</a><br /><span>È«·½Î»µÄÒ½ÁÆ·şÎñÆ½Ì¨</span></div></div>
+<div class="con"><div><a href="http://waimai.baidu.com/" class="abg attr_815" target="_blank"></a></div><div><a href="http://waimai.baidu.com/" target="_blank">°Ù¶ÈÍâÂô</a><br /><span>ÔÚÏßÍâÂô¶©²Í²úÆ·</span></div></div>
+<div class="con"><div><a href="http://car.baidu.com/" class="abg attr_820" target="_blank"></a></div><div><a href="http://car.baidu.com/" target="_blank">°Ù¶ÈÆû³µ</a><br /><span>×¨ÒµµÄÆû³µÂòÂô·şÎñÆ½Ì¨</span></div></div>
+<div class="con"><div><a href="http://zdm.baidu.com/" class="abg attr_822" target="_blank"></a></div><div><a href="http://zdm.baidu.com/" target="_blank">°Ù¶ÈÖµµÃÂò</a><br /><span>È«Íø³¬ÖµÓÅ»İ×ÊÑ¶</span></div></div>
+<div class="con"><div><a href="http://shouji.baidu.com/software/item?docid=7345770" class="abg attr_828" target="_blank"></a></div><div><a href="http://shouji.baidu.com/software/item?docid=7345770" target="_blank">°Ù¶È°¢Óï´Êµä</a><br /><span>È¨ÍşÓ¢Óï°¢À­²®Óï´Êµä¹¤¾ß</span></div></div>
+<div class="con"><div><a href="http://www.chuanke.com/" class="abg attr_838" target="_blank"></a></div><div><a href="http://www.chuanke.com/" target="_blank">°Ù¶È´«¿Î</a><br /><span>°Ù¶ÈÔÚÏß½ÌÓıÆ½Ì¨£¡</span></div></div>
+<div class="con"><div><a href="http://xueshu.baidu.com/ " class="abg attr_842" target="_blank"></a></div><div><a href="http://xueshu.baidu.com/ " target="_blank">°Ù¶ÈÑ§Êõ</a><br /><span>Ìá¹©º£Á¿ÖĞÓ¢ÎÄÎÄÏ×¼ìË÷£¡</span></div></div>
+
+        <div class="cl"></div>
+
+        <!--µ¼º½·şÎñ-->
+        <h3 >µ¼º½·şÎñ</h3>
+<div class="con"><div><a href="http://www.hao123.com/" class="abg hao123" target="_blank"></a></div><div><a href="http://www.hao123.com/" target="_blank">hao123</a><br /><span>ÍøÖ·µ¼º½</span></div></div>
+<div class="con"><div><a href="http://site.baidu.com/" class="abg site_nav" target="_blank"></a></div><div><a href="http://site.baidu.com/" target="_blank">ÍøÕ¾µ¼º½</a><br /><span>°Ù¶ÈÍøÖ·´óÈ«</span></div></div>
+<div class="con"><div><a href="http://koubei.baidu.com/" class="abg attr_803" target="_blank"></a></div><div><a href="http://koubei.baidu.com/" target="_blank">°Ù¶È¿Ú±®</a><br /><span>´«²¥×îÕæÊµµÄÆÀÂÛ</span></div></div>
+
+        <div class="cl"></div>
+
+        <!--ÉçÇø·şÎñ-->
+        <h3 >ÉçÇø·şÎñ</h3>
+<div class="con"><div><a href="http://anquan.baidu.com/bbs/" class="abg attr_804" target="_blank"></a></div><div><a href="http://anquan.baidu.com/bbs/" target="_blank">°Ù¶È°²È«ÂÛÌ³</a><br /><span>°Ù¶È°²È«²úÆ·½»Á÷ÂÛÌ³</span></div></div>
+<div class="con"><div><a href="http://wenku.baidu.com/" class="abg wenku" target="_blank"></a></div><div><a href="http://wenku.baidu.com/" target="_blank">ÎÄ¿â</a><br /><span>ÔÄ¶Á¡¢ÏÂÔØ¡¢·ÖÏíÎÄµµ</span></div></div>
+<div class="con"><div><a href="http://hi.baidu.com/" class="abg hi" target="_blank"></a></div><div><a href="http://hi.baidu.com/" target="_blank">¿Õ¼ä</a><br /><span>°Ù¶È¿Õ¼ä£¬ÈÃÊÀ½ç·¢ÏÖÄã£¡</span></div></div>
+<div class="con"><div><a href="http://baike.baidu.com/" class="abg baike" target="_blank"></a></div><div><a href="http://baike.baidu.com/" target="_blank">°Ù¿Æ</a><br /><span>²éÑ¯¡¢¹±Ï×ÍøÂç°Ù¿ÆÈ«Êé</span></div></div>
+<div class="con"><div><a href="http://tieba.baidu.com/" class="abg tieba" target="_blank"></a></div><div><a href="http://tieba.baidu.com/" target="_blank">Ìù°É</a><br /><span>×ÔÓÉ·ÖÏí»°Ìâ¡¢²ÎÓëÌÖÂÛ</span></div></div>
+<div class="con"><div><a href="http://zhidao.baidu.com/" class="abg zhidao" target="_blank"></a></div><div><a href="http://zhidao.baidu.com/" target="_blank">ÖªµÀ</a><br /><span>Ñ°ÕÒ´ğ°¸¡¢»Ø´ğÎÊÌâ</span></div></div>
+<div class="con"><div><a href="http://jingyan.baidu.com/" class="abg jingyan" target="_blank"></a></div><div><a href="http://jingyan.baidu.com/" target="_blank">¾­Ñé</a><br /><span>ÊµÓÃÉú»îÖ¸ÄÏ</span></div></div>
+<div class="con"><div><a href="https://www.baifubao.com/" class="abg baifubao" target="_blank"></a></div><div><a href="https://www.baifubao.com/" target="_blank">°Ù¶ÈÇ®°ü</a><br /><span>°²È«¿ÉĞÅÀµµÄÖ§¸¶¹¤¾ß</span></div></div>
+<div class="con"><div><a href="http://yuedu.baidu.com/" class="abg yuedu" target="_blank"></a></div><div><a href="http://yuedu.baidu.com/" target="_blank">°Ù¶ÈÔÄ¶Á</a><br /><span>µç×ÓÊéÊÀ½ç£¬ÔÄ¶Á¸ü·½±ã</span></div></div>
+<div class="con"><div><a href="http://lvyou.baidu.com/" class="abg lvyou" target="_blank"></a></div><div><a href="http://lvyou.baidu.com/" target="_blank">°Ù¶ÈÂÃÓÎ</a><br /><span>ÈÃÂÃĞĞ¸ü¼òµ¥</span></div></div>
+<div class="con"><div><a href="http://xiangce.baidu.com/" class="abg attr_701" target="_blank"></a></div><div><a href="http://xiangce.baidu.com/" target="_blank">°Ù¶ÈÏà²á</a><br /><span>³¬´óÈİÁ¿µÄÃâ·ÑÔÆÏà²á</span></div></div>
+<div class="con"><div><a href="http://campus.baidu.com/ " class="abg xiaoyuan" target="_blank"></a></div><div><a href="http://campus.baidu.com/ " target="_blank">°Ù¶ÈĞ£Ô°</a><br /><span>Ğ£Ô°ÉçÇøÆ½Ì¨</span></div></div>
+<div class="con"><div><a href="http://test.baidu.com" class="abg attr_771" target="_blank"></a></div><div><a href="http://test.baidu.com" target="_blank">°Ù¶ÈÖÚ²â</a><br /><span>ÓÃ»§ÌåÑéÖĞĞÄ</span></div></div>
+<div class="con"><div><a href="http://8.baidu.com/" class="abg attr_789" target="_blank"></a></div><div><a href="http://8.baidu.com/" target="_blank">°Ù¶È½ğÈÚ</a><br /><span>×ÛºÏ½ğÈÚ·şÎñÆ½Ì¨</span></div></div>
+<div class="con"><div><a href="http://cbbs.baidu.com" class="abg attr_795" target="_blank"></a></div><div><a href="http://cbbs.baidu.com" target="_blank">°Ù¶È²úÆ·ÂÛÌ³</a><br /><span>»¥ÁªÍø²úÆ··ÛË¿»¥¶¯</span></div></div>
+<div class="con"><div><a href="http://www.nuomi.com/" class="abg attr_800" target="_blank"></a></div><div><a href="http://www.nuomi.com/" target="_blank">°Ù¶ÈÅ´Ã×</a><br /><span>Ê¡Ç®¸üÊ¡ĞÄ£¬È«³¡Ëæ±ãÍË£¡</span></div></div>
+<div class="con"><div><a href="http://yun.baidu.com" class="abg attr_775" target="_blank"></a></div><div><a href="http://yun.baidu.com" target="_blank">°Ù¶ÈÔÆ</a><br /><span>ÎÄ¼ş±¸·İ¡¢·ÖÏí¡¢Í¬²½¹¤¾ß</span></div></div>
+<div class="con"><div><a href="http://www.lecai.com/" class="abg attr_833" target="_blank"></a></div><div><a href="http://www.lecai.com/" target="_blank">°Ù¶ÈÀÖ²Ê</a><br /><span>°²È«¿É¿¿ÔÚÏß¹º²ÊÆ½Ì¨</span></div></div>
+
+        <div class="cl"></div>
+
+        <!--ÓÎÏ·ÓéÀÖ-->
+        <h3 >ÓÎÏ·ÓéÀÖ</h3>
+<div class="con"><div><a href="http://youxi.baidu.com/" class="abg youxi" target="_blank"></a></div><div><a href="http://youxi.baidu.com/" target="_blank">°Ù¶ÈÓÎÏ·</a><br /><span>ÍæÓÎÏ·¡¢¿´×ÊÑ¶¡¢ÕÒÍ¬°é</span></div></div>
+<div class="con"><div><a href="http://app.baidu.com/" class="abg yingyong" target="_blank"></a></div><div><a href="http://app.baidu.com/" target="_blank">°Ù¶ÈÓ¦ÓÃ</a><br /><span>ÇáËÉÕÒµ½ËùĞè¸ßÖÊÁ¿Ó¦ÓÃ</span></div></div>
+<div class="con"><div><a href="http://iwan.baidu.com/" class="abg attr_824" target="_blank"></a></div><div><a href="http://iwan.baidu.com/" target="_blank">°Ù¶È°®Íæ</a><br /><span>ÕÒÓÎÏ·£¬¾ÍÉÏ°Ù¶È°®Íæ</span></div></div>
+<div class="con"><div><a href="http://tvgame.baidu.com/" class="abg attr_839" target="_blank"></a></div><div><a href="http://tvgame.baidu.com/" target="_blank">°Ù¶ÈµçÊÓÓÎÏ·</a><br /><span>µçÊÓÓÎÏ·ÏÂÔØÌåÑéÆ½Ì¨</span></div></div>
+
+        <div class="cl"></div>
+
+        <!--ÒÆ¶¯·şÎñ-->
+        <h3 >ÒÆ¶¯·şÎñ</h3>
+<div class="con"><div><a href="http://download.nuomi.com/inter/group?from=HomeAdRightBanner/" class="abg attr_802" target="_blank"></a></div><div><a href="http://download.nuomi.com/inter/group?from=HomeAdRightBanner/" target="_blank">°Ù¶ÈÅ´Ã×</a><br /><span>Ê¡Ç®¸üÊ¡ĞÄ£¬È«³¡Ëæ±ãÍË£¡</span></div></div>
+<div class="con"><div><a href="http://8.baidu.com/content/resource/app/index.html" class="abg attr_829" target="_blank"></a></div><div><a href="http://8.baidu.com/content/resource/app/index.html" target="_blank">°Ù¶ÈÀí²Æ</a><br /><span>Í¶×ÊÉúÇ®£¬ËæÊ±½»Ò×</span></div></div>
+<div class="con"><div><a href="http://kk.chuanke.com/android/" class="abg attr_841" target="_blank"></a></div><div><a href="http://kk.chuanke.com/android/" target="_blank">°Ù¶È´«¿Î</a><br /><span>ËæÊ±ËæµØÑ§Ï°º£Á¿¿Î³Ì£¡</span></div></div>
+<div class="con"><div><a href="http://srf.baidu.com" class="abg ime_mobile" target="_blank"></a></div><div><a href="http://srf.baidu.com" target="_blank">°Ù¶ÈÊÖ»úÊäÈë·¨</a><br /><span>µã»®½áºÏ£¬ÊäÈë¸üÁ÷³©</span></div></div>
+<div class="con"><div><a href="http://mb.baidu.com/" class="abg mobileexplore" target="_blank"></a></div><div><a href="http://mb.baidu.com/" target="_blank">°Ù¶ÈÊÖ»úä¯ÀÀÆ÷</a><br /><span>¼«ËÙä¯ÀÀ£¬¼¯º£Á¿Ó¦ÓÃ</span></div></div>
+<div class="con"><div><a href="http://bizhi.baidu.com/" class="abg attr_699" target="_blank"></a></div><div><a href="http://bizhi.baidu.com/" target="_blank">°Ù¶È±ÚÖ½</a><br /><span>ÌìÌì»»±ÚÖ½,Ê±Ê±ºÃĞÄÇé</span></div></div>
+<div class="con"><div><a href="http://as.baidu.com/a/bdsuite" class="abg ydapp" target="_blank"></a></div><div><a href="http://as.baidu.com/a/bdsuite" target="_blank">°Ù¶ÈÊÖ»úÖúÊÖ</a><br /><span>×îĞÂ×îÈ«°²×¿ÊÖ»úÓ¦ÓÃ</span></div></div>
+<div class="con"><div><a href="http://shouji.baidu.com/map/" class="abg map_mobile" target="_blank"></a></div><div><a href="http://shouji.baidu.com/map/" target="_blank">°Ù¶ÈÊÖ»úµØÍ¼</a><br /><span>´ÓÊÖ»úËÑË÷ÍøÂçµØÍ¼</span></div></div>
+<div class="con"><div><a href="http://pan.baidu.com/" class="abg wangpan" target="_blank"></a></div><div><a href="http://pan.baidu.com/" target="_blank">°Ù¶ÈÍøÅÌ</a><br /><span>ÄúµÄÍøÂçUÅÌ</span></div></div>
+<div class="con"><div><a href="http://os.baidu.com/" class="abg attr_826" target="_blank"></a></div><div><a href="http://os.baidu.com/" target="_blank">°Ù¶ÈÔÆOS</a><br /><span>ÎÈ¶¨Á÷³©µÄÊÖ»úÏµÍ³</span></div></div>
+<div class="con"><div><a href="http://motu.baidu.com/ " class="abg attr_720" target="_blank"></a></div><div><a href="http://motu.baidu.com/ " target="_blank">°Ù¶ÈÄ§Í¼</a><br /><span>ºÃÍæÒ×ÓÃÕÆÉÏÃÀÍ¼¹¤¾ß</span></div></div>
+<div class="con"><div><a href="http://fanyi.baidu.com/appdownload/download.html" class="abg attr_776" target="_blank"></a></div><div><a href="http://fanyi.baidu.com/appdownload/download.html" target="_blank">°Ù¶È·­ÒëApp</a><br /><span>ÄúµÄÕÆÉÏ·­Òë×¨¼Ò</span></div></div>
+<div class="con"><div><a href="http://mopai.baidu.com/" class="abg attr_782" target="_blank"></a></div><div><a href="http://mopai.baidu.com/" target="_blank">°Ù¶ÈÄ§ÅÄ</a><br /><span>ÊÖ»úÅÄÕÕ£¬Ò»¼üÃÀÑÕ</span></div></div>
+<div class="con"><div><a href="http://music.baidu.com/app" class="abg attr_784" target="_blank"></a></div><div><a href="http://music.baidu.com/app" target="_blank">°Ù¶ÈÒôÀÖAPP</a><br /><span>°Ù¶ÈÒôÀÖ£¬ÕÒ¸èÌı¸è£¬Ò»²½µ½Î»</span></div></div>
+<div class="con"><div><a href="http://lifenote.baidu.com/" class="abg attr_818" target="_blank"></a></div><div><a href="http://lifenote.baidu.com/" target="_blank">Éú»îÊÖ¼Ç</a><br /><span>¼ÇÂ¼Éú»îµãµÎ </span></div></div>
+<div class="con"><div><a href="http://weirenwu.baidu.com" class="abg attr_787" target="_blank"></a></div><div><a href="http://weirenwu.baidu.com" target="_blank">°Ù¶ÈÎ¢ÈÎÎñ</a><br /><span>ËæÊ±ËæµØËæÊÖ£¬ÇáËÉ×¬Ç®</span></div></div>
+<div class="con"><div><a href="http://shoujiweishi.baidu.com/" class="abg attr_790" target="_blank"></a></div><div><a href="http://shoujiweishi.baidu.com/" target="_blank">°Ù¶ÈÊÖ»úÎÀÊ¿</a><br /><span>ÊÖ»ú·ÀÎü·Ñ£¬·ÀÉ§ÈÅ</span></div></div>
+<div class="con"><div><a href="http://dida.baidu.com/clock/" class="abg attr_834" target="_blank"></a></div><div><a href="http://dida.baidu.com/clock/" target="_blank">°Ù¶ÈµÎ´ğ</a><br /><span>³¬±ã½İµÄÉú»îÌáĞÑÄÖÖÓ</span></div></div>
+<div class="con"><div><a href="http://biji.baidu.com/" class="abg attr_794" target="_blank"></a></div><div><a href="http://biji.baidu.com/" target="_blank">Í¿Êé±Ê¼Ç</a><br /><span>°ÑÖ½ÃæÎÄ×ÖÂíÉÏµç×Ó»¯</span></div></div>
+
+        <div class="cl"></div>
+
+        <!--Õ¾³¤·şÎñ-->
+        <h3 >Õ¾³¤Óë¿ª·¢Õß·şÎñ</h3>
+<div class="con"><div><a href="http://tuijian.baidu.com/" class="abg attr_831" target="_blank"></a></div><div><a href="http://tuijian.baidu.com/" target="_blank">°Ù¶ÈÍÆ¼ö</a><br /><span>×î×¨ÒµµÄ¸öĞÔÍÆ¼öÒıÇæ </span></div></div>
+<div class="con"><div><a href="http://open.baidu.com/" class="abg open" target="_blank"></a></div><div><a href="http://open.baidu.com/" target="_blank">ËÑË÷¿ª·ÅÆ½Ì¨</a><br /><span>Õ¾³¤Ìá½»×ÊÔ´µÄÂÌÉ«Í¨µÀ</span></div></div>
+<div class="con"><div><a href="http://zhanzhang.baidu.com/" class="abg zhanzhang" target="_blank"></a></div><div><a href="http://zhanzhang.baidu.com/" target="_blank">Õ¾³¤Æ½Ì¨</a><br /><span>ÈÃ°Ù¶È¸üÁË½âÄãµÄÍøÕ¾</span></div></div>
+<div class="con"><div><a href="http://tongji.baidu.com/" class="abg tongji" target="_blank"></a></div><div><a href="http://tongji.baidu.com/" target="_blank">°Ù¶ÈÍ³¼Æ</a><br /><span>»ñÈ¡ÍøÕ¾Á÷Á¿µÄ×¨Òµ·ÖÎö</span></div></div>
+<div class="con"><div><a href="http://union.baidu.com/" class="abg lianmeng" target="_blank"></a></div><div><a href="http://union.baidu.com/" target="_blank">°Ù¶ÈÁªÃË</a><br /><span>Óë°Ù¶ÈºÏ×÷£¬±äµÃ¸üÇ¿</span></div></div>
+<div class="con"><div><a href="http://e.baidu.com/" class="abg tuiguang" target="_blank"></a></div><div><a href="http://e.baidu.com/" target="_blank">°Ù¶ÈÍÆ¹ã</a><br /><span>»ñµÃĞÂ¿Í»§ºÍºÏ×÷»ï°é</span></div></div>
+<div class="con"><div><a href="http://adm.baidu.com/" class="abg guanjia" target="_blank"></a></div><div><a href="http://adm.baidu.com/" target="_blank">¹ã¸æ¹Ü¼Ò</a><br /><span>ÏíÊÜ×¨ÒµÍøÕ¾¹ã¸æ¹ÜÀí·şÎñ</span></div></div>
+<div class="con"><div><a href="http://data.baidu.com/" class="abg data" target="_blank"></a></div><div><a href="http://data.baidu.com/" target="_blank">Êı¾İÑĞ¾¿ÖĞĞÄ</a><br /><span>»ñÈ¡È¨ÍşµÄÍøÂçÊı¾İÑĞ¾¿</span></div></div>
+<div class="con"><div><a href="http://top.baidu.com/" class="abg fengyunbang" target="_blank"></a></div><div><a href="http://top.baidu.com/" target="_blank">·çÔÆ°ñ</a><br /><span>¹ÛÈÈµãÊÂ¼ş£¬¿´Ê±ÉĞ·çÔÆ</span></div></div>
+<div class="con"><div><a href="http://index.baidu.com/" class="abg zhishu" target="_blank"></a></div><div><a href="http://index.baidu.com/" target="_blank">°Ù¶ÈÖ¸Êı</a><br /><span>ËÑË÷È¨ÍşµÄ¹Ø¼ü´ÊÊı¾İ·ÖÎö</span></div></div>
+<div class="con"><div><a href="http://share.baidu.com/" class="abg fenxiang" target="_blank"></a></div><div><a href="http://share.baidu.com/" target="_blank">°Ù¶È·ÖÏí</a><br /><span>ÎªÄú´øÀ´¸ü¶àÁ÷Á¿</span></div></div>
+<div class="con"><div><a href="http://developer.baidu.com/" class="abg kaifazhe" target="_blank"></a></div><div><a href="http://developer.baidu.com/" target="_blank">°Ù¶È¿ª·Å·şÎñÆ½Ì¨</a><br /><span>¿ª·¢ÕßÒ»Õ¾Ê½·şÎñÆ½Ì¨</span></div></div>
+<div class="con"><div><a href="http://mtj.baidu.com" class="abg ydtongji" target="_blank"></a></div><div><a href="http://mtj.baidu.com" target="_blank">°Ù¶ÈÒÆ¶¯Í³¼Æ</a><br /><span>×¨ÒµµÄÒÆ¶¯Ó¦ÓÃÍ³¼Æ</span></div></div>
+<div class="con"><div><a href="http://sinan.baidu.com/" class="abg attr_806" target="_blank"></a></div><div><a href="http://sinan.baidu.com/" target="_blank">°Ù¶ÈË¾ÄÏ</a><br /><span>´óÊı¾İÓªÏú¾ö²ßÆ½Ì¨</span></div></div>
+<div class="con"><div><a href="http://imageplus.baidu.com/" class="abg attr_816" target="_blank"></a></div><div><a href="http://imageplus.baidu.com/" target="_blank">°Ù¶ÈÍ¼+</a><br /><span>¿ªÆôÍ¼Æ¬µÄ±äÏÖ·½°¸</span></div></div>
+<div class="con"><div><a href="http://ce.baidu.com/?from=more" class="abg attr_819" target="_blank"></a></div><div><a href="http://ce.baidu.com/?from=more" target="_blank">°Ù¶ÈÔÆ¹Û²â</a><br /><span>ÍøÕ¾½¡¿µ¼à²âÖĞĞÄ</span></div></div>
+<div class="con"><div><a href="https://open2.baidu.com/" class="abg attr_821" target="_blank"></a></div><div><a href="https://open2.baidu.com/" target="_blank">°Ù¶ÈÉÌÒµ·şÎñÊĞ³¡</a><br /><span>È«ĞÂSEM¹¤¾ßÔÚÏß¼¯ÊĞ</span></div></div>
+<div class="con"><div><a href="http://yuqing.baidu.com/ " class="abg attr_823" target="_blank"></a></div><div><a href="http://yuqing.baidu.com/ " target="_blank">°Ù¶ÈÓßÇé</a><br /><span>»¥ÁªÍø¿Ú±®·ÖÎö¹¤¾ß</span></div></div>
+<div class="con"><div><a href="http://jingsuan.baidu.com" class="abg attr_827" target="_blank"></a></div><div><a href="http://jingsuan.baidu.com" target="_blank">°Ù¶È¾«Ëã</a><br /><span>´óÊı¾İ¹ã¸æĞ§¹ûºâÁ¿Æ½Ì¨</span></div></div>
+<div class="con"><div><a href="http://yunjiasu.baidu.com/?from=more" class="abg attr_809" target="_blank"></a></div><div><a href="http://yunjiasu.baidu.com/?from=more" target="_blank">°Ù¶ÈÔÆ¼ÓËÙ</a><br /><span>ÎªÕ¾³¤Ìá¹©°²È«·À»¤ºÍ¼ÓËÙ·şÎñ</span></div></div>
+<div class="con"><div><a href="http://apistore.baidu.com/" class="abg attr_835" target="_blank"></a></div><div><a href="http://apistore.baidu.com/" target="_blank">APIStore</a><br /><span>Îª¿ª·¢ÕßÌá¹©API·şÎñ</span></div></div>
+<div class="con"><div><a href="http://baitong.baidu.com" class="abg attr_845" target="_blank"></a></div><div><a href="http://baitong.baidu.com" target="_blank">91°ÙÍ¨¹ã¸æ</a><br /><span>¿ªÆôÄúµÄÁ÷Á¿±äÏÖÖ®ÂÃ</span></div></div>
+
+        <div class="cl"></div>
+
+        <!--Èí¼ş¹¤¾ß-->
+        <h3 >Èí¼ş¹¤¾ß</h3>
+<div class="con"><div><a href="http://kk.chuanke.com/" class="abg attr_840" target="_blank"></a></div><div><a href="http://kk.chuanke.com/" target="_blank">°Ù¶È´«¿Î</a><br /><span>×î×¨ÒµµÄÔÚÏß»¥¶¯Ñ§Ï°¹¤¾ß</span></div></div>
+<div class="con"><div><a href="http://naotu.baidu.com" class="abg attr_830" target="_blank"></a></div><div><a href="http://naotu.baidu.com" target="_blank">°Ù¶ÈÄÔÍ¼¹¤¾ß</a><br /><span>ÔÚÏßÄÔÍ¼±à¼­¹¤¾ß</span></div></div>
+<div class="con"><div><a href="http://player.baidu.com/" class="abg yingyin" target="_blank"></a></div><div><a href="http://player.baidu.com/" target="_blank">°Ù¶ÈÓ°Òô</a><br /><span>±ßÏÂ±ß¿´£¬Ö§³ÖÊÓÆµËÑË÷</span></div></div>
+<div class="con"><div><a href="http://music.baidu.com/pc/index.html" class="abg attr_786" target="_blank"></a></div><div><a href="http://music.baidu.com/pc/index.html" target="_blank">°Ù¶ÈÒôÀÖ</a><br /><span>°Ù¶ÈÒôÀÖ£¬Ìıµ½¼«ÖÂ</span></div></div>
+<div class="con"><div><a href="http://liulanqi.baidu.com/" class="abg liulanqi" target="_blank"></a></div><div><a href="http://liulanqi.baidu.com/" target="_blank">°Ù¶Èä¯ÀÀÆ÷</a><br /><span>Ò»¿î¼ò½àÇá¿ìµÄĞÂä¯ÀÀÆ÷£¡</span></div></div>
+<div class="con"><div><a href="http://im.baidu.com/" class="abg attr_767" target="_blank"></a></div><div><a href="http://im.baidu.com/" target="_blank">°Ù¶Èhi</a><br /><span>¼òµ¥µÄÓëºÃÓÑÁÄÌì</span></div></div>
+<div class="con"><div><a href="http://shurufa.baidu.com/" class="abg ime" target="_blank"></a></div><div><a href="http://shurufa.baidu.com/" target="_blank">°Ù¶ÈÊäÈë·¨</a><br /><span>Á÷³©ÊäÈë£¬¸ü¶®ÖĞÎÄ</span></div></div>
+<div class="con"><div><a href="http://anquan.baidu.com/shadu" class="abg attr_774" target="_blank"></a></div><div><a href="http://anquan.baidu.com/shadu" target="_blank">°Ù¶ÈÉ±¶¾</a><br /><span>¸ü¿ì£¬¸ü°²È«</span></div></div>
+<div class="con"><div><a href="http://anquan.baidu.com/weishi" class="abg attr_785" target="_blank"></a></div><div><a href="http://anquan.baidu.com/weishi" target="_blank">°Ù¶ÈÎÀÊ¿</a><br /><span>¸ü¿ì£¬¸ü°²È«</span></div></div>
+<div class="con"><div><a href="http://wubi.baidu.com/" class="abg attr_791" target="_blank"></a></div><div><a href="http://wubi.baidu.com/" target="_blank">°Ù¶ÈÎå±ÊÊäÈë·¨</a><br /><span>°Ù¶ÈÎå±ÊÊäÈë·¨PC°æ</span></div></div>
+
+        <div class="cl"></div>
+
+        <!--ÆäËû·şÎñ-->
+        <h3 >ÆäËû·şÎñ</h3>
+<div class="con"><div><a href="http://gongyi.baidu.com/" class="abg gongyi" target="_blank"></a></div><div><a href="http://gongyi.baidu.com/" target="_blank">°Ù¶È¹«Òæ</a><br /><span>¹Ø×¢¹«Òæ£¬¹±Ï×Á¦Á¿</span></div></div>
+<div class="con"><div><a href="http://edu.baidu.com/ " class="abg yingxiao" target="_blank"></a></div><div><a href="http://edu.baidu.com/ " target="_blank">°Ù¶ÈÓªÏú´óÑ§</a><br /><span>»¥ÁªÍøÓªÏúÑ§Ï°Æ½Ì¨</span></div></div>
+<div class="con"><div><a href="http://sem.baidu.com/" class="abg attr_766" target="_blank"></a></div><div><a href="http://sem.baidu.com/" target="_blank">°Ù¶ÈÈÏÖ¤</a><br /><span>»¥ÁªÍøÓªÏúÖ°ÒµÈÏÖ¤</span></div></div>
+<div class="con"><div><a href="http://bim.baidu.com" class="abg attr_783" target="_blank"></a></div><div><a href="http://bim.baidu.com" target="_blank">°Ù¶ÈÓªÏúÑĞ¾¿Ôº</a><br /><span>ÈÃÉÌÒµ¾ö²ß¸ü¼òµ¥</span></div></div>
+<div class="con"><div><a href="http://trends.baidu.com/" class="abg attr_808" target="_blank"></a></div><div><a href="http://trends.baidu.com/" target="_blank">°Ù¶ÈÔ¤²â</a><br /><span>´óÊı¾İ£¬ÖªÌìÏÂ</span></div></div>
+
+        <div class="cl"></div>
+
+        
+
+
+      </div>
+    <div class="cl"></div>
+
+
+    </div>
+    <div class="footer">&copy; <!--2014-->2015 Baidu <a href="http://www.baidu.com/duty/" target="_blank">Ê¹ÓÃ°Ù¶ÈÇ°±Ø¶Á</a></div>
+<script type="text/javascript">var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F9f14aaa038bbba8b12ec2a4a3e51d254' type='text/javascript'%3E%3C/script%3E"));</script>
+
+<script>
+function G(id){
+	return document.getElementById(id);
+}
+function addEV(o, e, f){
+    if(window.attachEvent){
+        o.attachEvent("on" + e, f);
+    }else if(window.addEventListener){ 
+        o.addEventListener(e, f, false);
+    }
+}
+/*addEV(document, "click", function(e){
+    var e = e||window.event;
+    var tar = e.target || e.srcElement;
+    var btn = window.event ? e.button : e.which;
+    var tb_mr = G("tb_mr"), more = G("more");
+    while (tar && tar != document.body && tar.tagName.toLowerCase() != "html") {
+        if (tar == tb_mr) {
+            break;
+        }
+        tar = tar.parentNode;
+    }
+
+    if (tar != tb_mr) {
+        more.style.display = "none";
+    } else {
+        if (btn < 2) {more.style.display = more.style.display == "block" ? "none" : "block";}
+    }
+});*/
+</script>
+<script type="text/javascript"> 
+    (function () {
+        var maincon = document.getElementById("content");
+        var links = maincon.getElementsByTagName("a");
+        var len = links.length;
+        var host = ("https:" == document.location.protocol) ? "https://sp1.baidu.com/8qUJcD3n0sgCo2Kml5_Y_D3" : "http://nsclick.baidu.com";
+        for (var i = 0; i < len; i++) {
+            addEV(links[i], 'mousedown', request);
+        }
+        function request(e) {
+			var e = e || window.event;
+            var tar = e.target || e.srcElement;
+            if (tar.tagName.toLowerCase() == "img") {
+                tar = tar.parentNode;
+            }
+            var logurl = encodeURIComponent(tar.href);
+            var clicktxt = tar.innerHTML;
+            var img = window["BD_PS_SUG" + (+new Date())] = new Image();
+            img.src = host + "/v.gif?pid=306&pro=" + "more" +"&url=" + logurl +"&this=" + clicktxt + "&type=0" + "&t=" + (+new Date());
+        }
+    })();
+function nsclick(tab){
+	var p = encodeURIComponent(window.document.location.href), img = window["BD_PS_C" + (new Date()).getTime()] = new Image();
+	img.src = host + "/v.gif?pid=306&pj=more&tab=" + tab + "&path="+p+"&type=0" +"&t="+new Date().getTime();
+	return true;    
+	}
+</script>
+<script>
+(function(){
+	var homepage = "http://www.baidu.com/more/";
+	var isIE = navigator.userAgent.indexOf("MSIE")!=-1&&!window.opera;
+	var ran = Math.random() * 100;
+	if (isIE){
+		try {
+			var span = document.createElement("span");
+			span.style.behavior='url(#default#homepage)';
+			span.style.display='none';
+			document.body.appendChild(span);
+
+			var hpFlag = span.isHomePage(homepage);
+		
+			//Èç¹ûÎ´ÉèÖÃÔòÏÔÊ¾ÉèÖÃ°´Å¥
+			if (!hpFlag){
+				var seth = G("seth");
+				var help = G("help");
+				if (seth) {
+					seth.style.display = "inline";
+					help.style.marginLeft = 7+"px"; 
+				}
+			}
+		}catch(e){}
+	}
+})();
+</script>
+<script>
+(function(){
+    function getNode(){
+        var contents = [];
+        var childs = document.getElementById("content").childNodes;
+        var con = [];
+        for(var i in childs){
+            var tmp = childs[i];
+            if(tmp.nodeName && tmp.nodeName.toLowerCase() === 'h3' && con.length > 0){
+                contents.push(con);
+                con = [];
+            }else if(tmp.nodeName && tmp.nodeName.toLowerCase() === 'div' && tmp.className.toLowerCase().indexOf('con')!== -1){
+                con.push(tmp);
+            }
+        }
+        if(con.length > 0){
+            contents.push(con);
+        }
+        return contents;
+    }
+
+
+    var nodes = getNode();
+    for(var i in nodes){
+        for(var j in nodes[i]){
+            if( (parseInt(j) + 1) % 4 == 0){
+                nodes[i][j].className += ' con_last';
+            }
+        }
+    }
+    
+
+})();
+</script>
+<script src="//www.baidu.com/js/bdsug.js?v=1.0.3.0"></script>
+</body>
+</html>Date: Wed, 03 Jun 2015 08:12:53 GMT
+Server: lighttpd
+Content-Length: 2946
+Connection: close
+
+<html>
+<head>
+	<title>°Ù¶È--ÄúµÄ·ÃÎÊ³ö´íÁË</title>
+	<META http-equiv=content-type content="text/html; charset=gb2312">
+<style type="text/css">
+.p1 {
+	FONT-SIZE: 14px; LINE-HEIGHT: 24px; FONT-FAMILY: "ËÎÌå"
+}
+
+.f12 {
+	FONT-SIZE: 12px; LINE-HEIGHT: 20px
+}
+.p2 {
+	FONT-SIZE: 14px; LINE-HEIGHT: 24px; color: #333333
+}
+</style>
+<script type="text/javascript">
+function on_page_load(){
+    var year = (new Date()).getFullYear();
+	var copy = document.getElementById("copy");
+    copy.innerHTML = copy.innerHTML.replace("${year}", year);
+}
+</script>
+</head>
+<body text=#000000 vLink=#0033cc aLink=#800080 link=#0033cc bgColor=#ffffff 
+      topMargin=0 onload="javascript:on_page_load();">
+<center>
+<table width=650 border=0 align="center">
+  <tr height=60>
+    <td width=139 valign="top" height="66"><a href="http://passport.baidu.com"><img src="/img/logo.gif" border="0"></a></td>
+    <td valign="bottom" width="100%">
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr bgcolor="#e5ecf9">
+          <td height="24">&nbsp;<b class="p1">ÄúµÄ·ÃÎÊ³ö´íÁË</b></td>
+          <td height="24" class="p2">
+            <div align="right"><a  href="http://passport.baidu.com">°Ù¶ÈÊ×Ò³</a>  &nbsp;</div></td>
+        </tr>
+        <tr>
+          <td height="20" class="p2" colspan="2"></td>
+        </tr>
+    </table></td>
+  </tr>
+</table>
+<br>
+<table width=650 border=0 align="center" cellpadding=8 cellspacing=0>
+  <tr> 
+    <td  align=center><div align="left"><font face=arial size=+1><b>
+        ºÜ±§Ç¸£¬ÄúÒª·ÃÎÊµÄÒ³Ãæ²»´æÔÚ¡£<br>
+        <br>
+    </b></font></div></td>
+  </tr>
+  <tr> 
+    <td class="p1"><div align="left" class="style2"><span style="FONT-FAMILY: &quot;ËÎÌå&quot;" #invalid_attr_id="24px"><font face=arial>
+
+		<ol>
+		<li>Çë¼ì²éÄúÊäÈëµÄÍøÖ·ÊÇ·ñÕıÈ·¡£</li>
+		<li>Èç¹ûÄú²»ÄÜÈ·ÈÏÄúÊäÈëµÄÍøÖ·£¬Çëä¯ÀÀ<a href="http://passport.baidu.com/more/index.html">°Ù¶È¸ü¶à</a>Ò³Ãæ£¬À´²é¿´ÄúËùÒª·ÃÎÊµÄÍøÖ·¡£</li>
+		<li>Ö±½ÓÊäÈëÒª·ÃÎÊµÄÄÚÈİ½øĞĞËÑË÷£º</td>
+  </tr>
+  <tr> 
+    <td><table width="100%">
+          <TR> 
+            <TD>
+			<form name=f action=http://passport.baidu.com/s><input type=text name=wd class=ff size=35 maxlength=100><input type=hidden name=cl value=3><input type=hidden name=tn value=baiduerr><input type=submit value=°Ù¶ÈÒ»ÏÂ>
+			<br><br></form>
+			</TD>
+          </TR>
+      </table>
+</td>
+  </tr>
+  <tr> 
+    <td class="f12"><span class="p1">Èç»¹ÓĞÒÉÎÊÇë·ÃÎÊ<a href="http://passport.baidu.com/search/jiqiao.html">°Ù¶È°ïÖúÖĞĞÄ</a>»ñµÃ½â¾ö·½·¨,Ò²¿ÉÒÔÈ¥<a href="http://post.baidu.com/f?kw=%B0%D9%B6%C8">°Ù¶È°É</a>ÁôÏÂÄúµÄÒâ¼û»ò½¨Òé¡£</span></td>
+  </tr>
+  <tr> 
+    <td><div align="right"></div></td>
+  </tr>
+</table>
+<br>
+
+<BR>
+<TABLE width="750" align=center border=0>
+  <TR>
+    <TD class=p1 align=middle><FONT color=#666666 id="copy">&copy; ${year} Baidu</FONT> <A 
+      href="http://passport.baidu.com/duty/index.html"><FONT 
+      color=#666666>ÃâÔğÉùÃ÷</FONT></A></TD></TR></TABLE></BODY></HTML>
+Date: Thu, 18 Feb 2016 15:09:57 GMT
+P3p: CP=" OTI DSP COR IVA OUR IND COM "
+P3p: CP=" OTI DSP COR IVA OUR IND COM "
+P3p: CP=" OTI DSP COR IVA OUR IND COM "
+Server: Apache
+Set-Cookie: BAIDUID=DBBB89656F1EE76B1853608CC9892CE8:FG=1; expires=Fri, 17-Feb-17 15:09:57 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+Set-Cookie: BAIDUID=F640098DE788382046C02B92990A16C6:FG=1; expires=Fri, 17-Feb-17 15:09:57 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+Set-Cookie: BAIDUID=57CFE4018A9E75FE068768B2F897B5C9:FG=1; expires=Fri, 17-Feb-17 15:09:57 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+Tracecode: 05976312560289874954021823
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+
+<!DOCTYPE html>
+<!--STATUS OK-->
+<html>
+
+
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="description" content="ç™¾åº¦ç™¾ç§‘æ˜¯ä¸€éƒ¨å†…å®¹å¼€æ”¾ã€è‡ªç”±çš„ç½‘ç»œç™¾ç§‘å…¨ä¹¦ï¼Œæ—¨åœ¨åˆ›é€ ä¸€ä¸ªæ¶µç›–æ‰€æœ‰é¢†åŸŸçŸ¥è¯†ï¼ŒæœåŠ¡æ‰€æœ‰äº’è”ç½‘ç”¨æˆ·çš„ä¸­æ–‡çŸ¥è¯†æ€§ç™¾ç§‘å…¨ä¹¦ã€‚åœ¨è¿™é‡Œä½ å¯ä»¥å‚ä¸è¯æ¡ç¼–è¾‘ï¼Œåˆ†äº«è´¡çŒ®ä½ çš„çŸ¥è¯†ã€‚">
+<title>ç™¾åº¦ç™¾ç§‘_å…¨çƒæœ€å¤§ä¸­æ–‡ç™¾ç§‘å…¨ä¹¦</title>
+
+<meta itemprop="name" content="ç™¾åº¦ç™¾ç§‘_å…¨çƒæœ€å¤§ä¸­æ–‡ç™¾ç§‘å…¨ä¹¦">
+<meta itemprop="description" content="ç™¾åº¦ç™¾ç§‘æ˜¯ä¸€éƒ¨å†…å®¹å¼€æ”¾ã€è‡ªç”±çš„ç½‘ç»œç™¾ç§‘å…¨ä¹¦ï¼Œæ—¨åœ¨åˆ›é€ ä¸€ä¸ªæ¶µç›–æ‰€æœ‰é¢†åŸŸçŸ¥è¯†ï¼ŒæœåŠ¡æ‰€æœ‰äº’è”ç½‘ç”¨æˆ·çš„ä¸­æ–‡çŸ¥è¯†æ€§ç™¾ç§‘å…¨ä¹¦ã€‚åœ¨è¿™é‡Œä½ å¯ä»¥å‚ä¸è¯æ¡ç¼–è¾‘ï¼Œåˆ†äº«è´¡çŒ®ä½ çš„çŸ¥è¯†ã€‚">
+<meta itemprop="image" content="http://baike.bdimg.com/cms/static/baike.png">
+<script type="text/javascript">
+  void function(g,f,j,c,h,d,b){g.alogObjectName=h,g[h]=g[h]||function(){(g[h].q=g[h].q||[]).push(arguments)},g[h].l=g[h].l||+new Date,d=f.createElement(j),d.async=!0,d.src=c,b=f.getElementsByTagName(j)[0],b.parentNode.insertBefore(d,b)}(window,document,"script","http://img.baidu.com/hunter/alog/alog.min.js","alog");void function(){function c(){return;}window.PDC={mark:function(a,b){alog("speed.set",a,b||+new Date);alog.fire&&alog.fire("mark")},init:function(a){alog("speed.set","options",a)},view_start:c,tti:c,page_ready:c}}();void function(n){var o=!1;n.onerror=function(n,e,t,c){var i=!0;return!e&&/^script error/i.test(n)&&(o?i=!1:o=!0),i&&alog("exception.send","exception",{msg:n,js:e,ln:t,col:c}),!1},alog("exception.on","catch",function(n){alog("exception.send","exception",{msg:n.msg,js:n.path,ln:n.ln,method:n.method,flag:"catch"})})}(window);
+</script>
+
+<!--[if lte IE 9]>
+<script>
+    (function() {
+      var e = "abbr,article,aside,audio,canvas,datalist,details,dialog,eventsource,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(","),
+        i = e.length;
+      while (i--) {
+        document.createElement(e[i]);
+      }
+    })();
+  </script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-common/pkg/wiki-common-base_b07c8d7.css"/><link rel="stylesheet" type="text/css" href="http://baike.bdimg.com/static/wiki-home/pkg/wiki-home_2cb0795.css"/></head>
+
+<script type="text/javascript">
+    alog('speed.set', 'ht', +new Date);
+</script>
+
+<body class="w-var">
+
+<script type="text/javascript">
+    !function(){
+      var winWidth = window.innerWidth || document.documentElement && document.documentElement.clientWidth || 0,
+        pageWidth = 'SMALL';
+
+      // è·å– body å®½åº¦è®¾å®šã€‚
+          var pageWidthDef = {
+      SMALL: 980,
+      LARGE: 1180
+    };
+
+    if (winWidth >= 1280) {    // @media screen and (min-width: 1280px)
+      pageWidth = 'LARGE';
+    } else {                  // Default width.
+      pageWidth = 'SMALL';
+    }
+  
+
+      document.body.className += (' w-' + pageWidth.toLowerCase());
+    }();
+  </script>
+
+
+<div class="header-wrapper">
+<ul class="wgt-userbar">
+<li>
+<a href="http://www.baidu.com/">ç™¾åº¦é¦–é¡µ</a>
+</li>
+</ul>
+<div class="header">
+<div class="layout">
+<div class="wgt-searchbar wgt-searchbar-main cmn-clearfix">
+<div class="logo-container">
+<a class="logo cmn-inline-block" title="åˆ°ç™¾ç§‘é¦–é¡µ" href="/">
+<span class="cmn-baike-logo">
+<em class="cmn-icon cmn-icons cmn-icons_logo-bai"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-baike"></em>
+</span>
+</a>
+</div>
+<div class="search">
+<div class="nav">
+<a href="http://news.baidu.com/" data-href="http://news.baidu.com/ns?tn=news&cl=2&rn=20&ct=1&fr=bks0000&ie=utf-8&word=">æ–°é—»</a><a href="http://www.baidu.com/" data-href="http://www.baidu.com/s?ie=utf-8&fr=bks0000&wd=">ç½‘é¡µ</a><a href="http://tieba.baidu.com/" data-href="http://tieba.baidu.com/f?ie=utf-8&fr=bks0000&kw=">è´´å§</a><a href="http://zhidao.baidu.com/" data-href="http://zhidao.baidu.com/search?pn=0&&rn=10&lm=0&fr=bks0000&word=">çŸ¥é“</a><a href="http://music.baidu.com/" data-href="http://music.baidu.com/search?f=ms&ct=134217728&ie=utf-8&rn=&lm=-1&pn=30fr=bks0000&key=">éŸ³ä¹</a><a href="http://image.baidu.com/" data-href="http://image.baidu.com/search/index?tn=baiduimage&ct=201326592&lm=-1&cl=2&nc=1&ie=utf-8&word=">å›¾ç‰‡</a><a href="http://v.baidu.com/" data-href="http://v.baidu.com/v?ct=301989888&rn=20&pn=0&db=0&s=22&ie=utf-8&fr=bks0000&word=">è§†é¢‘</a><a href="http://map.baidu.com/" data-href="http://map.baidu.com/m?ie=utf-8&fr=bks0000&word=">åœ°å›¾</a><a class="baike">ç™¾ç§‘</a><a href="http://wenku.baidu.com/" data-href="http://wenku.baidu.com/search?lm=0&od=0&ie=utf-8&fr=bks0000&word=">æ–‡åº“</a>
+</div>
+<div class="form">
+<form id="searchForm" action="/search/word" method="GET" target="_self">
+<input id="query" name="word" type="text" autocomplete="off" autocorrect="off" value="" /><button id="search" type="button">è¿›å…¥è¯æ¡</button><button id="searchLemma" type="button">æœç´¢è¯æ¡</button><a class="help" href="/help" target="_blank">å¸®åŠ©</a>
+</form>
+<form id="searchLemmaForm" action="/search" method="GET" target="_self">
+<input id="searchLemmaQuery" name="word" type="hidden" />
+<input name="pn" type="hidden" value="0" />
+<input name="rn" type="hidden" value="0" />
+<input name="enc" type="hidden" value="utf8" />
+</form>
+<ul id="suggestion" class="suggestion">
+<div></div>
+<li class="extra">
+<span id="close">å…³é—­</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="navbar-wrapper" alog-group="navbar">
+<div class="wgt-navbar">
+<div class="navbar-bg">
+<div class="navbar-bg-top">
+<div class="navbar-content layout">
+<div class="navbar-content-box">
+<dl class="index on">
+<dt><a href="/">é¦–é¡µ</a></dt>
+</dl>
+<dl class="cat ">
+<dt><a>åˆ†ç±»</a></dt>
+<dd>
+<div><a href="/art" target="_blank" class="art">è‰ºæœ¯</a></div>
+<div><a href="/science" target="_blank" class="technology">ç§‘æŠ€</a></div>
+<div><a href="/ziran" target="_blank">è‡ªç„¶</a></div>
+<div><a href="/wenhua" target="_blank">æ–‡åŒ–</a></div>
+<div><a href="/dili" target="_blank">åœ°ç†</a></div>
+<div><a href="/shenghuo" target="_blank">ç”Ÿæ´»</a></div>
+<div><a href="/shehui" target="_blank">ç¤¾ä¼š</a></div>
+<div><a href="/renwu" target="_blank">äººç‰©</a></div>
+<div><a href="/jingji" target="_blank">ç»æµ</a></div>
+<div><a href="/tiyu" target="_blank">ä½“è‚²</a></div>
+<div><a href="/lishi" target="_blank">å†å²</a></div>
+</dd>
+</dl>
+<dl class="special ">
+<dt><a>ç‰¹è‰²ç™¾ç§‘</a></dt>
+<dd>
+<div><a href="/calendar/" target="_blank">å†å²ä¸Šçš„ä»Šå¤©</a></div>
+<div><a href="/museum/" target="_blank">æ•°å­—åšç‰©é¦†</a></div>
+<div><a href="/shiji/2015?fr=navbar" target="_blank">å²è®°Â·2015</a></div>
+<div><a href="/city/" target="_blank">åŸå¸‚ç™¾ç§‘</a></div>
+<div><a href="/operation/worldwar2" target="_blank">äºŒæˆ˜ç™¾ç§‘</a></div>
+<div><a href="/feiyi?fr=dhlfeiyi" target="_blank">éé—ç™¾ç§‘</a></div>
+</dd>
+</dl>
+<dl class="user" >
+<dt><a>ç”¨æˆ·</a></dt>
+<dd>
+<div><a href="/kedou/" target="_blank">èŒèšªå›¢</a></div>
+<div><a href="/event/ranmeng/" target="_blank">ç‡ƒæ¢¦è®¡åˆ’</a></div>
+<div><a href="/task/" target="_blank">ç™¾ç§‘ä»»åŠ¡</a></div>
+<div><a href="/mall/" target="_blank">ç™¾ç§‘å•†åŸ</a></div>
+</dd>
+</dl>
+<dl class="cooperation" >
+<dt><a>æƒå¨åˆä½œ</a></dt>
+<dd>
+<div><a href="/operation/cooperation#joint" target="_blank">åˆä½œæ¨¡å¼</a></div>
+<div><a href="/operation/cooperation#issue" target="_blank">å¸¸è§é—®é¢˜</a></div>
+<div><a href="/operation/cooperation#connection" target="_blank">è”ç³»æ–¹å¼</a></div>
+</dd>
+</dl>
+<dl class="mobile" >
+<dt><a>æ‰‹æœºç™¾ç§‘</a></dt>
+<dd>
+<div><a href="/m#download" target="_blank">å®¢æˆ·ç«¯</a></div>
+<div><a href="/m#wap" target="_blank">ç½‘é¡µç‰ˆ</a></div>
+</dd>
+</dl>
+<div class="usercenter">
+<div><a href="/usercenter" target="_blank"><em class="cmn-icon cmn-icons cmn-icons_navbar-usercenter"></em>ä¸ªäººä¸­å¿ƒ</a></div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="publicizing-wrapper" alog-group="publicizing">
+<div id="publicizing" class="">
+<div class="background">
+<ul>
+</ul>
+</div>
+<div class="layout">
+<div class="slides">
+<div class="viewport">
+<ul>
+<li class="wgt_carousel_aniUnit">
+<div class="card" alog-alias="publicizing-slide-0-card-0">
+<img src="http://baike.bdimg.com/cms/static/r/image/2016-02-18/8b650883c91ddad740e9e5ff5307ce63.jpg" />
+<div class="card_shd">
+<a href="http://baike.baidu.com/view/608105.htm" target="_blank"></a>
+</div>
+<div class="card_cnt">
+<div class="card_cnt_tit">
+<a href="http://baike.baidu.com/view/608105.htm" target="_blank">æ±Ÿè¥¿å¤šåœ°å‡ºç°â€œé±¼é³äº‘â€</a>
+</div>
+<div class="card_cnt_cnt">2æœˆ17æ—¥å‚æ™šï¼Œæ±Ÿè¥¿æ™¯å¾·é•‡å¸‚çš„å¤©ç©ºå‡ºç°ä¸€æ¡æ¡ç™½è‰²çš„å¸¦çŠ¶äº‘ã€‚è¿™ç§äº‘å«é€å…‰é«˜ç§¯äº‘ï¼Œååˆ†æœ‰è§„å¾‹åœ°æ’åˆ—ï¼Œå½¢ä¼¼é±¼é³ã€‚</div>
+</div>
+</div>
+<div class="card" alog-alias="publicizing-slide-0-card-1">
+<img src="http://baike.bdimg.com/cms/static/r/image/2016-02-18/59bacbabab93833ca62f6db3d1004661.jpg" />
+<div class="card_shd">
+<a href="http://baike.baidu.com/item/2%C2%B717%E5%AE%89%E5%8D%A1%E6%8B%89%E6%B1%BD%E8%BD%A6%E7%88%86%E7%82%B8%E4%BA%8B%E4%BB%B6" target="_blank"></a>
+</div>
+<div class="card_cnt">
+<div class="card_cnt_tit">
+<a href="http://baike.baidu.com/item/2%C2%B717%E5%AE%89%E5%8D%A1%E6%8B%89%E6%B1%BD%E8%BD%A6%E7%88%86%E7%82%B8%E4%BA%8B%E4%BB%B6" target="_blank">åœŸè€³å…¶é¦–éƒ½å‘ç”Ÿçˆ†ç‚¸æ¡ˆ</a>
+</div>
+<div class="card_cnt_cnt">2æœˆ17æ—¥å‚æ™šï¼ŒåœŸè€³å…¶é¦–éƒ½å®‰å¡æ‹‰å¸‚ä¸­å¿ƒå‘ç”Ÿæ±½è½¦çˆ†ç‚¸äº‹ä»¶ã€‚çˆ†ç‚¸é€ æˆè‡³å°‘28äººæ­»äº¡ã€61äººå—ä¼¤ï¼Œå—ä¼¤äººå‘˜è¢«é€å¾€åŒ»é™¢ã€‚</div>
+</div>
+</div>
+<div class="card" alog-alias="publicizing-slide-0-card-2">
+<img src="http://baike.bdimg.com/cms/static/r/image/2016-02-18/b5cfae448c39706a8043755738d525af.jpg" />
+<div class="card_shd">
+<a href="http://baike.baidu.com/view/5672756.htm" target="_blank"></a>
+</div>
+<div class="card_cnt">
+<div class="card_cnt_tit">
+<a href="http://baike.baidu.com/view/5672756.htm" target="_blank">æˆ‘çš„çƒ­æƒ…å°±åƒä¸€æŠŠç«ï¼</a>
+</div>
+<div class="card_cnt_cnt">å·¨èŸ¹åº§55Eè¡Œæ˜Ÿè¡¨é¢æ¸©åº¦å˜åŒ–æ€¥å‰§ï¼Œä¸¤å¹´é£™å‡3å€ã€‚å·¨èŸ¹åº§55eä½“ç§¯æ˜¯åœ°çƒçš„ä¸¤å€ï¼Œè¢«ç§°ä¸ºâ€œè¶…çº§åœ°çƒâ€ã€‚</div>
+</div>
+</div>
+</li>
+<li class="wgt_carousel_aniUnit">
+<div class="card" alog-alias="publicizing-slide-1-card-0">
+<img src="http://baike.bdimg.com/cms/static/r/image/2016-02-18/89c56cf2f7104eb9ed40fb4ccc13cc47.jpg" />
+<div class="card_shd">
+<a href="http://baike.baidu.com/view/434399.htm" target="_blank"></a>
+</div>
+<div class="card_cnt">
+<div class="card_cnt_tit">
+<a href="http://baike.baidu.com/view/434399.htm" target="_blank">ä¸æ»‘é›ªå±±æ»‘ç«å±±</a>
+</div>
+<div class="card_cnt_cnt">é©¬æ¥è¥¿äºšæ‘„å½±å¸ˆæ¥åˆ°å°å°¼å©†ç½—æ‘©ç«å±±ï¼ŒæŒ‘æˆ˜å¹¶è®°å½•äº†â€œæ»‘ç«å±±â€è¿‡ç¨‹ã€‚å©†ç½—æ‘©ç«å±±æ˜¯å¥‡ç‰¹çš„å¤§ç«å±±å¥—å°ç«å±±çš„ç»“æ„ã€‚</div>
+</div>
+</div>
+<div class="card" alog-alias="publicizing-slide-1-card-1">
+<img src="http://baike.bdimg.com/cms/static/r/image/2016-02-18/b84ee416d8176bfa12dc2c41463d1579.jpg" />
+<div class="card_shd">
+<a href="http://baike.baidu.com/subview/439645/15841213.htm" target="_blank"></a>
+</div>
+<div class="card_cnt">
+<div class="card_cnt_tit">
+<a href="http://baike.baidu.com/subview/439645/15841213.htm" target="_blank">æ‚¬èµä¸‡å…ƒæ±‚ç ´è¯‘</a>
+</div>
+<div class="card_cnt_cnt">æ¹–å—æ–‡ç‰©å±€è®¾ä¸€ä¸‡å…ƒæ‚¬èµï¼Œä»¥æ±‚ç ´è¯‘6æšå¤å°åº¦é‡‘å¸èƒŒé¢çš„é“­æ–‡ã€‚é“­æ–‡æ˜¯æŒ‡åˆ»åœ¨é‡‘çŸ³ä¸Šçš„æ–‡å­—ï¼Œæ˜¯åå¤æ–‡æ˜çš„ç‘°å®ã€‚</div>
+</div>
+</div>
+<div class="card" alog-alias="publicizing-slide-1-card-2">
+<img src="http://baike.bdimg.com/cms/static/r/image/2016-02-18/2cef1746554581cc83b2db35c426d616.png" />
+<div class="card_shd">
+<a href="http://baike.baidu.com/subview/76014/7997573.htm" target="_blank"></a>
+</div>
+<div class="card_cnt">
+<div class="card_cnt_tit">
+<a href="http://baike.baidu.com/subview/76014/7997573.htm" target="_blank">åƒæ ‘ä¸‡æ ‘æ¢…èŠ±å¼€</a>
+</div>
+<div class="card_cnt_cnt">èˆªæ‹å—äº¬ä¸œéƒŠæ¢…èŠ±å±±ï¼Œå§¹ç´«å«£çº¢çš„æ¢…èŠ±åˆ†å¤–å¦–å¨†ã€‚å—äº¬æ¢…èŠ±å±±æ¢…å›­ä»¥å“ç§å¥‡ç‰¹è‘—ç§°ï¼Œè¢«ç§°ä¸ºâ€œå¤©ä¸‹ç¬¬ä¸€æ¢…å±±â€ã€‚</div>
+</div>
+</div>
+</li>
+<li class="wgt_carousel_aniUnit">
+<div class="card" alog-alias="publicizing-slide-2-card-0">
+<img src="http://baike.bdimg.com/cms/static/r/image/2016-02-18/c8a99d34bed396e1b7f2589755e6d2c3.png" />
+<div class="card_shd">
+<a href="http://baike.baidu.com/subview/3464/4868528.htm" target="_blank"></a>
+</div>
+<div class="card_cnt">
+<div class="card_cnt_tit">
+<a href="http://baike.baidu.com/subview/3464/4868528.htm" target="_blank">è¢«â€œå°å°â€çš„è¿œå¤èŠ±æœµ</a>
+</div>
+<div class="card_cnt_cnt">ç”Ÿç‰©å­¦å®¶ä»1500ä¸‡å¹´å‰ç™½å©çºªç¥ç€ä¸­å‘ç°äº†å·²ç­ç»æ¤ç‰©çš„èŠ±æœµã€‚ç¥ç€æ˜¯ç”±æ¤ç‰©æ ‘è„‚æ»´è½ï¼Œæ©åŸ‹åœ¨åœ°ä¸‹åƒä¸‡å¹´çŸ³åŒ–å½¢æˆçš„ã€‚</div>
+</div>
+</div>
+<div class="card" alog-alias="publicizing-slide-2-card-1">
+<img src="http://baike.bdimg.com/cms/static/r/image/2016-02-18/846853313d15e492e2194e11316a512b.jpg" />
+<div class="card_shd">
+<a href="http://baike.baidu.com/item/%E5%9C%B0%E5%9D%91%E9%99%A2/1941378" target="_blank"></a>
+</div>
+<div class="card_cnt">
+<div class="card_cnt_tit">
+<a href="http://baike.baidu.com/item/%E5%9C%B0%E5%9D%91%E9%99%A2/1941378" target="_blank">è§æ ‘ä¸è§æ‘ï¼Œè§æ‘ä¸è§æˆ¿</a>
+</div>
+<div class="card_cnt_cnt">æ²³å—çœé™•å¿æœ‰ä»¤äººå¹ä¸ºè§‚æ­¢çš„æ°‘é—´å»ºç­‘å¥‡è¿¹åœ°å‘é™¢ã€‚åœ°å‘é™¢å·²æœ‰4000å¤šå¹´çš„å†å²ï¼Œè¢«ç§°ä¸ºåŒ—æ–¹çš„â€œåœ°ä¸‹å››åˆé™¢â€ã€‚</div>
+</div>
+</div>
+<div class="card" alog-alias="publicizing-slide-2-card-2">
+<img src="http://baike.bdimg.com/cms/static/r/image/2016-02-18/0de5ffd10239638754dc734f528f6bde.jpg" />
+<div class="card_shd">
+<a href="http://baike.baidu.com/view/11597533.htm" target="_blank"></a>
+</div>
+<div class="card_cnt">
+<div class="card_cnt_tit">
+<a href="http://baike.baidu.com/view/11597533.htm" target="_blank">å“ï¼è¿™å®¶ä¼™å¥½çŒ›</a>
+</div>
+<div class="card_cnt_cnt">æ¾³æ´²æ¸”å¤«å¾’æ‰‹æ•æ‰å‡¶çŒ›å¤§è™¾ã€‚æ–‘ç´è™¾è›„æ‹¥æœ‰åŠ¨ç‰©ä¸–ç•Œä¸­æœ€å¥½çš„è§†åŠ›ï¼Œå…¶çˆªå­æä¸ºé”‹åˆ©ï¼Œè¢«æ¸”æ°‘ç§°ä¸ºâ€œæ‰‹æŒ‡åˆ†ç¦»å™¨â€ã€‚</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="slides_pag"></div>
+<div class="slides_btn prev" data-skipTo="prev"><em class="cmn-icon cmn-icons cmn-icons_arrow-l"></em></div>
+<div class="slides_btn next" data-skipTo="next"><em class="cmn-icon cmn-icons cmn-icons_arrow-r"></em></div>
+</div><div class="statistics">
+<div class="decoration"></div>
+<div class="statistics_tit">
+<div class="logo wiki-home-slogan">ç™¾åº¦ç™¾ç§‘</div>
+<div class="slogan wiki-home-slogan">è®©äººç±»å¹³ç­‰åœ°è®¤è¯†ä¸–ç•Œ</div>
+</div>
+<table class="statistics_num">
+<tr>
+<td class="icon"><em class="cmn-icon wiki-home-icons wiki-home-icons_lemmas"></em></td>
+<td id="lemmaNum" class="number">00,000,000</td>
+<td class="word">ä¸ªè¯æ¡</td>
+</tr>
+<tr>
+<td class="icon"><em class="cmn-icon wiki-home-icons wiki-home-icons_edit"></em></td>
+<td id="editNum" class="number">0,000,000</td>
+<td class="word">æ¬¡ç¼–è¾‘</td>
+</tr>
+<tr>
+<td class="icon"><em class="cmn-icon wiki-home-icons wiki-home-icons_users"></em></td>
+<td id="userNum" class="number">0,000,000</td>
+<td class="word">äººç¼–å†™</td>
+</tr>
+</table>
+<a class="statistics_ply">
+<div class="icon"><em class="cmn-icon wiki-home-icons wiki-home-icons_play"></em></div>
+<div class="word">ä½ äº†è§£ç™¾ç§‘å—ï¼Ÿ<br/>ç‚¹å‡»æ’­æ”¾</div>
+</a>
+<div class="statistics_hlp">
+<span>?</span><a href="/user/question" target="_blank">ä½ åœ¨ç¼–è¾‘çš„è¿‡ç¨‹ä¸­é‡åˆ°å›°éš¾äº†å—ï¼Ÿ</a>
+</div>
+</div>
+</div>
+</div>
+<div id="player">
+<div class="viewport">
+</div>
+<div class="cover"></div>
+<div class="share">
+åˆ†äº«åˆ°&nbsp;<a href="http://service.weibo.com/share/share.php?url=http://www.iqiyi.com/w_19rso1lcnp.html&title=æ‚ä¹±æ— ç« ï¼Œæ‰€ä»¥è®°å½•ï¼›æµ©å¦‚çƒŸæµ·ï¼Œæ‰€ä»¥ä¼ æ‰¿ï¼›æ„ä¹‰éå‡¡ï¼Œæ‰€ä»¥åšæŒï¼›å¥¹æ˜¯ä¸€æœ¬â€œä¹¦â€ã€ä¸€æ®µå†ç¨‹ã€ä¸€ä¸ªç”Ÿå‘½...ç™¾åº¦ç™¾ç§‘å“ç‰Œè§†é¢‘å¸¦ä½ è§è¯ç™¾ç§‘èƒŒåçš„æ•…äº‹â†’http://baike.baidu.com&searchPic=false&pic=http://baike.baidu.com/cms/rc/shipinshipin.jpg&ralateUid=1647247597" target="_blank" class="weibo"><em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em></a>
+</div>
+<div class="close">
+<em class="cmn-icon cmn-icons cmn-icons_close"></em>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+  void function(e,t){for(var n=t.getElementsByTagName("img"),a=+new Date,i=[],o=function(){this.removeEventListener&&this.removeEventListener("load",o,!1),i.push({img:this,time:+new Date})},s=0;s< n.length;s++)!function(){var e=n[s];e.addEventListener?!e.complete&&e.addEventListener("load",o,!1):e.attachEvent&&e.attachEvent("onreadystatechange",function(){"complete"==e.readyState&&o.call(e,o)})}();alog("speed.set",{fsItems:i,fs:a})}(window,document);
+</script>
+<div class="contentArea-wrapper">
+<div class="layout">
+<div class="hotspot-container" alog-group="hotspot">
+<div id="hotLemmas" data-debug="true">
+<div class="title">
+<span class="title_tit"><h2>çƒ­æœè¯æ¡</h2></span>
+<span class="title_nav">
+<a class="show" data-time="today" href="javascript:void(0)">ä»Šå¤©</a><span class="split">|</span><a data-time="yesterday" href="javascript:void(0)">æ˜¨å¤©</a>
+</span>
+</div>
+<dl class="today content show">
+<dd class="large color-1">
+<a href="http://baike.baidu.com/view/8367398.htm" target="_blank">
+<div class="content_tit">
+<span>å¤©ä»·é±¼</span>
+<em class="cmn-icon wiki-home-icons wiki-home-icons_down"></em>
+</div>
+<div class="content_cnt">å“ˆå°”æ»¨â€œå¤©ä»·é±¼â€äº‹ä»¶ä¸€æ³¢ä¸‰æŠ˜ï¼Œåœ¨ç»å†äº†è¿ç»­â€œåè½¬â€ä¹‹åï¼Œâ€œå¤©ä»·é±¼â€é¥­åº—è¢«è´£ä»¤åœä¸šï¼Œäº‹ä»¶æ„ˆå‘å¼•èµ·å„ç•Œå…³æ³¨ã€‚</div>
+</a>
+</dd>
+<dd class="large color-2 minusTop">
+<a href="http://baike.baidu.com/subview/321440/8011344.htm" target="_blank">
+<div class="content_tit">
+<span>é˜è‚ƒ</span>
+<em class="cmn-icon wiki-home-icons wiki-home-icons_up"></em>
+</div>
+<div class="content_cnt">2æœˆ18æ—¥ä¸Šåˆ9ç‚¹ï¼Œè‘—åè‰ºæœ¯å®¶ã€ç©ºæ”¿æ–‡å·¥å›¢åˆ›ä½œå‘˜é˜è‚ƒçš„è¿½æ‚¼ä¼šåœ¨åŒ—äº¬å…«å®å±±ä¸¾è¡Œï¼Œç¤¾ä¼šå„ç•Œäººå£«å‰æ¥é€åˆ«ã€‚</div>
+</a>
+</dd>
+<dd class="medium color-3 minusTop">
+<a href="http://baike.baidu.com/item/Apple%20Pay" target="_blank">
+<div class="content_tit">
+<span>Apple Pay</span>
+<em class="cmn-icon wiki-home-icons wiki-home-icons_down"></em>
+</div>
+<div class="content_cnt">Apple Payåœ¨åå°†ä¸Šçº¿ï¼Œæˆ–éš¾æ…åŠ¨ä¸­å›½ç§»åŠ¨æ”¯ä»˜æ ¼å±€ã€‚</div>
+</a>
+</dd>
+<dd class="medium color-4 minusTop minusLeft">
+<a href="http://baike.baidu.com/view/1047721.htm" target="_blank">
+<div class="content_tit">
+<span>å†¯ç»å³°</span>
+<em class="cmn-icon wiki-home-icons wiki-home-icons_up"></em>
+</div>
+<div class="content_cnt">å†¯ç»å³°æ—å…å…±åº¦æ˜¥èŠ‚ï¼Œç”œèœœåŒå±…æ‹æƒ…åå®ã€‚</div>
+</a>
+</dd>
+<dd class="small color-4 minusTop">
+<a href="http://baike.baidu.com/item/%E5%A4%A9%E4%BB%B7%E5%BD%A9%E7%A4%BC" target="_blank">
+<div class="content_tit">
+<span>å¤©ä»·å½©ç¤¼</span>
+<em class="cmn-icon wiki-home-icons wiki-home-icons_up"></em>
+</div>
+</a>
+</dd>
+<dd class="small color-3 minusTop minusLeft">
+<a href="http://baike.baidu.com/item/%E7%BD%91%E7%BA%A2%E9%B9%85" target="_blank">
+<div class="content_tit">
+<span>ç½‘çº¢é¹…</span>
+<em class="cmn-icon wiki-home-icons wiki-home-icons_down"></em>
+</div>
+</a>
+</dd>
+<dd class="small color-3 minusTop">
+<a href="http://baike.baidu.com/subview/9514/15201085.htm" target="_blank">
+<div class="content_tit">
+<span>ç¾äººé±¼</span>
+<em class="cmn-icon wiki-home-icons wiki-home-icons_up"></em>
+</div>
+</a>
+</dd>
+<dd class="small color-4 minusTop minusLeft">
+<a href="http://baike.baidu.com/view/951450.htm" target="_blank">
+<div class="content_tit">
+<span>å¹½çµè››</span>
+<em class="cmn-icon wiki-home-icons wiki-home-icons_down"></em>
+</div>
+</a>
+</dd>
+</dl>
+<dl class="yesterday content ">
+<dd class="large color-1">
+<a href="http://baike.baidu.com/item/%E7%AC%AC58%E5%B1%8A%E6%A0%BC%E8%8E%B1%E7%BE%8E%E5%A5%96" target="_blank">
+<div class="content_tit">
+<span>ç¬¬58å±Šæ ¼è±ç¾å¥–</span>
+<em class="cmn-icon wiki-home-icons wiki-home-icons_up"></em>
+</div>
+<div class="content_cnt">2æœˆ16æ—¥ï¼Œç¬¬58å±Šæ ¼è±ç¾åœ¨æ´›æ‰çŸ¶ä¸¾è¡Œï¼Œä¼—å¤šå¥–é¡¹å‡ºç‚‰ã€‚æ³°å‹’Â·æ–¯å¨å¤«ç‰¹å”±ç‰‡ã€Š1989ã€‹æ‹¿åˆ°äº†ç«äº‰æœ€ä¸ºæ¿€çƒˆçš„â€œå¹´åº¦æœ€ä½³ä¸“è¾‘å¥–â€ã€‚</div>
+</a>
+</dd>
+<dd class="large color-2 minusTop">
+<a href="http://baike.baidu.com/item/2016%E5%B9%B4%E4%B8%AD%E5%A4%AE%E7%94%B5%E8%A7%86%E5%8F%B0%E5%85%83%E5%AE%B5%E6%99%9A%E4%BC%9A" target="_blank">
+<div class="content_tit">
+<span>2016å¹´å¤®è§†å…ƒå®µæ™šä¼š</span>
+<em class="cmn-icon wiki-home-icons wiki-home-icons_down"></em>
+</div>
+<div class="content_cnt">ä½œä¸ºå¤®è§†æ˜¥æ™šâ€œå§Šå¦¹æ™šä¼šâ€çš„å¤®è§†å…ƒå®µæ™šä¼šå¤šå¹´æ¥ä¸€ç›´æ˜¯å½•æ’­ï¼Œ2016å¹´åˆ™æœ‰æœ›é¦–åº¦æ”¹ä¸ºç›´æ’­ã€‚</div>
+</a>
+</dd>
+<dd class="medium color-3 minusTop">
+<a href="http://baike.baidu.com/view/8367398.htm" target="_blank">
+<div class="content_tit">
+<span>å¤©ä»·é±¼</span>
+<em class="cmn-icon wiki-home-icons wiki-home-icons_up"></em>
+</div>
+<div class="content_cnt">â€œå¤©ä»·é±¼â€å†èµ·æ³¢æ¾œï¼Œæ¶ˆè´¹è€…ç°èº«ç§°èœå•ç­¾å­—é€ å‡ã€‚</div>
+</a>
+</dd>
+<dd class="medium color-4 minusTop minusLeft">
+<a href="http://baike.baidu.com/view/15398.htm" target="_blank">
+<div class="content_tit">
+<span>æ±ªå³°</span>
+<em class="cmn-icon wiki-home-icons wiki-home-icons_down"></em>
+</div>
+<div class="content_cnt">æ±ªå³°æ–¥æ—§çˆ±æ¶æ„æ”»å‡»ç« å­æ€¡ï¼Œè¢«èµçœŸç”·äººã€‚</div>
+</a>
+</dd>
+<dd class="small color-4 minusTop">
+<a href="http://baike.baidu.com/view/3450226.htm" target="_blank">
+<div class="content_tit">
+<span>è‰ºæœ¯è”è€ƒ</span>
+<em class="cmn-icon wiki-home-icons wiki-home-icons_down"></em>
+</div>
+</a>
+</dd>
+<dd class="small color-3 minusTop minusLeft">
+<a href="http://baike.baidu.com/view/44095.htm" target="_blank">
+<div class="content_tit">
+<span>æ˜Ÿå·´å…‹å’–å•¡</span>
+<em class="cmn-icon wiki-home-icons wiki-home-icons_up"></em>
+</div>
+</a>
+</dd>
+<dd class="small color-3 minusTop">
+<a href="http://baike.baidu.com/view/66880.htm" target="_blank">
+<div class="content_tit">
+<span>é»„çƒ­ç—…</span>
+<em class="cmn-icon wiki-home-icons wiki-home-icons_down"></em>
+</div>
+</a>
+</dd>
+<dd class="small color-4 minusTop minusLeft">
+<a href="http://baike.baidu.com/view/59779.htm" target="_blank">
+<div class="content_tit">
+<span>å®¹ç¥–å„¿</span>
+<em class="cmn-icon wiki-home-icons wiki-home-icons_up"></em>
+</div>
+</a>
+</dd>
+</dl>
+</div>
+</div>
+<div class="character-container" alog-group="character">
+<div id="character">
+<div class="title">
+<h2>
+<a href="/vbaike" target="_blank" class="designation">Vç™¾ç§‘</a>
+<a href="/vbaike" target="_blank" class="more">æ›´å¤š ></a>
+</h2>
+</div>
+<dl class="content knowledge">
+<dd >
+<div class="article_tit">
+<span class="tip">å†·çŸ¥è¯†</span>
+<a href="http://baike.baidu.com/view/43171.htm" target="_blank" class="knowledge-title">ä¸ƒå¶ä¸€æèŠ±èƒ½è§£èœ‚æ¯’ï¼Ÿ</a>
+</div>
+<div class="article_cnt"
+        >
+<a href="http://baike.baidu.com/view/43171.htm" target="_blank">
+<img class="pic" src="http://f.hiphotos.baidu.com/baike/eWH%3D150%2C100/sign=5c630a01514e9258b45efbe3adb7e174/09fa513d269759ee682d82aeb5fb43166d22df52.jpg" />
+</a>
+<div class="article_cnt_cnt">
+<p class="text-con">çœ‹å®Œã€ŠèŠˆæœˆä¼ ã€‹ï¼Œæœ‰äººç–‘é—®ï¼šâ€œè¢«æ€äººèœ‚è›°äº†ï¼Œä¸ƒå¶ä¸€æèŠ±å¯ä»¥æ•‘äººä¸€å‘½ï¼Ÿâ€</p>
+</div>
+</div>
+<ul class="article_related">
+<a class="cmn-btn-hover-blue cmn-btn-28" href="http://baike.baidu.com/subview/48375/8462470.htm" target="_blank">èƒ¡èœ‚</a><a class="cmn-btn-hover-blue cmn-btn-28" href="http://baike.baidu.com/subview/40699/7921628.htm" target="_blank">æ€äººèœ‚</a><a class="cmn-btn-hover-blue cmn-btn-28" href="http://baike.baidu.com/view/101868.htm" target="_blank">ç™¾åˆç§‘</a></ul>
+</dd>
+<dd class="simple">
+<div class="article_tit">
+<span class="tip">å†·çŸ¥è¯†</span>
+<a href="http://baike.baidu.com/view/103433.htm" target="_blank" class="knowledge-title">èœ‚ç‹æµ†å¯ä»¥å¯¼è‡´æ€§æ—©ç†Ÿï¼Ÿ</a>
+</div>
+<div class="article_cnt"
+        >
+<a href="http://baike.baidu.com/view/103433.htm" target="_blank">
+<img class="pic" src="http://e.hiphotos.baidu.com/baike/eWH%3D150%2C100/sign=7739f1cbd658ccbf09d6c83728ed8c12/54fbb2fb43166d228bad4ded412309f79152d2f5.jpg" />
+</a>
+<div class="article_cnt_cnt">
+<p class="text-con">èœ‚ç‹æµ†é‡Œæœ‰æ¿€ç´ ï¼Œä¸åº”è¯¥ç»™å­©å­åƒï¼Œå®ƒä»¬ä¼šå¯¼è‡´æ€§æ—©ç†Ÿã€‚æœçœŸå¦‚æ­¤ï¼Ÿ</p>
+</div>
+</div>
+<ul class="article_related">
+<a class="cmn-btn-hover-blue cmn-btn-28" href="http://baike.baidu.com/view/129927.htm" target="_blank">å·¥èœ‚</a><a class="cmn-btn-hover-blue cmn-btn-28" href="http://baike.baidu.com/view/265196.htm" target="_blank">å…ç–«çƒè›‹ç™½</a><a class="cmn-btn-hover-blue cmn-btn-28" href="http://baike.baidu.com/view/129938.htm" target="_blank">èœ‚ç‹</a></ul>
+</dd>
+</dl>
+<dl class="content gallary">
+<span class="tip">å›¾è§£ç™¾ç§‘</span>
+<dd>
+<a href="/vbaike/detail?itemId=5973" target="_blank">
+<img src="http://f.hiphotos.baidu.com/baike/eWH%3D400%2C145/sign=5c46bb6ebf0e7bec31b07eec1b1e8914/b8014a90f603738dcc30a343b41bb051f819ec5d.jpg">
+</a>
+</dd>
+<span class="tip">å›¾è§£ç™¾ç§‘</span>
+<dd>
+<a href="/vbaike/detail?itemId=5974" target="_blank">
+<img src="">
+</a>
+</dd>
+<span class="tip">å›¾è§£ç™¾ç§‘</span>
+<dd>
+<a href="/vbaike/detail?itemId=5972" target="_blank">
+<img src="">
+</a>
+</dd>
+<span class="tip">å›¾è§£ç™¾ç§‘</span>
+<dd>
+<a href="/vbaike/detail?itemId=5971" target="_blank">
+<img src="http://a.hiphotos.baidu.com/baike/eWH%3D400%2C145/sign=ace3dd6f90dda144c86311bf8687e08e/5bafa40f4bfbfbed0b504f037ff0f736afc31f44.jpg">
+</a>
+</dd>
+<span class="tip">å›¾è§£ç™¾ç§‘</span>
+<dd>
+<a href="/vbaike/detail?itemId=5844" target="_blank">
+<img src="">
+</a>
+</dd>
+<span class="tip">å›¾è§£ç™¾ç§‘</span>
+<dd>
+<a href="/vbaike/detail?itemId=6016" target="_blank">
+<img src="">
+</a>
+</dd>
+</dl>
+</div></div>
+<div class="eventsOnHistory-container" alog-group="eventsOnHistory">
+<div id="eventsOnHistory">
+<div class="title">
+<span class="title_tit"><h2>å†å²ä¸Šçš„ä»Šå¤©</h2></span>
+<span class="title_mre"><a href="/calendar" target="_blank">æŸ¥çœ‹æ—¥å†<em class="cmn-icon cmn-icons cmn-icons_calendar"></em></a></span>
+</div>
+<div class="content">
+<div class="content_dpk">
+<a href="javascript:void(0)" class="btn pre"><em class="cmn-icon cmn-icons cmn-icons_arrow-l-2"></em></a>
+<a href="javascript:void(0)" class="btn nxt"><em class="cmn-icon cmn-icons cmn-icons_arrow-r-2"></em></a>
+<a href="/calendar" target="_blank"></a>
+</div>
+<dl class="content_evt">
+</dl>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="userArea-wrapper">
+<div class="layout">
+<div class="userCards-container" alog-group="userCards">
+<div id="userCards">
+<h2>ç™¾ç§‘ç”¨æˆ·</h2>
+<div class="card users">
+<div class="flip">
+<div class="back">
+<div class="back_uss">
+<div class="back_uss_tit">ç™¾ç§‘ç”¨æˆ·</div>
+<div class="back_uss_avt">
+<div class="avator selected" data-uid="1618288472" data-uname="ç‘¾å¹´è½2">
+<img data-name="ç‘¾å¹´è½2" src="http://himg.bdimg.com/sys/portrait/item/581fe791bee5b9b4e890bd327560.jpg?cdnversion=5906" />
+<div class="avator_shd"></div>
+</div>
+<div class="avator" data-uid="1678633539" data-uname="æ¨å¸†å‡ºæµ·è´è´">
+<img data-name="æ¨å¸†å‡ºæµ·è´è´" src="http://himg.bdimg.com/sys/portrait/item/43eae69da8e5b886e587bae6b5b7e8b49de8b49d0d64.jpg?cdnversion=0002" />
+<div class="avator_shd"></div>
+</div>
+<div class="avator" data-uid="1039149902" data-uname="youwei99922">
+<img data-name="youwei99922" src="http://himg.bdimg.com/sys/portrait/item/4e2b796f757765693939393232f03d.jpg?cdnversion=0018" />
+<div class="avator_shd"></div>
+</div>
+<div class="avator" data-uid="636577035" data-uname="12nm9">
+<img data-name="12nm9" src="http://himg.bdimg.com/sys/portrait/item/0b6531326e6d39f125.jpg?cdnversion=0036" />
+<div class="avator_shd"></div>
+</div>
+<div class="avator" data-uid="1118264482" data-uname="ç´«çƒŸ1988">
+<img data-name="ç´«çƒŸ1988" src="http://himg.bdimg.com/sys/portrait/item/a25ce7b4abe7839f31393838a742.jpg?cdnversion=0103" />
+<div class="avator_shd"></div>
+</div>
+<div class="avator" data-uid="163058885" data-uname="jill115">
+<img data-name="jill115" src="http://himg.bdimg.com/sys/portrait/item/c5146a696c6c313135b809.jpg?cdnversion=0125" />
+<div class="avator_shd"></div>
+</div>
+<div class="avator" data-uid="104889747" data-uname="å¤é£ä¹¦">
+<img data-name="å¤é£ä¹¦" src="http://himg.bdimg.com/sys/portrait/item/937de5a48fe9a38ee4b9a64006.jpg?cdnversion=0202" />
+<div class="avator_shd"></div>
+</div>
+<div class="avator" data-uid="138406614" data-uname="å‰å‰ç±³ç±³æ˜ŸçŒ«">
+<img data-name="å‰å‰ç±³ç±³æ˜ŸçŒ«" src="http://himg.bdimg.com/sys/portrait/item/d6eae59089e59089e7b1b3e7b1b3e6989fe78cab3f08.jpg?cdnversion=0145" />
+<div class="avator_shd"></div>
+</div>
+<div class="avator" data-uid="50288890" data-uname="å­¸æœƒâ€”å¿˜è¨˜">
+<img data-name="å­¸æœƒâ€”å¿˜è¨˜" src="http://himg.bdimg.com/sys/portrait/item/fa58e5adb8e69c83e28094e5bf98e8a898ff02.jpg?cdnversion=0250" />
+<div class="avator_shd"></div>
+</div>
+</div>
+</div>
+<div class="back_usi">
+<div class="back_usi_tit"></div>
+<div class="back_usi_lem"></div>
+<div class="back_usi_hnt">
+<div class="back_usi_hnt_cnt">
+<em class="back_usi_hnt_cnt_shd"></em>
+<div class="back_usi_hnt_cnt_tit">æƒ³è·Ÿä»–/å¥¹PKå—ï¼Ÿ</div>
+<div class="back_usi_hnt_cnt_cnt">åŠŸèƒ½å³å°†å¼€å¯â€¦</div>
+</div>
+</div>
+</div>
+</div><div class="front">
+<div class="front_abs">
+<div class="front_abs_tit">ç™¾ç§‘ç”¨æˆ·</div>
+<div class="front_abs_sbt">æœ€åºå¤§çš„è´¡çŒ®ç»„ç»‡</div>
+<dl class="front_abs_lbl">
+<dd></dd>
+<dt>è¶…è¿‡500ä¸‡ç¼–è¾‘ç”¨æˆ·</dt>
+<dd></dd>
+<dt>åä½œç¼–å†™é€¾1200ä¸‡è¯æ¡</dt>
+</dl>
+<div class="front_abs_rmk">
+å…±5743458äºº</div>
+</div>
+<div class="front_usi">
+<div class="front_usi_avt">
+<div class="front_usi_avt_flg">
+ä¼˜ç§€ç”¨æˆ·<em class="front_usi_avt_flg_tri"></em>
+</div>
+<img src="http://himg.bdimg.com/sys/portrait/item/581fe791bee5b9b4e890bd327560.jpg?cdnversion=5906" />
+</div>
+<div class="front_usi_nam">ç‘¾å¹´è½2</div>
+<div class="front_usi_lem">è¯æ¡ | ç‰¹è‰²è¯æ¡</div>
+</div>
+</div>
+</div>
+</div>
+<div class="card campus">
+<div class="flip">
+<div class="back">
+<div class="back_uss">
+<div class="back_uss_tit">ç™¾ç§‘æ ¡å›­</div>
+<div class="back_uss_avt">
+<div class="avator selected" data-uid="1395410980" data-uname="çŸ³çš„3æ¬¡æ–¹æ˜¯æˆ‘">
+<img data-name="çŸ³çš„3æ¬¡æ–¹æ˜¯æˆ‘" src="http://baike.bdimg.com/cms/static/shouye/1395410980.jpg" />
+<div class="avator_shd"></div>
+</div>
+<div class="avator" data-uid="746396875" data-uname="å¦–é­…205">
+<img data-name="å¦–é­…205" src="http://baike.bdimg.com/cms/static/shouye/746396875.jpg" />
+<div class="avator_shd"></div>
+</div>
+<div class="avator" data-uid="839442707" data-uname="Missç§‰ä¹”">
+<img data-name="Missç§‰ä¹”" src="http://baike.bdimg.com/cms/static/shouye/839442707.jpg" />
+<div class="avator_shd"></div>
+</div>
+<div class="avator" data-uid="736547077" data-uname="é£éœœé›ªé›¨é“">
+<img data-name="é£éœœé›ªé›¨é“" src="http://baike.bdimg.com/cms/static/shouye/736547077.jpg" />
+<div class="avator_shd"></div>
+</div>
+<div class="avator" data-uid="1750255686" data-uname="WLPersonallove">
+<img data-name="WLPersonallove" src="http://baike.bdimg.com/cms/static/shouye/1750255686.jpg" />
+<div class="avator_shd"></div>
+</div>
+<div class="avator" data-uid="2164504229" data-uname="ä¹ä¹ç‰›111">
+<img data-name="ä¹ä¹ç‰›111" src="http://baike.bdimg.com/cms/static/shouye/2164504229.jpg" />
+<div class="avator_shd"></div>
+</div>
+<div class="avator" data-uid="1000999207" data-uname="loveå†°æ¸…åŒ–è¶">
+<img data-name="loveå†°æ¸…åŒ–è¶" src="http://baike.bdimg.com/cms/static/shouye/1000999207.jpg" />
+<div class="avator_shd"></div>
+</div>
+<div class="avator" data-uid="227801798" data-uname="peihaoyang">
+<img data-name="peihaoyang" src="http://baike.bdimg.com/cms/static/shouye/227801798.jpg" />
+<div class="avator_shd"></div>
+</div>
+<div class="avator" data-uid="753948918" data-uname="æ˜Ÿé£ä½œæµªå°ç±³">
+<img data-name="æ˜Ÿé£ä½œæµªå°ç±³" src="http://baike.bdimg.com/cms/static/shouye/753948918.jpg" />
+<div class="avator_shd"></div>
+</div>
+</div>
+</div>
+<div class="back_usi">
+<div class="back_usi_tit"></div>
+<div class="back_usi_lem"></div>
+<div class="back_usi_hnt">
+<div class="back_usi_hnt_cnt">
+<em class="back_usi_hnt_cnt_shd"></em>
+<div class="back_usi_hnt_cnt_tit">æƒ³è·Ÿä»–/å¥¹PKå—ï¼Ÿ</div>
+<div class="back_usi_hnt_cnt_cnt">åŠŸèƒ½å³å°†å¼€å¯â€¦</div>
+</div>
+</div>
+</div>
+</div><div class="front">
+<div class="front_abs">
+<div class="front_abs_tit">ç™¾ç§‘æ ¡å›­</div>
+<div class="front_abs_sbt">æœ€æœ‰æ´»åŠ›çš„åœ¨æ ¡è´¡çŒ®è€…</div>
+<dl class="front_abs_lbl">
+<dd></dd>
+<dt>26ä¸‡ç‡ƒæ¢¦è®¡åˆ’ç”¨æˆ·</dt>
+<dd></dd>
+<dt>350å¤šä¸‡è¯æ¡è´¡çŒ®</dt>
+</dl>
+<div class="front_abs_rmk">
+è¦†ç›–2430æ‰€é«˜æ ¡</div>
+</div>
+<div class="front_usi">
+<div class="front_usi_avt">
+<div class="front_usi_avt_flg">
+ä¼˜ç§€å­¦ç”Ÿ<em class="front_usi_avt_flg_tri"></em>
+</div>
+<img src="http://baike.bdimg.com/cms/static/shouye/1395410980.jpg" />
+</div>
+<div class="front_usi_nam">çŸ³çš„3æ¬¡æ–¹æ˜¯æˆ‘</div>
+<div class="front_usi_lem">è¯æ¡ | ç‰¹è‰²è¯æ¡</div>
+</div>
+</div>
+</div>
+</div>
+<div class="card kedou">
+<div class="flip">
+<div class="back">
+<div class="back_uss">
+<div class="back_uss_tit">èŒèšªå›¢</div>
+<div class="back_uss_avt">
+<div class="avator selected" data-uid="1470701611" data-uname="æˆ‘æœ‰ä½ çš„å¥½äºº">
+<img data-name="æˆ‘æœ‰ä½ çš„å¥½äºº" src="http://himg.bdimg.com/sys/portrait/item/2b20e68891e69c89e4bda0e79a84e5a5bde4babaa957.jpg?cdnversion=0105" />
+<div class="avator_shd"></div>
+</div>
+<div class="avator" data-uid="614034802" data-uname="è”ºå·ç‹å®—ç›Š">
+<img data-name="è”ºå·ç‹å®—ç›Š" src="http://himg.bdimg.com/sys/portrait/item/726de894bae5b79ee78e8be5ae97e79b8a9924.jpg?cdnversion=0222" />
+<div class="avator_shd"></div>
+</div>
+<div class="avator" data-uid="84471760" data-uname="æƒ³è·Ÿæˆ‘ç©">
+<img data-name="æƒ³è·Ÿæˆ‘ç©" src="http://himg.bdimg.com/sys/portrait/item/d0efe683b3e8b79fe68891e78ea90805.jpg?cdnversion=0303" />
+<div class="avator_shd"></div>
+</div>
+<div class="avator" data-uid="248584267" data-uname="è²å°”æ™®æ–¯æ‰¹å‘éƒ¨">
+<img data-name="è²å°”æ™®æ–¯æ‰¹å‘éƒ¨" src="http://himg.bdimg.com/sys/portrait/item/4b18e88fb2e5b094e699aee696afe689b9e58f91e983a8d10e.jpg?cdnversion=1843" />
+<div class="avator_shd"></div>
+</div>
+<div class="avator" data-uid="242907012" data-uname="åº„é¾„">
+<img data-name="åº„é¾„" src="http://himg.bdimg.com/sys/portrait/item/8477e5ba84e9be847a0e.jpg?cdnversion=1859" />
+<div class="avator_shd"></div>
+</div>
+<div class="avator" data-uid="208475706" data-uname="117é˜¿æ¶›">
+<img data-name="117é˜¿æ¶›" src="http://himg.bdimg.com/sys/portrait/item/3a16313137e998bfe6b69b6d0c.jpg?cdnversion=1914" />
+<div class="avator_shd"></div>
+</div>
+<div class="avator" data-uid="986388993" data-uname="xyh9494">
+<img data-name="xyh9494" src="http://himg.bdimg.com/sys/portrait/item/011a78796839343934cb3a.jpg" />
+<div class="avator_shd"></div>
+</div>
+<div class="avator" data-uid="745071454" data-uname="moluand">
+<img data-name="moluand" src="http://himg.bdimg.com/sys/portrait/item/5ee36d6f6c75616e64682c.jpg" />
+<div class="avator_shd"></div>
+</div>
+<div class="avator" data-uid="836114198" data-uname="æˆ€æ„›æ™ºå¤šæ˜Ÿ">
+<img data-name="æˆ€æ„›æ™ºå¤šæ˜Ÿ" src="http://himg.bdimg.com/sys/portrait/item/1617e68880e6849be699bae5a49ae6989fd631.jpg" />
+<div class="avator_shd"></div>
+</div>
+</div>
+</div>
+<div class="back_usi">
+<div class="back_usi_tit"></div>
+<div class="back_usi_lem"></div>
+<div class="back_usi_hnt">
+<div class="back_usi_hnt_cnt">
+<em class="back_usi_hnt_cnt_shd"></em>
+<div class="back_usi_hnt_cnt_tit">æƒ³è·Ÿä»–/å¥¹PKå—ï¼Ÿ</div>
+<div class="back_usi_hnt_cnt_cnt">åŠŸèƒ½å³å°†å¼€å¯â€¦</div>
+</div>
+</div>
+</div>
+</div><div class="front">
+<div class="front_abs">
+<div class="front_abs_tit">èŒèšªå›¢</div>
+<div class="front_abs_sbt">æœ€æ ¸å¿ƒçš„è´¡çŒ®è€…</div>
+<dl class="front_abs_lbl">
+<dd></dd>
+<dt>ç²¾è‹± åˆ†äº« åä½œ</dt>
+<dd></dd>
+<dt>æ›´å¤šæƒåŠ› æ›´å¤šèŒè´£</dt>
+</dl>
+<div class="front_abs_rmk">
+å…±356ä¸ªèŒèšª</div>
+</div>
+<div class="front_usi">
+<div class="front_usi_avt">
+<div class="front_usi_avt_flg">
+ä¼˜ç§€èŒèšª<em class="front_usi_avt_flg_tri"></em>
+</div>
+<img src="http://himg.bdimg.com/sys/portrait/item/2b20e68891e69c89e4bda0e79a84e5a5bde4babaa957.jpg?cdnversion=0105" />
+</div>
+<div class="front_usi_nam">æˆ‘æœ‰ä½ çš„å¥½äºº</div>
+<div class="front_usi_lem">è¯æ¡ | ç‰¹è‰²è¯æ¡</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="userFeeds-container" alog-group="userFeeds">
+<div id="userFeeds">
+<h2>ç”¨æˆ·åŠ¨æ€</h2>
+<div id="viewport">
+<dl class="feeds">
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/%E9%9D%92%E6%98%A5%E6%9F%93%E6%8C%87778?from=wk" target="_blank">é’æ˜¥æŸ“æŒ‡778</a>&nbsp;å‚ä¸&nbsp;<a class="sub" href="/task/201617" target="_blank">å®Œå–„æ¦‚è¿°ç¬¬åæœŸ</a>&nbsp;ä»»åŠ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/DK%E7%86%9911?from=wk" target="_blank">DKç†™11</a>&nbsp;å‚ä¸&nbsp;<a class="sub" href="/task/201607" target="_blank">æ–‡å­¦ç‰¹è‰²ï¼ˆç¬¬26æœŸï¼‰</a>&nbsp;ä»»åŠ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/%E6%84%BF%E5%92%B8%E4%B8%8E%E6%81%92?from=wk" target="_blank">æ„¿å’¸ä¸æ’</a>&nbsp;ç¼–è¾‘&nbsp;<a class="sub" href="/view/1038003.htm" target="_blank">å·´åˆ«å¡”ä¹‹çŠ¬</a>&nbsp;æˆä¸ºç‰¹è‰²è¯æ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/%E7%99%BD%E8%8F%9C276?from=wk" target="_blank">ç™½èœ276</a>&nbsp;å‚ä¸&nbsp;<a class="sub" href="/task/201617" target="_blank">å®Œå–„æ¦‚è¿°ç¬¬åæœŸ</a>&nbsp;ä»»åŠ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/%E5%96%9C%E6%9E%81%E6%B3%B0%E8%8E%B1?from=wk" target="_blank">å–œææ³°è±</a>&nbsp;å‚ä¸&nbsp;<a class="sub" href="/task/201617" target="_blank">å®Œå–„æ¦‚è¿°ç¬¬åæœŸ</a>&nbsp;ä»»åŠ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/DK%E7%86%9911?from=wk" target="_blank">DKç†™11</a>&nbsp;å‚ä¸&nbsp;<a class="sub" href="/task/20724" target="_blank">åˆä¼˜ç”³è¯·ä»»åŠ¡</a>&nbsp;ä»»åŠ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/Eternal%E6%81%92%E6%84%BD?from=wk" target="_blank">Eternalæ’æ„½</a>&nbsp;ç¼–è¾‘&nbsp;<a class="sub" href="/view/269057.htm" target="_blank">æ¨ª</a>&nbsp;è¯æ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/%E2%80%B3%E5%81%B6%E7%88%BE%E7%AA%92%E6%81%AF?from=wk" target="_blank">â€³å¶çˆ¾çª’æ¯</a>&nbsp;å‚ä¸&nbsp;<a class="sub" href="/task/201585" target="_blank">ä»»åŠ¡å¸®æ—¥å¸¸ä»»åŠ¡04</a>&nbsp;ä»»åŠ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/lgze974?from=wk" target="_blank">lgze974</a>&nbsp;å‚ä¸&nbsp;<a class="sub" href="/task/201604" target="_blank">å®Œå–„æ™¯ç‚¹æ¦‚è¿°å›¾ç¬¬ä¸‰æ³¢</a>&nbsp;ä»»åŠ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/%E5%BF%B5%E6%80%9D%E7%9A%84%E9%82%A3%E4%B8%AA%E5%A5%B9?from=wk" target="_blank">å¿µæ€çš„é‚£ä¸ªå¥¹</a>&nbsp;ç¼–è¾‘&nbsp;<a class="sub" href="/view/17812640.htm" target="_blank">çº¿æ€§å…‰</a>&nbsp;è¯æ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/%E5%AD%A4%E6%98%9F%E6%B3%AA434?from=wk" target="_blank">å­¤æ˜Ÿæ³ª434</a>&nbsp;å‚ä¸&nbsp;<a class="sub" href="/task/201587" target="_blank">å¸®&amp;ä¹¦ç±ç±»è¯æ¡æ•´ç†2</a>&nbsp;ä»»åŠ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/%E5%B0%8F%E6%B5%AA%E8%8A%B1%E6%9C%B5%E6%9C%B5%E5%BC%80?from=wk" target="_blank">å°æµªèŠ±æœµæœµå¼€</a>&nbsp;ç¼–è¾‘&nbsp;<a class="sub" href="/view/12585493.htm" target="_blank">ç½‚èŠ±æ®‡</a>&nbsp;è¯æ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/%E6%B2%90%E4%B9%8B%E5%95%A8myth?from=wk" target="_blank">æ²ä¹‹å•¨myth</a>&nbsp;ç¼–è¾‘&nbsp;<a class="sub" href="/view/13346447.htm" target="_blank">å¤©é¹…ç»’å¥³å£°</a>&nbsp;è¯æ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/%E6%B2%90%E4%B9%8B%E5%95%A8myth?from=wk" target="_blank">æ²ä¹‹å•¨myth</a>&nbsp;å‚ä¸&nbsp;<a class="sub" href="/task/200985" target="_blank">æ˜æ˜Ÿå½±è§†éŸ³ä¹ç‰¹è‰²é•¿æœŸ</a>&nbsp;ä»»åŠ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/%E5%B0%8F%E6%B5%AA%E8%8A%B1%E6%9C%B5%E6%9C%B5%E5%BC%80?from=wk" target="_blank">å°æµªèŠ±æœµæœµå¼€</a>&nbsp;ç¼–è¾‘&nbsp;<a class="sub" href="/view/12572258.htm" target="_blank">ç´«å¤œæ˜Ÿè‰</a>&nbsp;è¯æ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/%E5%B0%8F%E6%B5%AA%E8%8A%B1%E6%9C%B5%E6%9C%B5%E5%BC%80?from=wk" target="_blank">å°æµªèŠ±æœµæœµå¼€</a>&nbsp;ç¼–è¾‘&nbsp;<a class="sub" href="/view/12606557.htm" target="_blank">æ°´äº‘ç </a>&nbsp;è¯æ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/%E5%B0%8F%E6%B5%AA%E8%8A%B1%E6%9C%B5%E6%9C%B5%E5%BC%80?from=wk" target="_blank">å°æµªèŠ±æœµæœµå¼€</a>&nbsp;ç¼–è¾‘&nbsp;<a class="sub" href="/view/12578726.htm" target="_blank">å®šä¸–çœŸä¹</a>&nbsp;è¯æ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/%E6%B2%90%E4%B9%8B%E5%95%A8myth?from=wk" target="_blank">æ²ä¹‹å•¨myth</a>&nbsp;ç¼–è¾‘&nbsp;<a class="sub" href="/subview/393208/17409287.htm" target="_blank">å¿µå¿µ</a>&nbsp;è¯æ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/%E5%B0%8F%E6%B5%AA%E8%8A%B1%E6%9C%B5%E6%9C%B5%E5%BC%80?from=wk" target="_blank">å°æµªèŠ±æœµæœµå¼€</a>&nbsp;ç¼–è¾‘&nbsp;<a class="sub" href="/view/12573384.htm" target="_blank">å‰©å¥³è±ªé—¨æ‹ï¼šæ€§æ„Ÿä¸‰å</a>&nbsp;è¯æ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/%E5%93%86%E5%95%A6a%E6%A2%A6%E4%B8%8E%E5%A4%A7%E9%9B%848?from=wk" target="_blank">å“†å•¦aæ¢¦ä¸å¤§é›„8</a>&nbsp;ç¼–è¾‘&nbsp;<a class="sub" href="/view/18388366.htm" target="_blank">å¯å¿µä¸å¯è¯´</a>&nbsp;è¯æ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/1029%E8%8B%A5?from=wk" target="_blank">1029è‹¥</a>&nbsp;ç¼–è¾‘&nbsp;<a class="sub" href="/view/9499737.htm" target="_blank">å¦‚æœçˆ±èƒ½å¤Ÿæœ‰è½®å›</a>&nbsp;è¯æ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/%E5%AD%A4%E6%98%9F%E6%B3%AA434?from=wk" target="_blank">å­¤æ˜Ÿæ³ª434</a>&nbsp;å‚ä¸&nbsp;<a class="sub" href="/task/201586" target="_blank">å¸®&amp;ç›®å½•æ•´ç†07</a>&nbsp;ä»»åŠ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/1029%E8%8B%A5?from=wk" target="_blank">1029è‹¥</a>&nbsp;ç¼–è¾‘&nbsp;<a class="sub" href="/view/14198438.htm" target="_blank">æ™®å‰å²›çš‡å®¶å¡é©¬æ‹‰å…¬å¯“</a>&nbsp;è¯æ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/jill115?from=wk" target="_blank">jill115</a>&nbsp;ç¼–è¾‘&nbsp;<a class="sub" href="/view/14196600.htm" target="_blank">Isabella Rose Yacht : IR1311</a>&nbsp;è¯æ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/jill115?from=wk" target="_blank">jill115</a>&nbsp;ç¼–è¾‘&nbsp;<a class="sub" href="/view/14194878.htm" target="_blank">æµ·ä¼Šæ ¼é’å¹´æ—…èˆ</a>&nbsp;è¯æ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/andyfancygaga?from=wk" target="_blank">andyfancygaga</a>&nbsp;ç¼–è¾‘&nbsp;<a class="sub" href="/subview/4323654/6340198.htm" target="_blank">Born This Way</a>&nbsp;è¯æ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/%E6%9C%BD%E6%9C%A8%E5%93%89%E7%99%BD?from=wk" target="_blank">æœ½æœ¨å“‰ç™½</a>&nbsp;ç¼–è¾‘&nbsp;<a class="sub" href="/view/7089865.htm" target="_blank">music essay their rooms</a>&nbsp;è¯æ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/%E6%88%91%E6%83%B3%E7%9F%A5%E9%81%93%E5%90%8D%E5%AD%977?from=wk" target="_blank">æˆ‘æƒ³çŸ¥é“åå­—7</a>&nbsp;ç¼–è¾‘&nbsp;<a class="sub" href="/view/7759455.htm" target="_blank">é•¿æ²™æ™®æµåŒ»é™¢</a>&nbsp;è¯æ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/py81?from=wk" target="_blank">py81</a>&nbsp;ç¼–è¾‘&nbsp;<a class="sub" href="/view/7757785.htm" target="_blank">çƒŸå°ç¾è”ä¼ä¸šç™»è®°ä»£ç†æœ‰é™å…¬å¸</a>&nbsp;è¯æ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/%E6%B4%AA%E6%9D%91139?from=wk" target="_blank">æ´ªæ‘139</a>&nbsp;ç¼–è¾‘&nbsp;<a class="sub" href="/view/2051241.htm" target="_blank">ç‹ä½é•‡</a>&nbsp;è¯æ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/py81?from=wk" target="_blank">py81</a>&nbsp;ç¼–è¾‘&nbsp;<a class="sub" href="/view/7864196.htm" target="_blank">çŸ³å®¶åº„æ¥šå¤©ç”µæ°”æœ‰é™å…¬å¸</a>&nbsp;è¯æ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/%E9%9D%92%E6%98%A5%E6%9F%93%E6%8C%87778?from=wk" target="_blank">é’æ˜¥æŸ“æŒ‡778</a>&nbsp;ç¼–è¾‘&nbsp;<a class="sub" href="/view/16648600.htm" target="_blank">æœæ˜“é‚®ä»¶åœ°å€æ‰«æå™¨EmailScanner</a>&nbsp;è¯æ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/%E9%9D%92%E6%98%A5%E6%9F%93%E6%8C%87778?from=wk" target="_blank">é’æ˜¥æŸ“æŒ‡778</a>&nbsp;ç¼–è¾‘&nbsp;<a class="sub" href="/view/16648662.htm" target="_blank">æœè‹¹æœPCå®¢æˆ·ç«¯</a>&nbsp;è¯æ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/%E9%9D%92%E6%98%A5%E6%9F%93%E6%8C%87778?from=wk" target="_blank">é’æ˜¥æŸ“æŒ‡778</a>&nbsp;ç¼–è¾‘&nbsp;<a class="sub" href="/view/16647697.htm" target="_blank">è¿…é£ç½‘ç»œå½±é™¢</a>&nbsp;è¯æ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/%E9%9D%92%E6%98%A5%E6%9F%93%E6%8C%87778?from=wk" target="_blank">é’æ˜¥æŸ“æŒ‡778</a>&nbsp;ç¼–è¾‘&nbsp;<a class="sub" href="/view/16650211.htm" target="_blank">å¾®æœºç¼–ç­ç³»ç»Ÿ</a>&nbsp;è¯æ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/%E9%9D%92%E6%98%A5%E6%9F%93%E6%8C%87778?from=wk" target="_blank">é’æ˜¥æŸ“æŒ‡778</a>&nbsp;ç¼–è¾‘&nbsp;<a class="sub" href="/view/16647548.htm" target="_blank">å¾®ç›˜windowså®¢æˆ·ç«¯</a>&nbsp;è¯æ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/%E9%9D%92%E6%98%A5%E6%9F%93%E6%8C%87778?from=wk" target="_blank">é’æ˜¥æŸ“æŒ‡778</a>&nbsp;ç¼–è¾‘&nbsp;<a class="sub" href="/view/16647733.htm" target="_blank">å¿«ä¹ååˆ†èµ¢å½©ä¸“å®¶</a>&nbsp;è¯æ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/%E9%9D%92%E6%98%A5%E6%9F%93%E6%8C%87778?from=wk" target="_blank">é’æ˜¥æŸ“æŒ‡778</a>&nbsp;ç¼–è¾‘&nbsp;<a class="sub" href="/view/16649033.htm" target="_blank">å¿«é±¼å½±éŸ³ç›’2010</a>&nbsp;è¯æ¡</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/%E5%BD%92%E5%88%9Dbegin?from=wk" target="_blank">å½’åˆbegin</a>&nbsp;åœ¨å•†åŸç§’æ€å¾—åˆ°&nbsp;<a class="sub" href="/mall/item?id=3220" target="_blank">æ˜¥èŠ‚æ ¡å›­æ ‡ç­¾èµ›</a>
+</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/ss3237722?from=wk" target="_blank">ss3237722</a>&nbsp;åœ¨å•†åŸç§’æ€å¾—åˆ°&nbsp;<a class="sub" href="/mall/item?id=3220" target="_blank">æ˜¥èŠ‚æ ¡å›­æ ‡ç­¾èµ›</a>
+</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/Suenhine?from=wk" target="_blank">Suenhine</a>&nbsp;åœ¨å•†åŸç§’æ€å¾—åˆ°&nbsp;<a class="sub" href="/mall/item?id=3220" target="_blank">æ˜¥èŠ‚æ ¡å›­æ ‡ç­¾èµ›</a>
+</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/%E5%95%8A%E7%9A%84%E9%81%93%E5%BE%B7?from=wk" target="_blank">å•Šçš„é“å¾·</a>&nbsp;åœ¨å•†åŸç§’æ€å¾—åˆ°&nbsp;<a class="sub" href="/mall/item?id=3220" target="_blank">æ˜¥èŠ‚æ ¡å›­æ ‡ç­¾èµ›</a>
+</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/ZYZ%E5%B7%B4%E8%90%A8?from=wk" target="_blank">ZYZå·´è¨</a>&nbsp;åœ¨å•†åŸå…‘æ¢å¾—åˆ°&nbsp;<a class="sub" href="/mall/item?id=3235" target="_blank">é‡‘å£«é¡¿32Gå­˜å‚¨å¡</a>
+</div>
+</div>
+</dd>
+<dd class="wgt_marquee_unit">
+<div class="time"></div>
+<div class="content">
+<div class="content_cnt">
+<a class="user" href="http://www.baidu.com/p/%E7%AB%AF%E6%9C%A8%E9%9B%B7%E9%A3%8E?from=wk" target="_blank">ç«¯æœ¨é›·é£</a>&nbsp;åœ¨å•†åŸç§’æ€å¾—åˆ°&nbsp;<a class="sub" href="/mall/item?id=3237" target="_blank">è”æƒ³ newifi</a>
+</div>
+</div>
+</dd>
+</dl>
+</div>
+<div class="operations">
+<h2>æˆ‘æ¥è¯•è¯•</h2>
+<div class="operations_abs">ç™¾åº¦ç™¾ç§‘æ˜¯ä¼—äººå‚ä¸å¯åä½œçš„ç½‘ç»œç™¾ç§‘å…¨ä¹¦ï¼Œæ— è®ºæ˜¯åˆ›å»ºè¯æ¡ã€ç¼–è¾‘ç°æœ‰è¯æ¡ï¼Œæ‚¨éƒ½å¯ä»¥äº²æ‰‹ä¸ºç™¾åº¦ç™¾ç§‘ä½œå‡ºè´¡çŒ®ã€‚</div>
+<div class="operations_btn">
+<a href="/page/createindex" target="_blank" class="opeations_btn_create"><em class="cmn-icon wiki-home-icons wiki-home-icons_user-create"></em>åˆ›å»ºè¯æ¡</a>
+<a href="/uc/recommend/" target="_blank" class="opeations_btn_modify"><em class="cmn-icon wiki-home-icons wiki-home-icons_user-modify"></em>å®Œå–„è¯æ¡</a>
+<a href="/task" target="_blank" class="opeations_btn_task"><em class="cmn-icon cmn-icons cmn-icons_task"></em>å‚åŠ ä»»åŠ¡</a>
+<a href="/mall/" target="_blank" class="opeations_btn_award"><em class="cmn-icon cmn-icons cmn-icons_award"></em>å…‘æ¢å¥–å“</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="adArea-wrapper">
+<div class="layout">
+<div class="picAds-container" alog-group="picAds">
+</div>
+<div class="textAds-container" alog-group="textAds">
+</div>
+</div>
+</div>
+<div class="featureArea-wrapper">
+<div class="layout">
+<div class="fancyCategories-container" alog-group="fancyCategories"><div id="fancyCategories">
+<div id="viewport">
+<ul>
+<li class="category wgt_marquee_unit" alog-alias="fancyCategories-card-0">
+<a href="http://baike.baidu.com/museum/dbsfdxdbmzms" target="_blank">
+<img src="http://baike.baidu.com/cms/rc/r/image/2015-08-12/015e434e0b8208eefb95dc7fbfc854b4.jpg" />
+<div class="category_tit">æ•°å­—åšç‰©é¦†</div>
+<div class="category_des">ä¸œåŒ—æ°‘æ—æ°‘ä¿—åšç‰©é¦†<br/>æ¢è¿¹åˆ«æ ·ä¸œåŒ—é£æƒ…</div>
+<span class="category_lnk" target="_blank">æŸ¥çœ‹è¯¦æƒ…</span>
+</a></li>
+<li class="category wgt_marquee_unit" alog-alias="fancyCategories-card-1">
+<a href="http://baike.baidu.com/science" target="_blank">
+<img src="http://baike.bdimg.com/cms/static/museum/kejibanner.jpg" />
+<div class="category_tit">ç§‘å­¦ç™¾ç§‘</div>
+<div class="category_des">æºæ‰‹ä¸­å›½ç§‘å<br/>æ‰“é€ æƒå¨ç§‘æ™®å¹³å°</div>
+<span class="category_lnk" target="_blank">æŸ¥çœ‹è¯¦æƒ…</span>
+</a></li>
+<li class="category wgt_marquee_unit" alog-alias="fancyCategories-card-2">
+<a href="http://baike.baidu.com/feiyi" target="_blank">
+<img src="http://baike.bdimg.com/cms/static/museum/feiyibanner.jpg" />
+<div class="category_tit">éé—ç™¾ç§‘</div>
+<div class="category_des">è§¦æ‘¸åƒå¹´åå¤æ–‡è„‰<br/>èšç„¦ä»Šæœæ–‡åŒ–ä¼ æ‰¿</div>
+<span class="category_lnk" target="_blank">æŸ¥çœ‹è¯¦æƒ…</span>
+</a></li>
+<li class="category wgt_marquee_unit" alog-alias="fancyCategories-card-3">
+<a href="http://baike.baidu.com/art" target="_blank">
+<img src="http://baike.bdimg.com/cms/static/museum/yishubanner.jpg" />
+<div class="category_tit">è‰ºæœ¯ç™¾ç§‘</div>
+<div class="category_des">å…³æ³¨è‰ºæœ¯å‰æ²¿åŠ¨æ€<br/>é‡è§çœŸ å‘ç°ç¾</div>
+<span class="category_lnk" target="_blank">æŸ¥çœ‹è¯¦æƒ…</span>
+</a></li>
+<li class="category wgt_marquee_unit" alog-alias="fancyCategories-card-4">
+<a href="http://baike.baidu.com/tese/" target="_blank">
+<img src="http://baike.baidu.com/cms/rc/r/image/2014-10-14/683bf61a0908f919e964feb1d44c842c.jpg" />
+<div class="category_tit">ç‰¹è‰²è¯æ¡</div>
+<div class="category_des">ç”±ç™¾ç§‘ç²¾è‹±ç”¨æˆ·ç¼–å†™<br/>é›†è¶£å‘³ä¸ä¸¥è°¨äºä¸€èº«
+</div>
+<span class="category_lnk" target="_blank">æŸ¥çœ‹è¯¦æƒ…</span>
+</a></li>
+<li class="category wgt_marquee_unit" alog-alias="fancyCategories-card-5">
+<a href="http://baike.baidu.com/item/ä¼Šåˆ©å…¨çƒäº§ä¸šé“¾" target="_blank">
+<img src="http://baike.bdimg.com/cms/static/yilishouyedibu2.png" />
+<div class="category_tit">ä¼Šåˆ©äº§ä¸šé“¾</div>
+<div class="category_des">å…¨ç»´åº¦é€æ˜å“è´¨<br/>äº’åŠ¨ä½“éªŒå…¨çƒäº§ä¸šé“¾</div>
+<span class="category_lnk" target="_blank">æŸ¥çœ‹è¯¦æƒ…</span>
+</a></li>
+<li class="category wgt_marquee_unit" alog-alias="fancyCategories-card-6">
+<a href="http://baike.baidu.com/difangzhi/shaanxi" target="_blank">
+<img src="http://baike.bdimg.com/cms/static/huhui01/é™•è¥¿æ–¹å¿—é¦†1ç³»åˆ—è½®æ’­å›¾.jpg" />
+<div class="category_tit">æ•°å­—æ–¹å¿—é¦†</div>
+<div class="category_des">é™•è¥¿é¦†å…¨æ–°ä¸Šçº¿<br/>å¸¦ä½ èµ°è¿›ä¹ å¤§å¤§æ•…ä¹¡</div>
+<span class="category_lnk" target="_blank">æŸ¥çœ‹è¯¦æƒ…</span>
+</a></li>
+<li class="category wgt_marquee_unit" alog-alias="fancyCategories-card-7">
+<a href="http://baike.baidu.com/subview/6095/5885891.htm" target="_blank">
+<img src="http://baike.baidu.com/cms/rc/r/image/2014-08-12/2c616b07a75f9bff4b5ff58db388dadc.jpg" />
+<div class="category_tit">æ˜æ˜Ÿç™¾ç§‘</div>
+<div class="category_des">æœ€æƒå¨æ˜æ˜Ÿèµ„æ–™åº“<br/>å·²ä¸Šçº¿307ä½æ˜æ˜Ÿ</div>
+<span class="category_lnk" target="_blank">æŸ¥çœ‹è¯¦æƒ…</span>
+</a></li>
+<li class="category wgt_marquee_unit" alog-alias="fancyCategories-card-8">
+<a href="http://zoo.baidu.com/" target="_blank">
+<img src="http://baike.baidu.com/cms/s/museum/baidudongwuyuanbanner.png" />
+<div class="category_tit">ç™¾åº¦åŠ¨ç‰©å›­</div>
+<div class="category_des">ä¸­å›½é¦–å®¶ç½‘ç»œåŠ¨ç‰©å›­<br/>è¶³ä¸å‡ºæˆ·çœ‹èŒå® </div>
+<span class="category_lnk" target="_blank">æŸ¥çœ‹è¯¦æƒ…</span>
+</a></li>
+<li class="category wgt_marquee_unit" alog-alias="fancyCategories-card-9">
+<a href="http://baike.baidu.com/city/" target="_blank">
+<img src="http://baike.baidu.com/cms/rc/r/image/2014-08-12/e60b2aa76f57e2e4645e62ed558fec2a.jpg" />
+<div class="category_tit">åŸå¸‚ç™¾ç§‘</div>
+<div class="category_des">å·²ä¸Šçº¿368ä¸ªåŸå¸‚<br/>æ”¶å½•38017ä¸ªè¯æ¡</div>
+<span class="category_lnk" target="_blank">æŸ¥çœ‹è¯¦æƒ…</span>
+</a></li>
+</ul>
+</div>
+<div class="button prev" data-skipTo="prev"><em class="cmn-icon wiki-home-icons wiki-home-icons_fancyCategories-prev"></em></div>
+<div class="button next" data-skipTo="next"><em class="cmn-icon wiki-home-icons wiki-home-icons_fancyCategories-last"></em></div>
+</div>
+</div>
+</div>
+</div>
+<div class="catalog-wrapper" alog-group="catalog">
+<div class="layout">
+<div id="commonCategories">
+<dl>
+<dt><h2><a href="/renwu" target="_blank">äººç‰©</a></h2></dt>
+<dd>
+<div class="column">
+<a href="/fenlei/æ”¿æ²»äººç‰©" target="_blank">æ”¿æ²»äººç‰©</a><br/>
+<a href="/fenlei/å†å²äººç‰©" target="_blank">å†å²äººç‰©</a><br/>
+<a href="/fenlei/æ–‡åŒ–äººç‰©" target="_blank">æ–‡åŒ–äººç‰©</a><br/>
+<a href="/fenlei/è™šæ‹Ÿäººç‰©" target="_blank">è™šæ‹Ÿäººç‰©</a><br/>
+<a href="/fenlei/ç»æµäººç‰©" target="_blank">ç»æµäººç‰©</a>
+</div>
+<div class="column">
+<a href="/fenlei/è¯é¢˜äººç‰©" target="_blank">è¯é¢˜äººç‰©</a>
+</div>
+</dd>
+</dl>
+<dl>
+<dt><h2><a href="/ziran" target="_blank">è‡ªç„¶</a></h2></dt>
+<dd>
+<div class="column">
+<a href="/fenlei/åŠ¨ç‰©" target="_blank">åŠ¨ç‰©</a><br/>
+<a href="/fenlei/æ¤ç‰©" target="_blank">æ¤ç‰©</a><br/>
+<a href="/fenlei/è‡ªç„¶ç¾å®³" target="_blank">è‡ªç„¶ç¾å®³</a><br/>
+<a href="/fenlei/è‡ªç„¶èµ„æº" target="_blank">è‡ªç„¶èµ„æº</a><br/>
+<a href="/fenlei/è‡ªç„¶ç°è±¡" target="_blank">è‡ªç„¶ç°è±¡</a>
+</div>
+<div class="column">
+</div>
+</dd>
+</dl>
+<dl>
+<dt><h2><a href="/wenhua" target="_blank">æ–‡åŒ–</a></h2></dt>
+<dd>
+<div class="column">
+<a href="/fenlei/ç¾æœ¯" target="_blank">ç¾æœ¯</a><br/>
+<a href="/fenlei/æˆå‰§" target="_blank">æˆå‰§</a><br/>
+<a href="/fenlei/èˆè¹ˆ" target="_blank">èˆè¹ˆ</a><br/>
+<a href="/fenlei/æ‘„å½±" target="_blank">æ‘„å½±</a><br/>
+<a href="/fenlei/æ›²è‰º" target="_blank">æ›²è‰º</a>
+</div>
+<div class="column">
+<a href="/fenlei/ä¹¦ç”»" target="_blank">ä¹¦ç”»</a><br/>
+<a href="/fenlei/å»ºç­‘" target="_blank">å»ºç­‘</a><br/>
+<a href="/fenlei/è¯­è¨€" target="_blank">è¯­è¨€</a>
+</div>
+</dd>
+</dl>
+<dl>
+<dt><h2><a href="/tiyu" target="_blank">ä½“è‚²</a></h2></dt>
+<dd>
+<div class="column">
+<a href="/fenlei/ä½“è‚²ç»„ç»‡" target="_blank">ä½“è‚²ç»„ç»‡</a><br/>
+<a href="/fenlei/ä½“è‚²å¥–é¡¹" target="_blank">ä½“è‚²å¥–é¡¹</a><br/>
+<a href="/fenlei/ä½“è‚²è®¾æ–½" target="_blank">ä½“è‚²è®¾æ–½</a><br/>
+<a href="/fenlei/ä½“è‚²é¡¹ç›®" target="_blank">ä½“è‚²é¡¹ç›®</a>
+</div>
+<div class="column">
+</div>
+</dd>
+</dl>
+<dl class="noBorder">
+<dt><h2><a href="/shehui" target="_blank">ç¤¾ä¼š</a></h2></dt>
+<dd>
+<div class="column">
+<a href="/fenlei/ç»„ç»‡æœºæ„" target="_blank">ç»„ç»‡æœºæ„</a><br/>
+<a href="/fenlei/æ”¿æ²»" target="_blank">æ”¿æ²»</a><br/>
+<a href="/fenlei/å†›äº‹" target="_blank">å†›äº‹</a><br/>
+<a href="/fenlei/æ³•å¾‹" target="_blank">æ³•å¾‹</a><br/>
+<a href="/fenlei/æ°‘æ—" target="_blank">æ°‘æ—</a>
+</div>
+<div class="column">
+<a href="/fenlei/äº¤é€š" target="_blank">äº¤é€š</a><br/>
+<a href="/fenlei/ç»æµ" target="_blank">ç»æµ</a>
+</div>
+</dd>
+</dl>
+<dl>
+<dt><h2><a href="/lishi" target="_blank">å†å²</a></h2></dt>
+<dd>
+<div class="column">
+<a href="/fenlei/å„å›½å†å²" target="_blank">å„å›½å†å²</a><br/>
+<a href="/fenlei/å†å²äº‹ä»¶" target="_blank">å†å²äº‹ä»¶</a><br/>
+<a href="/fenlei/å†å²è‘—ä½œ" target="_blank">å†å²è‘—ä½œ</a><br/>
+<a href="/fenlei/æ–‡ç‰©è€ƒå¤" target="_blank">æ–‡ç‰©è€ƒå¤</a>
+</div>
+<div class="column">
+</div>
+</dd>
+</dl>
+<dl>
+<dt><h2><a href="/dili" target="_blank">åœ°ç†</a></h2></dt>
+<dd>
+<div class="column">
+<a href="/fenlei/è¡Œæ”¿åŒºåˆ’" target="_blank">è¡Œæ”¿åŒºåˆ’</a><br/>
+<a href="/fenlei/åœ°å½¢åœ°è²Œ" target="_blank">åœ°å½¢åœ°è²Œ</a>
+</div>
+</dd>
+</dl>
+<dl>
+<dt><h2><a href="/keji" target="_blank">ç§‘æŠ€</a></h2></dt>
+<dd>
+<div class="column">
+<a href="/fenlei/ç§‘ç ”æœºæ„" target="_blank">ç§‘ç ”æœºæ„</a><br/>
+<a href="/fenlei/äº’è”ç½‘" target="_blank">äº’è”ç½‘</a><br/>
+<a href="/fenlei/èˆªç©ºèˆªå¤©" target="_blank">èˆªç©ºèˆªå¤©</a><br/>
+<a href="/fenlei/åŒ»å­¦" target="_blank">åŒ»å­¦</a><br/>
+<a href="/fenlei/ç”µå­äº§å“" target="_blank">ç”µå­äº§å“</a>
+</div>
+<div class="column">
+</div>
+</dd>
+</dl>
+<dl>
+<dt><h2><a href="/fenlei/å¨±ä¹" target="_blank">å¨±ä¹</a></h2></dt>
+<dd>
+<div class="column">
+<a href="/fenlei/åŠ¨æ¼«" target="_blank">åŠ¨æ¼«</a><br/>
+<a href="/fenlei/ç”µå½±" target="_blank">ç”µå½±</a><br/>
+<a href="/fenlei/ç”µè§†å‰§" target="_blank">ç”µè§†å‰§</a><br/>
+<a href="/fenlei/å°è¯´" target="_blank">å°è¯´</a><br/>
+<a href="/fenlei/ç”µè§†èŠ‚ç›®" target="_blank">ç”µè§†èŠ‚ç›®</a>
+</div>
+<div class="column">
+<a href="/fenlei/æ¼”å‡º" target="_blank">æ¼”å‡º</a>
+</div>
+</dd>
+</dl>
+<dl class="noBorder">
+<dt><h2><a href="/shenghuo" target="_blank">ç”Ÿæ´»</a></h2></dt>
+<dd>
+<div class="column">
+<a href="/fenlei/ç¾å®¹" target="_blank">ç¾å®¹</a><br/>
+<a href="/fenlei/æ—¶å°š" target="_blank">æ—¶å°š</a><br/>
+<a href="/fenlei/æ—…æ¸¸" target="_blank">æ—…æ¸¸</a>
+</div>
+<div class="column">
+</div>
+</dd>
+</dl></div></div>
+</div>
+<div class="cooperation-wrapper" alog-group="cooperation">
+<div class="layout">
+<div id="cooperation">
+<div class="abstract">
+<div class="abstract_tit"><h2>å“ç‰Œåˆä½œ</h2></div>
+<div class="abstract_cnt">æºæ‰‹æœ€å…·å½±å“åŠ›çš„ä¸­æ–‡çŸ¥è¯†å¹³å°ï¼Œç”¨çŸ¥è¯†çš„ä»·å€¼æå‡å“ç‰Œçš„ä»·å€¼ã€‚é’ˆå¯¹ä¸åŒç±»å‹çš„æƒå¨æœºæ„æä¾›ä¸°å¯Œçš„åˆä½œæ¨¡å¼ï¼Œå¼€å±•åŸºäºçŸ¥è¯†ä¼ æ’­çš„å…¬ç›Šåˆä½œï¼Œå¼ºåŠ¿å±•ç°åˆä½œæ–¹ä¼˜è´¨èµ„æºï¼Œæå‡å“ç‰Œå½±å“åŠ›ã€‚</div>
+<div class="abstract_mre"><a href="/operation/cooperation/" target="_blank">æŸ¥çœ‹æ›´å¤š</a></div>
+</div>
+<div class="case">
+<div class="case_tit"><h2>å“ç‰Œæ¡ˆä¾‹</h2></div>
+<a href="/operation/cooperation/" target="_blank"><div class="case_pic">
+</div></a>
+</div>
+</div></div>
+</div>
+
+
+<div class="wgt-footer-main">
+<div class="content">
+<dl class="fresh">
+<dt><em class="cmn-icon cmn-icons cmn-icons_footer-fresh"></em>æ–°æ‰‹ä¸Šè·¯</dt>
+<dd>
+<div><a target="_blank" href="/usercenter/tasks#guide">æˆé•¿ä»»åŠ¡</a></div>
+<div><a target="_blank" href="/help#main01">ç¼–è¾‘å…¥é—¨</a></div>
+<div><a target="_blank" href="/help#main06">ç¼–è¾‘è§„åˆ™</a></div>
+<div><a target="_blank" href="/help#main05">ç™¾ç§‘æœ¯è¯­</a></div>
+</dd>
+</dl>
+<dl class="question">
+<dt><em class="cmn-icon cmn-icons cmn-icons_footer-question"></em>æˆ‘æœ‰ç–‘é—®</dt>
+<dd>
+<div><a target="_blank" href="/user/question">å¸¸è§é—®é¢˜</a></div>
+<div><a target="_blank" href="http://ikefu.baidu.com/baidubaike/chat.html" nslog-type="10000003">æˆ‘è¦æé—®</a></div>
+<div><a target="_blank" href="http://tieba.baidu.com/f?ie=utf-8&fr=bks0000&kw=%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91">å‚åŠ è®¨è®º</a></div>
+<div><a target="_blank" href="/feedback">æ„è§åé¦ˆ</a></div>
+</dd>
+</dl>
+<dl class="suggestion">
+<dt><em class="cmn-icon cmn-icons cmn-icons_footer-suggestion"></em>æŠ•è¯‰å»ºè®®</dt>
+<dd>
+<div><a target="_blank" href="http://tousu.baidu.com/baike#1">ä¸¾æŠ¥ä¸è‰¯ä¿¡æ¯</a></div>
+<div><a target="_blank" href="http://tousu.baidu.com/baike#2">æœªé€šè¿‡è¯æ¡ç”³è¯‰</a></div>
+<div><a target="_blank" href="http://tousu.baidu.com/baike#4">æŠ•è¯‰ä¾µæƒä¿¡æ¯</a></div>
+<div><a target="_blank" href="http://tousu.baidu.com/baike#3">å°ç¦æŸ¥è¯¢ä¸è§£å°</a></div>
+</dd>
+</dl>
+</div>
+<div class="copyright">Â©2016Baidu&nbsp;<a href="http://www.baidu.com/duty/" target="_blank">ä½¿ç”¨ç™¾åº¦å‰å¿…è¯»</a>&nbsp;|&nbsp;<a href="http://help.baidu.com/question?prod_en=baike&class=159&id=1047" target="_blank">ç™¾ç§‘åè®®</a>&nbsp;|&nbsp;<a href="/operation/cooperation" target="_blank">ç™¾åº¦ç™¾ç§‘åˆä½œå¹³å°</a></div>
+</div>
+
+
+</body><script type="text/javascript" src="http://baike.bdimg.com/static/wiki-common/pkg/wiki-common_sync_js_0_556fe8d.js"></script>
+<script type="text/javascript">require.resourceMap({"res":{"wiki-home:widget/cmsModule/announcement/announcement.js":{"url":"http://baike.bdimg.com/static/wiki-home/widget/cmsModule/announcement/announcement_ef1b47c.js","deps":["wiki-common:widget/lib/jquery/jquery.js","wiki-common:widget/lib/jsmart/jsmart.js","wiki-common:widget/util/cookie.js"]},"wiki-home:widget/navbarAd/navbarAd.js":{"url":"http://baike.bdimg.com/static/wiki-home/widget/navbarAd/navbarAd_1fcf18b.js","deps":["wiki-common:widget/lib/jquery/jquery.js","wiki-common:widget/lib/jsmart/jsmart.js"]}}});</script><script type="text/javascript" src="http://baike.bdimg.com/static/wiki-common/pkg/wiki-common_sync_js_1_b0a1b22.js"></script>
+<script type="text/javascript" src="http://baike.bdimg.com/static/wiki-common/pkg/wiki-common_sync_js_2_7a24e62.js"></script>
+<script type="text/javascript" src="http://baike.bdimg.com/static/wiki-home/pkg/wiki-home_sync_js_0_739ad0f.js"></script>
+<script type="text/javascript">!function(){    !function(){
+      var $ = require('wiki-common:widget/lib/jquery/jquery.js'),
+        winResizeTimer;
+
+      $(window).on('resize', function(){
+        clearTimeout(winResizeTimer);
+        winResizeTimer = setTimeout(function(){
+          var winWidth = window.innerWidth || document.documentElement && document.documentElement.clientWidth || 0,
+            pageWidth = 'SMALL';
+
+          // è·å– body å®½åº¦è®¾å®šã€‚
+              var pageWidthDef = {
+      SMALL: 980,
+      LARGE: 1180
+    };
+
+    if (winWidth >= 1280) {    // @media screen and (min-width: 1280px)
+      pageWidth = 'LARGE';
+    } else {                  // Default width.
+      pageWidth = 'SMALL';
+    }
+  
+
+          document.body.className = $.trim((' ' + document.body.className + ' ').replace(/ w-(?:small|large) /, ' w-' + pageWidth.toLowerCase() + ' '));
+
+          // é€šçŸ¥é¡µé¢å®½åº¦å˜åŒ–äº‹ä»¶ã€‚
+          $(document.body).triggerHandler({
+            'type': 'resize.cmnEvt',
+            'pageWidth': pageWidthDef[pageWidth]
+          });
+        }, 100);
+      });
+    }();
+  }();
+!function(){  var $ = require('wiki-common:widget/lib/jquery/jquery.js'),
+    userbar = require('wiki-common:widget/component/userbar/userbar.js');
+    
+  $(function() {
+    userbar.buildUserbar($('.wgt-userbar'), null);
+  });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery.js'),
+      initSearchbar = require('wiki-common:widget/component/searchbar/searchbar.js');  
+    initSearchbar($('.wgt-searchbar-main'));
+  }();
+!function(){  var $ = require('wiki-common:widget/lib/jquery/jquery.js');
+
+  var timer = '';
+
+  $('.wgt-navbar').on('mouseenter', 'dl', function() {
+  clearTimeout(timer);
+  timer = setTimeout(function() {
+  $('.wgt-navbar').addClass('wgt-navbar-hover');
+}, 300);
+}).on('mouseleave', function() {
+clearTimeout(timer);
+$('.wgt-navbar').removeClass('wgt-navbar-hover');
+}).on('click', 'a', function() {
+clearTimeout(timer);
+$('.wgt-navbar').removeClass('wgt-navbar-hover');
+});
+}();
+!function(){  var $ = require('wiki-common:widget/lib/jquery/jquery.js'),
+    numExtend = require('wiki-common:widget/util/number.js'),
+    timeFormater = require('wiki-common:widget/util/timeFormater.js'),
+    Counter = require('wiki-common:widget/ui/counter/counter.js');
+
+  require('wiki-home:widget/publicizing/publicizing.js');
+
+
+  var lemmaNumCounter = new Counter({
+    container: '#publicizing #lemmaNum',
+    numHeight: 28,
+    value: 5000000,
+    duration: 2000
+  });
+  var userNumCounter = new Counter({
+    container: '#publicizing #userNum',
+    numHeight: 28,
+    value: 1000000,
+    duration: 2000
+  });
+  var editNumCounter = new Counter({
+    container: '#publicizing #editNum',
+    numHeight: 28,
+    value: 5000000,
+    duration: 2000
+  });
+
+  setTimeout(function() {
+    lemmaNumCounter.countUpTo(13233172);
+    userNumCounter.countUpTo(5743458);
+    editNumCounter.countUpTo(110091534);
+    var times = 0;
+    setInterval(function() {
+      if (times < 10) {
+        $.getJSON('/api/wikihome/totalnum?r=' + Math.random(), function(res) {
+          if (!res.errno) {
+            times ++;
+            res.data.totalLemma && lemmaNumCounter.countUpTo(res.data.totalLemma);
+            res.data.totalEditUser && userNumCounter.countUpTo(res.data.totalEditUser);
+            res.data.totalEditNum && editNumCounter.countUpTo(res.data.totalEditNum);          
+          } else {
+            times = 10;
+          }
+        });
+      }
+    }, 10000);
+  }, 500);
+}();
+!function(){  require.async(['wiki-common:widget/lib/jquery/jquery.js'], function($) {
+    $('#hotLemmas').on('click', '.title_nav a', function() {
+      var time = $(this).attr('data-time');
+      $('#hotLemmas .title_nav a').removeClass('show');
+      $('#hotLemmas .content').removeClass('show');
+      $(this).addClass('show');
+      $('#hotLemmas .content.' + time).addClass('show');
+    });
+  });
+}();
+!function(){  require.async(['wiki-home:widget/eventsOnHistory/eventsOnHistory.js'], function(EventsOnHistory) {
+    var today = '2016-02-18';
+    var eventsOnHistory = new EventsOnHistory({
+      fullDate: today,
+      data: null
+    });
+  });
+}();
+!function(){  require('wiki-home:widget/userCards/userCards.js')(145580819776499400);
+}();
+!function(){  var $ = require('wiki-common:widget/lib/jquery/jquery.js'),
+    timeFormater = require('wiki-common:widget/util/timeFormater.js'),
+    Marquee = require('wiki-common:widget/ui/marquee/marquee.js'),
+    cookie = require('wiki-common:widget/util/cookie.js');
+
+  var storage = window.localStorage;
+
+  setTimeout(function() {
+    if (cookie.get('editor_createIntro_ignore') === '1' || (storage && (storage.getItem('editor_createIntro_ignore') === '1'))) {
+      $('.opeations_btn_create').attr('href','/page/createindex');
+    } else {
+      $('.opeations_btn_create').attr('href','/page/createintro');
+    }
+  }, 10);
+
+      var timestampArr = [
+              1455808196
+        ,              1455808194
+        ,              1455808194
+        ,              1455808169
+        ,              1455808160
+        ,              1455808134
+        ,              1455808134
+        ,              1455808122
+        ,              1455808104
+        ,              1455808100
+        ,              1455808065
+        ,              1455808065
+        ,              1455808064
+        ,              1455808063
+        ,              1455808060
+        ,              1455808055
+        ,              1455808049
+        ,              1455808047
+        ,              1455808036
+        ,              1455808022
+        ,              1455808012
+        ,              1455808012
+        ,              1455808006
+        ,              1455807998
+        ,              1455807990
+        ,              1455807990
+        ,              1455807983
+        ,              1455807972
+        ,              1455807966
+        ,              1455807962
+        ,              1455807961
+        ,              1455807947
+        ,              1455807942
+        ,              1455807939
+        ,              1455807932
+        ,              1455807926
+        ,              1455807921
+        ,              1455807916
+        ,              1455805486
+        ,              1455800658
+        ,              1455800454
+        ,              1455798821
+        ,              1455797743
+        ,              1455797289
+                  ];
+    for(var i in timestampArr) {
+      var diff = (1455808197 - timestampArr[i] + 5) * 1000;
+      var formatedDiff = timeFormater.diff(diff, 'd\\dh\\hm\'s"', true);
+      $('#userFeeds .feeds .time').eq(i).html(formatedDiff);
+    }
+    var userFeeds = new Marquee({
+      container: $('#userFeeds #viewport .feeds'),
+      direction: 'top',
+      viewportCap: 5,
+      scrollStep: 1,
+      isContinuous: true,
+      unitSize: {
+        width: 280,
+        height: 52
+      },
+      autoScrollInterval: 2000,
+      duration: 500
+    });
+  }();
+!function(){  require('wiki-home:widget/fancyCategories/fancyCategories.js');
+}();
+!function(){      require('wiki-common:widget/component/psLink/psLink.js');
+    }();</script><script type="text/javascript">(new Image()).src="http://static.tieba.baidu.com/tb/pms/img/st.gif?pid=242&v=2&fs=d17c11e,0c8a499,6989571,b4617bb,8489f15,3b87af4,5d75544,9fad10e,81f98b8,14d8fbb,3243dd0,ca75212,2dfdcea,26e0125,6d114d0,622bf55,ea860ab,ba4de73,117d9c9,272e9a4,9183912,0469f06,b44b6c1,630e49a,33e72c0&otherStr=&page=wiki-home/page/home/home.tpl&sid=1455808197&hash=6e08efd608&fid=baike";</script>
+<script type="text/javascript">
+  // DOM Readyæ—¶ï¼Œç»Ÿè®¡ç”¨æˆ·å¯æ“ä½œæ—¶é—´ã€‚
+  alog('speed.set', 'drt', +new Date);
+
+  // é…ç½® PD ç›‘æ§ã€‚
+  window.alogObjectConfig = {
+    product: '103',
+    page: '103_20',
+    monkey_page: 'baike-index',
+    speed_page: '20',
+    speed: {
+      sample: '0.8'
+    },
+    monkey: {
+      sample: '1',
+      hid: '1533'
+    },
+    exception: { 
+      sample: '0.4'
+    },
+    feature: {
+      sample: '0.4'
+    },
+    csp: {
+      sample: '0.8',
+      'default-src': [
+        {match: '*.baidu.com,*.bdimg.com,localhost', target: 'Accept'},
+        {match: '*', target: 'Accept,Warn'}
+      ]
+    }
+  };
+
+  void function(a,b,c,d,e,f){function g(b){a.attachEvent?a.attachEvent("onload",b,!1):a.addEventListener&&a.addEventListener("load",b)}function h(a,c,d){d=d||15;var e=new Date;e.setTime((new Date).getTime()+1e3*d),b.cookie=a+"="+escape(c)+";path=/;expires="+e.toGMTString()}function i(a){var c=b.cookie.match(new RegExp("(^| )"+a+"=([^;]*)(;|$)"));return null!=c?unescape(c[2]):null}function j(){var a=i("PMS_JT");if(a){h("PMS_JT","",-1);try{a=a.match(/{["']s["']:(\d+),["']r["']:["']([\s\S]+)["']}/),a=a&&a[1]&&a[2]?{s:parseInt(a[1]),r:a[2]}:{}}catch(c){a={}}a.r&&b.referrer.replace(/#.*/,"")!=a.r||alog("speed.set","wt",a.s)}}if(a.alogObjectConfig){var k=a.alogObjectConfig.sample,l=a.alogObjectConfig.rand;if("https:"===a.location.protocol){if(d="https://gss2.bdstatic.com/70cFsjip0QIZ8tyhnq"+d,!k||!l)return}else d="http://img.baidu.com"+d;k&&l&&l>k||(g(function(){alog("speed.set","lt",+new Date),e=b.createElement(c),e.async=!0,e.src=d+"?v="+~(new Date/864e5),f=b.getElementsByTagName(c)[0],f.parentNode.insertBefore(e,f)}),j())}}(window,document,"script","/hunter/alog/dp.min.js");
+</script>
+<script type="text/javascript">
+  var Hunter = window.Hunter || {};
+  Hunter.userConfig = Hunter.userConfig || [];
+      Hunter.userConfig.push({
+      hid: 58779
+    });
+  </script>
+<script type="text/javascript" src="http://img.baidu.com/hunter/baike.js?st=16849" defer></script></html><!--05976312560289874954021823-->
+<script> var _trace_page_logid = 0597631256; </script>

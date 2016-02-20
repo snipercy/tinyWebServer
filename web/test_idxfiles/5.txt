@@ -1,0 +1,7 @@
+Location: http://www.nytimes.com/most-popular?src=iepin;icon-uri=http://css.nyt.com/images/icons/mostpopular.ico
+Connection: close
+
+<HTML><HEAD><TITLE>Moved Permanently</TITLE></HEAD>
+<BODY><H1>Moved Permanently</H1>
+An error has occurred.
+</BODY></HTML>

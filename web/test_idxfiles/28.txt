@@ -1,0 +1,849 @@
+Set-cookie: RMID=263d8e2c59e64ed9132dc375; expires=Saturday, 01-Dec-2012 18:04:29 GMT; path=/; domain=.nytimes.com
+Set-cookie: NYT_W2=New%20YorkNYUS|ChicagoILUS|London--UK|Los%20AngelesCAUS|San%20FranciscoCAUS|Tokyo--JP|; expires=Saturday, 01-Dec-2012 18:04:29 GMT; path=/; domain=.nytimes.com
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>
+					Weather - The New York Times
+				</title>
+<!--Begin common meta tags--><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Expires" content="now">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta name="robots" content="noarchive">
+<!--End common meta tags--><meta name="description" content="Weather in  - Current Conditions and Forecast for  - The New York Times Weather">
+<meta name="keywords" content=" Weather, forecast for , Weather report for , The New York Times Weather">
+<!--Begin common script tags--><script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script><script type="text/javascript" src="http://graphics8.nytimes.com/js/browserSize.js"></script><script type="text/javascript" src="http://graphics8.nytimes.com/js/Tacoda_AMS_DDC_Header.js"></script><script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/DropDown.js"></script><script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/modifyNavigationDisplay.js"></script><script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/fileit.js"></script><script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/todays_date.js"></script><script type="text/javascript" language="JavaScript">
+        function linkbox(url, winName) {
+                window.open(url, winName,
+                "location=yes,directories=yes,menubar=yes,toolbar=yes,status=yes,resizable=yes,scrollbars=yes");
+        }
+   </script><!--End common script tags--><!--Begin common css--><!--[if IE 7]>
+           <style type="text/css">
+                @import url(http://graphics8.nytimes.com/css/section/weather/screen/ie7.css);
+           </style>
+           <![endif]--><!--End common css--><script type="text/javascript"><!--
+			//	Google ads
+				var google_contents = "weather";
+			--></script><link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/common/global.css">
+<style type="text/css">
+                @import url(http://graphics8.nytimes.com/css/section/weather/screen/general.css);
+            </style>
+	   <!--Begin common css--><!--[if IE 7]>
+           <style type="text/css">
+                @import url(http://graphics8.nytimes.com/css/section/weather/screen/ie7.css);
+           </style>
+           <![endif]--><!--End common css-->
+	   <script type="text/javascript" src="http://graphics8.nytimes.com/js/section/travel/eta_enu1033/cal.js"></script><iframe src="/js/section/travel/eta_enu1033/calx.html" style="visibility:hidden;position:absolute;display:none;" id="CalFrame" name="CalFrame" marginheight="0" marginwidth="0" noresize frameborder="0" scrolling="no"></iframe><script language="javascript" src="http://graphics8.nytimes.com/js/section/travel/eta_enu1033/calx.js"></script><script language="javascript" src="http://graphics8.nytimes.com/js/section/travel/expediaModulePrepare.js"></script>
+	   </head>
+<body><div id="shell" class="nsf">
+<div id="login">
+<ul id="memberTools">
+<li><a href="https://myaccount.nytimes.com/auth/login">Log In</a></li>
+<li><a href="https://myaccount.nytimes.com/gst/regi.html">Register Now</a></li>
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+</ul>
+<ul class="tabs">
+<li><a href="http://www.nytimes.com">Home Page</a></li>
+<li><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+<li><a href="http://www.nytimes.com/video">Video</a></li>
+<li><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+<li><a href="http://www.nytimes.com/timestopics">Times Topics</a></li>
+</ul>
+</div>
+<div id="page">
+<div id="masthead">
+<div id="Middle1"><!-- ADXINFO classification="button" campaign="ING_DirectSiteSearchQ111_1694929-nyt1"--><A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/partners/weather/homepage&pos=Middle1C&sn2=82e8c5ba/b8bc70ff&sn1=59756299/46b02203&camp=ING_DirectSiteSearchQ111_1694929-nyt1&ad=NEW.88x31.SiteSearch.Wizard&goto=http://ad.doubleclick.net/jump/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.29" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.29"
+ BORDER=0 WIDTH=88 HEIGHT=31
+ ALT="Click Here"></A></div>
+<form id="searchForm" name="searchForm" method="GET" action="http://query.nytimes.com/gst/sitesearch_selector.html" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="date_select" value="full"><div id="nytSearchWidget">
+<label for="searchQuery">Search All NYTimes.com</label><input id="searchQuery" type="text" name="query"><input id="searchSubmit" title="Search" alt="Search" type="image" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"><input type="hidden" value="nyt" name="type" id="searchAll">
+</div>
+</form>
+<a href="http://www.nytimes.com"><img id="NYTLogo" alt="New York Times" title="New York Times" src="http://graphics8.nytimes.com/images/misc/nytlogo153x23.gif"></a><div id="date"><div id="date">Friday, December  2, 2011</div></div>
+<h1><a href="http://www.nytimes.com/weather">Weather</a></h1>
+</div>
+<div id="navigation" class="nochild"><ul class="tabs">
+<li id="navWorld"><a href="http://www.nytimes.com/pages/world/index.html">World</a></li>
+<li id="navUS"><a href="http://www.nytimes.com/pages/national/index.html">U.S.</a></li>
+<li id="navNYRegion"><a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a></li>
+<li id="navBusiness"><a href="http://www.nytimes.com/pages/business/index.html">Business</a></li>
+<li id="navTechnology"><a href="http://www.nytimes.com/pages/technology/index.html">Technology</a></li>
+<li id="navScience"><a href="http://www.nytimes.com/pages/science/index.html">Science</a></li>
+<li id="navHealth"><a href="http://www.nytimes.com/pages/health/index.html">Health</a></li>
+<li id="navSports"><a href="http://www.nytimes.com/pages/sports/index.html">Sports</a></li>
+<li id="navOpinion"><a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a></li>
+<li id="navArts"><a href="http://www.nytimes.com/pages/arts/index.html">Arts</a></li>
+<li id="navStyle"><a href="http://www.nytimes.com/pages/style/index.html">Style</a></li>
+<li id="navTravel"><a href="http://travel.nytimes.com">Travel</a></li>
+<li id="navJobs"><a href="http://jobmarket.nytimes.com/pages/jobs/index.html">Jobs</a></li>
+<li id="navRealestate"><a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a></li>
+<li id="navAutos"><a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a></li>
+</ul></div>
+<script type="text/javascript">modifyNavigationDisplay();</script><div id="adxLeaderboard"><!-- ADXINFO classification="blank" campaign="Banana_RepublicGG-1781003-nyt8"--><img src="http://graphics8.nytimes.com/ads/blank.gif"></div>
+<div id="main">
+<a name="top"></a><div id="aColumn"><div id="article">
+<h1>New York, 
+	NY</h1>
+<div id="wColumnShort">
+<div class="wCurrent">
+<h5>Current Conditions</h5>
+<img src="http://graphics8.nytimes.com/images/apps/weather/7.gif" border="0" height="40" width="50" alt="Cloudy"><div class="summary">49&deg;F <span class="smaller">(9&deg;C)</span><br>Cloudy</div>
+<table class="conditions">
+<tr>
+<td width="60px"><strong>Humidity</strong></td>
+<td>49% &nbsp;</td>
+</tr>
+<tr>
+<td><strong>Barometer</strong></td>
+<td>30.32&nbsp;in &nbsp;</td>
+</tr>
+<tr>
+<td><strong>Visibility</strong></td>
+<td>10&nbsp;mi </td>
+</tr>
+<tr>
+<td><strong>Wind</strong></td>
+<td>9&nbsp;mph&nbsp;WSW&nbsp;</td>
+</tr>
+</table>
+</div>
+<div id="wFinder">
+<h5>Weather Finder</h5>
+<p>Forecasts for over 60,000 cities worldwide.<br>Enter a city or ZIP code.</p>
+<form action="http://www.nytimes.com/gst/weather.html" method="GET">
+<input type="text" id="wQuery" name="search" value="" maxlength="40"><input type="image" src="http://graphics8.nytimes.com/images/global/global_search/go_button20x19.gif" width="20" height="19" alt="Go">
+</form>
+</div>
+<br>
+</div>
+<div id="wColumnLong">
+<div class="wForecast clearfix">
+<div class="captionRight">
+<a href="http://www.nytimes.com/auth/login?URI=http://www.nytimes.com/gst/weather.html?saction=updatePrimary">Personalize your weather</a><h5>5-Day Forecast</h5>
+</div>
+<table class="weather">
+<tr class="title">
+<td></td>
+<td class="weatherDay">Friday</td>
+<td class="weatherDay">Saturday</td>
+<td class="weatherDay">Sunday</td>
+<td class="weatherDay">Monday</td>
+<td class="weatherDay">Tuesday</td>
+</tr>
+<tr>
+<td></td>
+<td class="weatherDay"><img src="http://graphics8.nytimes.com/images/apps/weather/3.gif" border="0" height="40" width="50" alt="Partly sunny and pleasant"></td>
+<td class="weatherDay"><img src="http://graphics8.nytimes.com/images/apps/weather/2.gif" border="0" height="40" width="50" alt="Mostly sunny"></td>
+<td class="weatherDay"><img src="http://graphics8.nytimes.com/images/apps/weather/2.gif" border="0" height="40" width="50" alt="Mostly sunny and mild"></td>
+<td class="weatherDay"><img src="http://graphics8.nytimes.com/images/apps/weather/6.gif" border="0" height="40" width="50" alt="Mild with more clouds than sun"></td>
+<td class="weatherDay"><img src="http://graphics8.nytimes.com/images/apps/weather/18.gif" border="0" height="40" width="50" alt="Cloudy with a chance of rain"></td>
+</tr>
+<tr class="shade tHigh">
+<td><div class="caption">Hi</div></td>
+<td class="weatherDay">54&deg;F/12&deg;C</td>
+<td class="weatherDay">47&deg;F/8&deg;C</td>
+<td class="weatherDay">55&deg;F/13&deg;C</td>
+<td class="weatherDay">59&deg;F/15&deg;C</td>
+<td class="weatherDay">58&deg;F/14&deg;C</td>
+</tr>
+<tr class="tLow">
+<td><div class="caption">Lo</div></td>
+<td class="weatherDay">35&deg;F/2&deg;C</td>
+<td class="weatherDay">40&deg;F/4&deg;C</td>
+<td class="weatherDay">46&deg;F/8&deg;C</td>
+<td class="weatherDay">49&deg;F/9&deg;C</td>
+<td class="weatherDay">46&deg;F/8&deg;C</td>
+</tr>
+<tr class="shade">
+<td></td>
+<td class="weatherDay">Partly sunny and pleasant</td>
+<td class="weatherDay">Mostly sunny</td>
+<td class="weatherDay">Mostly sunny and mild</td>
+<td class="weatherDay">Mild with more clouds than sun</td>
+<td class="weatherDay">Cloudy with a chance of rain</td>
+</tr>
+</table>
+</div>
+<div class="guidePanel"><h3>
+<a href="http://travel.nytimes.com/travel/guides/north-america/united-states/new-york/new-york-city/overview.html">Go to our New York City Travel Guide &raquo;</a>
+				Planning a Trip?</h3></div>
+<div class="wLocations">
+<div class="captionRight">
+<a href="http://www.nytimes.com/auth/login?URI=http://www.nytimes.com/gst/weather.html?select=new">Select other locations &raquo;</a><h5>Other Locations</h5>
+</div>
+<table class="weatherLoc" width="100%">
+<tr class="title">
+<td>Place</td>
+<td>Conditions</td>
+<td align="center">Temperature</td>
+<td align="center">Humidity</td>
+<td align="center">Pressure</td>
+</tr>
+<tr>
+<td><a href="http://www.nytimes.com/gst/weather.html?detail=ChicagoILUS">Chicago</a></td>
+<td>Partly Sunny</td>
+<td align="center">39&deg;F/4&deg;C</td>
+<td align="center">65%</td>
+<td align="center">30.46&nbsp;in</td>
+</tr>
+<tr class="shade">
+<td><a href="http://www.nytimes.com/gst/weather.html?detail=London--UK">London</a></td>
+<td>Partly Cloudy</td>
+<td align="center">43&deg;F/6&deg;C</td>
+<td align="center">87%</td>
+<td align="center">29.92&nbsp;in</td>
+</tr>
+<tr>
+<td><a href="http://www.nytimes.com/gst/weather.html?detail=Los%20AngelesCAUS">Los Angeles</a></td>
+<td>Sunny</td>
+<td align="center">56&deg;F/13&deg;C</td>
+<td align="center">32%</td>
+<td align="center">29.98&nbsp;in</td>
+</tr>
+<tr class="shade">
+<td><a href="http://www.nytimes.com/gst/weather.html?detail=San%20FranciscoCAUS">San Francisco</a></td>
+<td>Mostly Sunny</td>
+<td align="center">62&deg;F/17&deg;C</td>
+<td align="center">29%</td>
+<td align="center">30.06&nbsp;in</td>
+</tr>
+<tr>
+<td><a href="http://www.nytimes.com/gst/weather.html?detail=Tokyo--JP">Tokyo</a></td>
+<td>Rain</td>
+<td align="center">45&deg;F/7&deg;C</td>
+<td align="center">93%</td>
+<td align="center">30.13&nbsp;in</td>
+</tr>
+</table>
+</div>
+</div>
+<br clear="all"><div class="aContainer" id="adxSponLink"></div>
+</div></div>
+<div id="cColumn">
+<br clear="all"><table width="336" cellpadding="0" cellspacing="0" border="0"><tr><td align="center"><!-- ADXINFO classification="sumo" campaign="Banana_RepublicGG-1781003-nyt8"--><SCRIPT type="text/javascript" SRC="http://ad.doubleclick.net/adj/N2949.nytimes.comSD6440/B6060247.2;sz=300x600;pc=nyt174572A285373;ord=2011.12.02.18.04.29?;click=http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/partners/weather/homepage&pos=MiddleRight&camp=Banana_RepublicGG-1781003-nyt8&ad=banana_300x600_B6060247.2&sn2=d648e610/efc3d88f&snr=doubleclick&snx=1322848853&sn1=83cf5b28/45002ad7&goto=">
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/partners/weather/homepage&pos=MiddleRight&sn2=d648e610/efc3d88f&sn1=676830ae/b70f86f1&camp=Banana_RepublicGG-1781003-nyt8&ad=banana_300x600_B6060247.2&goto=http://ad.doubleclick.net/jump/N2949.nytimes.comSD6440/B6060247.2;sz=300x600;pc=nyt174572A285373;ord=2011.12.02.18.04.29?" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N2949.nytimes.comSD6440/B6060247.2;sz=300x600;pc=nyt174572A285373;ord=2011.12.02.18.04.29?"
+ BORDER=0 WIDTH=300 HEIGHT=600
+ ALT="Click Here"></A>
+</NOSCRIPT></td></tr></table>
+<br clear="all"><!--[if IE 7]>
+        <style type="text/css">
+            @import url(http://graphics8.nytimes.com/css/section/travel/screen/ie7.css);
+        </style>
+    <![endif]--><TABLE xmlns:fo="http://www.w3.org/1999/XSL/Format" CELLPADDING="0" CELLSPACING="0" border="0" class="expediaBooking">
+<TR><TH>
+<div class="expediaHeading">
+<span id="fltHeader">Book A Flight</span><span id="hotHeader">Book A Hotel</span><span id="carHeader">Rent A Car</span><span id="cruHeader">Book A Cruise</span><span id="pacHeader">Book A Package</span><span id="tshHeader">Book An Activity</span>
+</div>
+<a href="http://www.expedia.com/pubspec/scripts/eap.asp?GOTO=HOME&amp;eapid=37294-1&amp;olid=&amp;mdpcid=37294-1.5.1.clickthru.home" target="_blank" class="expediaLogo">Expedia</a>
+</TH></TR>
+<TR><TD class="content">
+<form name="Wiz" ACTION="http://www.expedia.com" METHOD="get" class="rGroup">
+<INPUT name="opts" type="hidden" value="spec"><div class="row1">
+<span><input type="radio" name="srch" value="flt" id="sFlt" style="" onclick="hw('flt');" checked><label for="sFlt">Flight</label></span><span><input type="radio" name="srch" value="hot" id="sHot" style="" onclick="hw('hot');"><label for="sHot">Hotel</label></span><span class="last"><input type="radio" name="srch" value="pac" id="sPac" style="" onclick="hw('pac');"><label for="sPac">Packages</label></span>
+</div>
+<div class="row2">
+<span><input type="radio" name="srch" value="car" id="sCar" style="" onclick="hw('car');"><label for="sCar">Car</label></span><span><input type="radio" name="srch" value="cru" id="sCru" style="" onclick="hw('cru');"><label for="sCru">Cruise</label></span><span class="last"><input type="radio" name="srch" value="tsh" id="sTsh" style="" onclick="hw('tsh');"><label for="sTsh">Activities</label></span>
+</div>
+</form>
+<div class="bottom clearfix" style="clear:left;">
+<div id="pac" STYLE="display:none;" class="bookingInfo">
+<FORM NAME="PkgTypeFrm" id="PkgType">
+<label class="newlineLabel"> What type of package do you want? </label><select NAME="PackageType" class="explong" OnChange="SetPkgType(document.PkgTypeFrm.PackageType.value);"><option value="2" selected>Flight and hotel</option>
+<option value="1">Flight, hotel and car</option>
+<option value="3">Hotel and car</option>
+<option value="5">Flight and car</option></select><INPUT name="PrevPkgType" type="hidden" value="2">
+</FORM>
+<div ID="PkgWithFlight"><FORM Name="PkgFormWithFlight" ACTION="http://www.expedia.com/pubspec/scripts/eap.asp" METHOD="GET">
+<INPUT name="eapid" type="hidden" value="37294-1"><INPUT name="GOTO" type="hidden" value="PACKAGEWIZ"><INPUT TYPE="hidden" NAME="rfrr" VALUE="-34980"><INPUT TYPE="hidden" NAME="PackageType" VALUE="2"><INPUT TYPE="hidden" NAME="olid" VALUE=""><INPUT TYPE="hidden" NAME="mdpcid" VALUE="37294-1.5.1.ROS"><div class="clearfix">
+<div class="expleft first">
+<label class="newlineLabel">Leaving from: </label><input class="explong" type="Text" name="FrAirport" SIZE="22" value="" MAXLENGTH="64" onfocus="HCal();"><label class="newlineLabel">Departing: </label><input class="expdate" type="Text" name="FromDate" size="10" onclick="event.cancelBubble=true;SC(document.PkgFormWithFlight.FromDate,null);" onfocus="SC(document.PkgFormWithFlight.FromDate,null);"><select class="exptime" NAME="FromTime" onfocus="HCal();"><Option Value="361">Morn.</Option>
+<Option Value="901">Noon.</Option>
+<Option Value="1081">Eve.</Option></select>
+</div>
+<div class="expleft">
+<label class="newlineLabel">Going to: </label><INPUT TYPE="TEXT" class="explong" size="22" NAME="DestName" value="New York" onfocus="HCal();"><label class="newlineLabel">Returning: </label><input class="expdate" type="Text" name="ToDate" size="10" onclick="event.cancelBubble=true;SC(document.PkgFormWithFlight.ToDate,document.PkgFormWithFlight.FromDate);" onfocus="SC(document.PkgFormWithFlight.ToDate,document.PkgFormWithFlight.FromDate);"><select class="exptime" NAME="ToTime" onfocus="HCal();"><Option Value="361">Morn.</Option>
+<Option Value="901">Noon.</Option>
+<Option Value="1081">Eve.</Option></select>
+</div>
+</div>
+<TABLE CELLPADDING="0" CELLSPACING="0" class="passengers lastrow"><TR>
+<TD>
+<label for="NumAdult2" class="newlineLabel">Adults:</label><select class="size11select" NAME="NumAdult" id="NumAdult2"><option value="0">0</option>
+<option value="1">1</option>
+<option selected value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option></select>
+</TD>
+<TD>
+<label for="NumSenior2" class="newlineLabel">Seniors:</label><select class="size11select" name="NumSenior" id="NumChild2"><option value="0" selected>0</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option></select>
+</TD>
+<TD>
+<label for="NumChild2" class="newlineLabel">Children:</label><select class="size11select" name="NumChild" id="NumChild2"><option value="0" selected>0</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option></select>
+</TD>
+<TD class="expSearch"><table cellpadding="0" cellspacing="0" border="0" class="expSearchButton" onclick="document.PkgFormWithFlight.submit();"><tr>
+<td><img src="http://media.expedia.com/media/content/shared/graphics/other/button_left.gif" width="17px" height="22px" alt=""></td>
+<td class="expSearchMitte">Search for packages</td>
+<td><img src="http://media.expedia.com/media/content/shared/graphics/other/button_right.gif" width="7px" height="22px" alt=""></td>
+</tr></table></TD>
+</TR></TABLE>
+</FORM></div>
+<div ID="PkgNoFlight" STYLE="display:none;"><FORM Name="PkgFormNoFlight" ACTION="http://www.expedia.com/pubspec/scripts/eap.asp" METHOD="GET">
+<INPUT name="eapid" type="hidden" value="37294-1"><INPUT name="GOTO" type="hidden" value="PACKAGEWIZ"><INPUT TYPE="hidden" NAME="rfrr" VALUE="-34980"><INPUT TYPE="hidden" NAME="PackageType" VALUE="3"><INPUT TYPE="hidden" NAME="olid" VALUE=""><INPUT TYPE="hidden" NAME="mdpcid" VALUE="37294-1.5.1.ROS"><div id="PkgGoingto">
+<div class="newlineLabel">
+<br>Destination: </div>
+<INPUT TYPE="TEXT" class="explong" NAME="DestName" value="New York" onfocus="HCal();">
+</div>
+<div class="clearfix">
+<div class="expleft first">
+<label class="newlineLabel">Check-in: </label><input class="expdate" type="Text" name="FromDate" size="10" onclick="event.cancelBubble=true;SC(document.PkgFormNoFlight.FromDate,null);" onfocus="SC(document.PkgFormNoFlight.FromDate,null);"><select class="exptime" NAME="FromTime" onfocus="HCal();"><Option Value="1">12 AM</Option>
+<Option Value="60">1 AM</Option>
+<Option Value="120">2 AM</Option>
+<Option Value="180">3 AM</Option>
+<Option Value="240">4 AM</Option>
+<Option Value="300">5 AM</Option>
+<Option Value="360">6 AM</Option>
+<Option Value="420">7 AM</Option>
+<Option Value="480">8 AM</Option>
+<Option Value="540">9 AM</Option>
+<Option Value="600">10 AM</Option>
+<Option Selected value="660">11 AM</Option>
+<Option Value="720">12 noon</Option>
+<Option Value="780">1 PM</Option>
+<Option Value="840">2 PM</Option>
+<Option Value="900">3 PM</Option>
+<Option Value="960">4 PM</Option>
+<Option Value="1020">5 PM</Option>
+<Option Value="1080">6 PM</Option>
+<Option Value="1140">7 PM</Option>
+<Option Value="1200">8 PM</Option>
+<Option Value="1260">9 PM</Option>
+<Option Value="1320">10 PM</Option>
+<Option Value="1380">11 PM</Option></select>
+</div>
+<div class="expleft second">
+<label class="newlineLabel">Check-out: </label><input class="expdate" type="Text" name="ToDate" size="10" onclick="event.cancelBubble=true;SC(document.PkgFormNoFlight.ToDate,document.PkgFormNoFlight.FromDate);" onfocus="SC(document.PkgFormNoFlight.ToDate,document.PkgFormNoFlight.FromDate);"><select class="exptime" NAME="ToTime" onfocus="HCal();"><Option Value="1">12 AM</Option>
+<Option Value="60">1 AM</Option>
+<Option Value="120">2 AM</Option>
+<Option Value="180">3 AM</Option>
+<Option Value="240">4 AM</Option>
+<Option Value="300">5 AM</Option>
+<Option Value="360">6 AM</Option>
+<Option Value="420">7 AM</Option>
+<Option Value="480">8 AM</Option>
+<Option Value="540">9 AM</Option>
+<Option Value="600">10 AM</Option>
+<Option Selected value="660">11 AM</Option>
+<Option Value="720">12 noon</Option>
+<Option Value="780">1 PM</Option>
+<Option Value="840">2 PM</Option>
+<Option Value="900">3 PM</Option>
+<Option Value="960">4 PM</Option>
+<Option Value="1020">5 PM</Option>
+<Option Value="1080">6 PM</Option>
+<Option Value="1140">7 PM</Option>
+<Option Value="1200">8 PM</Option>
+<Option Value="1260">9 PM</Option>
+<Option Value="1320">10 PM</Option>
+<Option Value="1380">11 PM</Option></select>
+</div>
+</div>
+<TABLE CELLPADDING="0" CELLSPACING="0" class="passengers lastrow"><TR>
+<TD>
+<label class="newlineLabel">Adults:</label><select class="size11select" NAME="NumAdult"><option value="0">0</option>
+<option value="1">1</option>
+<option selected value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option></select>
+</TD>
+<TD>
+<label class="newlineLabel">Seniors:</label><select class="size11select" NAME="NumSenior"><option value="0" selected>0</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option></select>
+</TD>
+<TD>
+<label class="newlineLabel">Children:</label><select class="size11select" NAME="NumChild"><option value="0" selected>0</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option></select>
+</TD>
+<TD class="expSearch"><table cellpadding="0" cellspacing="0" border="0" class="expSearchButton" onclick="document.PkgFormNoFlight.submit();"><tr>
+<td><img src="http://media.expedia.com/media/content/shared/graphics/other/button_left.gif" width="17px" height="22px" alt=""></td>
+<td class="expSearchMitte">Search for packages</td>
+<td><img src="http://media.expedia.com/media/content/shared/graphics/other/button_right.gif" width="7px" height="22px" alt=""></td>
+</tr></table></TD>
+</TR></TABLE>
+</FORM></div>
+<div ID="PkgWithFlightCar" STYLE="display:none;"><FORM Name="PkgFormWithFlightCar" ACTION="http://www.expedia.com/pubspec/scripts/eap.asp" METHOD="GET">
+<INPUT name="eapid" type="hidden" value="37294-1"><INPUT name="GOTO" type="hidden" value="PACKAGEWIZ"><INPUT TYPE="hidden" NAME="rfrr" VALUE="-34980"><INPUT TYPE="hidden" NAME="PackageType" VALUE="5"><INPUT TYPE="hidden" NAME="olid" VALUE=""><INPUT TYPE="hidden" NAME="mdpcid" VALUE="37294-1.5.1.ROS"><div class="clearfix">
+<div class="expleft first">
+<label class="newlineLabel">Leaving from: </label><input class="explong" type="Text" name="FrAirport" SIZE="22" value="" MAXLENGTH="64" onfocus="HCal();"><div class="newlineLabel">Departing:</div>
+<input class="expdate" type="Text" name="FromDate" size="10" onclick="event.cancelBubble=true;SC(document.PkgFormWithFlightCar.FromDate,null);" onfocus="SC(document.PkgFormWithFlightCar.FromDate,null);"><select class="exptime" NAME="FromTime" onfocus="HCal();"><Option Value="361">Morn.</Option>
+<Option Value="901">Noon.</Option>
+<Option Value="1081">Eve.</Option></select>
+</div>
+<div class="expleft">
+<label class="newlineLabel">Going to: </label><INPUT TYPE="TEXT" class="explong" size="22" NAME="DestName" value="New York" onfocus="HCal();"><div class="newlineLabel">Returning: </div>
+<input class="expdate" type="Text" name="ToDate" size="10" onclick="event.cancelBubble=true;SC(document.PkgFormWithFlightCar.ToDate,document.PkgFormWithFlightCar.FromDate);" onfocus="SC(document.PkgFormWithFlightCar.ToDate,document.PkgFormWithFlightCar.FromDate);"><select class="exptime" NAME="ToTime" onfocus="HCal();"><Option Value="361">Morn.</Option>
+<Option Value="901">Noon.</Option>
+<Option Value="1081">Eve.</Option></select>
+</div>
+</div>
+<TABLE CELLPADDING="0" CELLSPACING="0" class="passengers lastrow"><TR>
+<TD>
+<label for="NumAdult4" class="newlineLabel">Adults:</label><select class="size11select" NAME="NumAdult" id="NumAdult4"><option value="0">0</option>
+<option value="1">1</option>
+<option selected value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option></select>
+</TD>
+<TD>
+<label for="NumSenior4" class="newlineLabel">Seniors:</label><select class="size11select" NAME="NumSenior" id="NumSenior4"><option value="0" selected>0</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option></select>
+</TD>
+<TD>
+<label for="NumChild4" class="newlineLabel">Children:</label><select class="size11select" NAME="NumChild" id="NumChild4"><option value="0" selected>0</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option></select>
+</TD>
+<TD class="expSearch"><table cellpadding="0" cellspacing="0" border="0" class="expSearchButton" onclick="document.PkgFormWithFlightCar.submit();"><tr>
+<td><img src="http://media.expedia.com/media/content/shared/graphics/other/button_left.gif" width="17px" height="22px" alt=""></td>
+<td class="expSearchMitte">Search for packages</td>
+<td><img src="http://media.expedia.com/media/content/shared/graphics/other/button_right.gif" width="7px" height="22px" alt=""></td>
+</tr></table></TD>
+</TR></TABLE>
+</FORM></div>
+</div>
+<div id="hot" STYLE="display:none;" class="bookingInfo"><FORM NAME="HotForm" ACTION="http://www.expedia.com/pubspec/scripts/eap.asp" METHOD="get">
+<INPUT name="eapid" type="hidden" value="37294-1"><INPUT TYPE="HIDDEN" NAME="GOTO" VALUE="HOTSEARCH"><INPUT TYPE="hidden" NAME="lang" VALUE="1033"><INPUT TYPE="hidden" NAME="ovrd" VALUE="3"><INPUT TYPE="hidden" NAME="rfrr" VALUE="-34980"><INPUT TYPE="hidden" NAME="olid" VALUE=""><INPUT TYPE="hidden" NAME="mdpcid" VALUE="37294-1.5.1.ROS"><TABLE CELLPADDING="0" CELLSPACING="0" border="0"><TR>
+<TD>
+<label class="newlineLabel" for="hotCity">Search for hotels in: </label><input class="explong" TYPE="text" NAME="CityName" value="New York" onfocus="HCal();" id="hotCity">
+</TD>
+<TD>
+<div class="newlineLabel">Check-in: </div>
+<input class="expdate" type="Text" name="InDate" size="10" onclick="event.cancelBubble=true;SC(document.HotForm.InDate,null);" onfocus="SC(document.HotForm.InDate,null);">
+</TD>
+<TD>
+<div class="newlineLabel">Check-out: </div>
+<INPUT class="expdate" type="Text" name="OutDate" size="10" onclick="event.cancelBubble=true;SC(document.HotForm.OutDate,document.HotForm.InDate);" onfocus="SC(document.HotForm.OutDate,document.HotForm.InDate);">
+</TD>
+</TR></TABLE>
+<div class="passengers lastrow">
+<div class="expleft">
+<label class="newlineLabel">Rooms:</label><select NAME="NumRoom" OnChange="mrd(document.HotForm.NumRoom.value)" onfocus="HCal();"><option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option></select>
+</div>
+<div class="expleft">
+<label class="newlineLabel">Adults: </label><select class="size11select" NAME="NumAdult"><option value="1">1</option>
+<option selected value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option></select>
+</div>
+<div class="expleft">
+<label class="newlineLabel">Children: </label><select class="size11select" NAME="NumChild"><option value="0">0</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option></select>
+</div>
+<div id="hotrm2" STYLE="display:none;clear:left;">
+<div class="expleft roomNum">Room 2</div>
+<div class="expleft">
+<label class="newlineLabel">Adults: </label><select class="size11select" NAME="NumAdult2"><option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option></select>
+</div>
+<div class="expleft">
+<label class="newlineLabel">Children: </label><select class="size11select" NAME="NumChild2"><option value="0">0</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option></select>
+</div>
+</div>
+<div id="hotrm3" STYLE="display:none;clear:left;">
+<div class="expleft roomNum">Room 3</div>
+<div class="expleft">
+<label class="newlineLabel">Adults: </label><select class="size11select" NAME="NumAdult3"><option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option></select>
+</div>
+<div class="expleft">
+<label class="newlineLabel">Children: </label><select class="size11select" NAME="NumChild3"><option value="0">0</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option></select>
+</div>
+</div>
+<div class="expSearch">
+<div id="rm1txt"></div>
+<table cellpadding="0" cellspacing="0" border="0" class="expSearchButton" onclick="document.HotForm.submit();"><tr>
+<td><img src="http://media.expedia.com/media/content/shared/graphics/other/button_left.gif" width="17px" height="22px" alt=""></td>
+<td class="expSearchMitte">Search for hotels</td>
+<td><img src="http://media.expedia.com/media/content/shared/graphics/other/button_right.gif" width="7px" height="22px" alt=""></td>
+</tr></table>
+</div>
+</div>
+</FORM></div>
+<div id="flt" STYLE="display:none;" class="bookingInfo"><FORM NAME="FltForm" ACTION="http://www.expedia.com/pubspec/scripts/eap.asp" METHOD="get">
+<INPUT name="eapid" type="hidden" value="37294-1"><INPUT TYPE="hidden" NAME="GOTO" VALUE="EXPFLTWIZ"><INPUT TYPE="hidden" NAME="rfrr" VALUE="-34980"><INPUT TYPE="hidden" NAME="olid" VALUE=""><INPUT TYPE="hidden" NAME="mdpcid" VALUE="37294-1.5.1.ROS"><TABLE CELLPADDING="0" CELLSPACING="0" border="0"><TR class="departureRow">
+<td nowrap>
+<div class="newlineLabel">Leaving from: </div>
+<input class="explong" type="Text" name="FrAirport" value="" MAXLENGTH="64" onfocus="HCal();"><div class="newlineLabel">Departing: </div>
+<input class="expdate" type="Text" name="FromDate" onclick="event.cancelBubble=true;SC(document.FltForm.FromDate,null);" onfocus="SC(document.FltForm.FromDate,null);"><select class="exptime" NAME="FromTime" onfocus="HCal();"><Option Value="1">12 AM</Option>
+<Option Value="60">1 AM</Option>
+<Option Value="120">2 AM</Option>
+<Option Value="180">3 AM</Option>
+<Option Value="240">4 AM</Option>
+<Option Value="300">5 AM</Option>
+<Option Value="360">6 AM</Option>
+<Option Value="420">7 AM</Option>
+<Option Value="480">8 AM</Option>
+<Option Value="540">9 AM</Option>
+<Option Value="600">10 AM</Option>
+<Option Selected value="660" style="width:280px !important;">11 AM</Option>
+<Option Value="720">12 noon</Option>
+<Option Value="780">1 PM</Option>
+<Option Value="840">2 PM</Option>
+<Option Value="900">3 PM</Option>
+<Option Value="960">4 PM</Option>
+<Option Value="1020">5 PM</Option>
+<Option Value="1080">6 PM</Option>
+<Option Value="1140">7 PM</Option>
+<Option Value="1200">8 PM</Option>
+<Option Value="1260">9 PM</Option>
+<Option Value="1320">10 PM</Option>
+<Option Value="1380">11 PM</Option></select>
+</td>
+<td nowrap>
+<div class="newlineLabel">Going to: </div>
+<input class="explong" TYPE="text" NAME="ToAirport" value="New York" onfocus="HCal();"><div class="newlineLabel">Returning: </div>
+<input class="expdate" type="Text" name="ToDate" size="10" onclick="event.cancelBubble=true;SC(document.FltForm.ToDate,document.FltForm.FromDate);" onfocus="SC(document.FltForm.ToDate,document.FltForm.FromDate);"><select class="exptime" NAME="ToTime" onfocus="HCal();"><Option Value="1">12 AM</Option>
+<Option Value="60">1 AM</Option>
+<Option Value="120">2 AM</Option>
+<Option Value="180">3 AM</Option>
+<Option Value="240">4 AM</Option>
+<Option Value="300">5 AM</Option>
+<Option Value="360">6 AM</Option>
+<Option Value="420">7 AM</Option>
+<Option Value="480">8 AM</Option>
+<Option Value="540">9 AM</Option>
+<Option Value="600">10 AM</Option>
+<Option Selected value="660">11 AM</Option>
+<Option Value="720">12 noon</Option>
+<Option Value="780">1 PM</Option>
+<Option Value="840">2 PM</Option>
+<Option Value="900">3 PM</Option>
+<Option Value="960">4 PM</Option>
+<Option Value="1020">5 PM</Option>
+<Option Value="1080">6 PM</Option>
+<Option Value="1140">7 PM</Option>
+<Option Value="1200">8 PM</Option>
+<Option Value="1260">9 PM</Option>
+<Option Value="1320">10 PM</Option>
+<Option Value="1380">11 PM</Option></select>
+</td>
+</TR></TABLE>
+<div class="lastrow clearfix">
+<div class="passengers">
+<div class="expleft">
+<label for="NumAdult" class="newlineLabel">Adults:</label><select NAME="NumAdult" id="NumAdult"><option value="1">1</option>
+<option selected value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option></select>
+</div>
+<div class="expleft">
+<label for="NumSenior" class="newlineLabel">Seniors:</label><select NAME="NumSenior" id="NumChild"><option value="0" selected>0</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option></select>
+</div>
+<div class="expleft">
+<label for="NumChild" class="newlineLabel">Children:</label><select NAME="NumChild" id="NumChild"><option value="0" selected>0</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option></select>
+</div>
+</div>
+<div class="expright"><table cellpadding="0" cellspacing="0" onclick="document.FltForm.submit();" class="expSearchButton"><tr>
+<td><img src="http://media.expedia.com/media/content/shared/graphics/other/button_left.gif" width="17px" height="22px" alt=""></td>
+<td class="expSearchMitte">Search for flights</td>
+<td><img src="http://media.expedia.com/media/content/shared/graphics/other/button_right.gif" width="7px" height="22px" alt=""></td>
+</tr></table></div>
+</div>
+</FORM></div>
+<div id="car" STYLE="display:none;" class="bookingInfo"><FORM Name="CarForm" ACTION="http://www.expedia.com/pubspec/scripts/eap.asp" METHOD="get">
+<INPUT name="eapid" type="hidden" value="37294-1"><INPUT TYPE="HIDDEN" NAME="GOTO" VALUE="CARSEARCH"><INPUT TYPE="hidden" NAME="rfrr" VALUE="-34980"><INPUT TYPE="hidden" NAME="olid" VALUE=""><INPUT TYPE="hidden" NAME="mdpcid" VALUE="37294-1.5.1.ROS"><TABLE CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+<label class="newlineLabel" for="carPickup">Pick-up location:</label><input class="explong" maxLength="100" name="PickUpLoc" value="New York" onfocus="HCal();" id="carPickup">
+</TD>
+<TD>
+<label class="newlineLabel" for="carClass">Car class:</label><select name="Class" class="explong" id="carClass"><Option Value="NoPreference">No Preference</Option>
+<Option Value="Economy">Economy</Option>
+<Option Value="Compact">Compact</Option>
+<Option Value="Midsize">Midsize</Option>
+<Option Value="Standard">Standard</Option>
+<Option Value="FullSize">Full Size</Option>
+<Option Value="Premium">Premium</Option>
+<Option Value="Luxury">Luxury</Option>
+<Option Value="Convertible">Convertible</Option>
+<Option Value="Minivan">Mini-van</Option>
+<Option Value="SUV">Sport Utility Vehicle</Option></select>
+</TD>
+</TR>
+<TR>
+<TD>
+<div class="newlineLabel">Pick-up: </div>
+<INPUT type="Text" class="expdate" name="FromDate" size="10" onclick="event.cancelBubble=true;SC(document.CarForm.FromDate,null);" onfocus="SC(document.CarForm.FromDate,null);"><select NAME="PickUpTime" class="exptime" onfocus="HCal();"><Option Value="1">12 AM</Option>
+<Option Value="60">1 AM</Option>
+<Option Value="120">2 AM</Option>
+<Option Value="180">3 AM</Option>
+<Option Value="240">4 AM</Option>
+<Option Value="300">5 AM</Option>
+<Option Value="360">6 AM</Option>
+<Option Value="420">7 AM</Option>
+<Option Value="480">8 AM</Option>
+<Option Value="540">9 AM</Option>
+<Option Value="600">10 AM</Option>
+<Option Selected value="660">11 AM</Option>
+<Option Value="720">12 noon</Option>
+<Option Value="780">1 PM</Option>
+<Option Value="840">2 PM</Option>
+<Option Value="900">3 PM</Option>
+<Option Value="960">4 PM</Option>
+<Option Value="1020">5 PM</Option>
+<Option Value="1080">6 PM</Option>
+<Option Value="1140">7 PM</Option>
+<Option Value="1200">8 PM</Option>
+<Option Value="1260">9 PM</Option>
+<Option Value="1320">10 PM</Option>
+<Option Value="1380">11 PM</Option></select>
+</TD>
+<TD>
+<div class="newlineLabel">Drop-off: </div>
+<INPUT type="Text" class="expdate" name="ToDate" size="10" onclick="event.cancelBubble=true;SC(document.CarForm.ToDate,document.CarForm.FromDate);" onfocus="SC(document.CarForm.ToDate,document.CarForm.FromDate);"><select NAME="DropTime" class="exptime" onfocus="HCal();"><Option Value="1">12 AM</Option>
+<Option Value="60">1 AM</Option>
+<Option Value="120">2 AM</Option>
+<Option Value="180">3 AM</Option>
+<Option Value="240">4 AM</Option>
+<Option Value="300">5 AM</Option>
+<Option Value="360">6 AM</Option>
+<Option Value="420">7 AM</Option>
+<Option Value="480">8 AM</Option>
+<Option Value="540">9 AM</Option>
+<Option Value="600">10 AM</Option>
+<Option Selected value="660">11 AM</Option>
+<Option Value="720">12 noon</Option>
+<Option Value="780">1 PM</Option>
+<Option Value="840">2 PM</Option>
+<Option Value="900">3 PM</Option>
+<Option Value="960">4 PM</Option>
+<Option Value="1020">5 PM</Option>
+<Option Value="1080">6 PM</Option>
+<Option Value="1140">7 PM</Option>
+<Option Value="1200">8 PM</Option>
+<Option Value="1260">9 PM</Option>
+<Option Value="1320">10 PM</Option>
+<Option Value="1380">11 PM</Option></select>
+</TD>
+</TR>
+</TABLE>
+<div class="lastrow clearfix"><table cellpadding="0" cellspacing="0" border="0" onclick="document.CarForm.submit();" class="expSearchButton"><tr>
+<td><img src="http://media.expedia.com/media/content/shared/graphics/other/button_left.gif" width="17px" height="22px" alt=""></td>
+<td class="expSearchMitte">Search for cars</td>
+<td><img src="http://media.expedia.com/media/content/shared/graphics/other/button_right.gif" width="7px" height="22px" alt=""></td>
+</tr></table></div>
+</FORM></div>
+<div id="cru" STYLE="display:none;" class="bookingInfo"><FORM NAME="CruForm" ACTION="http://www.expedia.com/pubspec/scripts/eap.asp" METHOD="get">
+<INPUT name="eapid" type="hidden" value="37294-1"><input type="hidden" name="GOTO" value="CRUISESEARCH"><INPUT TYPE="hidden" NAME="rfrr" VALUE="-34980"><INPUT TYPE="hidden" NAME="olid" VALUE=""><INPUT TYPE="hidden" NAME="mdpcid" VALUE="37294-1.5.1.ROS"><TABLE CELLPADDING="0" CELLSPACING="0"><TR>
+<TD>
+<label class="newlineLabel">Select a top destination:</label><select name="destination" class="explong"><Option Value="">----------------------------</Option>
+<Option Value="6023184">Africa</Option>
+<Option Value="203">Alaska</Option>
+<Option Value="6050677">Asia</Option>
+<Option Value="13">Bahamas</Option>
+<Option Value="20">Bermuda</Option>
+<Option Value="6022969">Caribbean</Option>
+<Option Value="6022967">Europe</Option>
+<Option Value="213">Hawaii</Option>
+<Option Value="6023183">Mediterranean</Option>
+<Option Value="6023750">Mediterranean - Eastern</Option>
+<Option Value="6023751">Mediterranean - Western</Option>
+<Option Value="6050655">Mexico</Option>
+<Option Value="6049796">Northern Europe</Option>
+<Option Value="-2">Nowhere</Option>
+<Option Value="6023753">Panama Canal</Option>
+<Option Value="6050676">South America</Option>
+<Option Value="6023180">South Pacific</Option>
+<Option Value="-3">Transatlantic</Option>
+<Option Value="-4">Transpacific</Option>
+<Option Value="6050649">United States &amp; Canada</Option>
+<Option Value="6023746">US Pacific Coast</Option>
+<Option Value="-5">World</Option></select>
+</TD>
+<TD>
+<div class="newlineLabel">Departing in:</div>
+<select name="FromDate" class="explong"></select>
+</TD>
+</TR></TABLE>
+<div class="lastrow clearfix">
+<div class="expleft">
+<label class="newlineLabel">Cruise length:</label><select class="explong" NAME="CruiseLength"><Option Value="0">Show All</Option>
+<Option Value="1">1-2 nights</Option>
+<Option Value="2">3-5 nights</Option>
+<Option Value="3">6-9 nights</Option>
+<Option Value="4">10-14 nights</Option>
+<Option Value="5">15+ nights</Option></select>
+</div>
+<div class="expright"><table cellpadding="0" cellspacing="0" border="0" onclick="document.CruForm.submit();" class="expSearchButton"><tr>
+<td><img src="http://media.expedia.com/media/content/shared/graphics/other/button_left.gif" width="17px" height="22px" alt=""></td>
+<td class="expSearchMitte">Search for cruises</td>
+<td><img src="http://media.expedia.com/media/content/shared/graphics/other/button_right.gif" width="7px" height="22px" alt=""></td>
+</tr></table></div>
+</div>
+</FORM></div>
+<div id="tsh" STYLE="display:none;" class="bookingInfo"><FORM NAME="TshForm" ACTION="http://www.expedia.com/pubspec/scripts/eap.asp" METHOD="get">
+<INPUT name="eapid" type="hidden" value="37294-1"><input type="hidden" name="GOTO" value="TSHOPSSEARCH"><INPUT TYPE="hidden" NAME="rfrr" VALUE="-34980"><INPUT TYPE="hidden" NAME="olid" VALUE=""><INPUT TYPE="hidden" NAME="mdpcid" VALUE="37294-1.5.1.ROS"><label class="newlineLabel">Destination:</label><input class="explong" type="Text" name="LocationName" value="New York" SIZE="22" MAXLENGTH="64" onfocus="HCal();"><div class="lastrow clearfix">
+<div class="expleft">
+<label class="newlineLabel">From:</label><INPUT CLASS="expdate" type="Text" name="StartDate" onclick="event.cancelBubble=true;SC(document.TshForm.StartDate,null);" onfocus="SC(document.TshForm.StartDate,null);">
+</div>
+<div class="expleft">
+<label class="newlineLabel">To:</label><INPUT CLASS="expdate" type="Text" name="EndDate" onclick="event.cancelBubble=true;SC(document.TshForm.EndDate,document.TshForm.StartDate);" onfocus="SC(document.TshForm.EndDate,TshForm.StartDate);">
+</div>
+<div class="expright"><table cellpadding="0" cellspacing="0" border="0" onclick="document.TshForm.submit();" class="expSearchButton"><tr>
+<td><img src="http://media.expedia.com/media/content/shared/graphics/other/button_left.gif" width="17px" height="22px" alt=""></td>
+<td class="expSearchMitte">Search for activities</td>
+<td><img src="http://media.expedia.com/media/content/shared/graphics/other/button_right.gif" width="7px" height="22px" alt=""></td>
+</tr></table></div>
+</div>
+</FORM></div>
+</div>
+</TD></TR>
+</TABLE>
+<script xmlns:fo="http://www.w3.org/1999/XSL/Format" language="JavaScript" src="http://graphics8.nytimes.com/js/section/travel/expediaModuleCalendar.js"></script><script xmlns:fo="http://www.w3.org/1999/XSL/Format" language="JavaScript" for="window" event="onload">
+var f=document.Wiz;
+var iCount = 0;
+if (f.sPac.checked){f.sPac.click();}
+else if(f.sHot.checked){f.sHot.click();}
+else if(f.sFlt.checked){f.sFlt.click();}
+else if(f.sCar.checked){f.sCar.click();}
+else if(f.sCru.checked){f.sCru.click();}
+else if(f.sTsh.checked){f.sTsh.click();}
+else{
+	f.srch[0].click();
+}
+
+var f=document.HotForm;if (f.NumRoom.selectedIndex == 1){mrd(2);}else if (f.NumRoom.selectedIndex == 2){mrd(3);}else{mrd(1);}
+
+
+SetPkgType(document.PkgTypeFrm.PackageType.value);
+</script><script xmlns:fo="http://www.w3.org/1999/XSL/Format" language="JavaScript">
+var temp;
+
+var dtDate = new Date(new Date().valueOf() + 1814400000);var strStartDate = (dtDate.getMonth() + 1) + '/' + dtDate.getDate() + '/' + dtDate.getFullYear() + '';var dtEndDate = new Date(new Date().valueOf() + 1987200000);var strEndDate = (dtEndDate.getMonth() + 1) + '/' + dtEndDate.getDate() + '/' + dtEndDate.getFullYear() + '';
+
+d=document.forms;
+d.PkgFormNoFlight.FromDate.value = d.PkgFormWithFlight.FromDate.value = d.PkgFormWithFlightCar.FromDate.value = d.FltForm.FromDate.value = d.HotForm.InDate.value = d.CarForm.FromDate.value = d.TshForm.StartDate.value = strStartDate;
+d.PkgFormNoFlight.ToDate.value = d.PkgFormWithFlight.ToDate.value = d.PkgFormWithFlightCar.ToDate.value = d.FltForm.ToDate.value = d.HotForm.OutDate.value = d.CarForm.ToDate.value = d.TshForm.EndDate.value = strEndDate;
+</script><br clear="all"><br clear="all"><br clear="all"><br><div id="adxSponLinkA"></div>
+<br clear="all">
+</div>
+<br clear="all">
+</div>
+<div class="hideContent">
+			
+		<!-- Start UPT call -->
+		<img height="1" width="3" border=0 src="http://up.nytimes.com/?d=0/19/&t=6&s=0&ui=&r=&u=www%2enytimes%2ecom%2fweather%3f">
+		<!-- End UPT call -->
+	
+		
+        <script language="JavaScript"><!--
+          var dcsvid="";
+          var regstatus="non-registered";
+        //--></script>
+        <script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+        <noscript>
+          <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div>
+        </noscript>
+   
+
+		<script language="Javascript">Tacoda_AMS_DDC_addPair("t_section","Weather")</script>
+		<script language="Javascript">Tacoda_AMS_DDC_addPair("site","nytimes.com")</script>
+		<script language="JavaScript">Tacoda_AMS_DDC("http://te.nytimes.com/tte/blank.gif","1.0")</script>	
+		<IMG SRC="/adx/bin/clientside/64915abfQ2F.7WfQ24Q24Q7BSQ247Q22qQ7Caf88gQ238gQ7CSrf" height="1" width="3"><script src="http://content.dl-rms.com/rms/5085/nodetag.js"></script></div>
+<div id="footer">
+<div class="footerRow">
+<a href="http://www.nytimes.com">Home</a><ul>
+<li><a href="http://www.nytimes.com/pages/world/index.html">World</a></li>
+<li><a href="http://www.nytimes.com/pages/national/index.html">U.S.</a></li>
+<li><a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a></li>
+<li><a href="http://www.nytimes.com/pages/business/index.html">Business</a></li>
+<li><a href="http://www.nytimes.com/pages/technology/index.html">Technology</a></li>
+<li><a href="http://www.nytimes.com/pages/science/index.html">Science</a></li>
+<li><a href="http://www.nytimes.com/pages/health/index.html">Health</a></li>
+<li><a href="http://www.nytimes.com/pages/sports/index.html">Sports</a></li>
+<li><a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a></li>
+<li><a href="http://www.nytimes.com/pages/arts/index.html">Arts</a></li>
+<li><a href="http://www.nytimes.com/pages/style/index.html">Style</a></li>
+<li><a href="http://travel.nytimes.com">Travel</a></li>
+<li><a href="http://jobmarket.nytimes.com/pages/jobs/index.html">Jobs</a></li>
+<li><a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a></li>
+<li><a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a></li>
+<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+</ul>
+</div>
+<ul>
+<li class="first">
+<a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&#169; 2011</a> <a href="http://www.nytco.com/">The New York Times Company</a>
+</li>
+<li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Terms of Service</a></li>
+<li><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+<li><a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a></li>
+<li><a href="http://www.nytimes.com/rss" class="rssButton">RSS</a></li>
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+<li><a href="http://www.nytco.com/career.html">Work for Us</a></li>
+<li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+</ul>
+</div>
+</div>
+</div></body>
+</html>
+
+

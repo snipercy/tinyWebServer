@@ -1,0 +1,10 @@
+Date: Fri, 02 Dec 2011 18:04:31 GMT
+Location: /new-york
+s: 502494401|prodmaster
+Server: Microsoft-IIS/7.0
+Content-Length: 126
+Connection: Close
+
+<html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href="/new-york">here</a>.</h2>
+</body></html>

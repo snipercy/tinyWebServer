@@ -1,0 +1,11 @@
+Content-Length: 161
+Connection: close
+Location: http://www.nytimes.com/ref/membercenter/apperror.html
+
+<html>
+<head><title>302 Found</title></head>
+<body bgcolor="white">
+<center><h1>302 Found</h1></center>
+<hr><center>nginx/0.7.59</center>
+</body>
+</html>

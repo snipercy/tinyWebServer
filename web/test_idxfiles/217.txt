@@ -1,0 +1,3 @@
+Location: http://www.nytimes.com/glogin?URI=http://www.nytimes.com/2011/12/02/arts/design/luminous-modernism-at-scandinavia-house-review.html&OQ=_rQ3D1&OP=68d7419fQ2F!Q5B)Q7E!Q7C-Q5C5Q5E--iQ3F!Q3FsQ24Q24!Q24Q3F!sQ3F!RQ5Ei5!Q7C)5tJy!nQ60rty-Q605.r-Q7C)Q5Eyt5r.Ri.5Q5CRyQ7CtyR3tR.o-Q605).Q5E)3t)Q5Bkoirn
+Connection: keep-alive
+

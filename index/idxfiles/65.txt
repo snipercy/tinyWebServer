@@ -1,0 +1,166 @@
+Connection: close
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>您访问的网页不存在</title>
+<meta name="Robots" content="noindex,nofollow" />
+    <meta http-equiv="Refresh" content="10; url=//" />
+<!--dynamictag--><!--[GanjiSta_{"file":"ganji,css\/ued\/404\/error.cmb.css,css\/v5\/global\/ka-ads.css","configDir":"css\/ued\/404","from":"php"}]--><script type="text/javascript">window.__GJ_PACK_CONFIG__ = {"documentDomain":"ganji.com","debug":false,"useCombine":true,"addVersion":true,"cookieDomain":"ganji.com","defaultServer":"sta.ganjistatic1.com","defaultVersion":1433240520,"servers":["sta.ganjistatic1.com","stacdn201.ganjistatic1.com","sta2.ganjistatic2.com","stacdn.ganjistatic2.com","sta.ganji.com"],"fileVersions":{"3":1432731667,"7":1432893427},"fileCombines":{"11":[12,13,14],"18":[22,23,24,25,26,27,28,29,30,32,33],"36":[22,37,38,39,40,41,42,43,45,46,47],"49":[51,53,55,57,59,61],"62":[66,68,69,70,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,90,91,92,93,94],"95":[97,98,99,101,102,103,104,105,106,107,108,109,110],"113":[114,115],"119":[121,123,124,126,127]},"fileCodes":{"ganji":128,"app_global":130,"autocomplete":132,"jquery":134,"jquery_ui":135,"util":11,"json":137,"log_tracker":[139,141,142,144,146],"select":148,"upload":150,"tool\/webim_v1\/js\/webim.js":18,"tool\/webim\/js\/webim.js":36,"iframe":[144,151],"panel":[153,13,155,156],"flash":[158,159],"talk_to_parent":[160,144],"validator":[162,163],"validator2":[162,164,165],"map":[13,168],"uploader":[13,171],"editor":[173,174],"passport":[175],"uniontgm":[177,178],"uniontgm_v6":[179,178],"uniontgm_v5_b":[180,178],"uniontgm_v6_b":[181,178],"app\/ms\/common\/adm\/adm.cmb.js":62},"words":["app\/","0|ms_v2\/","1|self_service\/","2|pub_success_tips.js","0|backend\/","4|js\/","5|vehiclec2c\/","6|tip.js","js\/","8|util\/","9|ganji\/","10|util.cmb.js","jquery","iframe","panel","tool\/","15|webim\/","16|js\/","17|webim.cmb.js","8|app\/","19|common\/","20|user\/","21|user.js","17|md5-min.js","17|webim.util.js","17|webim.core.js","17|webim.html.js","17|webim.interfaces.js","17|webim.start.js","17|webim.config.js","17|webim.widget.js","17|module\/","31|webim.module.base.js","31|moduleMgr.js","15|webim_v2\/","34|js\/","35|webim.cmb.js","35|md5-min.js","35|webim.util.js","35|webim.core.js","35|webim.html.js","35|webim.scrollbar.js","35|webim.start.js","35|webim.config.js","35|module\/","44|webim.module.base.js","44|webim.module.main.js","44|moduleMgr.js","9|yui\/","48|charts.cmb.js","48|yahoo-dom-event\/","50|yahoo-dom-event.js","48|json\/","52|json.js","48|element\/","54|element.js","48|datasource\/","56|datasource.js","48|swf\/","58|swf.js","48|charts\/","60|charts.js","gov.cmb.js","0|ms\/","63|common\/","64|adm\/","65|adm.js","65|adm_base\/","67|template.js","67|enum.js","67|common.js","67|core\/","71|Banner.js","71|DouFuKuai.js","71|GanJiTuiGuang.js","71|HuoJiTop.js","71|JingPinTuiJian.js","71|KABottom.js","71|KABottomJS.js","71|KABottomLink.js","71|KAIconLink.js","71|KAImgLink.js","71|KALink.js","71|KARightJS.js","71|KARightLink.js","71|KASkyscraper.js","71|PinPaiGuangGao.js","71|ZanZhuShangGuangGao.js","71|KACouplet.js","65|adm_widget\/","89|KARightBrand_img.js","89|KARightBrand_img_desc_job.js","89|KARightBrand_img_desc_other.js","89|KARightBrand_img_desc_toggle.js","89|KATopBrand_img_ershouche.js","gov2.cmb.js","1|adm2\/","96|adm2_core.js","96|adm2_config.js","96|adm2_template.js","96|default_widget\/","100|KA_Bottom.js","100|KA_Bottom_Link.js","100|KA_Couplet.js","100|KA_Img_Link.js","100|KA_Link.js","100|KA_Right_Link.js","100|KA_Skyscraper.js","100|KAFlag.js","100|KARightImg.js","100|KATop.js","0|common\/","111|uniontgm2\/","112|uniontgm.cmb.js","112|uniontgm_tpl.js","112|uniontgm.js","css\/","116|ued\/","117|404\/","118|error.cmb.css","116|global\/","120|global.css","117|global\/","122|globle.css","122|google_ads.css","117|category\/","125|global.css","118|404.css","10|ganji.js","20|global\/","129|global.js","9|autocomplete\/","131|autocomplete.js","9|jquery\/","133|jquery-1.8.2.js","133|jquery.ui.js","9|json\/","136|json.js","9|log_tracker\/","138|log_tracker_simple.js","9|uuid\/","140|uuid.js","140|unvalid_uuids.js","9|iframe\/","143|rpc3.js","9|event\/","145|event_emitter.js","9|select\/","147|jquery.select.js","9|upload\/","149|upload.js","143|iframe.js","9|panel\/","152|panel.css","9|dragdrop\/","154|dragdrop.js","152|panel.js","9|swfobject\/","157|swfobject-2.2.js","157|swfloader.js","143|talk_to_parent.js","9|validator\/","161|validator.css","161|validator.js","145|event.js","161|validator-2.js","15|map\/","166|js\/","167|create_map.js","15|uploader\/","169|js\/","170|create_uploader.js","15|editor\/","172|editor.css","172|editor.js","21|passport.js","111|uniontgm\/","176|uniontgm_tpl_v5.js","176|uniontgm_v7.js","176|uniontgm_tpl_v6.js","176|uniontgm_tpl_v5_B.js","176|uniontgm_tpl_v6_B.js"],"reqid":"712332cc-9edd-4114-99ba-b679704817a7","lottery":false};</script>
+<script>(function(){var dt=new Date;var CK=getCookie("STA_CK");checkSta(function(err){if(err){if(!CK){setCookie("STA_SL",1);sendlog("sta=-1");setCookie("STA_CK",1)}else{sendlog("sta=-"+CK+"&ds="+getCookie("STA_DS"));if(CK==="2"){if(window.STA_DS_){setCookie("STA_DS",window.STA_DS_)}else{setCookie("STA_DS",parseInt(getCookie("STA_DS"))+1||2);sendlog("sta=0")}setCookie("STA_CK",3)}}}else{if(!CK){return}else{sendlog("sta="+CK+"&ds="+getCookie("STA_DS"));removeCookie("STA_CK")}}});function sendlog(log){if(!getCookie("STA_SL")){return}removeCookie("STA_SL");var img1=new Image;var img2=new Image;img1.src="http://analytics.ganji.com/c.gif?"+log;img2.src="http://tralog.ganji.com/c.gif?"+log}function checkSta(cb){setTimeout(function(){typeof GJ==="undefined"?cb(1):cb(0)},2e4)}function getCookie(name){var cookie=document.cookie||"";var match;if(!cookie){return}match=cookie.match(new RegExp("(^| )"+name+"=([^;]*)(;|$)"));if(match){return match[2]}}function setCookie(name,value){dt.setTime(864e5+ +new Date);document.cookie=name+"="+value+"; expires="+dt.toGMTString()+"; path=/; domain=ganji.com;"}function removeCookie(name){dt.setTime(+new Date-1e3);document.cookie=name+"=; expires="+dt.toGMTString()+"; path=/; domain=ganji.com;"}})();</script><link href="http://sta.ganjistatic1.com/public/css/ued/404/error.cmb.__1426677853__.css" rel="stylesheet" type="text/css" />
+<link href="http://sta.ganjistatic1.com/public/css/v5/global/ka-ads.__1433318400__.css" rel="stylesheet" type="text/css" />
+<script src="http://sta.ganjistatic1.com/public/js/util/ganji/ganji.__1427801690__.js" type="text/javascript"></script>
+<!--dynamictag--></head>
+<body>
+
+<!--head start-->
+<div class="head">
+    <div class="tbd">
+        <div id="where">
+            <div class="tophelp">
+            	<span id="promotion_drop_menu">
+                                    </span>
+
+                <span><em id="top_banner">
+                    <a target="_self" href="http://www.ganji.com/user/register.php" rel="nofollow">注册</a> | <a target="_self" href="http://www.ganji.com/user/login.php" rel="nofollow">登录</a>
+                </em></span> &nbsp;&nbsp;
+                <div class="top-nav">
+                    <a class="dh top-nav-btn" href="#">导航</a> <!--鼠标离开调类：dh-->
+                        <!--隐藏 则添加 dis类-->
+                    <ul class="dh_cont top-nav-list hide">
+                        <li><em><a href="/fang/" title="房产" target="_blank">房产：</a></em><a href="/fang1/" title="租房" target="_blank">租房</a> <a href="/fang5/" title="二手房" target="_blank">二手房</a> <a href="/fang6/" title="商铺" target="_blank">商铺</a> <a href="/fang8/" title="写字楼" target="_blank">写字楼</a></li>
+                        <li><em><a href="/zhaopin/" title="招聘" target="_blank">招聘： </a></em><a href="/zhaopin/" title="全职" target="_blank">全职</a>  <a href="/jianzhi/" title="兼职" target="_blank">兼职</a>  <a href="/qiuzhi/" title="简历库" target="_blank">简历库</a></li>
+                        <li><em><a href="/che/" title="车辆" target="_blank">车辆：</a></em><a href="/ershouche/" title="二手车" target="_blank">二手车</a> <a href="/motuoche/" title="摩托车" target="_blank">摩托车</a> <a href="/zixingchemaimai/" title="自行车" target="_blank">自行车</a> <a href="/pincheshangxiaban/" title="拼车" target="_blank">拼车</a></li>
+                        <li><em><a href="/wu/" title="二手" target="_blank">二手： </a></em><a href="/shouji/" title="手机" target="_blank">手机</a> <a href="/ershoubijibendiannao/" title="笔记本" target="_blank">笔记本</a> <a href="/jiaju/" title="家具" target="_blank">家具</a> <a href="/jiadian/" title="家电" target="_blank">家电</a></li>
+                        <li><em><a href="/chongwu/" title="宠物" target="_blank">宠物：</a></em><a href="/taidixiong/" title="泰迪熊" target="_blank">泰迪</a> <a href="/jinmao/" title="金毛犬" target="_blank">金毛</a> <a href="/zangao/" title="藏獒" target="_blank">藏獒</a> <a href="/hashiqi/" title="哈士奇" target="_blank">哈士奇</a></li>
+                        <li><em><a href="/huangye/" title="服务" target="_blank">服务：</a></em><a href="/banjia/" title="搬家" target="_blank">搬家</a> <a href="/baomu/" title="保姆" target="_blank">保姆</a> <a href="/zuchedaijia/" title="租车" target="_blank">租车</a> <a href="/jiazheng/" title="家政" target="_blank">家政</a></li>
+                        <li><em>其他：&nbsp;&nbsp;&nbsp;&nbsp;</em><a href="http://love.ganji.com/" title="婚恋" target="_blank">婚恋</a> <a href="http://www.mayi.com/fang10jumptodetail?url=http%3A%2F%2Fwww.mayi.com%2F&ca_name=hz_bj_mayi_tab&ca_source=ganji" title="短租" target="_blank">短租</a> <a href="/jiaoyupeixun/" title="教育培训" target="_blank">教育培训</a> <a href="/piaowu/" title="票务" target="_blank">票务</a></li>
+                    </ul>
+                </div>
+            </div>
+       			<a class="logo" href="/"></a> <span class="city"> <a href="/" class="f13">南京</a> <a href="http://www.ganji.com/index.htm" >[切换城市]</a> </span>
+			<a href="http://nj.ganji.com/">南京赶集</a>		        </div>
+    </div>
+</div>
+<!--head end-->
+<!--导航 start-->
+<div class="nav clr">
+  <ul class="nav-cont clr">
+      <li>
+    <a href="/">首页</a>
+    <a class="" href="/fang/">房屋租售</a><a class="" href="/wu/">二手物品</a><a class="" href="/zhaopin/">招聘求职</a><a class="" href="/che/">车辆买卖</a><a href="/chongwu/" class="nav-pet ">宠物</a><a class="" href="/huangye/">生活服务</a><a class="" href="/jiaoyupeixun/">教育培训</a><a href="http://love.ganji.com/" class="hover2" target="_blank">婚恋交友</a><a href="http://www.mayi.com/fang10jumptodetail?url=http%3A%2F%2Fwww.mayi.com%2F&ca_name=hz_bj_mayi_tab&ca_source=ganji" class="hover2" target="_blank">蚂蚁短租</a><a title="下载手机客户端 随时随地浏览生活点滴" href="http://mobile.ganji.com/?ca_name=mobile_green_default_other_nav" class="hover2 last-one" target="_blank">手机赶集</a>
+    </li>
+  </ul>
+</div>
+<!--导航 end-->
+
+ 
+<div id="wrapper" class="clearfix">
+<!--cont start-->
+<div class="cont clearfix">
+  <div class="cont-left"><img src="http://stacdn201.ganjistatic1.com/src/image/globle/ued/donkey-sml.jpg" width="124" height="164" alt="" /></div>
+  <!--cont right start-->
+  <div class="cont-right">
+    <div class="error">
+            <p class="error-tips1">对不起！您要查看的页面没有找到或已删除。</p>
+            <p>您也可以：</p>
+      <p class="pub"><a href="http://nj.ganji.com/">直接去赶集首页看看</a>  |   <a href="http://nj.ganji.com/pub/pub_select.php">免费发布一条信息</a></p>
+      <dl class="interesting">
+        <dt>去看看感兴趣的分类：</dt>
+        <dd>
+            <a href="http://nj.ganji.com/fang/">房产</a>
+            <a href="http://nj.ganji.com/wu/">二手物品</a>
+            <a href="http://nj.ganji.com/zhaopin/">招聘信息</a>
+            <a href="http://nj.ganji.com/qiuzhi/">求职简历</a>
+            <a href="http://nj.ganji.com/jiaoyupeixun/">教育培训</a>
+            <a href="http://nj.ganji.com/ershouche/">二手车</a>
+            <a href="http://nj.ganji.com/huangye/">生活服务</a>
+            <a href="http://nj.ganji.com/huangye/">商务服务</a>
+            <a href="http://nj.ganji.com/huodong/">同城活动</a>
+            <a href="http://nj.ganji.com/jiaoyou/">同城交友</a>
+            <a href="http://love.ganji.com/" gjalog="/love/404@atype=click">婚恋交友</a>
+            <a href="http://love.ganji.com/showlive/woxiu/index/" gjalog="/loveshow/404@atype=click">直播秀</a>
+        </dd>
+      </dl>
+    </div>
+  </div>
+  <!--cont right end-->
+
+  <!-- 404定向推广 BEGIN-->
+    <!-- 404定向推广END -->
+
+  <!--google ads start-->
+  <div  class="g-ads"  id="GcnADId23" style="display:none;"  data-center="false"  ></div>  <br><div  class="g-ads"  id="GcnADId2" style="display:none;"  data-center="false"  ></div>  <!--google ads end-->
+</div>
+<!--cont end-->
+
+<!--GcnAD end-->
+</div>
+
+<ul id="footer">
+  <li><a href="http://www.ganji.com/misc/abouts/index.php?act=about" rel="nofollow" target="_blank">关于Ganji</a> - <a href="http://www.ganji.com/tuiguang/index/" rel="nofollow"  target="_blank">赶集推广</a> - <a href="http://tuiguang.ganji.com/zhaoshang/agent.htm" rel="nofollow" target="_blank"> 渠道合作 </a> - <a href="http://help.ganji.com/" rel="nofollow" target="_blank">帮助中心</a> - <a class="fc-red" href="http://help.ganji.com/html/sjbmy/" rel="nofollow" target="_blank">手机号被冒用</a> - <a href="http://www.ganji.com/misc/abouts/link.php?act=link" rel="nofollow" target="_blank">友情链接</a> - <a target="_blank" rel="nofollow" href="http://www.ganji.com/misc/abouts/index.php?act=job">招贤纳士</a> - <a target="_blank" href="http://nj.ganji.com/quxiandaohang/">区县导航</a> - <a target="_blank" rel="nofollow" href="http://mobile.ganji.com/?ca_name=mobile_other_bottom">手机赶集</a> - <a target="_blank" href="http://3g.ganji.com">赶集网触屏版</a><script>
+if(!window.PAGE_CONFIG) {
+    window.PAGE_CONFIG = {};
+}
+window.PAGE_CONFIG.__hash__ = '5LpsIpC6gfpP/6Wuipcu+m0jIjESqYEho/W8lGOSyrVly3NzgdYHxdeASrWAalQC';
+</script> 
+</li>
+</ul>
+
+ 
+<script type="text/javascript">
+GJ.use('app/ms/common/top_nav.js', function () {
+    GJ.app.ms.common.topNav({
+        $el: $('.top-nav')
+    });
+});
+GJ.use('app_global', function(){
+    GJ.uuid();
+});
+
+GJ.use('js/app/common/global/global.js', function(){
+    GJ.addCityDomainCookie();
+});
+
+GJ.use('js/app/common/user/user.js', function(){
+    GJ.displayLoginMsg({
+        containerId : 'top_banner',
+        loginType : '',
+        style : ''
+    });
+});
+
+GJ.use('log_tracker', function(){
+    var log_url = '';
+    var log_url_gc = '';
+    log_url += "/404@file=/webroot/404.php@line=35@class=Dispatch@method=run";
+    log_url_gc += "/fang/-/-/-/err@file=/webroot/404.php@line=35@class=Dispatch@method=run";
+            GJ.LogTracker.gjch = log_url;
+    GJ.LogTracker.gjchNew = log_url_gc;
+
+    
+    GJ.LogTracker.trackPageView();
+        GJ.LogTracker.bindSpeedEvent();
+    GJ.LogTracker.trackSpeedEvent();
+    
+});
+
+GJ.use("js/app/common/google/google.js", function (){
+            GJ.google.setPageVar("pageType", "404");
+    
+    GJ.google.trackPageview();
+});
+
+</script>
+ 
+<script>
+GJ.use('app/common/uniontgm2/uniontgm.cmb.js', function() {
+	GJ.use("app/common/uniontgm2/uniontgm.js", function(Uniontgm) {
+		Uniontgm({"pos_info":{"2":{"af_id":5,"union_id":2,"width":728,"height":90,"title_id":-1},"23":{"af_id":5,"union_id":2,"width":728,"height":110,"title_id":-1}},"charge_info":{"2_5_23_0":["u1487721",""],"2_5_2_0":["u1277657",""],"2_1_0_0":["19076084_4_pg","2"],"1_5_0_0":["ca-pub-3619927708111675",""],"2_5_0_0":["u1272555",""]},"keyword":{"2":"baidu","1":"google"},"experiment_info":"-","log_info":{"pr":"10","upr":"10","uip":"202.119.84.34","cty":"65","dt":-1,"st":-1,"cy":-1,"mjy":-1,"miy":-1,"tg":-1,"cyn":-1,"mjyn":-1,"miyn":-1,"tgn":-1,"pt":102,"op":0,"li":-1,"pn":-1,"idp":0,"dty":-1,"rurl":"","purl":"http:\/\/www.ganji.com\/\/'","kurl":""}});
+	});
+});
+</script></body>
+</html>

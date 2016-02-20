@@ -1,0 +1,165 @@
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Connection: close
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>
+	NYTimes.com Search
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="robots" content="noindex,nofollow">
+<meta name="CG" content="Search">
+<meta name="SCG" content="cse">
+<meta name="PT" content="Search">
+<meta name="PST" content="Search Results">
+<meta name="PSSST" content="all">
+ <!--Begin common script tags--><script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script><script type="text/javascript" src="http://graphics8.nytimes.com/js/browserSize.js"></script><script type="text/javascript" src="http://graphics8.nytimes.com/js/Tacoda_AMS_DDC_Header.js"></script><script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/DropDown.js"></script><script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/modifyNavigationDisplay.js"></script><script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/fileit.js"></script><script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/todays_date.js"></script><script type="text/javascript" language="JavaScript">
+        function linkbox(url, winName) {
+                window.open(url, winName,
+                "location=yes,directories=yes,menubar=yes,toolbar=yes,status=yes,resizable=yes,scrollbars=yes");
+        }
+   </script><!--End common script tags--><!--Begin common css--><!--[if IE 7]>
+		<style type="text/css">
+			@import url(http://graphics8.nytimes.com/css/common/screen/ie7.css);
+		</style>
+		<![endif]--><!--End common css-->
+ <script type="text/javascript" src="http://graphics8.nytimes.com/js/app/lib/prototype/1.6.0.2/prototype.js"></script><script type="text/javascript" src="http://graphics8.nytimes.com/js/app/lib/NYTD/twocolumndropdown/twocolumndropdown.js"></script><link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/common/global.css">
+<style type="text/css">
+	@import url(http://graphics8.nytimes.com/css/search/200804/search.css?v=20090717);
+</style>
+</head>
+<body><div id="shell"><div id="page">
+<div id="masthead">
+<a href="http://www.nytimes.com"><img id="NYTLogo" alt="New York Times" title="New York Times" src="http://graphics8.nytimes.com/images/misc/nytlogo153x23.gif"></a><h1><a href="http://query.nytimes.com/search/sitesearch">Search</a></h1>
+<div id="mostPopSearchesDropdown" class="dropdownCollapsed"><a class="button" href="http://query.nytimes.com/search/sitesearch?query=">Most Popular Searches</a></div>
+<script type="text/javascript">
+						NYTD.MostPopularSearches = [{"url":"http:\/\/query.nytimes.com\/search\/sitesearch?query=china","title":"china"},{"url":"http:\/\/query.nytimes.com\/search\/sitesearch?query=november+2011","title":"november 2011"},{"url":"http:\/\/query.nytimes.com\/search\/sitesearch?query=illegal+immigration","title":"illegal immigration"},{"url":"http:\/\/query.nytimes.com\/search\/sitesearch?query=education","title":"education"},{"url":"http:\/\/query.nytimes.com\/search\/sitesearch?query=health+care","title":"health care"},{"url":"http:\/\/query.nytimes.com\/search\/sitesearch?query=india","title":"india"},{"url":"http:\/\/query.nytimes.com\/search\/sitesearch?query=iran+nuclear","title":"iran nuclear"},{"url":"http:\/\/query.nytimes.com\/search\/sitesearch?query=harlem+school+of+the+arts","title":"harlem school of the arts"},{"url":"http:\/\/query.nytimes.com\/search\/sitesearch?query=book+review","title":"book review"},{"url":"http:\/\/query.nytimes.com\/search\/sitesearch?query=japan+earthquake","title":"japan earthquake"}];
+						NYTD.initTwoColumnDropdown('mostPopSearchesDropdown', NYTD.MostPopularSearches);
+					</script>
+</div>
+<div id="srchTop"><form action="http://query.nytimes.com/search/sitesearch" method="get" name="mainFormTop" enctype="application/x-www-form-urlencoded"><div id="yourSearch">
+<label for="yourSearch_query">Your Search</label><input type="text" size="40" class="searchTextbox" name="query" id="yourSearch_query" value=""><input type="image" name="submit" src="http://graphics8.nytimes.com/images/global/global_search/search_button40x19.gif" border="0" value="sub" align="absmiddle" class="searchSubmit"><a href="http://query.nytimes.com/search/alternate/query?query=&amp;st=fromcse" class="advSrch">Advanced Search »</a>
+</div></form></div>
+<div id="main" class="wideC">
+<div id="abColumns">
+<div class="clearfix">
+<ul id="srchDates">
+<li class="first"><a href="http://query.nytimes.com/search/sitesearch?query=&amp;more=past_1">Today</a></li>
+<li><a href="http://query.nytimes.com/search/sitesearch?query=&amp;more=past_7">Past 7 Days</a></li>
+<li><a href="http://query.nytimes.com/search/sitesearch?query=&amp;more=past_30">Past 30 Days</a></li>
+<li><a href="http://query.nytimes.com/search/sitesearch?query=&amp;more=past_365">Past 12 Months</a></li>
+<li class="last selected">All Results Since 1851</li>
+</ul>
+<ul id="srchCategories">
+<li class="first selected">All Result Types</li>
+<li><a href="http://query.nytimes.com/search/sitesearch?query=&amp;more=date_all&amp;less=multimedia" title="Articles and blog posts">Articles</a></li>
+<li class="last"><a href="http://query.nytimes.com/search/sitesearch?query=&amp;more=multimedia,date_all" title="Videos, Slide Shows, Interactive Graphics, and more">Multimedia</a></li>
+</ul>
+<div class="result_summary">1-10 of 505 Results
+				</div>
+</div>
+<div id="search_results"><ul class="results">
+<li class="clearfix"><ul class="columns">
+<li class="thumb"><a href="http://www.nytimes.com/2011/12/02/world/asia/us-will-relax-curbs-on-aid-to-myanmar.html?scp=1&amp;sq=&amp;st=cse"><img src="http://graphics8.nytimes.com/images/2011/12/02/world/asia/02diplospan/02diplo-thumbStandard.jpg" class="story_thumb"></a></li>
+<li class="summary">
+<h3><a href="http://www.nytimes.com/2011/12/02/world/asia/us-will-relax-curbs-on-aid-to-myanmar.html?scp=1&amp;sq=&amp;st=cse">Clinton Says U.S. Will Relax Some Curbs on Aid to Myanmar</a></h3>
+<span class="printHeadline">Print Headline: </span><span class="printHdl"><strong></strong>Clinton Says U.S. Will Relax Some Restrictions on Myanmar</span>22 hours ago <strong>...</strong> A visit by Secretary of State Hillary Rodham Clinton underscored the Obama  administration&#39;s cautious efforts to nurture a thaw in the isolated <strong>...</strong><span class="byline">December 2, 2011 - By STEVEN LEE MYERS - World / Asia Pacific</span>
+</li>
+</ul></li>
+<li class="clearfix noThumb summary">
+<h3><a href="http://www.nytimes.com/2011/12/02/arts/spare-times-for-dec-2-8.html?scp=2&amp;sq=&amp;st=cse">Spare Times for Dec. 2-8</a></h3>19 hours ago <strong>...</strong> A selection of walks, talks, exhibitions, shows and other events in New York.<span class="byline">December 2, 2011 - By THOMAS GAFFNEY and NICOLE HIGGINS - Arts</span>
+</li>
+<li class="clearfix"><ul class="columns">
+<li class="thumb"><a href="http://www.nytimes.com/2011/12/02/us/more-military-dogs-show-signs-of-combat-stress.html?scp=3&amp;sq=&amp;st=cse"><img src="http://graphics8.nytimes.com/images/2011/12/02/us/02canine/02canine-thumbStandard-v2.jpg" class="story_thumb"></a></li>
+<li class="summary">
+<h3><a href="http://www.nytimes.com/2011/12/02/us/more-military-dogs-show-signs-of-combat-stress.html?scp=3&amp;sq=&amp;st=cse">More Military Dogs Show Signs of Combat Stress</a></h3>
+<span class="printHeadline">Print Headline: </span><span class="printHdl"><strong></strong>The Dogs of War, Suffering Like Soldiers</span>23 hours ago <strong>...</strong> At least 5 percent of the 650 dogs used by American combat forces in Iraq and  Afghanistan are struggling with post-traumatic stress disorder.<span class="byline">December 2, 2011 - By JAMES DAO - U.S.</span>
+</li>
+</ul></li>
+<li class="clearfix noThumb summary">
+<h3><a href="http://www.nytimes.com/2011/12/02/business/major-banks-face-new-foreclosure-suit.html?scp=4&amp;sq=&amp;st=cse">Massachusetts Sues 5 Major Banks Over Foreclosure Practices</a></h3>22 hours ago <strong>...</strong> Massachusetts is suing the nation&#39;s five largest mortgage lenders, including Bank  of America and JPMorgan Chase, over deceptive foreclosure <strong>...</strong><span class="byline">December 2, 2011 - By GRETCHEN MORGENSON - Business Day</span>
+</li>
+<li class="clearfix noThumb summary">
+<h3><a href="http://www.nytimes.com/2011/12/02/technology/companies/a-new-google-venture-nudges-web-boundaries.html?scp=5&amp;sq=&amp;st=cse">A New Google Venture, and Another Web Boundary Line Is Nudged</a></h3>15 hours ago <strong>...</strong> Google&#39;s new plan to partner with retailers and start a delivery service is an  example of how big tech companies are branching out and blurring <strong>...</strong><span class="byline">December 2, 2011 - By CLAIRE CAIN MILLER and NICK BILTON - Technology / Companies</span>
+</li>
+<li class="clearfix noThumb summary">
+<h3><a href="http://www.nytimes.com/2011/12/02/us/politics/obama-says-he-will-seek-more-money-for-aids-programs.html?scp=6&amp;sq=&amp;st=cse">Obama Says He Will Seek More Money for AIDS Programs</a></h3>22 hours ago <strong>...</strong> The action won praise for the president from activists who have criticized him in  the past.<span class="byline">December 2, 2011 - By JACKIE CALMES - U.S. / Politics</span>
+</li>
+<li class="clearfix noThumb summary">
+<h3><a href="http://www.nytimes.com/2011/12/02/world/asia/leader-says-qaeda-holds-abducted-american-aid-worker.html?scp=7&amp;sq=&amp;st=cse">Leader Says Qaeda Holds Abducted American Aid Worker</a></h3>13 hours ago <strong>...</strong> The video message from the leader, Ayman al-Zawahri, was the group&#39;s first  claim to be holding the hostage, Warren Weinstein.<span class="byline">December 2, 2011 - By SCOTT SHANE - World / Asia Pacific</span>
+</li>
+<li class="clearfix"><ul class="columns">
+<li class="thumb"><a href="http://www.nytimes.com/2011/12/02/world/europe/french-president-warns-of-dire-consequences-if-euro-crisis-goes-unsolved.html?scp=8&amp;sq=&amp;st=cse"><img src="http://graphics8.nytimes.com/images/2011/12/02/world/02FRANCE/02FRANCE-thumbStandard.jpg" class="story_thumb"></a></li>
+<li class="summary">
+<h3><a href="http://www.nytimes.com/2011/12/02/world/europe/french-president-warns-of-dire-consequences-if-euro-crisis-goes-unsolved.html?scp=8&amp;sq=&amp;st=cse">French President Warns of Dire Consequences if Euro Crisis Goes Unsolved</a></h3>
+<span class="printHeadline">Print Headline: </span><span class="printHdl"><strong></strong>Sarkozy Warns of Dire Consequences of Euro Crisis</span>17 hours ago <strong>...</strong> In a televised speech, President Nicolas Sarkozy told his countrymen that Europe  risks being “swept away” by the ongoing euro crisis if it fails to <strong>...</strong><span class="byline">December 2, 2011 - By STEVEN ERLANGER - World / Europe</span>
+</li>
+</ul></li>
+<li class="clearfix"><ul class="columns">
+<li class="thumb"><a href="http://www.nytimes.com/2011/12/02/us/santa-ana-winds-buffet-california.html?scp=9&amp;sq=&amp;st=cse"><img src="http://graphics8.nytimes.com/images/2011/12/02/us/WIND/WIND-thumbStandard.jpg" class="story_thumb"></a></li>
+<li class="summary">
+<h3><a href="http://www.nytimes.com/2011/12/02/us/santa-ana-winds-buffet-california.html?scp=9&amp;sq=&amp;st=cse">Santa Ana Winds Buffet California</a></h3>
+<span class="printHeadline">Print Headline: </span><span class="printHdl"><strong></strong>Santa Ana Winds, Unusually Strong, Rattle More Than Nerves in California</span>16 hours ago <strong>...</strong> The winds, much more powerful than usual, snapped trees, damaged buildings  and knocked power out for tens of thousands of people.<span class="byline">December 2, 2011 - By JENNIFER MEDINA - U.S.</span>
+</li>
+</ul></li>
+<li class="clearfix"><ul class="columns">
+<li class="thumb"><a href="http://www.nytimes.com/2011/12/02/business/for-jobless-little-hope-of-full-recovery-study-says.html?scp=10&amp;sq=&amp;st=cse"><img src="http://graphics8.nytimes.com/images/2011/12/02/business/JOBS/JOBS-thumbStandard.jpg" class="story_thumb"></a></li>
+<li class="summary">
+<h3><a href="http://www.nytimes.com/2011/12/02/business/for-jobless-little-hope-of-full-recovery-study-says.html?scp=10&amp;sq=&amp;st=cse">Few Workers Have Fully Recovered, Study Says</a></h3>
+<span class="printHeadline">Print Headline: </span><span class="printHdl"><strong></strong>For Jobless, Little Hope Of Restoring Better Days</span>16 hours ago <strong>...</strong> A new study found that just 7 percent of those who lost their jobs after the  financial crisis have regained or exceeded their previous financial <strong>...</strong><span class="byline">December 2, 2011 - By MOTOKO RICH - Business Day</span>
+</li>
+</ul></li>
+</ul></div>
+<div id="srchCantFind">
+					Can't find what you're looking for? Try <a href="http://query.nytimes.com/search/alternate/query?query=&amp;st=fromcse">Advanced Search</a> with enhanced date filtering.
+				</div>
+<div id="googleFooter">
+		Search results powered by Google Custom Search
+	</div>
+<div id="srchPagination">
+<span>Page 1</span><a href="http://query.nytimes.com/search/sitesearch?query=&amp;n=10&amp;prev=0&amp;frow=10&amp;page=2" class="next">Next »</a>
+</div>
+<form action="http://query.nytimes.com/search/sitesearch" method="get" name="mainFormTop" enctype="application/x-www-form-urlencoded"><div id="searchAgain">
+<label for="searchAgain_query">Search Again</label><input type="text" size="40" class="searchTextbox" name="query" id="searchAgain_query" value=""><input type="image" name="submit" src="http://graphics8.nytimes.com/images/global/global_search/search_button40x19.gif" border="0" value="sub" align="absmiddle" class="searchSubmit"><a href="http://query.nytimes.com/search/alternate/query?query=&amp;st=fromcse" class="advSrch">Advanced Search »</a>
+</div></form>
+</div>
+<div class="cColumn"><div class="columnGroup" id="SearchRight"><!-- ADXINFO classification="button_120x60" campaign="ING_DirectSiteSearchQ111_1694929a-nyt1"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=query.nytimes.com/search&pos=SearchRight&sn2=e3ddc87/441fab72&sn1=fa89f160/69cd5610&camp=ING_DirectSiteSearchQ111_1694929a-nyt1&ad=120x60_INGD_Revised_B3948326.4&goto=http%3A%2F%2Fad%2Edoubleclick%2Enet%2Fclk%3B245545107%3B50218109%3By%3Fhttp%3A%2F%2Fsave%2Eingdirect%2Ecom%2Fsavings%2Fset%5Fpromo%5Fcookie%2Evm%3Fp%3D%2599qnz%25C8ot%26redirect%3D19%26utm%5Fsource%3D264665%26utm%5Fmedium%3DCLICKTRACKER%26utm%5Fcontent%3D50218109%26utm%5Fcampaign%3D3948326" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/25/48/ad.254805/NYTimes_ING_Revised.gif" width="120" height="60" border="0"></a>
+<A HREF="http://ad.doubleclick.net/jump/N3282.nytimes.comSD6440/B3948326.4;sz=1x1;p=%99qnz%C8ot;ord=2011.12.02.18.04.29?">
+<IMG SRC="http://ad.doubleclick.net/ad/N3282.nytimes.comSD6440/B3948326.4;sz=1x1;p=%99qnz%C8ot;ord=2011.12.02.18.04.29?" BORDER=0 WIDTH=1 HEIGHT=1 ALT="Click Here"></A></div></div>
+</div>
+<div class="hideContent">
+<script type="text/javascript">
+var dcsvid = "";
+var regstatus = "non-registered";
+var s_pageName = "Search CSE";
+var s_account = ",nytsearch";
+var s_channel = "search";
+var s_prop1 = "search results";
+var s_prop6 = "sitesearch1";
+var s_prop7 = "test";
+</script>
+
+<script src="/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script><noscript><div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div></noscript>
+
+<!-- Start UPT call --><img height="1" width="3" border="0" src="http://up.nytimes.com/?d=0/13/&amp;t=5&amp;s=0&amp;ui=&amp;r=&amp;u=http%3A%2F%2Fquery.nytimes.com%2Fsearch%2Fsitesearch"><!-- End UPT call -->
+<IMG SRC="/adx/bin/clientside/36770076Q2Fr6X4Q2BSsBVQ7DXa2GXXQ26uBSg@XVBB" height="1" width="3"></div>
+<div id="footer">
+<div class="footerRow">
+<a href="http://www.nytimes.com">Home</a><ul>
+<li><a href="http://www.nytimes.com/membercenter/index.html">Member Center</a></li>
+<li><a href="http://www.nytimes.com/auth/login?URI=http://">Log In</a></li>
+<li><a href="mailto:search_feedback@nytimes.com?subject=NYTimes.com+Search+Feedback" class="feedback">Send Search Feedback</a></li>
+</ul>
+</div>
+<a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">Copyright  2011</a> <a href="http://www.nytco.com/">The New York Times Company</a><ul>
+<li><a href="http://www.nytimes.com/privacy">Privacy Policy</a></li>
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+<li><a href="http://www.nytco.com/career.html">Work for Us</a></li>
+<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+</ul>
+</div>
+</div></div></body>
+</html>

@@ -1,0 +1,3 @@
+Location: http://www.nytimes.com/glogin?URI=http://www.nytimes.com/2011/12/04/realestate/the-hunt-upper-east-side-the-time-is-now-apartment.html&OQ=_rQ3D1&OP=1f842c42Q2FWhQ23Q5BWNelQ20aeeQ7DQ3CWQ3CFQ24Q24WQ24Q3CWFQ3EWaQ23d.Q23Q20Q7DdQ7DQ23WQ7DuQ23suoiQ7DsojjQ23asQ23dQ20Q7DsQ20Q5DNQ23sQ7DuQ23sQ7DQ5DHQ23sQ5DQ20siehsdjdaQ7DHQ23iQ7D2uQ7DH.
+Connection: keep-alive
+

@@ -1,0 +1,13 @@
+Connection: close
+Location: http://community.nytimes.com/comments/www.nytimes.com/2011/12/02/world/asia/for-afghan-woman-justice-runs-into-the-static-wall-of-custom.html
+Content-Length: 416
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://community.nytimes.com/comments/www.nytimes.com/2011/12/02/world/asia/for-afghan-woman-justice-runs-into-the-static-wall-of-custom.html">here</a>.</p>
+<hr>
+<address>Apache/2.2.3 (CentOS) Server at fe Port 80</address>
+</body></html>

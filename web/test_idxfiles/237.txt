@@ -1,0 +1,3 @@
+Location: http://www.nytimes.com/glogin?URI=http://www.nytimes.com/2011/12/03/business/global/daily-stock-market-activity.html&OQ=_rQ3D1Q26hpw&OP=6eb518cdQ2FQ2BvQ2FKQ2BQ7CQ5E!meQ5EQ5EU3Q2B3Q3BllQ2Bl3Q2BQ3BQ3EQ2BKamQ221Q2FmmQ2BdfQ5EKQ5BfQ2BQ7CQ5BQ22fQ20DmUQ5E!hDgQ5BehQ2FUDQ5B!UQ22NQ22UQ20Z,Ugf
+Connection: keep-alive
+

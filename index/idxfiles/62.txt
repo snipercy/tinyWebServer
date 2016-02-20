@@ -1,0 +1,13 @@
+Connection: close
+Set-Cookie: PHPSESSID=kbkrc2iqrfp5ss1ikvbgg3a7r1; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: access_log=58f7b3d365a817325e8ca4521874374d; expires=Thu, 02-Jun-2016 08:01:11 GMT; path=/; domain=.nuomi.com
+location: http://www.nuomi.com/pcindex/errors/common
+tracecode: 00710486290741460490060316
+Set-Cookie: BAIDUID=A338851774B2D7F80C343E3C6E319A43:FG=1; expires=Thu, 02-Jun-16 08:01:11 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+P3P: CP=" OTI DSP COR IVA OUR IND COM "
+tracecode: 00709917780340118026060316
+Server: Apache
+

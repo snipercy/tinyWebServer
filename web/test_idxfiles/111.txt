@@ -1,0 +1,3 @@
+Location: http://www.nytimes.com/glogin?URI=http://www.nytimes.com/2011/12/02/us/politics/republican-leaders-still-seem-torn-about-mitt-romney.html&OQ=_rQ3D1&OP=7d5857edQ2FcQ20Q27Q2AcQ3EhxqihhMrcrlyycyrclrcQ2BqcahQ60(M(xqciQ27aQ2BQ2AQ60(x6Q5BQ25Q60Q276Q3EQ27iqQ25qM(Q60Q60Q25qQ27Q27Q5CQ25MhiQ5BQ256Q2AhQ2BMQ25Q5C(MMQ25ihQ5CQ5BQ27S-Q5DMQ5CQ60
+Connection: keep-alive
+

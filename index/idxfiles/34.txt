@@ -1,0 +1,575 @@
+Expires: Wed, 03 Jun 2015 08:00:10 GMT
+Cache-Control: max-age=0
+Connection: close
+Date: Wed, 03 Jun 2015 08:00:10 GMT
+Server: BWS/1.0
+
+
+<!doctype html>
+
+
+
+
+
+
+
+<html lang="zh_CN">
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+<meta name="keywords" content="电影，电视剧，综艺，动漫，高清，720P，1080P，新片，点播，大片，TVB，韩剧，好看的电视剧，连续剧，伦理电影，战争电影，电影排行，电影下载，免费下载" />
+<meta name="description" content="桔子浏览器按爽一下，最新大片全网最快更新；电影、电视剧、综艺、动漫、新片、大片高清在线点播。" />
+
+<title>桔子浏览器_按爽一下</title>
+
+<!--[if lte ie 8]>
+<script>
+eval(function(ps, w) {
+  var ca=[],c=w._IE_UPG={},i,l,p;
+  for(i=0,l=ps.length;i<l;i++){
+    p=ps[i];
+    c['_'+p]=w[p];
+    ca.push(p+'=_IE_UPG._'+p)
+  }
+  return 'var '+ca.join(',');
+}('document self top parent alert setInterval clearInterval setTimeout clearTimeout'.split(' '), window));
+</script>
+<![endif]-->
+<link rel="shortcut icon" href="http://www.hao123.com/favicon.ico" />
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="http://s1.hao123img.com/resource/common/pkg/aio_e3dd3cc.css"/><link rel="stylesheet" type="text/css" href="http://s1.hao123img.com/resource/anshuang/css/index_3568b59.css"/>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+    var hm = document.createElement("script");
+    hm.src = "//hm.baidu.com/hm.js?22661fc940aadd927d385f4a67892bc3";
+    var s = document.getElementsByTagName("script")[0]; 
+    s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<!--[FIS_CSS_LINKS_HOOK]--></head>
+
+<body >
+<div  id="doc">
+<div id="hd">
+<div class="nav-main" monkey="anshuang_nav" id="nav-main">
+<div class="nav">
+<a href="http://www.hao123.com/" target="_blank" class="chief-logo"></a>
+<ul class="main-nav">
+<li><a target="_blank" href="http://www.hao123.com/">上网首页</a></li>
+<li><a target="_blank" href="http://v.hao123.com/">影视</a></li>
+<li><a target="_blank" href="http://game.hao123.com/">游戏</a></li>
+<li><a target="_blank" href="http://news.hao123.com/">新闻</a></li>
+<li><a target="_blank" href="http://book.hao123.com/">小说</a></li>
+<li><a target="_blank" href="http://caipiao.hao123.com/">彩票</a></li>
+</ul>
+<div class="sub-nav">
+<span></span>
+<a target="_blank" href="http://www.hao123.com/redian/sheshouyef.htm" action="page-header-sethome">把hao123设为主页</a>|<a target="_blank" href="http://feedback.hao123.com/?catalog_id=31">反馈</a>|<a target="_blank" href="http://www.hao123.com/shouji/">手机版</a>|<a target="_blank" href="http://dl.123juzi.net/hao123JuziBrowser_1.1.3.8_h8.exe">浏览器</a>
+</div>
+</div>
+</div>
+
+</div>
+<div  id="bd" >
+
+<div class="j_con clearfix">
+<div class="con_left">
+<p class="anshuang"><img src="http://s2.hao123img.com/resource/anshuang/img/an_pic_5a2531c.png"></p>
+<p class="plane">
+视频广告可快进，付费电影<font color="f9782b">免费看？</font>
+</p>
+<div class="topic-class" monkey="anshuang_topic">
+<a href="http://v.hao123.com/dianying_index/complete-%E8%8A%B1%E7%B5%AE_order-hot_pn-1" target="_blank" class="">6月最新</a>
+<a href="http://www.hao123.com/topic/xuanyi" target="_blank" class="data_more">悬疑大片</a>
+<a href="http://www.hao123.com/topic/badaozongcai" target="_blank" class="data_more">霸道总裁</a>
+<a href="http://www.hao123.com/topic/zainan" target="_blank" class="">灾难</a>
+<a href="http://www.hao123.com/topic/war" target="_blank" class="">战争</a>
+<a href="http://www.hao123.com/topic/huayu" target="_blank" class="">卖座华语</a>
+<a href="http://www.hao123.com/topic/kongbu" target="_blank" class="">惊悚恐怖</a>
+<a href="http://www.hao123.com/topic/fanzui" target="_blank" class="">高智商犯罪片</a>
+<a href="http://www.hao123.com/topic/kehuan" target="_blank" class="">科幻巨制</a>
+<a href="http://www.hao123.com/topic/dongzuopian" target="_blank" class="">经典动作大片</a>
+<a href="http://www.hao123.com/topic/gaozhishang" target="_blank" class="">烧脑神作</a>
+<a href="http://www.hao123.com/topic/nvshen" target="_blank" class="">性感女神</a>
+<a href="http://v.hao123.com/dianying_index/complete-%E8%8A%B1%E7%B5%AE_order-rating_pn-1" target="_blank" class="data_more">更多&gt;&gt;</a>
+</div>
+<p class="happy">你只负责<font size="+1">爽</font>，剩下交给我们...</p>
+<div class="up-list">
+<h2><img src="http://s1.hao123img.com/resource/anshuang/img/up_57fd4fc.png" height="24" width="208"/></h2>
+<div class="list">
+<div class="tab_menu">
+<ul class="clearfix">
+<li class="selected fl">排行</li>
+<li class="fr">周播放量</li>
+</ul>
+</div>
+<div class="tab_box" monkey="anshuang_top10">
+<ul class="box_con">
+<li class="clearfix datali">
+<span class="level fl">1</span><a href="http://v.hao123.com/dianying/120201.htm?frp=browse" target="_blank" class="title fl">末日崩塌</a>
+<span class="number fl">77.87万</span>
+</li>
+<li class="clearfix datali">
+<span class="level fl">2</span><a href="http://v.hao123.com/dianying/119643.htm?frp=browse" target="_blank" class="title fl">哆啦A梦(伴我同行)</a>
+<span class="number fl">77.61万</span>
+</li>
+<li class="clearfix datali">
+<span class="level fl">3</span><a href="http://v.hao123.com/dianying/117587.htm?frp=browse" target="_blank" class="title fl">天将雄师</a>
+<span class="number fl">77.09万</span>
+</li>
+<li class="clearfix datali">
+<span class="level fl level59">4</span>
+<a href="http://v.hao123.com/dianying/115386.htm?frp=browse" target="_blank" class="title fl">一万年以后</a>
+<span class="number fl">76.31万</span>
+</li>
+<li class="clearfix datali">
+<span class="level fl level59">5</span>
+<a href="http://v.hao123.com/dianying/120198.htm?frp=browse" target="_blank" class="title fl">我的个神啊</a>
+<span class="number fl">75.27万</span>
+</li>
+<li class="clearfix datali">
+<span class="level fl level59">6</span>
+<a href="http://v.hao123.com/dianying/118587.htm?frp=browse" target="_blank" class="title fl">战狼</a>
+<span class="number fl">73.97万</span>
+</li>
+<li class="clearfix datali">
+<span class="level fl level59">7</span>
+<a href="http://v.hao123.com/dianying/117682.htm?frp=browse" target="_blank" class="title fl">速度与激情7</a>
+<span class="number fl">72.41万</span>
+</li>
+<li class="clearfix datali">
+<span class="level fl level59">8</span>
+<a href="http://v.hao123.com/dianying/39224.htm?frp=browse" target="_blank" class="title fl">侏罗纪世界</a>
+<span class="number fl">70.59万</span>
+</li>
+<li class="clearfix datali">
+<span class="level fl level59">9</span>
+<a href="http://v.hao123.com/dianying/41906.htm?frp=browse" target="_blank" class="title fl">扫毒</a>
+<span class="number fl">68.51万</span>
+</li>
+<li class="clearfix datali">
+<span class="level fl level59">10</span>
+<a href="http://v.hao123.com/dianying/120207.htm?frp=browse" target="_blank" class="title fl">杀破狼2</a>
+<span class="number fl">66.17万</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="detail">
+<p class="pr10">
+<span class="note">免责声明：</span>
+当前页面的影片内容来自用户的分享和搜索后的结果。如果您对本页影片的内容来源和版权有任何的问题和反馈，请联系我们</p>
+<p class="pt20">
+<span class="note">邮箱：</span>
+hao123-soft#baidu.com</p>
+</div>
+</div>
+<div class="con_right">
+<div class="light">
+<span>今日更新：<font color="f9782b">9部</font></span>
+<span>最新更新于：<font color="f9782b">5小时前</font></span>
+</div>
+<div class="light_foot"></div>
+<div class='imgList' monkey="imgList">
+<ul class="lxf-box">
+<li class="item" monkey="anshuang_">
+<a href='http://v.hao123.com/dianying/120201.htm' target="_blank" class="item_bd5"><img class="opacity" src="http://s1.hao123img.com/resource/anshuang/img/o_loading_99fc0b7.png" lazyload='http://s0.hao123img.com/res/r/image/2015-06-02/45c26acb908f88d8a5323b3e45a3aa55.jpg' height='257' width="180"/>
+<span class="item_hot"><img src="http://s2.hao123img.com/resource/anshuang/img/hot_high_78868df.png" width="52" height="45"></span></a>
+<div class="item_con">
+<img src="http://s0.hao123img.com/resource/anshuang/img/item_top_b76842a.png" width="190">
+<p class="item_title">
+<a href="http://v.hao123.com/dianying/120201.htm" target="_blank">末日崩塌</a>
+</p>
+<p class="item_person">主演： 道恩·强森 亚历珊德拉</p>
+<p class="item_description">
+一场大地震从洛杉矶一直延伸至旧金山，巨石强森饰演的角色是消防部空军中队的一名飞行员，他必须驾驶飞机努力寻找并营救自己的女儿...
+<a href="http://v.hao123.com/dianying/120201.htm" target="_blank">【详细】</a>
+</p>
+</div>
+</li>
+<li class="item" monkey="anshuang_">
+<a href='http://v.hao123.com/dianying/119643.htm' target="_blank" class="item_bd5"><img class="opacity" src="http://s1.hao123img.com/resource/anshuang/img/o_loading_99fc0b7.png" lazyload='http://s0.hao123img.com/res/r/image/2015-06-03/8f821a3684d2078971ecae9b5d1fb9d0.jpg' height='252' width="180"/>
+<span class="item_hot"><img src="http://s2.hao123img.com/resource/anshuang/img/hot_high_78868df.png" width="52" height="45"></span></a>
+<div class="item_con">
+<img src="http://s0.hao123img.com/resource/anshuang/img/item_top_b76842a.png" width="190">
+<p class="item_title">
+<a href="http://v.hao123.com/dianying/119643.htm" target="_blank">哆啦A梦(伴我同行)</a>
+</p>
+<p class="item_person">主演： 水田山葵 大原惠美 嘉数由美 木村昴 </p>
+<p class="item_description">
+ 学习，体育全不擅长还饱受胖虎和小夫欺负的少年野比大雄在20世纪的日本过着平凡无聊的生活，这一天突然有意外的访客出现在大雄面前，对方是自称来自22世纪大雄孙子的孙子世修以及猫型智能机器人哆啦A梦...
+<a href="http://v.hao123.com/dianying/119643.htm" target="_blank">【详细】</a>
+</p>
+</div>
+</li>
+<li class="item" monkey="anshuang_">
+<a href='http://v.hao123.com/dianying/120179.htm' target="_blank" class="item_bd5"><img class="opacity" src="http://s1.hao123img.com/resource/anshuang/img/o_loading_99fc0b7.png" lazyload='http://s0.hao123img.com/res/r/image/2015-06-02/bcc424ddab30086dcf0cbb5983f052cb.jpg' height='257' width="180"/>
+<span class="item_hot"><img src="http://s2.hao123img.com/resource/anshuang/img/hot_high_78868df.png" width="52" height="45"></span></a>
+<div class="item_con">
+<img src="http://s0.hao123img.com/resource/anshuang/img/item_top_b76842a.png" width="190">
+<p class="item_title">
+<a href="http://v.hao123.com/dianying/120179.htm" target="_blank">明日世界</a>
+</p>
+<p class="item_person">主演： 乔治·克鲁尼 凯瑟琳</p>
+<p class="item_description">
+据迪士尼官方描述，本片为“神秘探险类”，讲述的主要是“一个开朗乐观、对科学充满好奇心的青少年与一个对现实世界充满了厌倦感的前少年天才发明家共同经历一段充满危险的旅程，去寻找他们共有记忆中的神秘之域：明...
+<a href="http://v.hao123.com/dianying/120179.htm" target="_blank">【详细】</a>
+</p>
+</div>
+</li>
+<li class="item" monkey="anshuang_">
+<a href='http://v.hao123.com/dianying/119772.htm' target="_blank" class="item_bd5"><img class="opacity" src="http://s1.hao123img.com/resource/anshuang/img/o_loading_99fc0b7.png" lazyload='http://s0.hao123img.com/res/r/image/2015-05-21/bc56225313b7ca5393d5426b633865ba.jpg' height='255' width="180"/>
+<span class="item_hot"><img src="http://s2.hao123img.com/resource/anshuang/img/hot_high_78868df.png" width="52" height="45"></span></a>
+<div class="item_con">
+<img src="http://s0.hao123img.com/resource/anshuang/img/item_top_b76842a.png" width="190">
+<p class="item_title">
+<a href="http://v.hao123.com/dianying/119772.htm" target="_blank">复仇者联盟2(奥创纪元)</a>
+</p>
+<p class="item_person">主演： 小罗伯特·唐尼 克里斯·埃文斯</p>
+<p class="item_description">
+身经百战的超级英雄们产生了职业倦怠，已经卸下钢铁战甲的托尼·斯塔克因此发明了“奥创”——有自我意识、有学习能力的人工智能机器人，并将指挥机器人军团的重任交给奥创。令超级英雄们始料不及的是，不断进化的奥创得出了“人类是地球上最大的威胁”这一结论，进而开始实施清洗人类的毁灭计划...
+<a href="http://v.hao123.com/dianying/119772.htm" target="_blank">【详细】</a>
+</p>
+</div>
+</li>
+<li class="item" monkey="anshuang_">
+<a href='http://v.hao123.com/dianying/120038.htm' target="_blank" class="item_bd5"><img class="opacity" src="http://s1.hao123img.com/resource/anshuang/img/o_loading_99fc0b7.png" lazyload='http://s0.hao123img.com/res/r/image/2015-05-21/2405af560b2029ca6f195b59cb7232d6.jpg' height='243' width="180"/>
+<span class="item_new"><img src="http://s1.hao123img.com/resource/anshuang/img/new_high_49928bd.png" width="52" height="45"></span></a>
+<div class="item_con">
+<img src="http://s0.hao123img.com/resource/anshuang/img/item_top_b76842a.png" width="190">
+<p class="item_title">
+<a href="http://v.hao123.com/dianying/120038.htm" target="_blank">超能查派</a>
+</p>
+<p class="item_person">主演： 休·杰克曼 西格妮·韦弗 沙尔托·</p>
+<p class="item_description">
+《查皮》的灵感来自本片导演尼尔·布洛姆坎普2004年的短片《Tetra Vaal》，故事讲述本该成为机器人巡警的人工智能小机器人“查皮”（沙尔托·科普雷 Sharlto Copley 配音）刚刚诞生没多久就被两个犯罪分子绑架，他们想改造它来做坏事，但却和查皮组成了一个非传统的临时家庭。 查皮有着超乎寻常的天赋，是一个天才...
+<a href="http://v.hao123.com/dianying/120038.htm" target="_blank">【详细】</a>
+</p>
+</div>
+</li>
+<li class="item" monkey="anshuang_">
+<a href='http://v.hao123.com/dianying/115247.htm' target="_blank" class="item_bd5"><img class="opacity" src="http://s1.hao123img.com/resource/anshuang/img/o_loading_99fc0b7.png" lazyload='http://s0.hao123img.com/res/r/image/2015-05-14/67373a480eadb10bfdc25e8cf1328d73.jpg' height='252' width="180"/>
+<span class="item_new"><img src="http://s1.hao123img.com/resource/anshuang/img/new_high_49928bd.png" width="52" height="45"></span></a>
+<div class="item_con">
+<img src="http://s0.hao123img.com/resource/anshuang/img/item_top_b76842a.png" width="190">
+<p class="item_title">
+<a href="http://v.hao123.com/dianying/115247.htm" target="_blank">赤道</a>
+</p>
+<p class="item_person">主演： 张学友 张家辉 张震 </p>
+<p class="item_description">
+赤盗”（张震 饰）是南韩头号通缉犯，与头号副手（文咏珊 饰）成功在生产浓缩铀原料的工厂夺走一批铀原料球。情报显示，他们会把铀原料球变成超级武器，并在香港与恐怖组织交易。来自中国内地的宋鞍（王学圻 饰）跟助手袁晓文（冯文娟 饰），联同香港警察李彦明（张家辉 饰）、范家明（余文乐 饰）及香港大学物理系客座教授...
+<a href="http://v.hao123.com/dianying/115247.htm" target="_blank">【详细】</a>
+</p>
+</div>
+</li>
+<li class="item" monkey="anshuang_">
+<a href='http://v.hao123.com/dianying/119650.htm' target="_blank" class="item_bd5"><img class="opacity" src="http://s1.hao123img.com/resource/anshuang/img/o_loading_99fc0b7.png" lazyload='http://s0.hao123img.com/res/r/image/2015-05-07/966e11e17fe066c59038eb8e602f8536.jpg' height='252' width="180"/>
+<span class="item_new"><img src="http://s1.hao123img.com/resource/anshuang/img/new_high_49928bd.png" width="52" height="45"></span></a>
+<div class="item_con">
+<img src="http://s0.hao123img.com/resource/anshuang/img/item_top_b76842a.png" width="190">
+<p class="item_title">
+<a href="http://v.hao123.com/dianying/119650.htm" target="_blank">左耳</a>
+</p>
+<p class="item_person">主演：陈都灵 欧豪 杨洋 马思纯</p>
+<p class="item_description">
+《左耳》讲述了关于青春成长的故事。它生动地塑造了小耳朵、吧啦、张漾、许弋、黑人等一批性格迥异的年轻人的形象，并用极富张力的文字完美展现了当下青年人成长时期的疼痛和美好
+<a href="http://v.hao123.com/dianying/119650.htm" target="_blank">【详细】</a>
+</p>
+</div>
+</li>
+<li class="item" monkey="anshuang_">
+<a href='http://v.hao123.com/dianying/119987.htm' target="_blank" class="item_bd5"><img class="opacity" src="http://s1.hao123img.com/resource/anshuang/img/o_loading_99fc0b7.png" lazyload='http://s0.hao123img.com/res/r/image/2015-05-06/6e624bc3b840ed5b9e43e20656dcf333.jpg' height='252' width="180"/>
+<span class="item_new"><img src="http://s1.hao123img.com/resource/anshuang/img/new_high_49928bd.png" width="52" height="45"></span></a>
+<div class="item_con">
+<img src="http://s0.hao123img.com/resource/anshuang/img/item_top_b76842a.png" width="190">
+<p class="item_title">
+<a href="http://v.hao123.com/dianying/119987.htm" target="_blank">何以笙箫默</a>
+</p>
+<p class="item_person">主演： 黄晓明 杨幂 佟大为 </p>
+<p class="item_description">
+大学时代的赵默笙，对C大法学系大才子何以琛一见倾心，开朗直率的她“死缠烂打”地倒追，与众不同的方式吸引了以琛的目光，一段纯纯的校园爱情悄悄滋生。然而，以琛寄养家庭的妹妹以玫，鼓起勇气向默笙宣战。当默笙去找以琛证实，没想到竟然得到以琛冷酷的回应。误以为以琛和以玫在一起的默笙...
+<a href="http://v.hao123.com/dianying/119987.htm" target="_blank">【详细】</a>
+</p>
+</div>
+</li>
+<li class="item" monkey="anshuang_">
+<a href='http://v.hao123.com/dianying/117682.htm' target="_blank" class="item_bd5"><img class="opacity" src="http://s1.hao123img.com/resource/anshuang/img/o_loading_99fc0b7.png" lazyload='http://s0.hao123img.com/res/r/image/2015-04-08/b94007bea40679d9cb41f0d7f0efa92c.jpg' height='265' width="180"/>
+</a>
+<div class="item_con">
+<img src="http://s0.hao123img.com/resource/anshuang/img/item_top_b76842a.png" width="190">
+<p class="item_title">
+<a href="http://v.hao123.com/dianying/117682.htm" target="_blank">速度与激情7</a>
+</p>
+<p class="item_person">主演： 范·迪塞尔 保罗·沃克 杰森</p>
+<p class="item_description">
+ 温子仁目前正积极忙于影片拍摄前的准备工作，而且正在设计了很多“与众不同”的动作场面。除此之外，他还在采访中爆出一段猛料：杰森·斯坦森确定加盟《速度与激情7》，饰演第六部大反派欧文·肖（卢克·伊万斯 饰）的哥哥伊恩·肖，届时将上演哥哥为弟弟报仇...
+<a href="http://v.hao123.com/dianying/117682.htm" target="_blank">【详细】</a>
+</p>
+</div>
+</li>
+<li class="item" monkey="anshuang_">
+<a href='http://v.hao123.com/dianying/118587.htm' target="_blank" class="item_bd5"><img class="opacity" src="http://s1.hao123img.com/resource/anshuang/img/o_loading_99fc0b7.png" lazyload='http://s0.hao123img.com/res/r/image/2015-04-08/73dfba80aa39685c65917d3c37907ed9.jpg' height='252' width="180"/>
+</a>
+<div class="item_con">
+<img src="http://s0.hao123img.com/resource/anshuang/img/item_top_b76842a.png" width="190">
+<p class="item_title">
+<a href="http://v.hao123.com/dianying/118587.htm" target="_blank">战狼</a>
+</p>
+<p class="item_person">主演： 吴京 余男 斯科特·阿金斯</p>
+<p class="item_description">
+痞性十足的冷锋（吴京 饰）屡屡惹祸，有人说他是流氓，是痞子， 也有人说他是英雄，是传奇，一次行动中冷锋违抗军令打死了恐怖分子，要被开除出队，却意外得到了神秘部队战狼的接纳，但本想换个地方继续惹祸的他却跳进了另外一个深渊...
+<a href="http://v.hao123.com/dianying/118587.htm" target="_blank">【详细】</a>
+</p>
+</div>
+</li>
+<li class="item" monkey="anshuang_">
+<a href='http://v.hao123.com/dianying/119601.htm' target="_blank" class="item_bd5"><img class="opacity" src="http://s1.hao123img.com/resource/anshuang/img/o_loading_99fc0b7.png" lazyload='http://s0.hao123img.com/res/r/image/2015-04-03/2ba80b3e815b43212b43215754b340b9.jpg' height='256' width="180"/>
+</a>
+<div class="item_con">
+<img src="http://s0.hao123img.com/resource/anshuang/img/item_top_b76842a.png" width="190">
+<p class="item_title">
+<a href="http://v.hao123.com/dianying/119601.htm" target="_blank">王牌特工(特工学院)</a>
+</p>
+<p class="item_person">主演： 柯林·菲尔斯 塞缪尔·杰克逊 </p>
+<p class="item_description">
+这部《Kingsman: The Secret Service》是由知名漫画改编而来，讲述一名王牌特工将自己的侄子带到特工学校，将他从一名街头混混培训成大英帝国王牌特工的故事...
+<a href="http://v.hao123.com/dianying/119601.htm" target="_blank">【详细】</a>
+</p>
+</div>
+</li>
+<li class="item" monkey="anshuang_">
+<a href='http://v.hao123.com/dianying/119646.htm' target="_blank" class="item_bd5"><img class="opacity" src="http://s1.hao123img.com/resource/anshuang/img/o_loading_99fc0b7.png" lazyload='http://s0.hao123img.com/res/r/image/2015-04-28/bb4236a6bc6f0f4543dcc775038ea422.jpg' height='252' width="180"/>
+</a>
+<div class="item_con">
+<img src="http://s0.hao123img.com/resource/anshuang/img/item_top_b76842a.png" width="190">
+<p class="item_title">
+<a href="http://v.hao123.com/dianying/119646.htm" target="_blank">万物生长</a>
+</p>
+<p class="item_person">主演： 范冰冰 韩庚 齐溪 沈婷婷 沙溢</p>
+<p class="item_description">
+电影《万物生长》根据冯唐的同名小说改编，小说讲述男孩秋水考上医科大学，在两个女生间游走，并与一群损友鬼混的青春故事...
+<a href="http://v.hao123.com/dianying/119646.htm" target="_blank">【详细】</a>
+</p>
+</div>
+</li>
+<li class="item" monkey="anshuang_">
+<a href='http://v.hao123.com/dianying/118597.htm' target="_blank" class="item_bd5"><img class="opacity" src="http://s1.hao123img.com/resource/anshuang/img/o_loading_99fc0b7.png" lazyload='http://s0.hao123img.com/res/r/image/2015-04-09/38258df2bcc2457bf62d820caab31bbc.gif' height='252' width="180"/>
+</a>
+<div class="item_con">
+<img src="http://s0.hao123img.com/resource/anshuang/img/item_top_b76842a.png" width="190">
+<p class="item_title">
+<a href="http://v.hao123.com/dianying/118597.htm" target="_blank">暴疯语</a>
+</p>
+<p class="item_person">主演： 刘青云 黄晓明 方中信</p>
+<p class="item_description">
+太子永康楼一桩手段极其残忍的杀妻案震惊全港，当事人范国生（刘青云 饰）却因被诊断有精神问题逃脱法律的制裁，改进精神病院接受治疗。在舆论哗然的时刻，意气风发的医学界才俊周明君（黄晓明 饰）宣布主动担任范的主治医生...
+<a href="http://v.hao123.com/dianying/118597.htm" target="_blank">【详细】</a>
+</p>
+</div>
+</li>
+<li class="item" monkey="anshuang_">
+<a href='http://v.hao123.com/dianying/119721.htm' target="_blank" class="item_bd5"><img class="opacity" src="http://s1.hao123img.com/resource/anshuang/img/o_loading_99fc0b7.png" lazyload='http://s0.hao123img.com/res/r/image/2015-04-16/4b03f738899daac341bf3512f386cd9d.jpg' height='252' width="180"/>
+</a>
+<div class="item_con">
+<img src="http://s0.hao123img.com/resource/anshuang/img/item_top_b76842a.png" width="190">
+<p class="item_title">
+<a href="http://v.hao123.com/dianying/119721.htm" target="_blank">魔法总动员</a>
+</p>
+<p class="item_person">主演： 信达·亚当斯 乔治·巴比特</p>
+<p class="item_description">
+一只被遗弃的小猫误打误撞进入一幢神秘的别墅。别墅的主人劳伦斯，一位退休魔术师，收养了小猫并为它取名——雷电。很快，雷电就和别墅里各色有趣的机器人们打成了一片。这间仿佛被施了魔法的别墅既神奇又有趣...
+<a href="http://v.hao123.com/dianying/119721.htm" target="_blank">【详细】</a>
+</p>
+</div>
+</li>
+<li class="item" monkey="anshuang_">
+<a href='http://v.hao123.com/dianying/119633.htm' target="_blank" class="item_bd5"><img class="opacity" src="http://s1.hao123img.com/resource/anshuang/img/o_loading_99fc0b7.png" lazyload='http://s0.hao123img.com/res/r/image/2015-04-15/eac87b3375acc8aac5f4f7cc00cfa897.jpg' height='252' width="180"/>
+</a>
+<div class="item_con">
+<img src="http://s0.hao123img.com/resource/anshuang/img/item_top_b76842a.png" width="190">
+<p class="item_title">
+<a href="http://v.hao123.com/dianying/119633.htm" target="_blank">咱们结婚吧</a>
+</p>
+<p class="item_person">主演：高圆圆 姜武 李晨 郑恺 陈意涵</p>
+<p class="item_description">
+四对即将举行婚礼的情侣距离婚前结婚一周时间，因为婚前恐惧发生的各种冲突、逆转。其中包括对曾经感情史的纠结，因准备闪婚突然出现的家庭矛盾。以诙谐的手法描述了四对情侣对爱情的焦虑及渴望...
+<a href="http://v.hao123.com/dianying/119633.htm" target="_blank">【详细】</a>
+</p>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+</div>
+<div id="ft">
+
+<!--footer--><p class="ft_link"><a href="http://www.hao123.com/abouthao123.htm" target="_blank">关于本站</a><b>|</b><a href="http://weibo.com/hao123gf" target="_blank">官方微博</a><b>|</b><a href="http://www.hao123.com/shouji" class="mobile" target="_blank">手机版</a><b>|</b><a href="http://dl.123juzi.net/hao123JuziBrowser_1.1.3.8_h8.exe" class="browser hilight" target="_blank" title="打开hao123主页速度快一倍"><i></i>hao123桔子浏览器</a><b>|</b><a href="http://feedback.hao123.com/?catalog_id=11" target="_blank">挑错有礼</a></p><p class="copyright"><span class="intro">hao123.com 上网导航第一品牌</span><a class="beian" target="_blank" href="http://www.miibeian.gov.cn/">京ICP证030173号</a></p><div style="display:none"></div>
+
+</div>
+</div>
+
+
+
+
+
+
+
+</body><script type="text/javascript" src="http://s1.hao123img.com/resource/common/pkg/aio_4e02d50.js"></script>
+<script type="text/javascript">require.resourceMap({"res":{"common:resource/js/erji-jsonce.js":{"url":"http://s1.hao123img.com/resource/common/js/erji-jsonce_39624a1.js"}}});</script><script type="text/javascript" src="http://s0.hao123img.com/resource/anshuang/js/common_47f098b.js"></script>
+<script type="text/javascript" src="http://s0.hao123img.com/resource/anshuang/js/jquery.cookie_1bae827.js"></script>
+<script type="text/javascript" src="http://s2.hao123img.com/resource/anshuang/js/juzi_c74abdc.js"></script>
+<script type="text/javascript" src="http://s1.hao123img.com/resource/anshuang/widget/js/masonry_17e94ac.js"></script>
+<script type="text/javascript" src="http://s2.hao123img.com/resource/anshuang/widget/js/lazy_b0e6fec.js"></script>
+<script type="text/javascript">!function(){
+if(!window.pageId) {
+    window.pageId = "hao123-v-anshuang";
+}
+window.pageTrack = window.pageTrack || "";
+window.pageVP = window.pageVP || "";
+}();
+!function(){	
+    (function initTrack(o){
+        var d=document, x=d.createElement("script");
+        x.src = "http://s0.hao123img.com/res/js/track.js?"+~(new Date/36e5);
+        var a=[];
+        if(o){
+          for(i in o){
+            a.push(i + ":" + (o[i]))
+          }
+          var config = a.join(";");
+          x.setAttribute("data-log-config",config);
+          var s=d.getElementsByTagName("script")[0].parentNode;
+          var p= s||d.head;
+          if(p){
+            setTimeout(function(){
+              p.appendChild(x)
+            },0);
+          }
+        }
+      })({pageId:window.pageId,page:window.pageTrack||window.pageId,level:2,vp:window.pageVP||window.pageId});
+
+        
+      require.async("common:resource/js/erji-jsonce.js");
+}();
+!function(){var instance = require("anshuang:widget/js/masonry.js");
+var lazyLoad = require("anshuang:widget/js/lazy.js");
+$("body").append('<div id="page"></div><div class="model"></div>');
+var is_poster = $("#poster").length;
+var is_true = $(".page-poster");
+lazyLoad.gotoTop(540,function(is_true){
+	(is_poster&&is_true) ? $(".page-poster").show() : $(".page-poster").hide();
+});
+//IE图片处理
+if($.browser.msie && $.browser.version == '6.0'){
+    $(".land div").remove();
+    $(".downLoad").css({'bottom':'-500px'});
+    $(".item_hot>img").attr("src","/resource/anshuang/img/hot.png");
+    $(".item_jian>img").attr("src","/resource/anshuang/img/jian.png");
+    $(".item_new>img").css("display","none");//attr("src","/resource/anshuang/img/newie.png");
+    $.each($(".topic-class>a"),function(i,val){
+        if($(this).outerWidth()>120){
+            var $_mar = 200 - $(this).outerWidth();
+            $(this).css("marginRight",$_mar)
+        };
+    })
+};
+//分辨率的适配
+if($(window).width()>1600){
+    lazyLoad.large();
+}else{
+    lazyLoad.small();
+};
+//影视还量添加的tn
+var REG = /video/;
+if(REG.test(window.location.search)){
+    popup_open();
+}
+//左侧菜单的fixed
+var conLeftHeight = $(".topic-class").outerHeight()+$(".plane").outerHeight()+$(".up_list").outerHeight();
+if(conLeftHeight > 650){
+    $(".detail").hide();
+}else{
+    $(".detail").show();
+}
+var items = $(".item");
+lazyLoad.Run();
+$(window).on('scroll', function () {
+    lazyLoad.Run();
+    if($(window).width()>1600){
+        lazyLoad.large();
+        if(!($(document).height() - $(window).height() - $(window).scrollTop())&&lazyLoad.flag == true){
+            lazyLoad.getData(5);
+        }
+    }else{
+        lazyLoad.small();
+        if(!($(document).height() - $(window).height() - $(window).scrollTop())&&lazyLoad.flag == true){
+            lazyLoad.getData(3);
+        }
+    }   
+});
+$(window).on('resize', function () {
+    var tid = null;
+    clearTimeout(tid);
+    tid = setTimeout(function(){
+        items = $(".item"); 
+        if($(window).width()>1600){
+            lazyLoad.large();  
+            //$(".lxf-box").height(instance.dataArr())      
+        }else{
+            lazyLoad.small();
+        }   
+    }, 100);
+});
+window._bd_share_config={
+    "common":{
+        "bdSnsKey":{},
+        "bdText":"@桔子浏览器 最新大片抢先看，爽到没朋友，狂点http://www.hao123.com/anshuang 看大片！",
+        "bdDesc" : "狂点http://www.hao123.com/anshuang 看大片！",
+        "bdMini":"2",
+        "bdMiniList":false,
+        "bdPic":"",
+        "bdStyle":"0",
+        "bdSize":"16"     
+    },
+    "share":{}    
+};
+with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+}();</script></html>
+Date: Wed, 03 Jun 2015 08:12:54 GMT
+Location: http://news.baidu.com/?tn=news
+P3p: CP=" OTI DSP COR IVA OUR IND COM "
+P3p: CP=" OTI DSP COR IVA OUR IND COM "
+P3p: CP=" OTI DSP COR IVA OUR IND COM "
+Server: Apache
+Set-Cookie: BAIDUID=9BB812B5D89275336CCF1D4E2AE9539E:FG=1; expires=Thu, 31-Dec-37 23:55:55 GMT; max-age=2147483647; path=/; domain=.baidu.com
+Set-Cookie: BIDUPSID=9BB812B5D89275336CCF1D4E2AE9539E; expires=Thu, 31-Dec-37 23:55:55 GMT; max-age=2147483647; path=/; domain=.baidu.com
+Set-Cookie: PSTM=1433319174; expires=Thu, 31-Dec-37 23:55:55 GMT; max-age=2147483647; path=/; domain=.baidu.com
+Set-Cookie: BDRCVFR[C0p6oIjvx-c]=mk3SLVN4HKm; path=/; domain=.baidu.com
+Set-Cookie: BDSVRTM=0; path=/
+Set-Cookie: BAIDUID=D698C9079C0611951122037B23FEFD9C:FG=1; expires=Thu, 02-Jun-16 08:12:54 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+X-Ua-Compatible: IE=Edge,chrome=1
+
+<html>
+<head><title>302 Found</title></head>
+<body bgcolor="white">
+<center><h1>302 Found</h1></center>
+<hr><center>pr-nginx_1-0-224_BRANCH Branch
+Time : Thu May 28 14:42:58 CST 2015</center>
+</body>
+</html>

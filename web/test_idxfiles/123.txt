@@ -1,0 +1,3 @@
+Location: http://www.nytimes.com/glogin?URI=http://www.nytimes.com/aponline/2011/12/02/world/europe/AP-EU-International-Court-Darfur.html&OQ=_rQ3D1Q26hp&OP=2bde4958Q2FQ22oQ277Q22mQ7ENp_Q7EQ7EPRQ22Q5BjQ7E1Q2BQ261Q27Q22ReQ3BQ3BQ22Q3BRQ22eRQ22oQ7E_Q2BmQ22Q27Q3C_Q7EjQ27Q22Q2FCkDXkw1PQ27_1Q5BPQ26Q7E1Q5BQ2Bk4Q7EQ3C_PkOQ5B_aQ3C_Q25EP-Q2B
+Connection: keep-alive
+

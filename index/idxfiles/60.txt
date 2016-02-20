@@ -1,0 +1,15 @@
+Content-Length: 202
+Connection: close
+Vary: Accept-Encoding
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+//' was not found on this server.
+<p /><hr />
+<small>
+Resin/4.0.35
+Server: 'app-news.homepageutil'
+</small>
+</body></html>

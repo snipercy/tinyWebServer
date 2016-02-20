@@ -1,0 +1,3 @@
+Location: http://www.nytimes.com/glogin?URI=http://www.nytimes.com/2011/12/03/world/middleeast/un-says-action-needed-to-prevent-civil-war-in-syria.html&OQ=_rQ3D1Q26hpw&OP=6da5bf24Q2Fia42irGHYeGGQ2AEiEBwwiwEiBQ5DiaGeQ60riQ51orrQ6044CYQ2Ai,Q27uYC3YuCHQ2AoGQ27uQ2744r4ruQ2AGu8e4Q3C4Q27Q2AuHoQ3CoQ60uaCeuoQ27uY3eoCk(Q2AQ51Q60
+Connection: keep-alive
+

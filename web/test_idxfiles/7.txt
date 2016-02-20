@@ -1,0 +1,252 @@
+Last-modified: Fri, 02 Dec 2011 17:23:32 GMT
+Accept-ranges: bytes
+
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Home Page</title>
+    <link>http://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2011  The New York Times Company</copyright>
+    <lastBuildDate>Fri, 02 Dec 2011 17:23:26 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; Home Page</title>
+      <url>http://graphics8.nytimes.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>http://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>Signs of Hope in Jobs Report; Unemployment Drops to 8.6%</title>
+      <link>http://www.nytimes.com/2011/12/03/business/economy/us-adds-120000-jobs-unemployment-drops-to-8-6.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2011/12/03/business/economy/us-adds-120000-jobs-unemployment-drops-to-8-6.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2011/12/03/business/economy/us-adds-120000-jobs-unemployment-drops-to-8-6.html?partner=rss&amp;emc=rss"/>
+      <media:content url="http://graphics8.nytimes.com/images/2011/12/03/business/economy/03jobs-span/03jobs-span-thumbStandard.jpg" medium="image" height="75" width="75"/>
+      <media:description>Job applicants at a career fair in Independence, Ohio, last month.</media:description>
+      <media:credit>Tony Dejak/Associated Press</media:credit>
+      <description>The Labor Department said payrolls grew by 120,000 in November, a new indicator of economic resilience, but the work force contracted.</description>
+      <dc:creator>By CATHERINE RAMPELL</dc:creator>
+      <pubDate>Fri, 02 Dec 2011 17:15:14 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Unemployment</category>
+    </item>
+    <item>
+      <title>Merkel Urges Change to Fix Euro Crisis, Calls Effort a &#x2018;Marathon&#x2019;</title>
+      <link>http://www.nytimes.com/2011/12/03/world/europe/angela-merkel-germany-speech-euro-zone-debt-crisis.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2011/12/03/world/europe/angela-merkel-germany-speech-euro-zone-debt-crisis.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2011/12/03/world/europe/angela-merkel-germany-speech-euro-zone-debt-crisis.html?partner=rss&amp;emc=rss"/>
+      <media:content url="http://graphics8.nytimes.com/images/2011/12/03/world/europe/03germany-a/03germany-a-thumbStandard.jpg" medium="image" height="75" width="75"/>
+      <media:description>Angela Merkel, the Chancellor of Germany, addressed the Bundestag in Berlin on Friday.</media:description>
+      <media:credit>Tim&#xE2;&#x20AC; Brakemeier/European Pressphoto Agency</media:credit>
+      <description>Chancellor Angela Merkel of Germany on Friday ruled out a rapid solution to the debt crisis as she sought stronger fiscal cooperation across the euro zone.</description>
+      <dc:creator>By NICHOLAS KULISH and ALAN COWELL</dc:creator>
+      <pubDate>Fri, 02 Dec 2011 16:56:58 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Merkel, Angela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">European Sovereign Debt Crisis (2010- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+    </item>
+    <item>
+      <title>Drilling Down: Drilling Down: Fighting Over Oil and Gas Well Leases</title>
+      <link>http://www.nytimes.com/2011/12/02/us/drilling-down-fighting-over-oil-and-gas-well-leases.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2011/12/02/us/drilling-down-fighting-over-oil-and-gas-well-leases.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2011/12/02/us/drilling-down-fighting-over-oil-and-gas-well-leases.html?partner=rss&amp;emc=rss"/>
+      <media:content url="http://graphics8.nytimes.com/images/2011/12/02/us/Leases/Leases-thumbStandard.jpg" medium="image" height="75" width="75"/>
+      <media:description>Jared Ely near gas wells leased on his family's land near Dimock, Pa. His father, Scott, says the leases should have been clearer.</media:description>
+      <media:credit>Ruth Fremson/The New York Times</media:credit>
+      <description>Americans have signed millions of leases allowing oil and gas companies to drill on their land, but some landowners are finding out the hard way what their contracts actually say.</description>
+      <dc:creator>By IAN URBINA and JO CRAVEN McGINTY</dc:creator>
+      <pubDate>Fri, 02 Dec 2011 17:13:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Land Use Policies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wells</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drilling and Boring</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Cabot Oil &amp; Gas Corporation|COG|NYSE</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Chesapeake Energy Corporation|CHK|NYSE</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Series</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Hydraulic Fracturing</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Exxon Mobil Corporation|XOM|NYSE</category>
+    </item>
+    <item>
+      <title>Syrians Say They Are Feeling Grip of Economic Sanctions</title>
+      <link>http://www.nytimes.com/2011/12/03/world/middleeast/syrians-say-they-are-feeling-grip-of-economic-sanctions.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2011/12/03/world/middleeast/syrians-say-they-are-feeling-grip-of-economic-sanctions.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2011/12/03/world/middleeast/syrians-say-they-are-feeling-grip-of-economic-sanctions.html?partner=rss&amp;emc=rss"/>
+      <media:content url="http://graphics8.nytimes.com/images/2011/12/03/world/03damascus-span/03damascus-span-thumbStandard-v2.jpg" medium="image" height="75" width="75"/>
+      <media:description>The Syrian government says it can weather tough sanctions, but the cost of goods requiring imported items like sugar are rising steadily as sanctions begin to bite.</media:description>
+      <media:credit>The New York Times</media:credit>
+      <description>The measures are unraveling the most significant change of President Bashar al-Assad&#x2019;s tenure: linking Syria to the global economy.</description>
+      <dc:creator>By NEIL MacFARQUHAR</dc:creator>
+      <pubDate>Fri, 02 Dec 2011 17:20:11 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Economic Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Royal Dutch Shell Plc|RDS.A|NYSE</category>
+    </item>
+    <item>
+      <title>Building a Better Mitt Romney-Bot</title>
+      <link>http://www.nytimes.com/2011/12/04/magazine/mitt-romney-bot.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2011/12/04/magazine/mitt-romney-bot.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2011/12/04/magazine/mitt-romney-bot.html?partner=rss&amp;emc=rss"/>
+      <media:content url="http://graphics8.nytimes.com/images/2011/12/04/magazine/04romney_span/04romney_span-thumbStandard-v3.jpg" medium="image" height="75" width="75"/>
+      <media:description>At the Peterborough Town House in New Hampshire last month.</media:description>
+      <media:credit>Marvin Orellana for The New York Times</media:credit>
+      <description>His camp doesn&#x2019;t need to turn their guy into someone you&#x2019;d have a beer with. They just need to eliminate the bugs in the machine.</description>
+      <dc:creator>By ROBERT DRAPER</dc:creator>
+      <pubDate>Fri, 02 Dec 2011 17:07:31 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Romney, Mitt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2012</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Campaign Finance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Mormons (Church of Jesus Christ of Latter-Day Saints)</category>
+    </item>
+    <item>
+      <title>The Caucus: Parties Can Look to '92 Election as a Guide for 2012</title>
+      <link>http://thecaucus.blogs.nytimes.com/2011/12/02/parties-can-look-to-92-as-a-guide-for-2012/?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://thecaucus.blogs.nytimes.com/2011/12/02/parties-can-look-to-92-as-a-guide-for-2012/</guid>
+      <atom:link rel="standout" href="http://thecaucus.blogs.nytimes.com/2011/12/02/parties-can-look-to-92-as-a-guide-for-2012/?partner=rss&amp;emc=rss"/>
+      <media:content url="http://graphics8.nytimes.com/images/2011/12/02/us/politics/caucus-clinton-bush-1992/caucus-clinton-bush-1992-thumbStandard.jpg" medium="image" height="75" width="75"/>
+      <media:description>The 2012 election in many ways parallels the 1992 contest that pitted President Bush against H. Ross Perot and Bill Clinton.</media:description>
+      <media:credit>Greg Gibson/Associated Press</media:credit>
+      <description>Republicans are hopeful, even confident, that 1992 is a template (albeit with party roles reversed) for 2012. Here&#x2019;s a matchup of 1992 versus 2012 &#x2014; and a look at where the parallels could benefit one party or the other.</description>
+      <dc:creator>By RICHARD W. STEVENSON</dc:creator>
+      <pubDate>Fri, 02 Dec 2011 15:28:50 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/">Bush, George</category>
+      <category domain="http://www.nytimes.com/namespaces/">Kerrey, Bob</category>
+      <category domain="http://www.nytimes.com/namespaces/">Obama, Barack</category>
+      <category domain="http://www.nytimes.com/namespaces/">Perot, Ross</category>
+      <category domain="http://www.nytimes.com/namespaces/">Romney, Mitt</category>
+      <category domain="http://www.nytimes.com/namespaces/">Shrum, Robert</category>
+      <category domain="http://www.nytimes.com/namespaces/">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/">Presidential Election of 2012</category>
+      <category domain="http://www.nytimes.com/namespaces/">On Politics</category>
+    </item>
+    <item>
+      <title>On Long Island, SAT Cheating Was Hardly a Secret</title>
+      <link>http://www.nytimes.com/2011/12/02/education/on-long-island-sat-cheating-was-hardly-a-secret.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2011/12/02/education/on-long-island-sat-cheating-was-hardly-a-secret.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2011/12/02/education/on-long-island-sat-cheating-was-hardly-a-secret.html?partner=rss&amp;emc=rss"/>
+      <media:content url="http://graphics8.nytimes.com/images/2011/12/02/nyregion/Y-SAT1/Y-SAT1-thumbStandard.jpg" medium="image" height="75" width="75"/>
+      <media:description>Great Neck North High School on Long Island, where the cheating inquiry began and the authorities were contacted.</media:description>
+      <media:credit>Michael Kirby Smith for The New York Times</media:credit>
+      <description>Charges that 20 students took SAT or ACT tests for others, or paid a test-taker, reflect the college admissions rat race.</description>
+      <dc:creator>By JENNY ANDERSON and PETER APPLEBOME</dc:creator>
+      <pubDate>Fri, 02 Dec 2011 16:57:59 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">SAT (College Admission Test)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">ACT (Examination)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cheating</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nassau County (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eshaghoff, Samuel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chefec, Joshua</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Education (K-12)</category>
+    </item>
+    <item>
+      <title>Jailed Afghan Woman Freed but Urged to Marry Rapist</title>
+      <link>http://www.nytimes.com/2011/12/02/world/asia/for-afghan-woman-justice-runs-into-the-static-wall-of-custom.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2011/12/02/world/asia/for-afghan-woman-justice-runs-into-the-static-wall-of-custom.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2011/12/02/world/asia/for-afghan-woman-justice-runs-into-the-static-wall-of-custom.html?partner=rss&amp;emc=rss"/>
+      <media:content url="http://graphics8.nytimes.com/images/2011/12/02/world/02AFGHANISTAN1/02AFGHANISTAN1-thumbStandard-v2.jpg" medium="image" height="75" width="75"/>
+      <media:description>A United Nations mission found that acts of violence against women are seldom prosecuted in Afghanistan, despite existing laws.</media:description>
+      <media:credit>Mohammad Ismail/Reuters</media:credit>
+      <description>A pardon for an Afghan woman who was imprisoned for adultery after she reported being raped came with the expectation that she would marry her attacker.</description>
+      <dc:creator>By ALISSA J. RUBIN</dc:creator>
+      <pubDate>Fri, 02 Dec 2011 17:23:06 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Marriages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Domestic Violence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Sentences (Criminal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women's Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Karzai, Hamid</category>
+    </item>
+    <item>
+      <title>Three Lured to Death in Ohio by Craigslist Job Ad</title>
+      <link>http://www.nytimes.com/2011/12/02/us/three-lured-to-death-in-ohio-by-craigslist-job-ad.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2011/12/02/us/three-lured-to-death-in-ohio-by-craigslist-job-ad.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2011/12/02/us/three-lured-to-death-in-ohio-by-craigslist-job-ad.html?partner=rss&amp;emc=rss"/>
+      <media:content url="http://graphics8.nytimes.com/images/2011/12/02/us/CRAIGLIST-2/CRAIGLIST-2-thumbStandard.jpg" medium="image" height="75" width="75"/>
+      <media:description>Richard Beasley is suspected in the murders of three men who responded to a phony advertisement posted on Craigslist to tend a farm.</media:description>
+      <media:credit>Tony Dejak/Associated Press</media:credit>
+      <description>Officials in Noble County, in rural southern Ohio, were alerted to the crimes after one man escaped with a gunshot wound to his arm.</description>
+      <dc:creator>By ERICA GOODE</dc:creator>
+      <pubDate>Fri, 02 Dec 2011 15:49:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders and Attempted Murders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Craigslist</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Beasley, Richard J.</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rafferty, Brogan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Online Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Classified Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Dominos Pizza Inc|DPZ|NYSE</category>
+    </item>
+    <item>
+      <title>The Caucus: Ethics Office Releases Report on Jackson's Push for Senate Seat</title>
+      <link>http://thecaucus.blogs.nytimes.com/2011/12/02/ethics-report-lists-probable-cause-in-jackson-investigation/?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://thecaucus.blogs.nytimes.com/2011/12/02/ethics-report-lists-probable-cause-in-jackson-investigation/</guid>
+      <atom:link rel="standout" href="http://thecaucus.blogs.nytimes.com/2011/12/02/ethics-report-lists-probable-cause-in-jackson-investigation/?partner=rss&amp;emc=rss"/>
+      <media:content url="http://graphics8.nytimes.com/images/2011/12/02/us/politics/02jckson2/02jckson2-thumbStandard.jpg" medium="image" height="75" width="75"/>
+      <media:description>Representative Jesse Jackson Jr. in August.</media:description>
+      <media:credit>Susan Walsh/Associated Press</media:credit>
+      <description>Investigators examining the 2008 push by Representative Jesse Jackson Jr. to take Barack Obama's Senate seat found "probable cause" that the Illinois Democrat directed one of his supporters to raise money in exchange for an appointment to the Senate, an investigative report shows.</description>
+      <dc:creator>By ERIC LIPTON</dc:creator>
+      <pubDate>Fri, 02 Dec 2011 16:36:44 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/">The Caucus</category>
+    </item>
+    <item>
+      <title>Prosecutor Seeks Sudan Defense Minister Arrest</title>
+      <link>http://www.nytimes.com/aponline/2011/12/02/world/europe/AP-EU-International-Court-Darfur.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/aponline/2011/12/02/world/europe/AP-EU-International-Court-Darfur.html</guid>
+      <description>The International Criminal Court prosecutor sought an arrest warrant Friday for Sudan's defense minister on crimes against humanity and war crimes charges for allegedly helping orchestrate atrocities in Darfur.</description>
+      <dc:creator>By THE ASSOCIATED PRESS</dc:creator>
+      <pubDate>Fri, 02 Dec 2011 16:51:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dissident Leader in Myanmar Endorses U.S. Overtures</title>
+      <link>http://www.nytimes.com/2011/12/03/world/asia/aung-san-suu-kyi-endorses-us-overtures-to-myanmar.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2011/12/03/world/asia/aung-san-suu-kyi-endorses-us-overtures-to-myanmar.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2011/12/03/world/asia/aung-san-suu-kyi-endorses-us-overtures-to-myanmar.html?partner=rss&amp;emc=rss"/>
+      <media:content url="http://graphics8.nytimes.com/images/2011/12/03/world/asia/03diplo-a/03diplo-a-thumbStandard.jpg" medium="image" height="75" width="75"/>
+      <media:description>Daw Aung San Suu Kyi spoke at her home in Yangon, Myanmar after meeting with Secretary of State Hillary Rodham Clinton.</media:description>
+      <media:credit>Pool photo by Reuters</media:credit>
+      <description>The heroine of Myanmar&#x2019;s democratic opposition, Daw Aung San Suu Kyi, also called on other countries, including China, to back its nascent reforms.</description>
+      <dc:creator>By STEVEN LEE MYERS</dc:creator>
+      <pubDate>Fri, 02 Dec 2011 16:19:10 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aung San Suu Kyi, Daw</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clinton, Hillary Rodham</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+    </item>
+    <item>
+      <title>Arts &amp; Leisure: Alexander Garvin Looks at Public Spaces in New York</title>
+      <link>http://www.nytimes.com/2011/12/04/arts/design/alexander-garvin-looks-at-public-spaces-in-new-york.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2011/12/04/arts/design/alexander-garvin-looks-at-public-spaces-in-new-york.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2011/12/04/arts/design/alexander-garvin-looks-at-public-spaces-in-new-york.html?partner=rss&amp;emc=rss"/>
+      <media:content url="http://graphics8.nytimes.com/images/2011/12/04/arts/04SUBSPACES_SPAN/04SUBSPACES_SPAN-thumbStandard-v3.jpg" medium="image" height="75" width="75"/>
+      <media:description>The fountain at Bryant Park in Midtown.</media:description>
+      <media:credit>Richard Perry/The New York Times</media:credit>
+      <description>Alexander Garvin, an architect and urban planner, has spent the better part of the last half-century thinking about New York City&#x2019;s public spaces.</description>
+      <dc:creator>By MICHAEL KIMMELMAN</dc:creator>
+      <pubDate>Fri, 02 Dec 2011 16:14:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Architecture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Garvin, Alexander</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restoration and Renovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Area Planning and Renewal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pedestrian Malls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Sidewalks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Parks and Other Recreation Areas</category>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,14 @@
+Content-Length: 178
+Connection: close
+Location: https://subs.iht.com/
+Expires: Mon, 05 Dec 2011 18:04:23 GMT
+Cache-Control: max-age=259200
+Cache-Control: private
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>ihtws</center>
+</body>
+</html>

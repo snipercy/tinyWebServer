@@ -1,0 +1,451 @@
+Date: Fri, 02 Dec 2011 18:04:32 GMT
+Expires: Fri, 02 Dec 2011 19:04:30 GMT
+Server: Nessie
+Status: 200
+Vary: User-Agent
+Via: 1.1 varnish
+X-INT-Fwd: forwarded
+X-Int-Server: int-app3
+X-Runtime: 0.366145
+X-UA-Compatible: IE=Edge,chrome=1
+X-Varnish: 1698019337 1698019328
+Content-Length: 22195
+Connection: Close
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" id="NYTD">
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<meta content="true" http-equiv="ClearType">
+<meta content="chrome=1" http-equiv="X-UA-Compatible">
+<meta name="robots" content="noarchive">
+<meta name="CG" content="Politics">
+<meta name="PT" content="Multimedia">
+<meta name="hdl" content="Republican Presidential Candidates - Election 2012 - NYTimes.com">
+<meta name="PST" content="Interactive">
+<meta name="keywords" content="Elections, Candidates, 2012, Campaigns, Republicans">
+<meta name="description" content="Republican candidates for the 2012 presidential election.">
+<meta name="byline" content="">
+<meta property="og:title" content="Republican Presidential Candidates - Election 2012 - NYTimes.com">
+<meta property="og:site_name" content="The New York Times">
+<meta property="fb:admins" content="5281959998">
+<meta property="og:type" content="article">
+<meta property="og:description" content="Republican candidates for the 2012 presidential election.">
+<meta name="TimesPeople" content="disallow" />    
+    <title>Republican Presidential Candidates - Election 2012 - NYTimes.com</title>
+    
+      <script type="text/javascript">
+      //  CONFIGURE HOST BASED ON ENVIRONMENT
+      var NYTD    = NYTD || {};
+      NYTD.Hosts  = {
+        imageHost:  'http://i1.nyt.com',
+        jsHost:     'http://js.nyt.com',
+        cssHost:    'http://css.nyt.com'
+      };
+      </script>
+      
+    <link rel="stylesheet" href="http://css.nyt.com/projects/assets/nytpage_assets/assets/interactive.css" type="text/css" media="screen,print" charset="utf-8">
+    <!--[if (!IE)|(gte IE 8)]><!-->
+<link href="http://css.nyt.com/projects/assets/election_2012/assets/likely_candidates-datauri.css?1322776254" media="screen" rel="stylesheet" type="text/css" />
+<!--<![endif]-->
+<!--[if lte IE 7]>
+<link href="http://css.nyt.com/projects/assets/election_2012/assets/likely_candidates.css?1322776254" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+    <!-- nytpage:nyt_head_addons /start -->          
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script></script>
+    <script src="http://js.nyt.com/js/mtr.js" type="text/javascript" charset="utf-8"></script>
+    
+    
+        <!-- nytpage:nyt_adx_include /start -->
+        <script src="http://www.nytimes.com/adx/bin/adx_remote.html?type=fastscript&page=/2012/primaries/candidates&posall=TopAd&query=qstring&keywords="></script><!-- nytpage:nyt_adx_include /end -->
+    <!-- nytpage:nyt_head_addons /end -->          
+  </head>
+  
+      <!--[if IE 6]>
+      <body class="nytint-ie6">
+      <![endif]-->
+      <!--[if IE 7]>
+      <body class="nytint-ie7">
+      <![endif]-->
+      <!--[if IE 8]>
+      <body class="nytint-ie8">
+      <![endif]-->
+      <!--[if IE 9]>
+      <body class="nytint-ie9">
+      <![endif]-->  
+      <![if !IE]><body><![endif]>
+    <div id="shell">
+    <ul id="memberTools">
+    <li>
+      <iframe height="15" width="480" scrolling="no" frameborder="0"  src="http://www.nytimes.com/export_html/common/new_login_iframe.html"></iframe>
+    </li>
+</ul>
+    <div class="tabsContainer">
+  <ul id="mainTabs" class="tabs">
+    <li class="first"><a href="http://www.nytimes.com">Home Page</a></li>
+    <li><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+    <li><a href="http://www.nytimes.com/video">Video</a></li>
+    <li><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+    <li><a href="http://topics.nytimes.com/top/reference/timestopics">Times Topics</a></li>
+  </ul>
+</div>
+      <div id="page" class="tabContent active">  
+        <div id="masthead" class="clearfix">
+          
+          
+            <div id="nytint-politicsRefer">
+    <a href="http://politics.nytimes.com">
+      Politics<br>Home&nbsp;»
+    </a>
+  </div>
+
+          <div id="branding">
+  <a href="http://www.nytimes.com">
+    <img id="NYTLogo" alt="New York Times" title="New York Times" src="http://graphics8.nytimes.com/images/misc/nytlogo152x23.gif" width="152" height="23" />
+  </a>
+</div>            
+          <h2><a href="http://www.nytimes.com/pages/politics/index.html" class="h2-masthead">Election 2012</a></h2>
+        </div>
+        
+        <div class="singleAd" id="TopAd">
+        <!-- TopAd position -->
+        <script language="JavaScript">
+        <!--
+        if (typeof adxpos_TopAd != "undefined")
+            document.write(adxads[adxpos_TopAd]);
+        // -->
+        </script>
+        <noscript>
+        <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=cookie&pos=TopAd"><img src="http://www.nytimes.com/adx/bin/adx_remote.html?type=noscript&page=/2012/primaries/candidates&posall=TopAd&pos=TopAd&query=qstring&keywords=?"></a>
+        </noscript>
+        </div>
+        <div id="main" class="clearfix">
+          
+          
+
+
+<script type="text/javascript" src="http://typeface.nytimes.com/ucf6rje.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+
+
+<div id="fb-root"></div>
+
+
+<div id="master-header">
+  <div class="header-block header-first">
+    <a href="http://www.nytimes.com/pages/politics/index.html"><img alt="Updated-election" src="http://i1.nyt.com/projects/assets/election_2012/images/updated-election.png?1322776254" /></a>
+  </div>
+  <div class="header-wrap">
+    <div class="header-block">
+      <a href="/2012/primaries/calendar" class="">Primary Calendar</a>
+    </div>
+    <div class="header-block">
+      <a href="/2012/primaries/candidates" class="active">Candidates<span class="header-arrow"></span></a>
+      <ul class="header-menu">
+          <li><a href="/2012/primaries/candidates/michele-bachmann" class="">Michele Bachmann</a></li>
+          <li><a href="/2012/primaries/candidates/herman-cain" class="">Herman Cain</a></li>
+          <li><a href="/2012/primaries/candidates/newt-gingrich" class="">Newt Gingrich</a></li>
+          <li><a href="/2012/primaries/candidates/jon-huntsman" class="">Jon Huntsman</a></li>
+          <li><a href="/2012/primaries/candidates/gary-e-johnson" class="">Gary E. Johnson</a></li>
+          <li><a href="/2012/primaries/candidates/ron-paul" class="">Ron Paul</a></li>
+          <li><a href="/2012/primaries/candidates/rick-perry" class="">Rick Perry</a></li>
+          <li><a href="/2012/primaries/candidates/buddy-roemer" class="">Buddy Roemer</a></li>
+          <li><a href="/2012/primaries/candidates/mitt-romney" class="">Mitt Romney</a></li>
+          <li><a href="/2012/primaries/candidates/rick-santorum" class="">Rick Santorum</a></li>
+      </ul>
+    </div>
+    <div class="header-block">
+      <a href="/2012/debates" class="">Debates<span class="header-arrow"></span></a>
+      <ul class="header-menu">
+          <li><a href="/2012/debates/2011-09-12-republican-debate" class="">Sept. 12</a></li>
+          <li><a href="/2012/debates/2011-09-22-republican-debate" class="">Sept. 22</a></li>
+          <li><a href="/2012/debates/2011-10-11-republican-debate" class="">Oct. 11</a></li>
+          <li><a href="/2012/debates/2011-10-18-republican-debate" class="">Oct. 18</a></li>
+          <li><a href="/2012/debates/2011-11-09-republican-debate" class="">Nov. 9</a></li>
+          <li><a href="/2012/debates/2011-11-22-republican-debate" class="">Nov. 22</a></li>
+      </ul>
+    </div>
+    <div class="header-block header-last">
+      <a href="/2012/campaign-finance">Campaign Finance<span class="header-arrow"></span></a>
+      <ul class="header-menu">
+        <li><a href="/2012/campaign-finance" class="">Compare the Candidates</a></li>
+        <li><a href="/2012/guide-to-political-donations" class="">Guide to Donations</a></li>
+      </ul>
+    </div>
+  </div>
+  <br style="clear: both;" />
+</div>
+
+
+<div id="app" class="candidates-index">
+    
+    <div id="app-nav">
+    </div>
+    
+    <div id="app-header">
+        <h1>Republican Presidential Candidates</h1>
+        
+<ul class="sharetools">
+  <li><a href="http://www.facebook.com/share.php?u=http%3A%2F%2Felections.nytimes.com%2F2012%2Fprimaries%2Fcandidates" class="sharetools-facebook" onclick="fbPostToFeed(); return false;">Facebook</a></li>
+  <li><a href="http://twitter.com/share?text=Republican+Presidential+Candidates+-+Election+2012+-+NYTimes.com&amp;url=http%3A%2F%2Felections.nytimes.com%2F2012%2Fprimaries%2Fcandidates&amp;via=nytimespolitics" class="sharetools-twitter" id="sharetools-twitter">Twitter</a></li>
+  <!-- <li><a href="#" class="rfd-share-email">E-mail</a></li> -->
+</ul>
+
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=9869919170";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script>
+  function fbPostToFeed() {
+    var obj = {
+      method: 'feed',
+      link: 'http://elections.nytimes.com/2012/primaries/candidates',
+      picture: 'http://graphics8.nytimes.com/images/section/us/politics/icons/politics_home_lg.png',
+      name: 'Republican Presidential Candidates - Election 2012 - NYTimes.com',
+      description: 'Republican candidates for the 2012 presidential election.'
+    };
+    FB.ui(obj);
+  }
+
+  var twitterLink = document.getElementById('sharetools-twitter');
+  twitterLink.onclick = function(event) {
+    event.preventDefault();
+    var url = $j(twitterLink).attr('href');
+    window.open(url, null, 'width=550,height=300');
+  };
+</script>
+    </div>
+    
+    <div class="main-content" class="clearfix">
+        <div class="candidate-category clearfix ">
+            <div class="category-details">
+                <h2>Declared candidates</h2>
+                <p>Candidates who have officially declared they are running for President.</p>
+            </div>
+            <div class="candidate-cards">
+                <a href="/2012/primaries/candidates/michele-bachmann" class="candidate-card">
+                    <img alt="Michele-bachmann_4-3" class="candidate-image" src="http://i1.nyt.com/projects/assets/election_2012/images/candidate_photos/michele-bachmann/michele-bachmann_4-3.jpg?1322776254" />
+                    <h4 class="name">Michele Bachmann</h4>
+                    <p class="bio">United States representative from Minnesota <span class="button">Full&nbsp;Profile&nbsp;&raquo;</span></p>
+                    
+                </a>
+                <a href="/2012/primaries/candidates/herman-cain" class="candidate-card">
+                    <img alt="Herman-cain_4-3" class="candidate-image" src="http://i1.nyt.com/projects/assets/election_2012/images/candidate_photos/herman-cain/herman-cain_4-3.jpg?1322776254" />
+                    <h4 class="name">Herman Cain</h4>
+                    <p class="bio">Former C.E.O. of Godfather's Pizza and radio talk show host <span class="button">Full&nbsp;Profile&nbsp;&raquo;</span></p>
+                    
+                </a>
+                <a href="/2012/primaries/candidates/newt-gingrich" class="candidate-card">
+                    <img alt="Newt-gingrich_4-3" class="candidate-image" src="http://i1.nyt.com/projects/assets/election_2012/images/candidate_photos/newt-gingrich/newt-gingrich_4-3.jpg?1322776254" />
+                    <h4 class="name">Newt Gingrich</h4>
+                    <p class="bio">Former House speaker, political consultant and author <span class="button">Full&nbsp;Profile&nbsp;&raquo;</span></p>
+                    
+                </a>
+                <a href="/2012/primaries/candidates/jon-huntsman" class="candidate-card">
+                    <img alt="Jon-huntsman_4-3" class="candidate-image" src="http://i1.nyt.com/projects/assets/election_2012/images/candidate_photos/jon-huntsman/jon-huntsman_4-3.jpg?1322776254" />
+                    <h4 class="name">Jon Huntsman</h4>
+                    <p class="bio">Former governor of Utah and former ambassador to China <span class="button">Full&nbsp;Profile&nbsp;&raquo;</span></p>
+                    
+                </a>
+                <a href="/2012/primaries/candidates/gary-e-johnson" class="candidate-card">
+                    <img alt="Gary-e-johnson_4-3" class="candidate-image" src="http://i1.nyt.com/projects/assets/election_2012/images/candidate_photos/gary-e-johnson/gary-e-johnson_4-3.jpg?1322776254" />
+                    <h4 class="name">Gary E. Johnson</h4>
+                    <p class="bio">Former governor of New Mexico <span class="button">Full&nbsp;Profile&nbsp;&raquo;</span></p>
+                    
+                </a>
+                <a href="/2012/primaries/candidates/ron-paul" class="candidate-card">
+                    <img alt="Ron-paul_4-3" class="candidate-image" src="http://i1.nyt.com/projects/assets/election_2012/images/candidate_photos/ron-paul/ron-paul_4-3.jpg?1322776254" />
+                    <h4 class="name">Ron Paul</h4>
+                    <p class="bio">United States representative from Texas <span class="button">Full&nbsp;Profile&nbsp;&raquo;</span></p>
+                    
+                </a>
+                <a href="/2012/primaries/candidates/rick-perry" class="candidate-card">
+                    <img alt="Rick-perry_4-3" class="candidate-image" src="http://i1.nyt.com/projects/assets/election_2012/images/candidate_photos/rick-perry/rick-perry_4-3.jpg?1322776254" />
+                    <h4 class="name">Rick Perry</h4>
+                    <p class="bio">Governor of Texas <span class="button">Full&nbsp;Profile&nbsp;&raquo;</span></p>
+                    
+                </a>
+                <a href="/2012/primaries/candidates/buddy-roemer" class="candidate-card">
+                    <img alt="Buddy-roemer_4-3" class="candidate-image" src="http://i1.nyt.com/projects/assets/election_2012/images/candidate_photos/buddy-roemer/buddy-roemer_4-3.jpg?1322776254" />
+                    <h4 class="name">Buddy Roemer</h4>
+                    <p class="bio">Former governor of Lousiana <span class="button">Full&nbsp;Profile&nbsp;&raquo;</span></p>
+                    
+                </a>
+                <a href="/2012/primaries/candidates/mitt-romney" class="candidate-card">
+                    <img alt="Mitt-romney_4-3" class="candidate-image" src="http://i1.nyt.com/projects/assets/election_2012/images/candidate_photos/mitt-romney/mitt-romney_4-3.jpg?1322776254" />
+                    <h4 class="name">Mitt Romney</h4>
+                    <p class="bio">Former governor of Massachusetts <span class="button">Full&nbsp;Profile&nbsp;&raquo;</span></p>
+                    
+                </a>
+                <a href="/2012/primaries/candidates/rick-santorum" class="candidate-card">
+                    <img alt="Rick-santorum_4-3" class="candidate-image" src="http://i1.nyt.com/projects/assets/election_2012/images/candidate_photos/rick-santorum/rick-santorum_4-3.jpg?1322776254" />
+                    <h4 class="name">Rick Santorum</h4>
+                    <p class="bio">Former United States senator from Pennsylvania <span class="button">Full&nbsp;Profile&nbsp;&raquo;</span></p>
+                    
+                </a>
+            </div>
+        </div>
+        <div class="candidate-category clearfix nytint-last">
+            <div class="category-details">
+                <h2>Dropped out</h2>
+                <p>People who have publicly announced that they have ended their campaigns.</p>
+            </div>
+            <div class="candidate-cards">
+                <a href="/2012/primaries/candidates/thaddeus-mccotter" class="candidate-card">
+                    <img alt="Thaddeus-mccotter_4-3" class="candidate-image" src="http://i1.nyt.com/projects/assets/election_2012/images/candidate_photos/thaddeus-mccotter/thaddeus-mccotter_4-3.jpg?1322776254" />
+                    <h4 class="name">Thaddeus McCotter</h4>
+                    <p class="bio">United States Representative From Michigan. Dropped out on Sept. 22. <span class="button">Full&nbsp;Profile&nbsp;&raquo;</span></p>
+                    
+                </a>
+                <a href="/2012/primaries/candidates/tim-pawlenty" class="candidate-card">
+                    <img alt="Tim-pawlenty_4-3" class="candidate-image" src="http://i1.nyt.com/projects/assets/election_2012/images/candidate_photos/tim-pawlenty/tim-pawlenty_4-3.jpg?1322776254" />
+                    <h4 class="name">Tim Pawlenty</h4>
+                    <p class="bio">Former governor of Minnesota. Dropped out on Aug. 14. <span class="button">Full&nbsp;Profile&nbsp;&raquo;</span></p>
+                    
+                </a>
+            </div>
+        </div>
+    </div><!-- end #main-content -->
+</div><!-- end #app -->
+
+<div id="credits">
+    Credits: Shan Carter, Elisabeth Goodridge, David Nolen, Andrei Scheinkman, Paul Volpe, Sarah Wheaton and Derek Willis/The New York Times
+</div>
+
+        </div>  
+        <div id="footer">
+			<ul class="first">
+	<li class="first"><a href="http://www.nytimes.com">Home</a></li>
+		<li>
+		<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+	</li>
+		<li>
+		<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+	</li>
+		<li>
+		<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+	</li>
+		<li>
+		<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+	</li>
+		<li>
+		<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+	</li>
+		<li>
+		<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+	</li>
+		<li>
+		<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+	</li>
+		<li>
+		<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+	</li>
+		<li>
+		<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+	</li>
+		<li>
+		<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+	</li>
+		<li>
+		<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+	</li>
+		<li>
+		<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+	</li>
+		<li>
+		<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+	</li>
+		<li>
+		<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+	</li>
+		<li>
+		<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+	</li>
+		<li><a href="#top">Back to Top</a></li>
+</ul>		<ul>
+		<li class="first"><a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&copy; 2011</a> <a href="http://www.nytco.com/">The New York Times Co.</a></li>
+		<li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+		<li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>		
+		<li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Terms of Service</a></li>
+		<li><a href="http://www.nytimes.com/corrections.html">Corrections</a></li>
+		<li><a class="rssButton" href="http://www.nytimes.com/rss">RSS</a></li>
+		<li><a href="http://firstlook.nytimes.com">First Look</a></li>
+		<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+		<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+		<li><a href="https://careers.nytco.com/TAM/nyt_docs/TAM/candidate.html">Work for Us</a></li>
+		<li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+		<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+	</ul>
+</div>
+      </div>
+    </div>      
+    <!-- nytpage:nyt_foot_assets /start -->
+    <!-- nytpage:nyt_foot_assets /start -->
+
+<script src="http://js.nyt.com/projects/assets/nytpage_assets/assets/lib.js?1322776254" type="text/javascript"></script>
+<script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+<!-- nytpage:nyt_foot_assets /end -->
+
+    <script src="http://js.nyt.com/projects/assets/election_2012/assets/likely_candidates.js?1322776254" type="text/javascript"></script>
+
+    <!-- nytpage:nyt_foot_assets /end -->      
+    <!-- nytpage:nyt_foot_addons /start -->
+    
+    
+
+        <script type="text/javascript">
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-7885722']);
+          _gaq.push(['_trackPageview']);
+
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+        </script>
+        
+    
+        <script type="text/javascript">
+        var _sf_async_config={uid:4309,domain:"elections.nytimes.com"};
+        (function(){
+         function loadChartbeat() {
+          window._sf_endpt=(new Date()).getTime();
+          var e = document.createElement('script');
+          e.setAttribute('language', 'javascript');
+          e.setAttribute('type', 'text/javascript');
+          e.setAttribute('src',
+             (("https:" == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +
+             'js/chartbeat.js');
+          document.body.appendChild(e);
+         }
+         var oldonload = window.onload;
+         window.onload = (typeof window.onload != 'function') ?
+           loadChartbeat : function() { oldonload(); loadChartbeat(); };
+        })();        
+        </script>       
+        
+    
+        
+        <script type="text/javascript">
+        (function(){
+          if((document.referrer).indexOf(document.location.hostname) == -1) {
+            var referrer = document.referrer;
+          }else{
+            var referrer = '';
+          }
+          var pxTracker = new Image(1,3);
+          pxTracker.src = "http://up.nytimes.com/?d=0//&t=4&s=1&ui=&r=' + referrer + '&u=' + document.location";          
+        })();
+        </script>      
+        
+    <!-- nytpage:nyt_foot_addons /end -->
+  </body>
+</html>

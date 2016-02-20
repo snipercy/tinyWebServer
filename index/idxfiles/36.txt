@@ -1,0 +1,96 @@
+Connection: close
+Vary: Accept-Encoding
+yld: 105202152371766095
+X-Powered-By: PHP/5.4.24
+Cache-Control: no-cache
+Pragma: no-cache
+Set-Cookie: BAIDUID=E57E6ADB50389B4D29F3A16A9FE5299F:FG=1; expires=Thu, 02-Jun-16 08:00:10 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+P3P: CP=" OTI DSP COR IVA OUR IND COM "
+yme: ZIGW/iYrV0kMaj0YTmvhr2hXvv8fVAPyoAhPyyc=
+Server: nginx
+
+<!DOCTYPE html><html id="myhtml" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="网盘,百度网盘,百度云,网络U盘,网络硬盘,免费网盘,网盘下载,网盘资源,同步,云存储,外链分享,离线下载" name="keywords"/>
+<meta content="百度网盘为您提供文件的网络备份、同步和分享服务。空间大、速度快、安全稳固，支持教育网加速，支持手机端。现在注册即有机会享受15G的免费存储空间" name="description"/>
+<title>百度云 网盘-自由存，随心享</title>
+<link href="/static/images/favicon.ico" rel="shortcut icon" type="images/x-icon"/>
+<link href="/static/css/yun_infocenter_min-local.css?t=201402100000" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<div id="login-body" style="width:100%">
+<div class="header-container">
+<div class="clearfix" id="login-header">
+<div class="logo">
+<a class="yun-logo" href="http://yun.baidu.com/" target="_blank" title="百度云">百度云</a>
+<a class="pan-logo" href="http://pan.baidu.com/" title="网盘">网盘</a>
+</div>
+<span class="login-title">
+<a class="b-no-ln" href="javascript:void(0);" id="top_menu_other" target="_blank"></a> <span id="departForAd">|</span> <a class="b-no-ln" hidefocus="true" href="http://www.baidu.com" target="_blank">百度首页</a> | <a class="b-no-ln" hidefocus="true" href="http://pan.baidu.com/download" id="loginHeadDlink" target="_blank">客户端下载</a> | <a class="b-no-ln" hidefocus="true" href="http://tieba.baidu.com/f?kw=%B0%D9%B6%C8%CD%F8%C5%CC" target="_blank">官方贴吧</a> | <a class="b-no-ln" hidefocus="true" href="http://e.weibo.com/baiduwangpan" target="_blank">官方微博</a>
+</span>
+</div>
+<div id="login-middle">
+<div class="img-content">
+<a hidefocus="true" href="javascript:;">
+<img class="index-slide-img current" src="/static/images/new/2Tspace.jpg?t=20140427001"/>
+</a>
+<a hidefocus="true" href="javascript:;">
+<img class="index-slide-img" src="/static/images/new/multiterminal.jpg?t=20140427000"/>
+</a>
+<a hidefocus="true" href="javascript:;">
+<img class="index-slide-img" src="/static/images/new/freeshare.jpg?t=20140427000"/>
+</a>
+<a hidefocus="true" href="javascript:;">
+<img class="index-slide-img" src="/static/images/new/antiyellow.jpg?t=20140427000"/>
+</a>
+</div>
+<div class="yunbg">
+<ul class="focus-content clearfix">
+<li class="focus-content-item"><a class="focus-anchor current" hidefocus="true" href="javascript:;" idx="0"></a></li>
+<li class="focus-content-item"><a class="focus-anchor" hidefocus="true" href="javascript:;" idx="1"></a></li>
+<li class="focus-content-item"><a class="focus-anchor" hidefocus="true" href="javascript:;" idx="2"></a></li>
+<li class="focus-content-item"><a class="focus-anchor" hidefocus="true" href="javascript:;" idx="3"></a></li>
+</ul>
+</div>
+<div class="header-login">
+<div class="pass-login-title"><em class="bd-logo"></em>登录百度帐号</div>
+<div class="tang-pass-login" id="netdisk_pass_login_form">
+<div class="netdisk_pass_loading_tips">正在加载，请稍候…</div>
+</div>
+<div class="login-info">
+<p id="login-create">没有百度帐号？</p>
+<a class="link-create" hidefocus="true" href="https://passport.baidu.com/v2/?reg&amp;u=http%3A%2F%2Fpan.baidu.com&amp;regType=1&amp;tpl=netdisk" id="pageSignupCtrl" target="_blank"></a>
+</div>
+</div>
+</div>
+<div id="login-download">
+<ul class="tab-download clearfix" id="tab-download">
+<li><a class="windows" hidefocus="true" href="javascript:;" id="windows-download">Windows</a></li>
+<li><a class="android" hidefocus="true" href="javascript:;" id="android-download">Android</a></li>
+<li><a class="iphone" hidefocus="true" href="javascript:;" id="iphone-download" target="_blank">iPhone</a></li>
+<li><a class="ipad" hidefocus="true" href="javascript:;" id="ipad-download" target="_blank">iPad</a></li>
+<li><a class="wphone" hidefocus="true" href="javascript:;" id="wphone-download" target="_blank">WPhone</a></li>
+<li><a class="tongbupan" hidefocus="true" href="http://pan.baidu.com/download#pan" id="tongbupan-download" target="_blank">同步盘</a></li>
+<li><a class="two-dimension-code" hidefocus="true" href="javascript:;">二维码</a></li>
+</ul>
+</div>
+</div>
+<div class="footer">
+<div xmlns="http://www.w3.org/1999/xhtml">©2015 Baidu <a class="b-lnk-gy" href="http://developer.baidu.com/wiki/index.php?title=%E5%B8%AE%E5%8A%A9%E6%96%87%E6%A1%A3%E9%A6%96%E9%A1%B5/%E4%B8%AA%E4%BA%BA%E4%BA%91%E5%AD%98%E5%82%A8_API" target="_blank">开发者中心</a> | <a class="b-lnk-gy" href="/disk/duty/" target="_blank">服务协议</a> | <a class="b-lnk-gy" href="http://yun.baidu.com/disk/privacy" target="_blank">权利声明</a> | <a class="b-lnk-gy" href="http://yun.baidu.com/disk/version" target="_blank">版本更新</a> | <a class="b-lnk-gy" href="http://yun.baidu.com/disk/help" target="_blank">帮助中心</a> | <a class="b-lnk-gy" href="http://qingting.baidu.com/index?pid=19" target="_blank">问题反馈</a></div>
+</div>
+</div>
+<div style="display:none">
+<script type="text/javascript">var _bdhmProtocol=(("https:"==document.location.protocol)?" https://":" http://");document.write(unescape("%3Cscript src='"+_bdhmProtocol+"hm.baidu.com/h.js%3F773fea2ac036979ebb5fcc768d8beb67' type='text/javascript'%3E%3C/script%3E"));document.write(unescape("%3Cscript src='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fb181fb73f90936ebd334d457c848c8b5' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+<script src="/static/js/infocenter-all-min-local.js?t=20140427000" type="text/javascript"></script>
+<script type="text/javascript">/*<![CDATA[*/var getLocationKey=function(_){return location.search.indexOf(_)<0?false:true;};if(getLocationKey("sr=fc")){$(".link-create").attr("href","https://passport.baidu.com/v2/?reg&u=http%3A%2F%2Fpan.baidu.com%2F%3Fsr%3Dfc&regType=1&tpl=netdisk");}if(getLocationKey("fr=fengchao")||getLocationKey("fr=wangmeng")){var downNode=$("#loginHeadDlink"),downLink=downNode.attr("href");if(getLocationKey("fr=fengchao")){downLink+="?fr=fengchao";}else{if(getLocationKey("fr=wangmeng")){downLink+="?fr=wangmeng";}}downNode.attr("href",downLink);}$(".link-create").click(function(){new Image().src="/api/analytics?_lsix=1&page=1&clienttype=0&type=login_pan_register";});/*]]>*/</script>
+</body>
+</html>Date: Wed, 03 Jun 2015 08:12:54 GMT
+P3p: CP=" OTI DSP COR IVA OUR IND COM "
+P3p: CP=" OTI DSP COR IVA OUR IND COM "
+Server: Apache
+Set-Cookie: BAIDUID=C1ED6F1F92328C649D3E5CBC21E2777D:FG=1; expires=Thu, 02-Jun-16 08:12:54 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+Set-Cookie: BAIDUID=DCDCB597321A93F286D61F388D38ACA3:FG=1; expires=Thu, 02-Jun-16 08:12:54 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+Content-Length: 0
+

@@ -1,0 +1,1517 @@
+Set-cookie: RMID=2c24588640f34ed9132e50f0; expires=Saturday, 01-Dec-2012 18:04:30 GMT; path=/; domain=.nytimes.com
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Set-cookie: adxcs=s*28146=0:1; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Arts - The New York Times</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="noarchive">
+<meta name="description" content="Find news &amp; reviews from the arts on movies, theater, television, music, design, actors &amp; actresses, the Oscars, the Grammy Awards, the Emmy Awards, art, museums and dance." />
+<meta name="keywords" content="Parks and Other Recreation Areas,Architecture,Pedestrian Malls,Manhattan (NYC),Garvin, Alexander,Restoration and Renovation,Sidewalks,Area Planning and Renewal,Metropolitan Museum of Art,Art,Japan,Scandinavia House,Art,Art,Rauschenberg, Robert,Baldessari, John,Getty, J Paul, Museum,High Line (NYC),New Museum of Contemporary Art,Art,Manet, Edouard,Metropolitan Museum of Art,Museums,Museum of Fine Arts (Houston),Tinterow, Gary,Wildhorn, Frank,Black, Don,Jordan, Jeremy,Osnes, Laura,Ost, Tobin,Theater,Menchell, Ivan,Birds,Audubon Society, New York City,Dancing,Adams, Carolyn,Ailey, Alvin, American Dance Theater,Ailey, Alvin,Battle, Robert,Taylor, Paul,Nasar, Sylvia,Books and Literature,Economics,Classical Music,Shakespeare, William,Movies,Butler, Gerard,Redgrave, Vanessa,Fiennes, Ralph,Chastain, Jessica,Movies,Fassbender, Michael,McQueen, Steve,Leigh, Julia,Movies,Browning, Emily,Sex,Sleep,Dancing,Joyce Theater,Shakers,Clarke, Martha,Dancing,Ailey, Alvin, American Dance Theater,Music,Jazz,Wooley, Nate,Feinstein, Michael,Music,Cook, Barbara,Music,Carnegie Hall,New York Women's Ensemble,Documentary Films and Programs,Movies,Oil (Petroleum) and Gasoline,Movies,Kitano, Takeshi,Music,Grammy Awards,Mars, Bruno,West, Kanye,Adele,Foo Fighters,Movies,Gunnarsson, Sturla,Documentary Films and Programs,Sustainable Living,Movies,Na Hong-jin,Auctions,Duquette, Tony,Books and Literature,Sotheby's,Brooklyn Museum,Antiques,Ceramics and Pottery,Art,Gordon, John Stuart,Documentary Films and Programs,Movies,Burke, Martyn,News and News Media,Movies,Rwanda,War Crimes, Genocide and Crimes Against Humanity,Brown, Alrick,Documentary Films and Programs,Movies,Nuclear Energy,Sattel, Volker,Documentary Films and Programs,Marquet, Benjamin,Movies,Horse Racing,Documentary Films and Programs,Rosenmeier, Dina,Movies,Movies,Leutwyler, Matthew,Cook, Dane,Sears, Mike,Movies,Lutz, Kellan,Museums,Collectors and Collections,Parties (Social),Broad, Eli,Art,Art Basel Miami Beach,Miami Beach (Fla),Dancing,Chelsea (NYC),Exercise,Writing and Writers,East Germany,Holocaust and the Nazi Era,Cold War Era,Communism (Theory and Philosophy),Socialism (Theory and Philosophy),Books and Literature,Wolf, Christa,Berlin (Germany),Deaths (Obituaries),Music,Black Keys,Bolshoi Ballet,Moscow (Russia),September 11 (2001),Libraries and Librarians,Theater,Puppets,Hitchcock, Alfred,Posters,London (England),Design,Art,Italy,Art,France,Russia,Ljubljana (Slovenia),Eastern Europe,Art,Museums,Slovenia,Art,Singapore,Art,Hong Kong,China" />
+<meta name="asset_id" content="">
+<meta name="CG" content="arts">
+<meta name="SCG" content="">
+<meta name="PT" content="Section Front">
+<meta name="PST" content="">
+<link rel="canonical" href="http://www.nytimes.com/pages/arts/index.html">
+<meta name="msapplication-starturl" content="http://www.nytimes.com/" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.nytimes.com/services/xml/rss/nyt/Arts.xml"/>
+
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/build/sectionfront/arts/styles.css" />
+<link rel="stylesheet" type="text/css" media="print" href="http://graphics8.nytimes.com/css/0.1/print/styles.css">
+<!--[if IE]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie.css);
+	    </style>
+	<![endif]-->
+<!--[if IE 6]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie6.css);
+	    </style>
+	<![endif]-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/DropDown.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/util/tooltip.js"></script>
+<script type="text/JavaScript">
+		var static_kw = "Parks and Other Recreation Areas;Architecture;Pedestrian Malls;Manhattan (NYC);Garvin; Alexander;Restoration and Renovation;Sidewalks;Area Planning and Renewal;Metropolitan Museum of Art;Art;Japan;Scandinavia House;Art;Art;Rauschenberg; Robert;Baldessari; John;Getty; J Paul; Museum;High Line (NYC);New Museum of Contemporary Art;Art;Manet; Edouard;Metropolitan Museum of Art;Museums;Museum of Fine Arts (Houston);Tinterow; Gary;Wildhorn; Frank;Black; Don;Jordan; Jeremy;Osnes; Laura;Ost; Tobin;Theater;Menchell; Ivan;Birds;Audubon Society; New York City;Dancing;Adams; Carolyn;Ailey; Alvin; American Dance Theater;Ailey; Alvin;Battle; Robert;Taylor; Paul;Nasar; Sylvia;Books and Literature;Economics;Classical Music;Shakespeare; William;Movies;Butler; Gerard;Redgrave; Vanessa;Fiennes; Ralph;Chastain; Jessica;Movies;Fassbender; Michael;McQueen; Steve;Leigh; Julia;Movies;Browning; Emily;Sex;Sleep;Dancing;Joyce Theater;Shakers;Clarke; Martha;Dancing;Ailey; Alvin; American Dance Theater;Music;Jazz;Wooley; Nate;Feinstein; Michael;Music;Cook; Barbara;Music;Carnegie Hall;New York Women's Ensemble;Documentary Films and Programs;Movies;Oil (Petroleum) and Gasoline;Movies;Kitano; Takeshi;Music;Grammy Awards;Mars; Bruno;West; Kanye;Adele;Foo Fighters;Movies;Gunnarsson; Sturla;Documentary Films and Programs;Sustainable Living;Movies;Na Hong-jin;Auctions;Duquette; Tony;Books and Literature;Sotheby's;Brooklyn Museum;Antiques;Ceramics and Pottery;Art;Gordon; John Stuart;Documentary Films and Programs;Movies;Burke; Martyn;News and News Media;Movies;Rwanda;War Crimes; Genocide and Crimes Against Humanity;Brown; Alrick;Documentary Films and Programs;Movies;Nuclear Energy;Sattel; Volker;Documentary Films and Programs;Marquet; Benjamin;Movies;Horse Racing;Documentary Films and Programs;Rosenmeier; Dina;Movies;Movies;Leutwyler; Matthew;Cook; Dane;Sears; Mike;Movies;Lutz; Kellan;Museums;Collectors and Collections;Parties (Social);Broad; Eli;Art;Art Basel Miami Beach;Miami Beach (Fla);Dancing;Chelsea (NYC);Exercise;Writing and Writers;East Germany;Holocaust and the Nazi Era;Cold War Era;Communism (Theory and Philosophy);Socialism (Theory and Philosophy);Books and Literature;Wolf; Christa;Berlin (Germany);Deaths (Obituaries);Music;Black Keys;Bolshoi Ballet;Moscow (Russia);September 11 (2001);Libraries and Librarians;Theater;Puppets;Hitchcock; Alfred;Posters;London (England);Design;Art;Italy;Art;France;Russia;Ljubljana (Slovenia);Eastern Europe;Art;Museums;Slovenia;Art;Singapore;Art;Hong Kong;China";
+		var dynamic_kw = "Parks+and+Other+Recreation+Areas;Architecture;Pedestrian+Malls;Manhattan+%28NYC%29;Garvin;+Alexander;Restoration+and+Renovation;Sidewalks;Area+Planning+and+Renewal;Metropolitan+Museum+of+Art;Art;Japan;Scandinavia+House;Art;Art;Rauschenberg;+Robert;Baldessari;+John;Getty;+J+Paul;+Museum;High+Line+%28NYC%29;New+Museum+of+Contemporary+Art;Art;Manet;+Edouard;Metropolitan+Museum+of+Art;Museums;Museum+of+Fine+Arts+%28Houston%29;Tinterow;+Gary;Wildhorn;+Frank;Black;+Don;Jordan;+Jeremy;Osnes;+Laura;Ost;+Tobin;Theater;Menchell;+Ivan;Birds;Audubon+Society;+New+York+City;Dancing;Adams;+Carolyn;Ailey;+Alvin;+American+Dance+Theater;Ailey;+Alvin;Battle;+Robert;Taylor;+Paul;Nasar;+Sylvia;Books+and+Literature;Economics;Classical+Music;Shakespeare;+William;Movies;Butler;+Gerard;Redgrave;+Vanessa;Fiennes;+Ralph;Chastain;+Jessica;Movies;Fassbender;+Michael;McQueen;+Steve;Leigh;+Julia;Movies;Browning;+Emily;Sex;Sleep;Dancing;Joyce+Theater;Shakers;Clarke;+Martha;Dancing;Ailey;+Alvin;+American+Dance+Theater;Music;Jazz;Wooley;+Nate;Feinstein;+Michael;Music;Cook;+Barbara;Music;Carnegie+Hall;New+York+Women%27s+Ensemble;Documentary+Films+and+Programs;Movies;Oil+%28Petroleum%29+and+Gasoline;Movies;Kitano;+Takeshi;Music;Grammy+Awards;Mars;+Bruno;West;+Kanye;Adele;Foo+Fighters;Movies;Gunnarsson;+Sturla;Documentary+Films+and+Programs;Sustainable+Living;Movies;Na+Hong-jin;Auctions;Duquette;+Tony;Books+and+Literature;Sotheby%27s;Brooklyn+Museum;Antiques;Ceramics+and+Pottery;Art;Gordon;+John+Stuart;Documentary+Films+and+Programs;Movies;Burke;+Martyn;News+and+News+Media;Movies;Rwanda;War+Crimes;+Genocide+and+Crimes+Against+Humanity;Brown;+Alrick;Documentary+Films+and+Programs;Movies;Nuclear+Energy;Sattel;+Volker;Documentary+Films+and+Programs;Marquet;+Benjamin;Movies;Horse+Racing;Documentary+Films+and+Programs;Rosenmeier;+Dina;Movies;Movies;Leutwyler;+Matthew;Cook;+Dane;Sears;+Mike;Movies;Lutz;+Kellan;Museums;Collectors+and+Collections;Parties+%28Social%29;Broad;+Eli;Art;Art+Basel+Miami+Beach;Miami+Beach+%28Fla%29;Dancing;Chelsea+%28NYC%29;Exercise;Writing+and+Writers;East+Germany;Holocaust+and+the+Nazi+Era;Cold+War+Era;Communism+%28Theory+and+Philosophy%29;Socialism+%28Theory+and+Philosophy%29;Books+and+Literature;Wolf;+Christa;Berlin+%28Germany%29;Deaths+%28Obituaries%29;Music;Black+Keys;Bolshoi+Ballet;Moscow+%28Russia%29;September+11+%282001%29;Libraries+and+Librarians;Theater;Puppets;Hitchcock;+Alfred;Posters;London+%28England%29;Design;Art;Italy;Art;France;Russia;Ljubljana+%28Slovenia%29;Eastern+Europe;Art;Museums;Slovenia;Art;Singapore;Art;Hong+Kong;China";
+		var nyt_google_contents = dynamic_kw + static_kw;
+		var nyt_google_ad_channel = "arts";
+	</script>
+<script type="text/javascript" src="http://use.typekit.com/fml4qar.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" src="http://js.nyt.com/js2/build/sitewide/sitewide.js"></script>
+<script type="text/javascript" src="http://js.nyt.com/js/app/lib/jquery/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+</head>
+<body>
+<a name="top"></a>
+<div id="shell">
+
+<ul id="memberTools">
+
+<!-- start text link -->
+<li class="cColumn-TextAdsHeader">Subscribe:
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/index.html&pos=Bar1&sn2=3186233f/fc16cc22&sn1=2407a328/96bf5462&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-digi-hd-d3847U-h3847W&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fsubscriptions%2FMultiproduct%2Flp5558%2Ehtml%3Fadxc%3D162578%26adxa%3D267524%26page%3Dwww.nytimes.com/pages/arts/index.html%26pos%3DBar1%26campaignId%3D3847U" target="_blank">
+Digital</a> / <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/index.html&pos=Bar1&sn2=3186233f/fc16cc22&sn1=8c0204ae/f0584be3&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-digi-hd-d3847U-h3847W&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DW47AF%26CMP%3D3847W" target="_blank">Home Delivery</a>
+</li>
+<!-- end text link -->
+
+ 
+                        <li><a id="memberToolsLogin" href="https://myaccount.nytimes.com/auth/login">Log In</a></li>
+            <li><a href="https://myaccount.nytimes.com/gst/regi.html">Register Now</a></li>
+                            
+
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+</ul>
+<div class="tabsContainer">
+<ul id="mainTabs" class="tabs">
+<li class="first mainTabHome"><a href="http://www.nytimes.com">Home Page</a></li>
+<li class="mainTabTodaysPaper"><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+<li class="mainTabVideo"><a href="http://www.nytimes.com/video">Video</a></li>
+<li class="mainTabMostPopular"><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+<li class="mainTabTimesTopics"><a href="http://topics.nytimes.com/top/reference/timestopics">Times Topics</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+</script>	<div id="page" class="tabContent active">
+<div class="clearfix" id="masthead">
+
+<div class="singleAd" id="Middle1C">
+<!-- ADXINFO classification="button" campaign="ING_DirectSiteSearchQ111_1694929-nyt1"--><A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/index.html&pos=Middle1C&sn2=8d85235a/eeed19c&sn1=59756299/46b02203&camp=ING_DirectSiteSearchQ111_1694929-nyt1&ad=NEW.88x31.SiteSearch.Wizard&goto=http://ad.doubleclick.net/jump/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.30" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.30"
+ BORDER=0 WIDTH=88 HEIGHT=31
+ ALT="Click Here"></A>
+</div>
+
+<div id="searchWidget">
+<div class="inlineSearchControl">
+<form enctype="application/x-www-form-urlencoded" action="http://query.nytimes.com/search/sitesearch" method="get" name="searchForm" id="searchForm">
+<input type="hidden" value="full" name="date_select"/>
+<label for="searchQuery">Search All NYTimes.com</label>
+<input type="text" class="text" value="" size="" name="query" id="searchQuery"/>
+<input type="hidden" id="searchAll" name="type" value="nyt"/>
+<input type="image" id="searchSubmit" title="Search" alt="Search" width="22" height="19" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"/>
+</form>
+</div>
+</div>
+
+<div id="branding" >
+<a href="http://www.nytimes.com"><img src="http://graphics8.nytimes.com/images/misc/nytlogo152x23.gif" alt="New York Times" id="NYTLogo"/></a>
+</div>
+
+<div id="date">
+<p>
+Friday, December  2, 2011
+</p>
+</div>
+
+<h2>
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</h2>
+
+</div>
+<div class="navigation tabsContainer">
+<ul class="tabs">
+<li id="navWorld" class="first ">
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>	<li id="navUs" >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>	<li id="navNyregion" >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>	<li id="navBusiness" >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>	<li id="navTechnology" >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>	<li id="navScience" >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>	<li id="navHealth" >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>	<li id="navSports" >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>	<li id="navOpinion" >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>	<li id="navArts" class="selected">
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+<ul class="subNavigation"><li id="subNav_design"><a href="http://www.nytimes.com/pages/arts/design/index.html">Art & Design</a></li><li id="subNav_books"><a href="http://www.nytimes.com/pages/books/index.html">Books</a></li><li id="subNav_dance"><a href="http://www.nytimes.com/pages/arts/dance/index.html">Dance</a></li><li id="subNav_movies"><a href="http://movies.nytimes.com/pages/movies/index.html">Movies</a></li><li id="subNav_music"><a href="http://www.nytimes.com/pages/arts/music/index.html">Music</a></li><li id="subNav_television"><a href="http://www.nytimes.com/pages/arts/television/index.html">Television</a></li><li id="subNav_theater"><a href="http://theater.nytimes.com/pages/theater/index.html">Theater</a></li><li id="subNav_video-games"><a href="http://www.nytimes.com/pages/arts/video-games/index.html">Video Games</a></li><li id="subNav_events"><a href="http://www.nytimes.com/events">Events</a></li></ul></li>	<li id="navStyle" >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>	<li id="navTravel" >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>	<li id="navJobs" >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>	<li id="navRealestate" >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>	<li id="navAutomobiles" >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li></ul>
+</div>
+
+<div class="singleAd" id="TopAd">
+<!-- ADXINFO classification="leaderboard_728" campaign="PBSArtsRB9_1762565_nyt9"--><script type="text/javascript">
+function pr_swfver(){
+var osf,osfd,i,axo=1,v=0,nv=navigator;
+if(nv.plugins&&nv.mimeTypes.length){osf=nv.plugins["Shockwave Flash"];if(osf&&osf.description){osfd=osf.description;v=parseInt(osfd.substring(osfd.indexOf(".")-2))}}
+else{try{for(i=5;axo!=null;i++){axo=new ActiveXObject("ShockwaveFlash.ShockwaveFlash."+i);v=i}}catch(e){}}
+return v;
+}
+var pr_d=new Date();pr_d=pr_d.getDay()+"|"+pr_d.getHours()+":"+pr_d.getMinutes()+"|"+-pr_d.getTimezoneOffset()/60;
+var pr_postal="";
+var pr_data="";
+var pr_redir="http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fadx%2Fbin%2Fadx%5Fclick%2Ehtml%3Ftype%3Dgoto%26opzn%26page%3Dwww.nytimes.com/pages/arts/index.html%26pos%3DTopAd%26camp%3DPBSArtsRB9%5F1762565%5Fnyt9%26ad%3Dpbs%5FLB%5FartsSF9%5Fdec2%26sn2%3Dbd920a49/1f3a23af%26snr%3Ddoubleclick%26snx%3D1322848849%26sn1%3Db43415f2%2F1a335e2c%26goto%3D$CTURL$";
+var pr_pos="";
+var prHost=(("https:"==document.location.protocol)?"https://":"http://");var pr_sec=((prHost=='https://')?'&secure=1':'');
+if(pr_postal!=""){var przipmatch=/^\d{5}$/;if(przipmatch.test(pr_postal)){pr_pos+="&postal="+pr_postal;}}
+if((pr_data!="")&&(pr_data.indexOf("&")<0)){pr_pos+="&data="+pr_data;}
+var pr_s="ads.pointroll.com/PortalServe/?pid=1437747H56720111003220952&flash="+pr_swfver()+"&time="+pr_d+"&redir="+pr_redir+pr_pos+pr_sec+"&r="+Math.random();
+document.write("<scr"+"ipt type='text/javascript' src='"+prHost+pr_s+"'></scr"+"ipt>");
+</script>
+<noscript><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/index.html&pos=TopAd&sn2=bd920a49/1f3a23af&sn1=354361c1/d0603abc&camp=PBSArtsRB9_1762565_nyt9&ad=pbs_LB_artsSF9_dec2&goto=ads.pointroll.com%2FPortalServe%2F%3Fpid%3D1437747H56720111003220952%26pos%3Dc%26r%3D20379"><img border="0" width="728" height="90" src="http://ads.pointroll.com/PortalServe/?pid=1437747H56720111003220952&pos=i&r=20379"></a></noscript>
+</div>
+
+<div id="main">
+<div class="spanAB wrap">
+<div class="wideA">
+<div class="abColumn">
+<div class="aColumn">
+<!--cur:LedeStory395 prev:-->
+<div class="columnGroup first">
+<div class="ledeStory">
+<div class="storyHeader">
+<h6 class="kicker">Arts & Leisure</h6>
+<h1><a href="http://www.nytimes.com/2011/12/04/arts/design/alexander-garvin-looks-at-public-spaces-in-new-york.html?ref=arts">
+Treasuring Urban Oases</a></h1>
+<h6 class="byline">
+By MICHAEL KIMMELMAN        			<span class="timestamp">8:00 AM ET</span>
+</h6>
+</div>
+<div class="ledePhoto">
+<div class="image">
+<a href="http://www.nytimes.com/2011/12/04/arts/design/alexander-garvin-looks-at-public-spaces-in-new-york.html?ref=arts"><img src="http://graphics8.nytimes.com/images/2011/12/04/arts/04SUBSPACES_SPAN/04SUBSPACES_SPAN-sfSpan.jpg" border="0" width="395" height="263" alt="The fountain at Bryant Park in Midtown." /></a>
+</div>
+<h6 class="credit">Richard Perry/The New York Times</h6>
+<p class="caption">The fountain at Bryant Park in Midtown.</p>
+</div>
+<p class="summary">
+Alexander Garvin, an architect and urban planner, has spent the better part of the last half-century thinking about New York City’s public spaces.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/slideshow/2011/12/04/arts/design/20111204-SPACES.html"><img src="http://graphics8.nytimes.com/images/multimedia/icons/photo_icon.gif" alt="Photographs" width="12" height="10" border="0"> Walking New York's Public Spaces</a></li>
+</ul>
+</div>
+</div>
+<!--cur:StandardThumb prev:LedeStory395-->
+<div class="columnGroup last">
+<div class="story">
+<h6 class="kicker">Art Review</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/arts/design/storytelling-in-japanese-art-at-the-met-review.html?ref=arts">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/arts/02STORY1_SPAN/02STORY1-thumbStandard.jpg" width="75" height="75" alt="A detail from "The Tale of Gio," one of the hand scrolls in "Storytelling in Japanese Art" at the Metropolitan Museum of Art." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/arts/design/storytelling-in-japanese-art-at-the-met-review.html?ref=arts">
+Unfurling a Thousand Years of Gods, Demons and Romance</a></h3>
+<h6 class="byline">
+By ROBERTA SMITH	    </h6>
+<p class="summary">
+“Storytelling in Japanese Art” at the Metropolitan Museum of Art reveals the narrative side of Japanese art in a lavish assortment of hand scrolls, hanging scrolls, screens and books.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/slideshow/2011/12/02/arts/design/20111202_STORYTELLING.html"><span class="icon slideshow">Slide Show</span></a></li>
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001202361" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/02/arts/design/storytelling-in-japanese-art-at-the-met-review.html"></span></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">Art Review</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/arts/design/luminous-modernism-at-scandinavia-house-review.html?ref=arts">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/arts/02LUMINOUS/02LUMINOUS-thumbStandard.jpg" width="75" height="75" alt="Edvard Munch's painting “Girl Under the Apple Tree” is in the exhibition "Luminous Modernism" at Scandinavia House." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/arts/design/luminous-modernism-at-scandinavia-house-review.html?ref=arts">
+Shadowy Lure of Scandinavia Fights the Bright Pull of Paris</a></h3>
+<h6 class="byline">
+By KEN JOHNSON	    </h6>
+<p class="summary">
+A new exhibition at Scandinavia House presents 48 paintings and drawings, mostly from the first decade of the 20th century.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Art Review</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/arts/design/selections-from-the-private-collection-of-robert-rauschenberg-at-gagosian-gallery.html?ref=arts">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/arts/02RAUSCHENBERG_SPAN/SUBRAUSCHENBERG1-thumbStandard.jpg" width="75" height="75" alt="From left, “Untitled” (1962), by Jean Tinguely; “Power Object,” from Mali, artist unknown; and two Amazonian fertility suits." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/arts/design/selections-from-the-private-collection-of-robert-rauschenberg-at-gagosian-gallery.html?ref=arts">
+A Portrait of the Artist as Exuberant Collector</a></h3>
+<h6 class="byline">
+By ROBERTA SMITH	    </h6>
+<p class="summary">
+Everything in this show at the Gagosian Gallery was once owned by Robert Rauschenberg (1925-2008), but there is nothing by the artist himself on view.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Inside Art</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/arts/design/the-ungovernables-at-new-museum-a-manet-to-the-getty.html?ref=arts">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/arts/VOGEL/VOGEL-thumbStandard.jpg" width="75" height="75" alt="A rendering of “The First $100,000 I Ever Made,” a work by John Baldessari being erected along the High Line this month." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/arts/design/the-ungovernables-at-new-museum-a-manet-to-the-getty.html?ref=arts">
+A Rising Generation of Artistic Resistance</a></h3>
+<h6 class="byline">
+By CAROL VOGEL	    </h6>
+<p class="summary">
+“The Ungovernables” at the New Museum; the J. Paul Getty Museum acquires a Manet portrait; and John Baldessari’s $100,000 bill at the High Line.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/arts/design/gary-tinterow-named-director-of-museum-of-fine-arts-houston.html?ref=arts">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/arts/02HOUSTON/02HOUSTON-thumbStandard.jpg" width="75" height="75" alt="Gary Tinterow" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/arts/design/gary-tinterow-named-director-of-museum-of-fine-arts-houston.html?ref=arts">
+Met Veteran Named Director of Houston Art Museum</a></h3>
+<h6 class="byline">
+By CAROL VOGEL	    </h6>
+<p class="summary">
+Gary Tinterow has been named director of the Museum of Fine Arts, Houston, and will leave his position at the Metropolitan Museum of Art.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Theater Review | 'Bonnie & Clyde'</h6>
+<div class="thumbnail">
+<a href="http://theater.nytimes.com/2011/12/02/theater/reviews/bonnie-clyde-with-laura-osnes-and-jeremy-jordan-review.html?ref=arts">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/arts/02BONNIE/02BONNIE-thumbStandard.jpg" width="75" height="75" alt=""Bonnie & Clyde," with Laura Osnes and Jeremy Jordan as the infamous outlaw couple, in the musical directed by Jeff Calhoun at the Gerald Schoenfeld Theater." border="0" />
+</a>
+</div>
+<h3><a href="http://theater.nytimes.com/2011/12/02/theater/reviews/bonnie-clyde-with-laura-osnes-and-jeremy-jordan-review.html?ref=arts">
+Armed and Amorous, Committing Cold-Blooded Musical</a></h3>
+<h6 class="byline">
+By BEN BRANTLEY	    </h6>
+<p class="summary">
+Frank Wildohorn’s “Bonnie & Clyde” is a modest, mildly tuneful musical biography of Clyde Barrow and Bonnie Parker.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/slideshow/2011/12/02/theater/20111202-bonnie.html"><span class="icon slideshow">Slide Show</span></a> | <a href="http://video.nytimes.com/video/2011/12/01/theater/100000001201601/excerpt-bonnie--clyde.html"><span class="icon video">Video</span></a></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/nyregion/bird-watching-at-prospect-park-audubon-center.html?ref=arts">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/arts/02BIRD1_SPAN/02BIRD1-thumbStandard.jpg" width="75" height="75" alt="A blue jay under a canopy of bright autumn colors in Prospect Park, Brooklyn." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/nyregion/bird-watching-at-prospect-park-audubon-center.html?ref=arts">
+Winged Migrants in Their Brooklyn Pied-à-Terre</a></h3>
+<h6 class="byline">
+By JEFFREY MARCUS	    </h6>
+<p class="summary">
+Late fall and winter are rich times for bird-watching in New York, where several species remain year round and others, from farther north, settle here for the season.</p>
+</div>
+</div>
+</div><!--close .aColumn -->
+<div class="bColumn">
+<div class="columnGroup SectionFront3ColABSpanMiddle first">
+<div class="story">
+<h6 class="kicker">Q. and A.</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/04/arts/dance/paul-taylor-and-robert-battle-collaborate-on-arden-court.html?ref=arts">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/arts/04ARDEN1/04ARDEN1-thumbStandard.jpg" width="75" height="75" alt="The choreographer Paul Taylor, left, is collaborating with the Alvin Ailey American Dance Theater's artistic director, Robert Battle, on Taylor's “Arden Court.”" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/04/arts/dance/paul-taylor-and-robert-battle-collaborate-on-arden-court.html?ref=arts">
+Ailey’s Torch Bearer Honors Another of His Inspirations</a></h3>
+<h6 class="byline">
+By GIA KOURLAS	    </h6>
+<p class="summary">
+The choreographer Paul Taylor is collaborating with the Alvin Ailey American Dance Theater’s artistic director, Robert Battle, on a staging of Mr. Taylor’s “Arden Court.”</p>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://artsbeat.blogs.nytimes.com/" title="Artsbeat">
+<img src="http://graphics8.nytimes.com/images/blogs/artsbeat/artsbeat163.gif" alt="Artsbeat"/>
+</a> 
+</h3> <div class="story first">
+<h3><a href="http://artsbeat.blogs.nytimes.com/2011/12/02/a-personal-walk-through-public-new-york/?ref=arts">A Personal Walk Through Public New York</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">10:15 AM ET</span></p>
+</div><div class="story">
+<h3><a href="http://artsbeat.blogs.nytimes.com/2011/12/02/x-factor-watch-payback-for-simon-cowell/?ref=arts">'X Factor' Watch: Payback for Simon Cowell</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">8:34 AM ET</span></p>
+</div><div class="story">
+<h3><a href="http://artsbeat.blogs.nytimes.com/2011/12/01/15-million-gift-changes-miami-art-museum-to-jorge-m-perez-art-museum/?ref=arts">$15 Million Gift Changes Miami Art Museum to Jorge M. Pérez Art Museum</a></h3>
+<p class="date">December 1, 2011 <span class="timestamp">5:00 PM ET</span></p>
+</div><p class="refer">
+<a href="http://artsbeat.blogs.nytimes.com/" title="Go to Blog">Go to Blog &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule ">
+<div class="story">
+<h6 class="kicker">Books of The Times</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/books/grand-pursuit-by-sylvia-nasar-review.html?ref=arts">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/arts/SUBBOOK/SUBBOOK-thumbStandard.jpg" width="75" height="75" alt="Sylvia Nasar" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/books/grand-pursuit-by-sylvia-nasar-review.html?ref=arts">
+&lsquo;Grand Pursuit&rsquo;</a></h3>
+<h6 class="byline">
+By SYLVIA NASAR<br/>Reviewed by MICHIKO KAKUTANI	    </h6>
+<p class="summary">
+In “Grand Pursuit,” Sylvia Nasar surveys a century and a half of great minds behind the development of the dismal science.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Music Review</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/arts/music/moise-et-pharaon-at-carnegie-hall-review.html?ref=arts">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/arts/02CHORALE_SPAN/02CHORALE_SPAN-thumbStandard.jpg" width="75" height="75" alt=""Moïse et Pharaon": Eric Cutler, left, Angela Meade, the conductor James Bagwell and James Morris in this opera, based on Exodus, at Carnegie Hall." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/arts/music/moise-et-pharaon-at-carnegie-hall-review.html?ref=arts">
+An Illicit Romance, a Revenge Wrought and an Escape From Egypt</a></h3>
+<h6 class="byline">
+By ZACHARY WOOLFE	    </h6>
+<p class="summary">
+“Moïse et Pharaon,” which the Collegiate Chorale and the American Symphony Orchestra performed at Carnegie Hall on Wednesday, is only boring if you can’t adjust to its stately pacing.</p>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">Movies</h6><div class="story">
+<h6 class="kicker">Movie Review | 'Coriolanus'</h6>
+<div class="thumbnail">
+<a href="http://movies.nytimes.com/2011/12/02/movies/ralph-fiennes-and-vanessa-redgrave-in-coriolanus-review.html?ref=arts">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/arts/02CORIO_SPAN/02CORIO-thumbStandard.jpg" width="75" height="75" alt="Ralph Fiennes and Jessica Chastain in "Coriolanus," directed by Mr. Fiennes." border="0" />
+</a>
+</div>
+<h3><a href="http://movies.nytimes.com/2011/12/02/movies/ralph-fiennes-and-vanessa-redgrave-in-coriolanus-review.html?ref=arts">
+He’s the Hero of the People, and He Hates It</a></h3>
+<h6 class="byline">
+By MANOHLA DARGIS	    </h6>
+<p class="summary">
+In his directing debut Ralph Fiennes adds modern weaponry to Shakespeare’s “Coriolanus.”</p>
+<ul class="refer">
+<li><a href="http://video.nytimes.com/video/2011/12/01/movies/100000001202049/ralph-fiennes-discusses-coriolanus.html"><img src="http://graphics8.nytimes.com/images/multimedia/icons/video_icon.gif" alt="Video" width="12" height="9" border="0"> Video: Ralph Fiennes Discusses 'Coriolanus'</a>
+</li>
+<li><a href="http://www.nytimes.com/2011/11/27/movies/coriolanus-ralph-fiennes-debut-as-film-director.html">A First Plunge Into Directing Is Hardly Routine</a></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">Movie Review | 'Shame'</h6>
+<div class="thumbnail">
+<a href="http://movies.nytimes.com/2011/12/02/movies/shame-directed-by-steve-mcqueen-review.html?ref=arts">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/arts/02SHAME/02SHAME-thumbStandard-v2.jpg" width="75" height="75" alt="Michael Fassbender in "Shame."" border="0" />
+</a>
+</div>
+<h3><a href="http://movies.nytimes.com/2011/12/02/movies/shame-directed-by-steve-mcqueen-review.html?ref=arts">
+Only One Thing on His Mind</a></h3>
+<h6 class="byline">
+By A. O. SCOTT	    </h6>
+<p class="summary">
+In “Shame,” the new feature from the British artist turned filmmaker Steve McQueen, the protagonist is a handsome, youngish Manhattanite who is hooked on sex.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/11/27/movies/steve-mcqueen-and-michael-fassbender-team-up-in-shame.html">Unlikely Look at Sex and the City</a>
+</li>
+<li><a href="http://video.nytimes.com/video/2011/10/06/movies/100000001096728/interview-michael-fassbender.html"><img src="http://graphics8.nytimes.com/images/multimedia/icons/video_icon.gif" alt="Video" width="12" height="9" border="0"> Video: Michael Fassbender on Playing a Sex Addict in 'Shame'</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup doubleRule last">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://carpetbagger.blogs.nytimes.com" title="The Cargetbagger Blog">
+<img src="http://graphics8.nytimes.com/images/blogs_v3/carpetbagger/carpetbagger163.jpg" alt="The Cargetbagger Blog"/>
+</a> 
+</h3> <div class="story first">
+<h3><a href="http://carpetbagger.blogs.nytimes.com/2011/12/02/from-pariah-an-ingenue-in-her-first-fancy-fancy-dress/?ref=arts">From 'Pariah,' an Ingenue in Her First 'Fancy-Fancy' Dress</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">20 minutes ago</span></p>
+</div><div class="story">
+<h3><a href="http://carpetbagger.blogs.nytimes.com/2011/12/02/tinker-tailor-and-the-smell-of-damp-tweed/?ref=arts">'Tinker, Tailor' and the Smell of Damp Tweed</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">11:00 AM ET</span></p>
+</div><p class="refer">
+<a href="http://carpetbagger.blogs.nytimes.com" title="More From Carpetbagger">More From Carpetbagger &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+</div><!--close .bColumn -->
+<div id="SpanABMiddleRegion" class="opening module">
+<div id="insideNYTimes" class="doubleRule">
+<script language="JavaScript" type="text/javascript" src="http://graphics8.nytimes.com/js/app/moth/moth.js"></script>
+<div id="insideNYTimesHeader">     
+<h4>
+Inside Arts  
+</h4>
+</div>
+<div class="leftPanel"><span id="leftArrow"><img id="mothReverse" src="http://graphics8.nytimes.com/images/global/buttons/moth_reverse.gif" /></span></div>    
+<div id="insideNYTimesScrollWrapper">
+<table id="insideNYTimesBrowser" cellspacing="0">
+<tbody>
+<tr>
+<td class="first">
+<div class="story">
+<h6 class="kicker"><a href="http://www.nytimes.com/pages/arts/index.html">Arts &raquo;</a></h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/2011/11/29/arts/casanova-at-the-national-library-in-france.html"><img src="http://graphics8.nytimes.com/images/2011/11/29/arts/29moth_casanova/29moth_casanova-moth.jpg" alt="Saluting a Serial Seducer and His Steamy Tell-All" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/11/29/arts/casanova-at-the-national-library-in-france.html">Saluting a Serial Seducer and His Steamy Tell-All</a></h6>
+</div>
+</td>
+<td>
+<div class="story">
+<h6 class="kicker"><a href="http://www.nytimes.com/pages/books/index.html">Books &raquo;</a></h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/2011/11/29/books/higher-gossip-by-john-updike-review.html"><img src="http://graphics8.nytimes.com/images/2011/11/29/books/29moth_book/29moth_book-moth.jpg" alt="Last Notes From a Man of Letters" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/11/29/books/higher-gossip-by-john-updike-review.html">Last Notes From a Man of Letters</a></h6>
+</div>
+</td>
+<td>
+<div class="story">
+<h6 class="kicker"><a href="http://theater.nytimes.com/pages/theater/index.html">Theater &raquo;</a></h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/2011/11/28/theater/spider-man-a-year-after-first-preview-is-on-solid-ground.html"><img src="http://graphics8.nytimes.com/images/2011/11/28/theater/28moth_spiderman/28moth_spiderman-moth.jpg" alt="After a Year, &lsquo;Spider-Man&rsquo; Earns Its Weekly Keep" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/11/28/theater/spider-man-a-year-after-first-preview-is-on-solid-ground.html">After a Year, &lsquo;Spider-Man&rsquo; Earns Its Weekly Keep</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker"><a href="http://www.nytimes.com/pages/arts/index.html">Arts &raquo;</a></h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/2011/11/28/arts/re-enacting-historical-events-on-twitter-with-realtimewwii.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/11/28/arts/28moth_twitter/28moth_twitter-moth.jpg" alt="The Tweets of War: What&rsquo;s Past Is Postable" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/11/28/arts/re-enacting-historical-events-on-twitter-with-realtimewwii.html">The Tweets of War: What&rsquo;s Past Is Postable</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker"><a href="http://www.nytimes.com/pages/arts/television/index.html">Television &raquo;</a></h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/2011/11/27/arts/television/new-girls-2-broke-girls-last-man-standing-new-season-for-old-jokes.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/11/27/arts/television/27MOTH_COMEDY/27MOTH_COMEDY-moth.jpg" alt="Naked Truth: New Sitcoms Are Reruns" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/11/27/arts/television/new-girls-2-broke-girls-last-man-standing-new-season-for-old-jokes.html">Naked Truth: New Sitcoms Are Reruns</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker"><a href="http://www.nytimes.com/pages/arts/music/index.html">Music &raquo;</a></h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/2011/11/27/arts/music/peter-gelbs-tenure-at-metropolitan-opera.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/11/27/arts/music/27MOTH_TOMMASINI/27MOTH_TOMMASINI-moth.jpg" alt="At the Met, One Role Too Many for Its Boss" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/11/27/arts/music/peter-gelbs-tenure-at-metropolitan-opera.html">At the Met, One Role Too Many for Its Boss</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker"><a href="http://theater.nytimes.com/pages/theater/index.html">Theater &raquo;</a></h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/2011/11/27/theater/on-a-clear-day-now-centers-on-the-psychiatrist.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/11/27/theater/27MOTH_CLEARDAY/27MOTH_CLEARDAY-moth-v2.jpg" alt="Switched at Rebirth" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/11/27/theater/on-a-clear-day-now-centers-on-the-psychiatrist.html">Switched at Rebirth</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker"><a href="http://www.nytimes.com/pages/arts/index.html">Arts &raquo;</a></h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/2011/11/26/arts/design/performa-11-is-bigger-but-not-better.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/11/26/arts/26moth_performa/26moth_performa-moth.jpg" alt="So Big, Performa Now Misses the Point" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/11/26/arts/design/performa-11-is-bigger-but-not-better.html">So Big, Performa Now Misses the Point</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker"><a href="http://www.nytimes.com/pages/arts/index.html">Arts &raquo;</a></h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/2011/11/26/arts/music/fugazi-live-series-a-post-punk-bands-archive-of-shows.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/11/26/arts/26moth_fugazi/26moth_fugazi-moth.jpg" alt="Fugazi Rises Again, in Online Archive" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/11/26/arts/music/fugazi-live-series-a-post-punk-bands-archive-of-shows.html">Fugazi Rises Again, in Online Archive</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">Review</h6>		<div class="mothImage">
+<a href="http://theater.nytimes.com/2011/11/25/theater/reviews/shakespeares-richard-ii-from-the-pearl-theater-company.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/11/25/theater/25MOTH_RICHARD/25MOTH_RICHARD-moth.jpg" alt="&lsquo;Richard II&rsquo;" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://theater.nytimes.com/2011/11/25/theater/reviews/shakespeares-richard-ii-from-the-pearl-theater-company.html">&lsquo;Richard II&rsquo;</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker"><a href="http://theater.nytimes.com/pages/theater/index.html">Theater &raquo;</a></h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/2011/11/24/theater/frank-wildhorn-composer-of-bonnie-clyde.html?ref=arts"><span class="img" src="http://graphics8.nytimes.com/images/2011/11/24/theater/24moth_wildhorn/24moth_wildhorn-moth.jpg" alt="Standing by Their New Musical, Fingers Crossed" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/11/24/theater/frank-wildhorn-composer-of-bonnie-clyde.html?ref=arts">Standing by Their New Musical, Fingers Crossed</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker"><a href="http://www.nytimes.com/pages/arts/television/index.html">Television &raquo;</a></h6>		<div class="mothImage">
+<a href="http://tv.nytimes.com/2011/11/24/arts/television/jingle-all-the-way-the-elf-on-the-shelf-and-more-christmas-cartoons-television-review.html?ref=arts"><span class="img" src="http://graphics8.nytimes.com/images/2011/11/24/arts/television/24moth_cartoon/24moth_cartoon-moth.jpg" alt="Kicking Off an Animated Holiday Season" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://tv.nytimes.com/2011/11/24/arts/television/jingle-all-the-way-the-elf-on-the-shelf-and-more-christmas-cartoons-television-review.html?ref=arts">Kicking Off an Animated Holiday Season</a></h6>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="rightPanel"><span id="rightArrow"><img id="mothForward" src="http://graphics8.nytimes.com/images/global/buttons/moth_forward.gif" /></span></div>
+</div><!--end #insideNYTimes -->
+<div class="doubleRuleDivider insetH flushTop"></div>
+</div><!--close #SpanABMiddleRegion -->					<div class="aColumn">
+<!--cur:HeadlineOnly prev:-->
+<div class="columnGroup first">
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://movies.nytimes.com/2011/12/02/movies/julia-leighs-sleeping-beauty-review.html?ref=arts">
+Movie Review | 'Sleeping Beauty': Objectification Is Also in the Eye of the Beheld</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/dance/angel-reapers-at-joyce-theater-review.html?ref=arts">
+Dance Review: The Physical Ecstasy of Worship, and the Travails of Those Who Tread Its Path</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/dance/alvin-ailey-american-dance-theater-at-city-center-review.html?ref=arts">
+Dance Review: Starting a New Era With Graciousness, Taste and Tradition</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/music/nate-wooley-quintet-omega-at-brooklyn-lyceum-review.html?ref=arts">
+Songs About Friendship, Performed With His Pals</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/music/michael-feinstein-and-barbara-cook-at-feinsteins-review.html?ref=arts">
+Music Review: Benevolent Monarchs Of the Songbook Realm</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/music/new-york-womens-ensemble-at-carnegie-hall-review.html?ref=arts">
+Music Review: Disparate Players, Evoking Familiar Sounds</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/12/02/movies/the-big-fix-and-big-oil-review.html?ref=arts">
+Movie Review | 'The Big Fix': Fury, Up Close and Personal, at the Lingering Effects From the BP Oil Spill</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/12/02/movies/outrage-directed-by-takeshi-kitano-review.html?ref=arts">
+Movie Review | 'Outrage': The Violence That Japanese Gangsters Do: Betrayal Among the Yakuza</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/music/adele-bruno-mars-and-kanye-west-lead-grammy-nominations.html?ref=arts">
+Pop Stars Dominate Major Grammy Categories</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/12/02/movies/force-of-nature-the-david-suzuki-movie-review.html?ref=arts">
+Movie Review | 'Force of Nature: The David Suzuki Movie': Dear Humans: The Planet Needs Your Help</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/12/02/movies/the-yellow-sea-from-south-korea-review.html?ref=arts">
+Movie Review | 'The Yellow Sea': The Blood Runs Freely, but the Dogs Can’t</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/design/madison-square-presbyterian-church-fragments-found.html?ref=arts">
+Antiques: Madison Square Church Survives in Fragments</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/walking-tours-in-central-park.html?ref=arts">
+Weekend Miser</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/12/02/movies/under-fire-journalists-in-combat-by-martyn-burke-review.html?ref=arts">
+Movie Review | 'Under Fire: Journalists in Combat': Firsthand Dangers of Reporters in Combat Zones</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/12/02/movies/kinyarwanda-about-1994-genocide-of-tutsis-in-rwanda.html?ref=arts">
+Movie Review | 'Kinyarwanda': Linked Stories From the Months of the Rwanda Massacre</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/12/02/movies/under-control-documentary-on-german-nuclear-power-plants-review.html?ref=arts">
+Movie Review | 'Under Control': An Intimate Tour of a Gleaming German Nuclear Plant</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/12/02/movies/lads-jockeys-documentary-on-french-horse-racing-school.html?ref=arts">
+Movie Review | 'Lads & Jockeys': First-Race Terrors and Last-Place Humiliations at a Horse-Racing School</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/12/02/movies/a-journey-in-my-mothers-footsteps-dina-rosenmeiers-documentary-review.html?ref=arts">
+Movie Review | 'A Journey in My Mother’s Footsteps': Daughter’s Bittersweet Memoir of a Humanitarian Mother</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/12/02/movies/answers-to-nothing-by-matthew-leutwyler-review.html?ref=arts">
+Movie Review | 'Answers to Nothing': The Loneliness of a Brother’s Caregiver</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/12/02/movies/a-warriors-heart-with-kellan-lutz-and-ashley-greene.html?ref=arts">
+Movie Review | 'A Warrior’s Heart': Lacrosse Player Comes Undone, and Grows</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/fashion/eli-broad-a-major-art-collector-at-art-basel-miami-beach.html?ref=arts">
+A Shark Circles Art Basel Miami Beach</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/dance/clog-dancing-class-with-city-stompers-in-chelsea.html?ref=arts">
+Foot Stomping in Bluegrass Time</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/christa-wolf-dies-at-82-wrote-of-the-germanys.html?ref=arts">
+Christa Wolf Dies at 82; Wrote of the Germanys</a>
+</h6>
+</li>
+</ul>
+</div>
+<!--cur:StandardThumb prev:HeadlineOnly-->
+<div class="columnGroup singleRule ">
+<div class="story">
+<div class="thumbnail">
+<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=120315823">
+<img src="http://www.nytimes.com/images/2009/02/26/arts/musicpopcast-75.gif" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=120315823">
+Podcast: Music</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Alan Light on the Black Keys; Ben Ratliff and Nate Chinen on the late jazz drummer Paul Motian. Ben Ratliff is the host.</p>
+<ul class="refer">
+<li><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=120315823">Subscribe</a></li>
+<li><p><script src="http://graphics8.nytimes.com/packages/html/multimedia/js/swfobject.js"></script>
+<script src="http://graphics8.nytimes.com/packages/html/multimedia/js/NYTInlineEmbed.js" ></script>
+<script>
+mm.DI = true;
+mm.LI = true;
+mm.AH = "Listen to the Latest Popcast";
+mm.AS = "";
+mm.AD = "1644";
+  mm.AU ="http://dts.podtrac.nytimes.com/redirect.mp3/podcasts.nytimes.com/podcasts/2011/12/01/arts/music/01popcast_pod/1201popcast.mp3"; 
+mm.IU = "";
+writePlayer();
+</script></p><p><li><script src="http://graphics8.nytimes.com/packages/html/multimedia/js/swfobject.js"></script></p><p><script src="http://graphics8.nytimes.com/packages/html/multimedia/js/swfobject.js"></script>
+<script src="http://graphics8.nytimes.com/packages/html/multimedia/js/NYTInlineEmbed.js" ></script>
+</li>
+</ul>
+</div>
+<div class="singleRuleDivider"></div><div id="multiPlayer">
+<!--brightcove code starts here  09/30/08 build//-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/bcvideo/1.0/iframe/embed.js"></script>
+<script type="text/javascript">
+	NYT_VideoPlayerStart( {
+	   playerType  : "section",
+	   playlistId  : "1194811622311"
+	} );
+</script>
+<!--brightcove code ends here //-->
+</div>
+<div class="singleRuleDivider"></div>	</div>
+<!--cur:StandardThumb prev:StandardThumb-->
+<div class="columnGroup ">
+<div class="story">
+<div class="thumbnail">
+<a href="http://topics.nytimes.com/top/features/arts/columns/abroad/index.html?ref=arts">
+<img src="http://graphics8.nytimes.com/images/2009/02/26/arts/paris75.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://topics.nytimes.com/top/features/arts/columns/abroad/index.html?ref=arts">
+Abroad</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Michael Kimmelman on culture and society in Europe and beyond.</p>
+</div>
+<div class="story">
+<h3><a href="http://tvlistings.nytimes.com/nyt/index.asp?partner_id=nyt&amp;ref=arts">
+</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Find your comprehensive television listings with this <a href="http://tvlistings.nytimes.com/nyt/index.asp?partner_id=nyt">easy-to-use program guide</a>.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/ref/arts/television/whatson-thisweek.html">Daily Updated Highlights</a></li>
+</ul>
+</div>
+</div>
+<!--cur:StandardThumb prev:StandardThumb-->
+<div class="columnGroup ">
+<h6 class="sectionHeader">New York Today</h6><div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/marketing/newyorktoday/?ref=arts">
+<img src="http://graphics8.nytimes.com/images/2010/04/07/newyorktoday75.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/marketing/newyorktoday/?ref=arts">
+</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A free weekday e-mail newsletter featuring the best local offerings from all areas of NYTimes.com — business, arts, sports, dining, style and more.</p>
+<ul class="refer flush"><li><a href="http://www.nytimes.com/marketing/newyorktoday/"> Learn More and Subscribe &raquo;</a></li>
+</ul></div>
+</div>
+<!--cur:StandardThumb prev:StandardThumb-->
+<div class="columnGroup last">
+<div class="story">
+<h6 class="kicker">The Scoop</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/thescoop?ref=arts">
+<img src="http://graphics8.nytimes.com/images/2010/09/21/arts/events75.png" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/thescoop?ref=arts">
+New York City iPhone App</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Get a selection of the listings on your iPhone with The Scoop, The Times’s guide to what to eat, see and do in New York.</p>
+<ul class="refer flush"><li><a href="http://www.nytimes.com/thescoop">Learn More and Download  &raquo;</a></li>
+</ul></div>
+</div>						<div id="adxSponLink" class="columnGroup"></div>
+</div><!--close second .aColumn -->
+<div class="bColumn">
+<div class="columnGroup first">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<div class="columnGroup first">
+<h6 class="sectionHeader"> 2011 Holiday Gift Guide </h6>
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/gift-guide/holiday-2011/categories.html?ref=arts">
+<img src="http://graphics8.nytimes.com/images/apps/gift-guide/guide/holiday-2011/promos/giftguide2011-190b.png" width="190" height="126" alt="" border="0" />
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/gift-guide/holiday-2011/categories.html?ref=arts">
+</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Plan your holiday shopping with The New York Times 2011 Holiday Gift Guide.</p>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="subHeader">Longer versions of selected event listings in the New York area this week are now available online.</h6>
+<div class="story"><p class="summary">
+<a href="http://www.nytimes.com/2011/11/18/arts/design/museum-and-gallery-listings-for-nov-18-24.html">Art</a>
+| <a href="http://www.nytimes.com/2011/12/02/arts/music/classical-music-opera-listings-for-dec-2-8.html">Classical & Opera</a>
+| <a href="http://www.nytimes.com/2011/12/02/arts/dance/dance-listings-for-dec-2-8.html">Dance</a>
+| <a href="http://www.nytimes.com/2011/12/02/arts/music/jazz-listings-for-dec-2-8.html">Jazz</a>
+| <a href="http://www.nytimes.com/2011/12/02/movies/movie-listings-for-dec-2-8.html">Movies</a>
+| <a href="http://www.nytimes.com/2011/12/02/arts/music/pop-and-rock-listings-for-dec-2-8.html">Rock & Pop</a>
+| <a href="http://www.nytimes.com/2011/12/02/theater/theater-listings-for-dec-2-8.html">Theater</a>
+| <a href="http://www.nytimes.com/2011/12/02/arts/spare-times-for-children-for-dec-2-8.html">Children’s Events</a>
+| <a href="http://www.nytimes.com/2011/12/02/arts/spare-times-for-dec-2-8.html">Spare Times</a>
+</p></div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="story">
+<h6 class="kicker">Arts & Leisure</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/04/arts/music/the-black-keys-change-gears-with-el-camino.html?ref=arts">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/arts/04KEYS_SPAN/04KEYS-thumbStandard.jpg" width="75" height="75" alt="The Black Keys — Dan Auerbach, left, and Patrick Carney — in Nashville, where they recorded their new album, “El Camino,” a departure from their hit “Brothers.”" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/04/arts/music/the-black-keys-change-gears-with-el-camino.html?ref=arts">
+First, Hit It Big. Then Change.</a></h3>
+<h6 class="byline">
+By ALAN LIGHT	    </h6>
+<p class="summary">
+The Black Keys found unusual success in recent years, but they have chosen to sound different on their forthcoming album “El Camino.”</p>
+<ul class="refer">
+<li><script src="http://graphics8.nytimes.com/packages/html/multimedia/js/swfobject.js"></script>
+<script src="http://graphics8.nytimes.com/packages/html/multimedia/js/NYTInlineEmbed.js" ></script>
+<script>
+mm.DI = true;
+mm.LI = false;
+mm.AH = "Popcast: The Black Keys Return";
+mm.AS = "20111204_KEYS_AUDIO";
+mm.AD = "1644";
+mm.AU = "http://dts.podtrac.nytimes.com/redirect.mp3/podcasts.nytimes.com/podcasts/2011/12/01/arts/music/01popcast_pod/1201popcast.mp3";
+mm.IU = "";
+writePlayer();
+</script></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<h6 class="sectionHeader">Movies</h6>
+<div class="columnGroup first">
+<script language="javascript" type="text/javascript" src="http://graphics8.nytimes.com/packages/js/multimedia/bundles/FadingSlideShow.js"></script>
+<script language="javascript" type="text/javascript" src="http://graphics8.nytimes.com/packages/js/multimedia/data/FadingSlideShow/20111028_holidaymovies.js"></script>
+<link type="text/css" rel="stylesheet" href="http://graphics8.nytimes.com/packages/css/multimedia/bundles/FadingSlideShow.css" />
+<div id="nytmm_embed9" class="nytmm_embed">
+</div>
+<script> var _obj = new NYTMM.FadingSlideShow($("nytmm_embed9"),190,110,chameleonData); _obj.setPhotoData(chameleonData.photos); </script>
+<div class="story"><h5><a href="http://www.nytimes.com/indexes/2011/10/29/movies/moviesspecial/index.html">Holiday Movies</a></h5><p class="summary">Steven Spielberg, Charlize Theron, breakthrough performances and more about this season's new films.</p></div>        	</div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/10/27/arts/dance/bolshoi-theater.html?ref=arts">
+<img src="http://graphics8.nytimes.com/images/2011/10/30/arts/20111030bolshoiss-slide-LU0B/20111030bolshoiss-slide-LU0B-thumbStandard-v2.jpg" width="75" height="75" alt="From a box on the side of the stalls, right, security guards watched a rehearsal of “Ruslan and Ludmila.”" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/10/27/arts/dance/bolshoi-theater.html?ref=arts">
+<span class="media icon audio">Audio & Photos: </span>
+The Bolshoi Theater Reopens</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+After six years of renovation and reconstruction, the Bolshoi Theater in Moscow reopened.</p>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<h3 class="sectionHeader">Spare Times</h3>
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/spare-times-for-dec-2-8.html?ref=arts">
+Spare Times for Dec. 2-8</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/spare-times-for-children-for-dec-2-8.html?ref=arts">
+Spare Times: For Children, for Dec. 2-8</a>
+</h6>
+</li>
+</ul>
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<h6 class="sectionHeader">Special Section</h6>
+<div class="columnGroup first">
+<script language="javascript" type="text/javascript" src="http://graphics8.nytimes.com/packages/js/multimedia/bundles/FadingSlideShow.js"></script>
+<script language="javascript" type="text/javascript" src="http://graphics8.nytimes.com/packages/js/multimedia/data/FadingSlideShow/2011091_NewSeasonArts_Promo.js"></script>
+<link type="text/css" rel="stylesheet" href="http://graphics8.nytimes.com/packages/css/multimedia/bundles/FadingSlideShow.css" />
+<div id="nytmm_embed795" class="nytmm_embed">
+</div>
+<script> var _obj = new NYTMM.FadingSlideShow($("nytmm_embed795"),190,126,chameleonData); _obj.setPhotoData(chameleonData.photos); </script>
+<div class="story">
+<h5><a href="http://www.nytimes.com/interactive/arts/television/2011-fall-tv.html"> The New Season</a></h5>
+<p class="summary">Listings of the concerts, films, plays, TV shows and other events that will fill the fall arts season.</p>
+<p class="refer">
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/09/18/arts/dance/congo-and-kabuki-and-salutes-to-mr-b.html#nov">Dance</a> | <a href="http://www.nytimes.com/2011/09/18/theater/outlaws-kings-and-comedy.html/?pagewanted=all#nov">Theater</a></li>
+<li><a href="http://www.nytimes.com/2011/09/25/arts/music/tchaikovsky-dress-codes-and-3-d-opera.html?pagewanted=all#nov">Classical</a> | <a href="http://www.nytimes.com/2011/09/18/arts/music/debuts-duets-and-bootlegs.html?pagewanted=all#nov">Pop Music</a></li>
+<li><a href="http://www.nytimes.com/2011/10/30/movies/november-movie-release-schedule.html">Film</a> | <a href="http://www.nytimes.com/2011/09/18/arts/television/it-girls-mad-men-and-monster-slayers.html?pagewanted=all#nov">Television</a></li>
+<li><a href="http://www.nytimes.com/2011/09/18/arts/design/byzantium-to-the-bronx-a-world-of-art.html#nov">Art and Architecture</a></li>
+</ul>
+</p>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule last">
+
+<div class="singleAd" id="Right1">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/index.html&pos=Right1&sn2=7482274f/9fbae264&sn1=38d43609/ab3147cd&camp=nyt2011-circ-120x90-weekender-36H38&ad=071511-120x90-weekender-36H38&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DWC7AA%26CMP%3D36H38" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/13/ad.271312/11-0920_HDWeekender2_120x90.jpg" width="120" height="90" border="0"></a>
+
+</div>
+
+
+</div>					</div><!--close second .bColumn -->
+</div><!--close .abColumn -->
+<div class="cColumn">
+<!--Ads  -->                    <div class="columnGroup first">
+
+<div class="singleAd" id="Spon1">
+<!-- ADXINFO classification="pencil_ad" campaign="Stick_Fly_Fall2011_1764784_nyt10"--><script src="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=rsb&c=28&pli=3403920&PluID=0&w=336&h=46&ord=2011.12.02.18.04.30&ucm=true&z=1"></script>
+<noscript>
+<a href="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=brd&FlightID=3403920&Page=&PluID=0&Pos=5384" target="_blank"><img src="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=bsr&FlightID=3403920&Page=&PluID=0&Pos=5384" border=0 width=336 height=46></a>
+</noscript>
+
+</div>
+
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<script type="text/javascript" src="/js/app/events/1.0/module.js"></script>
+<div id="eventsCalendarModule" class="eventsCalendarModule"></div>        	</div>
+<!--Ads Simple -->                    <div class="columnGroup ">
+
+			
+<div class="bigAd" id="SFMiddle">
+<!-- ADXINFO classification="bigad" campaign="PBSArtsRB9_1762565_nyt9"--><div align="center">
+<script src="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=rsb&c=28&pli=3302228&PluID=0&w=300&h=250&ord=2011.12.02.18.04.30&z=1"></script>
+<noscript>
+<a href="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=brd&FlightID=3302228&Page=&PluID=0&Pos=7280" target="_blank"><img src="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=bsr&FlightID=3302228&Page=&PluID=0&Pos=7280" border=0 width=300 height=250></a>
+</noscript>
+</div>
+</div>
+
+
+
+<div class="singleAd" id="Box3">
+<!-- ADXINFO classification="feature_squares" campaign="nyt2011-regilite-P1-ticketwatch"--><IFRAME title="regilite" src="https://myaccount.nytimes.com/regilite?product=TR" width="336" height="90" marginheight="0" marginwidth="0" frameborder="0" vspace="0" hspace="0" scrolling="no"></IFRAME> 
+
+</div>
+
+
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<div class="singleRuleDivider"></div><h3 class="sectionHeader"><img
+src="http://graphics8.nytimes.com/images/misc/from-iht-logo.gif" alt="From the
+International Herald Tribune" /></h3>
+<div class="subHeader"><a href="http://events.nytimes.com/iht/artsguide/index.php">Search the Global Arts Guide »</a></div>        	</div>
+<!--StandardThumbWithScrollbar Simple -->                    <div class="columnGroup ">
+<div class="standardThumbWithScrollbar">
+<div class="scrollBox">
+<div class="scrollContent">
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/05/arts/05iht-design05.html?ref=arts">
+<img src="http://graphics8.nytimes.com/images/2011/12/05/arts/05iht-design05-inline1/05iht-design05-inline1-thumbStandard.jpg" width="75" height="75" alt="Edward McKnight Kauffer in 1920." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/05/arts/05iht-design05.html?ref=arts">
+The Making of a Poster King</a></h3>
+<h6 class="byline">
+By ALICE RAWSTHORN	    </h6>
+<p class="summary">
+A London museum looks at Edward McKnight Kauffer, one of the most successful graphic designers in early 20th-century Britain.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/03/arts/03iht-rartmatteo03.html?ref=arts">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/arts/rartmatteo-inline/rartmatteo-inline-thumbStandard.jpg" width="75" height="75" alt="‘‘The Red Room,’’ by Matteo Massagrande." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/03/arts/03iht-rartmatteo03.html?ref=arts">
+Visions of Today Influenced by Past</a></h3>
+<h6 class="byline">
+By RODERICK CONWAY MORRIS	    </h6>
+<p class="summary">
+Matteo Massagrande uses a style influenced by Old World Masters to capture modern scenes.</p>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/12/03/arts/03iht-rartpompidou03.html?ref=arts">
+Come One, Come All to the Pompidou's Traveling Art Circus</a></h3>
+<h6 class="byline">
+By CLAUDIA BARBIERI	    </h6>
+<p class="summary">
+A small town in eastern France is the first stop for Pompidou Mobile, a travelling gallery of modern and contemporary art.</p>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/12/03/arts/03iht-rartljub03.html?ref=arts">
+New Museum Opens for the Avant-Garde</a></h3>
+<h6 class="byline">
+By GINANNE BROWNELL	    </h6>
+<p class="summary">
+With the opening of an art museum in Slovenia, artists from the region are especially interested in the display of the oldest collection in the world of Eastern European avant-garde art since the 1960s.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/03/arts/03iht-rartpfeiffer03.html?ref=arts">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/arts/rartpfeiffer/rartpfeiffer-thumbStandard.jpg" width="75" height="75" alt="‘‘Down on the Aisle II,’’ a piece by Laura Keeble." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/03/arts/03iht-rartpfeiffer03.html?ref=arts">
+A Return to the Artisan in the Art World</a></h3>
+<h6 class="byline">
+By ALICE PFEIFFER	    </h6>
+<p class="summary">
+Artisanal techniques, once deemed the opposite of cool, are making their way back into art fairs and galleries, not to mention providing young artists with marketable skills.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/03/arts/03iht-rartfairs03.html?ref=arts">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/arts/rartfairs03/rartfairs03-thumbStandard.jpg" width="75" height="75" alt="A scene from the 2011 edition of Art HK. The owner of the Art Basel fairs announced earlier this year that it had purchased a 60 percent stake in the fair." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/03/arts/03iht-rartfairs03.html?ref=arts">
+Art Fairs Are Giving New Prestige to Asia</a></h3>
+<h6 class="byline">
+By XHINGYU CHEN	    </h6>
+<p class="summary">
+This year's announcement that the owner of the Art Basel fairs had purchased a 60 percent stake in ArtHK was widely seen as having cemented the legitimacy of the Asian art market.</p>
+</div>
+</div><!--close scrollContent -->
+</div><!--close scrollBox -->
+</div><!--close standardThumbWithScrollbar -->
+</div>
+<!--Simple StandardThumbWithScrollbar -->                    <div class="columnGroup ">
+<div id="mostPopWidget" class="singleRule"> 
+
+      <!-- MOST POPULAR MODULE STARTS -->
+      <h4>MOST POPULAR - ARTS</h4>
+         <div id="tabsContainer">
+         <ul class="tabs">
+            <li class="selected"><a href="#">E-Mailed</a></li>
+            <li><a href="#">Blogged</a></li>
+            
+            <li><a href="#">Viewed</a></li>
+            
+         </ul>
+         </div>
+            <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"></HEAD><div class="tabContent tabContentActive" id="mostEmailed"><ol>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/arts/LEWIS-3-obit/LEWIS-3-obit-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/01/arts/television/judy-lewis-secret-daughter-of-hollywood-dies-at-76.html?src=me&amp;ref=arts" title="Click to go to this article">Judy Lewis, Secret Daughter of Hollywood, Dies at 76</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/arts/02STORY1_SPAN/02STORY1-thumbStandard.jpg"  kicker="Art Review"><a href="http://www.nytimes.com/2011/12/02/arts/design/storytelling-in-japanese-art-at-the-met-review.html?src=me&amp;ref=arts" title="Click to go to this article">Art Review: Unfurling a Thousand Years of Gods, Demons and Romance</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/29/books/best2011cap/best2011cap-thumbStandard.jpg"  kicker="Holiday Gift Guide"><a href="http://www.nytimes.com/2011/12/11/books/10-best-books-of-2011.html?src=me&amp;ref=arts" title="Click to go to this article">Holiday Gift Guide: The 10 Best Books of 2011</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/arts/02CORIO_SPAN/02CORIO-thumbStandard.jpg"  kicker="Movie Review | 'Coriolanus'"><a href="http://movies.nytimes.com/2011/12/02/movies/ralph-fiennes-and-vanessa-redgrave-in-coriolanus-review.html?src=me&amp;ref=arts" title="Click to go to this article">Movie Review | 'Coriolanus': He&rsquo;s the Hero of the People, and He Hates It</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/arts/02LUMINOUS/02LUMINOUS-thumbStandard.jpg"  kicker="Art Review"><a href="http://www.nytimes.com/2011/12/02/arts/design/luminous-modernism-at-scandinavia-house-review.html?src=me&amp;ref=arts" title="Click to go to this article">Art Review: Shadowy Lure of Scandinavia Fights the Bright Pull of Paris</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/arts/02SHAME/02SHAME-thumbStandard-v2.jpg"  kicker="Movie Review | 'Shame'"><a href="http://movies.nytimes.com/2011/12/02/movies/shame-directed-by-steve-mcqueen-review.html?src=me&amp;ref=arts" title="Click to go to this article">Movie Review | 'Shame': Only One Thing on His Mind</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/arts/01faust-span/01faust-span-thumbStandard.jpg"  kicker="Music Review"><a href="http://www.nytimes.com/2011/12/01/arts/music/a-review-of-the-metropolitan-operas-faust.html?src=me&amp;ref=arts" title="Click to go to this article">Music Review: This Faust Builds Atom Bombs (He Still Sings)</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/04/arts/04ONCE2/04ONCE2-thumbStandard.jpg"  kicker="Arts & Leisure"><a href="http://www.nytimes.com/2011/12/04/theater/the-film-once-becomes-a-new-york-musical.html?src=me&amp;ref=arts" title="Click to go to this article">Arts &amp; Leisure: A Second Arrival for &lsquo;Once&rsquo;</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/arts/02BONNIE/02BONNIE-thumbStandard.jpg"  kicker="Theater Review | 'Bonnie & Clyde'"><a href="http://theater.nytimes.com/2011/12/02/theater/reviews/bonnie-clyde-with-laura-osnes-and-jeremy-jordan-review.html?src=me&amp;ref=arts" title="Click to go to this article">Theater Review | 'Bonnie &amp; Clyde': Armed and Amorous, Committing Cold-Blooded Musical</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/arts/sub-carpetbagger-1/sub-carpetbagger-1-thumbStandard.jpg"  kicker="The Carpetbagger"><a href="http://www.nytimes.com/2011/12/01/movies/awardsseason/in-film-so-many-men-on-the-verge-of-a-crisis.html?src=me&amp;ref=arts" title="Click to go to this article">The Carpetbagger: American Masculinity, Shown in All Its Angst</a></li>
+</ol>
+        <a class="more" href="http://www.nytimes.com/gst/mostemailed.html">Go to Complete List &#x00bb;</a>
+        </div><!-- #most emailed top10 -->
+
+            <div class="tabContent" id="mostBlogged">
+<ol><li><a href="http://www.nytimes.com/2006/12/04/arts/04wigg.html?bl&amp;ex=1165986000&amp;en=1fa26d70cd47cd44&amp;ei=5087%0A" title="Click to go to this article">Hush, Mama, Don't You Cry, A New Yellow Wiggle Will Sing</a></li></ol>
+<a class="more" href="http://www.nytimes.com/gst/mostblogged.html">Go to Complete List &#x00bb;</a>
+</div><!-- #most blogged top10 -->
+
+            
+            <div class="tabContent" id="mostViewed"><ol>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/arts/LEWIS-3-obit/LEWIS-3-obit-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/01/arts/television/judy-lewis-secret-daughter-of-hollywood-dies-at-76.html?src=mv&amp;ref=arts" title="Click to go to this article">Judy Lewis, Secret Daughter of Hollywood, Dies at 76</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/arts/02STORY1_SPAN/02STORY1-thumbStandard.jpg"  kicker="Art Review"><a href="http://www.nytimes.com/2011/12/02/arts/design/storytelling-in-japanese-art-at-the-met-review.html?src=mv&amp;ref=arts" title="Click to go to this article">Art Review: Unfurling a Thousand Years of Gods, Demons and Romance</a></li>
+<li kicker="Carpetbagger"><a href="http://carpetbagger.blogs.nytimes.com/2011/12/01/is-it-the-year-of-the-dude-film/?src=mv&amp;ref=arts" title="Click to go to this article">Carpetbagger: Is It the Year of the Dude Film?</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/arts/02LUMINOUS/02LUMINOUS-thumbStandard.jpg"  kicker="Art Review"><a href="http://www.nytimes.com/2011/12/02/arts/design/luminous-modernism-at-scandinavia-house-review.html?src=mv&amp;ref=arts" title="Click to go to this article">Art Review: Shadowy Lure of Scandinavia Fights the Bright Pull of Paris</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/arts/01faust-span/01faust-span-thumbStandard.jpg"  kicker="Music Review"><a href="http://www.nytimes.com/2011/12/01/arts/music/a-review-of-the-metropolitan-operas-faust.html?src=mv&amp;ref=arts" title="Click to go to this article">Music Review: This Faust Builds Atom Bombs (He Still Sings)</a></li>
+<li kicker="ArtsBeat"><a href="http://artsbeat.blogs.nytimes.com/2011/12/02/x-factor-watch-payback-for-simon-cowell/?src=mv&amp;ref=arts" title="Click to go to this article">ArtsBeat: 'X Factor' Watch: Payback for Simon Cowell</a></li>
+<li kicker="ArtsBeat"><a href="http://artsbeat.blogs.nytimes.com/2011/11/30/kanye-west-tops-grammy-nominations/?src=mv&amp;ref=arts" title="Click to go to this article">ArtsBeat: Kanye West Tops Grammy Nominations</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/04/arts/04KEYS_SPAN/04KEYS-thumbStandard.jpg"  kicker="Arts & Leisure"><a href="http://www.nytimes.com/2011/12/04/arts/music/the-black-keys-change-gears-with-el-camino.html?src=mv&amp;ref=arts" title="Click to go to this article">Arts &amp; Leisure: First, Hit It Big. Then Change.</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/arts/02RAUSCHENBERG_SPAN/SUBRAUSCHENBERG1-thumbStandard.jpg"  kicker="Art Review"><a href="http://www.nytimes.com/2011/12/02/arts/design/selections-from-the-private-collection-of-robert-rauschenberg-at-gagosian-gallery.html?src=mv&amp;ref=arts" title="Click to go to this article">Art Review: A Portrait of the Artist as Exuberant Collector</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/arts/EXPAND/EXPAND-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/01/arts/design/san-francisco-museum-of-modern-art-expansion-aims-for-friendly.html?src=mv&amp;ref=arts" title="Click to go to this article">An Imposing Museum Turns Warm and Fuzzy</a></li>
+</ol>
+        </div><!-- #most viewed top10 -->
+
+            
+         <script type="text/javascript">new Accordian("mostPopWidget");</script>
+      <!-- MOST POPULAR MODULE ENDS -->
+   
+
+</div><!--close mostPopWidget -->
+</div>
+<!--Ads Simple -->                    <div class="columnGroup ">
+			
+
+<div class="bigAd" id="Box1">
+<!-- ADXINFO classification="Module" campaign="nyt2011_module_biz_piers_morgan_hp_ros_db"--><!-- MARKETING MODULE -->
+<div style="border:solid #999;border-width:1px;font-family:Arial,sans-serif;text-align:left; width:334px;background:#fff;" class="clearfix wrap">
+  <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/index.html&pos=Box1&sn2=da42717e/b632f0bb&sn1=3cd7b396/8bf4d3f&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://mediadecoder.blogs.nytimes.com/2011/11/30/piers-morgan-struggles-to-beat-kings-ratings/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-PH%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm11/business_120211.jpg" width="334" height="154" border="0" alt=""></a> 
+  <div style="padding:7px 9px 0;background:#fff">
+      <h2 style="font-size:22px;line-height:24px; margin:0;padding:0 0 4px;"><a style="color:#004276;" target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/index.html&pos=Box1&sn2=da42717e/b632f0bb&sn1=3cd7b396/8bf4d3f&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://mediadecoder.blogs.nytimes.com/2011/11/30/piers-morgan-struggles-to-beat-kings-ratings/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-HDR%26WT.mc_ev=click%26WT.mc_c=174041">Piers Morgan's struggle</a></h2>
+
+      <p style="margin:0 0 3px; padding:0;font-size: 11px;"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/index.html&pos=Box1&sn2=da42717e/b632f0bb&sn1=dcca9a23/ff2c3589&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://nytimes.com/business/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-URL%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank" style="font-size:11px;margin:3px 0;padding:0;font-family:Arial,sans-serif;  color:#000; text-transform:uppercase;">Also in Business &raquo;</a></p>
+      <ul style="font-size:12px;margin:0; padding-bottom: 10px; border-bottom:1px solid #ccc;" class="refer">
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/index.html&pos=Box1&sn2=da42717e/b632f0bb&sn1=7ddbcc18/6dfb3f78&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://dealbook.nytimes.com/2011/11/30/american-wont-be-the-last-airline-bankruptcy/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-L1%26WT.mc_ev=click%26WT.mc_c=174041" style="color: #004276">American won't be the last airline bankruptcy</a></li>
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/index.html&pos=Box1&sn2=da42717e/b632f0bb&sn1=aada211/3630bfe3&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://www.nytimes.com/2011/11/30/business/media/pepto-bismol-highlights-overindulging-in-latest-campaign.html%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-L2%26WT.mc_ev=click%26WT.mc_c=174041" style="color: #004276">A look at Pepto-Bismol's new holiday commercials</a></li>
+      </ul>
+    </div>
+ 
+ <div style="padding:5px 9px; float:left; width:316px; background:#fff"> <a style="float:left" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/index.html&pos=Box1&sn2=da42717e/b632f0bb&sn1=dcca9a23/ff2c3589&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://nytimes.com/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-LOGO%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/nytimes.gif" alt="nytimes.com" width="116" height="18" border="0"></a><a style="float:right" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/index.html&pos=Box1&sn2=da42717e/b632f0bb&sn1=dcca9a23/ff2c3589&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://nytimes.com/business/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-VRT%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/verticals_business.gif" alt="Business" width="120" height="18" border="0"></a></div><br clear="all">
+
+</div>
+  <!-- /MARKETING MODULE -->
+
+</div>
+
+
+<div class="singleAd" id="Middle5">
+<!-- ADXINFO classification="feature_position" campaign="nyt2011-circ-middle5_promise-373LX-38R9W-AK"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/index.html&pos=Middle5&sn2=ed1700b1/c8523154&sn1=294262dd/c90edcbd&camp=nyt2011-circ-middle5_promise-373LX-38R9W-AK&ad=092111-11-middle5_promise-AK&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DW42CS%26CMP%3D373LX" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/71/ad.277140/11-0922_HDGenericD2_336x79_AK.jpg" width="336" height="79" border="0"></a><div class='kj_cx'></div>
+<script type='text/javascript'>
+var kjData = {akin: 'NYT-IP-4d0abbb3acf67-y05', adWidth: 10, adHeight: 10, btnStyle: 2, crnr: 'bl'};
+if(!kjG){var kjG=[]}kjG.push(kjData);if(!kjLdr){var kjLdr={ld:function(){var b=document; var a=b.createElement('script');a.type='text/javascript';a.src='http://a.akncdn.com/adkeeper.1.0.js'; (b.getElementsByTagName('body')[0]||b.getElementsByTagName('head')[0]).appendChild(a) },init:function(){var a=window,b=document;if(b.addEventListener){a.addEventListener('load',this.ld,false) }else{if(a.attachEvent){a.attachEvent('onload',this.ld)}}}};kjLdr.init()}; </script>
+</div>
+
+
+
+<!--[TwoColumnAdLeft - Begin] -->
+	<div class="adHeader">
+<h4>
+Advertisements	    </h4>
+</div>
+<div class="cColumn-TextAdsBox">
+	<div class="cColumn-TextAdsLeft">
+<div class="cColumn-TextAd">
+<!-- ADXINFO classification="SiteForADay" campaign="nyt2011-mktg-arts_and_ents-s4d_ros"--><div style="width:320px; height:60px;"> 
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/index.html&pos=Right5A&sn2=893eff2c/48227152&sn1=6a1102ca/9e7f5eda&camp=nyt2011-mktg-arts_and_ents-s4d_ros&ad=AR-D-I-NYT-AD-S4D-AandE-ROS-1211-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fevents%2Findex%2Ehtml%3FWT%2Emc%5Fid%3DAR%2DD%2DI%2DNYT%2DAD%2DS4D%2DAandE%2DROS%2D1211%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D175108" target="_blank"> 
+<img style="float:left; margin-right:10px;" src="http://graphics8.nytimes.com/adx/images/ADS/28/59/ad.285977/11-2187_ArtsEntertainment_86x60.gif" width="86" height="60" border="0" style="vertical-align:text-top;"></a>
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/index.html&pos=Right5A&sn2=893eff2c/48227152&sn1=6a1102ca/9e7f5eda&camp=nyt2011-mktg-arts_and_ents-s4d_ros&ad=AR-D-I-NYT-AD-S4D-AandE-ROS-1211-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fevents%2Findex%2Ehtml%3FWT%2Emc%5Fid%3DAR%2DD%2DI%2DNYT%2DAD%2DS4D%2DAandE%2DROS%2D1211%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D175108" target="_blank">  <br />Introducing: The Interactive Arts & Entertainment Guide</a>
+</div>
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+</div>
+	</div>
+<!--[TwoColumnAdLeft - End] -->
+<div class="advertisementColumnGroup">
+<!--[MarketPlaceGridAd - Begin] -->
+
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+    <!--[MarketPlaceGridAd - End] -->
+</div>
+</div>
+<!--WireFeed Ads -->                    <div class="columnGroup ">
+<h6 class="kicker"><div style="border-top:1px solid #ccc; padding-top:8px;">News From <a href="http://www.nytimes.com/pages/aponline/entertainment/index.html">A.P.</a> and <a href="http://www.nytimes.com/pages/reuters/entertainment/index.html">Reuters</a> &raquo;</div></h6>
+<div class="story">
+<h6><a href="http://www.nytimes.com/aponline/2011/12/02/arts/AP-EU-Britain-Amy-Winehouse.html?ref=arts">Amy Winehouse Foundation Makes First Donations</a></h6>
+<span class="timestamp">12 minutes ago</span>
+</div>	       <div class="story">
+<h6><a href="http://www.nytimes.com/aponline/2011/12/02/arts/AP-EU-Netherlands-Rembrandt.html?ref=arts">Experts Reclassify Painting as Real Rembrandt</a></h6>
+<span class="timestamp">16 minutes ago</span>
+</div>	       <div class="story">
+<h6><a href="http://www.nytimes.com/aponline/2011/12/02/arts/AP-US-Theater-Subscriptions.html?ref=arts">Report Finds Theater Subscriptions Falling</a></h6>
+<span class="timestamp">27 minutes ago</span>
+</div>	       <div class="story">
+<h6><a href="http://www.nytimes.com/aponline/2011/12/02/arts/AP-US-People-McCready.html?ref=arts">McCready's Ex Says She's Pushing Luck Over Son</a></h6>
+<span class="timestamp">49 minutes ago</span>
+</div>	       <div class="story">
+<h6><a href="http://www.nytimes.com/aponline/2011/12/02/arts/AP-EU-Britain-Theater-Awards.html?ref=arts">Jude Law, Kevin Spacey Vie for Whatsonstage Awards</a></h6>
+<span class="timestamp">55 minutes ago</span>
+</div>	       <div class="story">
+<h6><a href="http://www.nytimes.com/aponline/2011/12/02/arts/AP-EU-Britain-Phone-Hacking.html?ref=arts">UK Media Inquiry a Lesson in Tabloid Skullduggery</a></h6>
+<span class="timestamp">10:40 AM ET</span>
+</div>        	</div>
+<!--Ads WireFeed -->                    <div class="columnGroup last">
+
+<div class="singleAd" id="Feature1">
+<!-- ADXINFO classification="hp-module" campaign="feature1-1280FifthAve-18-1712178-cla"--><!--Ad Template Begins Here -->
+<div class="story advertisement">
+<div class="callout">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/index.html&pos=Feature1&sn2=cd2f830/100d1573&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/15/ad.271512/7.23.11_BRK11-2614_1280_nyt.com_module_update2.jpg" width="173" height="98" border="0" alt="Click for Details"></a>
+</div>
+<h5>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/index.html&pos=Feature1&sn2=cd2f830/100d1573&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank"></a>
+</h5>
+<p class="summary"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/index.html&pos=Feature1&sn2=cd2f830/100d1573&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank">Designed by<br>Robert&nbsp;&nbsp;A.M. Stern<br>Overlooking Central Park<br>Up to 5 Bedrooms</a></p>
+<div class="adCreative">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/arts/index.html&pos=Feature1&sn2=cd2f830/100d1573&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/15/ad.271512/5.19.11_1280_logo_78x36.jpg" width="78" height="36"></a>
+</div>
+</div>
+<!--Ad Template Ends Here -->
+</div>
+
+
+<div class="singleAd" id="SponLink">
+<script language="JavaScript" type="text/javascript">
+    
+    // Sponlink_short
+
+    NYTD.GoogleAds.getGoogleAds("AFC", { 
+        google_ad_client:'nytimes_section_var',
+        ad_target_list:'sponLink'
+    });
+</script>
+</div>
+
+</div>
+</div><!--close cColumn -->
+</div><!--close wideA -->
+</div><!--close spanAB -->
+</div><!--close main -->
+<div id="footer">
+<ul class="first">
+<li class="first"><a href="http://www.nytimes.com">Home</a></li>
+<li >
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li>
+<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+</ul>    <ul>
+<li class="first"><a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&copy; 2011</a> <a href="http://www.nytco.com/">The New York Times Company</a></li>
+<li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Terms of Service</a></li>
+<li class="termsOfSale"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+<li><a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a></li>
+<li><a class="rssButton" href="http://www.nytimes.com/rss">RSS</a></li>
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+<li><a href="http://www.nytco.com/careers">Work for Us</a></li>
+<li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+</ul>
+</div>
+</div><!--close page -->
+</div><!--close shell -->
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/lib/prototype/1.6.0.2/prototype.js"></script>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/lib/prototype/extensions/event.js"></script>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/lib/NYTD/scrollbox/1.0/scrollbox.js"></script>
+
+
+
+
+
+
+
+<IMG SRC="/adx/bin/clientside/351d4ee7Q2FQ3DQ7BJQ25dQ5CQ22-.Q7BIQ51Q5CYd.Q7D2Q5DYM.-Q5DQ25" height="1" width="3">
+
+<script type="text/javascript" language="JavaScript">
+// Written by /usr/local/knews/bin/commentcount.pl Fri Dec  2 13:02:02 2011
+var NYTArticleCommentCounts = {
+"100000001190843":{count:147, commentsEnabled:false},
+"100000001190858":{count:204, commentsEnabled:false},
+"100000001190907":{count:49, commentsEnabled:false},
+"100000001191255":{count:237, commentsEnabled:false},
+"100000001191704":{count:133, commentsEnabled:false},
+"100000001191724":{count:100, commentsEnabled:false},
+"100000001191950":{count:122, commentsEnabled:false},
+"100000001192133":{count:307, commentsEnabled:false},
+"100000001192329":{count:76, commentsEnabled:false},
+"100000001190961":{count:19, commentsEnabled:false},
+"100000001177231":{count:1, commentsEnabled:true},
+"100000001177245":{count:74, commentsEnabled:true},
+"100000001179958":{count:24, commentsEnabled:false},
+"100000001180322":{count:227, commentsEnabled:true},
+"100000001183078":{count:44, commentsEnabled:false},
+"100000001183080":{count:327, commentsEnabled:false},
+"100000001183081":{count:7, commentsEnabled:false},
+"100000001183084":{count:235, commentsEnabled:false},
+"100000001183087":{count:11, commentsEnabled:false},
+"100000001183089":{count:14, commentsEnabled:false},
+"100000001183090":{count:11, commentsEnabled:false},
+"100000001183091":{count:3, commentsEnabled:false},
+"100000001183094":{count:14, commentsEnabled:false},
+"100000001184186":{count:79, commentsEnabled:false},
+"100000001184524":{count:149, commentsEnabled:false},
+"100000001186117":{count:1, commentsEnabled:false},
+"100000001186193":{count:12, commentsEnabled:true},
+"100000001186569":{count:190, commentsEnabled:false},
+"100000001189184":{count:49, commentsEnabled:false},
+"100000001190721":{count:71, commentsEnabled:false},
+"100000001191577":{count:224, commentsEnabled:false},
+"100000001191688":{count:28, commentsEnabled:false},
+"100000001191719":{count:107, commentsEnabled:false},
+"100000001191931":{count:121, commentsEnabled:false},
+"100000001191985":{count:110, commentsEnabled:false},
+"100000001192057":{count:211, commentsEnabled:false},
+"100000001192188":{count:141, commentsEnabled:false},
+"100000001192496":{count:52, commentsEnabled:false},
+"100000001192500":{count:206, commentsEnabled:false},
+"100000001192600":{count:224, commentsEnabled:false},
+"100000001192611":{count:167, commentsEnabled:false},
+"100000001193250":{count:67, commentsEnabled:false},
+"100000001193262":{count:37, commentsEnabled:false},
+"100000001193344":{count:98, commentsEnabled:false},
+"100000001193527":{count:27, commentsEnabled:false},
+"100000001193629":{count:10, commentsEnabled:false},
+"100000001193702":{count:17, commentsEnabled:false},
+"100000001193743":{count:108, commentsEnabled:false},
+"100000001193763":{count:516, commentsEnabled:false},
+"100000001193825":{count:86, commentsEnabled:false},
+"100000001193857":{count:48, commentsEnabled:false},
+"100000001193859":{count:160, commentsEnabled:false},
+"100000001193890":{count:117, commentsEnabled:false},
+"100000001193920":{count:44, commentsEnabled:false},
+"100000001193944":{count:303, commentsEnabled:false},
+"100000001193948":{count:7, commentsEnabled:false},
+"100000001194088":{count:51, commentsEnabled:false},
+"100000001194098":{count:17, commentsEnabled:true},
+"100000001194137":{count:109, commentsEnabled:false},
+"100000001194342":{count:159, commentsEnabled:false},
+"100000001194394":{count:68, commentsEnabled:false},
+"100000001194454":{count:36, commentsEnabled:false},
+"100000001194795":{count:192, commentsEnabled:false},
+"100000001194808":{count:628, commentsEnabled:false},
+"100000001194892":{count:125, commentsEnabled:false},
+"100000001195360":{count:33, commentsEnabled:false},
+"100000001195689":{count:178, commentsEnabled:false},
+"100000001195802":{count:10, commentsEnabled:false},
+"100000001195854":{count:304, commentsEnabled:false},
+"100000001195914":{count:48, commentsEnabled:false},
+"100000001195920":{count:17, commentsEnabled:false},
+"100000001195923":{count:44, commentsEnabled:false},
+"100000001195938":{count:138, commentsEnabled:false},
+"100000001195940":{count:10, commentsEnabled:false},
+"100000001195947":{count:92, commentsEnabled:false},
+"100000001195952":{count:162, commentsEnabled:false},
+"100000001195976":{count:141, commentsEnabled:false},
+"100000001195982":{count:283, commentsEnabled:false},
+"100000001196229":{count:42, commentsEnabled:false},
+"100000001196250":{count:104, commentsEnabled:true},
+"100000001196432":{count:333, commentsEnabled:false},
+"100000001196658":{count:42, commentsEnabled:false},
+"100000001196737":{count:28, commentsEnabled:true},
+"100000001196861":{count:18, commentsEnabled:false},
+"100000001196955":{count:71, commentsEnabled:true},
+"100000001196963":{count:143, commentsEnabled:false},
+"100000001197064":{count:68, commentsEnabled:false},
+"100000001197489":{count:3, commentsEnabled:false},
+"100000001197999":{count:75, commentsEnabled:false},
+"100000001198014":{count:290, commentsEnabled:false},
+"100000001198050":{count:69, commentsEnabled:true},
+"100000001198076":{count:32, commentsEnabled:true},
+"100000001198092":{count:204, commentsEnabled:false},
+"100000001198110":{count:424, commentsEnabled:false},
+"100000001198123":{count:343, commentsEnabled:false},
+"100000001198126":{count:62, commentsEnabled:false},
+"100000001198138":{count:163, commentsEnabled:false},
+"100000001198377":{count:143, commentsEnabled:true},
+"100000001198446":{count:23, commentsEnabled:true},
+"100000001198471":{count:52, commentsEnabled:true},
+"100000001198476":{count:157, commentsEnabled:true},
+"100000001198581":{count:48, commentsEnabled:true},
+"100000001198642":{count:253, commentsEnabled:false},
+"100000001199366":{count:136, commentsEnabled:true},
+"100000001199374":{count:114, commentsEnabled:true},
+"100000001199444":{count:155, commentsEnabled:false},
+"100000001199658":{count:4, commentsEnabled:true},
+"100000001200046":{count:884, commentsEnabled:true},
+"100000001200335":{count:165, commentsEnabled:false},
+"100000001200378":{count:192, commentsEnabled:false},
+"100000001200458":{count:77, commentsEnabled:false},
+"100000001200844":{count:23, commentsEnabled:true},
+"100000001201276":{count:88, commentsEnabled:true},
+"100000001201525":{count:188, commentsEnabled:true},
+"100000001202361":{count:0, commentsEnabled:true},
+"100000001202521":{count:27, commentsEnabled:true},
+"100000001202701":{count:270, commentsEnabled:false},
+"100000001202807":{count:17, commentsEnabled:true},
+"100000001202815":{count:116, commentsEnabled:false},
+"100000001202831":{count:232, commentsEnabled:true},
+"100000001202861":{count:95, commentsEnabled:true},
+"100000001202869":{count:39, commentsEnabled:true},
+"100000001202871":{count:23, commentsEnabled:true},
+"100000001202889":{count:54, commentsEnabled:true},
+"100000001202895":{count:33, commentsEnabled:true},
+"100000001202901":{count:90, commentsEnabled:true},
+"100000001203208":{count:19, commentsEnabled:true},
+"100000001203416":{count:220, commentsEnabled:true},
+"100000001203664":{count:0, commentsEnabled:true},
+"100000001188908":{count:16, commentsEnabled:true},
+"100000001194403":{count:0, commentsEnabled:true},
+"100000001194404":{count:0, commentsEnabled:true},
+"100000001194405":{count:71, commentsEnabled:true},
+"100000001194406":{count:0, commentsEnabled:true},
+"100000001194419":{count:1, commentsEnabled:true},
+"100000001194423":{count:58, commentsEnabled:true},
+"100000001194424":{count:0, commentsEnabled:true},
+"100000001194425":{count:0, commentsEnabled:true},
+"100000001194427":{count:0, commentsEnabled:true},
+"100000001194843":{count:51, commentsEnabled:true},
+"100000001197746":{count:1, commentsEnabled:true},
+"100000001201815":{count:0, commentsEnabled:true},
+"100000001201989":{count:0, commentsEnabled:true}
+};
+</script>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/homepage/articleCommentCounts.js"></script>
+<script type="text/javascript" language="JavaScript">
+    ArticleCommentCounts.apply()
+    </script>
+
+			
+		<!-- Start UPT call -->
+		<img height="1" width="3" border=0 src="http://up.nytimes.com/?d=0/11/&t=3&s=0&ui=&r=&u=www%2enytimes%2ecom%2fpages%2farts%2findex%2ehtml%3f">
+		<!-- End UPT call -->
+	
+		
+        <script language="JavaScript"><!--
+          var dcsvid="";
+          var regstatus="non-registered";
+        //--></script>
+        <script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+        <noscript>
+          <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div>
+        </noscript>
+   
+</body>
+</html>

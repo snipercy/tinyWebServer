@@ -1,0 +1,2063 @@
+Connection: close
+Set-cookie: RMID=ca0575af671a4ed91330270d; expires=Saturday, 01-Dec-2012 18:04:32 GMT; path=/; domain=.nytimes.com
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Set-cookie: adxcs=s*2814a=0:1; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Movie Reviews, Showtimes and Trailers - Movies - New York Times - The New York Times</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="noarchive">
+<meta name="description" content="Find movie reviews &amp; breaking news on actors &amp; actresses, studios, Hollywood, DVD &amp; Video, Oscars, new releases, independent film, movie trailers, showtimes, movie tickets." />
+<meta name="keywords" content="Shakespeare, William,Movies,Butler, Gerard,Redgrave, Vanessa,Fiennes, Ralph,Chastain, Jessica,Movies,Fassbender, Michael,McQueen, Steve,Leigh, Julia,Movies,Browning, Emily,Sex,Sleep,Movies,Kitano, Takeshi,Movies,Na Hong-jin,Documentary Films and Programs,Movies,Oil (Petroleum) and Gasoline,Movies,Gunnarsson, Sturla,Documentary Films and Programs,Sustainable Living,Tuschi, Cyril,Movies,Khodorkovsky, Mikhail B,Romanian Film Festival (NYC),Cannes International Film Festival,Documentary Films and Programs,Movies,Leutwyler, Matthew,Cook, Dane,Documentary Films and Programs,Rosenmeier, Dina,Movies,Sears, Mike,Movies,Lutz, Kellan,Documentary Films and Programs,Movies,Nuclear Energy,Sattel, Volker,Documentary Films and Programs,Movies,Burke, Martyn,News and News Media,Movies,Rwanda,War Crimes, Genocide and Crimes Against Humanity,Brown, Alrick,Documentary Films and Programs,Marquet, Benjamin,Movies,Horse Racing,Movies,Politics and Government,Africa,Merz, Jarreth,Ghana,Rastafarianism,Movies,Lee, Helene,Documentary Films and Programs,Music,Movies,Documentary Films and Programs,Reggae Music,Shabazz, Menelik,Hazanavicius, Michel,Movies,Scorsese, Martin,Butterfield, Asa,Williams, Michelle,Kingsley, Ben,Melies, Georges,Selznick, Brian,Dujardin, Jean,Monroe, Marilyn,Hill, Jonah,Movies,Movies,Swinton, Tilda,Scotland,Actors and Actresses,Movies,Men and Boys,Academy Awards (Oscars),Irglova, Marketa,New York Theater Workshop,Milioti, Cristin,Hansard, Glen,Theater,Kazee, Steve,Gable, Clark,Young, Loretta,Lewis, Judy,Deaths (Obituaries),Actors and Actresses,Academy Awards (Oscars),Weinstein, Harvey,Movies,Movies,Russell, Ken,Deaths (Obituaries),DiCaprio, Leonardo,Jung, Carl Gustav,Movies,Hoover, J Edgar,Mortensen, Viggo,Cronenberg, David,Psychology and Psychologists,Homosexuality,Knightley, Keira,Freud, Sigmund,Tolson, Clyde,Fassbender, Michael,Black, Dustin Lance,Eastwood, Clint,Movies,Sales,Movies,Organized Labor,Alliance of Motion Picture and Television Producers,International Alliance of Theatrical Stage Employees,Health Insurance and Managed Care,Pensions and Retirement Plans,Television,Shakespeare, William,Movies,Fiennes, Ralph,Movies,Fassbender, Michael,McQueen, Steve,Mental Health and Disorders,Movies,Psychology and Psychologists,Women and Girls,Knightley, Keira,Freud, Sigmund,Movies,Palmer, Ian,Quinn McDonagh, James,Documentary Films and Programs,Movies,Griffith, D W,Video Recordings and Downloads,DVD (Digital Versatile Disc),Movies,Actors and Actresses,Williams, Michelle,Curtis, Simon,Monroe, Marilyn,Ledger, Heath,Latin America,NeXT Inc,Remi, Georges,Automobiles,Citroen,Opel, Adam, AG,Books and Literature,Lotus Cars Ltd,Chrysler Group LLC,Shanghai (China),Middle East,Land Rover,Alfa Romeo Automobiles,Animated Films,Movies,Chevrolet Division of General Motors Corp,Mercedes-Benz,Europe,Cadillac Division of General Motors Corp,Renault SA,Fiat SpA,Jackson, Peter,Spielberg, Steven,Murphy, Cillian,St Ann's Warehouse,Theater,Walsh, Enda,Actors and Actresses,Movies,Posters,New York Public Library for the Performing Arts,Advertising and Marketing,Movies,DVD (Digital Versatile Disc),DVD (Digital Versatile Disc),Television,New York Film Festival,Movies,Streep, Meryl,DiCaprio, Leonardo,Clooney, George,Movies,Segel, Jason,Movies,Puppets,New York Film Festival,Movies" />
+<meta name="asset_id" content="">
+<meta name="CG" content="movies">
+<meta name="SCG" content="">
+<meta name="PT" content="Section Front">
+<meta name="PST" content="">
+<link rel="canonical" href="http://www.nytimes.com/pages/movies/index.html">
+<meta name="msapplication-starturl" content="http://www.nytimes.com/" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.nytimes.com/services/xml/rss/nyt/Movies.xml"/>
+
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/build/sectionfront/movies/styles.css" />
+<link rel="stylesheet" type="text/css" media="print" href="http://graphics8.nytimes.com/css/0.1/print/styles.css">
+<!--[if IE]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie.css);
+	    </style>
+	<![endif]-->
+<!--[if IE 6]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie6.css);
+	    </style>
+	<![endif]-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/DropDown.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/util/tooltip.js"></script>
+<script type="text/JavaScript">
+		var static_kw = "Shakespeare; William;Movies;Butler; Gerard;Redgrave; Vanessa;Fiennes; Ralph;Chastain; Jessica;Movies;Fassbender; Michael;McQueen; Steve;Leigh; Julia;Movies;Browning; Emily;Sex;Sleep;Movies;Kitano; Takeshi;Movies;Na Hong-jin;Documentary Films and Programs;Movies;Oil (Petroleum) and Gasoline;Movies;Gunnarsson; Sturla;Documentary Films and Programs;Sustainable Living;Tuschi; Cyril;Movies;Khodorkovsky; Mikhail B;Romanian Film Festival (NYC);Cannes International Film Festival;Documentary Films and Programs;Movies;Leutwyler; Matthew;Cook; Dane;Documentary Films and Programs;Rosenmeier; Dina;Movies;Sears; Mike;Movies;Lutz; Kellan;Documentary Films and Programs;Movies;Nuclear Energy;Sattel; Volker;Documentary Films and Programs;Movies;Burke; Martyn;News and News Media;Movies;Rwanda;War Crimes; Genocide and Crimes Against Humanity;Brown; Alrick;Documentary Films and Programs;Marquet; Benjamin;Movies;Horse Racing;Movies;Politics and Government;Africa;Merz; Jarreth;Ghana;Rastafarianism;Movies;Lee; Helene;Documentary Films and Programs;Music;Movies;Documentary Films and Programs;Reggae Music;Shabazz; Menelik;Hazanavicius; Michel;Movies;Scorsese; Martin;Butterfield; Asa;Williams; Michelle;Kingsley; Ben;Melies; Georges;Selznick; Brian;Dujardin; Jean;Monroe; Marilyn;Hill; Jonah;Movies;Movies;Swinton; Tilda;Scotland;Actors and Actresses;Movies;Men and Boys;Academy Awards (Oscars);Irglova; Marketa;New York Theater Workshop;Milioti; Cristin;Hansard; Glen;Theater;Kazee; Steve;Gable; Clark;Young; Loretta;Lewis; Judy;Deaths (Obituaries);Actors and Actresses;Academy Awards (Oscars);Weinstein; Harvey;Movies;Movies;Russell; Ken;Deaths (Obituaries);DiCaprio; Leonardo;Jung; Carl Gustav;Movies;Hoover; J Edgar;Mortensen; Viggo;Cronenberg; David;Psychology and Psychologists;Homosexuality;Knightley; Keira;Freud; Sigmund;Tolson; Clyde;Fassbender; Michael;Black; Dustin Lance;Eastwood; Clint;Movies;Sales;Movies;Organized Labor;Alliance of Motion Picture and Television Producers;International Alliance of Theatrical Stage Employees;Health Insurance and Managed Care;Pensions and Retirement Plans;Television;Shakespeare; William;Movies;Fiennes; Ralph;Movies;Fassbender; Michael;McQueen; Steve;Mental Health and Disorders;Movies;Psychology and Psychologists;Women and Girls;Knightley; Keira;Freud; Sigmund;Movies;Palmer; Ian;Quinn McDonagh; James;Documentary Films and Programs;Movies;Griffith; D W;Video Recordings and Downloads;DVD (Digital Versatile Disc);Movies;Actors and Actresses;Williams; Michelle;Curtis; Simon;Monroe; Marilyn;Ledger; Heath;Latin America;NeXT Inc;Remi; Georges;Automobiles;Citroen;Opel; Adam; AG;Books and Literature;Lotus Cars Ltd;Chrysler Group LLC;Shanghai (China);Middle East;Land Rover;Alfa Romeo Automobiles;Animated Films;Movies;Chevrolet Division of General Motors Corp;Mercedes-Benz;Europe;Cadillac Division of General Motors Corp;Renault SA;Fiat SpA;Jackson; Peter;Spielberg; Steven;Murphy; Cillian;St Ann's Warehouse;Theater;Walsh; Enda;Actors and Actresses;Movies;Posters;New York Public Library for the Performing Arts;Advertising and Marketing;Movies;DVD (Digital Versatile Disc);DVD (Digital Versatile Disc);Television;New York Film Festival;Movies;Streep; Meryl;DiCaprio; Leonardo;Clooney; George;Movies;Segel; Jason;Movies;Puppets;New York Film Festival;Movies";
+		var dynamic_kw = "Shakespeare;+William;Movies;Butler;+Gerard;Redgrave;+Vanessa;Fiennes;+Ralph;Chastain;+Jessica;Movies;Fassbender;+Michael;McQueen;+Steve;Leigh;+Julia;Movies;Browning;+Emily;Sex;Sleep;Movies;Kitano;+Takeshi;Movies;Na+Hong-jin;Documentary+Films+and+Programs;Movies;Oil+%28Petroleum%29+and+Gasoline;Movies;Gunnarsson;+Sturla;Documentary+Films+and+Programs;Sustainable+Living;Tuschi;+Cyril;Movies;Khodorkovsky;+Mikhail+B;Romanian+Film+Festival+%28NYC%29;Cannes+International+Film+Festival;Documentary+Films+and+Programs;Movies;Leutwyler;+Matthew;Cook;+Dane;Documentary+Films+and+Programs;Rosenmeier;+Dina;Movies;Sears;+Mike;Movies;Lutz;+Kellan;Documentary+Films+and+Programs;Movies;Nuclear+Energy;Sattel;+Volker;Documentary+Films+and+Programs;Movies;Burke;+Martyn;News+and+News+Media;Movies;Rwanda;War+Crimes;+Genocide+and+Crimes+Against+Humanity;Brown;+Alrick;Documentary+Films+and+Programs;Marquet;+Benjamin;Movies;Horse+Racing;Movies;Politics+and+Government;Africa;Merz;+Jarreth;Ghana;Rastafarianism;Movies;Lee;+Helene;Documentary+Films+and+Programs;Music;Movies;Documentary+Films+and+Programs;Reggae+Music;Shabazz;+Menelik;Hazanavicius;+Michel;Movies;Scorsese;+Martin;Butterfield;+Asa;Williams;+Michelle;Kingsley;+Ben;Melies;+Georges;Selznick;+Brian;Dujardin;+Jean;Monroe;+Marilyn;Hill;+Jonah;Movies;Movies;Swinton;+Tilda;Scotland;Actors+and+Actresses;Movies;Men+and+Boys;Academy+Awards+%28Oscars%29;Irglova;+Marketa;New+York+Theater+Workshop;Milioti;+Cristin;Hansard;+Glen;Theater;Kazee;+Steve;Gable;+Clark;Young;+Loretta;Lewis;+Judy;Deaths+%28Obituaries%29;Actors+and+Actresses;Academy+Awards+%28Oscars%29;Weinstein;+Harvey;Movies;Movies;Russell;+Ken;Deaths+%28Obituaries%29;DiCaprio;+Leonardo;Jung;+Carl+Gustav;Movies;Hoover;+J+Edgar;Mortensen;+Viggo;Cronenberg;+David;Psychology+and+Psychologists;Homosexuality;Knightley;+Keira;Freud;+Sigmund;Tolson;+Clyde;Fassbender;+Michael;Black;+Dustin+Lance;Eastwood;+Clint;Movies;Sales;Movies;Organized+Labor;Alliance+of+Motion+Picture+and+Television+Producers;International+Alliance+of+Theatrical+Stage+Employees;Health+Insurance+and+Managed+Care;Pensions+and+Retirement+Plans;Television;Shakespeare;+William;Movies;Fiennes;+Ralph;Movies;Fassbender;+Michael;McQueen;+Steve;Mental+Health+and+Disorders;Movies;Psychology+and+Psychologists;Women+and+Girls;Knightley;+Keira;Freud;+Sigmund;Movies;Palmer;+Ian;Quinn+McDonagh;+James;Documentary+Films+and+Programs;Movies;Griffith;+D+W;Video+Recordings+and+Downloads;DVD+%28Digital+Versatile+Disc%29;Movies;Actors+and+Actresses;Williams;+Michelle;Curtis;+Simon;Monroe;+Marilyn;Ledger;+Heath;Latin+America;NeXT+Inc;Remi;+Georges;Automobiles;Citroen;Opel;+Adam;+AG;Books+and+Literature;Lotus+Cars+Ltd;Chrysler+Group+LLC;Shanghai+%28China%29;Middle+East;Land+Rover;Alfa+Romeo+Automobiles;Animated+Films;Movies;Chevrolet+Division+of+General+Motors+Corp;Mercedes-Benz;Europe;Cadillac+Division+of+General+Motors+Corp;Renault+SA;Fiat+SpA;Jackson;+Peter;Spielberg;+Steven;Murphy;+Cillian;St+Ann%27s+Warehouse;Theater;Walsh;+Enda;Actors+and+Actresses;Movies;Posters;New+York+Public+Library+for+the+Performing+Arts;Advertising+and+Marketing;Movies;DVD+%28Digital+Versatile+Disc%29;DVD+%28Digital+Versatile+Disc%29;Television;New+York+Film+Festival;Movies;Streep;+Meryl;DiCaprio;+Leonardo;Clooney;+George;Movies;Segel;+Jason;Movies;Puppets;New+York+Film+Festival;Movies";
+		var nyt_google_contents = dynamic_kw + static_kw;
+		var nyt_google_ad_channel = "movies";
+	</script>
+<script type="text/javascript" src="http://use.typekit.com/fml4qar.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" src="http://js.nyt.com/js2/build/sitewide/sitewide.js"></script>
+<script type="text/javascript" src="http://js.nyt.com/js/app/lib/jquery/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+</head>
+<body>
+<a name="top"></a>
+<div id="shell">
+
+<ul id="memberTools">
+
+<!-- start text link -->
+<li class="cColumn-TextAdsHeader">Subscribe:
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/movies/index.html&pos=Bar1&sn2=f29b6fdc/7248d270&sn1=2407a328/96bf5462&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-digi-hd-d3847U-h3847W&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fsubscriptions%2FMultiproduct%2Flp5558%2Ehtml%3Fadxc%3D162578%26adxa%3D267524%26page%3Dwww.nytimes.com/pages/movies/index.html%26pos%3DBar1%26campaignId%3D3847U" target="_blank">
+Digital</a> / <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/movies/index.html&pos=Bar1&sn2=f29b6fdc/7248d270&sn1=8c0204ae/f0584be3&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-digi-hd-d3847U-h3847W&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DW47AF%26CMP%3D3847W" target="_blank">Home Delivery</a>
+</li>
+<!-- end text link -->
+
+ 
+                        <li><a id="memberToolsLogin" href="https://myaccount.nytimes.com/auth/login">Log In</a></li>
+            <li><a href="https://myaccount.nytimes.com/gst/regi.html">Register Now</a></li>
+                            
+
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+</ul>
+<div class="tabsContainer">
+<ul id="mainTabs" class="tabs">
+<li class="first mainTabHome"><a href="http://www.nytimes.com">Home Page</a></li>
+<li class="mainTabTodaysPaper"><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+<li class="mainTabVideo"><a href="http://www.nytimes.com/video">Video</a></li>
+<li class="mainTabMostPopular"><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+<li class="mainTabTimesTopics"><a href="http://topics.nytimes.com/top/reference/timestopics">Times Topics</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+</script>	<div id="page" class="tabContent active">
+<div class="clearfix" id="masthead">
+
+<div class="singleAd" id="Middle1C">
+<!-- ADXINFO classification="button" campaign="ING_DirectSiteSearchQ111_1694929-nyt1"--><A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/movies/index.html&pos=Middle1C&sn2=772dadfc/f851a55f&sn1=59756299/46b02203&camp=ING_DirectSiteSearchQ111_1694929-nyt1&ad=NEW.88x31.SiteSearch.Wizard&goto=http://ad.doubleclick.net/jump/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.32" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.32"
+ BORDER=0 WIDTH=88 HEIGHT=31
+ ALT="Click Here"></A>
+</div>
+
+<div id="searchWidget">
+<div class="inlineSearchControl">
+<form enctype="application/x-www-form-urlencoded" action="http://query.nytimes.com/search/sitesearch" method="get" name="searchForm" id="searchForm">
+<input type="hidden" value="full" name="date_select"/>
+<label for="searchQuery">Search All NYTimes.com</label>
+<input type="text" class="text" value="" size="" name="query" id="searchQuery"/>
+<input type="hidden" id="searchAll" name="type" value="nyt"/>
+<input type="image" id="searchSubmit" title="Search" alt="Search" width="22" height="19" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"/>
+</form>
+</div>
+</div>
+
+<div id="branding" >
+<a href="http://www.nytimes.com"><img src="http://graphics8.nytimes.com/images/misc/nytlogo152x23.gif" alt="New York Times" id="NYTLogo"/></a>
+</div>
+
+<div id="date">
+<p>
+Friday, December  2, 2011
+</p>
+</div>
+
+<h2>
+<a href="http://www.nytimes.com/pages/movies/index.html">Movies</a>
+</h2>
+
+</div>
+<div class="navigation tabsContainer">
+<ul class="tabs">
+<li id="navWorld" class="first ">
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>	<li id="navUs" >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>	<li id="navNyregion" >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>	<li id="navBusiness" >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>	<li id="navTechnology" >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>	<li id="navScience" >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>	<li id="navHealth" >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>	<li id="navSports" >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>	<li id="navOpinion" >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>	<li id="navArts" class="selected">
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>	<li id="navStyle" >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>	<li id="navTravel" >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>	<li id="navJobs" >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>	<li id="navRealestate" >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>	<li id="navAutomobiles" >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li></ul>
+</div>
+<div class="subNavigation tabContent active">
+
+<div class="column firstColumn">
+<div class="columnGroup">
+<div class="inlineSearchControl">
+<form name="searchForm" method="get" action="http://movies.nytimes.com/gst/movies/msearch.html" enctype="application/x-www-form-urlencoded">
+<label for="msearch_query">Search <span class="meta">Movies, People and Showtimes by ZIP Code</span></label>
+<input id="msearch_query" type="text" name="query" class="text" value="" />
+<input type="image" src="http://graphics8.nytimes.com/images/global/buttons/go.gif" alt="Search" title="Search"/>
+</form>
+</div>
+
+</div>
+
+</div>
+<div class="column two lastColumn">
+<div class="columnGroup">
+<h5>More in Movies &#x00bb;</h5>
+<ul>
+<li class="firstItem"><a href="http://movies.nytimes.com/movies/intheaters.html">In Theaters</a></li>
+<li class="specialSection"><a href="http://movies.nytimes.com/movies/comingsoon.html">Coming Soon</a></li>
+<li><a href="http://movies.nytimes.com/movies/critics/critics-picks">Critics' Picks</a></li>
+<li>
+<a href="http://movies.nytimes.com/pages/movies/homevideo/index.html">On DVD</a>
+</li>
+<li><a href="http://movies.nytimes.com/movie/showtimes">Tickets &amp; Showtimes</a></li>
+<li><a href="http://movies.nytimes.com/movies/trailers.html">Trailers</a></li>
+<li class="lastItem"><a href=" http://artsbeat.blogs.nytimes.com/">ArtsBeat</a></li>       
+</ul> 
+</div>
+</div>
+</div>		    		          
+
+<div id="main">
+<div class="spanAB wrap">
+<div class="wideA">
+<div class="abColumn">
+<div class="filmstripWithTabs">
+<div class="tabsContainer insetH">
+<ul class="tabs">
+<li class="firstTab "><a href="#">Reviews</a></li>
+<li class=""><a href="#">Trailers</a></li>
+<li class=""><a href="#">News & Features</a></li>
+<li class=""><a href="#">Awards Season</a></li>
+</ul>
+</div><!--close .tabsContainer -->
+<div class="tabContent active">
+<div class="columnGroup first">
+<!--collectionKicker:[Reviews] -->
+<div class="filmstrip clearfix">
+<div class="subColumn-3 wrap">
+<div class="column firstColumn">
+<div class="columnGroup">
+<div class="wideThumb">
+<a href="http://movies.nytimes.com/2011/12/02/movies/shame-directed-by-steve-mcqueen-review.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/movies/shame2-filmstrip/shame2-filmstrip-filmstrip.jpg" width="190" height="190" alt="" border="0" /> 
+</a>
+</div> 
+</div>
+</div>
+<div class="column">
+<div class="columnGroup">
+<div class="wideThumb">
+<a href="http://movies.nytimes.com/2011/12/02/movies/julia-leighs-sleeping-beauty-review.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/movies/sleeping-beauty2-filmstrip/sleeping-beauty2-filmstrip-filmstrip.jpg" width="190" height="190" alt="" border="0" /> 
+</a>
+</div> 
+</div>
+</div>
+<div class="column lastColumn">
+<div class="columnGroup">
+<div class="wideThumb">
+<a href="http://movies.nytimes.com/2011/12/02/movies/ralph-fiennes-and-vanessa-redgrave-in-coriolanus-review.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/movies/corioanus-filmstrip/corioanus-filmstrip-filmstrip.jpg" width="190" height="190" alt="" border="0" /> 
+</a>
+</div> 
+</div>
+</div>
+</div><!--end div.subColumn-3.wrap -->
+<div class="headlines">	
+<div class="overlay">
+<div class="column firstColumn">
+<div class="columnGroup">    
+<h5> <a href="http://movies.nytimes.com/2011/12/02/movies/shame-directed-by-steve-mcqueen-review.html?ref=movies">Shame &#x00bb;</a> </h5>
+<!--END FILMSTRIP-HEADLINE -->
+<div class="byline"><a href="http://movies.nytimes.com/2011/12/02/movies/shame-directed-by-steve-mcqueen-review.html?ref=movies">By A. O. SCOTT</a></div>				</div>
+</div>	
+<div class="column">
+<div class="columnGroup">    
+<h5> <a href="http://movies.nytimes.com/2011/12/02/movies/julia-leighs-sleeping-beauty-review.html?ref=movies">Sleeping Beauty &#x00bb;</a> </h5>
+<!--END FILMSTRIP-HEADLINE -->
+<div class="byline"><a href="http://movies.nytimes.com/2011/12/02/movies/julia-leighs-sleeping-beauty-review.html?ref=movies">By A. O. SCOTT</a></div>				</div>
+</div>	
+<div class="column lastColumn">
+<div class="columnGroup">    
+<h5> <a href="http://movies.nytimes.com/2011/12/02/movies/ralph-fiennes-and-vanessa-redgrave-in-coriolanus-review.html?ref=movies">Coriolanus &#x00bb;</a> </h5>
+<!--END FILMSTRIP-HEADLINE -->
+<div class="byline"><a href="http://movies.nytimes.com/2011/12/02/movies/ralph-fiennes-and-vanessa-redgrave-in-coriolanus-review.html?ref=movies">By MANOHLA DARGIS</a></div>				</div>
+</div>		
+</div><!--close div.overlay -->
+</div><!--close div.headlines -->
+</div><!--end div.filmstrip.clearfix -->
+<div class="filmstripWithTabsBottomDoubleRule"></div>
+</div><!--end div.columnGroup -->
+</div><!--end .tabContent -->	
+<div class="tabContent">
+<div class="columnGroup">
+<!--collectionKicker:[Trailers] -->
+<div class="filmstrip clearfix">
+<!--START Trailers EMBED -->
+<script src="http://graphics8.nytimes.com/packages/html/multimedia/js/swfobject.js"></script>
+<div align="center" id="trailerstotem">
+<p>You do not have the correct Flash player version to view this feature.</p>
+<p>In order to view this feature, you must <a href="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" target="_blank">download the latest version of Flash</a>.</p>
+<p>Once you have downloaded the latest version of Flash player, you will need to reload this page.</p>
+</div>
+<script type="text/javascript">
+    var so = new SWFObject("http://graphics8.nytimes.com/packages/flash/movies/trailers/trailerstotem.swf", "nytSwf", "584", "190", "8","#000000");
+    so.addParam("BASE", "http://graphics8.nytimes.com");
+    so.addParam("wmode","transparent");
+    so.addParam("allowScriptAccess", "always");
+    so.write("trailerstotem");
+  </script>
+<!--END Trailers EMBED -->
+<div class="subColumn-3 wrap">
+</div><!--end div.subColumn-3.wrap -->
+</div><!--end div.filmstrip.clearfix -->
+<div class="filmstripWithTabsBottomDoubleRule"></div>
+</div><!--end div.columnGroup -->
+</div><!--end .tabContent -->	
+<div class="tabContent">
+<div class="columnGroup">
+<!--collectionKicker:[News & Features] -->
+<div class="filmstrip clearfix">
+<div class="subColumn-3 wrap">
+<div class="column firstColumn">
+<div class="columnGroup">
+<div class="wideThumb">
+<a href="http://www.nytimes.com/2011/11/27/movies/steve-mcqueen-and-michael-fassbender-team-up-in-shame.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/11/25/movies/shame-filmstrip/shame-filmstrip-filmstrip.jpg" width="190" height="190" alt="" border="0" /> 
+</a>
+</div> 
+</div>
+</div>
+<div class="column">
+<div class="columnGroup">
+<div class="wideThumb">
+<a href="http://www.nytimes.com/2011/12/04/movies/jonah-hills-new-movie-is-the-sitter.html">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/movies/jonah-hill-filmstrip/jonah-hill-filmstrip-filmstrip-v2.jpg" width="190" height="190" alt="" border="0" /> 
+</a>
+</div> 
+</div>
+</div>
+<div class="column lastColumn">
+<div class="columnGroup">
+<div class="wideThumb">
+<a href="http://www.nytimes.com/2011/11/27/movies/coriolanus-ralph-fiennes-debut-as-film-director.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/11/25/movies/fiennes-filmstrip/fiennes-filmstrip-filmstrip.jpg" width="190" height="190" alt="" border="0" /> 
+</a>
+</div> 
+</div>
+</div>
+</div><!--end div.subColumn-3.wrap -->
+<div class="headlines">	
+<div class="overlay">
+<div class="column firstColumn">
+<div class="columnGroup">    
+<h5> <a href="http://www.nytimes.com/2011/11/27/movies/steve-mcqueen-and-michael-fassbender-team-up-in-shame.html?ref=movies">Sex, the City, and ‘Shame’ &#x00bb;</a> </h5>
+<!--END FILMSTRIP-HEADLINE -->
+</div>
+</div>	
+<div class="column">
+<div class="columnGroup">    
+<h5> <a href="http://www.nytimes.com/2011/12/04/movies/jonah-hills-new-movie-is-the-sitter.html">Jonah Hill’s Expanding Comfort Zone &#x00bb;</a> </h5>
+<!--END FILMSTRIP-HEADLINE -->
+</div>
+</div>	
+<div class="column lastColumn">
+<div class="columnGroup">    
+<h5> <a href="http://www.nytimes.com/2011/11/27/movies/coriolanus-ralph-fiennes-debut-as-film-director.html?ref=movies">Ralph Fiennes Directs ‘Coriolanus’ &#x00bb;</a> </h5>
+<!--END FILMSTRIP-HEADLINE -->
+</div>
+</div>		
+</div><!--close div.overlay -->
+</div><!--close div.headlines -->
+</div><!--end div.filmstrip.clearfix -->
+<div class="filmstripWithTabsBottomDoubleRule"></div>
+</div><!--end div.columnGroup -->
+</div><!--end .tabContent -->	
+<div class="tabContent">
+<div class="columnGroup">
+<!--collectionKicker:[Awards Season] -->
+<div class="filmstrip clearfix">
+<div class="subColumn-3 wrap">
+<div class="column firstColumn">
+<div class="columnGroup">
+<div class="wideThumb">
+<a href="http://www.nytimes.com/pages/movies/awardsseason/index.html">
+<img src="http://graphics8.nytimes.com/images/2011/03/02/movies/awards-season-filmstrip/bagger-filmstrip-filmstrip.jpg" width="190" height="190" alt="" border="0" /> 
+</a>
+</div> 
+</div>
+</div>
+<div class="column">
+<div class="columnGroup">
+<div class="wideThumb">
+<a href="http://carpetbagger.blogs.nytimes.com/">
+<img src="http://graphics8.nytimes.com/images/2011/11/26/movies/carpebagger-filmstrip-2011/carpebagger-filmstrip-2011-filmstrip.jpg" width="190" height="190" alt="" border="0" /> 
+</a>
+</div> 
+</div>
+</div>
+<div class="column lastColumn">
+<div class="columnGroup">
+<div class="wideThumb">
+<a href="http://www.nytimes.com/2011/11/28/movies/harvey-weinstein-pushes-the-artist-for-oscar-consideration.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/movies/artist-oscars-filmstrip/artist-oscars-filmstrip-filmstrip.jpg" width="190" height="190" alt="" border="0" /> 
+</a>
+</div> 
+</div>
+</div>
+</div><!--end div.subColumn-3.wrap -->
+<div class="headlines">	
+<div class="overlay">
+<div class="column firstColumn">
+<div class="columnGroup">            <div class="kicker"> 
+<a href="http://www.nytimes.com/pages/movies/awardsseason/index.html">Special Section</a> 
+</div>
+<h5> <a href="http://www.nytimes.com/pages/movies/awardsseason/index.html">Awards Season &#x00bb;</a> </h5>
+<!--END FILMSTRIP-HEADLINE -->
+</div>
+</div>	
+<div class="column">
+<div class="columnGroup">    
+<h5> <a href="http://carpetbagger.blogs.nytimes.com/">The Carpetbagger &#x00bb;</a> </h5>
+<!--END FILMSTRIP-HEADLINE -->
+</div>
+</div>	
+<div class="column lastColumn">
+<div class="columnGroup">    
+<h5> <a href="http://www.nytimes.com/2011/11/28/movies/harvey-weinstein-pushes-the-artist-for-oscar-consideration.html?ref=movies">An Oscar Push for ‘The Artist’ &#x00bb;</a> </h5>
+<!--END FILMSTRIP-HEADLINE -->
+</div>
+</div>		
+</div><!--close div.overlay -->
+</div><!--close div.headlines -->
+</div><!--end div.filmstrip.clearfix -->
+<div class="filmstripWithTabsBottomDoubleRule"></div>
+</div><!--end div.columnGroup -->
+</div><!--end .tabContent -->	
+</div><!--end .filmstripWithTabs -->					<div class="aColumn">
+<!--cur:LedeStory395 prev:-->
+<div class="columnGroup first">
+<div class="ledeStory">
+<div class="storyHeader">
+<h6 class="kicker">Movie Review <span class="bar">|</span> '<a href="http://movies.nytimes.com/movie/460312/Coriolanus/overview">Coriolanus</a>'</h6>
+<h1><a href="http://movies.nytimes.com/2011/12/02/movies/ralph-fiennes-and-vanessa-redgrave-in-coriolanus-review.html?ref=movies">
+He’s the Hero of the People, and He Hates It</a></h1>
+<h6 class="byline">
+By MANOHLA DARGIS            </h6>
+</div>
+<div class="ledePhoto">
+<div class="image">
+<a href="http://movies.nytimes.com/2011/12/02/movies/ralph-fiennes-and-vanessa-redgrave-in-coriolanus-review.html?ref=movies"><img src="http://graphics8.nytimes.com/images/2011/12/02/arts/02CORIO_SPAN/02CORIO-sfSpan.jpg" border="0" width="395" height="260" alt="Ralph Fiennes and Jessica Chastain in "Coriolanus," directed by Mr. Fiennes." /></a>
+</div>
+<h6 class="credit">Larry D. Horricks/Weinstein Company</h6>
+<p class="caption">Ralph Fiennes and Jessica Chastain in "Coriolanus," directed by Mr. Fiennes.</p>
+</div>
+<p class="summary">
+In his directing debut Ralph Fiennes adds modern weaponry to Shakespeare’s “Coriolanus.”</p>
+<ul class="refer">
+<li><a href="http://video.nytimes.com/video/2011/12/01/movies/100000001202049/ralph-fiennes-discusses-coriolanus.html"><img src="http://graphics8.nytimes.com/images/multimedia/icons/video_icon.gif" alt="Video" width="12" height="9" border="0"> Video: Ralph Fiennes Discusses 'Coriolanus'</a>
+</li>
+<li><a href="http://www.nytimes.com/2011/11/27/movies/coriolanus-ralph-fiennes-debut-as-film-director.html">A First Plunge Into Directing Is Hardly Routine</a></li>
+<li><a href="http://movies.nytimes.com/movie/460312/Coriolanus/overview">Movie Overview</a> | <a href="http://movies.nytimes.com/movie/460312/Coriolanus/showtimes">Showtimes</a> | <a href="http://movies.nytimes.com/movie/460312/Coriolanus/trailers">Trailers</a> | <a href="http://community.nytimes.com/rate-review/movies.nytimes.com/movie/460312/Coriolanus/overview">Rate and Review</a></li>
+</ul>
+</div>
+</div>
+<!--cur:LedeStory395 prev:LedeStory395-->
+<div class="columnGroup singleRule ">
+<div class="ledeStory">
+<div class="storyHeader">
+<h6 class="kicker">Movie Review <span class="bar">|</span> '<a href="http://movies.nytimes.com/movie/463342/Shame/overview">Shame</a>'</h6>
+<h1><a href="http://movies.nytimes.com/2011/12/02/movies/shame-directed-by-steve-mcqueen-review.html?ref=movies">
+Only One Thing on His Mind</a></h1>
+<h6 class="byline">
+By A. O. SCOTT            </h6>
+</div>
+<div class="ledePhoto">
+<div class="image">
+<a href="http://movies.nytimes.com/2011/12/02/movies/shame-directed-by-steve-mcqueen-review.html?ref=movies"><img src="http://graphics8.nytimes.com/images/2011/12/02/arts/02SHAME/02SHAME-sfSpan.jpg" border="0" width="395" height="167" alt="Michael Fassbender in "Shame."" /></a>
+</div>
+<h6 class="credit">Abbot Genser/Fox Searchlight Pictures</h6>
+<p class="caption">Michael Fassbender in "Shame."</p>
+</div>
+<p class="summary">
+In “Shame,” the new feature from the British artist turned filmmaker Steve McQueen, the protagonist is a handsome, youngish Manhattanite who is hooked on sex.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/11/27/movies/steve-mcqueen-and-michael-fassbender-team-up-in-shame.html">Unlikely Look at Sex and the City</a>
+</li>
+<li><a href="http://video.nytimes.com/video/2011/10/06/movies/100000001096728/interview-michael-fassbender.html"><img src="http://graphics8.nytimes.com/images/multimedia/icons/video_icon.gif" alt="Video" width="12" height="9" border="0"> Video: Michael Fassbender on Playing a Sex Addict in 'Shame'</a></li>
+<li><a href="http://movies.nytimes.com/movie/463342/Shame/overview">Movie Overview</a> | <a href="http://movies.nytimes.com/movie/463342/Shame/trailers">Trailers</a> | <a href="http://community.nytimes.com/rate-review/movies.nytimes.com/movie/463342/Shame/overview">Rate and Review</a></li>
+</ul>
+</div>
+</div>
+<!--cur:LedeStory395 prev:LedeStory395-->
+<div class="columnGroup singleRule ">
+<div class="ledeStory">
+<div class="storyHeader">
+<h6 class="kicker">Movie Review <span class="bar">|</span> '<a href="http://movies.nytimes.com/movie/463432/Sleeping-Beauty/overview">Sleeping Beauty</a>'</h6>
+<h1><a href="http://movies.nytimes.com/2011/12/02/movies/julia-leighs-sleeping-beauty-review.html?ref=movies">
+Objectification Is Also in the Eye of the Beheld</a></h1>
+<h6 class="byline">
+By A. O. SCOTT            </h6>
+</div>
+<div class="ledePhoto">
+<div class="image">
+<a href="http://movies.nytimes.com/2011/12/02/movies/julia-leighs-sleeping-beauty-review.html?ref=movies"><img src="http://graphics8.nytimes.com/images/2011/12/02/arts/02SLEEP1_SPAN/JPSLEEP1-sfSpan.jpg" border="0" width="395" height="223" alt="From left, Rachael Blake, Emily Browning and Peter Carroll in “Sleeping Beauty,” the first film directed by Julia Leigh." /></a>
+</div>
+<h6 class="credit">Wendy McDougall/IFC Films</h6>
+<p class="caption">From left, Rachael Blake, Emily Browning and Peter Carroll in “Sleeping Beauty,” the first film directed by Julia Leigh.</p>
+</div>
+<p class="summary">
+Emily Browning plays Lucy, who is paid to fall into a drugged slumber in “Sleeping Beauty.”</p>
+<ul class="refer">
+<li><a href="http://video.nytimes.com/video/2011/12/01/movies/100000001202452/julia-leigh-on-sleeping-beauty.html"><img src="http://graphics8.nytimes.com/images/multimedia/icons/video_icon.gif" alt="Video" width="12" height="9" border="0"> Video: Julia Leigh on 'Sleeping Beauty'</a>
+</li>
+<li><a href="http://movies.nytimes.com/movie/463432/Sleeping-Beauty/overview">Movie Overview</a> | <a href="http://movies.nytimes.com/movie/463432/Sleeping-Beauty/showtimes">Showtimes</a> | <a href="http://movies.nytimes.com/movie/463432/Sleeping-Beauty/trailers">Trailers</a> | <a href="http://community.nytimes.com/rate-review/movies.nytimes.com/movie/463432/Sleeping-Beauty/overview">Rate and Review</a></li>
+</ul>
+</div>
+</div>
+<!--cur:StandardThumb prev:LedeStory395-->
+<div class="columnGroup ">
+<h6 class="sectionHeader">Movie Reviews</h6><div class="story">
+<h6 class="kicker">Movie Review <span class="bar">|</span> '<a href="http://movies.nytimes.com/movie/460683/Outrage/overview">Outrage</a>'</h6>
+<div class="thumbnail">
+<a href="http://movies.nytimes.com/2011/12/02/movies/outrage-directed-by-takeshi-kitano-review.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/arts/02OUTRAGE_SPAN/02OUTRAGE_SPAN-thumbStandard.jpg" width="75" height="75" alt="Takeshi Kitano, as Otomo, taking aim in “Outrage,” a yakuza film he wrote and directed." border="0" />
+</a>
+</div>
+<h3><a href="http://movies.nytimes.com/2011/12/02/movies/outrage-directed-by-takeshi-kitano-review.html?ref=movies">
+The Violence That Japanese Gangsters Do: Betrayal Among the Yakuza</a></h3>
+<h6 class="byline">
+By MANOHLA DARGIS	    </h6>
+<p class="summary">
+“Outrage,” written and directed by Takeshi Kitano, describes a cycle of destruction and vengeance in a crime organization whose code of conduct is being ignored.</p>
+<ul class="refer">
+<li><a href="http://movies.nytimes.com/movie/460683/Outrage/overview">Movie Overview</a> | <a href="http://movies.nytimes.com/movie/460683/Outrage/trailers">Trailers</a> | <a href="http://community.nytimes.com/rate-review/movies.nytimes.com/movie/460683/Outrage/overview">Rate and Review</a></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">Movie Review <span class="bar">|</span> '<a href="http://movies.nytimes.com/movie/455036/The-Yellow-Sea/overview">The Yellow Sea</a>'</h6>
+<div class="thumbnail">
+<a href="http://movies.nytimes.com/2011/12/02/movies/the-yellow-sea-from-south-korea-review.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/arts/02YELLOW_SPAN/SUBYELLOW-thumbStandard.jpg" width="75" height="75" alt="Ha Jung-woo as a hapless taxi driver in “The Yellow Sea.”" border="0" />
+</a>
+</div>
+<h3><a href="http://movies.nytimes.com/2011/12/02/movies/the-yellow-sea-from-south-korea-review.html?ref=movies">
+The Blood Runs Freely, but the Dogs Can’t</a></h3>
+<h6 class="byline">
+By MANOHLA DARGIS	    </h6>
+<p class="summary">
+The South Korean film “The Yellow Sea” is a morality tale full of shocking images and rousing chase scenes.</p>
+<ul class="refer">
+<li><a href="http://movies.nytimes.com/movie/455036/The-Yellow-Sea/overview">Movie Overview</a> | <a href="http://movies.nytimes.com/movie/455036/The-Yellow-Sea/trailers">Trailers</a> | <a href="http://community.nytimes.com/rate-review/movies.nytimes.com/movie/455036/The-Yellow-Sea/overview">Rate and Review</a></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">Movie Review <span class="bar">|</span> '<a href="http://movies.nytimes.com/movie/465876/The-Big-Fix/overview">The Big Fix</a>'</h6>
+<div class="thumbnail">
+<a href="http://movies.nytimes.com/2011/12/02/movies/the-big-fix-and-big-oil-review.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/arts/02THEBIGFIX_SPAN/02THEBIGFIX_SPAN-thumbStandard.jpg" width="75" height="75" alt="Josh Tickell and Rebecca Harrell Tickell, the directors of the documentary “The Big Fix.”" border="0" />
+</a>
+</div>
+<h3><a href="http://movies.nytimes.com/2011/12/02/movies/the-big-fix-and-big-oil-review.html?ref=movies">
+Fury, Up Close and Personal, at the Lingering Effects From the BP Oil Spill</a></h3>
+<h6 class="byline">
+By STEPHEN HOLDEN	    </h6>
+<p class="summary">
+“The Big Fix,” directed by Josh Tickell and Rebecca Harrell Tickell, is an enraged exposé of the crimes of Big Oil.</p>
+<ul class="refer">
+<li><a href="http://movies.nytimes.com/movie/465876/The-Big-Fix/overview">Movie Overview</a> | <a href="http://movies.nytimes.com/movie/465876/The-Big-Fix/trailers">Trailers</a> | <a href="http://community.nytimes.com/rate-review/movies.nytimes.com/movie/465876/The-Big-Fix/overview">Rate and Review</a></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">Movie Review <span class="bar">|</span> '<a href="http://movies.nytimes.com/movie/463609/Force-of-Nature-The-David-Suzuki-Movie/overview">Force of Nature: The David Suzuki Movie</a>'</h6>
+<div class="thumbnail">
+<a href="http://movies.nytimes.com/2011/12/02/movies/force-of-nature-the-david-suzuki-movie-review.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/arts/02FORCE_SPAN/02FORCE_SPAN-thumbStandard.jpg" width="75" height="75" alt="The scientist David Suzuki in Sturla Gunnarsson's “Force of Nature,” constructed around a speech Mr. Suzuki gave last year." border="0" />
+</a>
+</div>
+<h3><a href="http://movies.nytimes.com/2011/12/02/movies/force-of-nature-the-david-suzuki-movie-review.html?ref=movies">
+Dear Humans: The Planet Needs Your Help</a></h3>
+<h6 class="byline">
+By STEPHEN HOLDEN	    </h6>
+<p class="summary">
+“Force of Nature: The David Suzuki Movie,” by Sturla Gunnarsson, is based on a dire speech delivered by Dr. Suzuki about the imminent destruction of the biosphere.</p>
+<ul class="refer">
+<li><a href="http://movies.nytimes.com/movie/463609/Force-of-Nature-The-David-Suzuki-Movie/overview">Movie Overview</a> | <a href="http://movies.nytimes.com/movie/463609/Force-of-Nature-The-David-Suzuki-Movie/trailers">Trailers</a> | <a href="http://community.nytimes.com/rate-review/movies.nytimes.com/movie/463609/Force-of-Nature-The-David-Suzuki-Movie/overview">Rate and Review</a></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">Movie Review <span class="bar">|</span> '<a href="http://movies.nytimes.com/movie/464870/Khodorkovsky/overview">Khodorkovsky</a>'</h6>
+<div class="thumbnail">
+<a href="http://movies.nytimes.com/2011/11/30/movies/mikhail-khodorkovsky-documentary-review.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/arts/sub2-30khodo/sub2-30khodo-thumbStandard.jpg" width="75" height="75" alt="Mikhail Khodorkovsky in the documentary "Khodorkovsky."" border="0" />
+</a>
+</div>
+<h3><a href="http://movies.nytimes.com/2011/11/30/movies/mikhail-khodorkovsky-documentary-review.html?ref=movies">
+The Top of the World, Then Prison in Siberia</a></h3>
+<h6 class="byline">
+By STEPHEN HOLDEN	    </h6>
+<p class="summary">
+The Russian Mikhail Khodorkovsky became an oligarch, but his fortunes fell when he was incarcerated. His story is the focus of a documentary by Cyril Tuschi.</p>
+<ul class="refer">
+<li><a href="http://video.nytimes.com/video/2011/11/29/movies/100000001197802/exclusive-clip-khodorkovsky.html"><img src="http://graphics8.nytimes.com/images/multimedia/icons/video_icon.gif" alt="Video" width="12" height="9" border="0"> Exclusive Clip: ‘Khodorkovsky’</a></li>
+<li><a href="http://movies.nytimes.com/movie/464870/Khodorkovsky/overview">Movie Overview</a> | <a href="http://movies.nytimes.com/movie/464870/Khodorkovsky/trailers">Trailers</a> | <a href="http://community.nytimes.com/rate-review/movies.nytimes.com/movie/464870/Khodorkovsky/overview">Rate and Review</a></li>
+</ul>
+</div>
+</div>
+<!--cur:HeadlineOnly prev:StandardThumb-->
+<div class="columnGroup singleRule ">
+<h3 class="sectionHeader">More Reviews</h3>
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/movies/movie-listings-for-dec-2-8.html?ref=movies">
+Movie Listings for Dec. 2-8</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/12/02/movies/answers-to-nothing-by-matthew-leutwyler-review.html?ref=movies">
+Movie Review | 'Answers to Nothing': The Loneliness of a Brother’s Caregiver</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/12/02/movies/a-journey-in-my-mothers-footsteps-dina-rosenmeiers-documentary-review.html?ref=movies">
+Movie Review | 'A Journey in My Mother’s Footsteps': Daughter’s Bittersweet Memoir of a Humanitarian Mother</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/12/02/movies/a-warriors-heart-with-kellan-lutz-and-ashley-greene.html?ref=movies">
+Movie Review | 'A Warrior’s Heart': Lacrosse Player Comes Undone, and Grows</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/12/02/movies/under-control-documentary-on-german-nuclear-power-plants-review.html?ref=movies">
+Movie Review | 'Under Control': An Intimate Tour of a Gleaming German Nuclear Plant</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/12/02/movies/under-fire-journalists-in-combat-by-martyn-burke-review.html?ref=movies">
+Movie Review | 'Under Fire: Journalists in Combat': Firsthand Dangers of Reporters in Combat Zones</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/12/02/movies/kinyarwanda-about-1994-genocide-of-tutsis-in-rwanda.html?ref=movies">
+Movie Review | 'Kinyarwanda': Linked Stories From the Months of the Rwanda Massacre</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/12/02/movies/lads-jockeys-documentary-on-french-horse-racing-school.html?ref=movies">
+Movie Review | 'Lads & Jockeys': First-Race Terrors and Last-Place Humiliations at a Horse-Racing School</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/11/30/movies/an-african-election-directed-by-jarreth-merz-review.html?ref=movies">
+Movie Review | 'An African Election': A Zeal for Democracy in Ghana</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/11/30/movies/the-first-rasta-directed-by-helene-lee-review.html?ref=movies">
+Movie Review | 'The First Rasta': One Love: The Rastafarian Origin Story</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/11/30/movies/the-story-of-lovers-rock-directed-by-menelik-shabazz-review.html?ref=movies">
+Movie Review | 'The Story of Lover’s Rock': Reggae for When the Lights Were Low</a>
+</h6>
+</li>
+</ul>
+</div>
+<!--cur:StandardThumb prev:HeadlineOnly-->
+<div class="columnGroup singleRule ">
+<h6 class="sectionHeader">News & Features</h6><div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/04/movies/a-season-of-movies-about-movies.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/arts/04DARGIS2_SPAN/04DARGIS2-thumbStandard.jpg" width="75" height="75" alt="Bérénice Bejo and Malcolm McDowell in “The Artist.”" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/04/movies/a-season-of-movies-about-movies.html?ref=movies">
+Hollywood’s Own Hollywood Endings</a></h3>
+<h6 class="byline">
+By MANOHLA DARGIS	    </h6>
+<p class="summary">
+To judge by three recent high-profile releases — “Hugo,” “The Artist” and “My Week With Marilyn” — the movies are still a favorite topic of the movies.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Arts & Leisure</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/04/movies/jonah-hills-new-movie-is-the-sitter.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/arts/04HILL1_SPAN/04HILL1_SPAN-thumbStandard-v3.jpg" width="75" height="75" alt="Jonah Hill" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/04/movies/jonah-hills-new-movie-is-the-sitter.html?ref=movies">
+Jonah Hill’s Expanding Comfort Zone</a></h3>
+<h6 class="byline">
+By DAVE ITZKOFF	    </h6>
+<p class="summary">
+Jonah Hill, who came to prominence in comedies like “Superbad” and went on to star in “Moneyball,” says he doesn’t have to choose between being a comedian and being a real actor.</p>
+<ul class="refer">
+<li><img src="http://graphics8.nytimes.com/images/multimedia/icons/video_icon.gif" alt="Video" width="12" height="9" border="0"> Trailers: <a href="http://movies.nytimes.com/movie/457459/The-Sitter/trailers">'The Sitter'</a> | <a href="http://movies.nytimes.com/movie/444146/Moneyball/trailers">'Moneyball'</a></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">Talk</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/04/magazine/tilda-swinton.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/magazine/04talk/mag-04talk-t_CA0-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/04/magazine/tilda-swinton.html?ref=movies">
+The Radical Transparency of Tilda Swinton</a></h3>
+<h6 class="byline">
+By ANDREW GOLDMAN	    </h6>
+<p class="summary">
+Murder plots, younger lovers, penis prosthetics — there are no secrets here.</p>
+<ul class="refer">
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001194424" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/04/magazine/tilda-swinton.html"></span></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">The Carpetbagger</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/01/movies/awardsseason/in-film-so-many-men-on-the-verge-of-a-crisis.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/arts/sub-carpetbagger-1/sub-carpetbagger-1-thumbStandard.jpg" width="75" height="75" alt="Christopher Plummer and Ewan McGregor in "Beginners."" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/01/movies/awardsseason/in-film-so-many-men-on-the-verge-of-a-crisis.html?ref=movies">
+American Masculinity, Shown in All Its Angst</a></h3>
+<h6 class="byline">
+By MELENA RYZIK	    </h6>
+<p class="summary">
+In many recent films — including “The Tree of Life,” “Beginners” and “Midnight in Paris” — men are seen facing some type of existential crisis.</p>
+<ul class="refer">
+<li><a href="http://video.nytimes.com/video/2011/11/28/movies/awardsseason/100000001193881/carpetbagger-the-new-oscar-season.html"><span class="icon video">Video</span>: The New Oscar Season</a>
+</li>
+<li><a href="http://carpetbagger.blogs.nytimes.com/"> The Carpetbagger Blog </a></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">The Carpetbagger</h6>
+<div class="thumbnail">
+<a href="http://carpetbagger.blogs.nytimes.com/2011/11/30/eclectic-as-ever-sundance-unveils-competition-lineup/?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/movies/sundance1-span/sundance1-span-thumbStandard.jpg" width="75" height="75" alt="A scene from "The Queen of Versailles," which was selected for the U. S. documentary competition at the Sundance Film Festival." border="0" />
+</a>
+</div>
+<h3><a href="http://carpetbagger.blogs.nytimes.com/2011/11/30/eclectic-as-ever-sundance-unveils-competition-lineup/?ref=movies">
+Eclectic as Ever, Sundance Unveils Competition Lineup</a></h3>
+<h6 class="byline">
+By BROOKS BARNES	    </h6>
+<p class="summary">
+The features and documentaries chosen to compete at the Sundance Film Festival in January represent that festival’s eclecticism.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/04/theater/the-film-once-becomes-a-new-york-musical.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/arts/04ONCE2/04ONCE2-thumbStandard.jpg" width="75" height="75" alt="Steve Kazee and Cristin Milioti in “Once” at New York Theater Workshop." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/04/theater/the-film-once-becomes-a-new-york-musical.html?ref=movies">
+A Second Arrival for ‘Once’</a></h3>
+<h6 class="byline">
+By PATRICK HEALY	    </h6>
+<p class="summary">
+The stars of the film “Once” and those of the stage musical discuss what is similar — and what is not — about the two versions.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/01/arts/television/judy-lewis-secret-daughter-of-hollywood-dies-at-76.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/arts/LEWIS-3-obit/LEWIS-3-obit-thumbStandard.jpg" width="75" height="75" alt="Loretta Young with Judy Lewis, her daughter with Clark Gable. Ms. Lewis did not know her parents' identities until adulthood." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/01/arts/television/judy-lewis-secret-daughter-of-hollywood-dies-at-76.html?ref=movies">
+Judy Lewis, Secret Daughter of Hollywood, Dies at 76</a></h3>
+<h6 class="byline">
+By PAUL VITELLO	    </h6>
+<p class="summary">
+Ms. Lewis, the daughter of an unwed Loretta Young and Clark Gable, was 31 before she confronted her mother and learned the truth of her upbringing.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/28/movies/harvey-weinstein-pushes-the-artist-for-oscar-consideration.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/11/28/arts/ARTIST/ARTIST-thumbStandard.jpg" width="75" height="75" alt="Jean Dujardin and Bérénice Bejo star in the black-and-white “Artist.”" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/28/movies/harvey-weinstein-pushes-the-artist-for-oscar-consideration.html?ref=movies">
+Weinstein Sends Hollywood an Oscar-Time Mash Note</a></h3>
+<h6 class="byline">
+By MICHAEL CIEPLY	    </h6>
+<p class="summary">
+In a speech to Academy members Harvey Weinstein said many people have thought he was crazy to risk “a lot of millions” on “The Artist,” a black-and-white valentine to the movies. Perhaps time (and the Oscars) will tell.</p>
+<ul class="refer">
+<li><a href="http://video.nytimes.com/video/2011/11/23/movies/100000001188913/anatomy-of-a-scene-the-artist.html"><img src="http://graphics8.nytimes.com/images/multimedia/icons/video_icon.gif" alt="Video" width="12" height="9" border="0"> Anatomy of a Scene: Michel Hazanavicius, the Director of 'The Artist'</a></li>
+<li><a href="http://movies.nytimes.com/2011/11/25/movies/the-artist-by-michel-hazanavicius-review.html?ref=movies">Movie Review: 'The Artist'</a> | <a href="http://www.nytimes.com/2011/11/20/movies/french-twist-jean-dujardin-a-comic-who-does-nuance.html">French Twist: A Comic Does Nuance</a></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/29/arts/ken-russell-controversial-director-dies-at-84.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/11/29/arts/29russell_1/29russell_1-thumbStandard-v2.jpg" width="75" height="75" alt="The British director Ken Russell with Twiggy, the British model, during the filming of "The Boy Friend" in 1971." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/29/arts/ken-russell-controversial-director-dies-at-84.html?ref=movies">
+Ken Russell, Director Fond of Provocation, Dies at 84</a></h3>
+<h6 class="byline">
+By DENNIS LIM	    </h6>
+<p class="summary">
+A polarizing figure who delighted in breaching the limits of propriety and cinematic good taste, Mr. Russell courted controversy through much of his career.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Movies</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/movies/a-dangerous-method-and-j-edgar-studies-in-repression.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/arts/27CRITICS_span/27CRITICS_span-thumbStandard-v2.jpg" width="75" height="75" alt="Armie Hammer, left, portrays Clyde Tolson, the associate director of the F.B.I. under J. Edgar Hoover, played by Leonardo DiCaprio, in Clint Eastwood's “J. Edgar,” written by Dustin Lance Black." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/movies/a-dangerous-method-and-j-edgar-studies-in-repression.html?ref=movies">
+Famous Minds, Keeping Secrets</a></h3>
+<h6 class="byline">
+By A. O. SCOTT and MANOHLA DARGIS	    </h6>
+<p class="summary">
+The Times’s co-chief film critics discuss David Cronenberg’s “Dangerous Method” and Clint Eastwood’s “J. Edgar,” biopics examining the consequences of repression.</p>
+<ul class="refer">
+<li>Movie Reviews: <a href="http://movies.nytimes.com/2011/11/23/movies/a-dangerous-method-by-david-cronenberg-review.html">'A Dangerous Method'</a> | <a href="http://movies.nytimes.com/2011/11/09/movies/j-edgar-starring-leonardo-dicaprio-review.html">'J. Edgar'</a></li>
+<li><a href="http://www.nytimes.com/2011/11/27/movies/a-dangerous-method-and-mental-illness-in-movies.html "> ‘A Dangerous Method’ and Mental Illness in Movies </a></li>
+</ul>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/11/28/movies/twilight-leads-thanksgiving-box-office.html?ref=movies">
+‘Twilight’ Beats Newcomers at Box Office</a></h3>
+<h6 class="byline">
+By BROOKS BARNES	    </h6>
+<p class="summary">
+Hollywood’s five-day Thanksgiving sales period, considered crucial to generating momentum through Christmas, was not as bountiful as studio officials had hoped.</p>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/11/28/business/media/hollywood-labor-fight-looms-as-money-for-benefits-wanes.html?ref=movies">
+Hollywood Labor Fight Looms as Money for Benefits Wanes</a></h3>
+<h6 class="byline">
+By MICHAEL CIEPLY	    </h6>
+<p class="summary">
+A showdown is expected next spring over financing for some of the most prized perks in show business, the generous health and pension plans.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Movies</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/movies/coriolanus-ralph-fiennes-debut-as-film-director.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/arts/27SUBFIENNES2_span/27SUBFIENNES2_span-thumbStandard.jpg" width="75" height="75" alt="Ralph Fiennes works with Gerard Butler, who portrays his archenemy in "Coriolanus."" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/movies/coriolanus-ralph-fiennes-debut-as-film-director.html?ref=movies">
+A First Plunge Into Directing Is Hardly Routine</a></h3>
+<h6 class="byline">
+By ROSLYN SULCAS	    </h6>
+<p class="summary">
+Ralph Fiennes, serious stage actor and A-list movie star, talks about “Coriolanus,” his debut as a film director.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Movies</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/movies/steve-mcqueen-and-michael-fassbender-team-up-in-shame.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/arts/27SHAME1_SPAN/27SHAME1-thumbStandard.jpg" width="75" height="75" alt="Steve McQueen, left, the director of “Shame,” with Michael Fassbender." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/movies/steve-mcqueen-and-michael-fassbender-team-up-in-shame.html?ref=movies">
+Unlikely Look at Sex and the City</a></h3>
+<h6 class="byline">
+By MICHAEL M. GRYNBAUM	    </h6>
+<p class="summary">
+Two Europeans have created one of the more memorable cinematic Manhattans with “Shame,” a wrenching saga of sex addiction.</p>
+<ul class="refer">
+<li><a href="http://video.nytimes.com/video/2011/10/06/movies/100000001096728/interview-michael-fassbender.html">Video Interview: Michael Fassbender</a></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">Movies</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/movies/a-dangerous-method-and-mental-illness-in-movies.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/arts/27DANGEROUS_SPAN/27DANGEROUS-thumbStandard.jpg" width="75" height="75" alt="Keira Knightley plays Sabina Spielrein, a patient of Carl Jung (Michael Fassbender) in “A Dangerous Method,” directed by David Cronenberg." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/movies/a-dangerous-method-and-mental-illness-in-movies.html?ref=movies">
+Let’s See What’s Inside That Pretty Head</a></h3>
+<h6 class="byline">
+By TERRENCE RAFFERTY	    </h6>
+<p class="summary">
+“A Dangerous Method,” directed by David Cronenberg, is the latest film from Hollywood about mental illness. The patient, as usual in such films, is female.</p>
+<ul class="refer">
+<li><a href="http://movies.nytimes.com/2011/11/23/movies/a-dangerous-method-by-david-cronenberg-review.html?ref=movies">Movie Review: 'A Dangerous Method'</a></li>
+<li><a href="http://video.nytimes.com/video/2011/10/05/movies/100000001092968/david-cronenbergs-method.html"><img src="http://graphics8.nytimes.com/images/multimedia/icons/video_icon.gif" alt="Video" width="12" height="9" border="0"> Video: David Cronenberg's 'Method'</a></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">Movies</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/movies/knuckle-by-ian-palmer-follows-irish-travelers.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/arts/27KNUCKLE_SPAN/27KNUCKLE_SPAN-thumbStandard.jpg" width="75" height="75" alt="Paul Joyce, left, and Michael Quinn McDonagh, fighting." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/movies/knuckle-by-ian-palmer-follows-irish-travelers.html?ref=movies">
+Capturing a Tradition, Blow by Blow</a></h3>
+<h6 class="byline">
+By COREY KILGANNON	    </h6>
+<p class="summary">
+The filmmaker Ian Palmer follows a bruising bare-knuckle boxer, James Quinn McDonagh, on his escapades in Ireland.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/movies/homevideo/birth-of-a-nation-born-again-for-dvd.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/arts/27KEHR1_SPAN/27KEHR1-thumbStandard.jpg" width="75" height="75" alt="A scene from D. W. Griffith's “Birth of a Nation.”" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/movies/homevideo/birth-of-a-nation-born-again-for-dvd.html?ref=movies">
+A Leap Forward That Tugs Backward</a></h3>
+<h6 class="byline">
+By DAVE KEHR	    </h6>
+<p class="summary">
+In D. W. Griffith’s “Birth of a Nation,” which changed the art form, uncomfortable racist sequences coexist with powerful emotional artistry.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Main Course</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/fashion/michelle-williams-in-an-unfamiliar-role-the-star.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/fashion/27MAINCOURSE_SPAN/27MAINCOURSE_SPAN-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/fashion/michelle-williams-in-an-unfamiliar-role-the-star.html?ref=movies">
+For Michelle Williams, an Unfamiliar Role: The Star</a></h3>
+<h6 class="byline">
+By CATHY HORYN	    </h6>
+<p class="summary">
+The actress is coming into her own with her new film, “My Week With Marilyn.”</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/slideshow/2011/11/27/fashion/20111127-MAINCOURSE.html"><span class="icon slideshow">Slide Show</span></a>
+</li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/automobiles/tintin-film-casts-cars-among-star-performers.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/automobiles/27AUTTINJP1/27AUTTINJP1-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/automobiles/tintin-film-casts-cars-among-star-performers.html?ref=movies">
+‘Tintin’ Film Casts Cars Among Star Performers</a></h3>
+<h6 class="byline">
+By FRED BIERMAN	    </h6>
+<p class="summary">
+“The Adventures of Tintin” is about to be released, and like the book that the film is based on, it takes automobiles seriously. The artist behind “Tintin” was an avid driver, and there are about 150 clearly identifiable cars in the books.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/slideshow/2011/11/27/automobiles/27tintin-slideshow.html"><span class="icon slideshow">Slide Show</span>: More Than Just Scenery</a></li>
+</ul>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/11/27/theater/cillian-murphy-in-misterman-at-st-anns-warehouse.html?ref=movies">
+Alone Onstage, Desperate for Clarity</a></h3>
+<h6 class="byline">
+By SARAH LYALL	    </h6>
+<p class="summary">
+The actor Cillian Murphy is Brooklyn bound as the star of a one-man play, “Misterman,” by Enda Walsh.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/24/movies/the-birth-of-promotion-inventing-film-publicity.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/11/24/arts/SILENT/SILENT-thumbStandard.jpg" width="75" height="75" alt="A poster shown in “The Birth of Promotion.”" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/24/movies/the-birth-of-promotion-inventing-film-publicity.html?ref=movies">
+Still Images Promoting Moving Pictures</a></h3>
+<h6 class="byline">
+By DAVE KEHR	    </h6>
+<p class="summary">
+“The Birth of Promotion: Inventing Film Publicity in the Silent-Film Era,” at the New York Public Library, examines how studios attracted movie audiences.</p>
+</div>
+</div>
+<!--cur:HeadlineOnly prev:StandardThumb-->
+<div class="columnGroup singleRule last">
+<h3 class="sectionHeader">More News & Features</h3>
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/25/movies/homevideo/dvd-gift-guide-from-old-favorites-to-new-offerings.html?ref=movies">
+DVDs, From Fresh Offerings to Old Favorites</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/25/arts/television/tv-shows-on-dvd-roundup-holiday-gift-guide-2011.html?ref=movies">
+Holiday Gift Guide: Catching Up on TV Shows, Past and Present</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://artsbeat.blogs.nytimes.com/2011/11/21/talking-comedy-with-john-landis/?ref=movies">
+ArtsBeat Blog: Talking Comedy With John Landis</a>
+</h6>
+</li>
+</ul>
+</div>
+<div id="adxSponLink" class="columnGroup singleRule"></div>
+</div><!--close .aColumn -->
+<div class="bColumn">
+<div class="columnGroup SectionFront3Col first">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://carpetbagger.blogs.nytimes.com" title="The Cargetbagger Blog">
+<img src="http://graphics8.nytimes.com/images/blogs_v3/carpetbagger/carpetbagger163.jpg" alt="The Cargetbagger Blog"/>
+</a> 
+</h3> <div class="story first">
+<h3><a href="http://carpetbagger.blogs.nytimes.com/2011/12/02/from-pariah-an-ingenue-in-her-first-fancy-fancy-dress/?ref=movies">From 'Pariah,' an Ingenue in Her First 'Fancy-Fancy' Dress</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">23 minutes ago</span></p>
+</div><div class="story">
+<h3><a href="http://carpetbagger.blogs.nytimes.com/2011/12/02/tinker-tailor-and-the-smell-of-damp-tweed/?ref=movies">'Tinker, Tailor' and the Smell of Damp Tweed</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">11:00 AM ET</span></p>
+</div><div class="story">
+<h3><a href="http://carpetbagger.blogs.nytimes.com/2011/12/02/if-this-acting-thing-doesnt-work-out-tilda-swinton-has-a-plan-b/?ref=movies">If This Acting Thing Doesn't Work Out, Tilda Swinton Has a Plan B</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">9:30 AM ET</span></p>
+</div><p class="refer">
+<a href="http://carpetbagger.blogs.nytimes.com" title="More From Carpetbagger">More From Carpetbagger &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule ">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://artsbeat.blogs.nytimes.com/category/movies/" title="">
+<img src="http://graphics8.nytimes.com/images/blogs_v3/artsbeat/artsbeat-promo-190.gif" alt=""/>
+</a> 
+</h3> <div class="story first">
+<h3><a href="http://artsbeat.blogs.nytimes.com/2011/12/01/victims-parents-say-west-memphis-three-documentary-shouldnt-receive-an-oscar/?ref=movies">Victim's Parents Say West Memphis Three Documentary Shouldn't Receive an Oscar</a></h3>
+<p class="date">December 1, 2011 <span class="timestamp"></span></p>
+</div><div class="story">
+<h3><a href="http://artsbeat.blogs.nytimes.com/2011/12/01/montclair-film-festival-gains-directors-and-a-cheerleader-named-stephen-colbert/?ref=movies">Montclair Film Festival Gains Directors, and a Cheerleader Named Stephen Colbert</a></h3>
+<p class="date">December 1, 2011 <span class="timestamp"></span></p>
+</div><div class="story">
+<h3><a href="http://artsbeat.blogs.nytimes.com/2011/11/30/ebert-says-at-the-movies-will-take-hiatus/?ref=movies">Ebert Says 'At the Movies' Will Take Hiatus</a></h3>
+<p class="date">November 30, 2011 <span class="timestamp"></span></p>
+</div><p class="refer">
+<a href="http://artsbeat.blogs.nytimes.com/category/movies/" title="More Movies Posts in Artsbeat">More Movies Posts in Artsbeat &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<h6 class="sectionHeader">Photos & Video</h6>
+<div class="columnGroup first">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://video.nytimes.com/video/2011/12/01/movies/100000001202049/ralph-fiennes-discusses-coriolanus.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/arts/video-ralph-fiennes/video-ralph-fiennes-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay video">Video</span>
+</a>
+</div>
+<h5><a href="http://video.nytimes.com/video/2011/12/01/movies/100000001202049/ralph-fiennes-discusses-coriolanus.html?ref=movies">
+Ralph Fiennes Discusses 'Coriolanus'</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Ralph Fiennes, the director and star of “Coriolanus,” talks about adapting Shakespeare’s play for the screen.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/11/27/movies/coriolanus-ralph-fiennes-debut-as-film-director.html">Related Article</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://video.nytimes.com/video/2011/12/01/movies/100000001202452/julia-leigh-on-sleeping-beauty.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/arts/video-julia-leigh/video-julia-leigh-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay video">Video</span>
+</a>
+</div>
+<h5><a href="http://video.nytimes.com/video/2011/12/01/movies/100000001202452/julia-leigh-on-sleeping-beauty.html?ref=movies">
+Julia Leigh on 'Sleeping Beauty'</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Julia Leigh, the director of the drama "Sleeping Beauty," discusses her film.</p>
+<ul class="refer">
+<li><a href="http://movies.nytimes.com/2011/12/02/movies/julia-leighs-sleeping-beauty-review.html">Movie Review | 'Sleeping Beauty'</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://video.nytimes.com/video/2011/10/06/movies/100000001096728/interview-michael-fassbender.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/10/06/arts/video-fassbender/video-fassbender-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay video">Video</span>
+</a>
+</div>
+<h5><a href="http://video.nytimes.com/video/2011/10/06/movies/100000001096728/interview-michael-fassbender.html?ref=movies">
+Interview: Michael Fassbender</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+The actor Michael Fassbender talks about his portrayal of a sex addict in Steve McQueen's "Shame."</p>
+</div>
+</div>
+<div class="columnGroup singleRule last">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://video.nytimes.com/video/2011/11/29/movies/100000001197802/exclusive-clip-khodorkovsky.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/11/29/arts/video-khodorkovsky-clip/video-khodorkovsky-clip-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay video">Video</span>
+</a>
+</div>
+<h5><a href="http://video.nytimes.com/video/2011/11/29/movies/100000001197802/exclusive-clip-khodorkovsky.html?ref=movies">
+Exclusive Clip: ‘Khodorkovsky’</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A scene from the documentary "Khodorkovsky," directed by Cyril Tuschi.</p>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<div id="criticsWidget">
+<a href="http://movies.nytimes.com/movies/critics/critics-picks"><img src="http://graphics8.nytimes.com/images/section/movies/widgets/criticsPicks.gif"/></a>
+<div class="featureTabSmall">
+<div id="tabsContainer" class="insetV flushBottom wrap">
+<ul class="tabs">
+<li id="firstItem" class="selected">
+<a href="#">In Theaters</a>
+</li>
+<li id="lastItem" class="">
+<a href="#">On DVD</a>
+</li>
+</ul>
+<div class="singleRuleDivider featureTabSmallDivider"></div>
+</div>
+<div class="tabContentActive">
+<div class="story">
+<div class="moduleHeader"><a href="http://movies.nytimes.com/movies/critics/A-O-Scott/critics-picks">A. O. Scott</a> recommends:</div>
+<div class="thumbnail">
+<a href="http://movies.nytimes.com/2011/11/25/movies/the-artist-by-michel-hazanavicius-review.html">
+<img class="wrap" src="http://graphics8.nytimes.com/images/2011/11/25/arts/THE-ARTIST/THE-ARTIST-thumbStandard.jpg" alt="Sparkling, Swooning and Suffering Wordlessly">
+</a>
+</div>
+<h5><a href="http://movies.nytimes.com/movie/462919/The-Artist/overview ">The Artist </a></h5>
+<ul class="refer">
+<li>
+<a href="http://movies.nytimes.com/2011/11/25/movies/the-artist-by-michel-hazanavicius-review.html">NYT Review</a>
+</li>
+<li>
+<a href="http://community.nytimes.com/rate-review/movies.nytimes.com/movie/462919/The-Artist/overview">Readers' Reviews</a>
+</li>
+<li>
+<a href="http://movies.nytimes.com/movie/462919/The-Artist/showtimes">Buy Tickets </a>
+</li>
+<li>
+<a href="http://movies.nytimes.com/movie/462919/The-Artist/trailers">Watch Trailer</a>
+</li>
+</ul>
+</div>
+<div class="story">
+<div class="moduleHeader"><a href="http://movies.nytimes.com/movies/critics/Manohla-Dargis/critics-picks">Manohla Dargis</a> recommends:</div>
+<div class="thumbnail">
+<a href="http://movies.nytimes.com/2011/11/23/movies/martin-scorseses-hugo-with-ben-kingsley-and-sacha-baron-cohen-review.html">
+<img class="wrap" src="http://graphics8.nytimes.com/images/2011/11/23/arts/HUGO/HUGO-thumbStandard.jpg" alt="Inventing a World, Just Like Clockwork">
+</a>
+</div>
+<h5><a href="http://movies.nytimes.com/movie/449699/Hugo/overview ">Hugo </a></h5>
+<ul class="refer">
+<li>
+<a href="http://movies.nytimes.com/2011/11/23/movies/martin-scorseses-hugo-with-ben-kingsley-and-sacha-baron-cohen-review.html">NYT Review</a>
+</li>
+<li>
+<a href="http://community.nytimes.com/rate-review/movies.nytimes.com/movie/449699/Hugo/overview">Readers' Reviews</a>
+</li>
+<li>
+<a href="http://movies.nytimes.com/movie/449699/Hugo/showtimes">Buy Tickets </a>
+</li>
+<li>
+<a href="http://movies.nytimes.com/movie/449699/Hugo/trailers">Watch Trailer</a>
+</li>
+</ul>
+</div>
+<div class="story">
+<div class="moduleHeader"><a href="http://movies.nytimes.com/movies/critics/Stephen-Holden/critics-picks">Stephen Holden</a> recommends:</div>
+<div class="thumbnail">
+<a href="http://movies.nytimes.com/2011/11/23/movies/the-muppets-with-jason-segel-and-amy-adams-review.html">
+<img class="wrap" src="http://graphics8.nytimes.com/images/2011/11/21/movies/muppets-span/muppets-span-thumbStandard.jpg" alt="Getting the Gang Together Again">
+</a>
+</div>
+<h5><a href="http://movies.nytimes.com/movie/453604/The-Muppets/overview ">The Muppets </a></h5>
+<ul class="refer">
+<li>
+<a href="http://movies.nytimes.com/2011/11/23/movies/the-muppets-with-jason-segel-and-amy-adams-review.html">NYT Review</a>
+</li>
+<li>
+<a href="http://community.nytimes.com/rate-review/movies.nytimes.com/movie/453604/The-Muppets/overview">Readers' Reviews</a>
+</li>
+<li>
+<a href="http://movies.nytimes.com/movie/453604/The-Muppets/showtimes">Buy Tickets </a>
+</li>
+<li>
+<a href="http://movies.nytimes.com/movie/453604/The-Muppets/trailers">Watch Trailer</a>
+</li>
+</ul>
+</div>
+<div class="refer">
+<a href="/movies/critics/critics-picks">More New York Times Critics' Picks&nbsp;&#187;</a>                </div>
+</div>
+<div class="tabContent">
+<div class="story">
+<div class="moduleHeader"><a href="http://movies.nytimes.com/movies/critics/A-O-Scott/critics-picks">A. O. Scott</a> recommends:</div>
+<div class="thumbnail">
+<a href="http://movies.nytimes.com/2011/07/29/movies/the-future-directed-by-miranda-july-review.html">
+<img class="wrap" src="http://graphics8.nytimes.com/images/2011/07/29/arts/29FUTURE_SPAN/29FUTURE-thumbStandard.jpg" alt="Is That All There Is? Milking Life for More">
+</a>
+</div>
+<h5><a href="http://movies.nytimes.com/movie/460971/The-Future/overview ">The Future </a></h5>
+<ul class="refer">
+<li>
+<a href="http://movies.nytimes.com/2011/07/29/movies/the-future-directed-by-miranda-july-review.html">NYT Review</a>
+</li>
+<li>
+<a href="http://community.nytimes.com/rate-review/movies.nytimes.com/movie/460971//overview">Readers' Reviews</a>
+</li>
+<li>
+<a href="http://movies.nytimes.com/movie/460971//dvd">Buy DVD </a>
+</li>
+<li>
+<a href="http://movies.nytimes.com/movie/460971/The-Future/trailers">Watch Trailer</a>
+</li>
+</ul>
+</div>
+<div class="story">
+<div class="moduleHeader"><a href="http://movies.nytimes.com/movies/critics/Manohla-Dargis/critics-picks">Manohla Dargis</a> recommends:</div>
+<div class="thumbnail">
+<a href="http://movies.nytimes.com/2011/08/05/movies/bellflower-directed-by-evan-glodell-review.html">
+<img class="wrap" src="http://graphics8.nytimes.com/images/2011/08/05/movies/05bellflower-span-image/05bellflower-span-image-thumbStandard.jpg" alt="A Souped-Up Romance Turns Demolition Derby">
+</a>
+</div>
+<h5><a href="http://movies.nytimes.com/movie/464288/Bellflower/overview ">Bellflower </a></h5>
+<ul class="refer">
+<li>
+<a href="http://movies.nytimes.com/2011/08/05/movies/bellflower-directed-by-evan-glodell-review.html">NYT Review</a>
+</li>
+<li>
+<a href="http://community.nytimes.com/rate-review/movies.nytimes.com/movie/464288//overview">Readers' Reviews</a>
+</li>
+<li>
+<a href="http://movies.nytimes.com/movie/464288//dvd">Buy DVD </a>
+</li>
+<li>
+<a href="http://movies.nytimes.com/movie/464288/Bellflower/trailers">Watch Trailer</a>
+</li>
+</ul>
+</div>
+<div class="story">
+<div class="moduleHeader"><a href="http://movies.nytimes.com/movies/critics/Stephen-Holden/critics-picks">Stephen Holden</a> recommends:</div>
+<div class="thumbnail">
+<a href="http://movies.nytimes.com/2011/07/15/movies/the-tree-with-charlotte-gainsbourg-review.html">
+<img class="wrap" src="http://graphics8.nytimes.com/images/2011/07/15/arts/TREE/TREE-thumbStandard.jpg" alt="A Tree That Shelters Animal Life and Maybe Even a Dead Parent">
+</a>
+</div>
+<h5><a href="http://movies.nytimes.com/movie/458816/The-Tree/overview ">The Tree </a></h5>
+<ul class="refer">
+<li>
+<a href="http://movies.nytimes.com/2011/07/15/movies/the-tree-with-charlotte-gainsbourg-review.html">NYT Review</a>
+</li>
+<li>
+<a href="http://community.nytimes.com/rate-review/movies.nytimes.com/movie/458816//overview">Readers' Reviews</a>
+</li>
+<li>
+<a href="http://movies.nytimes.com/movie/458816//dvd">Buy DVD </a>
+</li>
+<li>
+<a href="http://movies.nytimes.com/movie/458816/The-Tree/trailers">Watch Trailer</a>
+</li>
+</ul>
+</div>
+<div class="refer">
+<a href="/movies/critics/critics-picks">More New York Times Critics' Picks&nbsp;&#187;</a>                </div>
+</div>
+<script type="text/javascript">
+            new Accordian("criticsWidget");
+        </script>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<div class="columnGroup first">
+<h6 class="sectionHeader"> 2011 Holiday Gift Guide </h6>
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/gift-guide/holiday-2011/categories.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/apps/gift-guide/guide/holiday-2011/promos/giftguide2011-190b.png" width="190" height="126" alt="" border="0" />
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/gift-guide/holiday-2011/categories.html?ref=movies">
+</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Plan your holiday shopping with The New York Times 2011 Holiday Gift Guide.</p>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<h6 class="sectionHeader">Special Section</h6>
+<div class="columnGroup first">
+<script language="javascript" type="text/javascript" src="http://graphics8.nytimes.com/packages/js/multimedia/bundles/FadingSlideShow.js"></script>
+<script language="javascript" type="text/javascript" src="http://graphics8.nytimes.com/packages/js/multimedia/data/FadingSlideShow/20111028_holidaymovies.js"></script>
+<link type="text/css" rel="stylesheet" href="http://graphics8.nytimes.com/packages/css/multimedia/bundles/FadingSlideShow.css" />
+<div id="nytmm_embed9" class="nytmm_embed">
+</div>
+<script> var _obj = new NYTMM.FadingSlideShow($("nytmm_embed9"),190,110,chameleonData); _obj.setPhotoData(chameleonData.photos); </script>
+<div class="story"><h5><a href="http://www.nytimes.com/indexes/2011/10/29/movies/moviesspecial/index.html">Holiday Movies</a></h5><p class="summary">Steven Spielberg, Charlize Theron, breakthrough performances and more about this season's new films.</p></div>        	</div>
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<h6 class="sectionHeader">Photos & Video</h6>
+<div class="columnGroup first">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://video.nytimes.com/video/2011/11/28/movies/awardsseason/100000001193881/carpetbagger-the-new-oscar-season.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/11/28/arts/video-baggeronthestreet/video-baggeronthestreet-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay video">Video</span>
+</a>
+</div>
+<h5><a href="http://video.nytimes.com/video/2011/11/28/movies/awardsseason/100000001193881/carpetbagger-the-new-oscar-season.html?ref=movies">
+The New Oscar Season</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Melena Ryzik looks at the newest slate of Oscar contenders and polls New Yorkers for their opinions.</p>
+<ul class="refer">
+<li><a href="http://carpetbagger.blogs.nytimes.com/">More Carpetbagger</a> | <a href="http://www.nytimes.com/pages/movies/awardsseason/index.html">Special Section: Awards Season</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://video.nytimes.com/video/2011/11/23/movies/100000001188913/anatomy-of-a-scene-the-artist.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/11/23/arts/video-artist-anatomy/video-artist-anatomy-thumbWide-v2.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay video">Video</span>
+</a>
+</div>
+<h5><a href="http://video.nytimes.com/video/2011/11/23/movies/100000001188913/anatomy-of-a-scene-the-artist.html?ref=movies">
+Anatomy of a Scene: 'The Artist'</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Michel Hazanavicius, the director of “The Artist,” narrates a scene from his movie that pays homage to silent films.</p>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/slideshow/2011/11/20/movies/20111120-WALTER.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/11/20/arts/20111120-WALTER-slide-ZHZ3/20111120-WALTER-slide-ZHZ3-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay slideshow">Slide Show</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/slideshow/2011/11/20/movies/20111120-WALTER.html?ref=movies">
+New Muppet, New Movie</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Walter, the latest addition to the Muppets family, stars in “The Muppets.”</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/11/20/movies/new-muppet-and-movie-leading-franchise-into-new-era.html?_r=1&ref=movies">Muppet Antics Resume</a></li>
+<li><a href="http://video.nytimes.com/video/2011/11/17/magazine/100000001177171/bret-mckenzie-sings-with-kermit-the-frog.html"><img src="http://graphics8.nytimes.com/images/multimedia/icons/video_icon.gif" alt="Video" width="12" height="9" border="0"> Singing With Kermit the Frog</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://video.nytimes.com/video/2011/10/05/movies/100000001092968/david-cronenbergs-method.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/10/05/arts/video-cronenberg/video-cronenberg-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay video">Video</span>
+</a>
+</div>
+<h5><a href="http://video.nytimes.com/video/2011/10/05/movies/100000001092968/david-cronenbergs-method.html?ref=movies">
+David Cronenberg's 'Method'</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+David Cronenberg, the director of “A Dangerous Method,” discusses his film about Sigmund Freud and Carl Jung.</p>
+<ul class="refer">
+<li><a href="http://movies.nytimes.com/2011/11/23/movies/a-dangerous-method-by-david-cronenberg-review.html?ref=movies">Movie Review: 'A Dangerous Method'</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup singleRule last">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/movies/anatomyofascene-promo-page.html?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/08/12/movies/anatomy-film-reel/anatomy-film-reel-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay interactive">Interactive Feature</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/interactive/movies/anatomyofascene-promo-page.html?ref=movies">
+Anatomy of a Scene</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+In this series, directors discuss ideas and techniques behind moments in their films.</p>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<h6 class="sectionHeader">Movies Update</h6>
+<div class="columnGroup first">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/marketing/moviesupdate/?ref=movies">
+<img src="http://graphics8.nytimes.com/images/2011/08/10/movies/moviesupdatepic/moviesupdatepic-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/marketing/moviesupdate/?ref=movies">
+Movies Update Newsletter</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+<a href="http://www.nytimes.com/marketing/moviesupdate/">Sign up here</a> for our Movies Update e-mail, delivered each Friday, and stay on top of Critics’ Picks, blockbusters and independent films.</p>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="columnGroup ">
+<div class="boxOfficeTop5Module"> 
+<h3 class="sectionHeader">
+Box Office Top 5    </h3>
+<ol>
+<li>
+<a href="http://movies.nytimes.com/movie/458775/The-Twilight-Saga-Breaking-Dawn-Part-One-/overview">
+The Twilight Saga: Breaking Dawn (Part One)                    </a>
+</li>
+<li>
+<a href="http://movies.nytimes.com/movie/453604/The-Muppets/overview">
+The Muppets                    </a>
+</li>
+<li>
+<a href="http://movies.nytimes.com/movie/456408/Happy-Feet-Two/overview">
+Happy Feet Two                    </a>
+</li>
+<li>
+<a href="http://movies.nytimes.com/movie/458686/Arthur-Christmas/overview">
+Arthur Christmas                    </a>
+</li>
+<li>
+<a href="http://movies.nytimes.com/movie/449699/Hugo/overview">
+Hugo                    </a>
+</li>
+</ol>
+<div class="refer">
+<a href="http://movies.nytimes.com/movies/boxoffice/us/weekend.html">More Box Office Data&nbsp;&#187;</a>        </div>
+</div> </div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="columnGroup ">
+<div class="timesPulseModule"> 
+<h3 class="sectionHeader">
+Times Pulse    </h3>
+<h6 class="subHeader">        
+The most popular movies among NYTimes.com readers.  
+</h6>    
+<ol>
+<li>
+<a href="http://movies.nytimes.com/movie/463342/Shame/overview">
+Shame                    </a>
+</li>
+<li>
+<a href="http://movies.nytimes.com/movie/460312/Coriolanus/overview">
+Coriolanus                    </a>
+</li>
+<li>
+<a href="http://movies.nytimes.com/movie/450447/The-Descendants/overview">
+The Descendants                    </a>
+</li>
+<li>
+<a href="http://movies.nytimes.com/movie/449699/Hugo/overview">
+Hugo                    </a>
+</li>
+<li>
+<a href="http://movies.nytimes.com/movie/452135/A-Dangerous-Method/overview">
+A Dangerous Method                    </a>
+</li>
+</ol>
+<div class="refer">
+<a title="Click to view the top 25 titles" class="completeLink" href="/ref/movies/timespulse.html">Expanded List&nbsp;&#187;</a> | <a class="helpLink" target="popupad" onclick="window.open('','popupad','left=100,top=100, width=390,height=210,resizable,scrollbars=no')" href="/ref/movies/timespulseqa.html">What's This?</a>        </div>
+</div> </div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="story">
+<a href="mailto:askthefilmcritics@nytimes.com"><img src="http://graphics8.nytimes.com/images/2011/07/28/movies/askcritics/askcritics-articleInline.jpg" border="0" alt="Ask the Critics" /></a>
+</div>
+<div class="story">
+<h3><a href="mailto:askthefilmcritics@nytimes.com?ref=movies">
+</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Manohla Dargis and A. O. Scott, the co-chief film critics of The New York Times, are answering your questions. Do you have one for them? Please write to them at <a href="mailto:askthefilmcritics@nytimes.com">askthefilmcritics@nytimes.com</a>.</p>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="story">
+<div class="wideThumb">
+<a href="http://www.nytimes.com/ref/movies/1000best.html"><img alt="The Best 1,000 Movies Ever Made" src="http://graphics8.nytimes.com/images/promos/movies/best1000_movies.jpg"/></a>
+</div>
+<p class="summary">
+This guide includes links to the original reviews from the archives of The New York Times.
+</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/ref/movies/1000best.html" class="more">Go to The Best 1,000 Movies »</a></li>
+</ul>
+</div>    
+</div>
+<div class="columnGroup doubleRule last">
+
+<div class="singleAd" id="Right1">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/movies/index.html&pos=Right1&sn2=a436824/4ed5d898&sn1=38d43609/ab3147cd&camp=nyt2011-circ-120x90-weekender-36H38&ad=071511-120x90-weekender-36H38&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DWC7AA%26CMP%3D36H38" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/13/ad.271312/11-0920_HDWeekender2_120x90.jpg" width="120" height="90" border="0"></a>
+
+</div>
+
+
+</div>
+</div><!--close .bColumn -->
+</div><!--close .abColumn -->
+<div class="cColumn">
+<!--Ads  -->                    <div class="columnGroup first">
+
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<script src="http://graphics8.nytimes.com/js/app/lib/prototype/1.6.0.2/prototype.js" language="javascript"></script><script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script><script src="http://graphics8.nytimes.com/js/app/movies/widgets/showtime/showtimeWidget.js" language="javascript"></script><script>	NYTD.Movies.showtimesWidget = new NYTD.Movies.ShowTimesWidget();    var widget_url= "/svc/movies/mymovietimes.html?output_type=html";  var zipcode = '';  var movieid = '';  if($('zipcode')){zipcode = $('zipcode').getValue(); }  if($('movieid')){movieid = $('movieid').getValue();}  if(zipcode ==  '' || movieid == ''){	var meta = document.getElementsByTagName("meta");	if(meta != '') {		for(var i=0;i<meta.length;i++){						if(zipcode ==  '' && meta[i].name == "TSZC"){				zipcode = meta[i].content;			}			if(movieid ==  '' && meta[i].name == "MID"){				movieid = meta[i].content;			}		}	}  }	if(zipcode !=  '' && movieid != ''){		widget_url = widget_url+'&zipcode='+zipcode+'&movie_id='+movieid;	}else if(zipcode !=  '' && movieid == ''){		widget_url = widget_url+'&zipcode='+zipcode;	}	else if(zipcode ==  '' && movieid != ''){		widget_url = widget_url+'&movie_id='+movieid;	}  NYTD.Movies.showtimesWidget.makeRequest(widget_url, 'GET');</script>	<div id="showtimeWidget" class="moviesShowTimeModule">		<div id="w_1" class="MYTW_widget MYTW_showtime">			<div id="contentHolder">			</div>		</div>	</div>	<div class="showtimeFooter_external clearfix">		<div id="widgetAd"><!-- ADX AD="Position1A" --></div>		<div class="refer"><a href="http://movies.nytimes.com/movie/showtimes"> More Theaters Near You &#187;</a></div>	</div><!-- .showtimeFooter -->        	</div>
+<!--Ads Simple -->                    <div class="columnGroup ">
+
+			
+<div class="bigAd" id="SFMiddle">
+<!-- ADXINFO classification="bigad" campaign="LikeCrazyIncrem_1783082_nyt5"--><div align="center">
+<script language="JavaScript" type="text/javascript" src="http://view.atdmt.com/DEI/jview/366435134/direct;pc.174811_285549/01/2011.12.02.18.04.32?click=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fadx%2Fbin%2Fadx%5Fclick%2Ehtml%3Ftype%3Dgoto%26opzn%26page%3Dwww.nytimes.com/pages/movies/index.html%26pos%3DSFMiddle%26camp%3DLikeCrazyIncrem%5F1783082%5Fnyt5%26ad%3Dlikecrazy%5FBA%5FmoviesSF%5Fdec2%26sn2%3Ddff775b8/d2856a0%26snr%3Ddoubleclick%26snx%3D1322848848%26sn1%3D98d5e301%2Fe43568dc%26goto%3D">
+</script><noscript><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/movies/index.html&pos=SFMiddle&sn2=dff775b8/d2856a0&sn1=51cf37c0/3680a0d7&camp=LikeCrazyIncrem_1783082_nyt5&ad=likecrazy_BA_moviesSF_dec2&goto=http%3A%2F%2Fclk%2Eatdmt%2Ecom%2FDEI%2Fgo%2F366435134%2Fdirect%3Bpc%2E174811%5F285549%2F01%2F2011.12.02.18.04.32%2F" target="_blank"><img border="0" src="http://view.atdmt.com/DEI/view/366435134/direct;pc.174811_285549/01/2011.12.02.18.04.32/" /></a></noscript>
+</div>
+</div>
+
+
+
+<div class="singleAd" id="Box3">
+<!-- ADXINFO classification="feature_squares" campaign="nyt2011-regilite-P1-TimesLimited-ros"--><iframe title="regilite" src="https://myaccount.nytimes.com/regilite?product=LT" width="336" height="90" marginheight="0" marginwidth="0" frameborder="0" vspace="0" hspace="0" scrolling="no"></iframe>
+</div>
+
+
+</div>
+<!--StandardThumb Ads -->                    <div class="columnGroup ">
+<div class="singleRule">
+<div id="mostPopWidget"> 
+<h4>MOST POPULAR - MOVIES</h4>
+<div id="tabsContainer">
+<ul class="tabs">
+<li class="selected"><a href="#">E-Mailed</a></li>
+<li><a href="#">Blogged</a></li>
+<li ><a href="#">Viewed</a></li>
+<li ><a href="#">Box Office Top 10</a></li>
+</ul>
+</div>
+<div class="tabContent tabContentActive" id="mostEmailed">
+<ol>
+<li><a href="http://movies.nytimes.com/2011/12/02/movies/ralph-fiennes-and-vanessa-redgrave-in-coriolanus-review.html?src=me&ref=movies" title="Click to go to this article">Movie Review | 'Coriolanus': He’s the Hero of the People, and He Hates It</a></li>
+<li><a href="http://movies.nytimes.com/2011/12/02/movies/shame-directed-by-steve-mcqueen-review.html?src=me&ref=movies" title="Click to go to this article">Movie Review | 'Shame': Only One Thing on His Mind</a></li>
+<li><a href="http://www.nytimes.com/2011/12/01/movies/awardsseason/in-film-so-many-men-on-the-verge-of-a-crisis.html?src=me&ref=movies" title="Click to go to this article">The Carpetbagger: American Masculinity, Shown in All Its Angst</a></li>
+<li><a href="http://movies.nytimes.com/2011/12/02/movies/force-of-nature-the-david-suzuki-movie-review.html?src=me&ref=movies" title="Click to go to this article">Movie Review | 'Force of Nature: The David Suzuki Movie': Dear Humans: The Planet Needs Your Help</a></li>
+<li><a href="http://movies.nytimes.com/2011/12/02/movies/julia-leighs-sleeping-beauty-review.html?src=me&ref=movies" title="Click to go to this article">Movie Review | 'Sleeping Beauty': Objectification Is Also in the Eye of the Beheld</a></li>
+<li><a href="http://movies.nytimes.com/2011/11/25/movies/the-artist-by-michel-hazanavicius-review.html?src=me&ref=movies" title="Click to go to this article">Movie Review | 'The Artist': Sparkling, Swooning and Suffering Wordlessly</a></li>
+<li><a href="http://movies.nytimes.com/2011/12/02/movies/the-big-fix-and-big-oil-review.html?src=me&ref=movies" title="Click to go to this article">Movie Review | 'The Big Fix': Fury, Up Close and Personal, at the Lingering Effects From the BP Oil Spill</a></li>
+<li><a href="http://movies.nytimes.com/2011/11/23/movies/martin-scorseses-hugo-with-ben-kingsley-and-sacha-baron-cohen-review.html?src=me&ref=movies" title="Click to go to this article">Movie Review | 'Hugo': Inventing a World, Just Like Clockwork</a></li>
+<li><a href="http://movies.nytimes.com/2011/11/23/movies/a-dangerous-method-by-david-cronenberg-review.html?src=me&ref=movies" title="Click to go to this article">Movie Review | 'A Dangerous Method': Taming Unruly Desires and Invisible Monsters</a></li>
+<li><a href="http://movies.nytimes.com/2011/11/30/movies/the-story-of-lovers-rock-directed-by-menelik-shabazz-review.html?src=me&ref=movies" title="Click to go to this article">Movie Review | 'The Story of Lover’s Rock': Reggae for When the Lights Were Low</a></li>
+</ol>
+<a class="more" href="http://www.nytimes.com/gst/mostemailed.html">Go to Complete List &#x00bb;</a>
+</div>
+<div class="tabContent" id="mostBlogged">
+<ol>
+<li><a href="http://www.nytimes.com/2011/11/25/movies/a-brighter-summer-day-by-edward-yang-review.html?bl" title="Click to go to this article">'A Brighter Summer Day,' by Edward Yang - Review</a></li>
+</ol>
+<a class="more" href="http://www.nytimes.com/gst/mostblogged.html">Go to Complete List &#x00bb;</a>
+</div>
+<div class="tabContent" id="mostViewed"><ol>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/arts/02SHAME/02SHAME-thumbStandard-v2.jpg"  kicker="Movie Review | 'Shame'"><a href="http://movies.nytimes.com/2011/12/02/movies/shame-directed-by-steve-mcqueen-review.html?src=mv&amp;ref=movies" title="Click to go to this article">Movie Review | 'Shame': Only One Thing on His Mind</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/arts/02CORIO_SPAN/02CORIO-thumbStandard.jpg"  kicker="Movie Review | 'Coriolanus'"><a href="http://movies.nytimes.com/2011/12/02/movies/ralph-fiennes-and-vanessa-redgrave-in-coriolanus-review.html?src=mv&amp;ref=movies" title="Click to go to this article">Movie Review | 'Coriolanus': He&rsquo;s the Hero of the People, and He Hates It</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/arts/sub-carpetbagger-1/sub-carpetbagger-1-thumbStandard.jpg"  kicker="The Carpetbagger"><a href="http://www.nytimes.com/2011/12/01/movies/awardsseason/in-film-so-many-men-on-the-verge-of-a-crisis.html?src=mv&amp;ref=movies" title="Click to go to this article">The Carpetbagger: American Masculinity, Shown in All Its Angst</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/arts/02SLEEP1_SPAN/02SLEEP1_SPAN-thumbStandard.jpg"  kicker="Movie Review | 'Sleeping Beauty'"><a href="http://movies.nytimes.com/2011/12/02/movies/julia-leighs-sleeping-beauty-review.html?src=mv&amp;ref=movies" title="Click to go to this article">Movie Review | 'Sleeping Beauty': Objectification Is Also in the Eye of the Beheld</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/27/arts/27SHAME1_SPAN/27SHAME1-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/11/27/movies/steve-mcqueen-and-michael-fassbender-team-up-in-shame.html?src=mv&amp;ref=movies" title="Click to go to this article">Unlikely Look at Sex and the City</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/arts/02OUTRAGE_SPAN/02OUTRAGE_SPAN-thumbStandard.jpg"  kicker="Movie Review | 'Outrage'"><a href="http://movies.nytimes.com/2011/12/02/movies/outrage-directed-by-takeshi-kitano-review.html?src=mv&amp;ref=movies" title="Click to go to this article">Movie Review | 'Outrage': The Violence That Japanese Gangsters Do: Betrayal Among the Yakuza</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/25/arts/25dvd/25dvd-thumbStandard.jpg"  kicker="Film"><a href="http://www.nytimes.com/2011/11/25/movies/homevideo/dvd-gift-guide-from-old-favorites-to-new-offerings.html?src=mv&amp;ref=movies" title="Click to go to this article">Film: DVDs, From Fresh Offerings to Old Favorites</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/04/arts/04HILL1_SPAN/04HILL1_SPAN-thumbStandard-v3.jpg"  kicker="Arts & Leisure"><a href="http://www.nytimes.com/2011/12/04/movies/jonah-hills-new-movie-is-the-sitter.html?src=mv&amp;ref=movies" title="Click to go to this article">Arts &amp; Leisure: Jonah Hill&rsquo;s Expanding Comfort Zone</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/10/21/movies/21RDP_SWELL/21RDP_SWELL-thumbStandard.jpg"  kicker="Movie Review | 'The Swell Season'"><a href="http://movies.nytimes.com/2011/10/21/movies/swell-season-about-duo-in-musical-once-review.html?src=mv&amp;ref=movies" title="Click to go to this article">Movie Review | 'The Swell Season': How Fame Divided Bandmates in Love</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/23/arts/HUGO/HUGO-thumbStandard.jpg"  kicker="Movie Review | 'Hugo'"><a href="http://movies.nytimes.com/2011/11/23/movies/martin-scorseses-hugo-with-ben-kingsley-and-sacha-baron-cohen-review.html?src=mv&amp;ref=movies" title="Click to go to this article">Movie Review | 'Hugo': Inventing a World, Just Like Clockwork</a></li>
+</ol>
+</div><!--#most viewed top10 -->
+<div class="tabContent" id="moviesBoxOffice">
+<table>
+<tbody>
+<tr>
+<td class="rank"><p>1.</p></td>
+<td class="title"><p><a href=http://movies.nytimes.com/movie/458775/The-Twilight-Saga-Breaking-Dawn-Part-One-/overview>The Twilight Saga: Breaking Dawn (Part One)</p></td>
+<td class="revenue">$221.3 M</td>
+<td class="tickets"><p class="refer"><a href=http://movies.nytimes.com/movie/458775/The-Twilight-Saga-Breaking-Dawn-Part-One-/showtimes>Buy Tickets &#x00bb;</a></p></td>
+</tr>
+<tr>
+<td class="rank"><p>2.</p></td>
+<td class="title"><p><a href=http://movies.nytimes.com/movie/453604/The-Muppets/overview>The Muppets</p></td>
+<td class="revenue">$41.5 M</td>
+<td class="tickets"><p class="refer"><a href=http://movies.nytimes.com/movie/453604/The-Muppets/showtimes>Buy Tickets &#x00bb;</a></p></td>
+</tr>
+<tr>
+<td class="rank"><p>3.</p></td>
+<td class="title"><p><a href=http://movies.nytimes.com/movie/456408/Happy-Feet-Two/overview>Happy Feet Two</p></td>
+<td class="revenue">$43.8 M</td>
+<td class="tickets"><p class="refer"><a href=http://movies.nytimes.com/movie/456408/Happy-Feet-Two/showtimes>Buy Tickets &#x00bb;</a></p></td>
+</tr>
+<tr>
+<td class="rank"><p>4.</p></td>
+<td class="title"><p><a href=http://movies.nytimes.com/movie/458686/Arthur-Christmas/overview>Arthur Christmas</p></td>
+<td class="revenue">$16.3 M</td>
+<td class="tickets"><p class="refer"><a href=http://movies.nytimes.com/movie/458686/Arthur-Christmas/showtimes>Buy Tickets &#x00bb;</a></p></td>
+</tr>
+<tr>
+<td class="rank"><p>5.</p></td>
+<td class="title"><p><a href=http://movies.nytimes.com/movie/449699/Hugo/overview>Hugo</p></td>
+<td class="revenue">$15.4 M</td>
+<td class="tickets"><p class="refer"><a href=http://movies.nytimes.com/movie/449699/Hugo/showtimes>Buy Tickets &#x00bb;</a></p></td>
+</tr>
+<tr>
+<td class="rank"><p>6.</p></td>
+<td class="title"><p><a href=http://movies.nytimes.com/movie/446899/Jack-and-Jill/overview>Jack and Jill</p></td>
+<td class="revenue">$57.1 M</td>
+<td class="tickets"><p class="refer"><a href=http://movies.nytimes.com/movie/446899/Jack-and-Jill/showtimes>Buy Tickets &#x00bb;</a></p></td>
+</tr>
+<tr>
+<td class="rank"><p>7.</p></td>
+<td class="title"><p><a href=http://movies.nytimes.com/movie/455079/Immortals/overview>Immortals</p></td>
+<td class="revenue">$68.7 M</td>
+<td class="tickets"><p class="refer"><a href=http://movies.nytimes.com/movie/455079/Immortals/showtimes>Buy Tickets &#x00bb;</a></p></td>
+</tr>
+<tr>
+<td class="rank"><p>8.</p></td>
+<td class="title"><p><a href=http://movies.nytimes.com/movie/445271/Puss-in-Boots/overview>Puss in Boots</p></td>
+<td class="revenue">$135.4 M</td>
+<td class="tickets"><p class="refer"><a href=http://movies.nytimes.com/movie/445271/Puss-in-Boots/showtimes>Buy Tickets &#x00bb;</a></p></td>
+</tr>
+<tr>
+<td class="rank"><p>9.</p></td>
+<td class="title"><p><a href=http://movies.nytimes.com/movie/450447/The-Descendants/overview>The Descendants</p></td>
+<td class="revenue">$10.9 M</td>
+<td class="tickets"><p class="refer"><a href=http://movies.nytimes.com/movie/450447/The-Descendants/showtimes>Buy Tickets &#x00bb;</a></p></td>
+</tr>
+<tr>
+<td class="rank"><p>10.</p></td>
+<td class="title"><p><a href=http://movies.nytimes.com/movie/445749/Tower-Heist/overview>Tower Heist</p></td>
+<td class="revenue">$65.2 M</td>
+<td class="tickets"><p class="refer"><a href=http://movies.nytimes.com/movie/445749/Tower-Heist/showtimes>Buy Tickets &#x00bb;</a></p></td>
+</tr>
+</tbody>
+</table>
+<div class="refer insetV">
+<a href="http://movies.nytimes.com/movies/boxoffice/us/weekend.html">Go to Complete List &#x00bb;</a>
+</div>
+</div>
+<!--MostPopAd -->
+</div>
+</div>
+<!--#mostPopWidget -->
+<script type="text/javascript">
+    new Accordian('mostPopWidget');
+</script>
+</div>
+<!--Ads StandardThumb -->                    <div class="columnGroup ">
+			
+
+<div class="bigAd" id="Box1">
+<!-- ADXINFO classification="Module" campaign="nyt2011_module_movies_dude_film_hp_ros_db"--><!-- MARKETING MODULE -->
+<div style="border:solid #999;border-width:1px;font-family:Arial,sans-serif;text-align:left; width:334px;background:#fff;" class="clearfix wrap">
+  <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/movies/index.html&pos=Box1&sn2=60ccd616/9cf8b54b&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/2011/12/01/is-it-the-year-of-the-dude-film/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-PH%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm11/movies_120211.jpg" width="334" height="154" border="0" alt=""></a> 
+  <div style="padding:7px 9px 0;background:#fff">
+      <h2 style="font-size:22px;line-height:24px; margin:0;padding:0 0 4px;"><a style="color:#004276;" target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/movies/index.html&pos=Box1&sn2=60ccd616/9cf8b54b&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/2011/12/01/is-it-the-year-of-the-dude-film/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-HDR%26WT.mc_ev=click%26WT.mc_c=175075">Is it the year of the dude film?</a></h2>
+
+      <p style="margin:0 0 3px; padding:0;font-size: 11px;"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/movies/index.html&pos=Box1&sn2=60ccd616/9cf8b54b&sn1=9f65a43f/6fae85ce&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://nytimes.com/movies/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-URL%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank" style="font-size:11px;margin:3px 0;padding:0;font-family:Arial,sans-serif;  color:#000; text-transform:uppercase;">Also in Movies &raquo;</a></p>
+      <ul style="font-size:12px;margin:0; padding-bottom: 10px; border-bottom:1px solid #ccc;" class="refer">
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/movies/index.html&pos=Box1&sn2=60ccd616/9cf8b54b&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/2011/11/29/patton-oswalt-steals-the-scene-at-gotham-awards/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-L1%26WT.mc_ev=click%26WT.mc_c=175075" style="color: #004276">All about the Gotham Awards</a></li>
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/movies/index.html&pos=Box1&sn2=60ccd616/9cf8b54b&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-L2%26WT.mc_ev=click%26WT.mc_c=175075" style="color: #004276">Awards season from The Carpetbagger</a></li>
+      </ul>
+    </div>
+ 
+ <div style="padding:5px 9px; float:left; width:316px; background:#fff"> <a style="float:left" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/movies/index.html&pos=Box1&sn2=60ccd616/9cf8b54b&sn1=9f65a43f/6fae85ce&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://nytimes.com/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-LOGO%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/nytimes.gif" alt="nytimes.com" width="116" height="18" border="0"></a><a style="float:right" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/movies/index.html&pos=Box1&sn2=60ccd616/9cf8b54b&sn1=9f65a43f/6fae85ce&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://nytimes.com/movies/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-VRT%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/verticals_movies.gif" alt="Movies" width="120" height="18" border="0"></a></div><br clear="all">
+
+</div>
+  <!-- /MARKETING MODULE -->
+
+
+</div>
+
+
+<div class="singleAd" id="Middle5">
+<!-- ADXINFO classification="FeaturedProduct" campaign="nyt2011_tmag_winter_travel_336x79_ros"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/movies/index.html&pos=Middle5&sn2=851a5360/eedb5b5c&sn1=b795d039/3f1e2fb3&camp=nyt2011_tmag_winter_travel_336x79_ros&ad=TM-D-I-NYT-AD-FP-WTI-ROS-1111-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Findexes%2F2011%2F11%2F18%2Ft%2Dmagazine%2Ftravel%2Dissue%2Findex%2Ehtml%3FWT%2Emc%5Fid%3DTM%2DD%2DI%2DNYT%2DAD%2DFP%2DWTI%2DROS%2D1111%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D174077" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/28/44/ad.284409/TMag_Travel_336x79.jpg" width="336" height="79" border="0"></a>
+
+</div>
+
+
+
+<!--[TwoColumnAdLeft - Begin] -->
+	<div class="adHeader">
+<h4>
+Advertisements	    </h4>
+</div>
+<div class="cColumn-TextAdsBox">
+	<div class="cColumn-TextAdsLeft">
+<div class="cColumn-TextAd">
+<!-- ADXINFO classification="SiteForADay" campaign="NYT2011-Mktg-NeediestCases-S4D-ROS"--><div style="width:320px; height:60px;"> 
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/movies/index.html&pos=Right5A&sn2=36a9dafc/690a4395&sn1=83a259e6/49fd2187&camp=NYT2011-Mktg-NeediestCases-S4D-ROS&ad=Mtkg_NeediestCases_S4D_2011&goto=https%3A%2F%2Fnytneediestcases%2Ecom%2F" target="_blank"> 
+<img style="float:left; margin-right:10px;" src="http://graphics8.nytimes.com/adx/images/ADS/28/26/ad.282606/11-1929_NeediestCasses_86x60.jpg" width="86" height="60" border="0" style="vertical-align:text-top;"></a>
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/movies/index.html&pos=Right5A&sn2=36a9dafc/690a4395&sn1=83a259e6/49fd2187&camp=NYT2011-Mktg-NeediestCases-S4D-ROS&ad=Mtkg_NeediestCases_S4D_2011&goto=https%3A%2F%2Fnytneediestcases%2Ecom%2F" target="_blank">  <br />Help New Yorkers in need.<br />Donate Today.</a>
+</div>
+			</div>
+<div class="cColumn-TextAd">
+<!-- ADXINFO classification="text_ad" campaign="Antinori_2011-1778843-nyt8"--><!-- start text link -->
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/movies/index.html&pos=Right6A&sn2=3ea9dafc/680a4395&sn1=b25e688d/afd89cab&camp=Antinori_2011-1778843-nyt8&ad=antinori_textlinkad&goto=http%3A%2F%2Fclk%2Eatdmt%2Ecom%2FDDB%2Fgo%2F360203750%2Fdirect%2F01%2F2011.12.02.18.04.32&query=2011.12.02.18.04.32" target="_blank"><div class="cColumn-TextAdsHeader"><b><font color="blue"></font></b></div><font color="black">Choose 600 years of award-winning Antinori wine, perfected over 26 generations</font></a>
+<!-- end text link -->
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+</div>
+	</div>
+<!--[TwoColumnAdLeft - End] -->
+<div class="advertisementColumnGroup">
+<!--[MarketPlaceGridAd - Begin] -->
+
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+    <!--[MarketPlaceGridAd - End] -->
+</div>
+</div>
+<!--Ads Ads -->                    <div class="columnGroup last">
+
+<div class="singleAd" id="Feature1">
+<!-- ADXINFO classification="hp-module" campaign="feature1-GilbaneProperties-1770810-cla"--><!--Ad Template Begins Here -->
+<div class="story advertisement">
+<div class="callout">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/movies/index.html&pos=Feature1&sn2=9c1852d2/7e582a1f&sn1=3145f6ef/1f7e77ab&camp=feature1-GilbaneProperties-1770810-cla&ad=7.23.11-gilbane-173x98-SFM&goto=http%3A%2F%2Fliveatsurfside%2Ecom%2FNYT" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/17/ad.271744/Surfside.jpg" width="173" height="98" border="0" alt="Click for Details"></a>
+</div>
+<h5>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/movies/index.html&pos=Feature1&sn2=9c1852d2/7e582a1f&sn1=3145f6ef/1f7e77ab&camp=feature1-GilbaneProperties-1770810-cla&ad=7.23.11-gilbane-173x98-SFM&goto=http%3A%2F%2Fliveatsurfside%2Ecom%2FNYT" target="_blank"><font size=1>SURFSIDE Narragansett RI.</font></a>
+</h5>
+<p class="summary"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/movies/index.html&pos=Feature1&sn2=9c1852d2/7e582a1f&sn1=3145f6ef/1f7e77ab&camp=feature1-GilbaneProperties-1770810-cla&ad=7.23.11-gilbane-173x98-SFM&goto=http%3A%2F%2Fliveatsurfside%2Ecom%2FNYT" target="_blank"><font size=1>2 & 3-bedroom oceanfront condos and townhomes from the 400s.</font></a>
+</p>
+<div class="adCreative">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/movies/index.html&pos=Feature1&sn2=9c1852d2/7e582a1f&sn1=3145f6ef/1f7e77ab&camp=feature1-GilbaneProperties-1770810-cla&ad=7.23.11-gilbane-173x98-SFM&goto=http%3A%2F%2Fliveatsurfside%2Ecom%2FNYT" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/17/ad.271744/SurfsideLogo-TypeOnly.jpg" width="78" height="36"></a>
+</div>
+</div>
+<!--Ad Template Ends Here -->
+</div>
+
+
+<div class="singleAd" id="SponLink">
+<script language="JavaScript" type="text/javascript">
+    
+    // Sponlink_short
+
+    NYTD.GoogleAds.getGoogleAds("AFC", { 
+        google_ad_client:'nytimes_section_var',
+        ad_target_list:'sponLink'
+    });
+</script>
+</div>
+
+</div>
+</div><!--close cColumn -->
+</div><!--close wideA -->
+</div><!--close spanAB -->
+</div><!--close main -->
+<div id="footer">
+<ul class="first">
+<li class="first"><a href="http://www.nytimes.com">Home</a></li>
+<li >
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li>
+<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+</ul>    <ul>
+<li class="first"><a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&copy; 2011</a> <a href="http://www.nytco.com/">The New York Times Company</a></li>
+<li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Terms of Service</a></li>
+<li class="termsOfSale"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+<li><a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a></li>
+<li><a class="rssButton" href="http://www.nytimes.com/rss">RSS</a></li>
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+<li><a href="http://www.nytco.com/careers">Work for Us</a></li>
+<li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+</ul>
+</div>
+</div><!--close page -->
+</div><!--close shell -->
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/lib/NYTD/0.0.1/tabset.js"></script>
+<script type="text/javascript" language="JavaScript">
+    NYTD.TabSet($$('div.filmstripWithTabs')[0]);
+    </script>
+
+
+
+
+
+
+<div align="center">
+<!-- Audience Incite 300x250 Survey Banner Tag for NYTimes:
+Start Vizu Audience Incite Tag / 300x250 Survey Banner / NYTimes -->
+<iframe src="http://puma.vizu.com/cdn/00/00/29/73/incite_300x250.html?wc=NYTimes;" width="300" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+<!-- End Vizu Audience Incite Tag / 300x250 Survey Banner / NYTimes -->
+</div>
+
+
+<IMG SRC="/adx/bin/clientside/6cc7f26dQ2FQ3Elvrl0wBQ25t4,lTBQ26lBQ7CQ7CQ7CQ7C9eWl0Wp9WQ7DfQ5Dv-lWe-k" height="1" width="3">
+
+<script type="text/javascript" language="JavaScript">
+// Written by /usr/local/knews/bin/commentcount.pl Fri Dec  2 13:02:02 2011
+var NYTArticleCommentCounts = {
+"100000001190843":{count:147, commentsEnabled:false},
+"100000001190858":{count:204, commentsEnabled:false},
+"100000001190907":{count:49, commentsEnabled:false},
+"100000001191255":{count:237, commentsEnabled:false},
+"100000001191704":{count:133, commentsEnabled:false},
+"100000001191724":{count:100, commentsEnabled:false},
+"100000001191950":{count:122, commentsEnabled:false},
+"100000001192133":{count:307, commentsEnabled:false},
+"100000001192329":{count:76, commentsEnabled:false},
+"100000001190961":{count:19, commentsEnabled:false},
+"100000001177231":{count:1, commentsEnabled:true},
+"100000001177245":{count:74, commentsEnabled:true},
+"100000001179958":{count:24, commentsEnabled:false},
+"100000001180322":{count:227, commentsEnabled:true},
+"100000001183078":{count:44, commentsEnabled:false},
+"100000001183080":{count:327, commentsEnabled:false},
+"100000001183081":{count:7, commentsEnabled:false},
+"100000001183084":{count:235, commentsEnabled:false},
+"100000001183087":{count:11, commentsEnabled:false},
+"100000001183089":{count:14, commentsEnabled:false},
+"100000001183090":{count:11, commentsEnabled:false},
+"100000001183091":{count:3, commentsEnabled:false},
+"100000001183094":{count:14, commentsEnabled:false},
+"100000001184186":{count:79, commentsEnabled:false},
+"100000001184524":{count:149, commentsEnabled:false},
+"100000001186117":{count:1, commentsEnabled:false},
+"100000001186193":{count:12, commentsEnabled:true},
+"100000001186569":{count:190, commentsEnabled:false},
+"100000001189184":{count:49, commentsEnabled:false},
+"100000001190721":{count:71, commentsEnabled:false},
+"100000001191577":{count:224, commentsEnabled:false},
+"100000001191688":{count:28, commentsEnabled:false},
+"100000001191719":{count:107, commentsEnabled:false},
+"100000001191931":{count:121, commentsEnabled:false},
+"100000001191985":{count:110, commentsEnabled:false},
+"100000001192057":{count:211, commentsEnabled:false},
+"100000001192188":{count:141, commentsEnabled:false},
+"100000001192496":{count:52, commentsEnabled:false},
+"100000001192500":{count:206, commentsEnabled:false},
+"100000001192600":{count:224, commentsEnabled:false},
+"100000001192611":{count:167, commentsEnabled:false},
+"100000001193250":{count:67, commentsEnabled:false},
+"100000001193262":{count:37, commentsEnabled:false},
+"100000001193344":{count:98, commentsEnabled:false},
+"100000001193527":{count:27, commentsEnabled:false},
+"100000001193629":{count:10, commentsEnabled:false},
+"100000001193702":{count:17, commentsEnabled:false},
+"100000001193743":{count:108, commentsEnabled:false},
+"100000001193763":{count:516, commentsEnabled:false},
+"100000001193825":{count:86, commentsEnabled:false},
+"100000001193857":{count:48, commentsEnabled:false},
+"100000001193859":{count:160, commentsEnabled:false},
+"100000001193890":{count:117, commentsEnabled:false},
+"100000001193920":{count:44, commentsEnabled:false},
+"100000001193944":{count:303, commentsEnabled:false},
+"100000001193948":{count:7, commentsEnabled:false},
+"100000001194088":{count:51, commentsEnabled:false},
+"100000001194098":{count:17, commentsEnabled:true},
+"100000001194137":{count:109, commentsEnabled:false},
+"100000001194342":{count:159, commentsEnabled:false},
+"100000001194394":{count:68, commentsEnabled:false},
+"100000001194454":{count:36, commentsEnabled:false},
+"100000001194795":{count:192, commentsEnabled:false},
+"100000001194808":{count:628, commentsEnabled:false},
+"100000001194892":{count:125, commentsEnabled:false},
+"100000001195360":{count:33, commentsEnabled:false},
+"100000001195689":{count:178, commentsEnabled:false},
+"100000001195802":{count:10, commentsEnabled:false},
+"100000001195854":{count:304, commentsEnabled:false},
+"100000001195914":{count:48, commentsEnabled:false},
+"100000001195920":{count:17, commentsEnabled:false},
+"100000001195923":{count:44, commentsEnabled:false},
+"100000001195938":{count:138, commentsEnabled:false},
+"100000001195940":{count:10, commentsEnabled:false},
+"100000001195947":{count:92, commentsEnabled:false},
+"100000001195952":{count:162, commentsEnabled:false},
+"100000001195976":{count:141, commentsEnabled:false},
+"100000001195982":{count:283, commentsEnabled:false},
+"100000001196229":{count:42, commentsEnabled:false},
+"100000001196250":{count:104, commentsEnabled:true},
+"100000001196432":{count:333, commentsEnabled:false},
+"100000001196658":{count:42, commentsEnabled:false},
+"100000001196737":{count:28, commentsEnabled:true},
+"100000001196861":{count:18, commentsEnabled:false},
+"100000001196955":{count:71, commentsEnabled:true},
+"100000001196963":{count:143, commentsEnabled:false},
+"100000001197064":{count:68, commentsEnabled:false},
+"100000001197489":{count:3, commentsEnabled:false},
+"100000001197999":{count:75, commentsEnabled:false},
+"100000001198014":{count:290, commentsEnabled:false},
+"100000001198050":{count:69, commentsEnabled:true},
+"100000001198076":{count:32, commentsEnabled:true},
+"100000001198092":{count:204, commentsEnabled:false},
+"100000001198110":{count:424, commentsEnabled:false},
+"100000001198123":{count:343, commentsEnabled:false},
+"100000001198126":{count:62, commentsEnabled:false},
+"100000001198138":{count:163, commentsEnabled:false},
+"100000001198377":{count:143, commentsEnabled:true},
+"100000001198446":{count:23, commentsEnabled:true},
+"100000001198471":{count:52, commentsEnabled:true},
+"100000001198476":{count:157, commentsEnabled:true},
+"100000001198581":{count:48, commentsEnabled:true},
+"100000001198642":{count:253, commentsEnabled:false},
+"100000001199366":{count:136, commentsEnabled:true},
+"100000001199374":{count:114, commentsEnabled:true},
+"100000001199444":{count:155, commentsEnabled:false},
+"100000001199658":{count:4, commentsEnabled:true},
+"100000001200046":{count:884, commentsEnabled:true},
+"100000001200335":{count:165, commentsEnabled:false},
+"100000001200378":{count:192, commentsEnabled:false},
+"100000001200458":{count:77, commentsEnabled:false},
+"100000001200844":{count:23, commentsEnabled:true},
+"100000001201276":{count:88, commentsEnabled:true},
+"100000001201525":{count:188, commentsEnabled:true},
+"100000001202361":{count:0, commentsEnabled:true},
+"100000001202521":{count:27, commentsEnabled:true},
+"100000001202701":{count:270, commentsEnabled:false},
+"100000001202807":{count:17, commentsEnabled:true},
+"100000001202815":{count:116, commentsEnabled:false},
+"100000001202831":{count:232, commentsEnabled:true},
+"100000001202861":{count:95, commentsEnabled:true},
+"100000001202869":{count:39, commentsEnabled:true},
+"100000001202871":{count:23, commentsEnabled:true},
+"100000001202889":{count:54, commentsEnabled:true},
+"100000001202895":{count:33, commentsEnabled:true},
+"100000001202901":{count:90, commentsEnabled:true},
+"100000001203208":{count:19, commentsEnabled:true},
+"100000001203416":{count:220, commentsEnabled:true},
+"100000001203664":{count:0, commentsEnabled:true},
+"100000001188908":{count:16, commentsEnabled:true},
+"100000001194403":{count:0, commentsEnabled:true},
+"100000001194404":{count:0, commentsEnabled:true},
+"100000001194405":{count:71, commentsEnabled:true},
+"100000001194406":{count:0, commentsEnabled:true},
+"100000001194419":{count:1, commentsEnabled:true},
+"100000001194423":{count:58, commentsEnabled:true},
+"100000001194424":{count:0, commentsEnabled:true},
+"100000001194425":{count:0, commentsEnabled:true},
+"100000001194427":{count:0, commentsEnabled:true},
+"100000001194843":{count:51, commentsEnabled:true},
+"100000001197746":{count:1, commentsEnabled:true},
+"100000001201815":{count:0, commentsEnabled:true},
+"100000001201989":{count:0, commentsEnabled:true}
+};
+</script>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/homepage/articleCommentCounts.js"></script>
+<script type="text/javascript" language="JavaScript">
+    ArticleCommentCounts.apply()
+    </script>
+
+			
+		<!-- Start UPT call -->
+		<img height="1" width="3" border=0 src="http://up.nytimes.com/?d=0/10/&t=3&s=0&ui=&r=&u=movies%2enytimes%2ecom%2fpages%2fmovies%2findex%2ehtml%3fsrc%3ddayp">
+		<!-- End UPT call -->
+	
+		
+        <script language="JavaScript"><!--
+          var dcsvid="";
+          var regstatus="non-registered";
+        //--></script>
+        <script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+        <noscript>
+          <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div>
+        </noscript>
+   
+</body>
+</html>

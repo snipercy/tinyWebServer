@@ -1,0 +1,1183 @@
+Set-Cookie: ASPSESSIONIDAQBARQQT=PLPEIKFACEENOGAJOKEFIONL; path=/
+Cache-control: private
+
+<HTML>
+<HEAD>
+<TITLE>The New York Times: Weddings Directory</TITLE>
+
+<script src="http://www.nytimes.com/adx/bin/adx_remote.html?type=fastscript&page=listings.nytimes.com/weddings/listings&posall=Top5,Bottom7,Bottom8,Inv1,Inv2,Inv3,TopLeft,Middle1,TopAd&query=qstring&keywords=?"></script>
+
+<script type="text/javascript" src="http://www.nytimes.com/js/goToURL2.js"></script>
+<!-- begin site-wide js functions -->
+	<script src="http://www.nytimes.com/js/common.js"></script>
+	<script src="http://www.nytimes.com/js/todays_date.js" type="text/javascript" language="JavaScript"></script>
+
+<!-- end site-wide js functions -->
+
+<script type="text/JavaScript">
+<!--
+	//this is javascript
+
+	function nameIt() {
+    	window.name = 'nytimesmain';
+    }
+
+	function pop_me_up2(pURL,name,features){
+		new_window = window.open(pURL,name,features);
+		new_window.focus();
+	}
+
+	function changeImage(image_name,image_src) {
+   		document.images[image_name].src = image_src;
+	}
+
+	function goToURL(obj){
+		var f = (obj.section) ? obj : obj.form;
+		var selected = f.section.selectedIndex;
+		var URL = f.section.options[selected].value;
+		if (URL != "") document.location = URL;
+		return false;
+	}
+
+	if (window.self != window.top) {
+		top.location.replace(window.location.href);
+	}
+
+//-->
+</script>
+
+<!-- the following code checks for version 6.+ of the Macromedia Flash player  -->
+
+	<!-- begin VBScript Flash Detect for IE/PC -->
+	<script language="vbscript">
+		on error resume next
+		var gotFlash
+		gotFlash = False
+		gotFlash = IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.6"))
+	</script>
+	<!-- end VBScript Flash Detect for IE/PC -->
+
+	<!-- begin javascript plugin detect functions -->
+
+	<script language="javascript">
+		var targetVersion = 6;
+		//Look for correct version of Flash plugin. If found, then launch window.
+		if ((navigator.plugins) && (navigator.plugins["Shockwave Flash"])) {
+			var d = navigator.plugins["Shockwave Flash"].description;
+			var v = parseInt(d.charAt(d.indexOf(".") - 1));
+			//if the player is version 6 or above then set flag
+			gotFlash = (v >= targetVersion)	? true : false;
+		}
+	</script>
+	<!-- end javascript plugin detect functions -->
+	
+<script language="javascript">	
+function openHelp(baseURL) {
+	window.open(baseURL,"", "width=420,height=480,toolbar=no,status=no,directories=no,menubar=no,resizable=no,scrollbars=yes");
+}
+//-------------------------------------------------------------------------
+</script>
+
+<link rel="stylesheet" href="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/nyt_uls.css" type="text/css" />
+</head>
+<BODY LEFTMARGIN="5" TOPMARGIN="5" RIGHTMARGIN="0" MARGINWIDTH="5">
+
+<script>
+<!--
+if (typeof adxpos_Top5 != "undefined")
+    document.write(adxads[adxpos_Top5]);
+// -->
+</script>
+<noscript>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=cookie&pos=Top5">
+<img src="http://www.nytimes.com/adx/bin/adx_remote.html?type=noscript&page=listings.nytimes.com/weddings/listings&posall=Top5,Bottom7,Bottom8,Inv1,Inv2,Inv3,TopLeft,Middle1,TopAd&pos=Top5&query=qstring&keywords=?">
+</a></noscript>
+
+
+<TABLE WIDTH="768" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+ <TR>
+  <TD ALIGN="left" width="180"><a href="http://www.nytimes.com/index.html"><IMG src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/logo_nyt.gif" border="0"></a></TD>
+  <TD ALIGN="center" valign="bottom" width="408"><a href="http://listings.nytimes.com/weddings/searchindex.asp"><IMG src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/logo_big_interior.gif" border="0"></a></TD>
+  <TD ALIGN="right" width="180" class="text_headersmall"><script src="http://www.nytimes.com/js/print_todays_date.js" type="text/javascript" language="JavaScript"></script>&nbsp;&nbsp;</TD>
+ </TR>
+ <tr>
+  <td colspan="3"><IMG src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/spacer.gif" width="1" height="4"></td>
+
+ </TR>
+</TABLE>
+
+<TABLE WIDTH="768" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+ <TR>
+  <TD bgcolor="#000000"><img src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/spacer.gif" width="1" height="3"></TD>
+ </TR>
+</TABLE>
+
+<table width="768" cellspacing="0" cellpadding="0" valign="top" border="0">
+ <tr>
+  <td width="5"><img src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/spacer.gif" width="5" height="20"></td>
+
+  <td align="left" valign="middle" class="text_headersmall" width="379">
+   <strong>NYTimes:</strong>&nbsp;
+   <a href="http://www.nytimes.com/index.html" class="text_breadcrumb">Home</a> -
+   <a href="http://www.nytimes.com/ref/membercenter/help/siteindex.html" class="text_breadcrumb">Site Index</a> -
+   <a href="http://query.nytimes.com/search/archive.html" class="text_breadcrumb">Archive</a> -
+   <a href="http://www.nytimes.com/membercenter/sitehelp.html" class="text_breadcrumb">Help</a>
+
+  </td>
+  <td align="right" valign="middle" class="text_headersmall" width="379">
+   <strong>Weddings Directory Help:</strong>&nbsp;
+   <a href="JavaScript:openHelp('http://listings.nytimes.com/weddings/help.html')" class="text_breadcrumb">FAQs</a> |
+   <a href="JavaScript:openHelp('http://listings.nytimes.com/weddings/help.html#Contact')" class="text_breadcrumb">Contact Us</a>
+  </td>
+  <td width="5"><img src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/spacer.gif" width="5" height="20"></td>
+
+ </tr>
+ <tr>
+  <td width="768" colspan="4" bgcolor="#000000"><img src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/spacer.gif" width="768" height="1"></td>
+ </tr>	
+</table>
+
+<table border="0" cellspacing="0" cellpadding="0" width="768" background="images/bg_header.gif">
+ <tr>
+  <td colspan="5"><img src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/spacer.gif" width="1" height="5"></td>
+ </tr>
+
+ <tr>
+  <td width="5"><img src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/spacer.gif" width="5" height="1"></td>
+  <td align="left">
+  <div id="LgyCelebrationsContent">
+   <table cellspacing="0" cellpadding="0" border="0">
+    <form name="sectionform" onsubmit="return goToURL(this);">
+    <tr>
+	 <td valign="center">
+	  <span class="text_headersmall">
+
+	  <select name="section" onchange="goToURL(this);" class="text_headersmall">
+<option selected="">Go to a Section</option>
+<option>-----------------------</option>
+<option value="http://www.nytimes.com/pages/arts/index.html?gts">Arts</option>
+<option value="http://www.nytimes.com/pages/automobiles/index.html?gts">Automobiles</option>
+<option value="http://www.nytimes.com/pages/books/index.html?gts">Books</option>
+<option value="http://www.nytimes.com/pages/business/index.html?gts">Business</option>
+<option value="http://www.nytimes.com/pages/cartoons/index.html?gts">Cartoons</option>
+
+<option value="http://www.nytimes.com/classifieds/index.html">Classifieds</option>
+<option value="http://www.nytimes.com/corrections.html?gts">Corrections</option>
+<option value="http://www.nytimes.com/pages/crosswords/index.html?gts">Crossword/Games</option>
+<option value="http://www.nytimes.com/pages/dining/index.html?gts">Dining & Wine</option>
+<option value="http://www.nytimes.com/pages/opinion/index.html?gts">Editorials/Op-Ed</option>
+<option value="http://www.nytimes.com/pages/education/index.html?gts">Education</option>
+<option value="http://www.nytimes.com/pages/fashion/index.html?gts">Fashion & Style</option>
+<option value="http://www.nytimes.com/pages/health/index.html?gts">Health</option>
+
+<option value="http://www.nytimes.com/pages/garden/index.html?gts">Home & Garden</option>
+<option value="http://www.nytimes.com/pages/world/index.html?gts">International</option>
+<option value="http://www.nytimes.com/pages/jobs/index.html?gts">Job Market</option>
+<option value="http://www.nytimes.com/learning?gts">Learning Network</option>
+<option value="http://www.nytimes.com/pages/magazine/?gts">Magazine</option>
+<option value="http://movies.nytimes.com?gts">Movies</option>
+<option value="http://www.nytimes.com/pages/multimedia/index.html?gts">Multimedia/Photos</option>
+<option value="http://www.nytimes.com/top/features/travel/destinations/unitedstates/newyork/newyorkcity/index.html?gts">NYC Guide</option>
+
+<option value="http://www.nytimes.com/pages/pageone/index.html?gts">NYT Front Page</option>
+<option value="http://www.nytimes.com/pages/national/index.html?gts">National</option>
+<option value="http://www.nytimes.com/pages/nyregion/index.html?gts">New York Region</option>
+<option value="http://www.nytimes.com/pages/obituaries/index.html?gts">Obituaries</option>
+<option value="http://www.nytimes.com/pages/readersopinions/index.html?gts">Readers' Opinions</option>
+<option value="http://www.nytimes.com/pages/realestate/index.html?gts">Real Estate</option>
+<option value="http://www.nytimes.com/pages/science/index.html?gts">Science</option>
+<option value="http://www.nytimes.com/pages/sports/index.html?gts">Sports</option>
+<option value="http://www.nytimes.com/pages/technology/index.html?gts">Technology</option>
+
+<option value="http://www.nytimes.com/top/opinion/thepubliceditor/index.html?gts">The Public Editor</option>
+<option value="http://theater.nytimes.com/pages/theater/index.html?gts">Theater</option>
+<option value="http://www.nytimes.com/pages/travel/index.html?gts">Travel</option>
+<option value="http://www.nytimes.com/pages/politics/index.html?gts">Washington</option>
+<option value="http://www.nytimes.com/weather/?gts">Weather</option>
+<option value="http://www.nytimes.com/pages/weekinreview/index.html?gts">Week in Review</option>
+<option>-----------------------</option>
+<option value="http://www.nytimes.com/ref/membercenter/help/siteindex.html#services">Services</option>
+</select>
+
+	  </span>
+	 </td>
+	 <td width="5"><img src="http://graphics.nytimes.com/images/misc/spacer.gif" width="5" height="1" border="0" alt=""/></td>
+	 <td width="17" valign="center"><input width="28" height="21" border="0" alt="Go" type="image" src="http://graphics7.nytimes.com/images/misc/go_button.gif"></td>
+	 <td width="10"><img src="http://graphics.nytimes.com/images/misc/spacer.gif" width="10" height="1" border="0" alt=""/></td>
+	</tr>
+	</form>
+   </table>
+   </div>
+
+  </td>
+  <td align="right">
+   <!--Middle1 position Search Sponsorship-->
+   <script>
+   <!--
+   if (typeof adxpos_Middle1 != "undefined")
+    document.write(adxads[adxpos_Middle1]);
+   // -->
+   </script>
+   <noscript>
+   <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=cookie&pos=Middle1">
+   <img src="http://www.nytimes.com/adx/bin/adx_remote.html?type=noscript&page=listings.nytimes.com/weddings/listings&posall=Top5,Bottom7,Bottom8,Inv1,Inv2,Inv3,TopLeft,Middle1,TopAd&pos=Middle1&query=qstring&keywords=?">
+   </a></noscript>
+  </td>
+  <td width="5"><img src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/spacer.gif" width="5" height="1"></td>
+ </tr>
+
+ <tr>
+  <td colspan="5"><img src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/spacer.gif" width="1" height="5"></td>
+ </tr>
+ <tr>
+  <td bgcolor="#cccccc" colspan="5"><img src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/spacer.gif" width="1" height="1"></td>
+ </tr>
+</table>
+
+<TABLE WIDTH="768" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+ <tr>
+
+  <TD align="center" bgcolor="#f2f2f2" width="768">
+	<!--TopAd Leaderboard-->
+	<script>
+	<!--
+	if (typeof adxpos_TopAd != "undefined")
+    	document.write(adxads[adxpos_TopAd]);
+	// -->
+	</script>
+	<noscript>
+	<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=cookie&pos=TopAd">
+	<img src="http://www.nytimes.com/adx/bin/adx_remote.html?type=noscript&page=listings.nytimes.com/weddings/listings&posall=Top5,Bottom7,Bottom8,Inv1,Inv2,Inv3,TopLeft,Middle1,TopAd&pos=TopAd&query=qstring&keywords=?">
+	</a></noscript>
+  </TD>
+ </TR>
+ <tr>
+  <td bgcolor="#cccccc" colspan="5"><img src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/spacer.gif" width="1" height="1"></td>
+
+ </tr>
+</TABLE>
+
+<TABLE WIDTH="768" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+ <TR>
+  <TD align="center">
+  <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0" background="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/menu_bg.gif">
+  <TR>
+  
+  <td align="center"><a href="http://www.nytimes.com/classifieds/" onMouseOver="document.Tab1.src='/images/Celebrations/Secure/NYTimes/menu_cm_o.gif';" onMouseOut="document.Tab1.src='/images/Celebrations/Secure/NYTimes/menu_cm.gif';"><img src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/menu_cm.gif" border="0" name="Tab1"></a></td>
+  
+  <td align="center" width="1"><img src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/menu_separator.gif" border="0"></td>
+
+  
+  <td align="center"><a href="http://listings.nytimes.com/weddings/searchindex.asp" onMouseOver="document.Tab2.src='/images/Celebrations/Secure/NYTimes/menu_weddingsdirectoryh_o.gif';" onMouseOut="document.Tab2.src='/images/Celebrations/Secure/NYTimes/menu_weddingsdirectoryh.gif';"><img src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/menu_weddingsdirectoryh.gif" border="0" name="Tab2"></a></td>
+
+  <td align="center" width="1"><img src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/menu_separator.gif" border="0"></td>
+  
+  <td align="center"><a href="http://www.legacy.com/nytimes/celebrations.asp?Page=SearchResults" onMouseOver="document.Tab3.src='/images/Celebrations/Secure/NYTimes/menu_paidannouncements_o.gif';" onMouseOut="document.Tab3.src='/images/Celebrations/Secure/NYTimes/menu_paidannouncements.gif';"><img src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/menu_paidannouncements.gif" border="0" name="Tab3"></a></td>
+
+  <td align="center" width="1"><img src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/menu_separator.gif" border="0"></td>
+  
+  <td align="center"><a href="http://listings.nytimes.com/weddings/list_listings.asp" onMouseOver="document.Tab4.src='/images/Celebrations/Secure/NYTimes/menu_weddingsdirectory_o.gif';" onMouseOut="document.Tab4.src='/images/Celebrations/Secure/NYTimes/menu_weddingsdirectory.gif';"><img src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/menu_weddingsdirectory.gif" border="0" name="Tab4"></a></td>
+  
+  <td align="center" width="1"><img src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/menu_separator.gif" border="0"></td>
+  
+  <td align="center"><a href="https://placead.nytimes.com/legacy.html" onMouseOver="document.Tab6.src='/images/Celebrations/Secure/NYTimes/menu_placeanad_o.gif';" onMouseOut="document.Tab6.src='/images/Celebrations/Secure/NYTimes/menu_placeanad.gif';"><img src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/menu_placeanad.gif" border="0" name="Tab6"></a></td>
+  
+  </TR>
+
+  </TABLE>
+  </TD>
+ </tr>
+</table>
+<table width="768" cellspacing="0" cellpadding="0" valign="top" border="0">
+ <tr>
+  <td width="588" valign="top">
+
+<!-- Legacy Content Here -->
+			<!-- Start LgyCelebrationsContent -->	
+			<div id="LgyCelebrationsContent">
+			<link rel="stylesheet" type="text/css" href="/Celebrations/CelebrationsStyle.css">
+			<link rel="stylesheet" type="text/css" href="lgyCobrand.css">
+
+			<br>
+ <script language="JavaScript">
+	<!--// Hide code		
+	function SubmitSearch(intCelebrationToDisplay) 
+	{
+		document.CelebSearchResults.CelebrationToDisplay.value = intCelebrationToDisplay;
+		document.CelebSearchResults.submit();
+	} 
+	//-->
+</script>
+ <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+    
+	<TR>
+	 <TD>
+      <TABLE WIDTH="588" border="0" cellpadding="0" cellspacing="0" class="table_maincolor">
+	   <tr>
+	    <td colspan="9" bgcolor="#FFFFFF"><img src="/images/celebrations/secure/nytimes/hd_search.gif"></td>
+	   </tr>
+	   <tr>
+		<form name="CelebSearchResults" method="Post">
+		<TD colspan="9"><IMG SRC="/images/celebrations/secure/nytimes/spacer.gif" width="1" height="2"></TD>
+	   </TR>
+	   <TR>
+        <TD WIDTH="8"><IMG SRC="/images/celebrations/secure/nytimes/spacer.gif" width="8" height="1"></TD>
+		<TD WIDTH="180">
+	      <SELECT NAME="CelebrationToDisplay" STYLE="width:180px; font-size:10px;">
+					<option value="0">- Select A Category -</option>
+  							<option value="1">&nbsp;&nbsp;&nbsp;Wedding</option>
+  							<option value="2" >&nbsp;&nbsp;&nbsp;Engagement</option>
+  							<option value="4" >&nbsp;&nbsp;&nbsp;Anniversary</option>
+  							<option value="8" >&nbsp;&nbsp;&nbsp;Commitment</option>	
+	      </SELECT>
+		</TD>
+<td width="50" class="text_small" align="center"><img src="/images/celebrations/secure/nytimes/andor.gif" border="0">&nbsp;</td>
+					<td width="119"><input type="text" name="City" style="width:119px; font-size:10px;" value="- Optional City -" onFocus="if(this.value==this.defaultValue) this.value='';" onBlur="if(this.value=='') this.value='- Optional City -';" id=text1 name=text1></td>
+					<td width="30" class="text_small" align="center"><img src="/images/celebrations/secure/nytimes/and.gif" border="0">&nbsp;</td>
+					<td width="112"><INPUT TYPE="text" name="LastName" style="width:119px; font-size:10px;" value="- Optional Last Name -" onFocus="if(this.value==this.defaultValue) this.value='';" onBlur="if(this.value=='') this.value='- Optional Last Name -';"></td>
+					<td width="60" align="right"><a href="javascript:SubmitSearch(document.CelebSearchResults.CelebrationToDisplay.value);" OnMouseover="window.status='Search';return true;" OnMouseout="window.status=' ';"><img src="/images/celebrations/secure/nytimes/but_search.gif" border="0" alt="Search"></a></td>
+					<td width="8"><img src="/images/celebrations/secure/nytimes/spacer.gif" width="8" height="1"></td>
+       </TR>
+       <TR>
+        <TD colspan="9"><IMG SRC="/images/celebrations/secure/nytimes/spacer.gif" width="1" height="8"></TD>
+       </TR>
+	   <TR>
+        <TD COLSPAN="9"><IMG SRC="/images/celebrations/secure/nytimes/ulsline_588.gif"></td>
+	   </TR>
+       </form>
+      </TABLE>
+      <br>
+	 </TD>
+	</TR>
+	<tr>
+		<td colspan="9" align="center">
+			<font class="smtext" size="1" face="arial, helvetica, sans serif" color="#333333">
+				The editorial staff of The New York Times is not involved in the selection or production of these announcements.
+			</font>
+		</td>
+	</tr>
+<tr>
+   <td colspan="9">&nbsp;</td>
+</tr>
+   </TABLE>	
+		<script language="JavaScript">
+		<!--// Hide code
+			function Sortresults(intSortOrder)
+			{
+				document.SearchResults.SortOrder.value = intSortOrder;
+				document.SearchResults.PageNo.value = "1";
+				document.SearchResults.submit();
+				return;
+			}
+
+			function JumpToResultsPage(intPageNo, intAnncPreview)
+			{
+				document.SearchResults.PageNo.value = intPageNo;
+				document.SearchResults.AnncPreview.value = intAnncPreview;
+				document.SearchResults.submit();
+				return;
+			}
+			
+			function ChangeEntriesPerPage()
+			{
+				document.SearchResults.PageNo.value = "1";
+				document.SearchResults.submit();
+			}
+			// Stop Hiding. -->
+		</script>
+		
+		<!-- BEGIN Main table. -->
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" background="http://mi-cache.legacy.com/legacy/images/Celebrations/Spacer.gif" class="lgyCelebTableBorder">
+		<tr>
+			<td colspan="6" align="center" height="24" background="http://mi-cache.legacy.com/legacy/images/Celebrations/colors/lightblue/podHdrBG.gif" class="lgyCelebTitleText">Search Results</td>
+		</tr>
+		<tr>
+			<td colspan="6"><img src="http://mi-cache.legacy.com/legacy/images/Celebrations/Spacer.gif" height="10"></td>
+		</tr>
+		<tr>
+			<td width="2%">&nbsp;</td>
+			<td colspan="2" width="55%" class="lgyCelebSubheading" align="left">
+				Page 1 of 1
+			</td>
+			<td colspan="2" width="41%" class="lgyCelebInputBox" align="right">
+				<form method="post" name="SearchResults" action="Celebrations.asp?Page=SearchResults" class="lgyCelebInputBox">
+				<input type="hidden" name="Lastname" value="">
+				<input type="hidden" name="CelebrationToDisplay" value="2047">
+				<input type="hidden" name="SortOrder" value="1">
+				<input type="hidden" name="PageNo" value="1">
+				<input type="hidden" name="AnncPreview" value="0">
+				<select name="EntriesPerPage" size="1" onChange="ChangeEntriesPerPage();">
+					<option value="10" selected>Show 10 announcements</option>
+					<option value="25" >Show 25 announcements</option>
+					<option value="50" >Show 50 announcements</option>
+					<option value="100" >Show 100 announcements</option>
+					<option value="100000" >Show all announcements</option>
+				</select>
+				</form>
+			</td>
+			<td width="2%">&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="6"><img src="http://mi-cache.legacy.com/legacy/images/Celebrations/Spacer.gif" height="10"></td>
+		</tr>
+		<tr>
+			<td width="2%">&nbsp;</td>
+			<td width="96%" colspan="4" align="left" class="lgyCelebSmall">
+				Note: Search results are displayed based on "Date Posted" with the most 
+				recent announcements appearing first.  To sort by "name" or "Celebration 
+				Type", please click on the appropriate column heading.
+			</td>
+			<td width="2%">&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="6"><img src="http://mi-cache.legacy.com/legacy/images/Celebrations/Spacer.gif" height="10"></td>
+		</tr>
+
+				<tr>
+					<td width="2%">&nbsp;</td>
+					<td width="10%" align="left" valign="top" class="lgyCelebHeaderText">
+						<a href="javascript:Sortresults(2);"><b>Category</b></a></td>
+					<td width="45%" align="center" valign="top" class="lgyCelebHeaderText">
+						<a href="javascript:Sortresults(0);"><b>Name</b></a>
+					</td>
+					<td width="25%" align="center" valign="top" class="lgyCelebHeaderText">
+						<a href="javascript:Sortresults(3);"><b>City, State</b></a>
+					</td>
+					<td width="16%" align="center" valign="top" class="lgyCelebHeaderText">
+						<a href="javascript:Sortresults(1);"><b>Date Posted</b></a>
+					</td>
+					<td width="2%">&nbsp;</td>
+			</tr>
+			<tr>
+				<td colspan="6"><img src="http://mi-cache.legacy.com/legacy/images/Celebrations/Spacer.gif" height="10"></td>
+			</tr>
+
+
+					<tr bgcolor="#666666">
+						<td colspan="6"><img src="http://mi-cache.legacy.com/legacy/images//Celebrations/spacer.gif" width="1" height="1"></td>         
+					</tr>
+					<tr height="25">
+						<td width="2%" class="lgyCelebSearchResults1">&nbsp;</td>
+						<td width="12%" align="left" class="lgyCelebSearchResults1" valign="top">
+							Engagement
+						</td>
+						<td width="45%" align="center" class="lgyCelebSearchResults1" valign="top">
+							<a href="Celebrations.asp?Page=Announcement&PersonID=154754445">
+								Oskar&nbsp;Torres & Jimmy&nbsp;Lam
+							</a>
+						</td>
+						<td width="25%" align="center" class="lgyCelebSearchResults1" valign="top">
+							Jersey City, NJ
+						</td>
+						<td width="16%" align="center" class="lgyCelebSearchResults1" valign="top">
+							11/26/2011
+						</td>
+						<td width="2%" class="lgyCelebSearchResults1" valign="top">&nbsp;</td>
+					</tr>
+					<tr>
+						<td width="2%" valign="top">&nbsp;</td>
+						<td colspan="3" height="20" class="lgyCelebSearchResults3" valign="top">
+							We did it! 11.11.11 We're in love, the rings are beautiful, and both of us are thrilled to announce our engagement. we met 9 years &nbsp;....&nbsp;&nbsp;&nbsp;<a href="Celebrations.asp?Page=Announcement&PersonID=154754445">More</a>
+						</td>
+						<td height="20" align="center" valign="top">
+													
+								<a href="Celebrations.asp?Page=Announcement&PersonID=154754445"><img src="http://mi-cache.legacy.com/legacy/images/Celebrations/Photos/NYTIMES/photo_154754445.jpg" width="50" border="0"></a>
+		
+						</td>
+						<td width="2%">&nbsp;</td>
+					</tr>
+
+						<tr>
+							<td width="2%" valign="top">&nbsp;</td>
+							<td width="98%" colspan="4">
+								<a href="Celebrations.asp?Page=GB&PersonID=154754445">Sign the Guest Book</a>
+							</td>
+							<td width="2%" valign="top">&nbsp;</td>
+						</tr>
+
+					<tr class="#666666">
+						<td colspan="6"><img src="http://mi-cache.legacy.com/legacy/images//Celebrations/spacer.gif" width="1" height="1"></td>         
+					</tr>
+
+					<tr bgcolor="#666666">
+						<td colspan="6"><img src="http://mi-cache.legacy.com/legacy/images//Celebrations/spacer.gif" width="1" height="1"></td>         
+					</tr>
+					<tr height="25">
+						<td width="2%" class="lgyCelebSearchResults2">&nbsp;</td>
+						<td width="12%" align="left" class="lgyCelebSearchResults2" valign="top">
+							Anniversary
+						</td>
+						<td width="45%" align="center" class="lgyCelebSearchResults2" valign="top">
+							<a href="Celebrations.asp?Page=Announcement&PersonID=154413023">
+								Meredith&nbsp;&&nbsp;Christopher&nbsp;Coronato
+							</a>
+						</td>
+						<td width="25%" align="center" class="lgyCelebSearchResults2" valign="top">
+							New York, NY
+						</td>
+						<td width="16%" align="center" class="lgyCelebSearchResults2" valign="top">
+							10/30/2011
+						</td>
+						<td width="2%" class="lgyCelebSearchResults2" valign="top">&nbsp;</td>
+					</tr>
+					<tr>
+						<td width="2%" valign="top">&nbsp;</td>
+						<td colspan="3" height="20" class="lgyCelebSearchResults3" valign="top">
+							Christopher Coronato and Meredith Coronato of New York, NY, will celebrate their first wedding anniversary on Tuesday, November 1, 2011. In the past year, they &nbsp;....&nbsp;&nbsp;&nbsp;<a href="Celebrations.asp?Page=Announcement&PersonID=154413023">More</a>
+						</td>
+						<td height="20" align="center" valign="top">
+													
+								<a href="Celebrations.asp?Page=Announcement&PersonID=154413023"><img src="http://mi-cache.legacy.com/legacy/images/Celebrations/Photos/NYTIMES/photo_154413023.jpg" width="50" border="0"></a>
+		
+						</td>
+						<td width="2%">&nbsp;</td>
+					</tr>
+
+						<tr>
+							<td width="2%" valign="top">&nbsp;</td>
+							<td width="98%" colspan="4">
+								<a href="Celebrations.asp?Page=GB&PersonID=154413023">Sign the Guest Book</a>
+							</td>
+							<td width="2%" valign="top">&nbsp;</td>
+						</tr>
+
+					<tr class="#666666">
+						<td colspan="6"><img src="http://mi-cache.legacy.com/legacy/images//Celebrations/spacer.gif" width="1" height="1"></td>         
+					</tr>
+
+					<tr bgcolor="#666666">
+						<td colspan="6"><img src="http://mi-cache.legacy.com/legacy/images//Celebrations/spacer.gif" width="1" height="1"></td>         
+					</tr>
+					<tr height="25">
+						<td width="2%" class="lgyCelebSearchResults1">&nbsp;</td>
+						<td width="12%" align="left" class="lgyCelebSearchResults1" valign="top">
+							Engagement
+						</td>
+						<td width="45%" align="center" class="lgyCelebSearchResults1" valign="top">
+							<a href="Celebrations.asp?Page=Announcement&PersonID=154302573">
+								Samanta&nbsp;Maisuls & Christopher&nbsp;Desrochers
+							</a>
+						</td>
+						<td width="25%" align="center" class="lgyCelebSearchResults1" valign="top">
+							New York, NY
+						</td>
+						<td width="16%" align="center" class="lgyCelebSearchResults1" valign="top">
+							10/28/2011
+						</td>
+						<td width="2%" class="lgyCelebSearchResults1" valign="top">&nbsp;</td>
+					</tr>
+					<tr>
+						<td width="2%" valign="top">&nbsp;</td>
+						<td colspan="3" height="20" class="lgyCelebSearchResults3" valign="top">
+							The Bride is from Buenos Aires, Argentina and the Groom from Woonsocket, Rhode Island. They are to be married in New York City in an &nbsp;....&nbsp;&nbsp;&nbsp;<a href="Celebrations.asp?Page=Announcement&PersonID=154302573">More</a>
+						</td>
+						<td height="20" align="center" valign="top">
+													
+								<a href="Celebrations.asp?Page=Announcement&PersonID=154302573"><img src="http://mi-cache.legacy.com/legacy/images/Celebrations/Photos/NYTIMES/photo_154302573.jpg" width="50" border="0"></a>
+		
+						</td>
+						<td width="2%">&nbsp;</td>
+					</tr>
+
+						<tr>
+							<td width="2%" valign="top">&nbsp;</td>
+							<td width="98%" colspan="4">
+								<a href="Celebrations.asp?Page=GB&PersonID=154302573">Sign the Guest Book</a>
+							</td>
+							<td width="2%" valign="top">&nbsp;</td>
+						</tr>
+
+					<tr class="#666666">
+						<td colspan="6"><img src="http://mi-cache.legacy.com/legacy/images//Celebrations/spacer.gif" width="1" height="1"></td>         
+					</tr>
+
+					<tr bgcolor="#666666">
+						<td colspan="6"><img src="http://mi-cache.legacy.com/legacy/images//Celebrations/spacer.gif" width="1" height="1"></td>         
+					</tr>
+					<tr height="25">
+						<td width="2%" class="lgyCelebSearchResults2">&nbsp;</td>
+						<td width="12%" align="left" class="lgyCelebSearchResults2" valign="top">
+							Wedding
+						</td>
+						<td width="45%" align="center" class="lgyCelebSearchResults2" valign="top">
+							<a href="Celebrations.asp?Page=Announcement&PersonID=152843614">
+								Eliane&nbsp;Prates & Kim&nbsp;Svennesen
+							</a>
+						</td>
+						<td width="25%" align="center" class="lgyCelebSearchResults2" valign="top">
+							Sao Paulo and Vejle
+						</td>
+						<td width="16%" align="center" class="lgyCelebSearchResults2" valign="top">
+							8/2/2011
+						</td>
+						<td width="2%" class="lgyCelebSearchResults2" valign="top">&nbsp;</td>
+					</tr>
+					<tr>
+						<td width="2%" valign="top">&nbsp;</td>
+						<td colspan="3" height="20" class="lgyCelebSearchResults3" valign="top">
+							Eliane Prates and Kim Svennesen were married Friday noon 8th of July in Las Vegas, Nevada. The Rev. Tim Rowland performed the ceremony at The &nbsp;....&nbsp;&nbsp;&nbsp;<a href="Celebrations.asp?Page=Announcement&PersonID=152843614">More</a>
+						</td>
+						<td height="20" align="center" valign="top">
+													
+								<a href="Celebrations.asp?Page=Announcement&PersonID=152843614"><img src="http://mi-cache.legacy.com/legacy/images/Celebrations/Photos/NYTIMES/photo_152843614.jpg" width="50" border="0"></a>
+		
+						</td>
+						<td width="2%">&nbsp;</td>
+					</tr>
+
+						<tr>
+							<td width="2%" valign="top">&nbsp;</td>
+							<td width="98%" colspan="4">
+								<a href="Celebrations.asp?Page=GB&PersonID=152843614">Sign the Guest Book</a>
+							</td>
+							<td width="2%" valign="top">&nbsp;</td>
+						</tr>
+
+					<tr class="#666666">
+						<td colspan="6"><img src="http://mi-cache.legacy.com/legacy/images//Celebrations/spacer.gif" width="1" height="1"></td>         
+					</tr>
+
+					<tr bgcolor="#666666">
+						<td colspan="6"><img src="http://mi-cache.legacy.com/legacy/images//Celebrations/spacer.gif" width="1" height="1"></td>         
+					</tr>
+					<tr height="25">
+						<td width="2%" class="lgyCelebSearchResults1">&nbsp;</td>
+						<td width="12%" align="left" class="lgyCelebSearchResults1" valign="top">
+							Wedding
+						</td>
+						<td width="45%" align="center" class="lgyCelebSearchResults1" valign="top">
+							<a href="Celebrations.asp?Page=Announcement&PersonID=151290961">
+								Amalia&nbsp;Dutra & Ricardo&nbsp;Espinola
+							</a>
+						</td>
+						<td width="25%" align="center" class="lgyCelebSearchResults1" valign="top">
+							Rockville, MD
+						</td>
+						<td width="16%" align="center" class="lgyCelebSearchResults1" valign="top">
+							5/25/2011
+						</td>
+						<td width="2%" class="lgyCelebSearchResults1" valign="top">&nbsp;</td>
+					</tr>
+					<tr>
+						<td width="2%" valign="top">&nbsp;</td>
+						<td colspan="3" height="20" class="lgyCelebSearchResults3" valign="top">
+							We are very happy to invite you to share this special moment of our lives by joining us to celebrate our wedding. When: May 28, &nbsp;....&nbsp;&nbsp;&nbsp;<a href="Celebrations.asp?Page=Announcement&PersonID=151290961">More</a>
+						</td>
+						<td height="20" align="center" valign="top">
+													
+								<a href="Celebrations.asp?Page=Announcement&PersonID=151290961"><img src="http://mi-cache.legacy.com/legacy/images/Celebrations/Photos/NYTIMES/photo_151290961.jpg" width="50" border="0"></a>
+		
+						</td>
+						<td width="2%">&nbsp;</td>
+					</tr>
+
+						<tr>
+							<td width="2%" valign="top">&nbsp;</td>
+							<td width="98%" colspan="4">
+								<a href="Celebrations.asp?Page=GB&PersonID=151290961">Sign the Guest Book</a>
+							</td>
+							<td width="2%" valign="top">&nbsp;</td>
+						</tr>
+
+					<tr class="#666666">
+						<td colspan="6"><img src="http://mi-cache.legacy.com/legacy/images//Celebrations/spacer.gif" width="1" height="1"></td>         
+					</tr>
+
+					<tr bgcolor="#666666">
+						<td colspan="6"><img src="http://mi-cache.legacy.com/legacy/images//Celebrations/spacer.gif" width="1" height="1"></td>         
+					</tr>
+					<tr height="25">
+						<td width="2%" class="lgyCelebSearchResults2">&nbsp;</td>
+						<td width="12%" align="left" class="lgyCelebSearchResults2" valign="top">
+							Engagement
+						</td>
+						<td width="45%" align="center" class="lgyCelebSearchResults2" valign="top">
+							<a href="Celebrations.asp?Page=Announcement&PersonID=148071966">
+								Mary-Katherine&nbsp;Brooks & Alexander&nbsp;Fleming
+							</a>
+						</td>
+						<td width="25%" align="center" class="lgyCelebSearchResults2" valign="top">
+							New York, NY
+						</td>
+						<td width="16%" align="center" class="lgyCelebSearchResults2" valign="top">
+							1/24/2011
+						</td>
+						<td width="2%" class="lgyCelebSearchResults2" valign="top">&nbsp;</td>
+					</tr>
+					<tr>
+						<td width="2%" valign="top">&nbsp;</td>
+						<td colspan="3" height="20" class="lgyCelebSearchResults3" valign="top">
+							Mary-Katherine Brooks and Alexander Carlson fleming are to be married on March 11, 2011 by Elder Stephen F. Brooks at the Alpine Chapel in Telluride, &nbsp;....&nbsp;&nbsp;&nbsp;<a href="Celebrations.asp?Page=Announcement&PersonID=148071966">More</a>
+						</td>
+						<td height="20" align="center" valign="top">
+													
+								<a href="Celebrations.asp?Page=Announcement&PersonID=148071966"><img src="http://mi-cache.legacy.com/legacy/images/Celebrations/Photos/NYTIMES/photo_148071966.jpg" width="50" border="0"></a>
+		
+						</td>
+						<td width="2%">&nbsp;</td>
+					</tr>
+
+						<tr>
+							<td width="2%" valign="top">&nbsp;</td>
+							<td width="98%" colspan="4">
+								<a href="Celebrations.asp?Page=GB&PersonID=148071966">Sign the Guest Book</a>
+							</td>
+							<td width="2%" valign="top">&nbsp;</td>
+						</tr>
+
+					<tr class="#666666">
+						<td colspan="6"><img src="http://mi-cache.legacy.com/legacy/images//Celebrations/spacer.gif" width="1" height="1"></td>         
+					</tr>
+			
+			<tr>
+				<td colspan="6"><img src="http://mi-cache.legacy.com/legacy/images/Celebrations/Spacer.gif" height="10"></td>
+			</tr>
+
+		<tr>
+			<td colspan="6"><img src="http://mi-cache.legacy.com/legacy/images/Celebrations/Spacer.gif" height="10"></td>
+		</tr>
+		</table>
+		<!-- END Main table. -->
+
+		<script language="javascript1.1" src="http://WWW.LEGACY.COM/script/js/trends/legni.js"></script>
+<!-- Begin comScore Tag -->  <script>      document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));  </script>    <script>    COMSCORE.beacon({      c1:2,      c2:6036000,      c3:"",      c4:"",      c5:"",      c6:"",      c15:""    });  </script>  <noscript>    <img src="http://b.scorecardresearch.com/b?c1=2&c2=6036000&c3=&c4=&c5=&c6=&c15=&cv=1.3&cj=1" style="display:none" width="0" height="0" alt="" />  </noscript>  <!-- End comScore Tag --> <!-- Start Quantcast tag -->  <script type="text/javascript">  _qoptions={  qacct:"p-57OGVHgSOoedo"  };  </script>  <script type="text/javascript" src="//secure.quantserve.com/quant.js"></script>  <noscript>  <img src="//secure.quantserve.com/pixel/p-57OGVHgSOoedo.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>  </noscript>  <!-- End Quantcast tag --><script language="JavaScript">
+<!--// Hide code
+	function EditLayout(formobj)
+	{
+		var strPage = '/Celebrations/Admin/EditLayout.asp?Cobrand=NYTIMES&NewspaperId=' +
+			formobj.NewspaperId.value + '&Page=' + formobj.Page.value + '&DisplayLocation=' +
+			formobj.DisplayLocation.value + '&ReturnToUrl=' + escape(document.location.href);
+		window.open(strPage, 'editlayout', 'menubar=no,scrollbars=no,height=430,width=800,dependent=yes,left=50,top=50');
+
+		return;
+	}
+
+	function EditModule(intModule)
+	{
+		strHref = document.location.href;
+					
+		re = /\&ModEdit=\d+/i;
+		strHref = strHref.replace(re, "");
+					
+		re = /\?ModEdit=\d+\&/i;
+		strHref = strHref.replace(re, "?");
+					
+		re = /\?ModEdit=\d+/i;
+		strHref = strHref.replace(re, "");
+					
+		if( strHref.indexOf("?") != -1 )
+		{
+			strHref = strHref + "&ModEdit=" + intModule;
+		}
+		else
+		{
+			strHref = strHref + "?ModEdit=" + intModule;
+		}
+					
+		document.location.href = strHref;
+	}
+
+	function CancelModuleEdit()
+	{
+		strHref = document.location.href;
+					
+		re = /\&ModEdit=\d+/i;
+		strHref = strHref.replace(re, "");
+					
+		re = /\?ModEdit=\d+\&/i;
+		strHref = strHref.replace(re, "?");
+					
+		re = /\?ModEdit=\d+/i;
+		strHref = strHref.replace(re, "");
+					
+		document.location.href = strHref;
+	}
+		
+	function HelpModule(intModule)
+	{
+		window.open('/Celebrations/Popups/Help.asp?Cobrand=NYTIMES&ModId=' + intModule,'help', 
+			'menubar=no,scrollbars=no,height=240,width=460,dependent=yes,left=50,top=50');
+
+		return;
+	}
+
+	function Login()
+	{
+		var strLoginPage = '/Celebrations/Admin/Login.asp?Cobrand=NYTIMES&Popup=1&Url=' + encodeURIComponent(document.location.href);
+		window.open(strLoginPage, 'login', 'menubar=no,scrollbars=yes,height=400,width=640,dependent=yes,left=50,top=50');
+
+		return;
+	}
+
+	function OpenGuestBookGuidelines(AnnouncementType)
+	{
+		window.open('/Celebrations/Popups/GuestbookGuidelines.asp?Cobrand=NYTIMES&CelebType='+AnnouncementType,'gbguidelines', 
+			'menubar=no,scrollbars=no,height=240,width=460,dependent=yes,left=50,top=50');
+
+		return;
+	}
+	
+	function OpenGuidelines()
+	{
+		window.open('/Celebrations/Popups/NYTimesGuidelines.asp?Cobrand=NYTIMES','gbguidelines', 
+			'menubar=no,scrollbars=no,height=500,width=460,dependent=yes,left=50,top=50');
+
+		return;
+	}
+
+	function OpenSample()
+	{
+		window.open('Celebrations.asp?Page=Announcement&PersonID=1746137','sample');
+
+		return;
+	}
+
+	function PopupTips(strPopupType)
+	{
+		var strOptions = "";
+		var strPageName = "";
+		
+		if( strPopupType == "OnlineOrderTips" )
+		{
+			strPageName = "PopupTips.asp?Tip=OnlineOrder"
+			strOptions = "menubar=no,scrollbars=yes,height=480,width=460,dependent=yes,left=50,top=50";
+		}
+		else if( strPopupType == "ProfileTips" )
+		{
+			strPageName = "PopupTips.asp?Tip=Profile"
+			strOptions = "menubar=no,scrollbars=yes,height=300,width=460,dependent=yes,left=50,top=50";
+		}
+		else if( strPopupType == "GuestbookTips" )
+		{
+			strPageName = "PopupTips.asp?Tip=Guestbook"
+			strOptions = "menubar=no,scrollbars=yes,height=370,width=460,dependent=yes,left=50,top=50";
+		}
+		else if( strPopupType == "RegistryTips" )
+		{
+			strPageName = "PopupTips.asp?Tip=Registry"
+			strOptions = "menubar=no,scrollbars=yes,height=320,width=460,dependent=yes,left=50,top=50";
+		}
+		else
+		{
+			strPageName = "PopupTips.asp?Tip=" + strPopupType
+			strOptions = "menubar=no,scrollbars=yes,height=320,width=460,dependent=yes,left=50,top=50";
+		}
+		
+		window.open('/Celebrations/Popups/'+strPageName+'&Cobrand=NYTIMES','tips', strOptions);
+
+		return;
+	}
+
+	// Stop Hiding. -->
+</script>
+
+
+	<SCRIPT LANGUAGE="JavaScript">
+	<!-- Begin
+		jsver = "1.0";
+	// End -->
+	</SCRIPT>
+
+	<SCRIPT LANGUAGE="JavaScript1.1">
+	<!-- Begin
+		jsver = "1.1";
+	// End -->
+	</SCRIPT>
+
+	<SCRIPT Language="JavaScript1.2">
+	<!-- Begin
+		jsver = "1.2";
+	// End -->
+	</SCRIPT>
+
+	<SCRIPT Language="JavaScript1.3">
+	<!-- Begin
+		jsver = "1.3";
+	// End -->
+	</SCRIPT>
+	
+			</div>
+			<!-- End LgyCelebrationsContent -->	
+
+
+<P><IMG height=1 
+src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/spacer.gif" width=20></TD> <!----------------------------- Start Right Rail (rightrail.html) -----------------------------><TD 
+valign="top" width="160"><BR>
+
+<TABLE cellSpacing=0 cellPadding=0 width=160 border=0>
+  
+  <TR>
+    <TD colSpan=3><IMG 
+      src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/hd_weddingsandcelebrations.gif"></TD></TR>
+  <TR>
+    <TD width=2 bgColor=#cccccc><IMG height=1 
+      src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/spacer.gif" width=2></TD>
+    <TD align=middle>
+      <TABLE class=text_placeanad cellSpacing=0 cellPadding=8 border=0>
+        
+        <TR>
+          <TD><FONT face=arial,Verdana,sans-serif,Helevetica 
+            color=#000066>Read The Times's weekly stories and Vows column. Learn 
+            how to <A class=text_breadcrumb 
+            href="http://www.nytimes.com/ref/fashion/weddings/howtosubmitwedding.html">submit 
+            your own announcement</A> for editorial review.</FONT><BR><IMG 
+            height=8 src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/spacer.gif" 
+            width=1><BR>- <A class=text_breadcrumb 
+            href="http://www.nytimes.com/pages/fashion/weddings/index.html">Go 
+            to Weddings & Celebrations</A><BR><IMG height=8 
+            src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/spacer.gif" width=1><BR>- 
+            <A class=text_breadcrumb 
+            href="http://forums.nytimes.com/top/opinion/readersopinions/forums/stylegarden/weddingscelebrations/index.html">Share 
+            Your Wedding Story</A> </TD></TR></TABLE></TD>
+
+    <TD width=2 bgColor=#cccccc><IMG height=1 
+      src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/spacer.gif" width=2></TD></TR>
+  <TR>
+    <TD bgColor=#cccccc colSpan=3><IMG height=2 
+      src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/spacer.gif" 
+width=1></TD></TR></TABLE><BR>
+<SCRIPT language=JavaScript type=text/javascript>
+function open_popup(url, w, h, resize, scroll) {
+  var properties = "toolbar=0,location=0,directories=0,status=0,menubar=0,copyhistory=0,scrollbars="+ scroll +".resizeable="+ resize +",width="+ w +",height="+ h;
+  var child = window.open(url,"popup", properties);
+
+}
+</SCRIPT></P>
+<DIV id=LgyCelebrationsContent>
+<TABLE class=table_maincolor cellSpacing=0 cellPadding=0 width=160 border=0>
+  
+  <TR>
+    <TD colSpan=3><IMG 
+      src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/hd_weddingtoolsknot.gif"></TD></TR>
+  <TR>
+    <TD><IMG height=1 src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/spacer.gif" 
+      width=10></TD>
+
+    <TD align=middle>
+      <TABLE cellSpacing=0 cellPadding=0 border=0>
+        
+        <TR>
+          <TD>
+            <TABLE class=text_placeanad cellSpacing=0 cellPadding=2 border=0>
+              <FORM name=search 
+              action=http://www.giftregistrylocator.com/parallelsearch.plx 
+              method=post Target="_blank"><INPUT type=hidden value=nytimes name=skin> 
+              <TBODY>
+              <TR>
+                <TD colSpan=2><A 
+                  target="_blank" href="http://urs.theknot.com/parallelsearch.plx?skin=nytimes">Gift 
+                  Registry</A><BR>Find a couple's web page & gift registry 
+                  at The Knot & other stores 
+                  nationwide. </TD></TR>
+
+              <TR>
+                <TD><INPUT 
+                  style="FONT-SIZE: 10px; WIDTH: 65px; FONT-FAMILY: verdana,arial" 
+                  onfocus="this.value=''" tabIndex=1 maxLength=16 size=7 
+                  value="First Name" name=firstname></TD>
+                <TD><INPUT 
+                  style="FONT-SIZE: 10px; WIDTH: 65px; FONT-FAMILY: verdana,arial" 
+                  onfocus="this.value=''" tabIndex=2 maxLength=24 size=7 
+                  value="Last Name" name=lastname></TD></TR>
+              <TR>
+                <TD colSpan=2><INPUT tabIndex=3 type=image 
+                  alt="Go: search for wedding registry" 
+                  src="http://a1000.g.akamaitech.net/f/1000/806/12h/images.theknot.com/homepage/sr_go_bt.gif" 
+                  border=0 name=submit><BR></TD></TR>
+              <TR>
+                <TD colSpan=2 height=4></TD></TR>
+              <TR>
+                <TD colSpan=2>
+
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    
+                    <TR>
+                      <TD bgColor=#bed5eb height=1><IMG height=1 
+                        src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/spacer.gif" 
+                        width=1></TD></TR></TABLE></TD></TR></FORM>
+              <TR>
+                <TD colSpan=2><B>Other Useful Tools:<BR></B></TD>
+              <TR>
+                <TD colSpan=2><A 
+                  href="http://nytimes.theknot.com/pl_checklist.cgi" target="_blank">Wedding 
+                  Checklist</A><BR></TD></TR>
+              <TR>
+
+                <TD colSpan=2><A 
+                  href="http://nytimes.theknot.com/pl_budget.cgi" target="_blank">Wedding 
+                  Budgeter</A><BR></TD></TR>
+              <TR>
+                <TD colSpan=2 
+    height=5></TD></TR></TABLE></TD></TR></TABLE></TD>
+    <TD><IMG height=1 src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/spacer.gif" 
+      width=10></TD></TR>
+  <TR>
+    <TD colSpan=3><IMG 
+      src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/ulsline_160.gif"></TD></TR></TBODY></TABLE></DIV>
+<DIV id=LgyCelebrationsContent>
+<SCRIPT language=javascript 
+src="http://www.legacy.com/Celebrations/Services/FeaturedAnnouncement.asp?Script=1&Cobrand=NYTimes"></SCRIPT>
+<br>
+
+<SCRIPT language=javascript>
+	if( LegacyFeaturedAnnouncementIsAvailable() == 1 )
+	{
+		document.write('<TABLE WIDTH="160" border="0" cellpadding="0" cellspacing="0" class="table_maincolor">');
+		document.write(' <tr>');
+		document.write('  <td><img src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/hd_featuredannouce.gif"></td>');
+		document.write(' </tr>');
+		document.write(' <tr>');
+		document.write('  <td align="center">');
+		document.write('   <table cellpadding="8" cellspacing="0" border="0" class="text_placeanad">');
+		document.write('    <tr>');
+		document.write('	 <td class="text_featuredad" align="center">');
+		document.write('	  <TABLE cellpadding="0" cellspacing="0" style="border: 1px solid #999999;" align="center">');
+		document.write('	   <tr>');
+		document.write('	    <td><a href="' + LegacyFeaturedAnnouncementLinkUrl() + '"><img src="' + LegacyFeaturedAnnouncementImageUrl() + '" width="138" style="border:2px #FFFFFF solid;"></a></td>');
+		document.write('	   </tr>');
+		document.write('	  </table>');
+		document.write('	  <img src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/spacer.gif" width="1" height="8"><br>');
+		document.write('	  <a href="' + LegacyFeaturedAnnouncementLinkUrl() + '">' + LegacyFeaturedAnnouncementName() + '</a><br>');
+		document.write('      ' + LegacyFeaturedAnnouncementType() + '<br>');
+		document.write('	 </td>');
+		document.write('	</tr>');
+		document.write('   </table>');
+		document.write('  </td>');
+		document.write(' </tr>');
+		document.write(' <TR>');
+		document.write('  <TD><IMG src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/ulsline_160.gif"></td>');
+		document.write(' </TR>');
+		document.write('</table>');
+	}
+</SCRIPT>
+<BR>
+
+<TABLE WIDTH="160" border="0" cellpadding="0" cellspacing="0" class="table_maincolor">
+ <tr>
+  <td colspan="3"><img src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/hd_placead.gif"></td>
+ </tr>
+ <tr>
+  <TD><img src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/spacer.gif" width="10" height="1"></TD>
+  <td align="center">
+
+   <table cellpadding="0" cellspacing="0" border="0" class="text_placeanad">
+    <tr>
+	 <td>
+	  Have your listing seen by 14 million NYTimes.com visitors each month.<br><img src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/spacer.gif" width="1" height="6"><br>
+	  
+	  <B>Getting Married?</b><BR><a href="https://placead.nytimes.com/legacy.html">Click here</a> to list your paid announcement online. Include photos, a guestbook and more.<br><img src="images/spacer.gif" width="1" height="4"><br>You can also share the happy news in The New York Times newspaper's Social Announcements, a new bannered advertising section every week in Sunday Styles. To advertise in print, call 1-800-458-5522.<br><img src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/spacer.gif" width="1" height="6"><br>
+
+      <B>Have a Wedding-related business or service?</B><BR><a href="https://placead.nytimes.com/default.asp?CategoryID=NYTWED">Click here</a> to list your business or service in the NYTimes.com Weddings Directory. Include 45 lines of text, photos links to your website, email address and more!<br><img src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/spacer.gif" width="1" height="6"><br>
+	 </td>
+	</tr>
+   </table>
+  </td>
+  <TD><img src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/spacer.gif" width="10" height="1"></TD>
+ </tr>
+
+ <TR>
+  <TD colspan="3"><IMG SRC="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/ulsline_160.gif"></td>
+ </TR>
+</table>
+
+
+</TD>
+<!----------------------------- End Right Rail -----------------------------></TR></TABLE><!----------------------------- Start Footer (footer.html) -----------------------------><BR>
+<br>
+<TABLE WIDTH="768" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+ <tr>
+  <td width="768" align="center" class="footer">
+
+   <a class="footerlink" href="http://www.nytimes.com/classifieds/">Classifieds Marketplace</a> |
+   <a class="footerlink" href="http://listings.nytimes.com/weddings/searchindex.asp">Weddings Directory Home</a> |
+   <a class="footerlink" href="http://www.legacy.com/nytimes/celebrations.asp?Page=SearchResults">Paid Announcements</a> |
+   <a class="footerlink" href="http://listings.nytimes.com/weddings/List_listings.asp">Weddings Services</a> |
+   <a class="footerlink" href="https://placead.nytimes.com/legacy.html">Place an Ad</a>
+  </td>
+
+ </TR>
+</TABLE>	
+	
+<!-- BEGIN COPYRIGHT -->
+
+<TABLE WIDTH="768" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+ <tr>
+  <td colspan="2"><img src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/spacer.gif" width="1" height="10" border="0" /></td>
+ </TR>
+ <tr>
+  <td colspan="2" bgcolor="#CCCCCC"><img src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/spacer.gif" width="1" height="1" border="0" /></td>
+ </TR>
+
+ <tr bgcolor="#EBEBEB">
+  <td width="14"><img src="http://www.legacy.com/Images/Celebrations/Secure/NYTimes/spacer.gif" width="14" height="27" border="0" /></td>
+  <td width="764" valign="middle" class="footer">
+   <a href="http://nytimes.com/ref/membercenter/help/copyright.html" class="footerlink">Copyright The New York Times Company</a> |
+   <a href="http://www.nytimes.com/ref/membercenter/help/privacy.html" class="footerlink">Privacy Policy</a> |
+   <a href="http://nytimes.com/ref/membercenter/help/infoservdirectory.html" class="footerlink">Contact Us</a> |
+   <a href="http://www.nytimes.com/membercenter/sitehelp.html" class="footerlink">Help</a>
+
+  </td>
+ </tr>
+</TABLE>
+
+<!--Bottom7 position-->
+<script>
+<!--
+if (typeof adxpos_Bottom7 != "undefined")
+    document.write(adxads[adxpos_Bottom7]);
+// -->
+</script>
+<noscript>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=cookie&pos=Bottom7">
+<img src="http://www.nytimes.com/adx/bin/adx_remote.html?type=noscript&page=<%=AdString%>&pos=Bottom7&query=qstring&keywords=?">
+</a></noscript>
+
+<!--Bottom8 position-->
+<script>
+<!--
+if (typeof adxpos_Bottom8 != "undefined")
+    document.write(adxads[adxpos_Bottom8]);
+// -->
+</script>
+<noscript>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=cookie&pos=Bottom8">
+<img src="http://www.nytimes.com/adx/bin/adx_remote.html?type=noscript&page=<%=AdString%>&pos=Bottom8&query=qstring&keywords=?">
+</a></noscript>
+
+<!--Inv1 position-->
+<script>
+<!--
+if (typeof adxpos_Inv1 != "undefined")
+    document.write(adxads[adxpos_Inv1]);
+// -->
+</script>
+<noscript>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=cookie&pos=Inv1">
+<img src="http://www.nytimes.com/adx/bin/adx_remote.html?type=noscript&page=<%=AdString%>&pos=Inv1&query=qstring&keywords=?">
+</a></noscript>
+
+<!--Inv2 position-->
+<script>
+<!--
+if (typeof adxpos_Inv2 != "undefined")
+    document.write(adxads[adxpos_Inv2]);
+// -->
+</script>
+<noscript>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=cookie&pos=Inv2">
+<img src="http://www.nytimes.com/adx/bin/adx_remote.html?type=noscript&page=<%=AdString%>&pos=Inv2&query=qstring&keywords=?">
+
+<!--Inv3 position-->
+<script>
+<!--
+if (typeof adxpos_Inv3 != "undefined")
+    document.write(adxads[adxpos_Inv3]);
+// -->
+</script>
+<noscript>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=cookie&pos=Inv3">
+<img src="http://www.nytimes.com/adx/bin/adx_remote.html?type=noscript&page=<%=AdString%>&pos=Inv3&query=qstring&keywords=?">
+</a></noscript></DIV>
+
+</BODY>
+</HTML>

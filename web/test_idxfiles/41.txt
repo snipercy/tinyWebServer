@@ -1,0 +1,1206 @@
+Set-cookie: RMID=263d8e2c59e64ed9132ec37a; expires=Saturday, 01-Dec-2012 18:04:30 GMT; path=/; domain=.nytimes.com
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Set-cookie: adxcs=s*2814a=0:1; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Science News - The New York Times</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="noarchive">
+<meta name="description" content="Find breaking news, science news and multimedia on biology, space, the environment, health, NASA, weather, drugs, heart disease, cancer, AIDS, mental health and animals." />
+<meta name="keywords" content="Renting and Leasing (Real Estate),Series,Wells,Hydraulic Fracturing,Chesapeake Energy Corporation,Oil (Petroleum) and Gasoline,Water Pollution,Land Use Policies,Drilling and Boring,Cabot Oil &amp; Gas Corporation,Water,Natural Gas,Chemistry,Lawrence Livermore National Laboratory,Institute for Nuclear Research,International Union of Pure and Applied Chemistry,Science and Technology,Clean Air Act,Power Outages and Blackouts,Regulation and Deregulation of Industry,Energy Department,Air Pollution,North American Electric Reliability Corp,Electric Light and Power,Environmental Protection Agency,United States Politics and Government,Mines and Mining,Virginia Uranium,Chatham (Va),Virginia,Uranium,Water Pollution,Coles, Walter,Nuclear Energy,Los Angeles (Calif),Power Outages and Blackouts,Oxnard (Calif),Disasters and Emergencies,Pasadena (Calif),Wind,California,National Weather Service,Anthropology,Books and Literature,Harvard University,Evolution,Pinker, Steven,Brain,Psychology and Psychologists,Science and Technology,Aggression (Behavior),Language and Languages,Massachusetts,Museums,Organizations, Societies and Clubs,Birdwatching,Nuttall Ornithological Club,Science and Technology,Birds,Conrad, Janet,Physics,Large Hadron Collider,Wilczek, Frank A,Science and Technology,Lunch and Breakfast Programs,Layoffs and Job Reductions,Unemployment,Education (K-12),United States Economy,Cholesterol,Grassley, Charles E,Pfizer Inc,Drugs (Pharmaceuticals),Kohl, Herbert H,Baucus, Max,Generic Brands and Products,Lipitor (Drug),Lobbying and Lobbyists,Center for Health Transformation,Presidential Election of 2012,Electronic Health Records,Gingrich, Newt,Obesity,Day Care Centers,Exercise,Fruit,Vegetables,Child Care,Children and Childhood,Diet and Nutrition,Obama, Michelle,Young Men's Christian Assn,Partnership for a Healthier America,Fear (Emotion),Witnesses,Memory,Decisions and Verdicts,False Arrests, Convictions and Imprisonments,Medicine and Health,Supreme Court,Acquired Immune Deficiency Syndrome,Genetics and Heredity,Drugs (Pharmaceuticals),Genetic Engineering,Science and Technology,Genetics and Heredity,DNA (Deoxyribonucleic Acid),National Human Genome Research Institute,Computers and the Internet,Biotechnology,Beijing Genomics Institute,Research,Data Storage,Suncor Energy,Denver (Colo),Environmental Protection Agency,Refineries,Oil Spills,American Museum of Natural History,Space,Planets,Science and Technology,Books and Literature,Science and Technology,Tattoos,Wildlife Conservation Society,Jenkins, Jerry,Global Warming,Adirondack Mountains (NY),Anesthesia and Anesthetics,Water,Surgery and Surgeons,Science and Technology,Pregnancy and Obstetrics,Journal of Experimental Biology,Noren, Shawn R,Science and Technology,Dolphins and Porpoises,Science (Journal),Australia,Fishing, Commercial,East Timor,Archaeology,Science and Technology,Proceedings of the National Academy of Sciences,Ingham, Colin J,Bacteria,Fungi,Science and Technology,Diet and Nutrition,Elderly,Memory,Vitamins,Vitamin B12,Alzheimer's Disease,Medicine and Health" />
+<meta name="asset_id" content="">
+<meta name="CG" content="science">
+<meta name="SCG" content="">
+<meta name="PT" content="Section Front">
+<meta name="PST" content="">
+<link rel="canonical" href="http://www.nytimes.com/pages/science/index.html">
+<meta name="msapplication-starturl" content="http://www.nytimes.com/" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.nytimes.com/services/xml/rss/nyt/Science.xml"/>
+
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/build/sectionfront/science/styles.css" />
+<link rel="stylesheet" type="text/css" media="print" href="http://graphics8.nytimes.com/css/0.1/print/styles.css">
+<!--[if IE]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie.css);
+	    </style>
+	<![endif]-->
+<!--[if IE 6]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie6.css);
+	    </style>
+	<![endif]-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/DropDown.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/util/tooltip.js"></script>
+<script type="text/JavaScript">
+		var static_kw = "Renting and Leasing (Real Estate);Series;Wells;Hydraulic Fracturing;Chesapeake Energy Corporation;Oil (Petroleum) and Gasoline;Water Pollution;Land Use Policies;Drilling and Boring;Cabot Oil & Gas Corporation;Water;Natural Gas;Chemistry;Lawrence Livermore National Laboratory;Institute for Nuclear Research;International Union of Pure and Applied Chemistry;Science and Technology;Clean Air Act;Power Outages and Blackouts;Regulation and Deregulation of Industry;Energy Department;Air Pollution;North American Electric Reliability Corp;Electric Light and Power;Environmental Protection Agency;United States Politics and Government;Mines and Mining;Virginia Uranium;Chatham (Va);Virginia;Uranium;Water Pollution;Coles; Walter;Nuclear Energy;Los Angeles (Calif);Power Outages and Blackouts;Oxnard (Calif);Disasters and Emergencies;Pasadena (Calif);Wind;California;National Weather Service;Anthropology;Books and Literature;Harvard University;Evolution;Pinker; Steven;Brain;Psychology and Psychologists;Science and Technology;Aggression (Behavior);Language and Languages;Massachusetts;Museums;Organizations; Societies and Clubs;Birdwatching;Nuttall Ornithological Club;Science and Technology;Birds;Conrad; Janet;Physics;Large Hadron Collider;Wilczek; Frank A;Science and Technology;Lunch and Breakfast Programs;Layoffs and Job Reductions;Unemployment;Education (K-12);United States Economy;Cholesterol;Grassley; Charles E;Pfizer Inc;Drugs (Pharmaceuticals);Kohl; Herbert H;Baucus; Max;Generic Brands and Products;Lipitor (Drug);Lobbying and Lobbyists;Center for Health Transformation;Presidential Election of 2012;Electronic Health Records;Gingrich; Newt;Obesity;Day Care Centers;Exercise;Fruit;Vegetables;Child Care;Children and Childhood;Diet and Nutrition;Obama; Michelle;Young Men's Christian Assn;Partnership for a Healthier America;Fear (Emotion);Witnesses;Memory;Decisions and Verdicts;False Arrests; Convictions and Imprisonments;Medicine and Health;Supreme Court;Acquired Immune Deficiency Syndrome;Genetics and Heredity;Drugs (Pharmaceuticals);Genetic Engineering;Science and Technology;Genetics and Heredity;DNA (Deoxyribonucleic Acid);National Human Genome Research Institute;Computers and the Internet;Biotechnology;Beijing Genomics Institute;Research;Data Storage;Suncor Energy;Denver (Colo);Environmental Protection Agency;Refineries;Oil Spills;American Museum of Natural History;Space;Planets;Science and Technology;Books and Literature;Science and Technology;Tattoos;Wildlife Conservation Society;Jenkins; Jerry;Global Warming;Adirondack Mountains (NY);Anesthesia and Anesthetics;Water;Surgery and Surgeons;Science and Technology;Pregnancy and Obstetrics;Journal of Experimental Biology;Noren; Shawn R;Science and Technology;Dolphins and Porpoises;Science (Journal);Australia;Fishing; Commercial;East Timor;Archaeology;Science and Technology;Proceedings of the National Academy of Sciences;Ingham; Colin J;Bacteria;Fungi;Science and Technology;Diet and Nutrition;Elderly;Memory;Vitamins;Vitamin B12;Alzheimer's Disease;Medicine and Health";
+		var dynamic_kw = "Renting+and+Leasing+%28Real+Estate%29;Series;Wells;Hydraulic+Fracturing;Chesapeake+Energy+Corporation;Oil+%28Petroleum%29+and+Gasoline;Water+Pollution;Land+Use+Policies;Drilling+and+Boring;Cabot+Oil+%26+Gas+Corporation;Water;Natural+Gas;Chemistry;Lawrence+Livermore+National+Laboratory;Institute+for+Nuclear+Research;International+Union+of+Pure+and+Applied+Chemistry;Science+and+Technology;Clean+Air+Act;Power+Outages+and+Blackouts;Regulation+and+Deregulation+of+Industry;Energy+Department;Air+Pollution;North+American+Electric+Reliability+Corp;Electric+Light+and+Power;Environmental+Protection+Agency;United+States+Politics+and+Government;Mines+and+Mining;Virginia+Uranium;Chatham+%28Va%29;Virginia;Uranium;Water+Pollution;Coles;+Walter;Nuclear+Energy;Los+Angeles+%28Calif%29;Power+Outages+and+Blackouts;Oxnard+%28Calif%29;Disasters+and+Emergencies;Pasadena+%28Calif%29;Wind;California;National+Weather+Service;Anthropology;Books+and+Literature;Harvard+University;Evolution;Pinker;+Steven;Brain;Psychology+and+Psychologists;Science+and+Technology;Aggression+%28Behavior%29;Language+and+Languages;Massachusetts;Museums;Organizations;+Societies+and+Clubs;Birdwatching;Nuttall+Ornithological+Club;Science+and+Technology;Birds;Conrad;+Janet;Physics;Large+Hadron+Collider;Wilczek;+Frank+A;Science+and+Technology;Lunch+and+Breakfast+Programs;Layoffs+and+Job+Reductions;Unemployment;Education+%28K-12%29;United+States+Economy;Cholesterol;Grassley;+Charles+E;Pfizer+Inc;Drugs+%28Pharmaceuticals%29;Kohl;+Herbert+H;Baucus;+Max;Generic+Brands+and+Products;Lipitor+%28Drug%29;Lobbying+and+Lobbyists;Center+for+Health+Transformation;Presidential+Election+of+2012;Electronic+Health+Records;Gingrich;+Newt;Obesity;Day+Care+Centers;Exercise;Fruit;Vegetables;Child+Care;Children+and+Childhood;Diet+and+Nutrition;Obama;+Michelle;Young+Men%27s+Christian+Assn;Partnership+for+a+Healthier+America;Fear+%28Emotion%29;Witnesses;Memory;Decisions+and+Verdicts;False+Arrests;+Convictions+and+Imprisonments;Medicine+and+Health;Supreme+Court;Acquired+Immune+Deficiency+Syndrome;Genetics+and+Heredity;Drugs+%28Pharmaceuticals%29;Genetic+Engineering;Science+and+Technology;Genetics+and+Heredity;DNA+%28Deoxyribonucleic+Acid%29;National+Human+Genome+Research+Institute;Computers+and+the+Internet;Biotechnology;Beijing+Genomics+Institute;Research;Data+Storage;Suncor+Energy;Denver+%28Colo%29;Environmental+Protection+Agency;Refineries;Oil+Spills;American+Museum+of+Natural+History;Space;Planets;Science+and+Technology;Books+and+Literature;Science+and+Technology;Tattoos;Wildlife+Conservation+Society;Jenkins;+Jerry;Global+Warming;Adirondack+Mountains+%28NY%29;Anesthesia+and+Anesthetics;Water;Surgery+and+Surgeons;Science+and+Technology;Pregnancy+and+Obstetrics;Journal+of+Experimental+Biology;Noren;+Shawn+R;Science+and+Technology;Dolphins+and+Porpoises;Science+%28Journal%29;Australia;Fishing;+Commercial;East+Timor;Archaeology;Science+and+Technology;Proceedings+of+the+National+Academy+of+Sciences;Ingham;+Colin+J;Bacteria;Fungi;Science+and+Technology;Diet+and+Nutrition;Elderly;Memory;Vitamins;Vitamin+B12;Alzheimer%27s+Disease;Medicine+and+Health";
+		var nyt_google_contents = dynamic_kw + static_kw;
+		var nyt_google_ad_channel = "science";
+	</script>
+<script type="text/javascript" src="http://use.typekit.com/fml4qar.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" src="http://js.nyt.com/js2/build/sitewide/sitewide.js"></script>
+<script type="text/javascript" src="http://js.nyt.com/js/app/lib/jquery/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+</head>
+<body>
+<a name="top"></a>
+<div id="shell">
+
+<ul id="memberTools">
+
+<!-- start text link -->
+<li class="cColumn-TextAdsHeader">Subscribe:
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/science/index.html&pos=Bar1&sn2=fd8ba92/80879662&sn1=2407a328/96bf5462&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-digi-hd-d3847U-h3847W&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fsubscriptions%2FMultiproduct%2Flp5558%2Ehtml%3Fadxc%3D162578%26adxa%3D267524%26page%3Dwww.nytimes.com/pages/science/index.html%26pos%3DBar1%26campaignId%3D3847U" target="_blank">
+Digital</a> / <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/science/index.html&pos=Bar1&sn2=fd8ba92/80879662&sn1=8c0204ae/f0584be3&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-digi-hd-d3847U-h3847W&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DW47AF%26CMP%3D3847W" target="_blank">Home Delivery</a>
+</li>
+<!-- end text link -->
+
+ 
+                        <li><a id="memberToolsLogin" href="https://myaccount.nytimes.com/auth/login">Log In</a></li>
+            <li><a href="https://myaccount.nytimes.com/gst/regi.html">Register Now</a></li>
+                            
+
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+</ul>
+<div class="tabsContainer">
+<ul id="mainTabs" class="tabs">
+<li class="first mainTabHome"><a href="http://www.nytimes.com">Home Page</a></li>
+<li class="mainTabTodaysPaper"><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+<li class="mainTabVideo"><a href="http://www.nytimes.com/video">Video</a></li>
+<li class="mainTabMostPopular"><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+<li class="mainTabTimesTopics"><a href="http://topics.nytimes.com/top/reference/timestopics">Times Topics</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+</script>	<div id="page" class="tabContent active">
+<div class="clearfix" id="masthead">
+
+<div class="singleAd" id="Middle1C">
+<!-- ADXINFO classification="button" campaign="ING_DirectSiteSearchQ111_1694929-nyt1"--><A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/science/index.html&pos=Middle1C&sn2=71da27e5/cb79d84d&sn1=59756299/46b02203&camp=ING_DirectSiteSearchQ111_1694929-nyt1&ad=NEW.88x31.SiteSearch.Wizard&goto=http://ad.doubleclick.net/jump/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.30" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.30"
+ BORDER=0 WIDTH=88 HEIGHT=31
+ ALT="Click Here"></A>
+</div>
+
+<div id="searchWidget">
+<div class="inlineSearchControl">
+<form enctype="application/x-www-form-urlencoded" action="http://query.nytimes.com/search/sitesearch" method="get" name="searchForm" id="searchForm">
+<input type="hidden" value="full" name="date_select"/>
+<label for="searchQuery">Search All NYTimes.com</label>
+<input type="text" class="text" value="" size="" name="query" id="searchQuery"/>
+<input type="hidden" id="searchAll" name="type" value="nyt"/>
+<input type="image" id="searchSubmit" title="Search" alt="Search" width="22" height="19" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"/>
+</form>
+</div>
+</div>
+
+<div id="branding" >
+<a href="http://www.nytimes.com"><img src="http://graphics8.nytimes.com/images/misc/nytlogo152x23.gif" alt="New York Times" id="NYTLogo"/></a>
+</div>
+
+<div id="date">
+<p>
+Friday, December  2, 2011
+</p>
+</div>
+
+<h2>
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</h2>
+
+</div>
+<div class="navigation tabsContainer">
+<ul class="tabs">
+<li id="navWorld" class="first ">
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>	<li id="navUs" >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>	<li id="navNyregion" >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>	<li id="navBusiness" >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>	<li id="navTechnology" >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>	<li id="navScience" class="selected">
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+<ul class="subNavigation"><li id="subNav_earth"><a href="http://www.nytimes.com/pages/science/earth/index.html">Environment</a></li><li id="subNav_space"><a href="http://www.nytimes.com/pages/science/space/index.html">Space & Cosmos</a></li></ul></li>	<li id="navHealth" >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>	<li id="navSports" >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>	<li id="navOpinion" >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>	<li id="navArts" >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>	<li id="navStyle" >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>	<li id="navTravel" >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>	<li id="navJobs" >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>	<li id="navRealestate" >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>	<li id="navAutomobiles" >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li></ul>
+</div>
+
+<div class="singleAd" id="TopAd">
+<!-- ADXINFO classification="leaderboard_728" campaign="Chief_Commercial_Claims_Branch_1767627-cla2"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/science/index.html&pos=TopAd&sn2=feb66c19/a8940ca6&sn1=9c19a9ce/7bb2092&camp=Chief_Commercial_Claims_Branch_1767627-cla2&ad=10.18.11_CHI10037_NCS_728x90.gif&goto=https%3A%2F%2Fwww%2Ecia%2Egov%2Fcareers%2Fopportunities%2Fclandestine%2Fview%2Djobs%2Ehtml" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/28/04/ad.280408/10.18.11_CHI10037_NCS_728x90.gif" width="728" height="90" border="0"></a>
+
+</div>
+
+<div id="main">
+<div class="spanAB wrap">
+<div class="wideA">
+<div class="abColumn">
+<div class="aColumn">
+<!--cur:LedeStory395 prev:-->
+<div class="columnGroup first">
+<div class="ledeStory">
+<div class="storyHeader">
+<h6 class="kicker">Drilling Down</h6>
+<h1><a href="http://www.nytimes.com/2011/12/02/us/drilling-down-fighting-over-oil-and-gas-well-leases.html?ref=science">
+Learning Too Late of Perils in Gas Well Leases</a></h1>
+<h6 class="byline">
+By IAN URBINA and JO CRAVEN McGINTY            </h6>
+</div>
+<div class="ledePhoto">
+<div class="image">
+<a href="http://www.nytimes.com/2011/12/02/us/drilling-down-fighting-over-oil-and-gas-well-leases.html?ref=science"><img src="http://graphics8.nytimes.com/images/2011/12/02/us/Leases/Leases-sfSpan.jpg" border="0" width="395" height="245" alt="Jared Ely near gas wells leased on his family's land near Dimock, Pa. His father, Scott, says the leases should have been clearer." /></a>
+</div>
+<h6 class="credit">Ruth Fremson/The New York Times</h6>
+<p class="caption">Jared Ely near gas wells leased on his family's land near Dimock, Pa. His father, Scott, says the leases should have been clearer.</p>
+</div>
+<p class="summary">
+Americans have signed millions of leases allowing oil and gas companies to drill on their land, but some landowners are finding out the hard way what their contracts actually say.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/interactive/2011/12/02/us/oil-and-gas-leases.html"><span class="icon document">Document Viewer</span>: Oil and Gas Leases</a></li>
+<li><a href="http://www.nytimes.com/interactive/us/DRILLING_DOWN_SERIES.html"> Previous Articles in the Series »</a></li>
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001202831" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/02/us/drilling-down-fighting-over-oil-and-gas-well-leases.html"></span></li>
+</ul>
+</div>
+</div>
+<!--cur:StandardThumb prev:LedeStory395-->
+<div class="columnGroup ">
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/12/02/science/names-proposed-for-new-elements-on-periodic-table.html?ref=science">
+Names Proposed for 2 New Elements on Periodic Table</a></h3>
+<h6 class="byline">
+By KENNETH CHANG	    </h6>
+<p class="summary">
+The international body that oversees the periodic table of elements unveiled the proposed names for elements 114 and 116: flerovium and livermorium.</p>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/12/02/science/earth/dispute-over-new-air-pollution-rules-for-power-plants.html?ref=science">
+New Air Quality Rules for Power Plants in Dispute</a></h3>
+<h6 class="byline">
+By MATTHEW L. WALD	    </h6>
+<p class="summary">
+The Obama administration says the rules won’t cause power shortages, but an expert panel warns that compliance could strain generating capacity.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/business/energy-environment/coles-hill-uranium-mine-proposal-divides-virginia-residents.html?ref=science">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/us/URANIUM-2/URANIUM-2-thumbStandard.jpg" width="75" height="75" alt="Virginia Uranium has been pushing to open a mine in Chatham, but there is opposition." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/business/energy-environment/coles-hill-uranium-mine-proposal-divides-virginia-residents.html?ref=science">
+A Big Uranium Deposit, and a Big Debate on Mining It</a></h3>
+<h6 class="byline">
+By THEO EMERY	    </h6>
+<p class="summary">
+A proposed uranium mine has thrust Virginia into a national debate over energy security, nuclear power and the environment.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/us/santa-ana-winds-buffet-california.html?ref=science">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/us/WIND/WIND-thumbStandard.jpg" width="75" height="75" alt="In Pasadena, at least 40 buildings were so damaged by heavy winds that they will have to be torn down, officials said." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/us/santa-ana-winds-buffet-california.html?ref=science">
+Santa Ana Winds, Unusually Strong, Rattle More Than Nerves in California</a></h3>
+<h6 class="byline">
+By JENNIFER MEDINA	    </h6>
+<p class="summary">
+The winds, much more powerful than usual, snapped trees, damaged buildings and knocked power out for tens of thousands of people.</p>
+</div>
+</div>
+<!--cur:LedeStory395 prev:StandardThumb-->
+<div class="columnGroup singleRule ">
+<h6 class="sectionHeader">Science Times: Nov. 29, 2011</h6>
+<div class="ledeStory">
+<div class="storyHeader">
+<h6 class="kicker">Profiles in Science | Steven Pinker</h6>
+<h1><a href="http://www.nytimes.com/2011/11/29/science/human-natures-pathologist.html?ref=science">
+Human Nature’s Pathologist</a></h1>
+<h6 class="byline">
+By CARL ZIMMER            </h6>
+</div>
+<div class="ledePhoto">
+<div class="image">
+<a href="http://www.nytimes.com/2011/11/29/science/human-natures-pathologist.html?ref=science"><img src="http://graphics8.nytimes.com/images/2011/11/29/science/video-pinker/video-pinker-sfSpan.jpg" border="0" width="395" height="250" alt="" /></a>
+</div>
+<h6 class="credit">Tony Cenicola/The New York Times</h6>
+</div>
+<p class="summary">
+In his latest book, Steven Pinker, a leading advocate of evolutionary psychology, says our brains have produced a far less violent world.</p>
+<ul class="refer">
+<li><a href="http://video.nytimes.com/video/2011/11/28/science/100000001194711/steven-pinker.html"><img src="http://graphics8.nytimes.com/images/multimedia/icons/video_icon.gif" alt="Video" width="12" height="9" border="0"> Video: Steven Pinker</a> | <a href="http://www.nytimes.com/2011/11/29/science/pinkerisms.htm">Pinkerisms</a></li>
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001194795" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/11/29/science/human-natures-pathologist.html"></span></li>
+</ul>
+</div>
+</div>
+<!--cur:StandardThumb prev:LedeStory395-->
+<div class="columnGroup ">
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/29/science/nations-oldest-birding-group-serves-as-a-collective-memory.html?ref=science">
+<img src="http://graphics8.nytimes.com/images/2011/11/29/science/29BIRD2_SPAN/29BIRD2-thumbStandard.jpg" width="75" height="75" alt="The bird collection at the Harvard Museum of Comparative Zoology is one of the world's largest, with species like, from top, the imperial woodpecker, the ivory-billed woodpecker and the pileated woodpecker." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/29/science/nations-oldest-birding-group-serves-as-a-collective-memory.html?ref=science">
+A Venerable Birding Club, at an Epicenter of All Things Feathered</a></h3>
+<h6 class="byline">
+By CORNELIA DEAN	    </h6>
+<p class="summary">
+The Nuttall Ornithological Club, the nation’s oldest birding group, serves as a collective memory on the changing landscape of birds.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Essay</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/29/science/with-chocolate-at-stake-physicists-bet-on-whether-the-higgs-boson-will-be-found.html?ref=science">
+<img src="http://graphics8.nytimes.com/images/2011/11/29/science/29BET/29BET-thumbStandard.jpg" width="75" height="75" alt="THE WAGER In a castle in Sweden, two of the world's leading particle physicists made a bet about a long-sought and much-theorized particle." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/29/science/with-chocolate-at-stake-physicists-bet-on-whether-the-higgs-boson-will-be-found.html?ref=science">
+How Do Eminent Physicists Tackle the Higgs Boson? With Chocolate</a></h3>
+<h6 class="byline">
+By ROBERT GARISTO	    </h6>
+<p class="summary">
+In a castle in Sweden, two of the world’s leading particle physicists made a bet about an elusive, long-sought and much-theorized particle.</p>
+</div>
+</div>
+<!--cur:LedeStory395 prev:StandardThumb-->
+<div class="columnGroup singleRule ">
+<h6 class="sectionHeader">Health News</h6>
+<div class="ledeStory">
+<div class="storyHeader">
+<h1><a href="http://www.nytimes.com/2011/11/30/education/surge-in-free-school-lunches-reflects-economic-crisis.html?ref=science">
+Lines Grow Long for Free School Meals, Thanks to Economy</a></h1>
+<h6 class="byline">
+By SAM DILLON            </h6>
+</div>
+<div class="ledePhoto">
+<div class="image">
+<a href="http://www.nytimes.com/2011/11/30/education/surge-in-free-school-lunches-reflects-economic-crisis.html?ref=science"><img src="http://graphics8.nytimes.com/images/2011/11/30/us/LUNCH/LUNCH-sfSpan.jpg" border="0" width="395" height="239" alt="More than 100 students eat a free dinner daily after classes at Ingels Elementary School in Kansas City, Mo. The Hickman Mills C-1 district feared students would otherwise go to bed hungry." /></a>
+</div>
+<h6 class="credit">Steve Hebert for The New York Times</h6>
+<p class="caption">More than 100 students eat a free dinner daily after classes at Ingels Elementary School in Kansas City, Mo. The Hickman Mills C-1 district feared students would otherwise go to bed hungry.</p>
+</div>
+<p class="summary">
+Millions of students are receiving free or low-cost meals for the first time after their parents lost homes or jobs in the economic crisis.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/interactive/2011/11/30/us/rates-of-increase-in-subsidized-lunches.html"><span class="icon graphic">Graphic</span>: Rates of Increase in Subsidized Lunches</a></li>
+<li><a href="http://www.nytimes.com/2011/11/30/education/surge-in-free-school-lunches-reflects-economic-crisis.html #postcomment"><img src="http://graphics.nytimes.com/images/section/opinion/comment_icon.gif" alt="Comment" width="9" height="11" border="0"> Post a Comment</a> | <a href="http://www.nytimes.com/2011/11/30/education/surge-in-free-school-lunches-reflects-economic-crisis.html #commentsContainer">Read</a></li>
+</ul>
+</div>
+</div>
+<!--cur:HeadlineOnly prev:LedeStory395-->
+<div class="columnGroup singleRule ">
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/01/health/senators-question-plan-to-stall-generic-lipitor.html?ref=science">
+Senators Question Deals to Block Generic Lipitor</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/30/us/politics/gingrich-gave-push-to-clients-not-just-ideas.html?ref=science">
+Gingrich Gave Push to Clients, Not Just Ideas</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/30/us/ymca-healthy-living-standards-for-children.html?ref=science">
+Y.M.C.A. Adopting Health Policies for Youth</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/29/health/the-certainty-of-memory-has-its-day-in-court.html?ref=science">
+The Certainty of Memory Has Its Day in Court</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/29/health/new-hope-of-a-cure-for-hiv.html?ref=science">
+New Hope of a Cure for H.I.V.</a>
+</h6>
+</li>
+</ul>
+</div>
+<!--cur:HeadlineOnly prev:HeadlineOnly-->
+<div class="columnGroup singleRule ">
+<h3 class="sectionHeader">More News</h3>
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/01/business/dna-sequencing-caught-in-deluge-of-data.html?ref=science">
+DNA Sequencing Caught in Deluge of Data</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/01/business/energy-environment/colorado-spill-near-suncor-energy-refinery-is-investigated.html?ref=science">
+Colorado: Spill Near Refinery Is Investigated</a>
+</h6>
+</li>
+</ul>
+</div>
+<!--cur:StandardThumb prev:HeadlineOnly-->
+<div class="columnGroup singleRule last">
+<h6 class="sectionHeader">More Multimedia</h6><div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/15/science/15Planet.html?ref=science">
+<img src="http://graphics8.nytimes.com/images/2011/11/15/science/15Planet-slide-FK28/15Planet-slide-FK28-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/15/science/15Planet.html?ref=science">
+<span class="media icon slideshow">Slide Show: </span>
+Where No Museum Has Gone Before</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A sneak peek at the exhibition “Beyond Planet Earth: The Future of Space Exploration,” which opens Saturday at the American Museum of Natural History.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/07/science/20111107-tattoos.html?ref=science">
+<img src="http://graphics8.nytimes.com/images/2011/11/14/science/20111114-tattoos-slide-VY72/20111114-tattoos-slide-VY72-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/07/science/20111107-tattoos.html?ref=science">
+<span class="media icon slideshow">Slide Show: </span>
+Science, Skin and Ink</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Photographs of science tattoos from the book “Science Ink,” by Carl Zimmer.</p>
+</div>
+</div>
+<div id="adxSponLink" class="columnGroup singleRule"></div>
+</div><!--close .aColumn -->
+<div class="bColumn">
+<div class="columnGroup SectionFront3Col first">
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/nyregion/fearing-climate-changes-effects-on-the-adirondacks.html?ref=science">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/nyregion/ADIRONDACKS1/ADIRONDACKS1-thumbStandard.jpg" width="75" height="75" alt="A full moon rising over Osgood Pond near Paul Smiths, N.Y." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/nyregion/fearing-climate-changes-effects-on-the-adirondacks.html?ref=science">
+Savoring Bogs and Moose, Fearing They’ll Vanish as the Adirondacks Warm</a></h3>
+<h6 class="byline">
+By LISA W. FODERARO	    </h6>
+<p class="summary">
+Jerry Jenkins, an ecologist, documents the ecosystem of the Adirondacks and laments its future in the face of global climate change’s local effects.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/slideshow/2011/12/02/nyregion/02Adirondacks.html"><span class="icon slideshow">Slide Show</span>: Documenting Climate Change in the Adirondacks</a></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">Scientist at Work Blog</h6>
+<h3><a href="http://scientistatwork.blogs.nytimes.com/2011/12/01/hoping-for-mammals-but-getting-mostly-ants/?ref=science">
+Hoping for Mammals, but Getting Mostly Ants</a></h3>
+<h6 class="byline">
+By S. AMANDA CAUDILL	    </h6>
+<p class="summary">
+Scientists investigating mammal diversity on Costa Rican coffee farms add to their workload when their traps turn up fewer animals than expected.</p>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://scientistatwork.blogs.nytimes.com/" title="Scientists at Work">
+<img src="http://graphics8.nytimes.com/images/blogs_v3/scientistatwork/scientistatwork190.gif" alt="Scientists at Work"/>
+</a> 
+</h3> 	<a href="http://scientistatwork.blogs.nytimes.com/" title="Scientists at Work">
+<img src="http://graphics8.nytimes.com/images/blogs_v3/scientistatwork/scientistatwork75.gif" alt="Scientists at Work" class="thumbnail"/>
+</a> <div class="story first">
+<h3><a href="http://scientistatwork.blogs.nytimes.com/2011/12/02/plants-that-attack-and-a-well-traveled-rat/?ref=science">Plants That Attack, and a Well-Traveled Rat</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">26 minutes ago</span></p>
+</div><div class="story">
+<h3><a href="http://scientistatwork.blogs.nytimes.com/2011/12/01/at-el-pedregal-rain-and-doves/?ref=science">At El Pedregal, Rain and Doves</a></h3>
+<p class="date">December 1, 2011 <span class="timestamp"></span></p>
+</div><div class="story">
+<h3><a href="http://scientistatwork.blogs.nytimes.com/2011/11/30/three-coffee-study-sites/?ref=science">Three Coffee Study Sites</a></h3>
+<p class="date">November 30, 2011 <span class="timestamp"></span></p>
+</div><p class="refer">
+<a href="http://scientistatwork.blogs.nytimes.com/" title="Go to Blog">Go to Blog &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule ">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://green.blogs.nytimes.com/" title="Green">
+<img src="http://graphics8.nytimes.com/images/blogs_v3/green/green190.gif" alt="Green"/>
+</a> 
+</h3> 	<a href="http://green.blogs.nytimes.com/" title="Green">
+<img src="http://graphics8.nytimes.com/images/blogs_v3/green/green75.gif" alt="Green" class="thumbnail"/>
+</a> <div class="story first">
+<h3><a href="http://green.blogs.nytimes.com/2011/12/02/new-pollution-rules-for-boilers-and-incinerators/?ref=science">New Pollution Rules for Boilers and Incinerators</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">11:52 AM ET</span></p>
+</div><div class="story">
+<h3><a href="http://green.blogs.nytimes.com/2011/12/02/on-our-radar-china-hints-at-emissions-timetable/?ref=science">On Our Radar: China Hints at Emissions Timetable</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">10:39 AM ET</span></p>
+</div><div class="story">
+<h3><a href="http://green.blogs.nytimes.com/2011/12/02/hope-for-the-giant-manta-ray/?ref=science">Hope for the Giant Manta Ray</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">7:22 AM ET</span></p>
+</div><p class="refer">
+<a href="http://green.blogs.nytimes.com/" title="Go to Blog">Go to Blog &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">Science Columns</h6><div class="story">
+<h6 class="kicker">Q & A</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/29/science/is-a-ban-on-drinking-water-hours-before-surgery-necessary.html?ref=science">
+<img src="http://graphics8.nytimes.com/images/2011/11/29/science/29QA/29QA-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/29/science/is-a-ban-on-drinking-water-hours-before-surgery-necessary.html?ref=science">
+Cool, Clear Water</a></h3>
+<h6 class="byline">
+By C. CLAIBORNE RAY	    </h6>
+<p class="summary">
+The well-known rule that a preoperative patient should have “nothing by mouth after midnight” was not based on scientific evidence, and many medical organizations now have more flexible guidelines.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/top/news/science/columns/q_a/index.html">More Q & A Columns »</a></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">Observatory</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/29/science/different-strokes-for-pregnant-dolphins.html?ref=science">
+<img src="http://graphics8.nytimes.com/images/2011/11/29/science/29OBDOLPHIN/29OBDOLPHIN-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/29/science/different-strokes-for-pregnant-dolphins.html?ref=science">
+Different Strokes With a Baby on Board</a></h3>
+<h6 class="byline">
+By RITCHIE S. KING	    </h6>
+<p class="summary">
+When a dolphin is within weeks of giving birth, she faces a drastic increase in drag and changes the way she swims.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Observatory</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/29/science/fishhooks-show-the-advanced-maritime-skills-of-another-age.html?ref=science">
+<img src="http://graphics8.nytimes.com/images/2011/11/29/science/29OBHOOK/29OBOX1-thumbStandard.jpg" width="75" height="75" alt="Archaeologists found fishhooks from 11,000 years ago in East Timor." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/29/science/fishhooks-show-the-advanced-maritime-skills-of-another-age.html?ref=science">
+Skills in Advanced Angling, From Another Age</a></h3>
+<h6 class="byline">
+By RITCHIE S. KING	    </h6>
+<p class="summary">
+Fish remains and pieces of what are now the oldest known fishhooks show the maritime skills of people tens of thousands of years ago.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Observatory</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/29/science/a-bacterial-platoon-with-fungi-engineers.html?ref=science">
+<img src="http://graphics8.nytimes.com/images/2011/11/29/science/29OBMICROBE/29OBMICROBE-thumbStandard.jpg" width="75" height="75" alt="Fuzzy-looking fungal spores growing out of a bacterial scrum." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/29/science/a-bacterial-platoon-with-fungi-engineers.html?ref=science">
+A Bacterial Platoon With Fungi Engineers</a></h3>
+<h6 class="byline">
+By RITCHIE S. KING	    </h6>
+<p class="summary">
+A new study reveals how a particular bacterium-and-fungus pair may be cooperating as it inches through the rhizosphere.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/top/news/science/columns/observatory/index.html">More Observatory Columns »</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">Podcast: Science Times</h6><div class="story">
+<div class="wrap">
+<div class="runaroundRight">
+<img src="http://graphics8.nytimes.com/images/apps/podcasts/w750/sciencetimes.jpg" height="75" width="75" alt="Science Times Podcast" /> <br />
+<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=120316173"><img src="http://graphics8.nytimes.com/images/global/buttons/subscribe_button.gif" alt="Subscribe" width="74" height="20" /></a>
+</div>
+<p class="summary">This week: The decline of violence, a medical adventure story and a hunt for the cure for AIDS.</p>
+</div>
+<script src="http://graphics8.nytimes.com/packages/js/multimedia/swfobject1.1.js"></script>
+<script src="http://graphics8.nytimes.com/packages/html/multimedia/js/NYTInlineEmbed.js" ></script>
+<script>
+mm.DI = true;
+mm.LI = false;
+mm.AH = "The Science Times ";
+mm.AS = "20111129_science";
+mm.AD = "1886";
+mm.AU = "http://dts.podtrac.nytimes.com/redirect.mp3/podcasts.nytimes.com/podcasts/2011/11/28/science/sciencenov29/sciencenov29.mp3";
+mm.IU = "";
+writePlayer();
+</script>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">Health Columns</h6><div class="story">
+<h6 class="kicker">Personal Health</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/29/health/vitamin-b12-deficiency-can-cause-symptoms-that-mimic-aging.html?ref=science">
+<img src="http://graphics8.nytimes.com/images/2011/11/29/science/29BROD/29BROD-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/29/health/vitamin-b12-deficiency-can-cause-symptoms-that-mimic-aging.html?ref=science">
+It Could Be Old Age, or It Could Be Low B12</a></h3>
+<h6 class="byline">
+By JANE E. BRODY	    </h6>
+<p class="summary">
+Low levels of the essential vitamin can bring on symptoms including muscle weakness, fatigue, shakiness, unsteady gait, incontinence, low blood pressure and depression.</p>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/topics/news/health/columns/personalhealth/index.html">More Personal Health Columns »</a></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">Really?</h6>
+<div class="thumbnail">
+<a href="http://well.blogs.nytimes.com/2011/11/28/really-the-claim-coffee-can-prevent-some-medications-from-working/?ref=science">
+<img src="http://graphics8.nytimes.com/images/2010/12/21/health/21really/21really-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://well.blogs.nytimes.com/2011/11/28/really-the-claim-coffee-can-prevent-some-medications-from-working/?ref=science">
+The Claim: Coffee Can Prevent Some Medications From Working</a></h3>
+<h6 class="byline">
+By ANAHAD O'CONNOR	    </h6>
+<p class="summary">
+Coffee and espresso can have consequences in people taking certain medications, by either blocking their absorption or enhancing their effects.</p>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">Opinion</h6><div class="story">
+<h6 class="kicker">Dot Earth Blog</h6>
+<h3><a href="http://dotearth.blogs.nytimes.com/2011/12/02/apple-and-planet-low-on-cats/?ref=science">
+Apple, and Planet, Low on Cats</a></h3>
+<h6 class="byline">
+By ANDREW C. REVKIN	    </h6>
+<p class="summary">
+An exploration of Apple's quandary as it runs short of primal symbols from the Felidae family.</p>
+</div>
+<div class="refer"><a href="http://dotearth.blogs.nytimes.com/">More From Dot Earth &raquo;</a></div>    
+</div>
+<div class="columnGroup doubleRule ">
+<h3 class="sectionHeader">Letters</h3>
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/29/health/intuition-goes-only-so-far-1-letter.html?ref=science">
+Intuition Goes Only So Far (1 Letter)</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/29/health/more-help-with-clutter-1-letter.html?ref=science">
+More Help With Clutter (1 Letter)</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/29/health/looking-at-the-thyroid-1-letter.html?ref=science">
+Looking at the Thyroid (1 Letter)</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/29/health/lgbt-patients-needs-1-letter.html?ref=science">
+L.G.B.T. Patients’ Needs (1 Letter)</a>
+</h6>
+</li>
+</ul>
+</div>
+<div class="columnGroup doubleRule last">
+
+
+<div class="singleAd" id="Box2">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/science/index.html&pos=Box2&sn2=5525031b/cddf603a&sn1=38d43609/ab3147cd&camp=nyt2011-circ-120x90-weekender-36H38&ad=071511-120x90-weekender-36H38&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DWC7AA%26CMP%3D36H38" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/13/ad.271312/11-0920_HDWeekender2_120x90.jpg" width="120" height="90" border="0"></a>
+
+</div>
+
+</div>
+</div><!--close .bColumn -->
+</div><!--close .abColumn -->
+<div class="cColumn">
+<!--Ads  -->                    <div class="columnGroup first">
+
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<script type="text/javascript"><!--
+
+prefix="http://topics.nytimes.com/top/news/science/topics/";
+suffix="/index.html";
+options=["Acid Rain","Acids","Acoustics","Air Pollution","Amphibians","Animals","Antimatter/Antiparticles|antimatter_antiparticles","Aquariums","Archaeology and Anthropology","Asteroids","Astronomy and Astrophysics","Atomic Energy","Atomic Weapons","Bacteria","Bats","Bees","Biological Clocks","Biology and Biochemistry","Birds","Black Holes|black_holes_space","Bones","Breeding of Animals","Bridges and Tunnels","Bronze Age","Building (Construction)","Butterflies and Moths","Carbon Dating","Carbon Dioxide","Carbon Monoxide","Cats","Cattle","Caves and Caverns","Chemicals","Chemistry","Cloning","Comets","Cyclones","Dams and Dikes","Dinosaurs","DNA|dna_deoxyribonucleic_acid","Dogs","Dolphins and Porpoises","Drought","Dwarf Planet|dwarfplanet","Earth (Planet)","Earthquakes","Eclipses","Egyptian Civilization","Electrons","Endangered and Extinct Species","Engineering|engineering_and_engineers","Engines","Environment","Evolution","Exploration and Explorers","Fish and Other Marine Life","Flowers and Plants","Forensic Science|../../../../topics/reference/timestopics/subjects/f/forensic_science","Forest and Brush Fires","Forestry|forests_and_forestry","Frogs","Fungi","Genetic Engineering","Geothermal Power","Global Warming|globalwarming","Grass","Gravity","Hibernation","Horses","Hubble Space Telescope","Hydrocarbons","Ice","Icebreakers","Insects","International Space Cooperation and Ventures","Inventions and Patents","Jupiter|jupiter_planet","Large Hadron Collider","Lice","Lighting","Lightning","Livestock","Lobsters","Magnets|magnets_and_magnetism","Mammals","Manatees","Mars|mars_planet","Mathematics","Memory","Mercury (Planet)","Microbiology","Microscopes","Monkeys and Apes","Moon","Mosquitoes","Mountains","Nanotechnology","Neanderthal Man","Neptune|neptune_planet","Neutrinos","Neutrons","Nobel Prizes","Oceans","Oxygen","Paleontology","Pandas","Parasites","Particle Physics","Penguins","Physics","Pigeons","Pluto (Dwarf Planet)|pluto_planet","Protons","Pyramids","Radiation","Rain","Recycling|recycling_of_waste_materials","Research","Rhinoceroses","Satellites","Saturn (Planet)","Selenium (Element)","Sharks","Shrimp","Snakes","Snow and Snowstorms","Sociology","Soil","Solar Energy","Solar System","Space","Space Shuttle","Space Stations","Spiders","Squid","Squirrels","Sun","Telescopes and Observatories","Temperature","Tidal Waves","Torndoes|tornadoes","Trees and Shrubs","Uranus (Planet)","Venus (Planet)","Veterinary Medicine","Visual Science|../series/visuals_","Volcanoes","Wetlands","Whales and Whaling","Wilderness Areas","Wind","X-Rays|xrays","Zoos"];
+
+optionHTML="";for(var i=0;i<options.length;i++){opt=options[i];if(opt.indexOf("|")!=-1){p=opt.split(/\|/g);opt=p[0];url=p[1];}else{url=opt.toLowerCase().replace(/\s+/g,"_").replace(/[\(\)]/g,"");}optionHTML=optionHTML+"<option value='"+prefix+url+suffix+"'>"+opt+"</option>";}
+
+document.write("<div class='insetV'><div class='box blue'><div class='insetH insetV'><div class='story'><h6 class='kicker'>Browse Topics</h6><form id='otherTopics'><div><select name='top' onchange='goToURL2(this);'><option value=''>Pick a Topic</option><option value=''>—  —  —  —  —  —  —  —  —  —  — </option>"+optionHTML+"</select></div></form></div></div></div></div>");
+
+// --></script>
+<div id="freeForm3" class="columnGroup">
+<h3 class=kicker>Science, Environment and Health Series | Special Sections</h3>
+<style>@import url(http://www.nytimes.com/packages/html/TopicsPages/iraqtopics_promo.css);</style>
+<div class="story">
+<ul class="refer"> 
+<li><a href="http://topics.nytimes.com/top/news/science/series/profiles_in_science/index.html">Profiles in Science</a> | <a href="http://topics.nytimes.com/top/news/science/series/life_out_there/index.html">Life Out There</a> | <a href="http://topics.nytimes.com/top/news/science/series/precious_waters/index.html">Precious Waters</a> | <a href="http://topics.nytimes.com/top/news/science/series/temperaturerising/index.html">Temperature Rising</a> | <a href="http://topics.nytimes.com/top/news/health/series/the_vanishing_mind/index.html" target="_blank">The Vanishing Mind</a> | <a href="http://www.nytimes.com/indexes/2011/03/15/science/">Animals</a></li>
+<li><strong><a href="https://www.facebook.com/pages/Science-The-New-York-Times/105307012882667">Like The New York Times Science Facebook Page »</a></strong></li>
+<li><strong><a href="http://twitter.com/NYTimesScience">Follow New York Times Science Coverage on Twitter »</a></strong></li>
+</ul>
+</div></div>        	</div>
+<!--Ads Simple -->                    <div class="columnGroup ">
+
+			
+<div class="bigAd" id="SFMiddle">
+<!-- ADXINFO classification="bigad" campaign="Citi_NatContContextAddress_1778555-nyt1"--><script language="JavaScript" type="text/javascript" src="http://view.atdmt.com/NYC/jview/359855727/direct;wi.300;hi.250;pc.172969_282783/01/2011.12.02.18.04.30?click=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fadx%2Fbin%2Fadx%5Fclick%2Ehtml%3Ftype%3Dgoto%26opzn%26page%3Dwww.nytimes.com/pages/science/index.html%26pos%3DSFMiddle%26camp%3DCiti%5FNatContContextAddress%5F1778555%2Dnyt1%26ad%3Datlas%2D359855727%5F300x250%5FROS%26sn2%3De48de726/a5e384af%26snr%3Ddoubleclick%26snx%3D1322848862%26sn1%3D26f51d78%2Fd13be956%26goto%3D">
+</script><noscript><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/science/index.html&pos=SFMiddle&sn2=e48de726/a5e384af&sn1=e849ee2e/f8a3456d&camp=Citi_NatContContextAddress_1778555-nyt1&ad=atlas-359855727_300x250_ROS&goto=http%3A%2F%2Fclk%2Eatdmt%2Ecom%2FNYC%2Fgo%2F359855727%2Fdirect%3Bwi%2E300%3Bhi%2E250%3Bpc%2E172969%5F282783%2F01%2F2011.12.02.18.04.30%2F" target="_blank"><img border="0" src="http://view.atdmt.com/NYC/view/359855727/direct;wi.300;hi.250;pc.172969_282783/01/2011.12.02.18.04.30/" /></a></noscript>
+</div>
+
+
+
+<div class="singleAd" id="Box3">
+<!-- ADXINFO classification="feature_squares" campaign="nyt2011-regilite-P1-TimesLimited-ros"--><iframe title="regilite" src="https://myaccount.nytimes.com/regilite?product=LT" width="336" height="90" marginheight="0" marginwidth="0" frameborder="0" vspace="0" hspace="0" scrolling="no"></iframe>
+</div>
+
+
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<div id="mostPopWidget" class="singleRule"> 
+
+      <!-- MOST POPULAR MODULE STARTS -->
+      <h4>MOST POPULAR - SCIENCE</h4>
+         <div id="tabsContainer">
+         <ul class="tabs">
+            <li class="selected"><a href="#">E-Mailed</a></li>
+            <li><a href="#">Blogged</a></li>
+            
+            <li><a href="#">Viewed</a></li>
+            
+         </ul>
+         </div>
+            <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"></HEAD><div class="tabContent tabContentActive" id="mostEmailed"><ol>
+<li img="http://graphics8.nytimes.com/images/2011/11/29/science/29JPPROF1/29JPPROF1-thumbStandard.jpg"  kicker="Profiles in Science | Steven Pinker"><a href="http://www.nytimes.com/2011/11/29/science/human-natures-pathologist.html?src=me&amp;ref=science" title="Click to go to this article">Profiles in Science | Steven Pinker: Human Nature&rsquo;s Pathologist</a></li>
+<li kicker=""><a href="http://www.nytimes.com/2011/12/02/science/names-proposed-for-new-elements-on-periodic-table.html?src=me&amp;ref=science" title="Click to go to this article">Names Proposed for 2 New Elements on Periodic Table</a></li>
+<li kicker="Green"><a href="http://green.blogs.nytimes.com/2011/12/01/the-impact-of-grazing-dont-ask/?src=me&amp;ref=science" title="Click to go to this article">Green: The Impact of Grazing? Don't Ask</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/29/science/29BET/29BET-thumbStandard.jpg"  kicker="Essay"><a href="http://www.nytimes.com/2011/11/29/science/with-chocolate-at-stake-physicists-bet-on-whether-the-higgs-boson-will-be-found.html?src=me&amp;ref=science" title="Click to go to this article">Essay: How Do Eminent Physicists Tackle the Higgs Boson? With Chocolate</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/29/science/29BIRD2_SPAN/29BIRD2-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/11/29/science/nations-oldest-birding-group-serves-as-a-collective-memory.html?src=me&amp;ref=science" title="Click to go to this article">A Venerable Birding Club, at an Epicenter of All Things Feathered</a></li>
+<li kicker=""><a href="http://www.nytimes.com/2011/12/02/science/earth/dispute-over-new-air-pollution-rules-for-power-plants.html?src=me&amp;ref=science" title="Click to go to this article">New Air Quality Rules for Power Plants in Dispute</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/29/science/29JPPROF3/29JPPROF3-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/11/29/science/pinkerisms.html?src=me&amp;ref=science" title="Click to go to this article">Pinkerisms</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/22/science/22TIER/22TIER-thumbStandard.jpg"  kicker="Findings"><a href="http://www.nytimes.com/2011/11/22/science/a-serving-of-gratitude-brings-healthy-dividends.html?src=me&amp;ref=science" title="Click to go to this article">Findings: A Serving of Gratitude May Save the Day</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/29/science/29OBHOOK/29OBOX1-thumbStandard.jpg"  kicker="Observatory"><a href="http://www.nytimes.com/2011/11/29/science/fishhooks-show-the-advanced-maritime-skills-of-another-age.html?src=me&amp;ref=science" title="Click to go to this article">Observatory: Skills in Advanced Angling, From Another Age</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/29/science/29OBMICROBE/29OBMICROBE-thumbStandard.jpg"  kicker="Observatory"><a href="http://www.nytimes.com/2011/11/29/science/a-bacterial-platoon-with-fungi-engineers.html?src=me&amp;ref=science" title="Click to go to this article">Observatory: A Bacterial Platoon With Fungi Engineers</a></li>
+</ol>
+        <a class="more" href="http://www.nytimes.com/gst/mostemailed.html">Go to Complete List &#x00bb;</a>
+        </div><!-- #most emailed top10 -->
+
+            <div class="tabContent" id="mostBlogged">
+<ol>
+<li><a href="http://www.nytimes.com/2011/11/28/science/earth/nations-meet-to-address-problems-of-climate-change.html?bl" title="Click to go to this article">Nations Meet to Address Problems of Climate Change</a></li>
+<li><a href="http://www.nytimes.com/2011/11/29/science/human-natures-pathologist.html?bl" title="Click to go to this article">Profiles in Science - Steven Pinker - Human Nature's Pathologist</a></li>
+<li><a href="http://www.nytimes.com/2011/11/29/health/new-hope-of-a-cure-for-hiv.html?bl" title="Click to go to this article">New Hope of a Cure for H.I.V.</a></li>
+<li><a href="http://www.nytimes.com/2011/11/28/science/earth/nature-conservancy-partners-with-california-fishermen.html?bl" title="Click to go to this article">Nature Conservancy Partners With California Fishermen</a></li>
+<li><a href="http://www.nytimes.com/2011/11/30/world/middleeast/satellite-images-suggest-blast-obliterated-iran-military-base.html?bl" title="Click to go to this article">Satellite Images Suggest Blast Obliterated Iran Military Base</a></li>
+<li><a href="http://www.nytimes.com/2011/11/29/science/a-bacterial-platoon-with-fungi-engineers.html?bl" title="Click to go to this article">A Bacterial Platoon With Fungi Engineers</a></li>
+<li><a href="http://www.nytimes.com/2011/11/29/science/with-chocolate-at-stake-physicists-bet-on-whether-the-higgs-boson-will-be-found.html?bl" title="Click to go to this article">With Chocolate at Stake, Physicists Bet on Whether the Higgs Boson Will Be Found</a></li>
+<li><a href="http://www.nytimes.com/2011/11/29/science/nations-oldest-birding-group-serves-as-a-collective-memory.html?bl" title="Click to go to this article">Nation's Oldest Birding Group Serves as a Collective Memory</a></li>
+<li><a href="http://www.nytimes.com/2011/11/30/business/energy-environment/solarcity-wins-financing-for-military-housing-plan.html?bl" title="Click to go to this article">SolarCity Wins Financing for Military Housing Plan</a></li>
+<li><a href="http://www.nytimes.com/2011/12/02/business/energy-environment/coles-hill-uranium-mine-proposal-divides-virginia-residents.html?bl" title="Click to go to this article">Coles Hill Uranium Mine Proposal Divides Virginia Residents</a></li>
+</ol>
+<a class="more" href="http://www.nytimes.com/gst/mostblogged.html">Go to Complete List &#x00bb;</a>
+</div><!-- #most blogged top10 -->
+
+            
+            <div class="tabContent" id="mostViewed"><ol>
+<li kicker=""><a href="http://www.nytimes.com/2011/12/02/science/names-proposed-for-new-elements-on-periodic-table.html?src=mv&amp;ref=science" title="Click to go to this article">Names Proposed for 2 New Elements on Periodic Table</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/29/science/29JPPROF1/29JPPROF1-thumbStandard.jpg"  kicker="Profiles in Science | Steven Pinker"><a href="http://www.nytimes.com/2011/11/29/science/human-natures-pathologist.html?src=mv&amp;ref=science" title="Click to go to this article">Profiles in Science | Steven Pinker: Human Nature&rsquo;s Pathologist</a></li>
+<li kicker="Green"><a href="http://green.blogs.nytimes.com/2011/12/01/the-impact-of-grazing-dont-ask/?src=mv&amp;ref=science" title="Click to go to this article">Green: The Impact of Grazing? Don't Ask</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/29/science/29BET/29BET-thumbStandard.jpg"  kicker="Essay"><a href="http://www.nytimes.com/2011/11/29/science/with-chocolate-at-stake-physicists-bet-on-whether-the-higgs-boson-will-be-found.html?src=mv&amp;ref=science" title="Click to go to this article">Essay: How Do Eminent Physicists Tackle the Higgs Boson? With Chocolate</a></li>
+<li kicker="Green"><a href="http://green.blogs.nytimes.com/2011/12/01/among-hundreds-of-dead-an-intriguing-survivor/?src=mv&amp;ref=science" title="Click to go to this article">Green: Among Hundreds of Dead Dolphins, an Intriguing Survivor</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/29/science/29BIRD2_SPAN/29BIRD2-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/11/29/science/nations-oldest-birding-group-serves-as-a-collective-memory.html?src=mv&amp;ref=science" title="Click to go to this article">A Venerable Birding Club, at an Epicenter of All Things Feathered</a></li>
+<li kicker="Green"><a href="http://green.blogs.nytimes.com/2011/12/01/fukushima-meltdown-was-more-severe-than-thought-study-says/?src=mv&amp;ref=science" title="Click to go to this article">Green: Fukushima Meltdown Was More Severe Than Thought, Study Says</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/18/science/saw_amandacaudill/saw_amandacaudill-thumbStandard.jpg"  kicker="Scientist at Work"><a href="http://scientistatwork.blogs.nytimes.com/2011/12/01/hoping-for-mammals-but-getting-mostly-ants/?src=mv&amp;ref=science" title="Click to go to this article">Scientist at Work: Hoping for Mammals, but Getting Mostly Ants</a></li>
+<li kicker="Green"><a href="http://green.blogs.nytimes.com/2011/12/01/more-on-cokes-role-in-a-shelved-bottle-ban/?src=mv&amp;ref=science" title="Click to go to this article">Green: More on Coke's Role in a Shelved Bottle Ban</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/18/science/saw_amandacaudill/saw_amandacaudill-thumbStandard.jpg"  kicker="Scientist at Work"><a href="http://scientistatwork.blogs.nytimes.com/2011/11/30/three-coffee-study-sites/?src=mv&amp;ref=science" title="Click to go to this article">Scientist at Work: Three Coffee Study Sites</a></li>
+</ol>
+        </div><!-- #most viewed top10 -->
+
+            
+         <script type="text/javascript">new Accordian("mostPopWidget");</script>
+      <!-- MOST POPULAR MODULE ENDS -->
+   
+
+</div><!--close mostPopWidget -->
+<div class="singleRuleDivider"></div>
+<div class="columnGroup fullWidth">
+<div class="subColumn-2 wrap">
+<h3 class="sectionHeader insetH">Times Science Reporters</h3>
+<div class="column">
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://topics.nytimes.com/topics/reference/timestopics/people/a/natalie_angier/index.html"><img src="http://graphics8.nytimes.com/images/2011/06/23/science/natalie_angier/natalie_angier-custom1.jpg" width="50" height="50" alt="" /></a></div>
+<h5><a href="http://topics.nytimes.com/topics/reference/timestopics/people/a/natalie_angier/index.html">Natalie Angier</a></h5>
+<span class="caption">Email: <a href="mailto:angier@nytimes.com">angier @nytimes.com</a><br/><br/></span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://topics.nytimes.com/topics/reference/timestopics/people/b/william_j_broad/index.html"><img src="http://graphics8.nytimes.com/images/2011/06/23/science/bill_broad/bill_broad-custom1.jpg" width="50" height="50" alt="" /></a></div>
+<h5><a href="http://topics.nytimes.com/top/reference/timestopics/people/b/william_j_broad/index.html">William J. Broad</a></h5>
+<span class="caption">Email: <a href="mailto:wjb@nytimes.com">wjb @nytimes.com</a> <br/> Twitter: <a href="http://twitter.com/#!/WilliamJBroad">WilliamJBroad</a></span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://topics.nytimes.com/topics/reference/timestopics/people/c/kenneth_chang/index.html"><img src="http://graphics8.nytimes.com/images/2011/03/29/science/science-kenchang/science-kenchang-custom1.jpg" width="50" height="50" alt="" /></a></div>
+<h5><a href="http://topics.nytimes.com/topics/reference/timestopics/people/c/kenneth_chang/index.html">Kenneth Chang</a></h5>
+<span class="caption">Email: <a href="mailto:kchang@nytimes.com">kchang @nytimes.com</a><br/><br/></span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://topics.nytimes.com/top/reference/timestopics/people/d/cornelia_dean/index.html"><img src="http://graphics8.nytimes.com/images/2011/09/08/science/earth/cornelia-dean/cornelia-dean-custom1.jpg" width="50" height="50" alt="" /></a></div>
+<h5><a href="http://topics.nytimes.com/top/reference/timestopics/people/d/cornelia_dean/index.html">Cornelia Dean</a></h5>
+<span class="caption">Email: <a href="cdean@nytimes.com">cdean @nytimes.com</a><br/><br/></span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://topics.nytimes.com/topics/reference/timestopics/people/d/claudia_dreifus/index.html"><img src="http://graphics8.nytimes.com/images/2011/03/29/science/science-claudiadreifus/science-claudiadreifus-custom1.jpg" width="50" height="50" alt="" /></a></div>
+<h5><a href="http://topics.nytimes.com/topics/reference/timestopics/people/d/claudia_dreifus/index.html">Claudia Dreifus</a></h5>
+<span class="caption">Email: <a href="mailto:dreifus@nytimes.com">dreifus @nytimes.com</a><br/> Twitter: <a href="http://twitter.com/claudiadreifus">claudiadreifus</a></span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://topics.nytimes.com/topics/reference/timestopics/people/f/henry_fountain/index.html"><img src="http://graphics8.nytimes.com/images/2011/03/29/science/science-fountain/science-fountain-custom3.jpg" width="50" height="50" alt="" /></a></div>
+<h5><a href="http://topics.nytimes.com/topics/reference/timestopics/people/f/henry_fountain/index.html">Henry Fountain</a></h5>
+<span class="caption">Email: <a href="mailto:fountain@nytimes.com">fountain @nytimes.com</a><br/> Twitter: <a href="http://twitter.com/henryfountain">henryfountain</a></span>
+</div></div>
+</div>
+<div class="column last">
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://topics.nytimes.com/top/reference/timestopics/people/m/john_markoff/index.html"><img src="http://graphics8.nytimes.com/images/2011/03/29/science/science-markoff/science-markoff-custom2.jpg" width="50" height="50" alt="" /></a></div>
+<h5><a href="http://topics.nytimes.com/top/reference/timestopics/people/m/john_markoff/index.html">John Markoff</a></h5>
+<span class="caption">Email: <a href="mailto:markoff@nytimes.com">markoff @nytimes.com</a><br/> Twitter: <a href="http://twitter.com/markoff">markoff</a></span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://topics.nytimes.com/topics/reference/timestopics/people/o/dennis_overbye/index.html"><img src="http://graphics8.nytimes.com/images/2011/03/29/science/science-overbye/science-overbye-custom1.jpg" width="50" height="50" alt="" /></a></div>
+<h5><a href="http://topics.nytimes.com/topics/reference/timestopics/people/o/dennis_overbye/index.html">Dennis Overbye</a></h5>
+<span class="caption">Email: <a href="mailto:overbye@nytimes.com">overbye @nytimes.com</a><br/><br/></span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://topics.nytimes.com/top/news/science/columns/johntierney/index.html"><img src="http://graphics8.nytimes.com/images/2011/03/29/science/science-johntierney/science-johntierney-custom1.jpg" width="50" height="50" alt=""></a></div>
+<h5><a href="http://topics.nytimes.com/top/news/science/columns/johntierney/index.html">John Tierney</a></h5>
+<span class="caption">Email: <a href="mailto:tierneylab@nytimes.com">tierneylab @nytimes.com</a><br/> Twitter: <a href="http://twitter.com/JohnTierneyNYT">JohnTierneyNYT</a></span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://topics.nytimes.com/topics/reference/timestopics/people/w/nicholas_wade/index.html"><img src="http://graphics8.nytimes.com/images/2011/03/29/science/science-nicholaswade/science-nicholaswade-custom1.jpg" width="50" height="50" alt=""></a></div>
+<h5><a href="http://topics.nytimes.com/topics/reference/timestopics/people/w/nicholas_wade/index.html">Nicholas Wade</a></h5>
+<span class="caption">Email: <a href="mailto:niwade@nytimes.com">niwade @nytimes.com</a></span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://topics.nytimes.com/topics/reference/timestopics/people/w/john_noble_wilford/index.html"><img src="http://graphics8.nytimes.com/images/2011/03/29/science/science-wilford/science-wilford-custom1.jpg" width="50" height="50" alt=""></a></div>
+<h5><a href="http://topics.nytimes.com/topics/reference/timestopics/people/w/john_noble_wilford/index.html">John Noble Wilford</a></h5>
+<span class="caption">Email: <a href="mailto:wilford@nytimes.com">wilford @nytimes.com</a></span>
+</div></div>
+</div></div></div>
+<div class="singleRuleDivider"></div><div class="relatedStories"><div>
+<h3 class="sectionHeader"><a href="http://scienceblogs.com/" title="Selected Posts From ScienceBlogs"><img src="http://graphics8.nytimes.com/images/section/science/header_science_blogs.gif" alt="Selected Posts From ScienceBlogs"></a></h3>
+<div class="story first">
+<h6 class="kicker">Brookhaven Bits and Bytes</h6>
+<h5><a href="http://scienceblogs.com/brookhaven/2011/12/using_x-rays_to_peel_back_the.php?utm_source=nytwidget">Using X-rays to Peel Back the Layers of a Purported Rembrandt</a></h5>
+<p class="date">December  2, 2011, <span class="timestamp"> 6:52 AM</span></p>
+</div>
+<div class="story">
+<h6 class="kicker">Greg Laden&#39;s Blog</h6>
+<h5><a href="http://scienceblogs.com/gregladen/2011/11/a_tutorial_in_human_behavioral.php?utm_source=nytwidget">A Tutorial in Human Behavioral Biology</a></h5>
+<p class="date">November 28, 2011</p>
+</div>
+<div class="story">
+<h6 class="kicker">USA Science and Engineering Festival</h6>
+<h5><a href="http://scienceblogs.com/usasciencefestival/2011/11/beepbeeepits_moscow_calling.php?utm_source=nytwidget">Beep..beeep....It&#39;s Moscow calling!</a></h5>
+<p class="date">November 29, 2011</p>
+</div>
+<div class="story">
+<h6 class="kicker">The Weizmann Wave</h6>
+<h5><a href="http://scienceblogs.com/weizmann/2011/11/the_physics_of_ants_and_bats.php?utm_source=nytwidget">The Physics of: Ants and Bats</a></h5>
+<p class="date">November 29, 2011</p>
+</div>
+<p class="refer"><a href="http://scienceblogs.com/">Read more from ScienceBlogs.com &#187;</a></p>
+</div></div>
+        	</div>
+<!--Ads Simple -->                    <div class="columnGroup ">
+			
+
+<div class="bigAd" id="Box1">
+<!-- ADXINFO classification="Module" campaign="nyt2011_module_biz_piers_morgan_hp_ros_db"--><!-- MARKETING MODULE -->
+<div style="border:solid #999;border-width:1px;font-family:Arial,sans-serif;text-align:left; width:334px;background:#fff;" class="clearfix wrap">
+  <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/science/index.html&pos=Box1&sn2=5525031a/ddf603a&sn1=3cd7b396/8bf4d3f&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://mediadecoder.blogs.nytimes.com/2011/11/30/piers-morgan-struggles-to-beat-kings-ratings/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-PH%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm11/business_120211.jpg" width="334" height="154" border="0" alt=""></a> 
+  <div style="padding:7px 9px 0;background:#fff">
+      <h2 style="font-size:22px;line-height:24px; margin:0;padding:0 0 4px;"><a style="color:#004276;" target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/science/index.html&pos=Box1&sn2=5525031a/ddf603a&sn1=3cd7b396/8bf4d3f&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://mediadecoder.blogs.nytimes.com/2011/11/30/piers-morgan-struggles-to-beat-kings-ratings/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-HDR%26WT.mc_ev=click%26WT.mc_c=174041">Piers Morgan's struggle</a></h2>
+
+      <p style="margin:0 0 3px; padding:0;font-size: 11px;"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/science/index.html&pos=Box1&sn2=5525031a/ddf603a&sn1=dcca9a23/ff2c3589&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://nytimes.com/business/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-URL%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank" style="font-size:11px;margin:3px 0;padding:0;font-family:Arial,sans-serif;  color:#000; text-transform:uppercase;">Also in Business &raquo;</a></p>
+      <ul style="font-size:12px;margin:0; padding-bottom: 10px; border-bottom:1px solid #ccc;" class="refer">
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/science/index.html&pos=Box1&sn2=5525031a/ddf603a&sn1=7ddbcc18/6dfb3f78&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://dealbook.nytimes.com/2011/11/30/american-wont-be-the-last-airline-bankruptcy/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-L1%26WT.mc_ev=click%26WT.mc_c=174041" style="color: #004276">American won't be the last airline bankruptcy</a></li>
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/science/index.html&pos=Box1&sn2=5525031a/ddf603a&sn1=aada211/3630bfe3&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://www.nytimes.com/2011/11/30/business/media/pepto-bismol-highlights-overindulging-in-latest-campaign.html%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-L2%26WT.mc_ev=click%26WT.mc_c=174041" style="color: #004276">A look at Pepto-Bismol's new holiday commercials</a></li>
+      </ul>
+    </div>
+ 
+ <div style="padding:5px 9px; float:left; width:316px; background:#fff"> <a style="float:left" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/science/index.html&pos=Box1&sn2=5525031a/ddf603a&sn1=dcca9a23/ff2c3589&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://nytimes.com/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-LOGO%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/nytimes.gif" alt="nytimes.com" width="116" height="18" border="0"></a><a style="float:right" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/science/index.html&pos=Box1&sn2=5525031a/ddf603a&sn1=dcca9a23/ff2c3589&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://nytimes.com/business/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-VRT%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/verticals_business.gif" alt="Business" width="120" height="18" border="0"></a></div><br clear="all">
+
+</div>
+  <!-- /MARKETING MODULE -->
+
+</div>
+
+
+<div class="singleAd" id="Middle5">
+<!-- ADXINFO classification="feature_position" campaign="nyt2011-circ-middle5_promise-373LX-38R9W-AK"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/science/index.html&pos=Middle5&sn2=2de7603c/3d038efe&sn1=294262dd/c90edcbd&camp=nyt2011-circ-middle5_promise-373LX-38R9W-AK&ad=092111-11-middle5_promise-AK&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DW42CS%26CMP%3D373LX" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/71/ad.277140/11-0922_HDGenericD2_336x79_AK.jpg" width="336" height="79" border="0"></a><div class='kj_cx'></div>
+<script type='text/javascript'>
+var kjData = {akin: 'NYT-IP-4d0abbb3acf67-y05', adWidth: 10, adHeight: 10, btnStyle: 2, crnr: 'bl'};
+if(!kjG){var kjG=[]}kjG.push(kjData);if(!kjLdr){var kjLdr={ld:function(){var b=document; var a=b.createElement('script');a.type='text/javascript';a.src='http://a.akncdn.com/adkeeper.1.0.js'; (b.getElementsByTagName('body')[0]||b.getElementsByTagName('head')[0]).appendChild(a) },init:function(){var a=window,b=document;if(b.addEventListener){a.addEventListener('load',this.ld,false) }else{if(a.attachEvent){a.attachEvent('onload',this.ld)}}}};kjLdr.init()}; </script>
+</div>
+
+
+
+<!--[TwoColumnAdLeft - Begin] -->
+	<div class="adHeader">
+<h4>
+Advertisements	    </h4>
+</div>
+<div class="cColumn-TextAdsBox">
+	<div class="cColumn-TextAdsLeft">
+<div class="cColumn-TextAd">
+<!-- ADXINFO classification="SiteForADay" campaign="NYT2011-Mktg-NeediestCases-S4D-ROS"--><div style="width:320px; height:60px;"> 
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/science/index.html&pos=Right5A&sn2=a37804ca/3c0a1e4a&sn1=83a259e6/49fd2187&camp=NYT2011-Mktg-NeediestCases-S4D-ROS&ad=Mtkg_NeediestCases_S4D_2011&goto=https%3A%2F%2Fnytneediestcases%2Ecom%2F" target="_blank"> 
+<img style="float:left; margin-right:10px;" src="http://graphics8.nytimes.com/adx/images/ADS/28/26/ad.282606/11-1929_NeediestCasses_86x60.jpg" width="86" height="60" border="0" style="vertical-align:text-top;"></a>
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/science/index.html&pos=Right5A&sn2=a37804ca/3c0a1e4a&sn1=83a259e6/49fd2187&camp=NYT2011-Mktg-NeediestCases-S4D-ROS&ad=Mtkg_NeediestCases_S4D_2011&goto=https%3A%2F%2Fnytneediestcases%2Ecom%2F" target="_blank">  <br />Help New Yorkers in need.<br />Donate Today.</a>
+</div>
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+</div>
+	</div>
+<!--[TwoColumnAdLeft - End] -->
+<div class="advertisementColumnGroup">
+<!--[MarketPlaceGridAd - Begin] -->
+
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+    <!--[MarketPlaceGridAd - End] -->
+</div>
+</div>
+<!--Ads Ads -->                    <div class="columnGroup last">
+
+<div class="singleAd" id="Feature1">
+<!-- ADXINFO classification="hp-module" campaign="feature1-1280FifthAve-18-1712178-cla"--><!--Ad Template Begins Here -->
+<div class="story advertisement">
+<div class="callout">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/science/index.html&pos=Feature1&sn2=9e085d41/8c8fa6ad&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/15/ad.271512/7.23.11_BRK11-2614_1280_nyt.com_module_update2.jpg" width="173" height="98" border="0" alt="Click for Details"></a>
+</div>
+<h5>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/science/index.html&pos=Feature1&sn2=9e085d41/8c8fa6ad&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank"></a>
+</h5>
+<p class="summary"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/science/index.html&pos=Feature1&sn2=9e085d41/8c8fa6ad&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank">Designed by<br>Robert&nbsp;&nbsp;A.M. Stern<br>Overlooking Central Park<br>Up to 5 Bedrooms</a></p>
+<div class="adCreative">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/science/index.html&pos=Feature1&sn2=9e085d41/8c8fa6ad&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/15/ad.271512/5.19.11_1280_logo_78x36.jpg" width="78" height="36"></a>
+</div>
+</div>
+<!--Ad Template Ends Here -->
+</div>
+
+
+<div class="singleAd" id="SponLink">
+<script language="JavaScript" type="text/javascript">
+    
+    // Sponlink_short
+
+    NYTD.GoogleAds.getGoogleAds("AFC", { 
+        google_ad_client:'nytimes_section_var',
+        ad_target_list:'sponLink'
+    });
+</script>
+</div>
+
+</div>
+</div><!--close cColumn -->
+</div><!--close wideA -->
+</div><!--close spanAB -->
+</div><!--close main -->
+<div id="footer">
+<ul class="first">
+<li class="first"><a href="http://www.nytimes.com">Home</a></li>
+<li >
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li>
+<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+</ul>    <ul>
+<li class="first"><a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&copy; 2011</a> <a href="http://www.nytco.com/">The New York Times Company</a></li>
+<li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Terms of Service</a></li>
+<li class="termsOfSale"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+<li><a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a></li>
+<li><a class="rssButton" href="http://www.nytimes.com/rss">RSS</a></li>
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+<li><a href="http://www.nytco.com/careers">Work for Us</a></li>
+<li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+</ul>
+</div>
+</div><!--close page -->
+</div><!--close shell -->
+
+
+
+
+
+
+<script src="http://content.dl-rms.com/rms/5082/nodetag.js"></script>
+
+
+<IMG SRC="/adx/bin/clientside/118edb43Q2FQ5EQ5DWHccFTcQ5DQ5BqXGHQ5CQ5CN0Q5CNJTCH" height="1" width="3">
+
+<script type="text/javascript" language="JavaScript">
+// Written by /usr/local/knews/bin/commentcount.pl Fri Dec  2 13:02:02 2011
+var NYTArticleCommentCounts = {
+"100000001190843":{count:147, commentsEnabled:false},
+"100000001190858":{count:204, commentsEnabled:false},
+"100000001190907":{count:49, commentsEnabled:false},
+"100000001191255":{count:237, commentsEnabled:false},
+"100000001191704":{count:133, commentsEnabled:false},
+"100000001191724":{count:100, commentsEnabled:false},
+"100000001191950":{count:122, commentsEnabled:false},
+"100000001192133":{count:307, commentsEnabled:false},
+"100000001192329":{count:76, commentsEnabled:false},
+"100000001190961":{count:19, commentsEnabled:false},
+"100000001177231":{count:1, commentsEnabled:true},
+"100000001177245":{count:74, commentsEnabled:true},
+"100000001179958":{count:24, commentsEnabled:false},
+"100000001180322":{count:227, commentsEnabled:true},
+"100000001183078":{count:44, commentsEnabled:false},
+"100000001183080":{count:327, commentsEnabled:false},
+"100000001183081":{count:7, commentsEnabled:false},
+"100000001183084":{count:235, commentsEnabled:false},
+"100000001183087":{count:11, commentsEnabled:false},
+"100000001183089":{count:14, commentsEnabled:false},
+"100000001183090":{count:11, commentsEnabled:false},
+"100000001183091":{count:3, commentsEnabled:false},
+"100000001183094":{count:14, commentsEnabled:false},
+"100000001184186":{count:79, commentsEnabled:false},
+"100000001184524":{count:149, commentsEnabled:false},
+"100000001186117":{count:1, commentsEnabled:false},
+"100000001186193":{count:12, commentsEnabled:true},
+"100000001186569":{count:190, commentsEnabled:false},
+"100000001189184":{count:49, commentsEnabled:false},
+"100000001190721":{count:71, commentsEnabled:false},
+"100000001191577":{count:224, commentsEnabled:false},
+"100000001191688":{count:28, commentsEnabled:false},
+"100000001191719":{count:107, commentsEnabled:false},
+"100000001191931":{count:121, commentsEnabled:false},
+"100000001191985":{count:110, commentsEnabled:false},
+"100000001192057":{count:211, commentsEnabled:false},
+"100000001192188":{count:141, commentsEnabled:false},
+"100000001192496":{count:52, commentsEnabled:false},
+"100000001192500":{count:206, commentsEnabled:false},
+"100000001192600":{count:224, commentsEnabled:false},
+"100000001192611":{count:167, commentsEnabled:false},
+"100000001193250":{count:67, commentsEnabled:false},
+"100000001193262":{count:37, commentsEnabled:false},
+"100000001193344":{count:98, commentsEnabled:false},
+"100000001193527":{count:27, commentsEnabled:false},
+"100000001193629":{count:10, commentsEnabled:false},
+"100000001193702":{count:17, commentsEnabled:false},
+"100000001193743":{count:108, commentsEnabled:false},
+"100000001193763":{count:516, commentsEnabled:false},
+"100000001193825":{count:86, commentsEnabled:false},
+"100000001193857":{count:48, commentsEnabled:false},
+"100000001193859":{count:160, commentsEnabled:false},
+"100000001193890":{count:117, commentsEnabled:false},
+"100000001193920":{count:44, commentsEnabled:false},
+"100000001193944":{count:303, commentsEnabled:false},
+"100000001193948":{count:7, commentsEnabled:false},
+"100000001194088":{count:51, commentsEnabled:false},
+"100000001194098":{count:17, commentsEnabled:true},
+"100000001194137":{count:109, commentsEnabled:false},
+"100000001194342":{count:159, commentsEnabled:false},
+"100000001194394":{count:68, commentsEnabled:false},
+"100000001194454":{count:36, commentsEnabled:false},
+"100000001194795":{count:192, commentsEnabled:false},
+"100000001194808":{count:628, commentsEnabled:false},
+"100000001194892":{count:125, commentsEnabled:false},
+"100000001195360":{count:33, commentsEnabled:false},
+"100000001195689":{count:178, commentsEnabled:false},
+"100000001195802":{count:10, commentsEnabled:false},
+"100000001195854":{count:304, commentsEnabled:false},
+"100000001195914":{count:48, commentsEnabled:false},
+"100000001195920":{count:17, commentsEnabled:false},
+"100000001195923":{count:44, commentsEnabled:false},
+"100000001195938":{count:138, commentsEnabled:false},
+"100000001195940":{count:10, commentsEnabled:false},
+"100000001195947":{count:92, commentsEnabled:false},
+"100000001195952":{count:162, commentsEnabled:false},
+"100000001195976":{count:141, commentsEnabled:false},
+"100000001195982":{count:283, commentsEnabled:false},
+"100000001196229":{count:42, commentsEnabled:false},
+"100000001196250":{count:104, commentsEnabled:true},
+"100000001196432":{count:333, commentsEnabled:false},
+"100000001196658":{count:42, commentsEnabled:false},
+"100000001196737":{count:28, commentsEnabled:true},
+"100000001196861":{count:18, commentsEnabled:false},
+"100000001196955":{count:71, commentsEnabled:true},
+"100000001196963":{count:143, commentsEnabled:false},
+"100000001197064":{count:68, commentsEnabled:false},
+"100000001197489":{count:3, commentsEnabled:false},
+"100000001197999":{count:75, commentsEnabled:false},
+"100000001198014":{count:290, commentsEnabled:false},
+"100000001198050":{count:69, commentsEnabled:true},
+"100000001198076":{count:32, commentsEnabled:true},
+"100000001198092":{count:204, commentsEnabled:false},
+"100000001198110":{count:424, commentsEnabled:false},
+"100000001198123":{count:343, commentsEnabled:false},
+"100000001198126":{count:62, commentsEnabled:false},
+"100000001198138":{count:163, commentsEnabled:false},
+"100000001198377":{count:143, commentsEnabled:true},
+"100000001198446":{count:23, commentsEnabled:true},
+"100000001198471":{count:52, commentsEnabled:true},
+"100000001198476":{count:157, commentsEnabled:true},
+"100000001198581":{count:48, commentsEnabled:true},
+"100000001198642":{count:253, commentsEnabled:false},
+"100000001199366":{count:136, commentsEnabled:true},
+"100000001199374":{count:114, commentsEnabled:true},
+"100000001199444":{count:155, commentsEnabled:false},
+"100000001199658":{count:4, commentsEnabled:true},
+"100000001200046":{count:884, commentsEnabled:true},
+"100000001200335":{count:165, commentsEnabled:false},
+"100000001200378":{count:192, commentsEnabled:false},
+"100000001200458":{count:77, commentsEnabled:false},
+"100000001200844":{count:23, commentsEnabled:true},
+"100000001201276":{count:88, commentsEnabled:true},
+"100000001201525":{count:188, commentsEnabled:true},
+"100000001202361":{count:0, commentsEnabled:true},
+"100000001202521":{count:27, commentsEnabled:true},
+"100000001202701":{count:270, commentsEnabled:false},
+"100000001202807":{count:17, commentsEnabled:true},
+"100000001202815":{count:116, commentsEnabled:false},
+"100000001202831":{count:232, commentsEnabled:true},
+"100000001202861":{count:95, commentsEnabled:true},
+"100000001202869":{count:39, commentsEnabled:true},
+"100000001202871":{count:23, commentsEnabled:true},
+"100000001202889":{count:54, commentsEnabled:true},
+"100000001202895":{count:33, commentsEnabled:true},
+"100000001202901":{count:90, commentsEnabled:true},
+"100000001203208":{count:19, commentsEnabled:true},
+"100000001203416":{count:220, commentsEnabled:true},
+"100000001203664":{count:0, commentsEnabled:true},
+"100000001188908":{count:16, commentsEnabled:true},
+"100000001194403":{count:0, commentsEnabled:true},
+"100000001194404":{count:0, commentsEnabled:true},
+"100000001194405":{count:71, commentsEnabled:true},
+"100000001194406":{count:0, commentsEnabled:true},
+"100000001194419":{count:1, commentsEnabled:true},
+"100000001194423":{count:58, commentsEnabled:true},
+"100000001194424":{count:0, commentsEnabled:true},
+"100000001194425":{count:0, commentsEnabled:true},
+"100000001194427":{count:0, commentsEnabled:true},
+"100000001194843":{count:51, commentsEnabled:true},
+"100000001197746":{count:1, commentsEnabled:true},
+"100000001201815":{count:0, commentsEnabled:true},
+"100000001201989":{count:0, commentsEnabled:true}
+};
+</script>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/homepage/articleCommentCounts.js"></script>
+<script type="text/javascript" language="JavaScript">
+    ArticleCommentCounts.apply()
+    </script>
+
+			
+		<!-- Start UPT call -->
+		<img height="1" width="3" border=0 src="http://up.nytimes.com/?d=0/21/&t=3&s=0&ui=&r=&u=www%2enytimes%2ecom%2fpages%2fscience%2findex%2ehtml%3f">
+		<!-- End UPT call -->
+	
+		
+        <script language="JavaScript"><!--
+          var dcsvid="";
+          var regstatus="non-registered";
+        //--></script>
+        <script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+        <noscript>
+          <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div>
+        </noscript>
+   
+</body>
+</html>

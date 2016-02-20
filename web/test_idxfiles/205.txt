@@ -1,0 +1,8 @@
+Location: http://www.nytimes.com/ref/classifieds/
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+Date: Fri, 02 Dec 2011 18:01:30 GMT
+Connection: close
+
+<head><title>Document Moved</title></head>
+<body><h1>Object Moved</h1>This document may be found <a HREF="http://www.nytimes.com/ref/classifieds/">here</a></body>

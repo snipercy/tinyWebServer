@@ -1,0 +1,2588 @@
+Set-cookie: RMID=3280aa5b230b4ed9132fa86d; expires=Saturday, 01-Dec-2012 18:04:31 GMT; path=/; domain=.nytimes.com
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Set-cookie: adxcs=s*2814a=0:1; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>NY Times Magazine - The New York Times</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="noarchive">
+<meta name="description" content="" />
+<meta name="keywords" content="Campaign Finance,Romney, Mitt,Elections,Presidential Election of 2012,Politics and Government,Mormons (Church of Jesus Christ of Latter-Day Saints),Families and Family Life,Coma,Drugs (Pharmaceuticals),Swimming,Exercise,Nyad, Diana,Writing and Writers,Books and Literature,Cohn, Nik,Music,Rock Music,Drug Abuse and Traffic,Economic Conditions and Trends,European Sovereign Debt Crisis (2010- ),International Trade and World Market,Euro (Currency),European Union,European Central Bank,Tests (Medical),Calcium,Doctors,Genetics and Heredity,Credit Cards,Banking and Financial Institutions,Books and Literature,Walden Pond (Concord, Mass),Emerson, Ralph Waldo,Movies,Swinton, Tilda,Scotland,Actors and Actresses,Computers and the Internet,Cody, Diablo,Roosevelt, Franklin Delano,Dylan, Bob,Cody, Diablo,United States Politics and Government,Transit Systems,Computers and the Internet,Ottolenghi, Yotam,London (England),Cooking and Cookbooks,Restaurants,Chefs,Vegetables,Small Business,Lying,Ethics (Personal),Bosnia and Herzegovina,Travel and Vacations,Nursing Homes,Love (Emotion),Gold,Mines and Mining,Mongolia,Youth,Parenting,Sex,Abstinence (Sexual),United States Politics and Government,Warren, Elizabeth,Law and Legislation,Republican Party,Federal Budget (US),McCarthy, Kevin,United States Politics and Government,House of Representatives,Sexual Slavery,International Labor Organization,Human Trafficking,Poverty,Women and Girls,CARE,Third World and Developing Countries,Foreign Aid,World Health Organization,Sexual Slavery,International Labor Organization,Human Trafficking,Poverty,Women and Girls,CARE,Third World and Developing Countries,Foreign Aid,World Health Organization,Sexual Slavery,International Labor Organization,Human Trafficking,Poverty,Women and Girls,CARE,Third World and Developing Countries,Foreign Aid,World Health Organization,Murakami, Haruki,Tokyo (Japan),Bloomberg, Michael R,Hadid, Zaha,Education (K-12),Iraq,McChrystal, Stanley A,Afghanistan War (2001- ),September 11 (2001),Terrorism,Iraq War (2003- ),Huntsman, Jon M Jr,Republican Party,Bachmann, Michele M,Elections,Obama, Barack,Democratic Party,Cain, Herman,Perry, Rick,Presidential Election of 2012,Romney, Mitt,Photography,Martindale, Margo,Glover, Donald,Television,MacDonald, Kelly,Lynch, Jane,Cranston, Bryan,Panjabi, Archie,Dinklage, Peter,Baldwin, Alec,Emmy Awards" />
+<meta name="asset_id" content="">
+<meta name="CG" content="magazine">
+<meta name="SCG" content="">
+<meta name="PT" content="Section Front">
+<meta name="PST" content="">
+<link rel="canonical" href="http://www.nytimes.com/pages/magazine/index.html">
+<meta name="msapplication-starturl" content="http://www.nytimes.com/" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.nytimes.com/services/xml/rss/nyt/Magazine.xml"/>
+
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/build/sectionfront/magazine/styles.css" />
+<link rel="stylesheet" type="text/css" media="print" href="http://graphics8.nytimes.com/css/0.1/print/styles.css">
+<!--[if IE]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie.css);
+	    </style>
+	<![endif]-->
+<!--[if IE 6]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie6.css);
+	    </style>
+	<![endif]-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/DropDown.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/util/tooltip.js"></script>
+<script type="text/JavaScript">
+		var static_kw = "Campaign Finance;Romney; Mitt;Elections;Presidential Election of 2012;Politics and Government;Mormons (Church of Jesus Christ of Latter-Day Saints);Families and Family Life;Coma;Drugs (Pharmaceuticals);Swimming;Exercise;Nyad; Diana;Writing and Writers;Books and Literature;Cohn; Nik;Music;Rock Music;Drug Abuse and Traffic;Economic Conditions and Trends;European Sovereign Debt Crisis (2010- );International Trade and World Market;Euro (Currency);European Union;European Central Bank;Tests (Medical);Calcium;Doctors;Genetics and Heredity;Credit Cards;Banking and Financial Institutions;Books and Literature;Walden Pond (Concord; Mass);Emerson; Ralph Waldo;Movies;Swinton; Tilda;Scotland;Actors and Actresses;Computers and the Internet;Cody; Diablo;Roosevelt; Franklin Delano;Dylan; Bob;Cody; Diablo;United States Politics and Government;Transit Systems;Computers and the Internet;Ottolenghi; Yotam;London (England);Cooking and Cookbooks;Restaurants;Chefs;Vegetables;Small Business;Lying;Ethics (Personal);Bosnia and Herzegovina;Travel and Vacations;Nursing Homes;Love (Emotion);Gold;Mines and Mining;Mongolia;Youth;Parenting;Sex;Abstinence (Sexual);United States Politics and Government;Warren; Elizabeth;Law and Legislation;Republican Party;Federal Budget (US);McCarthy; Kevin;United States Politics and Government;House of Representatives;Sexual Slavery;International Labor Organization;Human Trafficking;Poverty;Women and Girls;CARE;Third World and Developing Countries;Foreign Aid;World Health Organization;Sexual Slavery;International Labor Organization;Human Trafficking;Poverty;Women and Girls;CARE;Third World and Developing Countries;Foreign Aid;World Health Organization;Sexual Slavery;International Labor Organization;Human Trafficking;Poverty;Women and Girls;CARE;Third World and Developing Countries;Foreign Aid;World Health Organization;Murakami; Haruki;Tokyo (Japan);Bloomberg; Michael R;Hadid; Zaha;Education (K-12);Iraq;McChrystal; Stanley A;Afghanistan War (2001- );September 11 (2001);Terrorism;Iraq War (2003- );Huntsman; Jon M Jr;Republican Party;Bachmann; Michele M;Elections;Obama; Barack;Democratic Party;Cain; Herman;Perry; Rick;Presidential Election of 2012;Romney; Mitt;Photography;Martindale; Margo;Glover; Donald;Television;MacDonald; Kelly;Lynch; Jane;Cranston; Bryan;Panjabi; Archie;Dinklage; Peter;Baldwin; Alec;Emmy Awards";
+		var dynamic_kw = "Campaign+Finance;Romney;+Mitt;Elections;Presidential+Election+of+2012;Politics+and+Government;Mormons+%28Church+of+Jesus+Christ+of+Latter-Day+Saints%29;Families+and+Family+Life;Coma;Drugs+%28Pharmaceuticals%29;Swimming;Exercise;Nyad;+Diana;Writing+and+Writers;Books+and+Literature;Cohn;+Nik;Music;Rock+Music;Drug+Abuse+and+Traffic;Economic+Conditions+and+Trends;European+Sovereign+Debt+Crisis+%282010-+%29;International+Trade+and+World+Market;Euro+%28Currency%29;European+Union;European+Central+Bank;Tests+%28Medical%29;Calcium;Doctors;Genetics+and+Heredity;Credit+Cards;Banking+and+Financial+Institutions;Books+and+Literature;Walden+Pond+%28Concord;+Mass%29;Emerson;+Ralph+Waldo;Movies;Swinton;+Tilda;Scotland;Actors+and+Actresses;Computers+and+the+Internet;Cody;+Diablo;Roosevelt;+Franklin+Delano;Dylan;+Bob;Cody;+Diablo;United+States+Politics+and+Government;Transit+Systems;Computers+and+the+Internet;Ottolenghi;+Yotam;London+%28England%29;Cooking+and+Cookbooks;Restaurants;Chefs;Vegetables;Small+Business;Lying;Ethics+%28Personal%29;Bosnia+and+Herzegovina;Travel+and+Vacations;Nursing+Homes;Love+%28Emotion%29;Gold;Mines+and+Mining;Mongolia;Youth;Parenting;Sex;Abstinence+%28Sexual%29;United+States+Politics+and+Government;Warren;+Elizabeth;Law+and+Legislation;Republican+Party;Federal+Budget+%28US%29;McCarthy;+Kevin;United+States+Politics+and+Government;House+of+Representatives;Sexual+Slavery;International+Labor+Organization;Human+Trafficking;Poverty;Women+and+Girls;CARE;Third+World+and+Developing+Countries;Foreign+Aid;World+Health+Organization;Sexual+Slavery;International+Labor+Organization;Human+Trafficking;Poverty;Women+and+Girls;CARE;Third+World+and+Developing+Countries;Foreign+Aid;World+Health+Organization;Sexual+Slavery;International+Labor+Organization;Human+Trafficking;Poverty;Women+and+Girls;CARE;Third+World+and+Developing+Countries;Foreign+Aid;World+Health+Organization;Murakami;+Haruki;Tokyo+%28Japan%29;Bloomberg;+Michael+R;Hadid;+Zaha;Education+%28K-12%29;Iraq;McChrystal;+Stanley+A;Afghanistan+War+%282001-+%29;September+11+%282001%29;Terrorism;Iraq+War+%282003-+%29;Huntsman;+Jon+M+Jr;Republican+Party;Bachmann;+Michele+M;Elections;Obama;+Barack;Democratic+Party;Cain;+Herman;Perry;+Rick;Presidential+Election+of+2012;Romney;+Mitt;Photography;Martindale;+Margo;Glover;+Donald;Television;MacDonald;+Kelly;Lynch;+Jane;Cranston;+Bryan;Panjabi;+Archie;Dinklage;+Peter;Baldwin;+Alec;Emmy+Awards";
+		var nyt_google_contents = dynamic_kw + static_kw;
+		var nyt_google_ad_channel = "magazine";
+	</script>
+<script type="text/javascript" src="http://use.typekit.com/fml4qar.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" src="http://js.nyt.com/js2/build/sitewide/sitewide.js"></script>
+<script type="text/javascript" src="http://js.nyt.com/js/app/lib/jquery/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+</head>
+<body>
+<a name="top"></a>
+<div id="shell">
+
+<ul id="memberTools">
+
+ 
+                        <li><a id="memberToolsLogin" href="https://myaccount.nytimes.com/auth/login">Log In</a></li>
+            <li><a href="https://myaccount.nytimes.com/gst/regi.html">Register Now</a></li>
+                            
+
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+</ul>
+<div class="tabsContainer">
+<ul id="mainTabs" class="tabs">
+<li class="first mainTabHome"><a href="http://www.nytimes.com">Home Page</a></li>
+<li class="mainTabTodaysPaper"><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+<li class="mainTabVideo"><a href="http://www.nytimes.com/video">Video</a></li>
+<li class="mainTabMostPopular"><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+<li class="mainTabTimesTopics"><a href="http://topics.nytimes.com/top/reference/timestopics">Times Topics</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+</script>	<div id="page" class="tabContent active">
+<div class="clearfix" id="masthead">
+
+<div class="singleAd" id="Middle1C">
+<!-- ADXINFO classification="button" campaign="ING_DirectSiteSearchQ111_1694929-nyt1"--><A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/magazine/index.html&pos=Middle1C&sn2=a406fb17/5d192985&sn1=59756299/46b02203&camp=ING_DirectSiteSearchQ111_1694929-nyt1&ad=NEW.88x31.SiteSearch.Wizard&goto=http://ad.doubleclick.net/jump/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.31" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.31"
+ BORDER=0 WIDTH=88 HEIGHT=31
+ ALT="Click Here"></A>
+</div>
+
+<div id="searchWidget">
+<div class="inlineSearchControl">
+<form enctype="application/x-www-form-urlencoded" action="http://query.nytimes.com/search/sitesearch" method="get" name="searchForm" id="searchForm">
+<input type="hidden" value="full" name="date_select"/>
+<label for="searchQuery">Search All NYTimes.com</label>
+<input type="text" class="text" value="" size="" name="query" id="searchQuery"/>
+<input type="hidden" id="searchAll" name="type" value="nyt"/>
+<input type="image" id="searchSubmit" title="Search" alt="Search" width="22" height="19" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"/>
+</form>
+</div>
+</div>
+
+<div id="branding" >
+<a href="http://www.nytimes.com"><img src="http://graphics8.nytimes.com/images/misc/nytlogo152x23.gif" alt="New York Times" id="NYTLogo"/></a>
+</div>
+
+<div id="date">
+<p>
+Friday, December  2, 2011
+</p>
+</div>
+
+<h2>
+<a href="http://www.nytimes.com/pages/magazine/index.html">Magazine</a>
+</h2>
+
+</div>
+<div class="navigation tabsContainer">
+<ul class="tabs">
+<li id="navWorld" class="first ">
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>	<li id="navUs" >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>	<li id="navNyregion" >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>	<li id="navBusiness" >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>	<li id="navTechnology" >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>	<li id="navScience" >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>	<li id="navHealth" >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>	<li id="navSports" >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>	<li id="navOpinion" >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>	<li id="navArts" >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>	<li id="navStyle" >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>	<li id="navTravel" >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>	<li id="navJobs" >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>	<li id="navRealestate" >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>	<li id="navAutomobiles" >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li></ul>
+</div>
+
+<div class="singleAd" id="TopAd">
+<!-- ADXINFO classification="leaderboard_728" campaign="Citi_NatContContextAddress_1778585-nyt1"--><script language="JavaScript" type="text/javascript" src="http://view.atdmt.com/NYC/jview/359855726/direct;wi.728;hi.90;pc.172960_282801/01/2011.12.02.18.04.31?click=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fadx%2Fbin%2Fadx%5Fclick%2Ehtml%3Ftype%3Dgoto%26opzn%26page%3Dwww.nytimes.com/pages/magazine/index.html%26pos%3DTopAd%26camp%3DCiti%5FNatContContextAddress%5F1778585%2Dnyt1%26ad%3Datlas%2D359855726%5F728x90%5FROS%26sn2%3D30eabb1e/fc0de8c3%26snr%3Ddoubleclick%26snx%3D1322848862%26sn1%3Da24f8359%2Fd9b22823%26goto%3D">
+</script><noscript><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/magazine/index.html&pos=TopAd&sn2=30eabb1e/fc0de8c3&sn1=c8e65fa8/cdc43793&camp=Citi_NatContContextAddress_1778585-nyt1&ad=atlas-359855726_728x90_ROS&goto=http%3A%2F%2Fclk%2Eatdmt%2Ecom%2FNYC%2Fgo%2F359855726%2Fdirect%3Bwi%2E728%3Bhi%2E90%3Bpc%2E172960%5F282801%2F01%2F2011.12.02.18.04.31%2F" target="_blank"><img border="0" src="http://view.atdmt.com/NYC/view/359855726/direct;wi.728;hi.90;pc.172960_282801/01/2011.12.02.18.04.31/" /></a></noscript>
+</div>
+
+<div id="main">
+<div class="spanAB wrap">
+<div class="wideA">
+<div class="abColumn">
+<div id="spanABTopRegion">
+<div class="columnGroup first">
+<div id="ABcolumnPromo">
+<h2 title="The New York Times Magazine">The New York Times Magazine</h2>               
+<h3 class="dateline"> </h3>
+</div><style type="text/css">
+@import url(http://graphics8.nytimes.com/css/0.1/screen/common/modules/filmstrip.css);
+.abColumn .filmstrip .subColumn-3 {
+  background-image: none;
+  padding: 42px 7px 0px;
+}
+.filmstrip {
+  border-bottom-width: 10px;
+  background: url(http://graphics8.nytimes.com/images/2010/12/07/magazine/highlights2/highlights2-custom1.gif) center 14px no-repeat;
+}
+.abColumn .filmstrip .subColumn-3 .column {
+  width: 196px;
+}
+.abColumn .filmstrip .subColumn-3 .lastColumn {
+  width: 190px;
+}
+.filmstrip .subColumn-3 .columnGroup {
+  margin-bottom: 7px;
+}
+.filmstrip .overlay {
+  left: 8px;
+  bottom: 17px;
+  width: 585px;
+  background: transparent url(http://graphics8.nytimes.com/images/global/common/filmstripOverlay.png) repeat-y left bottom;
+}
+.filmstrip .overlay .column {
+  width: 190px;
+  margin-right: 5px;
+}
+.overlay .kicker{
+  margin-bottom:-2px;
+  padding-top:4px;
+  font-weight: bold;
+}
+.filmstrip .overlay .columnGroup {
+  padding-bottom: 6px;
+  padding-top:3px;
+}
+* html .filmstrip .headlines {
+  bottom: 12px;
+}
+* html .filmstrip .overlay {
+  background-image:none;
+  filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://graphics8.nytimes.com/images/global/common/filmstripOverlay.png', sizingMethod='scale');
+  margin-left:7px;
+  bottom: 0;
+}
+*html .filmstrip .subColumn-3 .column{
+  width:197px;
+}
+*html .filmstrip .subColumn-3 .lastColumn { width: 188px; }
+*html .filmstrip .overlay .lastColumn { padding-left: 4px; }
+.filmstrip h6.kicker {
+  padding-left: 8px;
+  color: #FFFFFF;
+}
+</style>
+</div><!--end div.columnGroup -->
+<div class="columnGroup last">
+<!--collectionKicker:[Highlights From This Issue] -->
+<div class="filmstrip clearfix">
+<div class="doubleRuleDivider flushBottom flushTop"></div>
+<div class="subColumn-3 wrap">
+<div class="column firstColumn">
+<div class="columnGroup">
+<div class="wideThumb">
+<a href="http://www.nytimes.com/2011/12/04/magazine/yotam-ottolenghis-international-cuisine.html?ref=magazine">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/magazine/04fs-eat/04fs-eat-filmstrip.jpg" width="190" height="190" alt="" border="0" /> 
+</a>
+</div> 
+</div>
+</div>
+<div class="column">
+<div class="columnGroup">
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/2011/12/04/magazine/ninja-gold-miners-mongolia.html?ref=magazine">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/magazine/04fs-look/04fs-look-filmstrip.jpg" width="190" height="190" alt="" border="0" /> 
+</a>
+</div> 
+</div>
+</div>
+<div class="column lastColumn">
+<div class="columnGroup">
+<div class="wideThumb">
+<a href="http://www.nytimes.com/2011/12/04/magazine/nik-cohn-fever-dream.html?ref=magazine">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/magazine/04fs-cohn/04fs-cohn-filmstrip.jpg" width="190" height="190" alt="" border="0" /> 
+</a>
+</div> 
+</div>
+</div>
+</div><!--end div.subColumn-3.wrap -->
+<div class="headlines">	
+<div class="overlay">
+<div class="column firstColumn">
+<div class="columnGroup">            <div class="kicker"> 
+<a href="http://www.nytimes.com/2011/12/04/magazine/yotam-ottolenghis-international-cuisine.html?ref=magazine">Eat</a> 
+</div>
+<h5> <a href="http://www.nytimes.com/2011/12/04/magazine/yotam-ottolenghis-international-cuisine.html?ref=magazine">Yotam Ottolenghi’s International Cuisine &#x00bb;</a> </h5>
+<!--END FILMSTRIP-HEADLINE -->
+<div class="byline"><a href="http://www.nytimes.com/2011/12/04/magazine/yotam-ottolenghis-international-cuisine.html?ref=magazine">By MARK BITTMAN</a></div>				</div>
+</div>	
+<div class="column">
+<div class="columnGroup">            <div class="kicker"> 
+<a href="http://www.nytimes.com/interactive/2011/12/04/magazine/ninja-gold-miners-mongolia.html?ref=magazine">Look</a> 
+</div>
+<h5> <a href="http://www.nytimes.com/interactive/2011/12/04/magazine/ninja-gold-miners-mongolia.html?ref=magazine">The Ninja Gold Miners of Mongolia &#x00bb;</a> </h5>
+<!--END FILMSTRIP-HEADLINE -->
+<div class="byline"><a href="http://www.nytimes.com/interactive/2011/12/04/magazine/ninja-gold-miners-mongolia.html?ref=magazine">Photographs by ANDREW ROWAT</a></div>				</div>
+</div>	
+<div class="column lastColumn">
+<div class="columnGroup">    
+<h5> <a href="http://www.nytimes.com/2011/12/04/magazine/nik-cohn-fever-dream.html?ref=magazine">Nik Cohn’s Fever Dream &#x00bb;</a> </h5>
+<!--END FILMSTRIP-HEADLINE -->
+<div class="byline"><a href="http://www.nytimes.com/2011/12/04/magazine/nik-cohn-fever-dream.html?ref=magazine">By MARK ROZZO</a></div>				</div>
+</div>		
+</div><!--close div.overlay -->
+</div><!--close div.headlines -->
+<div class="doubleRuleDivider flushBottom flushTop"></div>
+</div><!--end div.filmstrip.clearfix -->
+</div><!--end div.columnGroup -->
+</div><!--end #spanABTopRegion.opening -->
+<div class="aColumn">
+<!--cur:LedeStory395 prev:-->
+<div class="columnGroup first">
+<div class="ledeStory">
+<div class="storyHeader">
+<h6 class="byline">
+</h6>
+</div>
+<div class="ledePhoto">
+<div class="image">
+<a href="http://www.nytimes.com/2011/12/04/magazine/mitt-romney-bot.html?ref=magazine"><img src="http://graphics8.nytimes.com/images/2011/12/04/magazine/04cover1/04cover1-sfSpan.jpg" border="0" width="395" height="494" alt="" /></a>
+</div>
+<h6 class="credit">Photo illustration by Tom Schierlitz. Illustration by Francesco Poroli.</h6>
+</div>
+</div>
+</div>
+<!--cur:StandardThumb prev:LedeStory395-->
+<div class="columnGroup ">
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/04/magazine/mitt-romney-bot.html?ref=magazine">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/magazine/04romney_span/04romney_span-thumbStandard-v3.jpg" width="75" height="75" alt="At the Peterborough Town House in New Hampshire last month." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/04/magazine/mitt-romney-bot.html?ref=magazine">
+Building a Better Mitt Romney-Bot</a></h3>
+<h6 class="byline">
+By ROBERT DRAPER	    </h6>
+<p class="summary">
+His camp doesn’t need to turn their guy into someone you’d have a beer with. They just need to eliminate the bugs in the machine.</p>
+<ul class="refer">
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001194423" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/04/magazine/mitt-romney-bot.html"></span></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/04/magazine/can-ambien-wake-minimally-conscious.html?ref=magazine">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/magazine/04Conscious1/04Conscious1-thumbStandard.jpg" width="75" height="75" alt="Chris Cox in a moment of connection." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/04/magazine/can-ambien-wake-minimally-conscious.html?ref=magazine">
+A Drug That Wakes the Near Dead</a></h3>
+<h6 class="byline">
+By JENEEN INTERLANDI	    </h6>
+<p class="summary">
+A surprising drug has brought a kind of consciousness to patients once considered vegetative — and changed the debate over pulling the plug.</p>
+<ul class="refer">
+<li><a href="http://video.nytimes.com/video/2011/12/01/multimedia/100000001200115/ambiens-wakeful-effect.html"><span class="icon video">Video</span>: Ambien’s Power to Awaken</a></li>
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001194405" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/04/magazine/can-ambien-wake-minimally-conscious.html"></span></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/04/magazine/marathon-swimmer-diana-nyad.html?ref=magazine">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/magazine/04nyad1/mag-04Nyad-t_CA0-thumbStandard.jpg" width="75" height="75" alt="Diana Nyad, three days after her September attempt to swim from Cuba to Florida." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/04/magazine/marathon-swimmer-diana-nyad.html?ref=magazine">
+Marathon Swimmer Diana Nyad Takes On the Demons of the Sea</a></h3>
+<h6 class="byline">
+By ELIZABETH WEIL	    </h6>
+<p class="summary">
+Why the 62-year-old can’t stay out of the water. Despite the jellyfish.</p>
+<ul class="refer">
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001194419" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/04/magazine/marathon-swimmer-diana-nyad.html"></span></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/04/magazine/nik-cohn-fever-dream.html?ref=magazine">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/magazine/04cohn1/04cohn1-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/04/magazine/nik-cohn-fever-dream.html?ref=magazine">
+Nik Cohn’s Fever Dream</a></h3>
+<h6 class="byline">
+By MARK ROZZO	    </h6>
+<p class="summary">
+He got as close as any writer ever has to being a rock star. His last act won’t be any different.</p>
+<ul class="refer">
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001194403" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/04/magazine/nik-cohn-fever-dream.html"></span></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">It’s the Economy</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/04/magazine/adam-davidson-european-finance.html?ref=magazine">
+<img src="http://graphics8.nytimes.com/images/2011/11/29/magazine/mag-04economy/mag-04economy-thumbStandard.jpg" width="75" height="75" alt="The flag of the European Union flies in front of the German Parliament building in Berlin." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/04/magazine/adam-davidson-european-finance.html?ref=magazine">
+Europe’s Financial Crisis, in Plain English</a></h3>
+<h6 class="byline">
+By ADAM DAVIDSON, JACOB GOLDSTEIN and CAITLIN KENNEY	    </h6>
+<p class="summary">
+Simple answers to complicated questions about what’s wrong with Europe and whether it can be fixed.</p>
+<ul class="refer">
+<li><a 
+href="http://www.nytimes.com/2011/12/04/magazine/adam-davidson-european-finance.html
+#postcomment"><img
+src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif"
+alt="Comment" style="margin-right: 3px; padding-top: 3px;" border="0">
+Post a Comment</a> | <a
+href="http://www.nytimes.com/2011/12/04/magazine/adam-davidson-european-finance.html
+#commentsContainer">Read</a</li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">Diagnosis</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/04/magazine/diagnosis-nerves-or-something-worse.html?ref=magazine">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/magazine/04diagnosis2/04diagnosis2-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/04/magazine/diagnosis-nerves-or-something-worse.html?ref=magazine">
+Nerves or Something Worse?</a></h3>
+<h6 class="byline">
+By LISA SANDERS, M.D.	    </h6>
+<p class="summary">
+A healthy 29-year-old man wakes up with excruciating abdominal pain.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/interactive/2011/12/04/magazine/04-diagnosis-reader-responses.html"> Reader Responses</a></li>
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001194406" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/04/magazine/diagnosis-nerves-or-something-worse.html"></span></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">Who Made That?</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/04/magazine/the-cardboard-beginnings-of-the-credit-card.html?ref=magazine">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/magazine/04wmt_span/04wmt_span-thumbStandard-v2.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/04/magazine/the-cardboard-beginnings-of-the-credit-card.html?ref=magazine">
+The Cardboard Beginnings of the Credit Card</a></h3>
+<h6 class="byline">
+By HILARY GREENBAUM and DANA RUBINSTEIN	    </h6>
+<p class="summary">
+From the Diner’s Club to the Google Wallet, the charge card has come a long way.</p>
+<ul class="refer">
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001194425" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/04/magazine/the-cardboard-beginnings-of-the-credit-card.html"></span></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">Riff</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/04/magazine/riff-ralph-waldo-emerson.html?ref=magazine">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/magazine/04riff-2/04riff-2-thumbStandard.jpg" width="75" height="75" alt="Ralph Waldo Emerson reading in a chair." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/04/magazine/riff-ralph-waldo-emerson.html?ref=magazine">
+The Foul Reign of Emerson’s ‘Self-Reliance’</a></h3>
+<h6 class="byline">
+By BENJAMIN ANASTAS	    </h6>
+<p class="summary">
+Ralph Waldo Emerson’s famous call to independent thinking gave rise to every faddish movement in America, from birthers to Etsy to “Blink.” But enough is enough.</p>
+<ul class="refer">
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001194427" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/04/magazine/riff-ralph-waldo-emerson.html"></span></li>
+</ul>
+</div>
+</div>
+<!--cur:HeadlineOnly prev:StandardThumb-->
+<div class="columnGroup singleRule ">
+<ul class="headlinesOnly multiline flush">
+<div id="multiPlayer">
+<!--brightcove code starts here  09/30/08 build//-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/bcvideo/1.0/iframe/embed.js"></script>
+<script type="text/javascript">
+  NYT_VideoPlayerStart( {
+     playerType  : "section",
+     playlistId  : "1194811622351"
+  } );
+</script>
+<!--brightcove code ends here //-->
+</div>
+</ul>
+</div>
+<!--cur:StandardThumb prev:HeadlineOnly-->
+<div class="columnGroup singleRule last">
+<h6 class="sectionHeader">Sunday Puzzles</h6><div class="columnGroup singleRule "></div>
+<div class="story">
+<h3><a href="?ref=magazine">
+</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+You can now download and print the popular variety puzzles from the Sunday magazine free online. 
+Look below for links to this week’s puzzle as well as answers to last week’s.</p>
+<ul class="refer">
+<li><a href="http://graphics8.nytimes.com/packages/pdf/xword/varietypuzzle.pdf" title="free PDF link">This week’s variety puzzle. (PDF)</a></li>
+<li><a href="http://graphics8.nytimes.com/packages/pdf/xword/variety_ans.pdf" title="free PDF link">Last week’s variety puzzle solution. (PDF)</a></li>
+<li><a href="http://graphics8.nytimes.com/packages/pdf/xword/sunday_ans.pdf" title="free PDF link">Last week’s Sunday puzzle solution. (PDF)</a></li>
+<li><a href="http://graphics8.nytimes.com/packages/pdf/xword/kenken_ans.pdf" title="free PDF link">Last week’s KenKen puzzle solution. (PDF)</a></li>
+<li><div class="story"><h5><a href="http://query.nytimes.com/premium/xword/puzzles.html">Premium Crosswords</a></h5></div></li>
+</ul>
+</div>
+</div>
+</div><!--close .aColumn -->
+<div class="bColumn">
+<div class="columnGroup SectionFront3ColABSpanTopAndMiddle first">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://6thfloor.blogs.nytimes.com/" title="The 6th Floor: the blog of The New York Times Magazine">
+<img src="http://graphics8.nytimes.com/images/blogs_v3/6thfloor/6thfloor190.gif" alt="The 6th Floor: the blog of The New York Times Magazine"/>
+</a> 
+</h3> <div class="story first">
+<h3><a href="http://6thfloor.blogs.nytimes.com/2011/12/02/you-must-read-this/?ref=magazine">Bad Mothers and Worse Mothers</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">11:57 AM ET</span></p>
+</div><div class="story">
+<h3><a href="http://6thfloor.blogs.nytimes.com/2011/12/02/the-bon-iver-grammy-quandary/?ref=magazine">The Bon Iver Grammy Quandary</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">11:53 AM ET</span></p>
+</div><div class="story">
+<h3><a href="http://6thfloor.blogs.nytimes.com/2011/12/01/sentence-of-the-week-holiday-weekend-election-results/?ref=magazine">Sentence of the Week: Holiday Weekend Election Results</a></h3>
+<p class="date">December 1, 2011 <span class="timestamp">4:53 PM ET</span></p>
+</div><p class="refer">
+<a href="http://6thfloor.blogs.nytimes.com/" title="Go to Blog">Go to Blog &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule ">
+<div class="story">
+<h6 class="kicker">Talk</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/04/magazine/tilda-swinton.html?ref=magazine">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/magazine/04talk/mag-04talk-t_CA0-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/04/magazine/tilda-swinton.html?ref=magazine">
+The Radical Transparency of Tilda Swinton</a></h3>
+<h6 class="byline">
+By ANDREW GOLDMAN	    </h6>
+<p class="summary">
+Murder plots, younger lovers, penis prosthetics — there are no secrets here.</p>
+<ul class="refer">
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001194424" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/04/magazine/tilda-swinton.html"></span></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">The One-Page Magazine</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/12/04/magazine/diablo-cody-and-adult-onesies.html?ref=magazine">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/magazine/onesie.png" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/12/04/magazine/diablo-cody-and-adult-onesies.html?ref=magazine">
+Diablo Cody and Adult Onesies</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Also: Matt Bai on F.D.R.-lust and Adam Sternbergh on things neither hot nor not.</p>
+</div>
+<div style="display:none;"><div class="story">
+<h3><a href="http://www.nytimes.com/2011/12/04/magazine/the-one-page-magazine.html?ref=magazine">
+The One-Page Magazine</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Diablo Cody, adult onesies, Matt Bai on F.D.R.-lust and more.</p>
+</div>
+</div><div class="story">
+<h6 class="kicker">Eat</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/04/magazine/yotam-ottolenghis-international-cuisine.html?ref=magazine">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/magazine/04eat_span/mag-04Eat-t-000_CA0-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/04/magazine/yotam-ottolenghis-international-cuisine.html?ref=magazine">
+Yotam Ottolenghi’s International Cuisine</a></h3>
+<h6 class="byline">
+By MARK BITTMAN	    </h6>
+<p class="summary">
+How to describe the food at the Israel-born chef’s London restaurants? It’s complicated.</p>
+<ul class="refer">
+<li>Recipes: <a href="http://www.nytimes.com/2011/12/04/magazine/Ottolenghi-Leek-and-Cardamom-Fritters.html">Leek-and-Cardamom Fritters</a> | <a href="http://www.nytimes.com/2011/12/04/magazine/Ottolenghi-Rice-With-Poached-Eggs.html">Rice With Poached Eggs</a></li>
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001197746" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/04/magazine/yotam-ottolenghis-international-cuisine.html"></span></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">The Ethicist</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/04/magazine/the-ethicist-caveat-vendor.html?ref=magazine">
+<img src="http://graphics8.nytimes.com/images/2011/02/28/magazine/ethicist-image/ethicist-image-thumbStandard-v2.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/04/magazine/the-ethicist-caveat-vendor.html?ref=magazine">
+Caveat Vendor</a></h3>
+<h6 class="byline">
+By ARIEL KAMINER	    </h6>
+<p class="summary">
+Business as usual.</p>
+<ul class="refer">
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001201815" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/04/magazine/the-ethicist-caveat-vendor.html"></span></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">Lives</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/04/magazine/lives-the-reckoning.html?ref=magazine">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/magazine/04lives/mag-04Lives-t_CA0-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/04/magazine/lives-the-reckoning.html?ref=magazine">
+The Reckoning</a></h3>
+<h6 class="byline">
+By KENAN TREBINCEVIC	    </h6>
+<p class="summary">
+Returning home after the war, a Bosnian runs into the neighbor who turned on his family.</p>
+<ul class="refer">
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001194404" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/04/magazine/lives-the-reckoning.html"></span></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<div class="columnGroup first">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/2011/12/04/magazine/a-love-eternal.html?ref=magazine">
+<img src="http://graphics8.nytimes.com/packages/flash/magazine/2011/12/04WTWT/wtwtL1000640w.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay photo">Photo Essay</span>
+</a>
+</div>
+<h6 class="kicker">What They Were Thinking</h6>
+<h5><a href="http://www.nytimes.com/interactive/2011/12/04/magazine/a-love-eternal.html?ref=magazine">
+A Love Eternal, Hollywood, Fla.</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+“I met Danny at our assisted-living facility in May. He had just been transferred here from hospice, and the first time we looked into one another’s eyes, our souls locked.”</p>
+</div>
+</div>
+<div class="columnGroup singleRule last">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/2011/12/04/magazine/ninja-gold-miners-mongolia.html?ref=magazine">
+<img src="http://graphics8.nytimes.com/packages/flash/magazine/2011/12/04look/lookrowatpers20091110006107w.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay photo">Photo Essay</span>
+</a>
+</div>
+<h6 class="kicker">Look</h6>
+<h5><a href="http://www.nytimes.com/interactive/2011/12/04/magazine/ninja-gold-miners-mongolia.html?ref=magazine">
+The Ninja Gold Miners of Mongolia</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+They’re called ninja miners not for their stealth but for the ubiquitous green panning bowls they sling over their backs.</p>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<h3 class="sectionHeader">Reply All</h3>
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/04/magazine/reply-all-teaching-good-sex.html?ref=magazine">
+Teaching Good Sex</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/04/magazine/reply-all-elizabeth-warren.html?ref=magazine">
+Heaven Is a Place Called Elizabeth Warren</a>
+</h6>
+</li>
+</ul>
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">From the Archive</h6><div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/07/17/magazine/how-kevin-mccarthy-wrangles-the-tea-party.html?ref=magazine">
+<img src="http://graphics8.nytimes.com/images/2011/07/17/magazine/17freshman_span/17freshman_span-thumbStandard.jpg" width="75" height="75" alt="The office of the House majority whip. From left: Steve Womack (foreground), Sean Duffy, Michael Grimm, Nan Hayworth, Martha Roby and Kevin McCarthy." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/07/17/magazine/how-kevin-mccarthy-wrangles-the-tea-party.html?ref=magazine">
+How Kevin McCarthy Wrangles the Tea Party in Washington</a></h3>
+<h6 class="byline">
+By ROBERT DRAPER	    </h6>
+<p class="summary">
+The House majority whip may have the toughest job in Washington: persuading dozens of Congressional Tea Party freshmen to play well with others.</p>
+<ul class="refer">
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="1248069802003" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/07/17/magazine/how-kevin-mccarthy-wrangles-the-tea-party.html"></span></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup doubleRule last">
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://www.nytimes.com/interactive/magazine/masthead.html?ref=magazine">
+The Sunday Magazine Staff »</a>
+</h6>
+</li>
+</ul>
+</div>
+</div><!--close .bColumn -->
+<div id="SpanABMiddleRegion" class="opening module">
+<div id="insideNYTimes" class="doubleRule">
+<script language="JavaScript" type="text/javascript" src="http://graphics8.nytimes.com/js/app/moth/moth.js"></script>
+<div id="insideNYTimesHeader">     
+<h4>
+Recent Times Magazines  
+</h4>
+</div>
+<div class="leftPanel"><span id="leftArrow"><img id="mothReverse" src="http://graphics8.nytimes.com/images/global/buttons/moth_reverse.gif" /></span></div>    
+<div id="insideNYTimesScrollWrapper">
+<table id="insideNYTimesBrowser" cellspacing="0">
+<tbody>
+<tr>
+<td class="first">
+<div class="story">
+<h6 class="kicker">11.27.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/11/27/magazine/index.html"><img src="http://graphics8.nytimes.com/images/2011/11/27/magazine/27moth_cover/27moth_cover-moth.jpg" alt="Can the Bulldog Be Saved?" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/11/27/magazine/index.html">Can the Bulldog Be Saved?</a></h6>
+</div>
+</td>
+<td>
+<div class="story">
+<h6 class="kicker">11.20.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/11/19/magazine/index.html"><img src="http://graphics8.nytimes.com/images/2011/11/20/magazine/20moth_cover/20moth_cover-moth.jpg" alt="Teaching Good Sex" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/11/19/magazine/index.html">Teaching Good Sex</a></h6>
+</div>
+</td>
+<td>
+<div class="story">
+<h6 class="kicker">11.13.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/11/13/magazine/index.html"><img src="http://graphics8.nytimes.com/images/2011/11/13/magazine/13moth_cover/13moth_cover-moth.jpg" alt="The Human Swap" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/11/13/magazine/index.html">The Human Swap</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">11.6.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/11/05/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/11/06/magazine/06moth_cover/06moth_cover-moth.jpg" alt="Is Obama Toast?" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/11/05/magazine/index.html">Is Obama Toast?</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">10.30.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/10/31/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/11/30/magazine/30moth-cover/30moth-cover-moth.jpg" alt="We Are Still Not Ready" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/10/31/magazine/index.html">We Are Still Not Ready</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">10.23.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/10/23/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/10/23/magazine/23cover-moth1/23cover-moth1-moth.jpg" alt="The Fierce Imagination of Haruki Murakami" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/10/23/magazine/index.html">The Fierce Imagination of Haruki Murakami</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">10.16.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/10/16/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/10/16/magazine/16moth-cover/16moth-cover-moth.jpg" alt="Does Anyone Have a Grip on the G.O.P.?" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/10/16/magazine/index.html">Does Anyone Have a Grip on the G.O.P.?</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">10.9.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/10/09/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/10/09/magazine/09cover-moth/09cover-moth-moth.jpg" alt="Taken By Pirates" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/10/09/magazine/index.html">Taken By Pirates</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">10.2.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/10/02/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/10/02/magazine/02moth-cover/02moth-cover-moth.jpg" alt="The Food &amp; Drink Issue" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/10/02/magazine/index.html">The Food &amp; Drink Issue</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">9.25.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/09/25/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/09/25/magazine/25moth-cover/25moth-cover-moth.jpg" alt="&lsquo;I Want Qaddafi to Die.&rsquo;" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/09/25/magazine/index.html">&lsquo;I Want Qaddafi to Die.&rsquo;</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">9.18.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/09/18/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/09/18/magazine/18moth-cover/18moth-cover-moth.jpg" alt="The Education Issue" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/09/18/magazine/index.html">The Education Issue</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">9.11.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/09/11/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/09/11/magazine/11moth-cover/11moth-cover-moth.jpg" alt="The High Art of TV" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/09/11/magazine/index.html">The High Art of TV</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">9.4.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/09/04/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/09/04/magazine/04moth-cover/04moth-cover-moth.jpg" alt="Where Steel Meets the Sky" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/09/04/magazine/index.html">Where Steel Meets the Sky</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">8.28.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/08/28/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/09/28/magazine/28moth-cover/28moth-cover-moth.jpg" alt="Rivals!" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/08/28/magazine/index.html">Rivals!</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">8.21.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/08/21/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/08/21/magazine/21moth-cover/21moth-cover-moth.jpg" alt="What They Are Thinking Now" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/08/21/magazine/index.html">What They Are Thinking Now</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">8.14.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/08/14/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/08/14/magazine/14moth-cover/14moth-cover-moth.jpg" alt="The Two-Minus-One Pregnancy" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/08/14/magazine/index.html">The Two-Minus-One Pregnancy</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">8.7.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/08/07/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/08/07/magazine/07moth-cover/07moth-cover-moth.jpg" alt="Meyersize It!" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/08/07/magazine/index.html">Meyersize It!</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">7.31.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/07/31/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/07/31/magazine/31moth-elpaso/31moth-elpaso-moth.jpg" alt="At the End of America" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/07/31/magazine/index.html">At the End of America</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">7.24.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/07/24/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/07/24/magazine/24moth_cover/24moth_cover-moth.jpg" alt="Yemen on the Brink of Hell" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/07/24/magazine/index.html">Yemen on the Brink of Hell</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">7.17.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/07/17/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/07/17/magazine/17cover-moth/17cover-moth-moth.jpg" alt="Miranda July Is Totally Not Kidding" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/07/17/magazine/index.html">Miranda July Is Totally Not Kidding</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">7.10.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/07/10/magazine/"><span class="img" src="http://graphics8.nytimes.com/images/2011/07/10/magazine/10magcover-071011-copy/10magcover-071011-copy-moth.jpg" alt="A Regulator Scorned" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/07/10/magazine/">A Regulator Scorned</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">7.3.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/07/03/magazine/"><span class="img" src="http://graphics8.nytimes.com/images/2011/07/03/magazine/03magcover-070311-copy/03magcover-070311-copy-moth.jpg" alt="Married, With Infidelities" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/07/03/magazine/">Married, With Infidelities</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">6.26.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/06/26/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/06/26/magazine/26cover/26cover-moth.jpg" alt="For Derek Jeter, on His 37th Birthday" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/06/26/magazine/index.html">For Derek Jeter, on His 37th Birthday</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">6.19.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/06/19/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/06/19/magazine/19cover/19cover-moth.jpg" alt="Living the Good Lie" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/06/19/magazine/index.html">Living the Good Lie</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">6.12.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/06/12/magazine/"><span class="img" src="http://graphics8.nytimes.com/images/2011/06/12/magazine/12moth_cover/12moth_cover-moth-v2.jpg" alt="Voyages in America" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/06/12/magazine/">Voyages in America</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">6.5.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/06/05/magazine/"><span class="img" src="http://graphics8.nytimes.com/images/2011/06/05/magazine/05moth_cover/05moth_cover-moth.jpg" alt="Watching the Murder of an Innocent Man" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/06/05/magazine/">Watching the Murder of an Innocent Man</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">5.29.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/05/29/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/05/29/magazine/29moth_cover/29moth_cover-moth.jpg" alt="Could Conjoined Twins Share a Mind?" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/05/29/magazine/index.html">Could Conjoined Twins Share a Mind?</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">5.22.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/05/22/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/05/22/magazine/22moth_cover/22moth_cover-moth.jpg" alt="We Are All Teenage Werewolves" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/05/22/magazine/index.html">We Are All Teenage Werewolves</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">5.15.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/05/15/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/05/15/magazine/15moth_cover/15moth_cover-moth.jpg" alt="Gold Mania in the Yukon" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/05/15/magazine/index.html">Gold Mania in the Yukon</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">5.8.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/05/08/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/05/08/magazine/08moth_cover/08moth_cover-moth.jpg" alt="What Happened to Air France Flight 447?" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/05/08/magazine/index.html">What Happened to Air France Flight 447?</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">5.1.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/05/01/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/05/01/magazine/01moth_cover/01moth_cover-moth.jpg" alt="A Beast in the Heart of Every Fighting Man" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/05/01/magazine/index.html">A Beast in the Heart of Every Fighting Man</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">4.24.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/04/24/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/04/24/magazine/24moth_cover/24moth_cover-moth.jpg" alt="Obama&rsquo;s Young Mother Abroad" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/04/24/magazine/index.html">Obama&rsquo;s Young Mother Abroad</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">4.17.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/04/17/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/04/17/magazine/17moth-magcov/17moth-magcov-moth.jpg" alt="Health and Wellness Issue" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/04/17/magazine/index.html">Health and Wellness Issue</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">4.10.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/04/10/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/04/10/magazine/10moth-cover/10moth-cover-moth.jpg" alt="School Reform&rsquo;s Fragile Success in the Bronx" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/04/10/magazine/index.html">School Reform&rsquo;s Fragile Success in the Bronx</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">4.3.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/04/03/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/04/03/magazine/03moth-magcov/03moth-magcov-moth.jpg" alt="On Libya&rsquo;s Revolutionary Road" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/04/03/magazine/index.html">On Libya&rsquo;s Revolutionary Road</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">3.27.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/03/27/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/03/27/magazine/27moth-magcov/27moth-magcov-moth.jpg" alt="The Youth Issue" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/03/27/magazine/index.html">The Youth Issue</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">3.20.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/03/20/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/03/20/20moth-magcov/20moth-magcov-moth.jpg" alt="Why Yasir Qadhi Wants to Talk About Jihad" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/03/20/magazine/index.html">Why Yasir Qadhi Wants to Talk About Jihad</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">3.13.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/03/13/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/03/13/magazine/13moth-magcov/13moth-magcov-moth.jpg" alt="Is it Dunk and Done for Perry Jones?" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/03/13/magazine/index.html">Is it Dunk and Done for Perry Jones?</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">3.6.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/03/06/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/03/06/magazine/06moth-magcov/06moth-magcov-moth.jpg" alt="The Liberation of Lori Berenson" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/03/06/magazine/index.html">The Liberation of Lori Berenson</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">2.27.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/02/27/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/02/27/magazine/27moth-magcov/27moth-magcov-moth.jpg" alt="How Chris Christie Did His Homework" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/02/27/magazine/index.html">How Chris Christie Did His Homework</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">2.20.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/02/20/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/02/20/magazine/20moth-magcov/20moth-magcov-moth.jpg" alt="Secrets of a Memory Champion" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/02/20/magazine/index.html">Secrets of a Memory Champion</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">2.13.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/02/13/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/02/13/magazine/13moth-magcov/13moth-magcov-moth.jpg" alt="The Israel Peace Plan That Still Could Be" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/02/13/magazine/index.html">The Israel Peace Plan That Still Could Be</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">2.6.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/02/06/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/02/06/magazine/06moth-magcov/06moth-magcov-moth.jpg" alt="A Re-Examination of Shaken-Baby Syndrome" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/02/06/magazine/index.html">A Re-Examination of Shaken-Baby Syndrome</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">1.30.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/01/30/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/01/27/magazine/28moth_wikileaks/28moth_wikileaks-moth-v2.jpg" alt="Dealing With Assange and the Secrets He Spilled" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/01/30/magazine/index.html">Dealing With Assange and the Secrets He Spilled</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">1.23.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/01/23/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/01/23/magazine/23moth_jobsearch/23moth_jobsearch-moth-v2.jpg" alt="Portraits From a Job-Starved City" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/01/23/magazine/index.html">Portraits From a Job-Starved City</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">1.16.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/01/16/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/01/16/magazine/16moth-magcov/16moth-magcov-moth-v2.jpg" alt="Can Europe Be Saved?" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/01/16/magazine/index.html">Can Europe Be Saved?</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">1.9.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/01/09/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/01/09/magazine/09moth-cyberspace/09moth-cyberspace-moth-v2.jpg" alt="Cyberspace When You&rsquo;re Dead" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/01/09/magazine/index.html">Cyberspace When You&rsquo;re Dead</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">1.2.11</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2011/01/02/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2011/01/02/magazine/02moth-magcov/02moth-magcov-moth.jpg" alt="Meet the Twiblings" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2011/01/02/magazine/index.html">Meet the Twiblings</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">12.26.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/interactive/2010/12/26/magazine/2010lives.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/12/26/magazine/26magazine_moth/26magazine_moth-moth.jpg" alt="The Lives They Lived" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/interactive/2010/12/26/magazine/2010lives.html">The Lives They Lived</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">12.19.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/interactive/2010/12/19/magazine/ideas2010.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/12/19/magazine/19moth-magcov/19moth-magcov-moth.jpg" alt="The 10th Annual Year in Ideas" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/interactive/2010/12/19/magazine/ideas2010.html">The 10th Annual Year in Ideas</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">12.12.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/12/12/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/12/12/magazine/12moth-magcov/12moth-magcov-moth.jpg" alt="The Hollywood Issue" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/12/12/magazine/index.html">The Hollywood Issue</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">12.5.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/12/05/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/12/05/magazine/05moth-magcov/05moth-magcov-moth.jpg" alt="America&rsquo;s Least-Hated Banker" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/12/05/magazine/index.html">America&rsquo;s Least-Hated Banker</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">11.28.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/11/28/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/11/28/magazine/28moth-magcov/28moth-magcov-moth.jpg" alt="Shop, China, Shop!" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/11/28/magazine/index.html">Shop, China, Shop!</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">11.21.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/11/21/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/11/21/magazine/21moth-magcov/21moth-magcov-moth.jpg" alt="The Palin Network" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/11/21/magazine/index.html">The Palin Network</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">11.14.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/11/13/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/11/14/magazine/14moth-hacker/14moth-hacker-moth.jpg" alt="The Great Cyberheist" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/11/13/magazine/index.html">The Great Cyberheist</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">11.7.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/11/07/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/11/07/magazine/07oil_moth/07oil_moth-moth.jpg" alt="The Other Oil Cleanup" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/11/07/magazine/index.html">The Other Oil Cleanup</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">10.31.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/10/31/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/10/31/magazine/31moth-magcov/31moth-magcov-moth.jpg" alt="The N.B.A.&rsquo;s Oligarch and His Power Games" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/10/31/magazine/index.html">The N.B.A.&rsquo;s Oligarch and His Power Games</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">10.24.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/10/24/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/10/24/magazine/24moth-volunteer/24moth-volunteer-moth.jpg" alt="The Women&rsquo;s Empowerment Issue" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/10/24/magazine/index.html">The Women&rsquo;s Empowerment Issue</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">10.17.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/10/17/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/10/17/magazine/17moth-obama/17moth-obama-moth.jpg" alt="The Education of a President" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/10/17/magazine/index.html">The Education of a President</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">10.10.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/10/10/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/10/10/magazine/10moth-magcov/10moth-magcov-moth.jpg" alt="The Food Issue" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/10/10/magazine/index.html">The Food Issue</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">10.3.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/10/03/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/10/03/magazine/03moth-magcov/03moth-magcov-moth.jpg" alt="Being Glenn Beck" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/10/03/magazine/index.html">Being Glenn Beck</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">9.26.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/09/26/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/09/26/magazine/26moth-kafka/26moth-kafka-moth.jpg" alt="Kafka&rsquo;s Last Trial" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/09/26/magazine/index.html">Kafka&rsquo;s Last Trial</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">9.19.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/09/19/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/09/19/magazine/19moth-magcov/19moth-magcov-moth.jpg" alt="The Education-Technology Issue" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/09/19/magazine/index.html">The Education-Technology Issue</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">9.12.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/09/12/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/09/12/magazine/12moth-magcov/12moth-magcov-moth.jpg" alt="Rex Ryan: Bringing It Big" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/09/12/magazine/index.html">Rex Ryan: Bringing It Big</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">9.5.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/09/05/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/09/05/magazine/05moth-hacking/05moth-hacking-moth.jpg" alt="Tabloid Hack Attack on Royals, and Beyond" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/09/05/magazine/index.html">Tabloid Hack Attack on Royals, and Beyond</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">8.29.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/08/29/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/08/29/magazine/29moth-magcov/29moth-magcov-moth.jpg" alt="Women Who Hit Very Hard" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/08/29/magazine/index.html">Women Who Hit Very Hard</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">8.22.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/08/22/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/08/22/magazine/22moth-magcov/22moth-magcov-moth.jpg" alt="What Is It About 20-Somethings?" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/08/22/magazine/index.html">What Is It About 20-Somethings?</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">8.15.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/08/15/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/08/15/magazine/15moth-magcov/15moth-magcov-moth.jpg" alt="The Making of Andrew Cuomo" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/08/15/magazine/index.html">The Making of Andrew Cuomo</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">8.8.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/08/08/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/08/08/magazine/08moth-magcov/08moth-magcov-moth.jpg" alt="My Life in Therapy" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/08/08/magazine/index.html">My Life in Therapy</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">8.1.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/08/01/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/08/01/magazine/01moth-magcov/01moth-magcov-moth.jpg" alt="The Age of Laura Linney" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/08/01/magazine/index.html">The Age of Laura Linney</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">7.25.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/07/25/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/07/25/magazine/25moth-magcov/25moth-magcov-moth.jpg" alt="The Web Means the End of Forgetting" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/07/25/magazine/index.html">The Web Means the End of Forgetting</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">7.18.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/07/18/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/07/18/magazine/18moth-magcov/18moth-magcov-moth.jpg" alt="The New Abortion Providers" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/07/18/magazine/index.html">The New Abortion Providers</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">7.11.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/07/11/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/07/11/magazine/11moth-magcov/11moth-magcov-moth.jpg" alt="Is Yemen the Next Afghanistan?" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/07/11/magazine/index.html">Is Yemen the Next Afghanistan?</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">7.4.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/07/04/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/07/04/magazine/04moth-magcov/04moth-magcov-moth.jpg" alt="Mariano Rivera, the King of the Closers" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/07/04/magazine/index.html">Mariano Rivera, the King of the Closers</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">6.27.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/06/27/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/06/27/magazine/27moth-magcov/27moth-magcov-moth.jpg" alt="Tuna&rsquo;s End" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/06/27/magazine/index.html">Tuna&rsquo;s End</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">6.20.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/06/20/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/06/20/magazine/20moth-magcov/20moth-magcov-moth.jpg" alt="What Is I.B.M.&rsquo;s Watson?" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/06/20/magazine/index.html">What Is I.B.M.&rsquo;s Watson?</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">6.13.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/06/13/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/06/13/magazine/13moth-magcov/13moth-magcov-moth.jpg" alt="Democrat in Chief?" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/06/13/magazine/index.html">Democrat in Chief?</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">6.6.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/06/06/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/06/06/magazine/06moth-magcov/06moth-magcov-moth.jpg" alt="How a Soccer Star Is Made" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/06/06/magazine/index.html">How a Soccer Star Is Made</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">5.30.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/05/30/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/05/30/magazine/30moth-magcov/30moth-magcov-moth.jpg" alt="M.I.A.&rsquo;s Radical Chic Rap" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/05/30/magazine/index.html">M.I.A.&rsquo;s Radical Chic Rap</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">5.23.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/05/23/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/05/23/magazine/23moth-magcov/23moth-magcov-moth.jpg" alt="The Teachers&rsquo; Unions&rsquo; Last Stand" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/05/23/magazine/index.html">The Teachers&rsquo; Unions&rsquo; Last Stand</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">5.16.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/05/16/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/05/16/magazine/16moth-magcov/16moth-magcov-moth-v2.jpg" alt="The Money Issue" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/05/16/magazine/index.html">The Money Issue</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">5.9.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/05/09/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/05/09/magazine/09moth-babies/09moth-babies-moth.jpg" alt="The Moral Life of Babies" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/05/09/magazine/index.html">The Moral Life of Babies</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">5.2.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/05/02/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/05/02/magazine/02moth-magcov/02moth-magcov-moth.jpg" alt="The Data-Driven Life" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/05/02/magazine/index.html">The Data-Driven Life</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">4.25.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/04/25/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/04/25/magazine/25moth-allen/25moth-allen-moth.jpg" alt="Mike Allen: The Man Washington Wakes Up To" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/04/25/magazine/index.html">Mike Allen: The Man Washington Wakes Up To</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">4.18.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/04/17/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/04/18/magazine/18moth-magcov/18moth-magcov-moth.jpg" alt="The Science of Living a Healthy Life" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/04/17/magazine/index.html">The Science of Living a Healthy Life</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">4.11.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/04/11/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/04/11/magazine/11moth-magcov/11moth-magcov-moth-v3.jpg" alt="Building a Green Economy" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/04/11/magazine/index.html">Building a Green Economy</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">4.4.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/04/04/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/04/04/magazine/04moth-magcov/04moth-magcov-moth.jpg" alt="Can Animals Be Gay?" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/04/04/magazine/index.html">Can Animals Be Gay?</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">3.28.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/03/28/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/03/28/magazine/28moth-magcov/28moth-magcov-moth.jpg" alt="The Tiger Woods Bubble" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/03/28/magazine/index.html">The Tiger Woods Bubble</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">3.21.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/03/21/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/03/21/magazine/21moth-magcov/21moth-magcov-moth.jpg" alt="David Simon, the HBO Auteur" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/03/21/magazine/index.html">David Simon, the HBO Auteur</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">3.14.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/03/14/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/03/14/magazine/14moth-magcov/14moth-magcov-moth.jpg" alt="The Limits of Rahmism" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/03/14/magazine/index.html">The Limits of Rahmism</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">3.7.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/03/07/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/03/07/magazine/07moth-teach2/07moth-teach2-moth.jpg" alt="Building a Better Teacher" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/03/07/magazine/index.html">Building a Better Teacher</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">2.28.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/02/28/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/02/28/magazine/28moth-magcov/28moth-magcov-moth.jpg" alt="Where Scott Brown Is Coming From" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/02/28/magazine/index.html">Where Scott Brown Is Coming From</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">2.21.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/02/24/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/02/21/magazine/21moth-magcov/21moth-magcov-moth.jpg" alt="Great Performers" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/02/24/magazine/index.html">Great Performers</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">2.14.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/02/14/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/02/14/magazine/14moth-magcov/14moth-magcov-moth.jpg" alt="How Christian Were the Founders?" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/02/14/magazine/index.html">How Christian Were the Founders?</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">2.7.14</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/02/07/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/02/07/magazine/07moth-magcov/moth.jpg" alt="Winter (Fun and) Games!" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/02/07/magazine/index.html">Winter (Fun and) Games!</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">1.31.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/01/31/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/01/30/magazine/30moth-mag/moth.jpg" alt="The Jihadist Next Door" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/01/31/magazine/index.html">The Jihadist Next Door</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">1.24.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/01/24/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/01/24/magazine/24moth-magcov/moth.jpg" alt="James Patterson Inc." width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/01/24/magazine/index.html">James Patterson Inc.</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">1.17.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/01/17/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/01/17/magazine/17moth-magcov/moth.jpg" alt="Obama&rsquo;s War Over Terror" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/01/17/magazine/index.html">Obama&rsquo;s War Over Terror</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">1.10.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/01/10/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/01/10/magazine/10moth-magcov/moth.jpg" alt="The First Senator From the Tea Party?" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/01/10/magazine/index.html">The First Senator From the Tea Party?</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">1.3.10</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2010/01/03/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/01/03/magazine/03moth_comp/moth.jpg" alt="What&rsquo;s a Bailed-Out Banker Really Worth?" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2010/01/03/magazine/index.html">What&rsquo;s a Bailed-Out Banker Really Worth?</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">12.27.09</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/12/27/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/12/27/magazine/27moth-magcov/moth.jpg" alt="The Lives They Lived, 2009" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/12/27/magazine/index.html">The Lives They Lived, 2009</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">12.20.09</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/12/20/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/12/15/magazine/20moth-magcov/moth.jpg" alt="Can Anybody Make a Movie for Women?" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/12/20/magazine/index.html">Can Anybody Make a Movie for Women?</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">12.13.09</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/projects/magazine/ideas/2009/#a"><span class="img" src="http://graphics8.nytimes.com/images/2009/12/09/magazine/13moth-magcov/moth.jpg" alt="The 9th Annual Year in Ideas" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/projects/magazine/ideas/2009/#a">The 9th Annual Year in Ideas</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">12.06.09</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/12/06/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/12/01/magazine/06moth-magcov/moth.jpg" alt="Married (Happily) With Issues" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/12/06/magazine/index.html">Married (Happily) With Issues</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">11.29.09</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/11/27/magazine/"><span class="img" src="http://graphics8.nytimes.com/images/2009/11/25/magazine/29moth-magcov/moth.jpg" alt="The Vice Presidency After Cheney" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/11/27/magazine/">The Vice Presidency After Cheney</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">11.22.09</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/11/22/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/11/17/magazine/22moth-magcov/moth.jpg" alt="Who Knew I Was Not the Father?" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/11/22/magazine/index.html">Who Knew I Was Not the Father?</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">11.15.09</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/11/15/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/11/10/magazine/15moth-magcov/moth.jpg" alt="The Self-Manufacture of Megan Fox" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/11/15/magazine/index.html">The Self-Manufacture of Megan Fox</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">11.8.09</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/11/08/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/11/08/magazine/08moth-magcov/moth.jpg" alt="Making Health Care Better" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/11/08/magazine/index.html">Making Health Care Better</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">11.1.09</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/11/01/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/10/28/magazine/01moth-magcov/moth.jpg" alt="The Obamas&rsquo; Marriage" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/11/01/magazine/index.html">The Obamas&rsquo; Marriage</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">10.25.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/10/25/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/10/25/magazine/25moth-magcov/moth.jpg" alt="The Audacity of &lsquo;Precious&rsquo;" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/10/25/magazine/index.html">The Audacity of &lsquo;Precious&rsquo;</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">10.18.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/10/18/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/10/14/magazine/18moth-magcov.jpg" alt="Stanley McChrystal&rsquo;s Long War" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/10/18/magazine/index.html">Stanley McChrystal&rsquo;s Long War</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">10.11.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/10/11/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/10/06/magazine/11moth-magcov.jpg" alt="The Food Issue: Putting America&rsquo;s Diet on a Diet" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/10/11/magazine/index.html">The Food Issue: Putting America&rsquo;s Diet on a Diet</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">10.04.09</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/10/04/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/09/29/magazine/04moth-magcov.jpg" alt="Understanding the Anxious Mind" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/10/04/magazine/index.html">Understanding the Anxious Mind</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">9.27.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/09/27/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/09/22/magazine/27moth-magcov.jpg" alt="Coming Out in Middle School" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/09/27/magazine/index.html">Coming Out in Middle School</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">9.20.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/09/20/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/09/15/magazine/20magazine-moth-jung.jpg" alt="The Unearthing of Carl Jung&rsquo;s Red Book" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/09/20/magazine/index.html">The Unearthing of Carl Jung&rsquo;s Red Book</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">9.13.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/09/13/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/09/08/magazine/13moth-magcov.jpg" alt="Are Your Friends Making You Fat?" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/09/13/magazine/index.html">Are Your Friends Making You Fat?</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">9.6.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/09/06/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/09/04/magazine/06moth-magcov.jpg" alt="Bringing &lsquo;Where the Wild Things Are&rsquo; to the Screen" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/09/06/magazine/index.html">Bringing &lsquo;Where the Wild Things Are&rsquo; to the Screen</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">8.30.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/08/30/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/08/25/magazine/30moth-magcov.jpg" alt="Katrina&rsquo;s Strain and a Hospital&rsquo;s Deadly Choices" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/08/30/magazine/index.html">Katrina&rsquo;s Strain and a Hospital&rsquo;s Deadly Choices</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">8.23.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/08/23/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/08/18/magazine/23moth-magcov.jpg" alt="Special Issue: Saving the World&rsquo;s Women" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/08/23/magazine/index.html">Special Issue: Saving the World&rsquo;s Women</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">8.16.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/08/16/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/08/11/magazine/16moth-beatles.jpg" alt="While My Guitar Gently Beeps" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/08/16/magazine/index.html">While My Guitar Gently Beeps</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">8.9.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/08/09/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/08/06/magazine/09moth-magcov.jpg" alt="Karzai in His Labyrinth" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/08/09/magazine/index.html">Karzai in His Labyrinth</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">8.2.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/08/02/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/07/29/magazine/02moth-magcov.jpg" alt="Out of the Kitchen, Onto the Couch" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/08/02/magazine/index.html">Out of the Kitchen, Onto the Couch</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">7.26.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/07/26/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/07/21/magazine/26moth-magcov.jpg" alt="The Ultimate Obama Insider" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/07/26/magazine/index.html">The Ultimate Obama Insider</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">7.19.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/07/19/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/07/14/magazine/19moth-magcov.jpg" alt="A Food Critic Comes to Terms With His Appetite" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/07/19/magazine/index.html">A Food Critic Comes to Terms With His Appetite</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">7.12.09</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/07/12/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/07/09/magazine/12moth_cov.2.jpg" alt="Watching Whales Watching Us" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/07/12/magazine/index.html">Watching Whales Watching Us</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">7.5.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/07/05/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/06/30/magazine/05moth-magcov.jpg" alt="Who Can Possibly Govern California?" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/07/05/magazine/index.html">Who Can Possibly Govern California?</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">6.28.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/06/28/magazine/"><span class="img" src="http://graphics8.nytimes.com/images/2009/06/24/magazine/28moth-magcov.jpg" alt="G.M., Detroit and the Fall of the Black Middle Class" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/06/28/magazine/">G.M., Detroit and the Fall of the Black Middle Class</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">6.21.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/06/21/magazine/"><span class="img" src="http://graphics8.nytimes.com/images/2009/06/16/magazine/21moth-magcov.jpg" alt="Can Rafael Nadal Endure His Own Style of Tennis?" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/06/21/magazine/">Can Rafael Nadal Endure His Own Style of Tennis?</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">6.14.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/06/14/magazine/"><span class="img" src="http://graphics8.nytimes.com/images/2009/06/09/magazine/14moth_magazine.jpg" alt="The Architecture Issue" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/06/14/magazine/">The Architecture Issue</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">6.7.2009</h6>		<div class="mothImage">
+<a href="http://nytimes.com/indexes/2009/06/07/magazine/"><span class="img" src="http://graphics8.nytimes.com/images/2009/06/02/magazine/07moth-magcov.jpg" alt="Taking the Hill" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://nytimes.com/indexes/2009/06/07/magazine/">Taking the Hill</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">5.31.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/05/31/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/05/29/magazine/31moth-magcov.jpg" alt="The Mellowing of William Jefferson Clinton" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/05/31/magazine/index.html">The Mellowing of William Jefferson Clinton</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">5.24.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/05/24/magazine/"><span class="img" src="http://graphics8.nytimes.com/images/2009/05/29/magazine/24moth.1-magcov.jpg" alt="Heeeere&rsquo;s . . . Conan!!!" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/05/24/magazine/">Heeeere&rsquo;s . . . Conan!!!</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">5.17.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/05/17/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/05/12/magazine/17moth-magcov.jpg" alt="Suze Orman Is Having a Moment" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/05/17/magazine/index.html">Suze Orman Is Having a Moment</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">5.10.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/05/10/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/05/05/magazine/10moth-magcov.jpg" alt="A Journey Through Darkness" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/05/10/magazine/index.html">A Journey Through Darkness</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">5.3.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/05/03/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/05/03/magazine/03moth_magcov2.jpg" alt="After the Great Recession" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/05/03/magazine/index.html">After the Great Recession</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">4.26.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/04/26/magazine/index.html"><span class="img" src="" alt="Growing Up Buckley" width="0" height="0" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/04/26/magazine/index.html">Growing Up Buckley</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">4.19.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/04/19/magazine/"><span class="img" src="http://graphics8.nytimes.com/images/2009/04/15/magazine/19moth-magcov.jpg" alt="Why Isn&rsquo;t the Brain Green?" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/04/19/magazine/">Why Isn&rsquo;t the Brain Green?</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">4.12.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/04/12/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/04/08/magazine/12moth-magcov1.jpg" alt="Mission From Africa" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/04/12/magazine/index.html">Mission From Africa</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">4.5.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/04/05/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/04/01/magazine/05moth-magcov.jpg" alt="Can Pakistan Be Governed?" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/04/05/magazine/index.html">Can Pakistan Be Governed?</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">3.29.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/03/29/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/03/25/magazine/29moth-magcov.jpg" alt="The Global-Warming Heretic" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/03/29/magazine/index.html">The Global-Warming Heretic</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">3.22.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/03/22/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/03/19/magazine/22moth-basketball.jpg" alt="Allonzo Trier Is in the Game" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/03/22/magazine/index.html">Allonzo Trier Is in the Game</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">3.15.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/03/15/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/03/11/magazine/15moth-magcov.jpg" alt="The Loyalist, Valery Gergiev" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/03/15/magazine/index.html">The Loyalist, Valery Gergiev</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">3.8.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/03/08/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/03/07/magazine/08moth_cover.jpg" alt="How Cleveland Deals With Mass Foreclosure" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/03/08/magazine/index.html">How Cleveland Deals With Mass Foreclosure</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">3.1.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/03/01/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/02/24/magazine/01moth-magcov.jpg" alt="The Return of Newt Gingrich" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/03/01/magazine/index.html">The Return of Newt Gingrich</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">2.22.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/02/22/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/02/17/magazine/22moth-magcov.jpg" alt="What&rsquo;s Wrong With Summer Stiers?" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/02/22/magazine/index.html">What&rsquo;s Wrong With Summer Stiers?</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">2.15.2009</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/indexes/2009/02/15/magazine/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2009/02/10/magazine/15moth-cover.jpg" alt="The No-Stats All-Star" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/indexes/2009/02/15/magazine/index.html">The No-Stats All-Star</a></h6>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="rightPanel"><span id="rightArrow"><img id="mothForward" src="http://graphics8.nytimes.com/images/global/buttons/moth_forward.gif" /></span></div>
+</div><!--end #insideNYTimes -->
+<div class="doubleRuleDivider insetH flushTop"></div>
+</div><!--close #SpanABMiddleRegion -->					<div class="aColumn">
+<!--cur:StandardThumb prev:-->
+<div class="columnGroup first">
+<h6 class="sectionHeader">Multimedia</h6><div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/10/23/magazine/20Mag-Murakami-Tokyo.html?ref=magazine">
+<img src="http://graphics8.nytimes.com/images/2011/10/23/magazine/murakami.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/10/23/magazine/20Mag-Murakami-Tokyo.html?ref=magazine">
+<span class="media icon interactive">Interactive Feature: </span>
+Murakami’s Tokyo</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+During Sam Anderson’s trip to Japan for his interview with the novelist Haruki Murakami, he visited the places mentioned in Murakami’s fiction as well as sites significant to Murakami’s life and career.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/09/18/magazine/18mag-edExperiences.html?ref=magazine">
+<img src="http://graphics8.nytimes.com/images/2011/09/13/magazine/mag18-desk/mag18-desk-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/09/18/magazine/18mag-edExperiences.html?ref=magazine">
+The Educational Experiences That Change a Life</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+The intellectual glamour couple of Oak Forest High, Frank Lloyd Wright’s Baghdad, a draconian English boarding school.</p>
+</div>
+<div class="story">
+<h6 class="kicker">LOOK</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/09/11/magazine/mag-11-Look.html?ref=magazine">
+<img src="http://graphics8.nytimes.com/images/2011/09/11/magazine/LOOK911-slide-29L8/LOOK911-slide-29L8-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/09/11/magazine/mag-11-Look.html?ref=magazine">
+Ten Years’ Time: Images From a Post-9/11 World</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Photographic highlights from a decade’s worth of the magazine’s post-9/11 coverage.</p>
+</div>
+<div></div>
+</div>
+<!--cur:StandardThumb prev:StandardThumb-->
+<div class="columnGroup last">
+<div class="columnGroup singleRule "></div>
+<div class="story"><h5><a href="mailto:magazine@nytimes.com">Send a Letter to the Editor </a></h5>
+<p><em>Letters should be addressed to Letters to the Editor, Magazine, The New York Times, 620 Eighth Avenue, 6th Floor, New York, N.Y., 10018. The e-mail address is: <a href="mailto:magazine@nytimes.com">magazine@nytimes.com</a>. All letters should include the writer's name, address and daytime telephone number. We are unable to acknowledge or return unpublished letters. Letters may be edited for length and clarity.</em></p>
+</div><hr />	</div>						<div id="adxSponLink" class="columnGroup"></div>
+</div><!--close second .aColumn -->
+<div class="bColumn">
+<div class="columnGroup first">
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/11/03/magazine/538-gdp-election-calculator.html?ref=magazine">
+<img src="http://graphics8.nytimes.com/images/2011/11/03/magazine/nate-75.png" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/11/03/magazine/538-gdp-election-calculator.html?ref=magazine">
+<span class="media icon interactive">Interactive Graphic: </span>
+What Are the Chances for Republicans?</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Nate Silver models the likelihood of each candidate winning the popular vote.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/11/06/magazine/nate-silver-handicaps-2012-election.html"> Related Article </a></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/08/21/magazine/Mag-21Thinking.html?ref=magazine">
+<img src="http://graphics8.nytimes.com/images/2011/08/21/magazine/WTWTthinking-slide-UBQQ/WTWTthinking-slide-UBQQ-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/08/21/magazine/Mag-21Thinking.html?ref=magazine">
+Classic Magazine Photographs, Then and Now</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A new look at nine classic pictures from the magazine’s past.</p>
+</div>
+<div class="doubleRuleDivider"></div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/09/11/magazine/mag-11-EMMYSportfolio.html?ref=magazine">
+<img src="http://graphics8.nytimes.com/images/2011/09/11/magazine/mag-11-emmys-slide-XPK0/mag-11-emmys-slide-XPK0-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/09/11/magazine/mag-11-EMMYSportfolio.html?ref=magazine">
+A Gallery of Masters</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Alec Baldwin, Kelly Macdonald and other great performers who turn television in art.</p>
+</div>
+</div>
+<div class="columnGroup doubleRule last">
+
+<div class="singleAd" id="Right1">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/magazine/index.html&pos=Right1&sn2=80de8cde/9e375dc4&sn1=38d43609/ab3147cd&camp=nyt2011-circ-120x90-weekender-36H38&ad=071511-120x90-weekender-36H38&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DWC7AA%26CMP%3D36H38" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/13/ad.271312/11-0920_HDWeekender2_120x90.jpg" width="120" height="90" border="0"></a>
+
+</div>
+
+
+</div>					</div><!--close second .bColumn -->
+</div><!--close .abColumn -->
+<div class="cColumn">
+<!--Ads  -->                    <div class="columnGroup first">
+
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<div id="moreTimesMagazines" class="wrap"><div><a href="http://www.nytimes.com/pages/t-magazine/index.html"><img src="http://graphics8.nytimes.com/images/blogs/themoment/posts/Tmagazine_promoheader_336.jpg" alt="T: The New York Times Style Magazine"></a></div>
+<div class="runaroundLeft"><a href="http://www.nytimes.com/indexes/2011/11/18/t-magazine/travel-issue/index.html"><img alt="T Magazine" src="http://graphics8.nytimes.com/images/2011/11/20/t-magazine/20TMagTravelCover/20TMagTravelCover-thumbStandard.jpg" height="75" width="75"></a><a href="http://www.nytimes.com/indexes/2011/11/18/t-magazine/travel-issue/index.html">Winter Travel 2011</a>
+</div>  
+<div class="runaroundLeft"><a href="http://www.nytimes.com/indexes/2011/11/04/t-magazine/design-issue/index.html"><img alt="T Magazine" src="http://graphics8.nytimes.com/images/2011/11/06/t-magazine/06TmagDLCover/06TmagDLCover-custom1.jpg" height="75" width="75"></a><a href="http://www.nytimes.com/indexes/2011/11/04/t-magazine/design-issue/index.html">Design & Living 2011</a>
+</div>
+<div class="runaroundLeft"><a href="http://www.nytimes.com/indexes/2011/10/14/t-magazine/womens-fashion-issue/index.html"><img alt="T Magazine" src="http://graphics8.nytimes.com/images/2011/10/16/t-magazine/16WinterWomens-Cover/16WinterWomens-Cover-thumbStandard.jpg" height="75" width="75"></a><a href="http://www.nytimes.com/indexes/2011/10/14/t-magazine/womens-fashion-issue/index.html">Winter Women's 2011</a>
+</div>
+<div class="runaroundLeft last"><a href="http://www.nytimes.com/indexes/2011/09/30/t-magazine/design-issue/index.html"><img alt="T Magazine" src="http://graphics8.nytimes.com/images/2011/10/02/t-magazine/02fall-design-cover/02fall-design-cover-custom3.jpg" height="75" width="75"></a> <a href="http://www.nytimes.com/indexes/2011/09/30/t-magazine/design-issue/index.html">Fall Design 2011</a>
+</div>
+</div>
+<style type="text/css">
+  #moreTimesMagazines h4.kicker {
+  font-size:1.1em;
+  font-weight:bold;
+  margin:0 0 8px;
+  line-height:1.2727em;
+  }
+  
+  #moreTimesMagazines .runaroundLeft {
+  clear:none;
+  width:75px;
+  font-size:1.1em;
+  margin:0;
+  padding:0 11px 0 0;
+  line-height:127.2%; /* 14px; */
+  }
+  
+  #moreTimesMagazines img {
+  margin:0 0 5px;
+  }
+  
+  #moreTimesMagazines .last {
+  padding-right:0;
+  }
+</style>
+</div>
+<!--Ads Simple -->                    <div class="columnGroup ">
+
+			
+<div class="bigAd" id="SFMiddle">
+<!-- ADXINFO classification="BigAd" campaign="JohnstonMurphy_NovDec_2011_1762511_nyt8"--><SCRIPT type="text/javascript" SRC="http://ad.doubleclick.net/adj/N6550.276948.NYTIMES/B5878617.21;sz=336x280;pc=nyt172819A282713;ord=2011.12.02.18.04.31?;click=http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/magazine/index.html&pos=SFMiddle&camp=JohnstonMurphy_NovDec_2011_1762511_nyt8&ad=JandM_336x280_ROS_PreEmpt_Flt2&sn2=3a8bd3f6/e7443824&snr=doubleclick&snx=1322848863&sn1=26dfa6d1/398f811d&goto=">
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/magazine/index.html&pos=SFMiddle&sn2=3a8bd3f6/e7443824&sn1=51be39ad/20fcb8c6&camp=JohnstonMurphy_NovDec_2011_1762511_nyt8&ad=JandM_336x280_ROS_PreEmpt_Flt2&goto=http://ad.doubleclick.net/jump/N6550.276948.NYTIMES/B5878617.21;sz=336x280;pc=nyt172819A282713;ord=2011.12.02.18.04.31?" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N6550.276948.NYTIMES/B5878617.21;sz=336x280;pc=nyt172819A282713;ord=2011.12.02.18.04.31?"
+ BORDER=0 WIDTH=336 HEIGHT=280
+ ALT="Click Here"></A>
+</NOSCRIPT>
+</div>
+
+
+
+<div class="singleAd" id="Box3">
+<!-- ADXINFO classification="feature_squares" campaign="nyt2011-regilite-P1-TimesLimited-ros"--><iframe title="regilite" src="https://myaccount.nytimes.com/regilite?product=LT" width="336" height="90" marginheight="0" marginwidth="0" frameborder="0" vspace="0" hspace="0" scrolling="no"></iframe>
+</div>
+
+
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<div id="mostPopWidget" class="singleRule"> 
+
+      <!-- MOST POPULAR MODULE STARTS -->
+      <h4>MOST POPULAR - MAGAZINE</h4>
+         <div id="tabsContainer">
+         <ul class="tabs">
+            <li class="selected"><a href="#">E-Mailed</a></li>
+            <li><a href="#">Blogged</a></li>
+            
+            
+            
+         </ul>
+         </div>
+            <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"></HEAD><div class="tabContent tabContentActive" id="mostEmailed"><ol>
+<li img="http://graphics8.nytimes.com/images/2011/12/04/magazine/04conscious2/04conscious2-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/04/magazine/can-ambien-wake-minimally-conscious.html?src=me&amp;ref=magazine" title="Click to go to this article">A Drug That Wakes the Near Dead</a></li>
+<li kicker=""><a href="http://www.nytimes.com/2011/11/27/magazine/can-the-bulldog-be-saved.html?src=me&amp;ref=magazine" title="Click to go to this article">Can the Bulldog Be Saved?</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/27/magazine/27gluten_span/mag-27Gluten-t_CA0-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/11/27/magazine/Should-We-All-Go-Gluten-Free.html?src=me&amp;ref=magazine" title="Click to go to this article">Should We All Go Gluten-Free?</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/04/magazine/04eat_span/mag-04Eat-t-000_CA0-thumbStandard.jpg"  kicker="Eat"><a href="http://www.nytimes.com/2011/12/04/magazine/yotam-ottolenghis-international-cuisine.html?src=me&amp;ref=magazine" title="Click to go to this article">Eat: Yotam Ottolenghi&rsquo;s International Cuisine</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/29/magazine/mag-04economy/mag-04economy-thumbStandard.jpg"  kicker="It’s the Economy"><a href="http://www.nytimes.com/2011/12/04/magazine/adam-davidson-european-finance.html?src=me&amp;ref=magazine" title="Click to go to this article">It&rsquo;s the Economy: Europe&rsquo;s Financial Crisis, in Plain English</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/04/magazine/04nyad1/mag-04Nyad-t_CA0-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/04/magazine/marathon-swimmer-diana-nyad.html?src=me&amp;ref=magazine" title="Click to go to this article">Marathon Swimmer Diana Nyad Takes On the Demons of the Sea</a></li>
+<li kicker="Recipe"><a href="http://www.nytimes.com/2011/12/04/magazine/Ottolenghi-Leek-and-Cardamom-Fritters.html?src=me&amp;ref=magazine" title="Click to go to this article">Recipe: Leek-and-Cardamom Fritters</a></li>
+<li kicker="Recipe"><a href="http://www.nytimes.com/2011/12/04/magazine/Ottolenghi-Rice-With-Poached-Eggs.html?src=me&amp;ref=magazine" title="Click to go to this article">Recipe: Rice With Poached Eggs</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/world/LESAGE-obit/LESAGE-obit-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/02/style/francois-lesage-dies-at-82-led-couture-embroidery-atelier.html?src=me&amp;ref=magazine" title="Click to go to this article">Fran&ccedil;ois Lesage, Who Led Embroidery Atelier, Dies at 82</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/04/magazine/04romney_span/04romney_span-thumbStandard-v3.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/04/magazine/mitt-romney-bot.html?src=me&amp;ref=magazine" title="Click to go to this article">Building a Better Mitt Romney-Bot</a></li>
+</ol>
+        <a class="more" href="http://www.nytimes.com/gst/mostemailed.html">Go to Complete List &#x00bb;</a>
+        </div><!-- #most emailed top10 -->
+
+            <div class="tabContent" id="mostBlogged">
+<ol>
+<li><a href="http://www.nytimes.com/2011/11/30/us/politics/gingrich-gave-push-to-clients-not-just-ideas.html?bl" title="Click to go to this article">Gingrich Gave Push to Clients, Not Just Ideas</a></li>
+<li><a href="http://www.nytimes.com/2011/12/01/world/middleeast/voting-in-egypt-shows-mandate-for-islamists.html?bl" title="Click to go to this article">Voting in Egypt Shows Mandate for Islamists</a></li>
+<li><a href="http://www.nytimes.com/2011/12/01/opinion/kristof-a-banker-speaks-with-regret.html?bl" title="Click to go to this article">A Banker Speaks, With Regret</a></li>
+<li><a href="http://www.nytimes.com/2011/12/01/us/we-are-the-99-percent-joins-the-cultural-and-political-lexicon.html?bl" title="Click to go to this article">'We Are the 99 Percent' Joins the Cultural and Political Lexicon</a></li>
+<li><a href="http://www.nytimes.com/2011/12/02/opinion/krugman-killing-the-euro.html?bl" title="Click to go to this article">Killing the Euro</a></li>
+<li><a href="http://www.nytimes.com/2011/12/01/us/federal-marijuana-classification-should-change-gregoire-and-chafee-say.html?bl" title="Click to go to this article">Federal Marijuana Classification Should Change, Gregoire and Chafee Say</a></li>
+<li><a href="http://www.nytimes.com/2011/12/01/us/politics/presidential-candidates-make-fewer-in-person-appearances.html?bl" title="Click to go to this article">Presidential Candidates Make Fewer In-Person Appearances</a></li>
+<li><a href="http://www.nytimes.com/2011/12/01/fashion/new-yorks-literary-cubs.html?bl" title="Click to go to this article">New York's Literary Cubs</a></li>
+<li><a href="http://www.nytimes.com/2011/11/30/education/surge-in-free-school-lunches-reflects-economic-crisis.html?bl" title="Click to go to this article">Surge in Free School Lunches Reflects Economic Crisis</a></li>
+<li><a href="http://www.nytimes.com/2011/11/30/world/europe/british-hacking-scandal-widens-to-government-secrets.html?bl" title="Click to go to this article">British Hacking Scandal Widens to Government Secrets</a></li>
+</ol>
+<a class="more" href="http://www.nytimes.com/gst/mostblogged.html">Go to Complete List &#x00bb;</a>
+</div><!-- #most blogged top10 -->
+
+            
+            
+            
+         <script type="text/javascript">new Accordian("mostPopWidget");</script>
+      <!-- MOST POPULAR MODULE ENDS -->
+   
+
+</div><!--close mostPopWidget -->
+</div>
+<!--Ads Simple -->                    <div class="columnGroup ">
+			
+
+<div class="bigAd" id="Box1">
+<!-- ADXINFO classification="Module" campaign="nyt2011_module_movies_dude_film_hp_ros_db"--><!-- MARKETING MODULE -->
+<div style="border:solid #999;border-width:1px;font-family:Arial,sans-serif;text-align:left; width:334px;background:#fff;" class="clearfix wrap">
+  <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/magazine/index.html&pos=Box1&sn2=1de960f0/941b9040&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/2011/12/01/is-it-the-year-of-the-dude-film/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-PH%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm11/movies_120211.jpg" width="334" height="154" border="0" alt=""></a> 
+  <div style="padding:7px 9px 0;background:#fff">
+      <h2 style="font-size:22px;line-height:24px; margin:0;padding:0 0 4px;"><a style="color:#004276;" target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/magazine/index.html&pos=Box1&sn2=1de960f0/941b9040&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/2011/12/01/is-it-the-year-of-the-dude-film/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-HDR%26WT.mc_ev=click%26WT.mc_c=175075">Is it the year of the dude film?</a></h2>
+
+      <p style="margin:0 0 3px; padding:0;font-size: 11px;"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/magazine/index.html&pos=Box1&sn2=1de960f0/941b9040&sn1=9f65a43f/6fae85ce&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://nytimes.com/movies/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-URL%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank" style="font-size:11px;margin:3px 0;padding:0;font-family:Arial,sans-serif;  color:#000; text-transform:uppercase;">Also in Movies &raquo;</a></p>
+      <ul style="font-size:12px;margin:0; padding-bottom: 10px; border-bottom:1px solid #ccc;" class="refer">
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/magazine/index.html&pos=Box1&sn2=1de960f0/941b9040&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/2011/11/29/patton-oswalt-steals-the-scene-at-gotham-awards/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-L1%26WT.mc_ev=click%26WT.mc_c=175075" style="color: #004276">All about the Gotham Awards</a></li>
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/magazine/index.html&pos=Box1&sn2=1de960f0/941b9040&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-L2%26WT.mc_ev=click%26WT.mc_c=175075" style="color: #004276">Awards season from The Carpetbagger</a></li>
+      </ul>
+    </div>
+ 
+ <div style="padding:5px 9px; float:left; width:316px; background:#fff"> <a style="float:left" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/magazine/index.html&pos=Box1&sn2=1de960f0/941b9040&sn1=9f65a43f/6fae85ce&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://nytimes.com/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-LOGO%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/nytimes.gif" alt="nytimes.com" width="116" height="18" border="0"></a><a style="float:right" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/magazine/index.html&pos=Box1&sn2=1de960f0/941b9040&sn1=9f65a43f/6fae85ce&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://nytimes.com/movies/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-VRT%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/verticals_movies.gif" alt="Movies" width="120" height="18" border="0"></a></div><br clear="all">
+
+</div>
+  <!-- /MARKETING MODULE -->
+
+
+</div>
+
+
+<div class="singleAd" id="Middle5">
+<!-- ADXINFO classification="FeaturedProduct" campaign="nyt2011-mktg-giftguides-336x79-ros"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/magazine/index.html&pos=Middle5&sn2=557464ea/252037e6&sn1=d6f7d74/359f08bf&camp=nyt2011-mktg-giftguides-336x79-ros&ad=GG-D-I-NYT-AD-FP-HGG-ROS-1111-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fgift%2Dguide%2Fholiday%2D2011%2Fcategories%2Ehtml%3FWT%2Emc%5Fid%3DGG%2DD%2DI%2DNYT%2DAD%2DFP%2DHGG%2DROS%2D1111%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D173906" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/28/40/ad.284068/GiftGuide_336x79.gif" width="336" height="79" border="0"></a>
+
+</div>
+
+
+
+<!--[TwoColumnAdLeft - Begin] -->
+	<div class="adHeader">
+<h4>
+Advertisements	    </h4>
+</div>
+<div class="cColumn-TextAdsBox">
+	<div class="cColumn-TextAdsLeft">
+<div class="cColumn-TextAd">
+<!-- ADXINFO classification="SiteForADay" campaign="NYT2011-Mktg-NeediestCases-S4D-ROS"--><div style="width:320px; height:60px;"> 
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/magazine/index.html&pos=Right5A&sn2=1baf1610/de8ca67&sn1=83a259e6/49fd2187&camp=NYT2011-Mktg-NeediestCases-S4D-ROS&ad=Mtkg_NeediestCases_S4D_2011&goto=https%3A%2F%2Fnytneediestcases%2Ecom%2F" target="_blank"> 
+<img style="float:left; margin-right:10px;" src="http://graphics8.nytimes.com/adx/images/ADS/28/26/ad.282606/11-1929_NeediestCasses_86x60.jpg" width="86" height="60" border="0" style="vertical-align:text-top;"></a>
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/magazine/index.html&pos=Right5A&sn2=1baf1610/de8ca67&sn1=83a259e6/49fd2187&camp=NYT2011-Mktg-NeediestCases-S4D-ROS&ad=Mtkg_NeediestCases_S4D_2011&goto=https%3A%2F%2Fnytneediestcases%2Ecom%2F" target="_blank">  <br />Help New Yorkers in need.<br />Donate Today.</a>
+</div>
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+</div>
+	</div>
+<!--[TwoColumnAdLeft - End] -->
+<div class="advertisementColumnGroup">
+<!--[MarketPlaceGridAd - Begin] -->
+
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+    <!--[MarketPlaceGridAd - End] -->
+</div>
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<div class="singleRuleDivider"></div>
+<div class="columnGroup fullWidth">
+<div class="subColumn-2 wrap">
+<h3 class="sectionHeader insetH">Follow the Sunday Magazine on Twitter</h3>
+<div class="column">
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://twitter.com/hugolindgren"><img src="http://a1.twimg.com/profile_images/1261155284/HL2_normal.png" width="50" height="50" alt="" /></a></div>
+<h5><a href="http://twitter.com/hugolindgren">Hugo Lindgren</a></h5>
+<span class="caption">Editor in Chief: <a href="http://twitter.com/hugolindgren">@hugolindgren</a></span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://twitter.com/andrewrgoldman"><img src="http://a1.twimg.com/profile_images/983689650/twitterpic3_normal.jpg" width="50" height="50" alt="" /></a></div>
+<h5><a href="http://twitter.com/andrewrgoldman">Andrew Goldman</a></h5>
+<span class="caption">Interviewer: <a href="http://twitter.com/andrewrgoldman">@andrewrgoldman</a></span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://twitter.com/abstractsunday"><img src="http://a1.twimg.com/profile_images/1339767612/niemann_normal.jpg" width="50" height="50" alt=""></a></div>
+<h5><a href="ttp://twitter.com/abstractsunday">Christoph Niemann</a></h5>
+<span class="caption">Abstract Sunday: <a href="http://twitter.com/abstractsunday">@abstractsunday</a></span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div  class="runaroundRight"><a href="http://twitter.com/scootes"><img  src="https://si0.twimg.com/profile_images/94827938/gunsam.jpg"  width="50" height="50" alt=""></a></div>
+<h5><a href="http://twitter.com/scootes">Samantha Henig</a></h5>
+<span class="caption">Online Editor: <br/><a href="http://twitter.com/scootes">@scootes</a></span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://twitter.com/AremDuplessis"><img src="http://a3.twimg.com/profile_images/1275784928/Rem_01_001_normal.jpg" width="50" height="50" alt="" /></a></div>
+<h5><a href="http://twitter.com/AremDuplessis">Arem Duplessis</a></h5>
+<span class="caption">Design Director: <a href="http://twitter.com/AremDuplessis">@AremDuplessis</a></span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://twitter.com/Cwynars"><img src="http://graphics8.nytimes.com/images/2011/11/28/magazine/cwynar-twitter/cwynar-twitter-thumbStandard.jpg" width="50" height="50" alt="" /></a></div>
+<h5><a href="http://twitter.com/Cwynars">Sara Cwynar</a></h5>
+<span class="caption">Designer: <br/><a href="http://twitter.com/Cwynars">@Cwynars</a></span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div  class="runaroundRight"><a  href="http://twitter.com/shamblanderson"><img  src="http://graphics8.nytimes.com/images/2011/06/02/magazine/mag-twitterpix/mag-twitterpix-custom3.jpg"  width="50" height="50" alt=""></a></div>
+<h5><a href="http://twitter.com/shamblanderson">Sam Anderson</a></h5>
+<span class="caption">Critic at Large: <a href="http://twitter.com/shamblanderson">@shamblanderson</a></span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://twitter.com/gpveis"><img src="http://graphics8.nytimes.com/images/2011/06/02/magazine/mag-twitterpix/mag-twitterpix-custom5.jpg" width="50" height="50" alt=""></a></div>
+<h5><a href="http://twitter.com/gpveis">Greg Veis</a></h5>
+<span class="caption">Story Editor: <br/><a href="http://twitter.com/gpveis">@gpveis</a></span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://twitter.com/maudnewton"><img src="http://graphics8.nytimes.com/images/2011/11/28/magazine/maud-newton/maud-newton-thumbStandard.jpg" width="50" height="50" alt=""></a></div>
+<h5><a href="http://twitter.com/maudnewton">Maud Newton</a></h5>
+<span class="caption">One-Page Magazine Columnist: <a href="http://twitter.com/maudnewton">@maudnewton</a></span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://twitter.com/benoitdlewis"><img src="http://a2.twimg.com/profile_images/285850288/benoitbookphoto_normal.gif" width="50" height="50" alt=""></a></div>
+<h5><a href="http://twitter.com/benoitdlewis">Benoit Denizet-Lewis</a></h5>
+<span class="caption">Contributing Writer: <a href="http://twitter.com/benoitdlewis">@BenoitDLewis</a></span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://twitter.com/paultough"><img src="http://a2.twimg.com/profile_images/294772837/pt_twitter_2_normal.jpg" width="50" height="50" alt=""></a></div>
+<h5><a href="http://twitter.com/paultough">Paul Tough</a></h5>
+<span class="caption">Contributing Writer: <a href="http://twitter.com/paultough">@paultough</a></span>
+</div></div>
+</div><div class="column last">
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://twitter.com/sternbergh"><img src="http://graphics8.nytimes.com/images/2011/06/02/magazine/mag-twitterpix/mag-twitterpix-custom1.jpg" width="50" height="50" alt="" /></a></div>
+<h5><a href="http://twitter.com/sternbergh">Adam Sternbergh</a></h5>
+<span class="caption">Culture Editor: <br/><a href="http://twitter.com/sternbergh">@sternbergh </a></span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://twitter.com/bittman"><img src="http://a0.twimg.com/profile_images/1293112347/Mark_Bittman_new_blk_75_normal.jpg" width="50" height="50" alt="" /></a></div>
+<h5><a href="http://twitter.com/bittman">Mark Bittman</a></h5>
+<span class="caption">Eat Columnist: <br/><a href="http://twitter.com/bittman ">@bittman</a></span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://twitter.com/rosieschaap"><img src="http://a2.twimg.com/profile_images/1268425445/IMG_1501_normal.JPG" width="50" height="50" alt=""></a></div>
+<h5><a href="http://twitter.com/rosieschaap">Rosie Schaap</a></h5>
+<span class="caption">Drink Columnist: <a href="http://twitter.com/rosieschaap">@rosieschaap</a></span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://twitter.com/arielkaminer"><img src="http://a3.twimg.com/profile_images/381321556/Untitled-1_normal.jpg" width="50" height="50" alt=""></a></div>
+<h5><a href="http://twitter.com/arielkaminer">Ariel Kaminer</a></h5>
+<span class="caption">The Ethicist: <a href="http://twitter.com/arielkaminer">@arielkaminer</a></span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://twitter.com/HilaryGreenbaum"><img src="https://si0.twimg.com/profile_images/1617661224/IMG_1747.png" width="50" height="50" alt=""></a></div>
+<h5><a href="http://twitter.com/HilaryGreenbaum">Hilary Greenbaum</a></h5>
+<span class="caption">Designer: <a href="http://twitter.com/HilaryGreenbaum">@HilaryGreenbaum</a></span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a  href="http://twitter.com/mattbai"><img  src="http://a0.twimg.com/profile_images/996728677/IMG_0792_3_normal.jpg"  width="50" height="50" alt=""></a></div>
+<h5><a href="http://twitter.com/mattbai">Matt Bai</a></h5>
+<span class="caption">Chief Political Correspondent: <a href="http://twitter.com/mattbai">@MattBai</a></span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://twitter.com/susandominus"><img src="http://a1.twimg.com/profile_images/143745522/susandominus_normal.jpg" width="50" height="50" alt=""></a></div>
+<h5><a href="http://twitter.com/susandominus">Susan Dominus</a></h5>
+<span class="caption">Staff Writer: <a href="http://twitter.com/susandominus">@susandominus</a></span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a  href="http://twitter.com/fivethirtyeight"><img  src="http://graphics8.nytimes.com/images/2011/06/02/magazine/mag-twitterpix/mag-twitterpix-custom4.jpg"  width="50" height="50" alt=""></a></div>
+<h5><a href="http://twitter.com/fivethirtyeight">Nate Silver</a></h5>
+<span class="caption">Contributing Writer: <a href="http://twitter.com/fivethirtyeight">@fivethirtyeight</a></span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://twitter.com/suellentrop"><img src="http://graphics8.nytimes.com/images/2011/08/12/magazine/mag-twitter-pappademas/mag-twitter-pappademas-custom1.jpg" width="50" height="50" alt="" /></a></div>
+<h5><a href="http://twitter.com/PAPPADEMAS">Alex Pappademas</a></h5>
+<span class="caption">Contributing Writer: <a href="http://twitter.com/PAPPADEMAS">@PAPPADEMAS</a></span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div  class="runaroundRight"><a  href="http://twitter.com/dleonhardt"><img  src="http://a1.twimg.com/profile_images/1225488228/leonhardt_190_normal.jpg"  width="50" height="50" alt=""></a></div>
+<h5><a href="http://twitter.com/dleonhardt">David Leonhardt</a></h5>
+<span class="caption">Contributing Writer: <a href="http://twitter.com/dleonhardt">@dleonhardt</a></span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<h5><a href="http://twitter.com/samsifton">Sam Sifton</a></h5>
+<span class="caption">Contributing Writer: <a href="http://twitter.com/samsifton">@samsifton</a></span>
+</div></div>
+</div></div></div>        	</div>
+<!--Ads Simple -->                    <div class="columnGroup last">
+
+<div class="singleAd" id="Feature1">
+<!-- ADXINFO classification="hp-module" campaign="feature1-CanyonRanch-1764607-cla"--><!--Ad Template Begins Here -->
+<div class="story advertisement">
+<div class="callout">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/magazine/index.html&pos=Feature1&sn2=e870f172/7d99ebf7&sn1=5e1dcb15/121849b2&camp=feature1-CanyonRanch-1764607-cla&ad=3.11.11-CanyonRanch-173x98-SFM&goto=http%3A%2F%2Fwww%2Ecanyonranchlivingmiamibeach%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/26/01/ad.260145/2.9.11_173x98.jpg"" width="173" height="98" border="0" alt="Photo"></a>
+</div>
+<h5>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/magazine/index.html&pos=Feature1&sn2=e870f172/7d99ebf7&sn1=5e1dcb15/121849b2&camp=feature1-CanyonRanch-1764607-cla&ad=3.11.11-CanyonRanch-173x98-SFM&goto=http%3A%2F%2Fwww%2Ecanyonranchlivingmiamibeach%2Ecom" target="_blank"></a>
+</h5>
+<p class="summary"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/magazine/index.html&pos=Feature1&sn2=e870f172/7d99ebf7&sn1=5e1dcb15/121849b2&camp=feature1-CanyonRanch-1764607-cla&ad=3.11.11-CanyonRanch-173x98-SFM&goto=http%3A%2F%2Fwww%2Ecanyonranchlivingmiamibeach%2Ecom" target="_blank"><font size=1>A life of wellness is just a click away.  One to to three bedrooms from the 400s to over $3MM.</font></a>
+</p>
+<div class="adCreative">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/magazine/index.html&pos=Feature1&sn2=e870f172/7d99ebf7&sn1=5e1dcb15/121849b2&camp=feature1-CanyonRanch-1764607-cla&ad=3.11.11-CanyonRanch-173x98-SFM&goto=http%3A%2F%2Fwww%2Ecanyonranchlivingmiamibeach%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/26/01/ad.260145/2.9.11_logo.gif" width="78" height="36"></a>
+</div>
+
+<p class="summary"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/magazine/index.html&pos=Feature1&sn2=e870f172/7d99ebf7&sn1=5e1dcb15/121849b2&camp=feature1-CanyonRanch-1764607-cla&ad=3.11.11-CanyonRanch-173x98-SFM&goto=http%3A%2F%2Fwww%2Ecanyonranchlivingmiamibeach%2Ecom" target="_blank"><font size=1>CANYONRANCHLIVINGMIAMIBEACH.COM</font></a>
+</p>
+</div>
+<!--Ad Template Ends Here -->
+</div>
+
+
+<div class="singleAd" id="SponLink">
+<script language="JavaScript" type="text/javascript">
+    
+    // Sponlink_short
+
+    NYTD.GoogleAds.getGoogleAds("AFC", { 
+        google_ad_client:'nytimes_section_var',
+        ad_target_list:'sponLink'
+    });
+</script>
+</div>
+
+</div>
+</div><!--close cColumn -->
+</div><!--close wideA -->
+</div><!--close spanAB -->
+</div><!--close main -->
+<div id="footer">
+<ul class="first">
+<li class="first"><a href="http://www.nytimes.com">Home</a></li>
+<li >
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li>
+<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+</ul>    <ul>
+<li class="first"><a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&copy; 2011</a> <a href="http://www.nytco.com/">The New York Times Company</a></li>
+<li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Terms of Service</a></li>
+<li class="termsOfSale"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+<li><a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a></li>
+<li><a class="rssButton" href="http://www.nytimes.com/rss">RSS</a></li>
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+<li><a href="http://www.nytco.com/careers">Work for Us</a></li>
+<li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+</ul>
+</div>
+</div><!--close page -->
+</div><!--close shell -->
+
+
+
+
+
+
+
+<IMG SRC="/adx/bin/clientside/45640017Q2FCSh2-Q22nQ25S.-B.hQ5DQ3Fg_2Dhn_Q3F" height="1" width="3">
+
+<script type="text/javascript" language="JavaScript">
+// Written by /usr/local/knews/bin/commentcount.pl Fri Dec  2 13:02:02 2011
+var NYTArticleCommentCounts = {
+"100000001190843":{count:147, commentsEnabled:false},
+"100000001190858":{count:204, commentsEnabled:false},
+"100000001190907":{count:49, commentsEnabled:false},
+"100000001191255":{count:237, commentsEnabled:false},
+"100000001191704":{count:133, commentsEnabled:false},
+"100000001191724":{count:100, commentsEnabled:false},
+"100000001191950":{count:122, commentsEnabled:false},
+"100000001192133":{count:307, commentsEnabled:false},
+"100000001192329":{count:76, commentsEnabled:false},
+"100000001190961":{count:19, commentsEnabled:false},
+"100000001177231":{count:1, commentsEnabled:true},
+"100000001177245":{count:74, commentsEnabled:true},
+"100000001179958":{count:24, commentsEnabled:false},
+"100000001180322":{count:227, commentsEnabled:true},
+"100000001183078":{count:44, commentsEnabled:false},
+"100000001183080":{count:327, commentsEnabled:false},
+"100000001183081":{count:7, commentsEnabled:false},
+"100000001183084":{count:235, commentsEnabled:false},
+"100000001183087":{count:11, commentsEnabled:false},
+"100000001183089":{count:14, commentsEnabled:false},
+"100000001183090":{count:11, commentsEnabled:false},
+"100000001183091":{count:3, commentsEnabled:false},
+"100000001183094":{count:14, commentsEnabled:false},
+"100000001184186":{count:79, commentsEnabled:false},
+"100000001184524":{count:149, commentsEnabled:false},
+"100000001186117":{count:1, commentsEnabled:false},
+"100000001186193":{count:12, commentsEnabled:true},
+"100000001186569":{count:190, commentsEnabled:false},
+"100000001189184":{count:49, commentsEnabled:false},
+"100000001190721":{count:71, commentsEnabled:false},
+"100000001191577":{count:224, commentsEnabled:false},
+"100000001191688":{count:28, commentsEnabled:false},
+"100000001191719":{count:107, commentsEnabled:false},
+"100000001191931":{count:121, commentsEnabled:false},
+"100000001191985":{count:110, commentsEnabled:false},
+"100000001192057":{count:211, commentsEnabled:false},
+"100000001192188":{count:141, commentsEnabled:false},
+"100000001192496":{count:52, commentsEnabled:false},
+"100000001192500":{count:206, commentsEnabled:false},
+"100000001192600":{count:224, commentsEnabled:false},
+"100000001192611":{count:167, commentsEnabled:false},
+"100000001193250":{count:67, commentsEnabled:false},
+"100000001193262":{count:37, commentsEnabled:false},
+"100000001193344":{count:98, commentsEnabled:false},
+"100000001193527":{count:27, commentsEnabled:false},
+"100000001193629":{count:10, commentsEnabled:false},
+"100000001193702":{count:17, commentsEnabled:false},
+"100000001193743":{count:108, commentsEnabled:false},
+"100000001193763":{count:516, commentsEnabled:false},
+"100000001193825":{count:86, commentsEnabled:false},
+"100000001193857":{count:48, commentsEnabled:false},
+"100000001193859":{count:160, commentsEnabled:false},
+"100000001193890":{count:117, commentsEnabled:false},
+"100000001193920":{count:44, commentsEnabled:false},
+"100000001193944":{count:303, commentsEnabled:false},
+"100000001193948":{count:7, commentsEnabled:false},
+"100000001194088":{count:51, commentsEnabled:false},
+"100000001194098":{count:17, commentsEnabled:true},
+"100000001194137":{count:109, commentsEnabled:false},
+"100000001194342":{count:159, commentsEnabled:false},
+"100000001194394":{count:68, commentsEnabled:false},
+"100000001194454":{count:36, commentsEnabled:false},
+"100000001194795":{count:192, commentsEnabled:false},
+"100000001194808":{count:628, commentsEnabled:false},
+"100000001194892":{count:125, commentsEnabled:false},
+"100000001195360":{count:33, commentsEnabled:false},
+"100000001195689":{count:178, commentsEnabled:false},
+"100000001195802":{count:10, commentsEnabled:false},
+"100000001195854":{count:304, commentsEnabled:false},
+"100000001195914":{count:48, commentsEnabled:false},
+"100000001195920":{count:17, commentsEnabled:false},
+"100000001195923":{count:44, commentsEnabled:false},
+"100000001195938":{count:138, commentsEnabled:false},
+"100000001195940":{count:10, commentsEnabled:false},
+"100000001195947":{count:92, commentsEnabled:false},
+"100000001195952":{count:162, commentsEnabled:false},
+"100000001195976":{count:141, commentsEnabled:false},
+"100000001195982":{count:283, commentsEnabled:false},
+"100000001196229":{count:42, commentsEnabled:false},
+"100000001196250":{count:104, commentsEnabled:true},
+"100000001196432":{count:333, commentsEnabled:false},
+"100000001196658":{count:42, commentsEnabled:false},
+"100000001196737":{count:28, commentsEnabled:true},
+"100000001196861":{count:18, commentsEnabled:false},
+"100000001196955":{count:71, commentsEnabled:true},
+"100000001196963":{count:143, commentsEnabled:false},
+"100000001197064":{count:68, commentsEnabled:false},
+"100000001197489":{count:3, commentsEnabled:false},
+"100000001197999":{count:75, commentsEnabled:false},
+"100000001198014":{count:290, commentsEnabled:false},
+"100000001198050":{count:69, commentsEnabled:true},
+"100000001198076":{count:32, commentsEnabled:true},
+"100000001198092":{count:204, commentsEnabled:false},
+"100000001198110":{count:424, commentsEnabled:false},
+"100000001198123":{count:343, commentsEnabled:false},
+"100000001198126":{count:62, commentsEnabled:false},
+"100000001198138":{count:163, commentsEnabled:false},
+"100000001198377":{count:143, commentsEnabled:true},
+"100000001198446":{count:23, commentsEnabled:true},
+"100000001198471":{count:52, commentsEnabled:true},
+"100000001198476":{count:157, commentsEnabled:true},
+"100000001198581":{count:48, commentsEnabled:true},
+"100000001198642":{count:253, commentsEnabled:false},
+"100000001199366":{count:136, commentsEnabled:true},
+"100000001199374":{count:114, commentsEnabled:true},
+"100000001199444":{count:155, commentsEnabled:false},
+"100000001199658":{count:4, commentsEnabled:true},
+"100000001200046":{count:884, commentsEnabled:true},
+"100000001200335":{count:165, commentsEnabled:false},
+"100000001200378":{count:192, commentsEnabled:false},
+"100000001200458":{count:77, commentsEnabled:false},
+"100000001200844":{count:23, commentsEnabled:true},
+"100000001201276":{count:88, commentsEnabled:true},
+"100000001201525":{count:188, commentsEnabled:true},
+"100000001202361":{count:0, commentsEnabled:true},
+"100000001202521":{count:27, commentsEnabled:true},
+"100000001202701":{count:270, commentsEnabled:false},
+"100000001202807":{count:17, commentsEnabled:true},
+"100000001202815":{count:116, commentsEnabled:false},
+"100000001202831":{count:232, commentsEnabled:true},
+"100000001202861":{count:95, commentsEnabled:true},
+"100000001202869":{count:39, commentsEnabled:true},
+"100000001202871":{count:23, commentsEnabled:true},
+"100000001202889":{count:54, commentsEnabled:true},
+"100000001202895":{count:33, commentsEnabled:true},
+"100000001202901":{count:90, commentsEnabled:true},
+"100000001203208":{count:19, commentsEnabled:true},
+"100000001203416":{count:220, commentsEnabled:true},
+"100000001203664":{count:0, commentsEnabled:true},
+"100000001188908":{count:16, commentsEnabled:true},
+"100000001194403":{count:0, commentsEnabled:true},
+"100000001194404":{count:0, commentsEnabled:true},
+"100000001194405":{count:71, commentsEnabled:true},
+"100000001194406":{count:0, commentsEnabled:true},
+"100000001194419":{count:1, commentsEnabled:true},
+"100000001194423":{count:58, commentsEnabled:true},
+"100000001194424":{count:0, commentsEnabled:true},
+"100000001194425":{count:0, commentsEnabled:true},
+"100000001194427":{count:0, commentsEnabled:true},
+"100000001194843":{count:51, commentsEnabled:true},
+"100000001197746":{count:1, commentsEnabled:true},
+"100000001201815":{count:0, commentsEnabled:true},
+"100000001201989":{count:0, commentsEnabled:true}
+};
+</script>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/homepage/articleCommentCounts.js"></script>
+<script type="text/javascript" language="JavaScript">
+    ArticleCommentCounts.apply()
+    </script>
+
+			
+		<!-- Start UPT call -->
+		<img height="1" width="3" border=0 src="http://up.nytimes.com/?d=0/15/&t=3&s=0&ui=&r=&u=www%2enytimes%2ecom%2fpages%2fmagazine%2findex%2ehtml%3f">
+		<!-- End UPT call -->
+	
+		
+        <script language="JavaScript"><!--
+          var dcsvid="";
+          var regstatus="non-registered";
+        //--></script>
+        <script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+        <noscript>
+          <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div>
+        </noscript>
+   
+</body>
+</html>

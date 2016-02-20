@@ -1,0 +1,1329 @@
+Set-cookie: RMID=18ec18102c8a4ed9132e802e; expires=Saturday, 01-Dec-2012 18:04:30 GMT; path=/; domain=.nytimes.com
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Set-cookie: adxcs=s*2814a=0:1; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Sports News - The New York Times</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="noarchive">
+<meta name="description" content="Find breaking news and sports news on the NFL, the NBA, the NCAA, the NHL, baseball, golf, tennis, soccer, the World Series, Super Bowl, the Olympics and more." />
+<meta name="keywords" content="Football,Woodson, Charles,Rodgers, Aaron,Green Bay Packers,Nelson, Jordy,Sex Crimes,College Athletics,Fine, Bernie,Davis, Bobby,Boeheim, Jim,Basketball (College),Colleges and Universities,Basketball,Child Abuse and Neglect,Syracuse University,Football,Rodgers, Aaron,Green Bay Packers,New York Giants,Nicks, Hakeem,Coughlin, Tom,Manning, Eli,Cruz, Victor,Football,Schottenheimer, Brian,Kerley, Jeremy,Tomlinson, Ladainian,Ryan, Rex,New York Jets,Moore, Tom,Sanchez, Mark,Football,Richt, Mark,University of Alabama,College Athletics,Louisiana State University,Southeastern Conference,University of Georgia,Duke University,College Athletics,Soccer,Alaska,Cobb, Kelly,National Collegiate Athletic Assn,Hunter, Dale,Washington Capitals,Boudreau, Bruce,Crosby, Sidney,Hockey, Ice,Ovechkin, Alex,Jones, Terrence,Calipari, John,Davis, Anthony,College Athletics,University of Kentucky,St John's University,Basketball,Coaches and Managers,Baseball,Valentine, Bobby,Boston Red Sox,Cherington, Ben,Lucchino, Larry,Choi, K. J.,Golf,Woods, Tiger,California,Horse Racing,Veterinary Medicine,Gilman, Manuel,Deaths (Obituaries),National Basketball Players Assn,Labor and Jobs,Basketball,Collective Bargaining,National Basketball Assn,New Orleans Hornets,Anthony, Carmelo,Lockouts,Trades (Sports),New York Knicks,Paul, Chris,Basketball,Football,University of South Florida,College Athletics,West Virginia University,Football,Oakland Raiders,Minnesota Vikings,McNabb, Donovan,New York Rangers,Hockey, Ice,Soccer,Sex Crimes,Sandusky, Jerry,Suits and Litigation,Child Abuse and Neglect,Second Mile,Pennsylvania State University,Nalbandian, David,Spain,Davis Cup,Argentina,Tennis,Davis Cup,Tennis,Nalbandian, David,Argentina,Spain,del Potro, Juan Martin,Nadal, Rafael,New York Yankees,Rivera, Mariano,Baseball,Schwartzel, Charl,Golf,South Africa,Westwood, Lee,IndyCar,Haas, Carl,Automobile Racing,Newman, Paul,Rugby (Game),Women and Girls,Dubai (United Arab Emirates),Colleges and Universities,Champion, Robert,Marching Bands,Florida,Hazing,Florida A&amp;M University,Soccer,Assaults,Argentina,Softball,Cuba,College Athletics,Child Abuse and Neglect,Paterno, Joe,Pennsylvania State University,Sandusky, Jerry,Sex Crimes,Football,Football,Pacific-12 Conference,Luck, Andrew,Indianapolis Colts,Louisiana State University,Pennsylvania State University,Hanie, Caleb,Couch, Greg,McNabb, Donovan,Denver Broncos,Neuheisel, Rick,College Athletics,Minnesota Vikings,Orton, Kyle,Delhomme, Jake,Cutler, Jay,Lockouts,Wages and Salaries,New York Knicks,Williams, Deron,Paul, Chris,Basketball,Howard, Dwight,Stern, David,National Basketball Assn,Baseball,New York Mets,Valentine, Bobby,Fenway Park (Boston),Boston Red Sox,Cherington, Ben,International Federation of Association Football (FIFA),Blatter, Joseph S,Soccer,Basketball,Soccer,Horsemanship and Equestrian Events,Swimming,Rugby (Game),Swimming,Exercise,Nyad, Diana" />
+<meta name="asset_id" content="">
+<meta name="CG" content="sports">
+<meta name="SCG" content="">
+<meta name="PT" content="Section Front">
+<meta name="PST" content="">
+<link rel="canonical" href="http://www.nytimes.com/pages/sports/index.html">
+<meta name="msapplication-starturl" content="http://www.nytimes.com/" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.nytimes.com/services/xml/rss/nyt/Sports.xml"/>
+
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/build/sectionfront/sports/styles.css" />
+<link rel="stylesheet" type="text/css" media="print" href="http://graphics8.nytimes.com/css/0.1/print/styles.css">
+<!--[if IE]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie.css);
+	    </style>
+	<![endif]-->
+<!--[if IE 6]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie6.css);
+	    </style>
+	<![endif]-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/DropDown.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/util/tooltip.js"></script>
+<script type="text/JavaScript">
+		var static_kw = "Football;Woodson; Charles;Rodgers; Aaron;Green Bay Packers;Nelson; Jordy;Sex Crimes;College Athletics;Fine; Bernie;Davis; Bobby;Boeheim; Jim;Basketball (College);Colleges and Universities;Basketball;Child Abuse and Neglect;Syracuse University;Football;Rodgers; Aaron;Green Bay Packers;New York Giants;Nicks; Hakeem;Coughlin; Tom;Manning; Eli;Cruz; Victor;Football;Schottenheimer; Brian;Kerley; Jeremy;Tomlinson; Ladainian;Ryan; Rex;New York Jets;Moore; Tom;Sanchez; Mark;Football;Richt; Mark;University of Alabama;College Athletics;Louisiana State University;Southeastern Conference;University of Georgia;Duke University;College Athletics;Soccer;Alaska;Cobb; Kelly;National Collegiate Athletic Assn;Hunter; Dale;Washington Capitals;Boudreau; Bruce;Crosby; Sidney;Hockey; Ice;Ovechkin; Alex;Jones; Terrence;Calipari; John;Davis; Anthony;College Athletics;University of Kentucky;St John's University;Basketball;Coaches and Managers;Baseball;Valentine; Bobby;Boston Red Sox;Cherington; Ben;Lucchino; Larry;Choi; K. J.;Golf;Woods; Tiger;California;Horse Racing;Veterinary Medicine;Gilman; Manuel;Deaths (Obituaries);National Basketball Players Assn;Labor and Jobs;Basketball;Collective Bargaining;National Basketball Assn;New Orleans Hornets;Anthony; Carmelo;Lockouts;Trades (Sports);New York Knicks;Paul; Chris;Basketball;Football;University of South Florida;College Athletics;West Virginia University;Football;Oakland Raiders;Minnesota Vikings;McNabb; Donovan;New York Rangers;Hockey; Ice;Soccer;Sex Crimes;Sandusky; Jerry;Suits and Litigation;Child Abuse and Neglect;Second Mile;Pennsylvania State University;Nalbandian; David;Spain;Davis Cup;Argentina;Tennis;Davis Cup;Tennis;Nalbandian; David;Argentina;Spain;del Potro; Juan Martin;Nadal; Rafael;New York Yankees;Rivera; Mariano;Baseball;Schwartzel; Charl;Golf;South Africa;Westwood; Lee;IndyCar;Haas; Carl;Automobile Racing;Newman; Paul;Rugby (Game);Women and Girls;Dubai (United Arab Emirates);Colleges and Universities;Champion; Robert;Marching Bands;Florida;Hazing;Florida A&M University;Soccer;Assaults;Argentina;Softball;Cuba;College Athletics;Child Abuse and Neglect;Paterno; Joe;Pennsylvania State University;Sandusky; Jerry;Sex Crimes;Football;Football;Pacific-12 Conference;Luck; Andrew;Indianapolis Colts;Louisiana State University;Pennsylvania State University;Hanie; Caleb;Couch; Greg;McNabb; Donovan;Denver Broncos;Neuheisel; Rick;College Athletics;Minnesota Vikings;Orton; Kyle;Delhomme; Jake;Cutler; Jay;Lockouts;Wages and Salaries;New York Knicks;Williams; Deron;Paul; Chris;Basketball;Howard; Dwight;Stern; David;National Basketball Assn;Baseball;New York Mets;Valentine; Bobby;Fenway Park (Boston);Boston Red Sox;Cherington; Ben;International Federation of Association Football (FIFA);Blatter; Joseph S;Soccer;Basketball;Soccer;Horsemanship and Equestrian Events;Swimming;Rugby (Game);Swimming;Exercise;Nyad; Diana";
+		var dynamic_kw = "Football;Woodson;+Charles;Rodgers;+Aaron;Green+Bay+Packers;Nelson;+Jordy;Sex+Crimes;College+Athletics;Fine;+Bernie;Davis;+Bobby;Boeheim;+Jim;Basketball+%28College%29;Colleges+and+Universities;Basketball;Child+Abuse+and+Neglect;Syracuse+University;Football;Rodgers;+Aaron;Green+Bay+Packers;New+York+Giants;Nicks;+Hakeem;Coughlin;+Tom;Manning;+Eli;Cruz;+Victor;Football;Schottenheimer;+Brian;Kerley;+Jeremy;Tomlinson;+Ladainian;Ryan;+Rex;New+York+Jets;Moore;+Tom;Sanchez;+Mark;Football;Richt;+Mark;University+of+Alabama;College+Athletics;Louisiana+State+University;Southeastern+Conference;University+of+Georgia;Duke+University;College+Athletics;Soccer;Alaska;Cobb;+Kelly;National+Collegiate+Athletic+Assn;Hunter;+Dale;Washington+Capitals;Boudreau;+Bruce;Crosby;+Sidney;Hockey;+Ice;Ovechkin;+Alex;Jones;+Terrence;Calipari;+John;Davis;+Anthony;College+Athletics;University+of+Kentucky;St+John%27s+University;Basketball;Coaches+and+Managers;Baseball;Valentine;+Bobby;Boston+Red+Sox;Cherington;+Ben;Lucchino;+Larry;Choi;+K.+J.;Golf;Woods;+Tiger;California;Horse+Racing;Veterinary+Medicine;Gilman;+Manuel;Deaths+%28Obituaries%29;National+Basketball+Players+Assn;Labor+and+Jobs;Basketball;Collective+Bargaining;National+Basketball+Assn;New+Orleans+Hornets;Anthony;+Carmelo;Lockouts;Trades+%28Sports%29;New+York+Knicks;Paul;+Chris;Basketball;Football;University+of+South+Florida;College+Athletics;West+Virginia+University;Football;Oakland+Raiders;Minnesota+Vikings;McNabb;+Donovan;New+York+Rangers;Hockey;+Ice;Soccer;Sex+Crimes;Sandusky;+Jerry;Suits+and+Litigation;Child+Abuse+and+Neglect;Second+Mile;Pennsylvania+State+University;Nalbandian;+David;Spain;Davis+Cup;Argentina;Tennis;Davis+Cup;Tennis;Nalbandian;+David;Argentina;Spain;del+Potro;+Juan+Martin;Nadal;+Rafael;New+York+Yankees;Rivera;+Mariano;Baseball;Schwartzel;+Charl;Golf;South+Africa;Westwood;+Lee;IndyCar;Haas;+Carl;Automobile+Racing;Newman;+Paul;Rugby+%28Game%29;Women+and+Girls;Dubai+%28United+Arab+Emirates%29;Colleges+and+Universities;Champion;+Robert;Marching+Bands;Florida;Hazing;Florida+A%26M+University;Soccer;Assaults;Argentina;Softball;Cuba;College+Athletics;Child+Abuse+and+Neglect;Paterno;+Joe;Pennsylvania+State+University;Sandusky;+Jerry;Sex+Crimes;Football;Football;Pacific-12+Conference;Luck;+Andrew;Indianapolis+Colts;Louisiana+State+University;Pennsylvania+State+University;Hanie;+Caleb;Couch;+Greg;McNabb;+Donovan;Denver+Broncos;Neuheisel;+Rick;College+Athletics;Minnesota+Vikings;Orton;+Kyle;Delhomme;+Jake;Cutler;+Jay;Lockouts;Wages+and+Salaries;New+York+Knicks;Williams;+Deron;Paul;+Chris;Basketball;Howard;+Dwight;Stern;+David;National+Basketball+Assn;Baseball;New+York+Mets;Valentine;+Bobby;Fenway+Park+%28Boston%29;Boston+Red+Sox;Cherington;+Ben;International+Federation+of+Association+Football+%28FIFA%29;Blatter;+Joseph+S;Soccer;Basketball;Soccer;Horsemanship+and+Equestrian+Events;Swimming;Rugby+%28Game%29;Swimming;Exercise;Nyad;+Diana";
+		var nyt_google_contents = dynamic_kw + static_kw;
+		var nyt_google_ad_channel = "sports";
+	</script>
+<script type="text/javascript" src="http://use.typekit.com/fml4qar.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" src="http://js.nyt.com/js2/build/sitewide/sitewide.js"></script>
+<script type="text/javascript" src="http://js.nyt.com/js/app/lib/jquery/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+</head>
+<body>
+<a name="top"></a>
+<div id="shell">
+
+<ul id="memberTools">
+
+<!-- start text link -->
+<li class="cColumn-TextAdsHeader">Subscribe:
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/sports/index.html&pos=Bar1&sn2=b56e3e22/8f3cca8a&sn1=2407a328/96bf5462&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-digi-hd-d3847U-h3847W&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fsubscriptions%2FMultiproduct%2Flp5558%2Ehtml%3Fadxc%3D162578%26adxa%3D267524%26page%3Dwww.nytimes.com/pages/sports/index.html%26pos%3DBar1%26campaignId%3D3847U" target="_blank">
+Digital</a> / <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/sports/index.html&pos=Bar1&sn2=b56e3e22/8f3cca8a&sn1=8c0204ae/f0584be3&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-digi-hd-d3847U-h3847W&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DW47AF%26CMP%3D3847W" target="_blank">Home Delivery</a>
+</li>
+<!-- end text link -->
+
+ 
+                        <li><a id="memberToolsLogin" href="https://myaccount.nytimes.com/auth/login">Log In</a></li>
+            <li><a href="https://myaccount.nytimes.com/gst/regi.html">Register Now</a></li>
+                            
+
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+</ul>
+<div class="tabsContainer">
+<ul id="mainTabs" class="tabs">
+<li class="first mainTabHome"><a href="http://www.nytimes.com">Home Page</a></li>
+<li class="mainTabTodaysPaper"><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+<li class="mainTabVideo"><a href="http://www.nytimes.com/video">Video</a></li>
+<li class="mainTabMostPopular"><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+<li class="mainTabTimesTopics"><a href="http://topics.nytimes.com/top/reference/timestopics">Times Topics</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+</script>	<div id="page" class="tabContent active">
+<div class="clearfix" id="masthead">
+
+<div class="singleAd" id="Middle1C">
+<!-- ADXINFO classification="button" campaign="ING_DirectSiteSearchQ111_1694929-nyt1"--><A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/sports/index.html&pos=Middle1C&sn2=8f1c8a58/cc67ad61&sn1=59756299/46b02203&camp=ING_DirectSiteSearchQ111_1694929-nyt1&ad=NEW.88x31.SiteSearch.Wizard&goto=http://ad.doubleclick.net/jump/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.30" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.30"
+ BORDER=0 WIDTH=88 HEIGHT=31
+ ALT="Click Here"></A>
+</div>
+
+<div id="searchWidget">
+<div class="inlineSearchControl">
+<form enctype="application/x-www-form-urlencoded" action="http://query.nytimes.com/search/sitesearch" method="get" name="searchForm" id="searchForm">
+<input type="hidden" value="full" name="date_select"/>
+<label for="searchQuery">Search All NYTimes.com</label>
+<input type="text" class="text" value="" size="" name="query" id="searchQuery"/>
+<input type="hidden" id="searchAll" name="type" value="nyt"/>
+<input type="image" id="searchSubmit" title="Search" alt="Search" width="22" height="19" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"/>
+</form>
+</div>
+</div>
+
+<div id="branding" >
+<a href="http://www.nytimes.com"><img src="http://graphics8.nytimes.com/images/misc/nytlogo152x23.gif" alt="New York Times" id="NYTLogo"/></a>
+</div>
+
+<div id="date">
+<p>
+Friday, December  2, 2011
+</p>
+</div>
+
+<h2>
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</h2>
+
+</div>
+<script language="javascript" type="text/javascript">
+//event observer for Buy Tickets Link in sports nav
+
+Event.observe(window, "load", function(e) {
+
+if($('subNav_sportstickets')) {
+    Event.observe($('subNav_sportstickets'), 'mousedown', function(e){
+             dcsMultiTrack('DCS.dcssip','www.nytimes.com','DCS.dcsuri','/sports/buy-tickets-now.html','WT.ti','Sports - Buy Tickets Now','WT.cg_n','Sports','WT.z_dcsm','1');
+      
+    });
+}
+});
+</script>
+<div class="navigation tabsContainer">
+<ul class="tabs">
+<li id="navWorld" class="first ">
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>	<li id="navUs" >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>	<li id="navNyregion" >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>	<li id="navBusiness" >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>	<li id="navTechnology" >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>	<li id="navScience" >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>	<li id="navHealth" >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>	<li id="navSports" class="selected">
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+<ul class="subNavigation"><li id="subNav_baseball"><a href="http://www.nytimes.com/pages/sports/baseball/index.html">Baseball</a></li><li id="subNav_football"><a href="http://www.nytimes.com/pages/sports/football/index.html">N.F.L.</a></li><li id="subNav_ncaafootball"><a href="http://www.nytimes.com/pages/sports/ncaafootball/index.html">College Football</a></li><li id="subNav_basketball"><a href="http://www.nytimes.com/pages/sports/basketball/index.html">N.B.A.</a></li><li id="subNav_ncaabasketball"><a href="http://www.nytimes.com/pages/sports/ncaabasketball/index.html">College Basketball</a></li><li id="subNav_hockey"><a href="http://www.nytimes.com/pages/sports/hockey/index.html">Hockey</a></li><li id="subNav_soccer"><a href="http://www.nytimes.com/pages/sports/soccer/index.html">Soccer</a></li><li id="subNav_golf"><a href="http://www.nytimes.com/pages/sports/golf/index.html">Golf</a></li><li id="subNav_tennis"><a href="http://www.nytimes.com/pages/sports/tennis/index.html">Tennis</a></li><li id="subNav_global"><a href="http://www.nytimes.com/pages/sports/global/index.html">Global Sports</a></li><li id="subNav_sportstickets"><a href="http://www.ticketsnow.com/Sports_Tickets.html">Buy Tickets</a></li></ul></li>	<li id="navOpinion" >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>	<li id="navArts" >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>	<li id="navStyle" >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>	<li id="navTravel" >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>	<li id="navJobs" >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>	<li id="navRealestate" >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>	<li id="navAutomobiles" >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li></ul>
+</div>
+
+<div class="singleAd" id="TopAd">
+<!-- ADXINFO classification="leaderboard_728" campaign="Citi_NatContContextAddress_1778585-nyt1"--><script language="JavaScript" type="text/javascript" src="http://view.atdmt.com/NYC/jview/359855726/direct;wi.728;hi.90;pc.172960_282801/01/2011.12.02.18.04.30?click=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fadx%2Fbin%2Fadx%5Fclick%2Ehtml%3Ftype%3Dgoto%26opzn%26page%3Dwww.nytimes.com/pages/sports/index.html%26pos%3DTopAd%26camp%3DCiti%5FNatContContextAddress%5F1778585%2Dnyt1%26ad%3Datlas%2D359855726%5F728x90%5FROS%26sn2%3D8f3cc685/78f95840%26snr%3Ddoubleclick%26snx%3D1322848862%26sn1%3Da24f8359%2Fd9b22823%26goto%3D">
+</script><noscript><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/sports/index.html&pos=TopAd&sn2=8f3cc685/78f95840&sn1=c8e65fa8/cdc43793&camp=Citi_NatContContextAddress_1778585-nyt1&ad=atlas-359855726_728x90_ROS&goto=http%3A%2F%2Fclk%2Eatdmt%2Ecom%2FNYC%2Fgo%2F359855726%2Fdirect%3Bwi%2E728%3Bhi%2E90%3Bpc%2E172960%5F282801%2F01%2F2011.12.02.18.04.30%2F" target="_blank"><img border="0" src="http://view.atdmt.com/NYC/view/359855726/direct;wi.728;hi.90;pc.172960_282801/01/2011.12.02.18.04.30/" /></a></noscript>
+</div>
+
+<div id="main">
+<div class="spanAB wrap">
+<div class="wideA">
+<div class="abColumn">
+<div class="aColumn">
+<!--cur:LedeStory395 prev:-->
+<div class="columnGroup first">
+<div class="ledeStory">
+<div class="storyHeader">
+<h1><a href="http://www.nytimes.com/2011/12/02/sports/football/jordy-nelson-of-packers-sneaks-up-on-defenses.html?ref=sports">
+Sneaking Up on Defenses, Until He’s Past Them</a></h1>
+<h6 class="byline">
+By PAT BORZI            </h6>
+</div>
+<div class="ledePhoto">
+<div class="image">
+<a href="http://www.nytimes.com/2011/12/02/sports/football/jordy-nelson-of-packers-sneaks-up-on-defenses.html?ref=sports"><img src="http://graphics8.nytimes.com/images/2011/12/02/sports/y-packers/y-packers-sfSpan.jpg" border="0" width="395" height="303" alt="The  Packers' Jordy Nelson has nine touchdown receptions this season, two of over 80 yards." /></a>
+</div>
+<h6 class="credit">Lenny Ignelzi/Associated Press</h6>
+<p class="caption">The  Packers' Jordy Nelson has nine touchdown receptions this season, two of over 80 yards.</p>
+</div>
+<p class="summary">
+Two weeks ago, Packers quarterback Aaron Rodgers offered a theory on why receiver Jordy Nelson wasn’t drawing double coverage: because Nelson is white.</p>
+</div>
+</div>
+<!--cur:StandardThumb prev:LedeStory395-->
+<div class="columnGroup ">
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/12/02/sports/ncaabasketball/syracuse-criticized-for-its-handling-of-sexual-abuse-case.html?ref=sports">
+Syracuse Criticized for Its Handling of Sexual Abuse Case</a></h3>
+<h6 class="byline">
+By PETE THAMEL  	    </h6>
+<p class="summary">
+The university’s decision not to contact law enforcement during its initial investigation in 2005 has drawn criticism from experts who handle sexual abuse cases.</p>
+<ul class="refer">
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001202871" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/02/sports/ncaabasketball/syracuse-criticized-for-its-handling-of-sexual-abuse-case.html"></span></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/sports/football/giants-hope-to-exploit-packers-big-play-weakness.html?ref=sports">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/sports/y-giants/y-giants-thumbStandard.jpg" width="75" height="75" alt="Receiver Victor Cruz has been one of the Giants' top threats this season, with 55 catches for 957 yards and 7 touchdowns." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/sports/football/giants-hope-to-exploit-packers-big-play-weakness.html?ref=sports">
+Giants See Opening vs. Packers: Vulnerability to Big Plays</a></h3>
+<h6 class="byline">
+By SAM BORDEN	    </h6>
+<p class="summary">
+The Giants’ receivers say undefeated Green Bay’s susceptibility to long passes may be the team’s most significant weakness.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/sports/football/jets-hope-a-savvy-consultant-can-help-treat-their-ailing-offense.html?ref=sports">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/sports/jets/jets-thumbStandard.jpg" width="75" height="75" alt="Tom Moore, left, the offensive consultant, with Brian Schottenheimer. Moore will be at Sunday’s game against the Redskins." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/sports/football/jets-hope-a-savvy-consultant-can-help-treat-their-ailing-offense.html?ref=sports">
+Help Line Open for Jets’ Ailing Offense</a></h3>
+<h6 class="byline">
+By MARK VIERA	    </h6>
+<p class="summary">
+Tom Moore, a Jets offensive consultant who is retired and lives in South Carolina, made a trip to New Jersey and watched practice Thursday.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/12/02/sports/football/nfl-football-roundup.html">N.F.L. Roundup: Seattle and Lynch Send Eagles to 4-8</a></li>
+</ul>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/12/02/sports/ncaafootball/georgia-has-a-chance-to-put-its-mark-on-the-sec.html?ref=sports">
+Georgia Has a Chance to Put Its Mark on the SEC</a></h3>
+<h6 class="byline">
+By RAY GLIER	    </h6>
+<p class="summary">
+In the SEC title game on Saturday, Georgia can show that the conference isn’t just about No. 1 Louisiana State and No. 2 Alabama.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/sports/kelly-cobb-leads-duke-to-womens-national-semifinals.html?ref=sports">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/sports/02duke1/02duke1-thumbStandard.jpg" width="75" height="75" alt="In Duke's history, Kelly Cobb's 30 total points are the most for a first-year player and seventh for any player in a single season." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/sports/kelly-cobb-leads-duke-to-womens-national-semifinals.html?ref=sports">
+Duke Freshman Bloomed in Unlikely Place</a></h3>
+<h6 class="byline">
+By CLARE LOCHARY	    </h6>
+<p class="summary">
+Kelly Cobb, a freshman from Chugiak, Alaska, has led the Blue Devils soccer team into the semifinals of the Women’s College Cup. Duke will play Wake Forest on Friday night.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Penguins 2, Capitals 1</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/sports/hockey/capitals-ovechkin-an-improvement-project-for-dale-hunter.html?ref=sports">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/sports/y-capitals/y-capitals-thumbStandard.jpg" width="75" height="75" alt="The Capitals’ Alex Ovechkin, left, and his new head coach, Dale Hunter, on Tuesday during Hunter’s first game on the job." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/sports/hockey/capitals-ovechkin-an-improvement-project-for-dale-hunter.html?ref=sports">
+Coach’s Plan to Rouse Ovechkin Produces Little</a></h3>
+<h6 class="byline">
+By JEFF Z. KLEIN	    </h6>
+<p class="summary">
+Dale Hunter’s challenge as the Washington Capitals’ new coach is to help Alex Ovechkin regain his superstar form and challenge Sidney Crosby as hockey’s best player.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/12/02/sports/hockey/nhl-hockey-roundup.html">N.H.L. Roundup: Second-Period Outburst Powers Rangers to Victory</a></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">Kentucky 81, St. John's 59</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/sports/ncaabasketball/kentucky-rolls-past-st-johns-81-59.html?ref=sports">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/sports/red-storm/red-storm-thumbStandard.jpg" width="75" height="75" alt="Kentucky's Anthony Davis, dunking above God'sgift Achiuwa of St. John's, finished with 15 points, 15 rebounds and 8 blocks." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/sports/ncaabasketball/kentucky-rolls-past-st-johns-81-59.html?ref=sports">
+Kentucky’s Freshmen Sink the Red Storm</a></h3>
+<h6 class="byline">
+By CLAIRE NOVAK	    </h6>
+<p class="summary">
+Anthony Davis, who had 15 points and 15 rebounds, and Terrence Jones, who scored 26 points, helped No. 1 Kentucky rout Rutgers at Rupp Arena.</p>
+</div>
+</div>
+<!--cur:HeadlineOnly prev:StandardThumb-->
+<div class="columnGroup singleRule ">
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/sports/baseball/red-sox-front-office-describes-process-of-hiring-valentine.html?ref=sports">
+Behind the Scenes of the Front Office’s Decision</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/sports/golf/shades-of-the-old-woods-on-a-windy-day.html?ref=sports">
+Shades of the Old Woods on a Windy Day</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/sports/manuel-gilman-influential-racetrack-veterinarian-dies-at-91.html?ref=sports">
+Manuel Gilman, Influential Racetrack Veterinarian, Dies at 91</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/sports/basketball/nba-players-will-re-form-union.html?ref=sports">
+N.B.A. Players Union Set to Resume Business</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/sports/basketball/for-knicks-anthony-a-lonely-workout.html?ref=sports">
+Lots of Company After Lonely Session</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/sports/ncaafootball/west-virginia-tops-south-florida-30-27.html?ref=sports">
+Mountaineers Win at the Wire</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/sports/football/nfl-football-roundup.html?ref=sports">
+N.F.L. Roundup: Seattle and Lynch Send Eagles to 4-8</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/sports/hockey/nhl-hockey-roundup.html?ref=sports">
+N.H.L. Roundup: Second-Period Outburst Powers Streaking Rangers</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/sports/soccer/schalke-advances-on-rauls-goal.html?ref=sports">
+Schalke Advances on Raúl’s Goal</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/sports/ncaafootball/lawsuit-is-settled-in-penn-state-case.html?ref=sports">
+Lawsuit Is Settled in Penn State Case</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/01/sports/tennis/01iht-srdchistory01.html?ref=sports">
+David Nalbandian's Enduring 'Obsession'</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/01/sports/tennis/01iht-srdcarg01.html?ref=sports">
+Argentina Again So Close, Yet So Far</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/sports/baseball/yankees-rivera-to-have-surgery.html?ref=sports">
+Yankees’ Rivera to Have Surgery</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/aponline/2011/12/01/sports/golf/AP-GLF-Sun-City.html?ref=sports">
+Westwood and Schwartzel Share Lead in Sun City</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/aponline/2011/12/01/sports/AP-CAR-IndyCar-Newman-Hass-Leaving.html?ref=sports">
+Newman-Haas Race Team Leaving IndyCar in 2012</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/sports/rugby/02iht-rugby02.html?ref=sports">
+For Women’s Rugby, Road to Olympics Starts in Dubai</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/florida-4-students-dismissed-in-death.html?ref=sports">
+Florida: 4 Students Dismissed in Death</a>
+</h6>
+</li>
+</ul>
+</div>
+<!--cur:StandardThumb prev:HeadlineOnly-->
+<div class="columnGroup singleRule ">
+<h6 class="sectionHeader">Multimedia</h6><div class="story">
+<h6 class="kicker">Sports of The Times</h6>
+<div class="thumbnail">
+<a href="http://thequad.blogs.nytimes.com/2011/11/29/sports-of-the-times-boeheim-has-explaining-to-do/?ref=sports">
+<img src="http://graphics8.nytimes.com/images/2011/11/29/multimedia/video-rhoden/video-rhoden-thumbStandard.jpg" width="75" height="75" alt="Video: Boeheim Has Explaining to Do" border="0" />
+</a>
+</div>
+<h3><a href="http://thequad.blogs.nytimes.com/2011/11/29/sports-of-the-times-boeheim-has-explaining-to-do/?ref=sports">
+Video: Boeheim Has Explaining to Do</a></h3>
+<h6 class="byline">
+By WILLIAM C. RHODEN	    </h6>
+<p class="summary">
+Jim Boeheim’s involvement in the abuse scandal at Syracuse differs from that of Joe Paterno’s at Penn State, but he may suffer the same fate, and it may be justified.</p>
+<ul class="refer">
+<li><a href="http://thequad.blogs.nytimes.com/2011/11/29/sports-of-the-times-boeheim-has-explaining-to-do/?ref=sports#postComment"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="Comment" width="9" height="11" border="0"> Post a Comment</a> </li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/27/sports/27argentina_ss.html?ref=sports">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/sports/27argentina_ss-slide-GC1Y/27argentina_ss-slide-GC1Y-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/27/sports/27argentina_ss.html?ref=sports">
+<span class="media icon slideshow">Slide Show: </span>
+A History of Violence</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+In Argentina, a rise in street crime is reflected in the increasing aggression among groups of soccer hooligans.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/11/27/sports/soccer/in-argentina-violence-is-part-of-the-soccer-culture.html">Related Article</a></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/slideshow/2011/11/25/sports/26softball_ss.html?ref=sports">
+<img src="http://graphics8.nytimes.com/images/2011/11/25/sports/26softball_ss-slide-VNGX/26softball_ss-slide-VNGX-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/slideshow/2011/11/25/sports/26softball_ss.html?ref=sports">
+<span class="media icon slideshow">Slide Show: </span>
+Road Trip to Cuba</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Players from the Eastern Massachusetts Senior Softball League traveled to play a series of games against teams in Cuba, the league’s fourth such visit there since 2009.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/11/26/sports/us-softball-ambassadors-to-cuba.html">Related Article</a></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/interactive/2011/11/11/sports/ncaafootball/sandusky.html?ref=sports">
+<img src="http://graphics8.nytimes.com/images/2011/11/11/sports/ncaafootball/sanduskytimeline-75.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/interactive/2011/11/11/sports/ncaafootball/sandusky.html?ref=sports">
+<span class="media icon interactive">Interactive Feature: </span>
+Timeline: The Penn State Scandal</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A grand jury report detailed the alleged incidents of sexual abuse committed by Jerry Sandusky, but new details continue to emerge about who knew what and when.</p>
+</div>
+</div>
+<!--cur:HeadlineOnly prev:StandardThumb-->
+<div class="columnGroup singleRule last">
+<ul class="headlinesOnly multiline flush">
+<div id="multiPlayer">
+<!--brightcove code starts here  09/30/08 build//-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/bcvideo/1.0/iframe/embed.js"></script>
+<script type="text/javascript">
+  NYT_VideoPlayerStart( {
+     playerType  : "section",
+     playlistId  : "1194811622289"
+  } );
+</script>
+<!--brightcove code ends here //-->
+</div>            </ul>
+</div>
+<div id="adxSponLink" class="columnGroup singleRule"></div>
+</div><!--close .aColumn -->
+<div class="bColumn">
+<div class="columnGroup SectionFront3Col first">
+<h6 class="sectionHeader">Opinion and Analysis</h6><div class="story">
+<h6 class="kicker">Leading Off</h6>
+<h3><a href="http://www.nytimes.com/2011/12/03/sports/quarterbacks-in-motion-leading-off.html?ref=sports">
+Quarterbacks in Motion</a></h3>
+<h6 class="byline">
+By STEVE REDDICLIFFE				<span class="timestamp">4 minutes ago</span>
+</h6>
+<p class="summary">
+Quarterback news kept writers busy, with the Eagle’s Vince Young throwing four interceptions at Seattle and the Vikings releasing Donovan McNabb.</p>
+</div>
+<div class="story">
+<h6 class="kicker">On Basketball</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/sports/basketball/the-ball-still-belongs-to-the-stars.html?ref=sports">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/sports/beck1/beck1-thumbStandard.jpg" width="75" height="75" alt="The Pistons' Ben Wallace participating in a voluntary workout in Auburn Hills, Mich., on Thursday, the first day players could return to team facilities since the lockout." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/sports/basketball/the-ball-still-belongs-to-the-stars.html?ref=sports">
+The Ball Still Belongs to the Stars</a></h3>
+<h6 class="byline">
+By HOWARD BECK	    </h6>
+<p class="summary">
+The 149-day N.B.A. lockout was mostly about money, but with a subtext of control. The owners ultimately failed to regain it and the star players appear to be as powerful as ever.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/12/02/sports/basketball/nba-players-will-re-form-union.html">N.B.A. Players Union Set to Resume Business</a></li>
+<li><a href="http://www.nytimes.com/2011/12/02/sports/basketball/for-knicks-anthony-a-lonely-workout.html">Lots of Company After Knicks' Lonely Session</a></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">On Baseball</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/sports/baseball/valentine-and-red-sox-start-afresh.html?ref=sports">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/sports/valentine/valentine-thumbStandard.jpg" width="75" height="75" alt="Bobby Valentine at Fenway Park on Thursday. “It's more than a special day,” he said." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/sports/baseball/valentine-and-red-sox-start-afresh.html?ref=sports">
+Valentine and Red Sox Start Afresh</a></h3>
+<h6 class="byline">
+By TYLER KEPNER	    </h6>
+<p class="summary">
+The new Red Sox manager admitted he has made mistakes in his career as he takes over a team that collapsed spectacularly.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/12/02/sports/baseball/red-sox-front-office-describes-process-of-hiring-valentine.html">Behind the Scenes of the Front Office’s Decision</a></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">On Soccer</h6>
+<h3><a href="http://www.nytimes.com/2011/12/03/sports/soccer/03iht-soccer03.html?ref=sports">
+Skeletons in Blatter's Closet Return to Haunt Him</a></h3>
+<h6 class="byline">
+By ROB HUGHES				<span class="timestamp">7:44 AM ET</span>
+</h6>
+<p class="summary">
+When Transparency International turned down the opportunity to help steer changes in world soccer, Sepp Blatter, the head of FIFA, saw another potential ally desert him.</p>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">From the Blogs</h6><div class="story">
+<h6 class="kicker">The Fifth Down</h6>
+<div class="thumbnail">
+<a href="http://fifthdown.blogs.nytimes.com/2011/12/02/will-5000-passing-yards-eventually-be-the-norm/?ref=sports">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/sports/football/02brees-fifthdown/02brees-fifthdown-thumbStandard.jpg" width="75" height="75" alt="Saints quarterback Drew Brees is pursuing Dan Marino's single-season record for passing yards (5,084), set in 1984." border="0" />
+</a>
+</div>
+<h3><a href="http://fifthdown.blogs.nytimes.com/2011/12/02/will-5000-passing-yards-eventually-be-the-norm/?ref=sports">
+Will 5,000 Passing Yards Eventually Be the Norm?</a></h3>
+<h6 class="byline">
+By JUDY BATTISTA				<span class="timestamp">11:14 AM ET</span>
+</h6>
+<p class="summary">
+Judy Battista, who covers the N.F.L. for The Times, answered questions from readers this week.</p>
+</div>
+<div class="story">
+<h6 class="kicker">The Fifth Down</h6>
+<h3><a href="http://fifthdown.blogs.nytimes.com/2011/12/02/week-13-matchups-we-dont-want-to-brag/?ref=sports">
+Week 13 Matchups: We Don't Want to Brag</a></h3>
+<h6 class="byline">
+By MIKE TANIER				<span class="timestamp">6:00 AM ET</span>
+</h6>
+<p class="summary">
+In an N.F.L. that has become increasingly self-critical, the Packers are at least daring enough to at least occasionally express pride.</p>
+<ul class="refer">
+<li><a href="http://fifthdown.blogs.nytimes.com/2011/12/01/week-13-in-fantasy-football-favorable-and-unfavorable-matchups/?ref=sports">Week 13 in Fantasy Football</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<h6 class="sectionHeader">Photos</h6>
+<div class="columnGroup first">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/slideshow/2011/12/01/sports/20111201-photoreplay.html?ref=sports">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/sports/20111201-photoreplay-slide-7EIV/20111201-photoreplay-slide-7EIV-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay slideshow">Slide Show</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/slideshow/2011/12/01/sports/20111201-photoreplay.html?ref=sports">
+Photo Replay: Dec.1</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A look at the day in sports, including USA Swimming’s winter national championships in Atlanta and Europa League soccer matches in Germany and Greece.</p>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">From the Magazine</h6><div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/04/magazine/marathon-swimmer-diana-nyad.html?ref=sports">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/magazine/04nyad1/mag-04Nyad-t_CA0-thumbStandard.jpg" width="75" height="75" alt="Diana Nyad, three days after her September attempt to swim from Cuba to Florida." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/04/magazine/marathon-swimmer-diana-nyad.html?ref=sports">
+Marathon Swimmer Diana Nyad Takes On the Demons of the Sea</a></h3>
+<h6 class="byline">
+By ELIZABETH WEIL	    </h6>
+<p class="summary">
+Why the 62-year-old can’t stay out of the water. Despite the jellyfish.</p>
+<ul class="refer">
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001194419" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/04/magazine/marathon-swimmer-diana-nyad.html"></span></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://fifthdown.blogs.nytimes.com" title="The Fifth Down - Sports Blogging From The New York Times">
+<img src="http://graphics8.nytimes.com/images/blogs/fifthdown/fifthdown163.jpg" alt="The Fifth Down - Sports Blogging From The New York Times"/>
+</a> 
+</h3> 	<a href="http://fifthdown.blogs.nytimes.com" title="The Fifth Down - Sports Blogging From The New York Times">
+<img src="http://graphics8.nytimes.com/images/blogs/fifthdown/fifthdown75.jpg" alt="The Fifth Down - Sports Blogging From The New York Times" class="thumbnail"/>
+</a> <div class="story first">
+<h3><a href="http://fifthdown.blogs.nytimes.com/2011/12/02/fantasy-football-week-13s-toughest-picks/?ref=sports">Fantasy Football: Week 13's Toughest Picks</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">40 minutes ago</span></p>
+</div><div class="story">
+<h3><a href="http://fifthdown.blogs.nytimes.com/2011/12/02/the-strategy-and-consequences-of-the-n-f-l-coin-toss/?ref=sports">The Strategy and Consequences of the N.F.L. Coin Toss</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">49 minutes ago</span></p>
+</div><p class="refer">
+<a href="http://fifthdown.blogs.nytimes.com" title="Go to the Fifth Down Blog">Go to the Fifth Down Blog &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule ">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://bats.blogs.nytimes.com" title="Bats">
+<img src="http://graphics8.nytimes.com/images/blogs/bats/bats163.gif" alt="Bats"/>
+</a> 
+</h3> 	<a href="http://bats.blogs.nytimes.com" title="Bats">
+<img src="http://graphics8.nytimes.com/images/blogs/bats/bats75a.gif" alt="Bats" class="thumbnail"/>
+</a> <div class="story first">
+<h3><a href="http://bats.blogs.nytimes.com/2011/12/01/for-mets-bullpen-remains-a-priority/?ref=sports">For Mets, Bullpen Remains a Priority</a></h3>
+<p class="date">December 1, 2011 <span class="timestamp">6:10 PM ET</span></p>
+</div><div class="story">
+<h3><a href="http://bats.blogs.nytimes.com/2011/11/29/for-red-sox-life-just-got-very-interesting/?ref=sports">For Red Sox, Life Just Got Very Interesting</a></h3>
+<p class="date">November 29, 2011 <span class="timestamp"></span></p>
+</div><p class="refer">
+<a href="http://bats.blogs.nytimes.com" title="Go to the Bats Blog">Go to the Bats Blog &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule ">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://thequad.blogs.nytimes.com" title="The Quad - Sports Blogging From The New York Times">
+<img src="http://graphics8.nytimes.com/images/blogs_v3/thequad/thequad163.gif" alt="The Quad - Sports Blogging From The New York Times"/>
+</a> 
+</h3> 	<a href="http://thequad.blogs.nytimes.com" title="The Quad - Sports Blogging From The New York Times">
+<img src="http://graphics8.nytimes.com/images/blogs_v3/thequad/thequad75.png" alt="The Quad - Sports Blogging From The New York Times" class="thumbnail"/>
+</a> <div class="story first">
+<h3><a href="http://thequad.blogs.nytimes.com/2011/12/02/sports-for-dorks-and-missing-ingredient-in-football/?ref=sports">'Sports for Dorks,' and  Missing Ingredient in Football</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">6:00 AM ET</span></p>
+</div><div class="story">
+<h3><a href="http://thequad.blogs.nytimes.com/2011/12/01/womens-soccer-college-cup-will-produce-a-first-time-champion/?ref=sports">Women's Soccer College Cup Will Produce a First-Time Champion</a></h3>
+<p class="date">December 1, 2011 <span class="timestamp">6:36 PM ET</span></p>
+</div><p class="refer">
+<a href="http://thequad.blogs.nytimes.com" title="Go to The Quad Blog">Go to The Quad Blog &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule ">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://goal.blogs.nytimes.com" title="Goal - Sports Blogging From The New York Times">
+<img src="http://graphics8.nytimes.com/images/blogs_v3/goal/goal163.gif" alt="Goal - Sports Blogging From The New York Times"/>
+</a> 
+</h3> 	<a href="http://goal.blogs.nytimes.com" title="Goal - Sports Blogging From The New York Times">
+<img src="http://graphics8.nytimes.com/images/blogs/goal/goal75.jpg" alt="Goal - Sports Blogging From The New York Times" class="thumbnail"/>
+</a> <div class="story first">
+<h3><a href="http://goal.blogs.nytimes.com/2011/12/02/weekend-tv-guide-dec-2-5-tracking-u-s-players-4-games-in-4-days/?ref=sports">Weekend TV Guide, Dec. 2-5: Tracking U.S. Players ... 4 Games in 4 Days</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">11:14 AM ET</span></p>
+</div><div class="story">
+<h3><a href="http://goal.blogs.nytimes.com/2011/12/01/mexican-playoffs-too-hot-to-handle/?ref=sports">Mexican Playoffs: Too Hot to Handle?</a></h3>
+<p class="date">December 1, 2011 <span class="timestamp"></span></p>
+</div><p class="refer">
+<a href="http://goal.blogs.nytimes.com" title="Go to the Goal Blog">Go to the Goal Blog &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule ">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://slapshot.blogs.nytimes.com" title="Slap Shot - Sports Blogging From The New York Times">
+<img src="http://graphics8.nytimes.com/images/blogs/slapshot/slapshot163.jpg" alt="Slap Shot - Sports Blogging From The New York Times"/>
+</a> 
+</h3> 	<a href="http://slapshot.blogs.nytimes.com" title="Slap Shot - Sports Blogging From The New York Times">
+<img src="http://graphics8.nytimes.com/images/blogs/slapshot/slapshot75.jpg" alt="Slap Shot - Sports Blogging From The New York Times" class="thumbnail"/>
+</a> <div class="story first">
+<h3><a href="http://slapshot.blogs.nytimes.com/2011/12/01/ducks-look-to-boudreaus-softer-touch-for-more-wins/?ref=sports">Ducks Look to Boudreau's Softer Touch for More Wins</a></h3>
+<p class="date">December 1, 2011 <span class="timestamp">2:34 PM ET</span></p>
+</div><div class="story">
+<h3><a href="http://slapshot.blogs.nytimes.com/2011/12/01/scandals-ramifications-on-penn-state-hockey/?ref=sports">Scandal's Ramifications on Penn State Hockey</a></h3>
+<p class="date">December 1, 2011 <span class="timestamp"></span></p>
+</div><p class="refer">
+<a href="http://slapshot.blogs.nytimes.com" title="Go to the Slap Shot Blog">Go to the Slap Shot Blog &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule ">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://offthedribble.blogs.nytimes.com" title="Off The Dribble - Sports Blogging From The New York Times">
+<img src="http://graphics8.nytimes.com/images/blogs_v3/offthedribble/offthedribble163.gif" alt="Off The Dribble - Sports Blogging From The New York Times"/>
+</a> 
+</h3> 	<a href="http://offthedribble.blogs.nytimes.com" title="Off The Dribble - Sports Blogging From The New York Times">
+<img src="http://graphics8.nytimes.com/images/blogs_v3/offthedribble/offthedribble75.png" alt="Off The Dribble - Sports Blogging From The New York Times" class="thumbnail"/>
+</a> <div class="story first">
+<h3><a href="http://offthedribble.blogs.nytimes.com/2011/11/30/really-big-big-threes/?ref=sports">Really Big Big Threes</a></h3>
+<p class="date">November 30, 2011 <span class="timestamp"></span></p>
+</div><div class="story">
+<h3><a href="http://offthedribble.blogs.nytimes.com/2011/11/30/why-miami-shouldnt-abandon-mike-miller/?ref=sports">Why Miami Shouldn't Abandon Mike Miller</a></h3>
+<p class="date">November 30, 2011 <span class="timestamp"></span></p>
+</div><p class="refer">
+<a href="http://offthedribble.blogs.nytimes.com" title="Go to the Off The Dribble Blog">Go to the Off The Dribble Blog &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule last">
+
+
+<div class="singleAd" id="Box2">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/sports/index.html&pos=Box2&sn2=b5563e23/8f3ccbca&sn1=38d43609/ab3147cd&camp=nyt2011-circ-120x90-weekender-36H38&ad=071511-120x90-weekender-36H38&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DWC7AA%26CMP%3D36H38" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/13/ad.271312/11-0920_HDWeekender2_120x90.jpg" width="120" height="90" border="0"></a>
+
+</div>
+
+</div>
+</div><!--close .bColumn -->
+</div><!--close .abColumn -->
+<div class="cColumn">
+<!--Ads  -->                    <div class="columnGroup first">
+
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<div id="sportsStatsWidget" class="nytSportsHome">
+<div class="tabsContainer">
+<ul class="tabs">
+<li class='selected'><a href='#'>Men's BB</a></li><li><a href='#'>Women's BB</a></li><li><a href='#'>N.H.L.</a></li><li><a href='#'>N.C.A.A. FB</a></li><li><a href='#'>N.F.L.</a></li> 
+</ul>
+</div>
+<div id="statscontent_cbk" class="tabContent"> </div>
+<div id="statscontent_wcbk" class="tabContent"> </div>
+<div id="statscontent_nhl" class="tabContent"> </div>
+<div id="statscontent_cfb" class="tabContent"> </div>
+<div id="statscontent_nfl" class="tabContent"> </div>
+<div class="singleRuleDivider"></div>
+</div>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/lib/NYTD/0.0.1/tabset.js"></script>
+<script src="http://nytimes.stats.com/today.js.asp?target_id=statscontent&sport=CBK|WCBK|NHL|CFB|NFL"></script>
+<script type="text/javascript">NYTD.TabSet("sportsStatsWidget");</script>
+</div>
+<!--WireFeed Simple -->                    <div class="columnGroup ">
+<h6 class="kicker">News From <a href="http://www.nytimes.com/pages/aponline/sports/index.html">A.P.</a> and <a href="http://www.nytimes.com/pages/reuters/sports/index.html">Reuters</a> &raquo;</h6>
+<div class="story">
+<h6><a href="http://www.nytimes.com/reuters/2011/12/02/sports/golf/sports-us-golf-suncity.html?ref=sports">McDowell Leads at Sun City Despite Air Shot</a></h6>
+<span class="timestamp">5 minutes ago</span>
+</div>	       <div class="story">
+<h6><a href="http://www.nytimes.com/reuters/2011/12/02/sports/olympics/sports-us-olympics-britain-boxing.html?ref=sports">Joshua Inspired by Harrison's Boxing Gold</a></h6>
+<span class="timestamp">11 minutes ago</span>
+</div>	       <div class="story">
+<h6><a href="http://www.nytimes.com/reuters/2011/12/02/sports/golf/sports-us-golf-european-cards.html?ref=sports">Wilson, Fasth and Dougherty Lose Tour Cards</a></h6>
+<span class="timestamp">29 minutes ago</span>
+</div>	       <div class="story">
+<h6><a href="http://www.nytimes.com/aponline/2011/12/02/sports/AP-BOX-Cotto-Margarito.html?ref=sports">Cotto, Margarito Still Fighting Old Battles</a></h6>
+<span class="timestamp">36 minutes ago</span>
+</div>	       <div class="story">
+<h6><a href="http://www.nytimes.com/aponline/2011/12/02/sports/baseball/AP-BBN-Marlins-Bell.html?ref=sports">AP Source: Bell, Marlins Agree to $27 Million Deal</a></h6>
+<span class="timestamp">44 minutes ago</span>
+</div>	       <div class="story">
+<h6><a href="http://www.nytimes.com/aponline/2011/12/02/sports/AP-BOX-Povetkin-Boswell.html?ref=sports">Boswell Targets American Heavyweight Dream</a></h6>
+<span class="timestamp">11:52 AM ET</span>
+</div>        	</div>
+<!--Ads WireFeed -->                    <div class="columnGroup ">
+
+			
+<div class="bigAd" id="SFMiddle">
+<!-- ADXINFO classification="BigAd" campaign="JohnstonMurphy_NovDec_2011_1762505_nyt8"--><SCRIPT type="text/javascript" SRC="http://ad.doubleclick.net/adj/N6550.276948.NYTIMES/B5878617.22;sz=336x280;pc=nyt172833A282718;ord=2011.12.02.18.04.30?;click=http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/sports/index.html&pos=SFMiddle&camp=JohnstonMurphy_NovDec_2011_1762505_nyt8&ad=JandM_336x280_Business_Style_Sports_Flt2&sn2=f0c2fde/f4e8c436&snr=doubleclick&snx=1322848855&sn1=6d109758/24f74e1b&goto=">
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/sports/index.html&pos=SFMiddle&sn2=f0c2fde/f4e8c436&sn1=85d8779f/26d3ee1c&camp=JohnstonMurphy_NovDec_2011_1762505_nyt8&ad=JandM_336x280_Business_Style_Sports_Flt2&goto=http://ad.doubleclick.net/jump/N6550.276948.NYTIMES/B5878617.22;sz=336x280;pc=nyt172833A282718;ord=2011.12.02.18.04.30?" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N6550.276948.NYTIMES/B5878617.22;sz=336x280;pc=nyt172833A282718;ord=2011.12.02.18.04.30?"
+ BORDER=0 WIDTH=336 HEIGHT=280
+ ALT="Click Here"></A>
+</NOSCRIPT>
+</div>
+
+
+
+<div class="singleAd" id="Box3">
+<!-- ADXINFO classification="feature_squares" campaign="nyt2011-regilite-P1-TimesLimited-ros"--><iframe title="regilite" src="https://myaccount.nytimes.com/regilite?product=LT" width="336" height="90" marginheight="0" marginwidth="0" frameborder="0" vspace="0" hspace="0" scrolling="no"></iframe>
+</div>
+
+
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<div class="singleRuleDivider"></div>
+<div class="columnGroup fullWidth">
+<div class="subColumn-2 wrap">
+<h3 class="sectionHeader insetH">Follow Times Sports on Twitter</h3>
+<div class="column">
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://twitter.com/zinsernyt"><img src="http://graphics8.nytimes.com/images/promos/sports/reporters/zinser.50.jpg" width="50" height="50" alt="" /></a></div>
+<h5><a href="http://twitter.com/zinsernyt">Lynn Zinser</a></h5>
+<span class="caption">Leading Off author: <a href="http://twitter.com/zinsernyt">zinsernyt</a>.</span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://twitter.com/PeteThamelNYT"><img src="http://graphics8.nytimes.com/images/promos/sports/reporters/petethamel.50.jpg" width="50" height="50" alt="" /></a></div>
+<h5><a href="http://twitter.com/PeteThamelNYT">Pete Thamel</a></h5>
+<span class="caption">College sports reporter: <a href="http://twitter.com/PeteThamelNYT">PeteThamelNYT</a>.</span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://twitter.com/tylerkepner"><img src="http://graphics8.nytimes.com/images/promos/sports/reporters/kepner_50.jpg" width="50" height="50" alt="" /></a></div>
+<h5><a href="http://twitter.com/tylerkepner">Tyler Kepner</a></h5>
+<span class="caption">National baseball reporter: <a href="http://twitter.com/tylerkepner">tylerkepner</a>.</span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a  href="http://twitter.com/JulietMacur"><img  src="http://graphics8.nytimes.com/images/promos/sports/reporters/macur.50.jpg"  width="50" height="50" alt=""></a></div>
+<h5><a href="http://twitter.com/JulietMacur">Juliet Macur</a></h5>
+<span class="caption">Reporter: <a href="http://twitter.com/JulietMacur">JulietMacur</a>.</span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<!--<div class="runaroundRight"><a href="http://twitter.com/JudyBattista"><img src="http://graphics8.nytimes.com/images/promos/sports/reporters/battista_50.jpg" width="50" height="50" alt="" /></a></div>-->
+<h5><a href="http://twitter.com/JudyBattista">Judy Battista</a></h5>
+<span class="caption">N.F.L. Reporter: <a href="http://twitter.com/JudyBattista">judybattista</a>.</span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<!--<div class="runaroundRight"><a href="http://twitter.com/joedrape"><img src="http://graphics8.nytimes.com/images/promos/sports/reporters/drape.50.jpg" width="50" height="50" alt="" /></a></div>-->
+<h5><a href="http://twitter.com/joedrape">Joe Drape</a></h5>
+<span class="caption">Horse racing reporter: <a href="http://twitter.com/joedrape">joedrape</a>.</span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<!--<div class="runaroundRight"><a href="http://twitter.com/joedrape"><img src="http://graphics8.nytimes.com/images/promos/sports/reporters/drape.50.jpg" width="50" height="50" alt="" /></a></div>-->
+<h5><a href="http://twitter.com/ByKaren">Karen Crouse</a></h5>
+<span class="caption">Reporter: <a href="http://twitter.com/ByKaren">ByKaren</a>.</span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<!--<div class="runaroundRight"><a href="http://twitter.com/NYTJohnBranch"><img src="http://graphics8.nytimes.com/images/promos/sports/reporters/branch_50.jpg" width="50" height="50" alt="" /></a></div>-->
+<h5><a href="http://twitter.com/christophclarey">Christopher Clarey</a></h5>
+<span class="caption">Reporter: <a href="http://twitter.com/christophclarey">christophclarey</a>.</span>
+</div></div>  
+<div class="columnGroup"><div class="story">
+<!--<div  class="runaroundRight"><a  href="http://twitter.com/richsandomir"><img  src="http://graphics8.nytimes.com/images/promos/sports/reporters/sandomir.50.jpg"  width="50"  height="50" alt=""></a></div>-->
+<h5><a href="http://twitter.com/richsandomir">Richard Sandomir</a></h5>
+<span class="caption">Sports media reporter: <a href="http://twitter.com/richsandomir">richsandomir</a>.</span>
+</div></div>
+</div><div class="column last">
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://twitter.com/HarveyAraton"><img src="http://graphics8.nytimes.com/images/promos/sports/reporters/araton_50.jpg" width="50" height="50" alt="" /></a></div>
+<h5><a href="http://twitter.com/HarveyAraton">Harvey Araton</a></h5>
+<span class="caption">Reporter: <a href="http://twitter.com/HarveyAraton">HarveyAraton</a>.</span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://twitter.com/#!/WCRhoden"><img src="http://graphics8.nytimes.com/images/promos/sports/columnists/william-c-rhoden.jpg" width="50" height="50" alt=""></a></div>
+<h5><a href="http://twitter.com/#!/WCRhoden">William C. Rhoden</a></h5>
+<span class="caption">Columnist: <a href="http://twitter.com/#!/WCRhoden">WCRhoden</a>.</span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://twitter.com/howardbecknyt"><img src="http://graphics8.nytimes.com/images/promos/sports/reporters/beck.50.jpg" width="50" height="50" alt=""></a></div>
+<h5><a href="http://twitter.com/howardbecknyt">Howard Beck</a></h5>
+<span class="caption"> N.B.A. reporter: <a href="http://twitter.com/howardbecknyt">howardbecknyt</a>.</span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://twitter.com/benshpigel"><img src="http://graphics8.nytimes.com/images/promos/sports/reporters/shpigel_50.jpg" width="50" height="50" alt=""></a></div>
+<h5><a href="http://twitter.com/benshpigel">Ben Shpigel</a></h5>
+<span class="caption">Jets reporter: <a href="http://twitter.com/benshpigel">benshpigel</a>.</span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<!--<div class="runaroundRight"><a href="http://twitter.com/nytbishop"><img src="http://graphics8.nytimes.com/images/promos/sports/reporters/bishop.50.jpg" width="50" height="50" alt="" /></a></div>-->
+<h5><a href="http://twitter.com/nytbishop">Greg Bishop</a></h5>
+<span class="caption">Reporter: <a href="http://twitter.com/nytbishop">nytbishop</a>.</span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<!--<div class="runaroundRight"><a href="http://twitter.com/billmpennington"><img src="http://graphics8.nytimes.com/images/promos/sports/reporters/pennington_50.jpg" width="50" height="50" alt="" /></a></div>-->
+<h5><a href="http://twitter.com/billmpennington">Bill Pennington</a></h5>
+<span class="caption">Golf reporter: <a href="http://twitter.com/billmpennington">billmpennington</a>.</span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<!--<div class="runaroundRight"><a href="http://twitter.com/NYTJohnBranch"><img src="http://graphics8.nytimes.com/images/promos/sports/reporters/branch_50.jpg" width="50" height="50" alt="" /></a></div>-->
+<h5><a href="http://twitter.com/NYTJohnBranch">John Branch</a></h5>
+<span class="caption">Reporter: <a href="http://twitter.com/NYTJohnBranch">NYTJohnBranch</a>.</span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<h5><a href="http://twitter.com/#!/JSablichNYT">Justin Sablich</a></h5>
+<span class="caption">Fantasy Football: <a href="http://twitter.com/#!/5thDownFantasy">5thDownFantasy</a>.</span>
+<span class="caption">Producer/Blogger <a href="http://twitter.com/#!/JSablichNYT">JSablichNYT</a>.</span>
+</div></div>
+</div></div></div><div class="singleRuleDivider"></div>
+<div id="mostPopWidget" class="singleRule"> 
+
+      <!-- MOST POPULAR MODULE STARTS -->
+      <h4>MOST POPULAR - SPORTS</h4>
+         <div id="tabsContainer">
+         <ul class="tabs">
+            <li class="selected"><a href="#">E-Mailed</a></li>
+            <li><a href="#">Blogged</a></li>
+            
+            <li><a href="#">Viewed</a></li>
+            
+         </ul>
+         </div>
+            <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"></HEAD><div class="tabContent tabContentActive" id="mostEmailed"><ol>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/sports/02duke1/02duke1-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/02/sports/kelly-cobb-leads-duke-to-womens-national-semifinals.html?src=me&amp;ref=sports" title="Click to go to this article">Duke Freshman Bloomed in Unlikely Place</a></li>
+<li kicker=""><a href="http://www.nytimes.com/2011/12/02/sports/ncaabasketball/syracuse-criticized-for-its-handling-of-sexual-abuse-case.html?src=me&amp;ref=sports" title="Click to go to this article">Syracuse Criticized for Its Handling of Sexual Abuse Case</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/sports/y-packers/y-packers-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/02/sports/football/jordy-nelson-of-packers-sneaks-up-on-defenses.html?src=me&amp;ref=sports" title="Click to go to this article">Sneaking Up on Defenses, Until He&rsquo;s Past Them</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/sports/jpVALENTINE1/jpVALENTINE1-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/01/sports/baseball/bobby-valentine-bold-and-brilliant-in-any-language.html?src=me&amp;ref=sports" title="Click to go to this article">Brilliant and Bold, in Any Language</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/sports/beck1/beck1-thumbStandard.jpg"  kicker="On Basketball"><a href="http://www.nytimes.com/2011/12/02/sports/basketball/the-ball-still-belongs-to-the-stars.html?src=me&amp;ref=sports" title="Click to go to this article">On Basketball: The Ball Still Belongs to the Stars</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/sports/30kerry-1/30kerry-1-thumbStandard-v2.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/01/sports/football/kerry-collinss-career-of-life-lessons-ends-with-one-more.html?src=me&amp;ref=sports" title="Click to go to this article">His Last Snap Behind Him, Collins Has No Regrets</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/03/sports/02gilman-1/02gilman-1-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/02/sports/manuel-gilman-influential-racetrack-veterinarian-dies-at-91.html?src=me&amp;ref=sports" title="Click to go to this article">Manuel Gilman, Influential Racetrack Veterinarian, Dies at 91</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/sports/01vecsey1/01vecsey1-thumbStandard.jpg"  kicker="Sports of The Times"><a href="http://www.nytimes.com/2011/12/01/sports/baseball/valentine-in-boston-now-thats-entertainment-george-vecsey.html?src=me&amp;ref=sports" title="Click to go to this article">Sports of The Times: Valentine in Boston? That&rsquo;s Entertainment</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/sports/valentine/valentine-thumbStandard.jpg"  kicker="On Baseball"><a href="http://www.nytimes.com/2011/12/02/sports/baseball/valentine-and-red-sox-start-afresh.html?src=me&amp;ref=sports" title="Click to go to this article">On Baseball: Valentine and Red Sox Start Afresh</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/30/sports/CONCUSSIONS2/CONCUSSIONS2-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/11/30/sports/ncaafootball/college-players-move-concussions-issue-into-the-courtroom.html?src=me&amp;ref=sports" title="Click to go to this article">College Athletes Move Concussions Into the Courtroom</a></li>
+</ol>
+        <a class="more" href="http://www.nytimes.com/gst/mostemailed.html">Go to Complete List &#x00bb;</a>
+        </div><!-- #most emailed top10 -->
+
+            <div class="tabContent" id="mostBlogged">
+<ol>
+<li><a href="http://www.nytimes.com/2011/11/30/us/politics/gingrich-gave-push-to-clients-not-just-ideas.html?bl" title="Click to go to this article">Gingrich Gave Push to Clients, Not Just Ideas</a></li>
+<li><a href="http://www.nytimes.com/2011/12/01/world/middleeast/voting-in-egypt-shows-mandate-for-islamists.html?bl" title="Click to go to this article">Voting in Egypt Shows Mandate for Islamists</a></li>
+<li><a href="http://www.nytimes.com/2011/12/01/opinion/kristof-a-banker-speaks-with-regret.html?bl" title="Click to go to this article">A Banker Speaks, With Regret</a></li>
+<li><a href="http://www.nytimes.com/2011/12/01/us/we-are-the-99-percent-joins-the-cultural-and-political-lexicon.html?bl" title="Click to go to this article">'We Are the 99 Percent' Joins the Cultural and Political Lexicon</a></li>
+<li><a href="http://www.nytimes.com/2011/12/02/opinion/krugman-killing-the-euro.html?bl" title="Click to go to this article">Killing the Euro</a></li>
+<li><a href="http://www.nytimes.com/2011/12/01/us/federal-marijuana-classification-should-change-gregoire-and-chafee-say.html?bl" title="Click to go to this article">Federal Marijuana Classification Should Change, Gregoire and Chafee Say</a></li>
+<li><a href="http://www.nytimes.com/2011/12/01/us/politics/presidential-candidates-make-fewer-in-person-appearances.html?bl" title="Click to go to this article">Presidential Candidates Make Fewer In-Person Appearances</a></li>
+<li><a href="http://www.nytimes.com/2011/12/01/fashion/new-yorks-literary-cubs.html?bl" title="Click to go to this article">New York's Literary Cubs</a></li>
+<li><a href="http://www.nytimes.com/2011/11/30/education/surge-in-free-school-lunches-reflects-economic-crisis.html?bl" title="Click to go to this article">Surge in Free School Lunches Reflects Economic Crisis</a></li>
+<li><a href="http://www.nytimes.com/2011/11/30/world/europe/british-hacking-scandal-widens-to-government-secrets.html?bl" title="Click to go to this article">British Hacking Scandal Widens to Government Secrets</a></li>
+</ol>
+<a class="more" href="http://www.nytimes.com/gst/mostblogged.html">Go to Complete List &#x00bb;</a>
+</div><!-- #most blogged top10 -->
+
+            
+            <div class="tabContent" id="mostViewed"><ol>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/sports/02duke1/02duke1-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/02/sports/kelly-cobb-leads-duke-to-womens-national-semifinals.html?src=mv&amp;ref=sports" title="Click to go to this article">Duke Freshman Bloomed in Unlikely Place</a></li>
+<li kicker=""><a href="http://www.nytimes.com/2011/12/02/sports/ncaabasketball/syracuse-criticized-for-its-handling-of-sexual-abuse-case.html?src=mv&amp;ref=sports" title="Click to go to this article">Syracuse Criticized for Its Handling of Sexual Abuse Case</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/sports/y-packers/y-packers-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/02/sports/football/jordy-nelson-of-packers-sneaks-up-on-defenses.html?src=mv&amp;ref=sports" title="Click to go to this article">Sneaking Up on Defenses, Until He&rsquo;s Past Them</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/sports/beck1/beck1-thumbStandard.jpg"  kicker="On Basketball"><a href="http://www.nytimes.com/2011/12/02/sports/basketball/the-ball-still-belongs-to-the-stars.html?src=mv&amp;ref=sports" title="Click to go to this article">On Basketball: The Ball Still Belongs to the Stars</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/sports/30kerry-1/30kerry-1-thumbStandard-v2.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/01/sports/football/kerry-collinss-career-of-life-lessons-ends-with-one-more.html?src=mv&amp;ref=sports" title="Click to go to this article">His Last Snap Behind Him, Collins Has No Regrets</a></li>
+<li kicker=""><a href="http://www.nytimes.com/2011/12/02/sports/basketball/nba-players-will-re-form-union.html?src=mv&amp;ref=sports" title="Click to go to this article">N.B.A. Players Union Set to Resume Business</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/sports/y-giants/y-giants-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/02/sports/football/giants-hope-to-exploit-packers-big-play-weakness.html?src=mv&amp;ref=sports" title="Click to go to this article">Giants See Opening vs. Packers: Vulnerability to Big Plays</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/30/sports/tennis/srdcarg-del-potro/srdcarg-del-potro-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/01/sports/tennis/01iht-srdcarg01.html?src=mv&amp;ref=sports" title="Click to go to this article">Argentina Again So Close, Yet So Far</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/sports/ALT-Y-JP-SHAHID/ALT-Y-JP-SHAHID-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/01/sports/football/shahid-khan-buys-jacksonville-jaguars-and-realizes-dream.html?src=mv&amp;ref=sports" title="Click to go to this article">Jaguars Buyer Had His Eye on Ownership of a Franchise</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/sports/jpVALENTINE1/jpVALENTINE1-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/01/sports/baseball/bobby-valentine-bold-and-brilliant-in-any-language.html?src=mv&amp;ref=sports" title="Click to go to this article">Brilliant and Bold, in Any Language</a></li>
+</ol>
+        </div><!-- #most viewed top10 -->
+
+            
+         <script type="text/javascript">new Accordian("mostPopWidget");</script>
+      <!-- MOST POPULAR MODULE ENDS -->
+   
+
+</div><!--close mostPopWidget -->
+</div>
+<!--Ads Simple -->                    <div class="columnGroup ">
+			
+
+<div class="bigAd" id="Box1">
+<!-- ADXINFO classification="Module" campaign="nyt2011_module_biz_piers_morgan_hp_ros_db"--><!-- MARKETING MODULE -->
+<div style="border:solid #999;border-width:1px;font-family:Arial,sans-serif;text-align:left; width:334px;background:#fff;" class="clearfix wrap">
+  <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/sports/index.html&pos=Box1&sn2=b5563e22/8f3ccbea&sn1=3cd7b396/8bf4d3f&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://mediadecoder.blogs.nytimes.com/2011/11/30/piers-morgan-struggles-to-beat-kings-ratings/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-PH%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm11/business_120211.jpg" width="334" height="154" border="0" alt=""></a> 
+  <div style="padding:7px 9px 0;background:#fff">
+      <h2 style="font-size:22px;line-height:24px; margin:0;padding:0 0 4px;"><a style="color:#004276;" target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/sports/index.html&pos=Box1&sn2=b5563e22/8f3ccbea&sn1=3cd7b396/8bf4d3f&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://mediadecoder.blogs.nytimes.com/2011/11/30/piers-morgan-struggles-to-beat-kings-ratings/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-HDR%26WT.mc_ev=click%26WT.mc_c=174041">Piers Morgan's struggle</a></h2>
+
+      <p style="margin:0 0 3px; padding:0;font-size: 11px;"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/sports/index.html&pos=Box1&sn2=b5563e22/8f3ccbea&sn1=dcca9a23/ff2c3589&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://nytimes.com/business/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-URL%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank" style="font-size:11px;margin:3px 0;padding:0;font-family:Arial,sans-serif;  color:#000; text-transform:uppercase;">Also in Business &raquo;</a></p>
+      <ul style="font-size:12px;margin:0; padding-bottom: 10px; border-bottom:1px solid #ccc;" class="refer">
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/sports/index.html&pos=Box1&sn2=b5563e22/8f3ccbea&sn1=7ddbcc18/6dfb3f78&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://dealbook.nytimes.com/2011/11/30/american-wont-be-the-last-airline-bankruptcy/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-L1%26WT.mc_ev=click%26WT.mc_c=174041" style="color: #004276">American won't be the last airline bankruptcy</a></li>
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/sports/index.html&pos=Box1&sn2=b5563e22/8f3ccbea&sn1=aada211/3630bfe3&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://www.nytimes.com/2011/11/30/business/media/pepto-bismol-highlights-overindulging-in-latest-campaign.html%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-L2%26WT.mc_ev=click%26WT.mc_c=174041" style="color: #004276">A look at Pepto-Bismol's new holiday commercials</a></li>
+      </ul>
+    </div>
+ 
+ <div style="padding:5px 9px; float:left; width:316px; background:#fff"> <a style="float:left" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/sports/index.html&pos=Box1&sn2=b5563e22/8f3ccbea&sn1=dcca9a23/ff2c3589&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://nytimes.com/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-LOGO%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/nytimes.gif" alt="nytimes.com" width="116" height="18" border="0"></a><a style="float:right" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/sports/index.html&pos=Box1&sn2=b5563e22/8f3ccbea&sn1=dcca9a23/ff2c3589&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://nytimes.com/business/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-VRT%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/verticals_business.gif" alt="Business" width="120" height="18" border="0"></a></div><br clear="all">
+
+</div>
+  <!-- /MARKETING MODULE -->
+
+</div>
+
+
+<div class="singleAd" id="Middle5">
+<!-- ADXINFO classification="feature_position" campaign="nyt2011-circ-middle5_promise-36H3U-38R9W-AK"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/sports/index.html&pos=Middle5&sn2=3cc67a94/c78e4124&sn1=4d66a43a/361c78b4&camp=nyt2011-circ-middle5_promise-36H3U-38R9W-AK&ad=092111-11a-middle5_promise-AK&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DW42CS%26CMP%3D36H3U" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/71/ad.277135/11-0922_HDGenericD2_336x79_AK.jpg" width="336" height="79" border="0"></a><div class='kj_cx'></div>
+<script type='text/javascript'>
+var kjData = {akin: 'NYT-IP-4d0abbb3acf67-y05', adWidth: 336, adHeight: 79, btnStyle: 2, crnr: 'bl'};
+if(!kjG){var kjG=[]}kjG.push(kjData);if(!kjLdr){var kjLdr={ld:function(){var b=document; var a=b.createElement('script');a.type='text/javascript';a.src='http://a.akncdn.com/adkeeper.1.0.js'; (b.getElementsByTagName('body')[0]||b.getElementsByTagName('head')[0]).appendChild(a) },init:function(){var a=window,b=document;if(b.addEventListener){a.addEventListener('load',this.ld,false) }else{if(a.attachEvent){a.attachEvent('onload',this.ld)}}}};kjLdr.init()}; </script>
+
+
+</div>
+
+
+
+<!--[TwoColumnAdLeft - Begin] -->
+	<div class="adHeader">
+<h4>
+Advertisements	    </h4>
+</div>
+<div class="cColumn-TextAdsBox">
+	<div class="cColumn-TextAdsLeft">
+<div class="cColumn-TextAd">
+<!-- ADXINFO classification="SiteForADay" campaign="nyt2011-mktg-arts_and_ents-s4d_ros"--><div style="width:320px; height:60px;"> 
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/sports/index.html&pos=Right5A&sn2=3cf309c7/2c0c58e2&sn1=6a1102ca/9e7f5eda&camp=nyt2011-mktg-arts_and_ents-s4d_ros&ad=AR-D-I-NYT-AD-S4D-AandE-ROS-1211-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fevents%2Findex%2Ehtml%3FWT%2Emc%5Fid%3DAR%2DD%2DI%2DNYT%2DAD%2DS4D%2DAandE%2DROS%2D1211%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D175108" target="_blank"> 
+<img style="float:left; margin-right:10px;" src="http://graphics8.nytimes.com/adx/images/ADS/28/59/ad.285977/11-2187_ArtsEntertainment_86x60.gif" width="86" height="60" border="0" style="vertical-align:text-top;"></a>
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/sports/index.html&pos=Right5A&sn2=3cf309c7/2c0c58e2&sn1=6a1102ca/9e7f5eda&camp=nyt2011-mktg-arts_and_ents-s4d_ros&ad=AR-D-I-NYT-AD-S4D-AandE-ROS-1211-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fevents%2Findex%2Ehtml%3FWT%2Emc%5Fid%3DAR%2DD%2DI%2DNYT%2DAD%2DS4D%2DAandE%2DROS%2D1211%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D175108" target="_blank">  <br />Introducing: The Interactive Arts & Entertainment Guide</a>
+</div>
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+</div>
+	</div>
+<!--[TwoColumnAdLeft - End] -->
+<div class="advertisementColumnGroup">
+<!--[MarketPlaceGridAd - Begin] -->
+
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+    <!--[MarketPlaceGridAd - End] -->
+</div>
+</div>
+<!--Ads Ads -->                    <div class="columnGroup last">
+
+<div class="singleAd" id="Feature1">
+<!-- ADXINFO classification="hp-module" campaign="feature1-1280FifthAve-18-1712178-cla"--><!--Ad Template Begins Here -->
+<div class="story advertisement">
+<div class="callout">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/sports/index.html&pos=Feature1&sn2=1a1e861f/bdf63d21&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/15/ad.271512/7.23.11_BRK11-2614_1280_nyt.com_module_update2.jpg" width="173" height="98" border="0" alt="Click for Details"></a>
+</div>
+<h5>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/sports/index.html&pos=Feature1&sn2=1a1e861f/bdf63d21&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank"></a>
+</h5>
+<p class="summary"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/sports/index.html&pos=Feature1&sn2=1a1e861f/bdf63d21&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank">Designed by<br>Robert&nbsp;&nbsp;A.M. Stern<br>Overlooking Central Park<br>Up to 5 Bedrooms</a></p>
+<div class="adCreative">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/sports/index.html&pos=Feature1&sn2=1a1e861f/bdf63d21&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/15/ad.271512/5.19.11_1280_logo_78x36.jpg" width="78" height="36"></a>
+</div>
+</div>
+<!--Ad Template Ends Here -->
+</div>
+
+
+<div class="singleAd" id="SponLink">
+<script language="JavaScript" type="text/javascript">
+    
+    // Sponlink_short
+
+    NYTD.GoogleAds.getGoogleAds("AFC", { 
+        google_ad_client:'nytimes_section_var',
+        ad_target_list:'sponLink'
+    });
+</script>
+</div>
+
+</div>
+</div><!--close cColumn -->
+</div><!--close wideA -->
+</div><!--close spanAB -->
+</div><!--close main -->
+<div id="footer">
+<ul class="first">
+<li class="first"><a href="http://www.nytimes.com">Home</a></li>
+<li >
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li>
+<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+</ul>    <ul>
+<li class="first"><a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&copy; 2011</a> <a href="http://www.nytco.com/">The New York Times Company</a></li>
+<li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Terms of Service</a></li>
+<li class="termsOfSale"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+<li><a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a></li>
+<li><a class="rssButton" href="http://www.nytimes.com/rss">RSS</a></li>
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+<li><a href="http://www.nytco.com/careers">Work for Us</a></li>
+<li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+</ul>
+</div>
+</div><!--close page -->
+</div><!--close shell -->
+
+
+
+
+
+
+
+<IMG SRC="/adx/bin/clientside/3d624738Q2FCQ3AVQ3FxQ60cxQ3AwQ3Fy!!xQ7CaQ27((!cQ27Q7C" height="1" width="3">
+
+<script type="text/javascript" language="JavaScript">
+// Written by /usr/local/knews/bin/commentcount.pl Fri Dec  2 13:02:02 2011
+var NYTArticleCommentCounts = {
+"100000001190843":{count:147, commentsEnabled:false},
+"100000001190858":{count:204, commentsEnabled:false},
+"100000001190907":{count:49, commentsEnabled:false},
+"100000001191255":{count:237, commentsEnabled:false},
+"100000001191704":{count:133, commentsEnabled:false},
+"100000001191724":{count:100, commentsEnabled:false},
+"100000001191950":{count:122, commentsEnabled:false},
+"100000001192133":{count:307, commentsEnabled:false},
+"100000001192329":{count:76, commentsEnabled:false},
+"100000001190961":{count:19, commentsEnabled:false},
+"100000001177231":{count:1, commentsEnabled:true},
+"100000001177245":{count:74, commentsEnabled:true},
+"100000001179958":{count:24, commentsEnabled:false},
+"100000001180322":{count:227, commentsEnabled:true},
+"100000001183078":{count:44, commentsEnabled:false},
+"100000001183080":{count:327, commentsEnabled:false},
+"100000001183081":{count:7, commentsEnabled:false},
+"100000001183084":{count:235, commentsEnabled:false},
+"100000001183087":{count:11, commentsEnabled:false},
+"100000001183089":{count:14, commentsEnabled:false},
+"100000001183090":{count:11, commentsEnabled:false},
+"100000001183091":{count:3, commentsEnabled:false},
+"100000001183094":{count:14, commentsEnabled:false},
+"100000001184186":{count:79, commentsEnabled:false},
+"100000001184524":{count:149, commentsEnabled:false},
+"100000001186117":{count:1, commentsEnabled:false},
+"100000001186193":{count:12, commentsEnabled:true},
+"100000001186569":{count:190, commentsEnabled:false},
+"100000001189184":{count:49, commentsEnabled:false},
+"100000001190721":{count:71, commentsEnabled:false},
+"100000001191577":{count:224, commentsEnabled:false},
+"100000001191688":{count:28, commentsEnabled:false},
+"100000001191719":{count:107, commentsEnabled:false},
+"100000001191931":{count:121, commentsEnabled:false},
+"100000001191985":{count:110, commentsEnabled:false},
+"100000001192057":{count:211, commentsEnabled:false},
+"100000001192188":{count:141, commentsEnabled:false},
+"100000001192496":{count:52, commentsEnabled:false},
+"100000001192500":{count:206, commentsEnabled:false},
+"100000001192600":{count:224, commentsEnabled:false},
+"100000001192611":{count:167, commentsEnabled:false},
+"100000001193250":{count:67, commentsEnabled:false},
+"100000001193262":{count:37, commentsEnabled:false},
+"100000001193344":{count:98, commentsEnabled:false},
+"100000001193527":{count:27, commentsEnabled:false},
+"100000001193629":{count:10, commentsEnabled:false},
+"100000001193702":{count:17, commentsEnabled:false},
+"100000001193743":{count:108, commentsEnabled:false},
+"100000001193763":{count:516, commentsEnabled:false},
+"100000001193825":{count:86, commentsEnabled:false},
+"100000001193857":{count:48, commentsEnabled:false},
+"100000001193859":{count:160, commentsEnabled:false},
+"100000001193890":{count:117, commentsEnabled:false},
+"100000001193920":{count:44, commentsEnabled:false},
+"100000001193944":{count:303, commentsEnabled:false},
+"100000001193948":{count:7, commentsEnabled:false},
+"100000001194088":{count:51, commentsEnabled:false},
+"100000001194098":{count:17, commentsEnabled:true},
+"100000001194137":{count:109, commentsEnabled:false},
+"100000001194342":{count:159, commentsEnabled:false},
+"100000001194394":{count:68, commentsEnabled:false},
+"100000001194454":{count:36, commentsEnabled:false},
+"100000001194795":{count:192, commentsEnabled:false},
+"100000001194808":{count:628, commentsEnabled:false},
+"100000001194892":{count:125, commentsEnabled:false},
+"100000001195360":{count:33, commentsEnabled:false},
+"100000001195689":{count:178, commentsEnabled:false},
+"100000001195802":{count:10, commentsEnabled:false},
+"100000001195854":{count:304, commentsEnabled:false},
+"100000001195914":{count:48, commentsEnabled:false},
+"100000001195920":{count:17, commentsEnabled:false},
+"100000001195923":{count:44, commentsEnabled:false},
+"100000001195938":{count:138, commentsEnabled:false},
+"100000001195940":{count:10, commentsEnabled:false},
+"100000001195947":{count:92, commentsEnabled:false},
+"100000001195952":{count:162, commentsEnabled:false},
+"100000001195976":{count:141, commentsEnabled:false},
+"100000001195982":{count:283, commentsEnabled:false},
+"100000001196229":{count:42, commentsEnabled:false},
+"100000001196250":{count:104, commentsEnabled:true},
+"100000001196432":{count:333, commentsEnabled:false},
+"100000001196658":{count:42, commentsEnabled:false},
+"100000001196737":{count:28, commentsEnabled:true},
+"100000001196861":{count:18, commentsEnabled:false},
+"100000001196955":{count:71, commentsEnabled:true},
+"100000001196963":{count:143, commentsEnabled:false},
+"100000001197064":{count:68, commentsEnabled:false},
+"100000001197489":{count:3, commentsEnabled:false},
+"100000001197999":{count:75, commentsEnabled:false},
+"100000001198014":{count:290, commentsEnabled:false},
+"100000001198050":{count:69, commentsEnabled:true},
+"100000001198076":{count:32, commentsEnabled:true},
+"100000001198092":{count:204, commentsEnabled:false},
+"100000001198110":{count:424, commentsEnabled:false},
+"100000001198123":{count:343, commentsEnabled:false},
+"100000001198126":{count:62, commentsEnabled:false},
+"100000001198138":{count:163, commentsEnabled:false},
+"100000001198377":{count:143, commentsEnabled:true},
+"100000001198446":{count:23, commentsEnabled:true},
+"100000001198471":{count:52, commentsEnabled:true},
+"100000001198476":{count:157, commentsEnabled:true},
+"100000001198581":{count:48, commentsEnabled:true},
+"100000001198642":{count:253, commentsEnabled:false},
+"100000001199366":{count:136, commentsEnabled:true},
+"100000001199374":{count:114, commentsEnabled:true},
+"100000001199444":{count:155, commentsEnabled:false},
+"100000001199658":{count:4, commentsEnabled:true},
+"100000001200046":{count:884, commentsEnabled:true},
+"100000001200335":{count:165, commentsEnabled:false},
+"100000001200378":{count:192, commentsEnabled:false},
+"100000001200458":{count:77, commentsEnabled:false},
+"100000001200844":{count:23, commentsEnabled:true},
+"100000001201276":{count:88, commentsEnabled:true},
+"100000001201525":{count:188, commentsEnabled:true},
+"100000001202361":{count:0, commentsEnabled:true},
+"100000001202521":{count:27, commentsEnabled:true},
+"100000001202701":{count:270, commentsEnabled:false},
+"100000001202807":{count:17, commentsEnabled:true},
+"100000001202815":{count:116, commentsEnabled:false},
+"100000001202831":{count:232, commentsEnabled:true},
+"100000001202861":{count:95, commentsEnabled:true},
+"100000001202869":{count:39, commentsEnabled:true},
+"100000001202871":{count:23, commentsEnabled:true},
+"100000001202889":{count:54, commentsEnabled:true},
+"100000001202895":{count:33, commentsEnabled:true},
+"100000001202901":{count:90, commentsEnabled:true},
+"100000001203208":{count:19, commentsEnabled:true},
+"100000001203416":{count:220, commentsEnabled:true},
+"100000001203664":{count:0, commentsEnabled:true},
+"100000001188908":{count:16, commentsEnabled:true},
+"100000001194403":{count:0, commentsEnabled:true},
+"100000001194404":{count:0, commentsEnabled:true},
+"100000001194405":{count:71, commentsEnabled:true},
+"100000001194406":{count:0, commentsEnabled:true},
+"100000001194419":{count:1, commentsEnabled:true},
+"100000001194423":{count:58, commentsEnabled:true},
+"100000001194424":{count:0, commentsEnabled:true},
+"100000001194425":{count:0, commentsEnabled:true},
+"100000001194427":{count:0, commentsEnabled:true},
+"100000001194843":{count:51, commentsEnabled:true},
+"100000001197746":{count:1, commentsEnabled:true},
+"100000001201815":{count:0, commentsEnabled:true},
+"100000001201989":{count:0, commentsEnabled:true}
+};
+</script>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/homepage/articleCommentCounts.js"></script>
+<script type="text/javascript" language="JavaScript">
+    ArticleCommentCounts.apply()
+    </script>
+
+			
+		<!-- Start UPT call -->
+		<img height="1" width="3" border=0 src="http://up.nytimes.com/?d=0/2/&t=3&s=0&ui=&r=&u=www%2enytimes%2ecom%2fpages%2fsports%2findex%2ehtml%3f">
+		<!-- End UPT call -->
+	
+		
+        <script language="JavaScript"><!--
+          var dcsvid="";
+          var regstatus="non-registered";
+        //--></script>
+        <script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+        <noscript>
+          <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div>
+        </noscript>
+   
+</body>
+</html>

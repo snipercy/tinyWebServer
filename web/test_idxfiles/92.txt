@@ -1,0 +1,1678 @@
+Set-cookie: RMID=0a35de8321824ed9132fd7fe; expires=Saturday, 01-Dec-2012 18:04:31 GMT; path=/; domain=.nytimes.com
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Obituaries - The New York Times</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="noarchive">
+<meta name="description" content="Find newspaper obituaries and online obituaries. Read an historical obituary or a celebrity obituary." />
+<meta name="keywords" content="New York Times,Silverstein, Louis,Deaths (Obituaries),Art,Newspapers,Writing and Writers,East Germany,Holocaust and the Nazi Era,Cold War Era,Communism (Theory and Philosophy),Socialism (Theory and Philosophy),Books and Literature,Wolf, Christa,Berlin (Germany),Deaths (Obituaries),Horse Racing,Veterinary Medicine,Gilman, Manuel,Deaths (Obituaries),Fashion and Apparel,Lesage, Francois,Couture (Fashion),Chanel SA,Deaths (Obituaries),Gable, Clark,Young, Loretta,Lewis, Judy,Deaths (Obituaries),Actors and Actresses,Deaths (Obituaries),Kazdin, Andrew,Classical Music,Recording Equipment,Midwestern States (US),Deaths (Obituaries),Supermarkets and Grocery Stores,Meijer, Frederik,Meijer,Deaths (Obituaries),Politics and Government,Markovic, Ante,Slovenia,Yugoslavia,Bosnia and Herzegovina,Croatia,Comedy and Humor,Deaths (Obituaries),Television,O'Neal, Patrice,Music,Reggae Music,Deaths (Obituaries),Llewellyn, Barry,New York City,Deaths (Obituaries),Sapolin, Matthew P.,Mayor's Office for People with Disabilities (NYC),Jones Day,Organized Labor,Arbitration, Conciliation and Mediation,Kramer, Andrew M,Deaths (Obituaries),Deaths (Obituaries),Writing and Writers,Hastings, Michael,London (England),Peters, Lana,USSR (Former Soviet Union),Stalin, Joseph,Deaths (Obituaries),Stalina, Svetlana,Movies,Russell, Ken,Deaths (Obituaries),Deaths (Obituaries),Wales,Speed, Gary,Soccer,Lyle, Ron,Deaths (Obituaries),Foreman, George,Boxing,Ali, Muhammad,Brooklyn Botanic Garden,Gardens and Gardening,New York Botanical Garden,Cabot, Francis H,Garden Conservancy,Deaths (Obituaries),Deaths (Obituaries),Museums,Heyman, I Michael,Smithsonian Institution,Hiroshima (Japan),World War II (1939-45),Deaths (Obituaries),Figueras, Montserrat,Classical Music,Records and Achievements,Weight Lifting,Olympic Games,Alekseyev, Vasily,Deaths (Obituaries),Automobiles,Deaths (Obituaries),Ferrari SpA,Scaglietti, Sergio,Antique and Classic Cars,Deaths (Obituaries),Apartheid (Policy),D'Oliveira, Basil,Politics and Government,Race and Ethnicity,South Africa,Cricket (Game),Defense and Military Forces,Civil War and Guerrilla Warfare,Deaths (Obituaries),Nigeria,Ojukwu, Odumegwu,Politics and Government,Fringe Groups and Movements,Newspapers,New York Times,Deaths (Obituaries),Wicker, Tom,Deaths (Obituaries),Paulucci, Jeno,Minnesota,Food,Music,Norman, Jimmy,Deaths (Obituaries),Reggae Music,Hendrix, Jimi,Marley, Bob,Opera,Jurinac, Sena,Classical Music,Deaths (Obituaries),Deaths (Obituaries),Peskanov, Mark,Bargemusic,Classical Music,Bloom, Olga,Philanthropy,Chase, Maurice,Deaths (Obituaries),Los Angeles (Calif),Maurice Chase,Sagan, Dorion,Deaths (Obituaries),Biology and Biochemistry,Sagan, Carl,Evolution,University of Massachusetts,Lovelock, James E,Margulis, Lynn,Writing and Writers,Delaney, Shelagh,Theater,Deaths (Obituaries),Washington Post Company,Deaths (Obituaries),Washington Post,Washington (DC),Ma, Christopher,News and News Media,Stone, Ruth,Poetry and Poets,Vermont,Deaths (Obituaries),Deaths (Obituaries),Ireland,Books and Literature,McCaffrey, Anne,Music,True, Andrea,Deaths (Obituaries),Motian, Paul,Deaths (Obituaries),Music,Jazz,Manhattan (NYC),Deaths (Obituaries),Mitterrand, Danielle,France,Politics and Government,Deaths (Obituaries),Gallup, George Jr.,Gallup Organization,Polls and Public Opinion,Drugs (Pharmaceuticals),Deaths (Obituaries),Teva Pharmaceutical Industries Ltd,Hurvitz, Eli,Neville, John,Toronto (Ontario),Deaths (Obituaries),Theater,Actors and Actresses,New York City,Music,Klingman, Moogy,Deaths (Obituaries),Children's Scholarship Fund,Deaths (Obituaries),IMG Worldwide,Philanthropy,Mergers, Acquisitions and Divestitures,Forstmann, Theodore J,Private Equity,Lindsay, John V,Garelik, Sanford D.,Mayors,City Council (NYC),Deaths (Obituaries),Procter &amp; Gamble Company,Deaths (Obituaries),Smale, John G,General Motors,Deaths (Obituaries),Monley, Eva,Movies,Kenya,Africa,Passlof, Pat,Deaths (Obituaries),Art,Passlof, Pat,Deaths (Obituaries),Restoration and Renovation,Acoustics,Violins,Rene Morel,Bruce, Lenny,von Bulow, Claus,Kuh, Richard H,Manhattan (NYC),District Attorneys,Deaths (Obituaries),NCAA Basketball Championships (Men),College Athletics,Hazzard, Walt,University of California, Los Angeles,National Basketball Assn,Wooden, John,Deaths (Obituaries),Basketball,Avalanches,Freestyle Skiing,Pierre, Jamie,Deaths (Obituaries),Capital Group,Deaths (Obituaries),American Funds,Mutual Funds,Lovelace, Jon B,Music,Deaths (Obituaries),Dylan, Bob,DeVito, Don,Denison, Michael,Deaths (Obituaries),Gray, Dulcie,Actors and Actresses,Theater,Georgia,Deaths (Obituaries),Slover, Karl,Actors and Actresses,New York City,Deaths (Obituaries),Schneiderman, Irwin,New York City Opera,Music,Pockriss, Lee,Theater,Deaths (Obituaries),Boeke, Al,Sonoma County (Calif),Architecture,Oahu (Hawaii),Sea Ranch (Calif),Deaths (Obituaries),Oceanic Properties,Dancing,Deaths (Obituaries),Feuer, Donya,Sweden,Theater,Computers and the Internet,Kickstarter,Deaths (Obituaries),Police Department (NYC),Social Networking (Internet),New York University,Diaspora*,Zhitomirskiy, Ilya,Comic Books and Strips,Providence (RI),Daniels, Les,Deaths (Obituaries),Deaths (Obituaries),Baseball,Sporting Goods,Franklin, Irving H.,Massachusetts,Franklin, Irving H,Epstein, Paul,Medicine and Health,Massachusetts General Hospital,New England Journal of Medicine,Global Warming,Harvard Medical School,Deaths (Obituaries),Defense and Military Forces,Libya,Qaddafi, Muammar el-,Middle East and North Africa Unrest (2010- ),CBS Corp,Rooney, Andy,Ford, Betty,Deaths (Obituaries),Winehouse, Amy,Music,Art,Freud, Lucian,Twombly, Cy,Art,Vice Presidents and Vice Presidency (US),Ferraro, Geraldine A,United States Politics and Government,Women and Girls,Actors and Actresses,Deaths (Obituaries),Taylor, Elizabeth,Clifton, Lucille,Mandelbrot, Benoit,Steinbrenner, George M 3d,Hinton, Joan,Hebb, Bobby,Levine, David,Woo, Karen,Tibbels, Alan,Dean, Jimmy,Daly, Mary,McGarrigle, Kate,Yarnell, Lorne,Foot, Philippa,Kligman, Ruth,Redgrave, Lynn,Lukens, Donald,Morgan, Dodge,Holbrooke, Richard C,Prahalad, C.K.,Culp, Robert,Chilton, Alex" />
+<meta name="asset_id" content="">
+<meta name="CG" content="obituaries">
+<meta name="SCG" content="">
+<meta name="PT" content="Section Front">
+<meta name="PST" content="">
+<link rel="canonical" href="http://www.nytimes.com/pages/obituaries/index.html">
+<meta name="msapplication-starturl" content="http://www.nytimes.com/" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.nytimes.com/services/xml/rss/nyt/Obituaries.xml"/>
+
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/build/sectionfront/obituaries/styles.css" />
+<link rel="stylesheet" type="text/css" media="print" href="http://graphics8.nytimes.com/css/0.1/print/styles.css">
+<!--[if IE]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie.css);
+	    </style>
+	<![endif]-->
+<!--[if IE 6]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie6.css);
+	    </style>
+	<![endif]-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/DropDown.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/util/tooltip.js"></script>
+<script type="text/JavaScript">
+		var static_kw = "New York Times;Silverstein; Louis;Deaths (Obituaries);Art;Newspapers;Writing and Writers;East Germany;Holocaust and the Nazi Era;Cold War Era;Communism (Theory and Philosophy);Socialism (Theory and Philosophy);Books and Literature;Wolf; Christa;Berlin (Germany);Deaths (Obituaries);Horse Racing;Veterinary Medicine;Gilman; Manuel;Deaths (Obituaries);Fashion and Apparel;Lesage; Francois;Couture (Fashion);Chanel SA;Deaths (Obituaries);Gable; Clark;Young; Loretta;Lewis; Judy;Deaths (Obituaries);Actors and Actresses;Deaths (Obituaries);Kazdin; Andrew;Classical Music;Recording Equipment;Midwestern States (US);Deaths (Obituaries);Supermarkets and Grocery Stores;Meijer; Frederik;Meijer;Deaths (Obituaries);Politics and Government;Markovic; Ante;Slovenia;Yugoslavia;Bosnia and Herzegovina;Croatia;Comedy and Humor;Deaths (Obituaries);Television;O'Neal; Patrice;Music;Reggae Music;Deaths (Obituaries);Llewellyn; Barry;New York City;Deaths (Obituaries);Sapolin; Matthew P.;Mayor's Office for People with Disabilities (NYC);Jones Day;Organized Labor;Arbitration; Conciliation and Mediation;Kramer; Andrew M;Deaths (Obituaries);Deaths (Obituaries);Writing and Writers;Hastings; Michael;London (England);Peters; Lana;USSR (Former Soviet Union);Stalin; Joseph;Deaths (Obituaries);Stalina; Svetlana;Movies;Russell; Ken;Deaths (Obituaries);Deaths (Obituaries);Wales;Speed; Gary;Soccer;Lyle; Ron;Deaths (Obituaries);Foreman; George;Boxing;Ali; Muhammad;Brooklyn Botanic Garden;Gardens and Gardening;New York Botanical Garden;Cabot; Francis H;Garden Conservancy;Deaths (Obituaries);Deaths (Obituaries);Museums;Heyman; I Michael;Smithsonian Institution;Hiroshima (Japan);World War II (1939-45);Deaths (Obituaries);Figueras; Montserrat;Classical Music;Records and Achievements;Weight Lifting;Olympic Games;Alekseyev; Vasily;Deaths (Obituaries);Automobiles;Deaths (Obituaries);Ferrari SpA;Scaglietti; Sergio;Antique and Classic Cars;Deaths (Obituaries);Apartheid (Policy);D'Oliveira; Basil;Politics and Government;Race and Ethnicity;South Africa;Cricket (Game);Defense and Military Forces;Civil War and Guerrilla Warfare;Deaths (Obituaries);Nigeria;Ojukwu; Odumegwu;Politics and Government;Fringe Groups and Movements;Newspapers;New York Times;Deaths (Obituaries);Wicker; Tom;Deaths (Obituaries);Paulucci; Jeno;Minnesota;Food;Music;Norman; Jimmy;Deaths (Obituaries);Reggae Music;Hendrix; Jimi;Marley; Bob;Opera;Jurinac; Sena;Classical Music;Deaths (Obituaries);Deaths (Obituaries);Peskanov; Mark;Bargemusic;Classical Music;Bloom; Olga;Philanthropy;Chase; Maurice;Deaths (Obituaries);Los Angeles (Calif);Maurice Chase;Sagan; Dorion;Deaths (Obituaries);Biology and Biochemistry;Sagan; Carl;Evolution;University of Massachusetts;Lovelock; James E;Margulis; Lynn;Writing and Writers;Delaney; Shelagh;Theater;Deaths (Obituaries);Washington Post Company;Deaths (Obituaries);Washington Post;Washington (DC);Ma; Christopher;News and News Media;Stone; Ruth;Poetry and Poets;Vermont;Deaths (Obituaries);Deaths (Obituaries);Ireland;Books and Literature;McCaffrey; Anne;Music;True; Andrea;Deaths (Obituaries);Motian; Paul;Deaths (Obituaries);Music;Jazz;Manhattan (NYC);Deaths (Obituaries);Mitterrand; Danielle;France;Politics and Government;Deaths (Obituaries);Gallup; George Jr.;Gallup Organization;Polls and Public Opinion;Drugs (Pharmaceuticals);Deaths (Obituaries);Teva Pharmaceutical Industries Ltd;Hurvitz; Eli;Neville; John;Toronto (Ontario);Deaths (Obituaries);Theater;Actors and Actresses;New York City;Music;Klingman; Moogy;Deaths (Obituaries);Children's Scholarship Fund;Deaths (Obituaries);IMG Worldwide;Philanthropy;Mergers; Acquisitions and Divestitures;Forstmann; Theodore J;Private Equity;Lindsay; John V;Garelik; Sanford D.;Mayors;City Council (NYC);Deaths (Obituaries);Procter & Gamble Company;Deaths (Obituaries);Smale; John G;General Motors;Deaths (Obituaries);Monley; Eva;Movies;Kenya;Africa;Passlof; Pat;Deaths (Obituaries);Art;Passlof; Pat;Deaths (Obituaries);Restoration and Renovation;Acoustics;Violins;Rene Morel;Bruce; Lenny;von Bulow; Claus;Kuh; Richard H;Manhattan (NYC);District Attorneys;Deaths (Obituaries);NCAA Basketball Championships (Men);College Athletics;Hazzard; Walt;University of California; Los Angeles;National Basketball Assn;Wooden; John;Deaths (Obituaries);Basketball;Avalanches;Freestyle Skiing;Pierre; Jamie;Deaths (Obituaries);Capital Group;Deaths (Obituaries);American Funds;Mutual Funds;Lovelace; Jon B;Music;Deaths (Obituaries);Dylan; Bob;DeVito; Don;Denison; Michael;Deaths (Obituaries);Gray; Dulcie;Actors and Actresses;Theater;Georgia;Deaths (Obituaries);Slover; Karl;Actors and Actresses;New York City;Deaths (Obituaries);Schneiderman; Irwin;New York City Opera;Music;Pockriss; Lee;Theater;Deaths (Obituaries);Boeke; Al;Sonoma County (Calif);Architecture;Oahu (Hawaii);Sea Ranch (Calif);Deaths (Obituaries);Oceanic Properties;Dancing;Deaths (Obituaries);Feuer; Donya;Sweden;Theater;Computers and the Internet;Kickstarter;Deaths (Obituaries);Police Department (NYC);Social Networking (Internet);New York University;Diaspora*;Zhitomirskiy; Ilya;Comic Books and Strips;Providence (RI);Daniels; Les;Deaths (Obituaries);Deaths (Obituaries);Baseball;Sporting Goods;Franklin; Irving H.;Massachusetts;Franklin; Irving H;Epstein; Paul;Medicine and Health;Massachusetts General Hospital;New England Journal of Medicine;Global Warming;Harvard Medical School;Deaths (Obituaries);Defense and Military Forces;Libya;Qaddafi; Muammar el-;Middle East and North Africa Unrest (2010- );CBS Corp;Rooney; Andy;Ford; Betty;Deaths (Obituaries);Winehouse; Amy;Music;Art;Freud; Lucian;Twombly; Cy;Art;Vice Presidents and Vice Presidency (US);Ferraro; Geraldine A;United States Politics and Government;Women and Girls;Actors and Actresses;Deaths (Obituaries);Taylor; Elizabeth;Clifton; Lucille;Mandelbrot; Benoit;Steinbrenner; George M 3d;Hinton; Joan;Hebb; Bobby;Levine; David;Woo; Karen;Tibbels; Alan;Dean; Jimmy;Daly; Mary;McGarrigle; Kate;Yarnell; Lorne;Foot; Philippa;Kligman; Ruth;Redgrave; Lynn;Lukens; Donald;Morgan; Dodge;Holbrooke; Richard C;Prahalad; C.K.;Culp; Robert;Chilton; Alex";
+		var dynamic_kw = "New+York+Times;Silverstein;+Louis;Deaths+%28Obituaries%29;Art;Newspapers;Writing+and+Writers;East+Germany;Holocaust+and+the+Nazi+Era;Cold+War+Era;Communism+%28Theory+and+Philosophy%29;Socialism+%28Theory+and+Philosophy%29;Books+and+Literature;Wolf;+Christa;Berlin+%28Germany%29;Deaths+%28Obituaries%29;Horse+Racing;Veterinary+Medicine;Gilman;+Manuel;Deaths+%28Obituaries%29;Fashion+and+Apparel;Lesage;+Francois;Couture+%28Fashion%29;Chanel+SA;Deaths+%28Obituaries%29;Gable;+Clark;Young;+Loretta;Lewis;+Judy;Deaths+%28Obituaries%29;Actors+and+Actresses;Deaths+%28Obituaries%29;Kazdin;+Andrew;Classical+Music;Recording+Equipment;Midwestern+States+%28US%29;Deaths+%28Obituaries%29;Supermarkets+and+Grocery+Stores;Meijer;+Frederik;Meijer;Deaths+%28Obituaries%29;Politics+and+Government;Markovic;+Ante;Slovenia;Yugoslavia;Bosnia+and+Herzegovina;Croatia;Comedy+and+Humor;Deaths+%28Obituaries%29;Television;O%27Neal;+Patrice;Music;Reggae+Music;Deaths+%28Obituaries%29;Llewellyn;+Barry;New+York+City;Deaths+%28Obituaries%29;Sapolin;+Matthew+P.;Mayor%27s+Office+for+People+with+Disabilities+%28NYC%29;Jones+Day;Organized+Labor;Arbitration;+Conciliation+and+Mediation;Kramer;+Andrew+M;Deaths+%28Obituaries%29;Deaths+%28Obituaries%29;Writing+and+Writers;Hastings;+Michael;London+%28England%29;Peters;+Lana;USSR+%28Former+Soviet+Union%29;Stalin;+Joseph;Deaths+%28Obituaries%29;Stalina;+Svetlana;Movies;Russell;+Ken;Deaths+%28Obituaries%29;Deaths+%28Obituaries%29;Wales;Speed;+Gary;Soccer;Lyle;+Ron;Deaths+%28Obituaries%29;Foreman;+George;Boxing;Ali;+Muhammad;Brooklyn+Botanic+Garden;Gardens+and+Gardening;New+York+Botanical+Garden;Cabot;+Francis+H;Garden+Conservancy;Deaths+%28Obituaries%29;Deaths+%28Obituaries%29;Museums;Heyman;+I+Michael;Smithsonian+Institution;Hiroshima+%28Japan%29;World+War+II+%281939-45%29;Deaths+%28Obituaries%29;Figueras;+Montserrat;Classical+Music;Records+and+Achievements;Weight+Lifting;Olympic+Games;Alekseyev;+Vasily;Deaths+%28Obituaries%29;Automobiles;Deaths+%28Obituaries%29;Ferrari+SpA;Scaglietti;+Sergio;Antique+and+Classic+Cars;Deaths+%28Obituaries%29;Apartheid+%28Policy%29;D%27Oliveira;+Basil;Politics+and+Government;Race+and+Ethnicity;South+Africa;Cricket+%28Game%29;Defense+and+Military+Forces;Civil+War+and+Guerrilla+Warfare;Deaths+%28Obituaries%29;Nigeria;Ojukwu;+Odumegwu;Politics+and+Government;Fringe+Groups+and+Movements;Newspapers;New+York+Times;Deaths+%28Obituaries%29;Wicker;+Tom;Deaths+%28Obituaries%29;Paulucci;+Jeno;Minnesota;Food;Music;Norman;+Jimmy;Deaths+%28Obituaries%29;Reggae+Music;Hendrix;+Jimi;Marley;+Bob;Opera;Jurinac;+Sena;Classical+Music;Deaths+%28Obituaries%29;Deaths+%28Obituaries%29;Peskanov;+Mark;Bargemusic;Classical+Music;Bloom;+Olga;Philanthropy;Chase;+Maurice;Deaths+%28Obituaries%29;Los+Angeles+%28Calif%29;Maurice+Chase;Sagan;+Dorion;Deaths+%28Obituaries%29;Biology+and+Biochemistry;Sagan;+Carl;Evolution;University+of+Massachusetts;Lovelock;+James+E;Margulis;+Lynn;Writing+and+Writers;Delaney;+Shelagh;Theater;Deaths+%28Obituaries%29;Washington+Post+Company;Deaths+%28Obituaries%29;Washington+Post;Washington+%28DC%29;Ma;+Christopher;News+and+News+Media;Stone;+Ruth;Poetry+and+Poets;Vermont;Deaths+%28Obituaries%29;Deaths+%28Obituaries%29;Ireland;Books+and+Literature;McCaffrey;+Anne;Music;True;+Andrea;Deaths+%28Obituaries%29;Motian;+Paul;Deaths+%28Obituaries%29;Music;Jazz;Manhattan+%28NYC%29;Deaths+%28Obituaries%29;Mitterrand;+Danielle;France;Politics+and+Government;Deaths+%28Obituaries%29;Gallup;+George+Jr.;Gallup+Organization;Polls+and+Public+Opinion;Drugs+%28Pharmaceuticals%29;Deaths+%28Obituaries%29;Teva+Pharmaceutical+Industries+Ltd;Hurvitz;+Eli;Neville;+John;Toronto+%28Ontario%29;Deaths+%28Obituaries%29;Theater;Actors+and+Actresses;New+York+City;Music;Klingman;+Moogy;Deaths+%28Obituaries%29;Children%27s+Scholarship+Fund;Deaths+%28Obituaries%29;IMG+Worldwide;Philanthropy;Mergers;+Acquisitions+and+Divestitures;Forstmann;+Theodore+J;Private+Equity;Lindsay;+John+V;Garelik;+Sanford+D.;Mayors;City+Council+%28NYC%29;Deaths+%28Obituaries%29;Procter+%26+Gamble+Company;Deaths+%28Obituaries%29;Smale;+John+G;General+Motors;Deaths+%28Obituaries%29;Monley;+Eva;Movies;Kenya;Africa;Passlof;+Pat;Deaths+%28Obituaries%29;Art;Passlof;+Pat;Deaths+%28Obituaries%29;Restoration+and+Renovation;Acoustics;Violins;Rene+Morel;Bruce;+Lenny;von+Bulow;+Claus;Kuh;+Richard+H;Manhattan+%28NYC%29;District+Attorneys;Deaths+%28Obituaries%29;NCAA+Basketball+Championships+%28Men%29;College+Athletics;Hazzard;+Walt;University+of+California;+Los+Angeles;National+Basketball+Assn;Wooden;+John;Deaths+%28Obituaries%29;Basketball;Avalanches;Freestyle+Skiing;Pierre;+Jamie;Deaths+%28Obituaries%29;Capital+Group;Deaths+%28Obituaries%29;American+Funds;Mutual+Funds;Lovelace;+Jon+B;Music;Deaths+%28Obituaries%29;Dylan;+Bob;DeVito;+Don;Denison;+Michael;Deaths+%28Obituaries%29;Gray;+Dulcie;Actors+and+Actresses;Theater;Georgia;Deaths+%28Obituaries%29;Slover;+Karl;Actors+and+Actresses;New+York+City;Deaths+%28Obituaries%29;Schneiderman;+Irwin;New+York+City+Opera;Music;Pockriss;+Lee;Theater;Deaths+%28Obituaries%29;Boeke;+Al;Sonoma+County+%28Calif%29;Architecture;Oahu+%28Hawaii%29;Sea+Ranch+%28Calif%29;Deaths+%28Obituaries%29;Oceanic+Properties;Dancing;Deaths+%28Obituaries%29;Feuer;+Donya;Sweden;Theater;Computers+and+the+Internet;Kickstarter;Deaths+%28Obituaries%29;Police+Department+%28NYC%29;Social+Networking+%28Internet%29;New+York+University;Diaspora%2A;Zhitomirskiy;+Ilya;Comic+Books+and+Strips;Providence+%28RI%29;Daniels;+Les;Deaths+%28Obituaries%29;Deaths+%28Obituaries%29;Baseball;Sporting+Goods;Franklin;+Irving+H.;Massachusetts;Franklin;+Irving+H;Epstein;+Paul;Medicine+and+Health;Massachusetts+General+Hospital;New+England+Journal+of+Medicine;Global+Warming;Harvard+Medical+School;Deaths+%28Obituaries%29;Defense+and+Military+Forces;Libya;Qaddafi;+Muammar+el-;Middle+East+and+North+Africa+Unrest+%282010-+%29;CBS+Corp;Rooney;+Andy;Ford;+Betty;Deaths+%28Obituaries%29;Winehouse;+Amy;Music;Art;Freud;+Lucian;Twombly;+Cy;Art;Vice+Presidents+and+Vice+Presidency+%28US%29;Ferraro;+Geraldine+A;United+States+Politics+and+Government;Women+and+Girls;Actors+and+Actresses;Deaths+%28Obituaries%29;Taylor;+Elizabeth;Clifton;+Lucille;Mandelbrot;+Benoit;Steinbrenner;+George+M+3d;Hinton;+Joan;Hebb;+Bobby;Levine;+David;Woo;+Karen;Tibbels;+Alan;Dean;+Jimmy;Daly;+Mary;McGarrigle;+Kate;Yarnell;+Lorne;Foot;+Philippa;Kligman;+Ruth;Redgrave;+Lynn;Lukens;+Donald;Morgan;+Dodge;Holbrooke;+Richard+C;Prahalad;+C.K.;Culp;+Robert;Chilton;+Alex";
+		var nyt_google_contents = dynamic_kw + static_kw;
+		var nyt_google_ad_channel = "obituaries";
+	</script>
+<script type="text/javascript" src="http://use.typekit.com/fml4qar.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" src="http://js.nyt.com/js2/build/sitewide/sitewide.js"></script>
+<script type="text/javascript" src="http://js.nyt.com/js/app/lib/jquery/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+</head>
+<body>
+<a name="top"></a>
+<div id="shell">
+
+<ul id="memberTools">
+
+ 
+                        <li><a id="memberToolsLogin" href="https://myaccount.nytimes.com/auth/login">Log In</a></li>
+            <li><a href="https://myaccount.nytimes.com/gst/regi.html">Register Now</a></li>
+                            
+
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+</ul>
+<div class="tabsContainer">
+<ul id="mainTabs" class="tabs">
+<li class="first mainTabHome"><a href="http://www.nytimes.com">Home Page</a></li>
+<li class="mainTabTodaysPaper"><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+<li class="mainTabVideo"><a href="http://www.nytimes.com/video">Video</a></li>
+<li class="mainTabMostPopular"><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+<li class="mainTabTimesTopics"><a href="http://topics.nytimes.com/top/reference/timestopics">Times Topics</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+</script>	<div id="page" class="tabContent active">
+<div class="clearfix" id="masthead">
+
+<div class="singleAd" id="Middle1C">
+<!-- ADXINFO classification="button" campaign="ING_DirectSiteSearchQ111_1694929-nyt1"--><A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/obituaries/index.html&pos=Middle1C&sn2=fa086a4e/792556d6&sn1=59756299/46b02203&camp=ING_DirectSiteSearchQ111_1694929-nyt1&ad=NEW.88x31.SiteSearch.Wizard&goto=http://ad.doubleclick.net/jump/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.31" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.31"
+ BORDER=0 WIDTH=88 HEIGHT=31
+ ALT="Click Here"></A>
+</div>
+
+<div id="searchWidget">
+<div class="inlineSearchControl">
+<form enctype="application/x-www-form-urlencoded" action="http://query.nytimes.com/search/sitesearch" method="get" name="searchForm" id="searchForm">
+<input type="hidden" value="full" name="date_select"/>
+<label for="searchQuery">Search All NYTimes.com</label>
+<input type="text" class="text" value="" size="" name="query" id="searchQuery"/>
+<input type="hidden" id="searchAll" name="type" value="nyt"/>
+<input type="image" id="searchSubmit" title="Search" alt="Search" width="22" height="19" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"/>
+</form>
+</div>
+</div>
+
+<div id="branding" >
+<a href="http://www.nytimes.com"><img src="http://graphics8.nytimes.com/images/misc/nytlogo152x23.gif" alt="New York Times" id="NYTLogo"/></a>
+</div>
+
+<div id="date">
+<p>
+Friday, December  2, 2011
+</p>
+</div>
+
+<h2>
+<a href="http://www.nytimes.com/pages/obituaries/index.html">Obituaries</a>
+</h2>
+
+</div>
+<div class="navigation tabsContainer">
+<ul class="tabs">
+<li id="navWorld" class="first ">
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>	<li id="navUs" >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>	<li id="navNyregion" >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>	<li id="navBusiness" >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>	<li id="navTechnology" >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>	<li id="navScience" >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>	<li id="navHealth" >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>	<li id="navSports" >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>	<li id="navOpinion" >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>	<li id="navArts" >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>	<li id="navStyle" >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>	<li id="navTravel" >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>	<li id="navJobs" >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>	<li id="navRealestate" >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>	<li id="navAutomobiles" >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li></ul>
+</div>
+
+<div class="singleAd" id="TopAd">
+<!-- ADXINFO classification="Leaderboard" campaign="Hachette_TheDrop_1773767_nyt9"--><script type="text/javascript">
+   var movieWidth = 728;
+   var movieHeight = 90;
+   var altSrc = "http://graphics8.nytimes.com/adx/images/ADS/28/48/ad.284841/theDrop728x90.jpg";
+   var swfFile = "http://graphics8.nytimes.com/adx/images/ADS/28/48/ad.284841/drop728x90v3.swf";
+   var altClickThru = "http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/obituaries/index.html&pos=TopAd&sn2=f0bf5f8c/96f87171&sn1=b69c2fc9/6df5e848&camp=Hachette_TheDrop_1773767_nyt9&ad=TheDrop_728x90&goto=https%3A%2F%2Fwww%2Efacebook%2Ecom%2FMichaelConnellyBooks%3Fsk%3Dapp%5F208195102528120";
+   var swfSrc = swfFile + "?clicktag=" + escape(altClickThru);
+</script>
+<script type="text/javascript" src="http://www.nytimes.com/ads/common/embed3.js">
+</script>
+
+</div>
+
+<div id="main">
+<div class="spanAB wrap">
+<div class="wideA">
+<div class="abColumn">
+<div class="aColumn">
+<!--cur:LedeStory395 prev:-->
+<div class="columnGroup first">
+<div class="ledeStory">
+<div class="storyHeader">
+<h1><a href="http://www.nytimes.com/2011/12/02/nyregion/louis-silverstein-times-art-director-dies-at-92.html?ref=obituaries">
+Louis Silverstein, Who Gave a Bolder and Airier Look to The Times, Dies at 92</a></h1>
+<h6 class="byline">
+By DOUGLAS MARTIN            </h6>
+</div>
+<div class="ledePhoto">
+<div class="image">
+<a href="http://www.nytimes.com/2011/12/02/nyregion/louis-silverstein-times-art-director-dies-at-92.html?ref=obituaries"><img src="http://graphics8.nytimes.com/images/2011/12/02/nyregion/SILVERSTEIN1-obit/SILVERSTEIN1-obit-sfSpan.jpg" border="0" width="395" height="280" alt="Louis Silverstein, a former art director and assistant managing editor at The New York Times, designing a page in 1981." /></a>
+</div>
+<h6 class="credit">The New York Times</h6>
+<p class="caption">Louis Silverstein, a former art director and assistant managing editor at The New York Times, designing a page in 1981.</p>
+</div>
+<p class="summary">
+Mr. Silverstein helped devise a bigger, more visually expansive New York Times and in doing so, influenced the redesign of newspapers from coast to coast.</p>
+</div>
+</div>
+<!--cur:StandardThumb prev:LedeStory395-->
+<div class="columnGroup ">
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/arts/christa-wolf-dies-at-82-wrote-of-the-germanys.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/arts/WOLF-obit/WOLF-obit-thumbStandard.jpg" width="75" height="75" alt="Christa Wolf in 2010." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/arts/christa-wolf-dies-at-82-wrote-of-the-germanys.html?ref=obituaries">
+Christa Wolf Dies at 82; Wrote of the Germanys</a></h3>
+<h6 class="byline">
+By DAVID BINDER and BRUCE WEBER	    </h6>
+<p class="summary">
+Ms. Wolf, a leading writer from the former East Germany, explored the weight of history on ordinary people as well as her own struggles with Nazism and life in a Communist society.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/sports/manuel-gilman-influential-racetrack-veterinarian-dies-at-91.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/12/03/sports/02gilman-1/02gilman-1-thumbStandard.jpg" width="75" height="75" alt="Dr. Manuel Gilman was the chief examining veterinarian for the New York Racing Association for 32 years." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/sports/manuel-gilman-influential-racetrack-veterinarian-dies-at-91.html?ref=obituaries">
+Manuel Gilman, Influential Racetrack Veterinarian, Dies at 91</a></h3>
+<h6 class="byline">
+By BRUCE WEBER	    </h6>
+<p class="summary">
+Dr. Gilman’s procedure for examining thoroughbred racehorses in New York became standard at racetracks around the country, improving safety for horses and jockeys.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/style/francois-lesage-dies-at-82-led-couture-embroidery-atelier.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/world/LESAGE-obit/LESAGE-obit-thumbStandard.jpg" width="75" height="75" alt="François Lesage with some fabric samples in the late 1990s." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/style/francois-lesage-dies-at-82-led-couture-embroidery-atelier.html?ref=obituaries">
+François Lesage, Who Led Embroidery Atelier, Dies at 82</a></h3>
+<h6 class="byline">
+By ERIC WILSON	    </h6>
+<p class="summary">
+For more than half a century, Mr. Lesage led the embroidery atelier that has served couture designers from Charles Frederick Worth through Karl Lagerfeld of Chanel.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/01/arts/television/judy-lewis-secret-daughter-of-hollywood-dies-at-76.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/arts/LEWIS-3-obit/LEWIS-3-obit-thumbStandard.jpg" width="75" height="75" alt="Loretta Young with Judy Lewis, her daughter with Clark Gable. Ms. Lewis did not know her parents' identities until adulthood." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/01/arts/television/judy-lewis-secret-daughter-of-hollywood-dies-at-76.html?ref=obituaries">
+Judy Lewis, Secret Daughter of Hollywood, Dies at 76</a></h3>
+<h6 class="byline">
+By PAUL VITELLO	    </h6>
+<p class="summary">
+Ms. Lewis, the daughter of an unwed Loretta Young and Clark Gable, was 31 before she confronted her mother and learned the truth of her upbringing.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/01/arts/music/andrew-kazdin-classical-record-producer-dies-at-77.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/arts/KAZDIN-obit/KAZDIN-obit-thumbStandard.jpg" width="75" height="75" alt="Andrew Kazdin was a perfectionist in the recording studio, often having performers play a work dozens of times in a session." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/01/arts/music/andrew-kazdin-classical-record-producer-dies-at-77.html?ref=obituaries">
+Andrew Kazdin, Record Producer, Dies at 77</a></h3>
+<h6 class="byline">
+By ALLAN KOZINN	    </h6>
+<p class="summary">
+Mr. Kazdin, who insisted that the details of a work be heard clearly, revolutionized classical recording by using techniques more common to popular music.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/01/business/frederik-meijer-grocery-store-pioneer-dies-at-91.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/business/01meijer-obit/01meijer-obit-thumbStandard.jpg" width="75" height="75" alt="Frederik Meijer standing near a casting of a horse that is being donated to Vinci, Italy, Leonardo DaVinci's hometown, in this undated photo." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/01/business/frederik-meijer-grocery-store-pioneer-dies-at-91.html?ref=obituaries">
+Frederik Meijer, Grocery Store Pioneer, Dies at 91</a></h3>
+<h6 class="byline">
+By STEPHANIE CLIFFORD	    </h6>
+<p class="summary">
+Mr. Meijer’s stores throughout the Midwest predated Wal-Mart with their broad range of products and discount prices.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/01/world/europe/ante-markovic-last-premier-of-yugoslavia-dies-at-87.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/world/01markovic-1/01markovic-1-thumbStandard.jpg" width="75" height="75" alt="Ante Markovic was the last prime minister of Yugoslavia before the formerly Communist country fell apart." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/01/world/europe/ante-markovic-last-premier-of-yugoslavia-dies-at-87.html?ref=obituaries">
+Ante Markovic, Last Premier of Yugoslavia, Dies at 87</a></h3>
+<h6 class="byline">
+By DENNIS HEVESI	    </h6>
+<p class="summary">
+Mr. Markovic resigned in December 1991 as his nation broke apart, nearly three years after he became prime minister.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/30/arts/patrice-oneal-boisterous-comedian-dies-at-41.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/arts/ONEAL-obit/ONEAL-obit-thumbStandard-v2.jpg" width="75" height="75" alt="Patrice O'Neal in 2006." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/30/arts/patrice-oneal-boisterous-comedian-dies-at-41.html?ref=obituaries">
+Patrice O’Neal, Boisterous Comedian, Dies at 41</a></h3>
+<h6 class="byline">
+By DANIEL E. SLOTNIK	    </h6>
+<p class="summary">
+Mr. O’Neal was a stand-up comedian who took on topics like race, AIDS and his own struggle with diabetes.</p>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/11/30/arts/music/barry-llewellyn-a-founder-of-the-heptones-dies-at-63.html?ref=obituaries">
+Barry Llewellyn, a Founder of the Heptones, Dies at 63</a></h3>
+<h6 class="byline">
+By ROB KENNER	    </h6>
+<p class="summary">
+Founded by Mr. Llewellyn and Earl Morgan, the Heptones rose from singing on the streets of Trenchtown to take their place alongside the Wailers and the Maytals as one of Jamaica’s most important vocal groups.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/30/nyregion/matthew-p-sapolin-who-led-bloombergs-office-for-disabled-dies-at-41.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/nyregion/30sapolin-obit/30sapolin-obit-thumbStandard.jpg" width="75" height="75" alt="Matthew Sapolin in 2007 with his guide dog at the time, Compass." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/30/nyregion/matthew-p-sapolin-who-led-bloombergs-office-for-disabled-dies-at-41.html?ref=obituaries">
+Matthew P. Sapolin, Who Led Bloomberg’s Office for Disabled, Dies at 41</a></h3>
+<h6 class="byline">
+By ELIZABETH A. HARRIS	    </h6>
+<p class="summary">
+Mr. Sapolin, who was blind, was also an accomplished wrestler, versatile musician, formidable chess player and occasional skier.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/30/business/andrew-kramer-leading-labor-lawyer-dies-at-67.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/sports/01kramer/01kramer-thumbStandard.jpg" width="75" height="75" alt="Andrew M. Kramer" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/30/business/andrew-kramer-leading-labor-lawyer-dies-at-67.html?ref=obituaries">
+Andrew M. Kramer, Leading Labor Lawyer, Dies at 67</a></h3>
+<h6 class="byline">
+By STEVEN GREENHOUSE	    </h6>
+<p class="summary">
+A sought-after negotiator, Mr. Kramer’s clients included General Motors, Westinghouse Electric and the Boston Red Sox.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/29/theater/michael-hastings-british-playwright-dies-at-74.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/28/theater/28hastings-obit/28hastings-obit-thumbStandard-v2.jpg" width="75" height="75" alt="Michael Hastings in 1956, when he was 18." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/29/theater/michael-hastings-british-playwright-dies-at-74.html?ref=obituaries">
+Michael Hastings, British Playwright, Dies at 74</a></h3>
+<h6 class="byline">
+By BRUCE WEBER	    </h6>
+<p class="summary">
+Mr. Hastings’s best-known work, “Tom and Viv,” about the first marriage of T. S. Eliot, created a cultural brouhaha.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/29/world/europe/stalins-daughter-dies-at-85.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/29/obituaries/29stalin_cnd/29stalin_cnd-thumbStandard.jpg" width="75" height="75" alt="Born Svetlana Stalina, Stalin's daughter changed her name twice and lived in several countries after her famous defection." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/29/world/europe/stalins-daughter-dies-at-85.html?ref=obituaries">
+Lana Peters, Stalin’s Daughter, Dies at 85</a></h3>
+<h6 class="byline">
+By DOUGLAS MARTIN	    </h6>
+<p class="summary">
+Ms. Peters’s death, like the last years of her life, occurred away from public view.</p>
+<ul class="refer">
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001194892" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/11/29/world/europe/stalins-daughter-dies-at-85.html"></span></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/29/arts/ken-russell-controversial-director-dies-at-84.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/29/arts/29russell_1/29russell_1-thumbStandard-v2.jpg" width="75" height="75" alt="The British director Ken Russell with Twiggy, the British model, during the filming of "The Boy Friend" in 1971." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/29/arts/ken-russell-controversial-director-dies-at-84.html?ref=obituaries">
+Ken Russell, Director Fond of Provocation, Dies at 84</a></h3>
+<h6 class="byline">
+By DENNIS LIM	    </h6>
+<p class="summary">
+A polarizing figure who delighted in breaching the limits of propriety and cinematic good taste, Mr. Russell courted controversy through much of his career.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/29/sports/soccer/gary-speed-welsh-national-soccer-coach-dies-at-42.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/29/sports/SPEED-obit/SPEED-obit-thumbStandard.jpg" width="75" height="75" alt="Gary Speed as a player for Wales during a World Cup qualifying match in 2001." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/29/sports/soccer/gary-speed-welsh-national-soccer-coach-dies-at-42.html?ref=obituaries">
+Gary Speed, Welsh National Soccer Coach, Dies at 42</a></h3>
+<h6 class="byline">
+By JACK BELL	    </h6>
+<p class="summary">
+Before helping to lift Wales in the world rankings, Speed was a steady and skilled player in the top divisions of English soccer for more than 20 years.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/28/sports/ron-lyle-who-met-ali-for-title-dies-at-70.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/28/sports/lyle-obit/lyle-obit-thumbStandard.jpg" width="75" height="75" alt="Ron Lyle, left, in the 11th round of his heavyweight title fight with Muhammad Ali in 1975. Lyle lost on a technical knockout." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/28/sports/ron-lyle-who-met-ali-for-title-dies-at-70.html?ref=obituaries">
+Ron Lyle, Who Met Ali for Title, Dies at 70</a></h3>
+<h6 class="byline">
+By RICHARD GOLDSTEIN	    </h6>
+<p class="summary">
+After learning to box while in prison for murder, Lyle lost a title bout to Muhammad Ali and fought a memorably furious battle with George Foreman.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/28/nyregion/francis-h-cabot-86-extraordinary-gardener-dies.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/28/nyregion/cabot-obit-1/cabot-obit-1-thumbStandard.jpg" width="75" height="75" alt="Francis H. Cabot" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/28/nyregion/francis-h-cabot-86-extraordinary-gardener-dies.html?ref=obituaries">
+Francis H. Cabot, 86, Dies; Created Notable Gardens</a></h3>
+<h6 class="byline">
+By MARGALIT FOX	    </h6>
+<p class="summary">
+A financier and self-taught horticulturist, Mr. Cabot founded the Garden Conservancy, which works to preserve America’s greatest private gardens.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/28/us/michael-heyman-smithsonian-leader-dies-at-81.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/28/us/heyman-obit/heyman-obit-thumbStandard.jpg" width="75" height="75" alt="I. Michael Heyman" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/28/us/michael-heyman-smithsonian-leader-dies-at-81.html?ref=obituaries">
+I. Michael Heyman, Smithsonian Leader, Dies at 81</a></h3>
+<h6 class="byline">
+By DENNIS HEVESI	    </h6>
+<p class="summary">
+Mr. Heyman, a former chancellor of the University of California, Berkeley, presided over the Smithsonian during a controversy involving its display of the Enola Gay on the 50th anniversary of its bombing of Hiroshima.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/28/arts/music/montserrat-figueras-catalan-soprano-dies-at-69.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/28/arts/figueras-obit/figueras-obit-thumbStandard.jpg" width="75" height="75" alt="Montserrat Figueras in 2005." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/28/arts/music/montserrat-figueras-catalan-soprano-dies-at-69.html?ref=obituaries">
+Montserrat Figueras, Catalan Soprano, Dies at 69</a></h3>
+<h6 class="byline">
+By ZACHARY WOOLFE	    </h6>
+<p class="summary">
+Ms. Figueras and her husband, Jordi Savall, created ensembles that revitalized the performance of early music.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/28/sports/vasily-alekseyev-69-champion-weight-lifter-dies.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/29/sports/ALEKSEYEV-obit/ALEKSEYEV-obit-thumbStandard.jpg" width="75" height="75" alt="Vasily Alekseyev in 1971 during a Soviet team's tour of France." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/28/sports/vasily-alekseyev-69-champion-weight-lifter-dies.html?ref=obituaries">
+Vasily Alekseyev, 69, Champion Weight Lifter, Dies</a></h3>
+<h6 class="byline">
+By RICHARD GOLDSTEIN	    </h6>
+<p class="summary">
+Alekseyev, known as the world’s strongest man, won two Olympic gold medals and set 80 world records in weight lifting.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/business/sergio-scaglietti-who-built-ferraris-with-a-hammer-dies-at-91.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/business/dogSCAGLIETTIobit/dogSCAGLIETTIobit-thumbStandard.jpg" width="75" height="75" alt="Sergio Scaglietti, who worked “by the eye,” rarely used blueprints." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/business/sergio-scaglietti-who-built-ferraris-with-a-hammer-dies-at-91.html?ref=obituaries">
+Sergio Scaglietti, Sculptor of Sleekly Tailored Ferraris, Dies at 91</a></h3>
+<h6 class="byline">
+By DOUGLAS MARTIN	    </h6>
+<p class="summary">
+Mr. Scaglietti built the bodies of elegant Ferraris like the 250 Testa Rossa and 500 Mondial.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/sports/cricket/basil-doliveira-a-symbol-for-cricket-and-for-equality-dies-at-80.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/world/dogDOLIVEIRAobit/dogDOLIVEIRAobit-thumbStandard.jpg" width="75" height="75" alt="Basil D'Oliveira was a South African who played for England." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/sports/cricket/basil-doliveira-a-symbol-for-cricket-and-for-equality-dies-at-80.html?ref=obituaries">
+Basil D’Oliveira, a Symbol for Cricket and for Equality, Dies at 80</a></h3>
+<h6 class="byline">
+By DOUGLAS MARTIN	    </h6>
+<p class="summary">
+Mr. D’Oliveira’s struggles to become a high-level cricket player in a country of government-enforced racial segregation became a powerful symbol in the ultimately successful fight against apartheid.</p>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/11/27/world/africa/odumegwu-ojukwu-leader-of-breakaway-republic-of-biafra-dies-at-78.html?ref=obituaries">
+Odumegwu Ojukwu, Breakaway Biafra Leader, Dies at 78</a></h3>
+<h6 class="byline">
+By ROBERT D. McFADDEN	    </h6>
+<p class="summary">
+Mr. Ojukwu proclaimed the Republic of Biafra in 1967, in a separation from Nigeria, leading to a war that cost more than a million lives.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/26/us/tom-wicker-journalist-and-author-dies-at-85.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/26/obituaries/26wicker3/26wicker3-thumbStandard-v2.jpg" width="75" height="75" alt="Mr. Wicker in 1963." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/26/us/tom-wicker-journalist-and-author-dies-at-85.html?ref=obituaries">
+Tom Wicker, Times Journalist, Dies at 85</a></h3>
+<h6 class="byline">
+By ROBERT D. McFADDEN	    </h6>
+<p class="summary">
+Made prominent by his coverage of the Kennedy assassination, Mr. Wicker became Washington bureau chief for The New York Times and an iconoclastic columnist.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/slideshow/2011/11/26/obituaries/20111126_WICKER.html"><span class="icon slideshow">Slide Show</span>: Tom Wicker, a Columnist Not Afraid of Controversy</a></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/26/business/jeno-paulucci-a-pioneer-of-ready-made-ethnic-foods-dies-at-93.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/26/business/PAULUCCI-Obit/PAULUCCI-Obit-thumbStandard.jpg" width="75" height="75" alt="Jeno Paulucci" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/26/business/jeno-paulucci-a-pioneer-of-ready-made-ethnic-foods-dies-at-93.html?ref=obituaries">
+Jeno Paulucci, a Pioneer of Ready-Made Ethnic Foods, Dies at 93</a></h3>
+<h6 class="byline">
+By DANIEL E. SLOTNIK	    </h6>
+<p class="summary">
+The son of Italian immigrants, Mr. Paulucci founded Chun King, Jeno’s and Michelina’s.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/26/arts/music/jimmy-norman-singer-who-worked-with-marley-and-hendrix-dies-at-74.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/26/arts/NORMAN-obit/NORMAN-obit-thumbStandard.jpg" width="75" height="75" alt="Jimmy Norman" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/26/arts/music/jimmy-norman-singer-who-worked-with-marley-and-hendrix-dies-at-74.html?ref=obituaries">
+Jimmy Norman, R&B Singer Who Worked With Marley and Hendrix, Dies at 74</a></h3>
+<h6 class="byline">
+By BEN SISARIO	    </h6>
+<p class="summary">
+Mr. Norman was a rhythm-and-blues singer and songwriter who worked with Bob Marley and Jimi Hendrix in their early careers.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/26/arts/music/sena-jurinac-star-soprano-in-vienna-dies-at-90.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/26/arts/JURNIAC/JURNIAC-thumbStandard.jpg" width="75" height="75" alt="Sena Jurinac" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/26/arts/music/sena-jurinac-star-soprano-in-vienna-dies-at-90.html?ref=obituaries">
+Sena Jurinac, Longtime Soprano in Vienna, Dies at 90</a></h3>
+<h6 class="byline">
+By ZACHARY WOOLFE	    </h6>
+<p class="summary">
+Ms. Jurinac was a graceful singer with a penetrating voice who was a star of postwar Europe.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/26/arts/music/olga-bloom-violinist-and-violist-who-created-bargemusic-dies-at-92.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/26/arts/26bloom/26bloom-thumbStandard.jpg" width="75" height="75" alt="Olga Bloom, far right in 2004, created Bargemusic by converting an old coffee barge into a concert hall." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/26/arts/music/olga-bloom-violinist-and-violist-who-created-bargemusic-dies-at-92.html?ref=obituaries">
+Olga Bloom, Violinist and Violist Who Created Bargemusic, Dies at 92</a></h3>
+<h6 class="byline">
+By DANIEL J. WAKIN	    </h6>
+<p class="summary">
+Ms. Bloom was responsible for converting an old coffee barge into a floating stage and one of the more magical places in New York’s classical music scene.</p>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/11/26/us/the-rev-maurice-chase-father-dollar-bill-of-skid-row-dies.html?ref=obituaries">
+Rev. Maurice Chase, ‘Father Dollar Bill,’ Dies at 92</a></h3>
+<h6 class="byline">
+By IAN LOVETT	    </h6>
+<p class="summary">
+Father Chase was known on Los Angeles Skid Row for handing out about $3,000 a week, often in singles.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/25/science/lynn-margulis-trailblazing-theorist-on-evolution-dies-at-73.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/25/us/MARGULISobit/MARGULISobit-thumbStandard.jpg" width="75" height="75" alt="Lynn Margulis, wearing her National Medal of Science Award." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/25/science/lynn-margulis-trailblazing-theorist-on-evolution-dies-at-73.html?ref=obituaries">
+Lynn Margulis, Evolution Theorist, Dies at 73</a></h3>
+<h6 class="byline">
+By BRUCE WEBER	    </h6>
+<p class="summary">
+Dr. Margulis was a biologist whose work on the origin of cells helped transform the study of evolution.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/25/arts/shelagh-delaney-playwright-dies-at-72.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/25/arts/DELANEY-obit/DELANEY-obit-thumbStandard.jpg" width="75" height="75" alt="Shelagh Delaney, who wrote for film as well as the theater." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/25/arts/shelagh-delaney-playwright-dies-at-72.html?ref=obituaries">
+Shelagh Delaney, Author of the Play ‘A Taste of Honey,’ Dies at 72</a></h3>
+<h6 class="byline">
+By BRUCE WEBER	    </h6>
+<p class="summary">
+Ms. Delaney, whose play “A Taste of Honey” found success in the West End and on Broadway, was just 19 when the work was first performed.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/25/business/media/christopher-ma-washington-post-executive-dies-at-61.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/25/us/MA-obit/MA-obit-thumbStandard.jpg" width="75" height="75" alt="Christopher Ma" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/25/business/media/christopher-ma-washington-post-executive-dies-at-61.html?ref=obituaries">
+Christopher Ma, Washington Post Executive, Dies at 61</a></h3>
+<h6 class="byline">
+By ROBERT D. McFADDEN	    </h6>
+<p class="summary">
+Mr. Ma was the Post Company’s senior vice president for new business development and publisher of Express, the company’s free commuter tabloid newspaper for the Washington area.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/24/arts/ruth-stone-national-book-award-winner-dies-at-96.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/24/arts/STONE-obit/STONE-obit-thumbStandard.jpg" width="75" height="75" alt="Ruth Stone at her daughter's house in Ripton, Vt., in 2002." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/24/arts/ruth-stone-national-book-award-winner-dies-at-96.html?ref=obituaries">
+Ruth Stone, a Poet Celebrated Late in Life, Dies at 96</a></h3>
+<h6 class="byline">
+By WILLIAM GRIMES	    </h6>
+<p class="summary">
+Ms. Stone won the National Book Award for a poetry collection in 2002 at the age of 87.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/24/arts/anne-mccaffrey-dragonriders-author-dies-at-85.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/24/arts/MCCAFFREY-obit/MCCAFFREY-obit-thumbStandard.jpg" width="75" height="75" alt="Anne McCaffrey in 1981." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/24/arts/anne-mccaffrey-dragonriders-author-dies-at-85.html?ref=obituaries">
+Anne McCaffrey, Author of ‘Dragonriders’ Fantasies, Dies at 85</a></h3>
+<h6 class="byline">
+By MARGALIT FOX	    </h6>
+<p class="summary">
+Ms. McCaffrey married elements of fantasy to pure science fiction in her young-adult “Dragonriders of Pern” series set on the planet Pern, which Earthlings have settled.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/24/arts/music/andrea-true-dies-at-68-more-more-more-singer.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/24/arts/TRUE-obit/TRUE-obit-thumbStandard.jpg" width="75" height="75" alt="Andrea True in 1976." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/24/arts/music/andrea-true-dies-at-68-more-more-more-singer.html?ref=obituaries">
+Andrea True, Singer of Disco Hit, Dies at 68</a></h3>
+<h6 class="byline">
+By PAUL VITELLO	    </h6>
+<p class="summary">
+Ms. True sang in nightclubs, wrote music for television commercials and, for a while, was an actress in adult films. Her famous song “More, More, More” described that life.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/23/arts/music/paul-motian-jazz-drummer-is-dead-at-80.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/23/arts/MOTIAN-obit/MOTIAN-obit-thumbStandard.jpg" width="75" height="75" alt="Paul Motian performing at the Village Vanguard in 2008." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/23/arts/music/paul-motian-jazz-drummer-is-dead-at-80.html?ref=obituaries">
+Paul Motian, Jazz Drummer, Is Dead at 80</a></h3>
+<h6 class="byline">
+By BEN RATLIFF	    </h6>
+<p class="summary">
+Mr. Motian, a drummer, bandleader, and composer of grace and abstraction, was one of the most influential jazz musicians of the last 50 years.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/23/world/europe/danielle-mitterrand-wife-of-ex-french-president-dies-at-87.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/23/world/europe/MITTERRAND2-obit/MITTERRAND2-obit-thumbStandard.jpg" width="75" height="75" alt="Danielle Mitterrand in 2001." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/23/world/europe/danielle-mitterrand-wife-of-ex-french-president-dies-at-87.html?ref=obituaries">
+Danielle Mitterrand, Former First Lady of France, Is Dead at 87</a></h3>
+<h6 class="byline">
+By DOUGLAS MARTIN	    </h6>
+<p class="summary">
+Mrs. Mitterrand, whose husband, François, was France’s Socialist leader from 1981 to 1995, championed human rights causes.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/23/us/george-gallup-jr-of-polling-family-dies-at-81.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/23/us/subGALLUP/subGALLUP-thumbStandard.jpg" width="75" height="75" alt="George Gallup Jr. in 1980." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/23/us/george-gallup-jr-of-polling-family-dies-at-81.html?ref=obituaries">
+George Gallup Jr., of Polling Family, Dies at 81</a></h3>
+<h6 class="byline">
+By KATE ZERNIKE	    </h6>
+<p class="summary">
+Following in his father’s path, Mr. Gallup used snapshots of political and religious views to capture the American mood.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/23/business/global/eli-hurvitz-founder-of-teva-pharmaceutical-industries-dies-at-79.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/23/business/23hurvitz-obit/23hurvitz-obit-thumbStandard.jpg" width="75" height="75" alt="Eli Hurvitz in March." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/23/business/global/eli-hurvitz-founder-of-teva-pharmaceutical-industries-dies-at-79.html?ref=obituaries">
+Eli Hurvitz, Founder of Pharmaceutical Giant Teva, Dies at 79</a></h3>
+<h6 class="byline">
+By ISABEL KERSHNER	    </h6>
+<p class="summary">
+Mr. Hurvitz began his career washing lab equipment at a drug company and went on to build Teva Pharmaceutical Industries into the largest generic drug maker in the world.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/22/theater/john-neville-shakespearean-actor-dies-at-86.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/22/theater/NEVILLE2-obit/NEVILLE2-obit-thumbStandard.jpg" width="75" height="75" alt="Mr. Neville as Richard II. As a youth he spoke with a working-class patois, making him an unlikely candidate to be a Shakespearean idol." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/22/theater/john-neville-shakespearean-actor-dies-at-86.html?ref=obituaries">
+John Neville, Shakespearean Actor and ‘Munchausen’ Star, Is Dead at 86</a></h3>
+<h6 class="byline">
+By BRUCE WEBER	    </h6>
+<p class="summary">
+Mr. Neville may be best known in the United States as the title character in “The Adventures of Baron Munchausen.”</p>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/11/22/arts/music/moogy-klingman-songwriter-and-original-member-of-utopia-dies-at-61.html?ref=obituaries">
+Moogy Klingman, Songwriter and Original Member of Utopia, Dies at 61</a></h3>
+<h6 class="byline">
+By DOUGLAS MARTIN	    </h6>
+<p class="summary">
+Mr. Klingman was a keyboardist, songwriter and an original member of Todd Rundgren’s band Utopia.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/21/business/theodore-j-forstmann-a-takeover-pioneer-dies-at-71.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/21/business/forstmann-obit/forstmann-obit-thumbStandard.jpg" width="75" height="75" alt="Theodore J. Forstmann in 2004, overlooking Central Park." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/21/business/theodore-j-forstmann-a-takeover-pioneer-dies-at-71.html?ref=obituaries">
+Theodore J. Forstmann, a Takeover Pioneer, Dies at 71</a></h3>
+<h6 class="byline">
+By ANDREW ROSS SORKIN	    </h6>
+<p class="summary">
+Mr. Forstmann, a colorful financier and philanthropist who helped to usher in the leveraged buyout industry, also inadvertently coined the phrase “barbarians at the gate.”</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/21/nyregion/sanford-garelik-former-new-york-city-mayoral-candidate-dies-at-93.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/21/nyregion/garelik-obit/garelik-obit-thumbStandard.jpg" width="75" height="75" alt="Sanford D. Garelik in 1976, when he was chief of the transit police. Earlier, he had run as a law-and-order mayoral candidate." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/21/nyregion/sanford-garelik-former-new-york-city-mayoral-candidate-dies-at-93.html?ref=obituaries">
+Sanford Garelik, Former Mayoral Candidate, Dies at 93</a></h3>
+<h6 class="byline">
+By MATT FLEGENHEIMER	    </h6>
+<p class="summary">
+Mr. Garelik became president of the New York City Council under Mayor John V. Lindsay in 1970 and mounted an unsuccessful bid to succeed Mr. Lindsay three years later.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/21/business/john-g-smale-procter-gamble-chief-dies-at-84.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/21/business/smale-obit/smale-obit-thumbStandard.jpg" width="75" height="75" alt="John G. Smale in 1993." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/21/business/john-g-smale-procter-gamble-chief-dies-at-84.html?ref=obituaries">
+John G. Smale, Procter & Gamble Chief, Dies at 84</a></h3>
+<h6 class="byline">
+By PETER LATTMAN	    </h6>
+<p class="summary">
+Mr. Smale was the chief executive of Procter & Gamble at a time of extraordinary growth, and he later helped lead a shake-up at General Motors.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/21/movies/eva-monley-film-location-scout-in-africa-dies-at-88.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/21/world/21monley-obit1/21monley-obit1-thumbStandard.jpg" width="75" height="75" alt="Eva Monley worked as a scout, production manager and, in later years, producer on more than 60 movies." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/21/movies/eva-monley-film-location-scout-in-africa-dies-at-88.html?ref=obituaries">
+Eva Monley, Intrepid Scout for Film Locations in Africa, Dies at 88</a></h3>
+<h6 class="byline">
+By PAUL VITELLO	    </h6>
+<p class="summary">
+Ms. Monley worked on more than 60 movies, including “The African Queen” and “Out of Africa.”</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/25/arts/pat-passlof-abstract-expressionist-painter-dies-at-83.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/25/arts/PASSLOF-obit/PASSLOF-obit-thumbStandard.jpg" width="75" height="75" alt="Pat Passlof in her studio on Manhattan's Lower East Side." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/25/arts/pat-passlof-abstract-expressionist-painter-dies-at-83.html?ref=obituaries">
+Pat Passlof, Painter of Shimmering Abstracts, Dies at 83</a></h3>
+<h6 class="byline">
+By MARGALIT FOX	    </h6>
+<p class="summary">
+Ms. Passlof, a contemporary of Franz Kline and Willem de Kooning, was known for her thick brush strokes and luminous color.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/20/nyregion/rene-a-morel-master-restorer-of-rare-violins-dies-at-79.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/20/arts/dogMOREL-obit/dogMOREL-obit-thumbStandard.jpg" width="75" height="75" alt="René A. Morel at work, about 1979. A book was written on his restoration of a 1707 Stradivarius." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/20/nyregion/rene-a-morel-master-restorer-of-rare-violins-dies-at-79.html?ref=obituaries">
+René Morel, Master Restorer of Rare Violins, Dies at 79</a></h3>
+<h6 class="byline">
+By MARGALIT FOX	    </h6>
+<p class="summary">
+Mr. Morel has been widely described as among the finest violin restorers — perhaps the very finest — of his day, a calling that requires in equal measure the skills of diagnostician, acoustician and microsurgeon.</p>
+</div>
+</div>
+<!--cur:HeadlineOnly prev:StandardThumb-->
+<div class="columnGroup singleRule last">
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/19/nyregion/richard-h-kuh-former-manhattan-prosecutor-dies-at-90.html?ref=obituaries">
+Richard H. Kuh, Ex-Manhattan Prosecutor, Dies at 90</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/19/sports/basketball/walt-hazzard-former-star-and-coach-for-ucla-dies-at-69.html?ref=obituaries">
+Walt Hazzard, Former Star and Coach for U.C.L.A., Dies at 69</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/19/sports/skiing/jamie-pierre-free-skier-known-for-feats-of-daring-dies-at-38.html?ref=obituaries">
+Jamie Pierre, Free Skier Known for Feats of Daring, Dies at 38</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/19/business/mutfund/jon-b-lovelace-mutual-fund-industry-leader-dies-at-84.html?ref=obituaries">
+Jon B. Lovelace, Mutual Fund Industry Leader, Dies at 84</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/30/arts/music/don-devito-producer-of-bob-dylan-albums-dies-at-72.html?ref=obituaries">
+Don DeVito, Producer of Bob Dylan Albums, Dies at 72</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/18/theater/dulcie-gray-stalwart-british-actress-dies-at-95.html?ref=obituaries">
+Dulcie Gray, Stalwart British Actress, Dies at 95</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/17/movies/karl-slover-one-of-the-last-surviving-oz-munchkins-dies-at-93.html?ref=obituaries">
+Karl Slover, One of the Last Surviving ‘Oz’ Munchkins, Dies at 93</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/17/nyregion/irwin-schneiderman-philanthropic-guide-for-city-opera-dies-at-88.html?ref=obituaries">
+Irwin Schneiderman Dies at 88; Guided the City Opera</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/17/arts/music/lee-pockriss-composer-and-songwriter-is-dead-at-87.html?ref=obituaries">
+Lee Pockriss, Songwriter Behind ‘Itsy Bitsy’ Bikini, Dies at 87</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/17/us/al-boeke-88-dies-architect-sought-ecological-harmony.html?ref=obituaries">
+Al Boeke, Architect Who Sought Ecological Harmony, Is Dead at 88</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/16/arts/dance/donya-feuer-modern-dance-choreographer-dies-at-77.html?ref=obituaries">
+Donya Feuer, Modern-Dance Choreographer, Dies at 77</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/16/technology/ilya-zhitomirskiy-co-founder-of-social-network-dies-at-22.html?ref=obituaries">
+Ilya Zhitomirskiy Dies at 22; Co-Founded Social Network</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/15/books/les-daniels-historian-of-comic-books-dies-at-68.html?ref=obituaries">
+Les Daniels, Historian of Comic Books, Dies at 68</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/15/sports/baseball/irving-franklin-maker-of-batting-gloves-dies-at-93.html?ref=obituaries">
+Irving H. Franklin, 93, Dies; Improved Batters’ Grip</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/15/health/dr-paul-epstein-public-health-expert-dies-at-67.html?ref=obituaries">
+Dr. Paul Epstein, Expert in Public Health, Is Dead at 67</a>
+</h6>
+</li>
+</ul>
+</div>
+<div id="adxSponLink" class="columnGroup singleRule"></div>
+</div><!--close .aColumn -->
+<div class="bColumn">
+<div class="columnGroup SectionFront3Col first">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<div class="columnGroup first">
+<script type='text/javascript' src='http://graphics8.nytimes.com/packages/js/multimedia/swfobject.js'></script>
+<script type='text/javascript' src='http://graphics8.nytimes.com/packages/js/multimedia/NYTFlashEmbed.js'></script>
+<div id='embed721' class='NYTFlashEmbed' style='visibility:hidden;'>
+<!--BEGIN NON-FLASH CONTENT -->
+In order to view this feature, you must download the latest version of flash player <a href='http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash' target='_blank'>here</a>.
+<!--END NON-FLASH CONTENT -->
+</div>
+<script type='text/javascript'>
+
+fl = new Object();
+
+fl.eid = 'embed721';
+fl.id = '721';
+fl.swf = 'http://graphics8.nytimes.com/packages/flash/multimedia/TEMPLATES/SlideShowPromo/SlideShowPromo.swf';
+fl.base = 'http://graphics8.nytimes.com/packages/flash/multimedia/TEMPLATES/SlideShowPromo/';
+fl.width = '190';
+fl.height = '126';
+fl.as = '3';
+fl.domain = 'www';
+fl.caching = 'true';
+fl.bgColor = '#FFFFFF';
+
+fl.vars = [
+
+{name:'dataURL',value:'http://graphics8.nytimes.com/packages/flash/multimedia/TEMPLATES/SlideShowPromo/data/20110519_NOTABLES2011.xml'},
+{name:'',value:''},
+{name:'',value:''},
+{name:'',value:''},
+{name:'',value:''},
+{name:'',value:''},
+{name:'',value:''},
+{name:'',value:''},
+{name:'',value:''}];
+
+writeNYTFlash(fl,2);
+
+</script>
+<style>#embed721{visibility:visible !important;}</style>
+<br/>
+<div class="story">
+<h5><a href="http://www.nytimes.com/interactive/obituaries/2011_notabledeaths.html"><img src="http://graphics.nytimes.com/images/multimedia/icons/interactive_icon.gif" alt="Interactive" width="9" height="9" border="0"/> Notable Deaths of 2011</a></h5>
+<p class="summary">A look back at those who died this year. </p>
+<p><img src="http://graphics8.nytimes.com/images/multimedia/icons/photo_icon.gif" alt="Photographs" width="12" height="10" border="0"/> <a href="http://www.nytimes.com/interactive/obituaries/20100329_NOTABLEDEATHS.html">Deaths of 2010</a> | <a href="http://www.nytimes.com/packages/html/obituaries/2009-notables/index.html">2009</a> | <a href="http://www.nytimes.com/slideshow/2008/06/12/us/2008-NOTABLE_index.html">2008</a> | <a href="http://www.nytimes.com/slideshow/2007/12/27/obituaries/notable-obits-slideshow_index.html">2007</a></p></div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<script type='text/javascript' src='http://graphics8.nytimes.com/packages/js/multimedia/swfobject.js'></script>
+<script type='text/javascript' src='http://graphics8.nytimes.com/packages/js/multimedia/NYTFlashEmbed.js'></script>
+<div id='embed11' class='NYTFlashEmbed' style='visibility:hidden;'>
+<!--BEGIN NON-FLASH CONTENT -->
+In order to view this feature, you must download the latest version of flash player <a href='http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash' target='_blank'>here</a>.
+<!--END NON-FLASH CONTENT -->
+</div>
+<script type='text/javascript'>
+
+fl = new Object();
+
+fl.id = '11';
+fl.swf = 'http://graphics8.nytimes.com/packages/flash/multimedia/TEMPLATES/SlideShowPromo/SlideShowPromo.swf';
+fl.base = 'http://graphics8.nytimes.com/packages/flash/multimedia/TEMPLATES/SlideShowPromo/';
+fl.width = '190';
+fl.height = '126';
+fl.as = '3';
+fl.domain = 'www';
+fl.caching = 'true';
+fl.bgColor = '#FFFFFF';
+
+fl.vars = [
+
+{name:'dataURL',value:'http://graphics8.nytimes.com/packages/flash/multimedia/TEMPLATES/SlideShowPromo/data/20100316_LASTWORD.xml'},
+{name:'',value:''},
+{name:'',value:''},
+{name:'',value:''},
+{name:'',value:''},
+{name:'',value:''},
+{name:'',value:''},
+{name:'',value:''},
+{name:'',value:''}];
+
+writeNYTFlash(fl,2);
+
+</script>
+<style>#embed11{visibility:visible !important;}</style> 
+<br/>
+<div class="story">
+<h5><img src="http://graphics.nytimes.com/images/multimedia/icons/video_icon.gif" alt="Video" width="12" height="9"/> Last Word Videos</h5> 
+<p class="summary">Inspiring people talk about their lives. </p>
+<div class="story"><p class="summary"><strong><a href="http://video.nytimes.com/video/2010/12/15/obituaries/1247464008751/last-word-bob-feller.html">Bob Feller</a>| <a href="http://video.nytimes.com/video/2010/10/31/obituaries/1248069266166/last-word-theodore-c-sorensen.html">Theodore C. Sorensen</a> | <a href="http://video.nytimes.com/video/2009/08/13/obituaries/1247463983106/last-word-les-paul.html">Les Paul</a> |<a href="http://video.nytimes.com/video/2008/12/02/arts/music/1194832844841/last-word-odetta.html">Odetta</a> | <a href="http://video.nytimes.com/video/playlist/last-word/art-buchwald/1194820770698/index.html">Art Buchwald</a> | <a href="http://video.nytimes.com/video/playlist/last-word/stewart-mott/1194822937246/index.html">Stewart Mott</a> | <a href="http://video.nytimes.com/video/playlist/last-word/dith-pran/1194820770784/index.html">Dith Pran</a> | <a href="http://video.nytimes.com/video/2009/08/05/obituaries/1194834031638/last-word-budd-schulberg.html">Budd Schulberg</a> | <a href="http://video.nytimes.com/video/2010/11/14/obituaries/1247464085922/last-word-ted-kheel.html?scp=2&sq=kheel&st=cse">Theodore Kheel</a> | <a href="http://video.nytimes.com/video/2011/03/26/obituaries/1194826919047/lwferraro.html">Geraldine A. Ferraro</a></strong></p></div></div>    
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<div class="columnGroup first">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/slideshow/2011/10/20/world/africa/20111021_QADDAFI.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/08/20/world/africa/20110820_337_QADDAFI-slide-T4CQ/20110820_337_QADDAFI-slide-T4CQ-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay slideshow">Slide Show</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/slideshow/2011/10/20/world/africa/20111021_QADDAFI.html?ref=obituaries">
+Muammar el-Qaddafi: 42 Years as the Face of Libya</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+The 27-year-old junior officer who led a bloodless coup that deposed Libya’s monarch in 1969 became a powerful dictator who styled himself a desert nomad philosopher.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/10/21/world/africa/qaddafi-killed-as-hometown-falls-to-libyan-rebels.html">Related Obituary</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<h6 class="sectionHeader">The Death of Steve Jobs</h6>
+<div class="columnGroup first">
+<script type="text/javascript" src="http://graphics8.nytimes.com/packages/js/multimedia/bundles/SlidingBColGallery.js"></script>
+<script language="javascript" type="text/javascript" src="http://graphics8.nytimes.com/packages/js/multimedia/data/SlidingGallery/20111014_JOBS__TECH_PROMO.js"></script>
+<link type="text/css" rel="stylesheet" href="http://graphics8.nytimes.com/packages/css/multimedia/bundles/SlidingBColGallery.css" />
+<div id="NYTMM_Embed263">
+</div>
+<script> var _obj = new NYTMM.SlidingBColGallery($("NYTMM_Embed263"),190,126,chameleonData); _obj.setFixedHeight(275); _obj.setPhotoData(chameleonData.photos); </script>        	</div>
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<div class="columnGroup first">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/slideshow/2011/11/26/obituaries/20111126_WICKER.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/26/obituaries/20111126_WICKER-slide-4P7R/20111126_WICKER-slide-4P7R-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay slideshow">Slide Show</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/slideshow/2011/11/26/obituaries/20111126_WICKER.html?ref=obituaries">
+Tom Wicker, a Columnist Not Afraid of Controversy</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Tom Wicker, an iconoclastic columnist for The New York Times, became one of postwar America’s most distinguished journalists.</p>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/slideshow/2011/11/05/obituaries/20111106_rooney.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/11/05/obituaries/20111106_rooney-slide-I1XR/20111106_rooney-slide-I1XR-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay slideshow">Slide Show</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/slideshow/2011/11/05/obituaries/20111106_rooney.html?ref=obituaries">
+Andy Rooney: 1919-2011</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Long a mainstay of CBS News, his prickly wit and homespun commentary on “60 Minutes,” made him a household name.</p>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/slideshow/2011/07/08/us/20110709_FORD.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/07/08/us/20110709_FORD-slide-57P5/20110709_FORD-slide-57P5-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay slideshow">Slide Show</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/slideshow/2011/07/08/us/20110709_FORD.html?ref=obituaries">
+Betty Ford Dies</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Betty Ford, the outspoken and much-admired wife of President Gerald R. Ford, has died at 93.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/07/09/us/politics/betty-ford-dies.html">Related Obituary</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/slideshow/2011/07/23/obituaries/20110724-WINEHOUSE.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/07/23/obituaries/20110724-WINEHOUSE-slide-ZRF1/20110724-WINEHOUSE-slide-ZRF1-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay slideshow">Slide Show</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/slideshow/2011/07/23/obituaries/20110724-WINEHOUSE.html?ref=obituaries">
+Amy Winehouse</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Amy Winehouse, the singer and songwriter who shot to fame with “Rehab,” won five Grammy Awards and sold more than five million albums, has died at age 27.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/07/28/fashion/amy-winehouse-bad-girl-with-a-touch-of-genius.html?_r=1&emc=eta1">A Bad Girl With a Touch of Genius</a></li>
+<li><a href="http://www.nytimes.com/2011/07/24/arts/music/amy-winehouse-british-soul-singer-dies-at-27.html">Related Obituary</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/slideshow/2011/07/21/arts/design/Lucianfreudss.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/07/21/arts/design/Lucianfreudss-slide-ZBFY/Lucianfreudss-slide-ZBFY-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay slideshow">Slide Show</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/slideshow/2011/07/21/arts/design/Lucianfreudss.html?ref=obituaries">
+The Paintings of Lucian Freud</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Mr. Freud, a grandson of Sigmund Freud, did paintings of nudes that evoked raves. He was dubbed “the greatest living realist” by one art critic in the late 1980s.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/07/22/arts/lucian-freud-adept-portraiture-artist-dies-at-88.html">Related Obituary</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/slideshow/2011/07/06/arts/cy-twombly-art.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/07/06/arts/20110706_TWOMBY-slide-WXRD/20110706_TWOMBY-slide-WXRD-thumbWide.jpg" width="190" height="126" alt="Cy Twombly's "Untitled" from 2007. He once described his work as "more like I’m having an experience than making a picture."" border="0" />
+<span class="mediaOverlay slideshow">Slide Show</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/slideshow/2011/07/06/arts/cy-twombly-art.html?ref=obituaries">
+The Art of Cy Twombly</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Cy Twombly’s career slyly subverted Abstract Expressionism, toyed briefly with Minimalism, seemed barely to acknowledge Pop art and anticipated some of the concerns of Conceptualism.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/07/06/arts/cy-twombly-american-artist-is-dead-at-83.html">Related Obituary</a> </li>
+</ul>
+</div>
+</div>
+<div class="columnGroup singleRule ">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://video.nytimes.com/video/2011/03/26/obituaries/1194826919047/lwferraro.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/video/1776/07/04/2925_1_lwferraro_190x126.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay video">Video</span>
+</a>
+</div>
+<h5><a href="http://video.nytimes.com/video/2011/03/26/obituaries/1194826919047/lwferraro.html?ref=obituaries">
+Last Word: Geraldine A. Ferraro</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+In 1984, Geraldine A. Ferraro became the first woman nominated for national office by a major party.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/03/27/us/politics/27geraldine-ferraro.html"> Related Obituary</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup singleRule last">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/2011/03/24/movies/elizabeth-taylor-obituary.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2011/03/24/obituaries/24taylor/24taylor-thumbWide.jpg" width="190" height="126" alt="Elizabeth Taylor in 1957." border="0" />
+</a>
+</div>
+<h6 class="kicker">Elizabeth Taylor, 1932-2011</h6>
+<h5><a href="http://www.nytimes.com/2011/03/24/movies/elizabeth-taylor-obituary.html?ref=obituaries">
+A Lustrous Pinnacle of Hollywood Glamour</a></h5>
+<h6 class="byline">
+By MEL GUSSOW            </h6>
+<p class="summary">
+Elizabeth Taylor, whose name was synonymous with Hollywood glamour, dazzled generations of moviegoers with her beauty.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/interactive/2011/03/23/movies/20110323_ELIZABETHTYALOR_TIMELINE.html?ref=movies"><img src="http://graphics8.nytimes.com/images/multimedia/icons/interactive_icon.gif" alt="Interactive" width="9" height="9" border="0"> Interactive Timeline</a> | <a href="http://www.nytimes.com/slideshow/2011/03/23/movies/20110323_ELIZABETH_TAYLOR.html?ref=movies"><img src="http://graphics8.nytimes.com/images/multimedia/icons/photo_icon.gif" alt="Photographs" width="12" height="10" border="0"> Slide Show</a></li>
+<li><a href="http://video.nytimes.com/video/2011/03/23/movies/100000000740860/eliz-taylor-obit.html"><span class="icon video">Video</span>: Looking Back at Elizabeth Taylor</a>
+</li>
+<li><a href="http://video.nytimes.com/video/2010/01/11/movies/1247466485328/who-s-afraid-of-virginia-woolf.html" target="_blank"><img src="http://graphics.nytimes.com/images/multimedia/icons/video_icon.gif" alt="Video" width="12" height="9" border="0"> Critics' Picks: 'Who's Afraid of Virginia Woolf'</a></li>
+<li><a href="http://cityroom.blogs.nytimes.com/2011/03/23/elizabeth-taylors-new-york/?hp">Elizabeth Taylor's New York</a> | <a href="http://topics.nytimes.com/top/reference/timestopics/people/t/elizabeth_taylor/index.html">Times Topics</a></li>
+<li><a href="http://www.nytimes.com/2011/03/24/fashion/24LIZSTYLE.html">An Alluring Beauty Exempt From Fashion’s Rules</a></li>
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000000739686" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/03/24/movies/elizabeth-taylor-obituary.html"></span></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<h6 class="sectionHeader">From the Magazine</h6>
+<div class="columnGroup first">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/2010/12/26/magazine/2010lives.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2010/12/26/magazine/GeorgeSteinbrenner290.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay interactive">Interactive Feature</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/interactive/2010/12/26/magazine/2010lives.html?ref=obituaries">
+The Lives They Lived</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A collection of narratives that celebrate lives.</p>
+</div>
+</div>
+<div class="columnGroup singleRule last">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://video.nytimes.com/video/2010/12/21/magazine/1248069471839/the-music-they-made.html?ref=obituaries">
+<img src="http://graphics8.nytimes.com/images/2010/12/21/magazine/10787_1_music-made_190x126.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay video">Video</span>
+</a>
+</div>
+<h5><a href="http://video.nytimes.com/video/2010/12/21/magazine/1248069471839/the-music-they-made.html?ref=obituaries">
+The Music They Made</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A sound-collage-and-video tribute to musicians who died in 2010. </p>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">From the Archives</h6><div class="story"><h5><a href="http://www.nytimes.com/learning/general/onthisday/bday/0802.html">
+James Baldwin, Eloquent Civil Rights Writer, Dies at 63</a> </h5><p class="summary">(Dec. 1, 1987)</p></div>
+<div class="story"><h5><a href="http://www.nytimes.com/learning/general/onthisday/bday/0927.html">
+Admiral Mahan, Naval Critic, Dies at 74</a> </h5><p class="summary">(Dec. 1, 1917)</p></div>
+<div class="story"><h5><a href="http://www.nytimes.com/learning/general/onthisday/bday/1113.html">
+Robert Louis Stevenson, Author of 'Treasure Island,' Dies at 44</a> </h5><p class="summary">(Dec. 3, 1894)</p></div>
+<div class="story"><h5><a href="http://www.nytimes.com/1992/12/09/obituaries/william-shawn-85-is-dead-new-yorker-s-gentle-despot.html">
+William Shawn, New Yorker's Gentle Despot, Dies at 85</a> </h5><p class="summary">(Dec. 8, 1992)</p></div>
+<div class="story"><h5><a href="http://www.nytimes.com/learning/general/onthisday/bday/0807.html">
+Ralph Bunche, Nobel Winner, Dies at 67</a> </h5><p class="summary">(Dec. 9, 1971)</p></div>
+<div class="story"><h5><a href="http://www.nytimes.com/learning/general/onthisday/bday/1220.html">
+Branch Rickey, Dominant Baseball Figure, Dies at 83</a> </h5><p class="summary">(Dec. 9, 1965)</p></div>
+<div class="story"><h5><a href="http://www.nytimes.com/learning/general/onthisday/bday/0907.html">Indomitable Grandma Moses Dies at 101</a> </h5><p class="summary">(Dec. 13, 1961)</p></div>
+<div class="story"><h5><a href="http://www.nytimes.com/learning/general/onthisday/bday/0118.html">
+Thomas Watson, Manufacturer of First Phone, Dies at 80</a> </h5><p class="summary">(Dec. 13 , 1934)</p></div>
+<div class="story"><h5><a href="http://www.nytimes.com/learning/general/onthisday/bday/0910.html">
+Roger Maris, Home Run Record-Setter, Dies at 51</a> </h5><p class="summary">(Dec. 14, 1985)</p></div>
+<div class="story"><h5><a href="http://www.nytimes.com/learning/general/onthisday/bday/0808.html">
+Marjorie Kinnan Rawlings, Pulitzer Prize-Winning Author, Dies at 57</a> </h5><p class="summary">(Dec. 14, 1953)</p></div>
+<div class="story"><h5><a href="http://www.nytimes.com/learning/general/onthisday/bday/1205.html">
+Walt Disney, Who Founded an Empire on a Mouse, Dies at 65</a> </h5><p class="summary">(Dec. 15, 1966)</p></div>
+<div class="story"><h5><a href="http://www.nytimes.com/learning/general/onthisday/bday/1109.html">
+Astronomer Carl Sagan Dies at 62</a> </h5><p class="summary">(Dec. 20, 1996)</p></div>
+<div class="story"><h5><a href="http://www.nytimes.com/learning/general/onthisday/bday/0924.html">
+F. Scott Fitzgerald, Novelist, Dies at 44</a> </h5><p class="summary">(Dec. 21, 1940)</p></div>
+<div class="story"><h5><a href="http://www.nytimes.com/learning/general/onthisday/bday/1111.html">
+George Patton, a Brilliant Soldier, Dies at 60</a> </h5><p class="summary">(Dec. 21, 1945)</p></div>
+<div class="story"><h5><a href="http://www.nytimes.com/learning/general/onthisday/bday/1210.html">
+Melvil Dewey, Inventor of Library Classification System, Dies at 80</a> </h5><p class="summary">(Dec. 26, 1931)</p></div>
+<div class="story"><h5><a href="http://www.nytimes.com/learning/general/onthisday/bday/0628.html">
+Richard Rodgers, Renowned Composer, Dies at 77</a> </h5><p class="summary">(Dec. 30, 1979)</p></div>
+<div class="story"><h5><a href="http://www.nytimes.com/learning/general/onthisday/bday/0818.html">
+Star Outfielder Roberto Clemente Dies at 38</a> </h5><p class="summary">(Dec. 31, 1972)</p></div>
+<div class="story"><h5><a href="http://www.nytimes.com/2000/01/01/us/elliot-richardson-dies-79-stood-up-nixon-resigned-saturday-night-massacre.html"> Elliot Richardson, Who Stood Up to Nixon, Dies at 79</a> </h5><p class="summary">(Dec. 31, 1999)</p></div>    
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">Talk to the Newsroom</h6><div class="story">
+<h3><a href="?ref=obituaries">
+</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Members of the Obituaries staff answer questions about the pleasures and difficulties of covering death. </p>
+<ul class="refer">
+<li><li><a href="http://www.nytimes.com/2008/09/22/business/media/22askthetimes.html">Talk to the Newsroom: Obituaries Staff Writer Bruce Weber </a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup doubleRule last">
+
+<div class="singleAd" id="Right1">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/obituaries/index.html&pos=Right1&sn2=d3499ee/b5c1ba2d&sn1=38d43609/ab3147cd&camp=nyt2011-circ-120x90-weekender-36H38&ad=071511-120x90-weekender-36H38&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DWC7AA%26CMP%3D36H38" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/13/ad.271312/11-0920_HDWeekender2_120x90.jpg" width="120" height="90" border="0"></a>
+
+</div>
+
+
+</div>
+</div><!--close .bColumn -->
+</div><!--close .abColumn -->
+<div class="cColumn">
+<!--Ads  -->                    <div class="columnGroup first">
+
+</div>
+<!--Ads Ads -->                    <div class="columnGroup ">
+
+			
+<div class="bigAd" id="SFMiddle">
+<!-- ADXINFO classification="bigad" campaign="Citi_NatContContextAddress_1778555-nyt1"--><script language="JavaScript" type="text/javascript" src="http://view.atdmt.com/NYC/jview/359855727/direct;wi.300;hi.250;pc.172969_282783/01/2011.12.02.18.04.31?click=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fadx%2Fbin%2Fadx%5Fclick%2Ehtml%3Ftype%3Dgoto%26opzn%26page%3Dwww.nytimes.com/pages/obituaries/index.html%26pos%3DSFMiddle%26camp%3DCiti%5FNatContContextAddress%5F1778555%2Dnyt1%26ad%3Datlas%2D359855727%5F300x250%5FROS%26sn2%3D76fbbeaf/5992cc51%26snr%3Ddoubleclick%26snx%3D1322848264%26sn1%3Ddf51d496%2F2bd5d43a%26goto%3D">
+</script><noscript><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/obituaries/index.html&pos=SFMiddle&sn2=76fbbeaf/5992cc51&sn1=e849ee2e/f8a3456d&camp=Citi_NatContContextAddress_1778555-nyt1&ad=atlas-359855727_300x250_ROS&goto=http%3A%2F%2Fclk%2Eatdmt%2Ecom%2FNYC%2Fgo%2F359855727%2Fdirect%3Bwi%2E300%3Bhi%2E250%3Bpc%2E172969%5F282783%2F01%2F2011.12.02.18.04.31%2F" target="_blank"><img border="0" src="http://view.atdmt.com/NYC/view/359855727/direct;wi.300;hi.250;pc.172969_282783/01/2011.12.02.18.04.31/" /></a></noscript>
+</div>
+
+
+
+
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<div class="singleRuleDivider"></div>
+<h4 class="sectionHeader">Death Notices</h4>
+<div class="story">
+<p class="summary">
+Search Legacy.com for all <strong><a href="http://www.legacy.com/NYTimes/">paid death notices</a></strong> from The New York Times.
+</p><p>
+Announcements of deaths may be telephoned from within New York City to (212) 556-3900; outside the city to toll-free 1-800-458-5522; or online by  <strong><a href="https://advertising.nytimes.com/irj/go/nyt/prtroot/fwk/classified" target="new">going to this page</a></strong> and selecting "In Memoriam." Deadlines for publication are:</p>
+<ul>
+<li>Until 5:30 p.m. the day before for Tuesday through Saturday editions,</li>
+<li>Until 5 p.m. on Friday for Sunday’s national edition,</li>
+<li>Until 12:45 p.m. Saturday for Sunday’s New York edition,</li>
+<li>Until 2 p.m. Sunday for Monday’s editions.</li></ul>
+<p>Photos must be submitted by noon the day prior to publication Tuesday through Friday. Photos for Saturday, Sunday and Monday must be submitted by 12 noon on Friday.</p>
+</div>        	</div>
+<!--Ads Simple -->                    <div class="columnGroup ">
+			
+
+<div class="bigAd" id="Box1">
+<!-- ADXINFO classification="Module" campaign="nyt2011_module_movies_dude_film_hp_ros_db"--><!-- MARKETING MODULE -->
+<div style="border:solid #999;border-width:1px;font-family:Arial,sans-serif;text-align:left; width:334px;background:#fff;" class="clearfix wrap">
+  <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/obituaries/index.html&pos=Box1&sn2=c52cb6fd/af9af919&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/2011/12/01/is-it-the-year-of-the-dude-film/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-PH%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm11/movies_120211.jpg" width="334" height="154" border="0" alt=""></a> 
+  <div style="padding:7px 9px 0;background:#fff">
+      <h2 style="font-size:22px;line-height:24px; margin:0;padding:0 0 4px;"><a style="color:#004276;" target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/obituaries/index.html&pos=Box1&sn2=c52cb6fd/af9af919&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/2011/12/01/is-it-the-year-of-the-dude-film/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-HDR%26WT.mc_ev=click%26WT.mc_c=175075">Is it the year of the dude film?</a></h2>
+
+      <p style="margin:0 0 3px; padding:0;font-size: 11px;"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/obituaries/index.html&pos=Box1&sn2=c52cb6fd/af9af919&sn1=9f65a43f/6fae85ce&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://nytimes.com/movies/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-URL%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank" style="font-size:11px;margin:3px 0;padding:0;font-family:Arial,sans-serif;  color:#000; text-transform:uppercase;">Also in Movies &raquo;</a></p>
+      <ul style="font-size:12px;margin:0; padding-bottom: 10px; border-bottom:1px solid #ccc;" class="refer">
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/obituaries/index.html&pos=Box1&sn2=c52cb6fd/af9af919&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/2011/11/29/patton-oswalt-steals-the-scene-at-gotham-awards/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-L1%26WT.mc_ev=click%26WT.mc_c=175075" style="color: #004276">All about the Gotham Awards</a></li>
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/obituaries/index.html&pos=Box1&sn2=c52cb6fd/af9af919&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-L2%26WT.mc_ev=click%26WT.mc_c=175075" style="color: #004276">Awards season from The Carpetbagger</a></li>
+      </ul>
+    </div>
+ 
+ <div style="padding:5px 9px; float:left; width:316px; background:#fff"> <a style="float:left" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/obituaries/index.html&pos=Box1&sn2=c52cb6fd/af9af919&sn1=9f65a43f/6fae85ce&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://nytimes.com/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-LOGO%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/nytimes.gif" alt="nytimes.com" width="116" height="18" border="0"></a><a style="float:right" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/obituaries/index.html&pos=Box1&sn2=c52cb6fd/af9af919&sn1=9f65a43f/6fae85ce&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://nytimes.com/movies/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-VRT%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/verticals_movies.gif" alt="Movies" width="120" height="18" border="0"></a></div><br clear="all">
+
+</div>
+  <!-- /MARKETING MODULE -->
+
+
+</div>
+
+
+<div class="singleAd" id="Middle5">
+<!-- ADXINFO classification="FeaturedProduct" campaign="nyt2011_tmag_winter_travel_336x79_ros"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/obituaries/index.html&pos=Middle5&sn2=4955a961/21a82fba&sn1=b795d039/3f1e2fb3&camp=nyt2011_tmag_winter_travel_336x79_ros&ad=TM-D-I-NYT-AD-FP-WTI-ROS-1111-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Findexes%2F2011%2F11%2F18%2Ft%2Dmagazine%2Ftravel%2Dissue%2Findex%2Ehtml%3FWT%2Emc%5Fid%3DTM%2DD%2DI%2DNYT%2DAD%2DFP%2DWTI%2DROS%2D1111%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D174077" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/28/44/ad.284409/TMag_Travel_336x79.jpg" width="336" height="79" border="0"></a>
+
+</div>
+
+
+
+<!--[TwoColumnAdLeft - Begin] -->
+	<div class="adHeader">
+<h4>
+Advertisements	    </h4>
+</div>
+<div class="cColumn-TextAdsBox">
+	<div class="cColumn-TextAdsLeft">
+<div class="cColumn-TextAd">
+<!-- ADXINFO classification="SiteForADay" campaign="nyt2011-mktg-arts_and_ents-s4d_ros"--><div style="width:320px; height:60px;"> 
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/obituaries/index.html&pos=Right5A&sn2=e5ac11e/933661d7&sn1=6a1102ca/9e7f5eda&camp=nyt2011-mktg-arts_and_ents-s4d_ros&ad=AR-D-I-NYT-AD-S4D-AandE-ROS-1211-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fevents%2Findex%2Ehtml%3FWT%2Emc%5Fid%3DAR%2DD%2DI%2DNYT%2DAD%2DS4D%2DAandE%2DROS%2D1211%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D175108" target="_blank"> 
+<img style="float:left; margin-right:10px;" src="http://graphics8.nytimes.com/adx/images/ADS/28/59/ad.285977/11-2187_ArtsEntertainment_86x60.gif" width="86" height="60" border="0" style="vertical-align:text-top;"></a>
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/obituaries/index.html&pos=Right5A&sn2=e5ac11e/933661d7&sn1=6a1102ca/9e7f5eda&camp=nyt2011-mktg-arts_and_ents-s4d_ros&ad=AR-D-I-NYT-AD-S4D-AandE-ROS-1211-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fevents%2Findex%2Ehtml%3FWT%2Emc%5Fid%3DAR%2DD%2DI%2DNYT%2DAD%2DS4D%2DAandE%2DROS%2D1211%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D175108" target="_blank">  <br />Introducing: The Interactive Arts & Entertainment Guide</a>
+</div>
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+</div>
+	</div>
+<!--[TwoColumnAdLeft - End] -->
+<div class="advertisementColumnGroup">
+<!--[MarketPlaceGridAd - Begin] -->
+
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+    <!--[MarketPlaceGridAd - End] -->
+</div>
+</div>
+<!--Ads Ads -->                    <div class="columnGroup last">
+
+<div class="singleAd" id="Feature1">
+<!-- ADXINFO classification="hp-module" campaign="feature1-CanyonRanch-1764607-cla"--><!--Ad Template Begins Here -->
+<div class="story advertisement">
+<div class="callout">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/obituaries/index.html&pos=Feature1&sn2=49daa1ca/5a046f98&sn1=5e1dcb15/121849b2&camp=feature1-CanyonRanch-1764607-cla&ad=3.11.11-CanyonRanch-173x98-SFM&goto=http%3A%2F%2Fwww%2Ecanyonranchlivingmiamibeach%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/26/01/ad.260145/2.9.11_173x98.jpg"" width="173" height="98" border="0" alt="Photo"></a>
+</div>
+<h5>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/obituaries/index.html&pos=Feature1&sn2=49daa1ca/5a046f98&sn1=5e1dcb15/121849b2&camp=feature1-CanyonRanch-1764607-cla&ad=3.11.11-CanyonRanch-173x98-SFM&goto=http%3A%2F%2Fwww%2Ecanyonranchlivingmiamibeach%2Ecom" target="_blank"></a>
+</h5>
+<p class="summary"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/obituaries/index.html&pos=Feature1&sn2=49daa1ca/5a046f98&sn1=5e1dcb15/121849b2&camp=feature1-CanyonRanch-1764607-cla&ad=3.11.11-CanyonRanch-173x98-SFM&goto=http%3A%2F%2Fwww%2Ecanyonranchlivingmiamibeach%2Ecom" target="_blank"><font size=1>A life of wellness is just a click away.  One to to three bedrooms from the 400s to over $3MM.</font></a>
+</p>
+<div class="adCreative">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/obituaries/index.html&pos=Feature1&sn2=49daa1ca/5a046f98&sn1=5e1dcb15/121849b2&camp=feature1-CanyonRanch-1764607-cla&ad=3.11.11-CanyonRanch-173x98-SFM&goto=http%3A%2F%2Fwww%2Ecanyonranchlivingmiamibeach%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/26/01/ad.260145/2.9.11_logo.gif" width="78" height="36"></a>
+</div>
+
+<p class="summary"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/obituaries/index.html&pos=Feature1&sn2=49daa1ca/5a046f98&sn1=5e1dcb15/121849b2&camp=feature1-CanyonRanch-1764607-cla&ad=3.11.11-CanyonRanch-173x98-SFM&goto=http%3A%2F%2Fwww%2Ecanyonranchlivingmiamibeach%2Ecom" target="_blank"><font size=1>CANYONRANCHLIVINGMIAMIBEACH.COM</font></a>
+</p>
+</div>
+<!--Ad Template Ends Here -->
+</div>
+
+
+</div>
+</div><!--close cColumn -->
+</div><!--close wideA -->
+</div><!--close spanAB -->
+</div><!--close main -->
+<div id="footer">
+<ul class="first">
+<li class="first"><a href="http://www.nytimes.com">Home</a></li>
+<li >
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li>
+<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+</ul>    <ul>
+<li class="first"><a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&copy; 2011</a> <a href="http://www.nytco.com/">The New York Times Company</a></li>
+<li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Terms of Service</a></li>
+<li class="termsOfSale"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+<li><a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a></li>
+<li><a class="rssButton" href="http://www.nytimes.com/rss">RSS</a></li>
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+<li><a href="http://www.nytco.com/careers">Work for Us</a></li>
+<li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+</ul>
+</div>
+</div><!--close page -->
+</div><!--close shell -->
+
+
+
+
+
+
+
+<IMG SRC="/adx/bin/clientside/34d7fb00Q2FT5rO9,HRQ2A5X(Q51IQ51(nMQ24Q3CImRQ24O" height="1" width="3">
+
+<script type="text/javascript" language="JavaScript">
+// Written by /usr/local/knews/bin/commentcount.pl Fri Dec  2 13:02:02 2011
+var NYTArticleCommentCounts = {
+"100000001190843":{count:147, commentsEnabled:false},
+"100000001190858":{count:204, commentsEnabled:false},
+"100000001190907":{count:49, commentsEnabled:false},
+"100000001191255":{count:237, commentsEnabled:false},
+"100000001191704":{count:133, commentsEnabled:false},
+"100000001191724":{count:100, commentsEnabled:false},
+"100000001191950":{count:122, commentsEnabled:false},
+"100000001192133":{count:307, commentsEnabled:false},
+"100000001192329":{count:76, commentsEnabled:false},
+"100000001190961":{count:19, commentsEnabled:false},
+"100000001177231":{count:1, commentsEnabled:true},
+"100000001177245":{count:74, commentsEnabled:true},
+"100000001179958":{count:24, commentsEnabled:false},
+"100000001180322":{count:227, commentsEnabled:true},
+"100000001183078":{count:44, commentsEnabled:false},
+"100000001183080":{count:327, commentsEnabled:false},
+"100000001183081":{count:7, commentsEnabled:false},
+"100000001183084":{count:235, commentsEnabled:false},
+"100000001183087":{count:11, commentsEnabled:false},
+"100000001183089":{count:14, commentsEnabled:false},
+"100000001183090":{count:11, commentsEnabled:false},
+"100000001183091":{count:3, commentsEnabled:false},
+"100000001183094":{count:14, commentsEnabled:false},
+"100000001184186":{count:79, commentsEnabled:false},
+"100000001184524":{count:149, commentsEnabled:false},
+"100000001186117":{count:1, commentsEnabled:false},
+"100000001186193":{count:12, commentsEnabled:true},
+"100000001186569":{count:190, commentsEnabled:false},
+"100000001189184":{count:49, commentsEnabled:false},
+"100000001190721":{count:71, commentsEnabled:false},
+"100000001191577":{count:224, commentsEnabled:false},
+"100000001191688":{count:28, commentsEnabled:false},
+"100000001191719":{count:107, commentsEnabled:false},
+"100000001191931":{count:121, commentsEnabled:false},
+"100000001191985":{count:110, commentsEnabled:false},
+"100000001192057":{count:211, commentsEnabled:false},
+"100000001192188":{count:141, commentsEnabled:false},
+"100000001192496":{count:52, commentsEnabled:false},
+"100000001192500":{count:206, commentsEnabled:false},
+"100000001192600":{count:224, commentsEnabled:false},
+"100000001192611":{count:167, commentsEnabled:false},
+"100000001193250":{count:67, commentsEnabled:false},
+"100000001193262":{count:37, commentsEnabled:false},
+"100000001193344":{count:98, commentsEnabled:false},
+"100000001193527":{count:27, commentsEnabled:false},
+"100000001193629":{count:10, commentsEnabled:false},
+"100000001193702":{count:17, commentsEnabled:false},
+"100000001193743":{count:108, commentsEnabled:false},
+"100000001193763":{count:516, commentsEnabled:false},
+"100000001193825":{count:86, commentsEnabled:false},
+"100000001193857":{count:48, commentsEnabled:false},
+"100000001193859":{count:160, commentsEnabled:false},
+"100000001193890":{count:117, commentsEnabled:false},
+"100000001193920":{count:44, commentsEnabled:false},
+"100000001193944":{count:303, commentsEnabled:false},
+"100000001193948":{count:7, commentsEnabled:false},
+"100000001194088":{count:51, commentsEnabled:false},
+"100000001194098":{count:17, commentsEnabled:true},
+"100000001194137":{count:109, commentsEnabled:false},
+"100000001194342":{count:159, commentsEnabled:false},
+"100000001194394":{count:68, commentsEnabled:false},
+"100000001194454":{count:36, commentsEnabled:false},
+"100000001194795":{count:192, commentsEnabled:false},
+"100000001194808":{count:628, commentsEnabled:false},
+"100000001194892":{count:125, commentsEnabled:false},
+"100000001195360":{count:33, commentsEnabled:false},
+"100000001195689":{count:178, commentsEnabled:false},
+"100000001195802":{count:10, commentsEnabled:false},
+"100000001195854":{count:304, commentsEnabled:false},
+"100000001195914":{count:48, commentsEnabled:false},
+"100000001195920":{count:17, commentsEnabled:false},
+"100000001195923":{count:44, commentsEnabled:false},
+"100000001195938":{count:138, commentsEnabled:false},
+"100000001195940":{count:10, commentsEnabled:false},
+"100000001195947":{count:92, commentsEnabled:false},
+"100000001195952":{count:162, commentsEnabled:false},
+"100000001195976":{count:141, commentsEnabled:false},
+"100000001195982":{count:283, commentsEnabled:false},
+"100000001196229":{count:42, commentsEnabled:false},
+"100000001196250":{count:104, commentsEnabled:true},
+"100000001196432":{count:333, commentsEnabled:false},
+"100000001196658":{count:42, commentsEnabled:false},
+"100000001196737":{count:28, commentsEnabled:true},
+"100000001196861":{count:18, commentsEnabled:false},
+"100000001196955":{count:71, commentsEnabled:true},
+"100000001196963":{count:143, commentsEnabled:false},
+"100000001197064":{count:68, commentsEnabled:false},
+"100000001197489":{count:3, commentsEnabled:false},
+"100000001197999":{count:75, commentsEnabled:false},
+"100000001198014":{count:290, commentsEnabled:false},
+"100000001198050":{count:69, commentsEnabled:true},
+"100000001198076":{count:32, commentsEnabled:true},
+"100000001198092":{count:204, commentsEnabled:false},
+"100000001198110":{count:424, commentsEnabled:false},
+"100000001198123":{count:343, commentsEnabled:false},
+"100000001198126":{count:62, commentsEnabled:false},
+"100000001198138":{count:163, commentsEnabled:false},
+"100000001198377":{count:143, commentsEnabled:true},
+"100000001198446":{count:23, commentsEnabled:true},
+"100000001198471":{count:52, commentsEnabled:true},
+"100000001198476":{count:157, commentsEnabled:true},
+"100000001198581":{count:48, commentsEnabled:true},
+"100000001198642":{count:253, commentsEnabled:false},
+"100000001199366":{count:136, commentsEnabled:true},
+"100000001199374":{count:114, commentsEnabled:true},
+"100000001199444":{count:155, commentsEnabled:false},
+"100000001199658":{count:4, commentsEnabled:true},
+"100000001200046":{count:884, commentsEnabled:true},
+"100000001200335":{count:165, commentsEnabled:false},
+"100000001200378":{count:192, commentsEnabled:false},
+"100000001200458":{count:77, commentsEnabled:false},
+"100000001200844":{count:23, commentsEnabled:true},
+"100000001201276":{count:88, commentsEnabled:true},
+"100000001201525":{count:188, commentsEnabled:true},
+"100000001202361":{count:0, commentsEnabled:true},
+"100000001202521":{count:27, commentsEnabled:true},
+"100000001202701":{count:270, commentsEnabled:false},
+"100000001202807":{count:17, commentsEnabled:true},
+"100000001202815":{count:116, commentsEnabled:false},
+"100000001202831":{count:232, commentsEnabled:true},
+"100000001202861":{count:95, commentsEnabled:true},
+"100000001202869":{count:39, commentsEnabled:true},
+"100000001202871":{count:23, commentsEnabled:true},
+"100000001202889":{count:54, commentsEnabled:true},
+"100000001202895":{count:33, commentsEnabled:true},
+"100000001202901":{count:90, commentsEnabled:true},
+"100000001203208":{count:19, commentsEnabled:true},
+"100000001203416":{count:220, commentsEnabled:true},
+"100000001203664":{count:0, commentsEnabled:true},
+"100000001188908":{count:16, commentsEnabled:true},
+"100000001194403":{count:0, commentsEnabled:true},
+"100000001194404":{count:0, commentsEnabled:true},
+"100000001194405":{count:71, commentsEnabled:true},
+"100000001194406":{count:0, commentsEnabled:true},
+"100000001194419":{count:1, commentsEnabled:true},
+"100000001194423":{count:58, commentsEnabled:true},
+"100000001194424":{count:0, commentsEnabled:true},
+"100000001194425":{count:0, commentsEnabled:true},
+"100000001194427":{count:0, commentsEnabled:true},
+"100000001194843":{count:51, commentsEnabled:true},
+"100000001197746":{count:1, commentsEnabled:true},
+"100000001201815":{count:0, commentsEnabled:true},
+"100000001201989":{count:0, commentsEnabled:true}
+};
+</script>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/homepage/articleCommentCounts.js"></script>
+<script type="text/javascript" language="JavaScript">
+    ArticleCommentCounts.apply()
+    </script>
+
+			
+		<!-- Start UPT call -->
+		<img height="1" width="3" border=0 src="http://up.nytimes.com/?d=0/33/&t=3&s=0&ui=&r=&u=www%2enytimes%2ecom%2fpages%2fobituaries%2findex%2ehtml%3f">
+		<!-- End UPT call -->
+	
+		
+        <script language="JavaScript"><!--
+          var dcsvid="";
+          var regstatus="non-registered";
+        //--></script>
+        <script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+        <noscript>
+          <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div>
+        </noscript>
+   
+</body>
+</html>

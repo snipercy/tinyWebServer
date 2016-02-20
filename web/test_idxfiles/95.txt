@@ -1,0 +1,510 @@
+Last-modified: Fri, 02 Dec 2011 14:24:47 GMT
+Accept-ranges: bytes
+Connection: close
+
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="swfobject.js"></script>
+<title>New York Times Company</title>
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" media="print" href="blank.css" />
+<style type="text/css" media="screen">
+		@import "style.css";
+	</style>
+<link href="print.css" rel="stylesheet" type="text/css" media="print" />
+<script type="text/javascript">
+
+var activePos = 0;
+var mediaPos = 1;
+var mediaSite = 3;
+
+promoImage = new Array ();
+<!-- image source
+promoImage[0] = "images/promoImage_1b.jpg";
+promoImage[1] = "images/promoImage_2b.jpg";
+promoImage[2] = "images/promoImage_3b.jpg";
+
+	function switchImage(pos){
+		if(activePos == pos){
+			var button = "btn" + pos;
+			document.getElementById(button).style.backgroundPosition = "0px -44px";
+		}
+		else{
+			var button = "btn" + pos;
+			document.getElementById(button).style.backgroundPosition = "0px -22px";		
+		}
+	}
+	
+	function switchBack(pos) { 
+		if(activePos == pos){
+			var button = "btn" + pos;
+			document.getElementById(button).style.backgroundPosition = "0px -44px";
+		}
+		else{
+			var button = "btn" + pos;
+			document.getElementById(button).style.backgroundPosition = "0px 0px";		
+		}	
+	
+	}
+
+	function setActive(pos){ 
+		document.getElementById('homePromo').style.backgroundImage = "url('" + promoImage[pos-1] + "')";
+		document.getElementById('homePromo').style.backgroundRepeat = "no-repeat";
+		
+		
+			//set active button
+			for(i=1; i<=3; i++){
+				if(i == pos){
+					var button = "btn" + i;
+					document.getElementById(button).style.backgroundPosition = "0px -44px";
+					activePos = pos;
+				}
+				else {
+					var button = "btn" + i;
+					document.getElementById(button).style.backgroundPosition = "0px 0px";			
+				}
+			}
+		
+	}
+	
+	function setMediaActive(pos){ 
+		/*
+		document.getElementById('homePromo').style.backgroundImage = "url('" + promoImage[pos-1] + "')";
+		document.getElementById('homePromo').style.backgroundRepeat = "no-repeat";
+		*/
+		
+		if(pos == 1 || pos == 2){
+			//set active button
+			for(i=1; i<=2; i++){
+				if(i == pos){
+					var mediaNav = "mediaNav" + i;
+					document.getElementById(mediaNav).style.backgroundPosition = "0px -52px";
+					mediaPos = pos;
+				}
+				else {
+					var mediaNav = "mediaNav" + i;
+					document.getElementById(mediaNav).style.backgroundPosition = "0px 0px";			
+				}
+			}
+			updateContent();
+			
+		}
+		else{
+			//set active button
+			for(i=3; i<=4; i++){
+				if(i == pos){
+					var mediaNav = "mediaNav" + i;
+					document.getElementById(mediaNav).style.backgroundPosition = "0px -52px";
+					mediaSite = pos;
+				}
+				else {
+					var mediaNav = "mediaNav" + i;
+					document.getElementById(mediaNav).style.backgroundPosition = "0px 0px";			
+				}
+			}	
+			updateContent();
+		}		
+			
+	}
+	
+	function updateContent(){
+		switch (mediaPos){
+			case 1: /*Podcasts*/
+				/*NYTimes.com*/
+				if(mediaSite == 3){
+					document.getElementById("podcastBlogArea").innerHTML = "<h4>Featured Podcast</h4><b>Book Review Podcast</b><br /><p>Every week, Book Review Editor Sam Tanenhaus talks to authors, editors, critics and senior editor and best-seller columnist Dwight Garner about new books.</p>";
+					document.getElementById("nytimesPodcasts").style.backgroundImage = "url('images/hdr_NYTimes_Podcasts.gif')";
+
+					document.getElementById("hbottomNav3").innerHTML = "<ul><li><a href='http://www.nytimes.com/ref/books/books-podcast-archive.html' target='_blank' class='btn_Podcast'><span>PODCAST</span></a></li><li>&nbsp;&nbsp; | &nbsp;&nbsp;<a href='http://www.nytimes.com/ref/multimedia/podcasts.html' target='_blank'>More Podcasts</a></li></ul>	";
+
+
+
+				}
+				/*Boston.com*/
+				else{
+					document.getElementById("podcastBlogArea").innerHTML = "<h4>Featured Podcast</h4><b>Page One Podcasts</b><br /><p>A summary of the top stories each day<br />from the Boston Globe.</p>";	
+					document.getElementById("nytimesPodcasts").style.backgroundImage = "url('images/hdr_Boston_Podcasts.gif')";		
+
+					document.getElementById("hbottomNav3").innerHTML = "<ul><li><a href='http://www.boston.com/news/podcasts/?p1=Bottom_Plus_Podcasts#pageone' target='_blank' class='btn_Podcast'><span>PODCAST</span></a></li><li>&nbsp;&nbsp; | &nbsp;&nbsp;<a href='http://www.boston.com/news/podcasts/' target='_blank'>More Podcasts</a></li></ul>	";
+	
+				}
+
+				
+				break;
+			case 2: /*Blogs*/
+				/*NYTimes.com*/
+				if(mediaSite == 3){
+					document.getElementById("podcastBlogArea").innerHTML = "<h4>Featured Blog</h4><b>Bits Blog</b><br /><p>Insights and discoveries about technology from Times reporters in Silicon Valley and beyond.</p>";	
+					document.getElementById("nytimesPodcasts").style.backgroundImage = "url('images/hdr_NYTimes_Blogs.gif')";	
+
+					document.getElementById("hbottomNav3").innerHTML = "<ul><li><a href='http://bits.blogs.nytimes.com/' target='_blank' class='btn_Blog'><span>BLOG</span></a></li><li>&nbsp;&nbsp; | &nbsp;&nbsp;<a href='http://www.nytimes.com/ref/topnews/blog-index.html' target='_blank'>More Blogs</a></li></ul>	";
+				}
+				/*Boston.com*/
+				else{
+					document.getElementById("podcastBlogArea").innerHTML = "<h4>Featured Blog</h4><b>Mazz</b><br /><p>The Tony Massarotti Sports Blog featuring Red Sox, Bruins, Patriots and Celtics analysis on Boston.com.</p>";	
+					document.getElementById("nytimesPodcasts").style.backgroundImage = "url('images/hdr_Boston_Blogs.gif')";	
+
+					document.getElementById("hbottomNav3").innerHTML = "<ul><li><a href='http://www.boston.com/sports/columnists/massarotti/' target='_blank' class='btn_Blog'><span>BLOG</span></a></li><li>&nbsp;&nbsp; | &nbsp;&nbsp;<a href='http://www.boston.com/news/blogs/' target='_blank'>More Blogs</a></li></ul>	";
+				}
+
+				break;
+		}
+
+	
+	}
+	
+	
+	function switchMediaImage(pos){
+		if(mediaPos == pos || mediaSite == pos){
+			/*var button = "btn" + pos;
+			document.getElementById(button).style.backgroundPosition = "0px -44px";*/
+		}
+		else{
+			var mediaNav = "mediaNav" + pos;
+			document.getElementById(mediaNav).style.backgroundPosition = "0px -26px";
+		}
+	}
+	
+	function switchBackMediaImage(pos) { 
+		if(mediaPos == pos || mediaSite == pos){
+		/*
+			var button = "btn" + pos;
+			document.getElementById(button).style.backgroundPosition = "0px -44px";
+			*/
+		}
+		else{
+			var mediaNav = "mediaNav" + pos;
+			document.getElementById(mediaNav).style.backgroundPosition = "0px 0px";	
+		}	
+	
+	}	
+	
+	//  End -->
+  </script>
+</head>
+<body>
+<div id="homeMainWrapper"> 
+  <div id="topWrapper" style="position: relative;"> 
+    <div id="topNav"> 
+      <div id="brand"> <a href="index.html">&nbsp;</a> </div>
+      <h1 id="logo"> <a href="index.html"> <img src="images/logo.gif" width="196" height="110" alt="New York Times Company" /></a> 
+      </h1>
+      <ul>
+        <li><a href="company/index.html" id="company"><span>Company</span></a></li>
+        <li><a href="press/index.html" id="press"><span>Press</span></a></li>
+        <li><a href="investors/index.html" id="investors"><span>Investors</span></a></li>
+        <li><a href="corporate_governance/index.html" id="corporateGovernance"><span>Corporate 
+          Governance</span></a></li>
+        <li><a href="social_responsibility/index.html" id="socialResponsibility"><span>Social 
+          Responsibility</span></a></li>
+        <li><a href="careers/index.html" id="careers"><span>Careers</span></a></li>
+        <li><a href="shop_and_subscribe/index.html" id="shopSubscribe"><span>Shop 
+          &#38; Subscribe</span></a></li>
+      </ul>
+    </div>
+    <div id="flash"><img src="images/flashPlaceholder.gif" width="929" height="146" alt="Flash" /></div>
+    <script type="text/javascript">
+   			var so = new SWFObject("Flash/nyc_home.swf", "nyc_home", "929", "146", "8", "#2470ad");
+			so.addParam("menu", "false"); 
+   			so.write("flash");
+      </script>
+    <div id="leftContent"> 
+      <h2 class="graphic" id="newAtOurCompany"> <span>New at Our Company</span></h2>
+      <div id="homePromo"> 
+        <h3> <span>KEY The New York Times Real Estate Magazine</span></h3>
+        <h3> <span>PLAY The New York Times Sports Magazine</span></h3>
+        <h3> <span>TRAVEL Where to Go in 2007</span></h3>
+        <ul>
+          <li><a href="javascript:setActive(1);" onmouseover="switchImage(1)" onmouseout="switchBack(1)"
+              id="btn1"><span>1</span></a></li>
+          <li><a href="javascript:setActive(2);" onmouseover="switchImage(2)" onmouseout="switchBack(2)"
+              id="btn2"><span>2</span></a></li>
+          <li><a href="javascript:setActive(3);" onmouseover="switchImage(3)" onmouseout="switchBack(3)"
+              id="btn3"><span>3</span></a></li>
+        </ul>
+      </div>
+      <div><p> </p><img src="images/promoImage_BostonLogo.jpg" width="214" height="47" alt="The New York Times on Twitter" /> 
+        
+        
+        <p>The Boston Globe is New England's leading newspaper  and Boston.com is the premier source of breaking news, local content and information for New England.  </p>
+       
+        <ul>
+          
+          
+        </ul>
+       
+      </div>
+      <div> <a href="http://www.about.com/#!/editors-picks/"><img src="images/promoImage_About3.jpg" width="214" height="158" alt="About.com" /> </a>
+        <br/ ><br/ ><br/ >
+        <p> About.com offers information and solutions in the form of 2.8 million handcrafted, original articles – all created by nearly 900 guide sites. </p>
+        <!--<ul>
+					<li><a href="investors/financials/annual_reports.html">View Annual Report</a></li>
+				</ul>-->
+      </div>
+    </div>
+    <div id="middleContent"> 
+      <h3 id="announcements" class="graphic"> <span>Announcements</span></h3>
+      <ul>
+                      <li><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=105317&p=irol-newsArticle&ID=1635574&highlight="> 
+         The New York Times Unveils Enhanced Online Theater Section</a><br />
+          December 2, 2011</li>
+          <li><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=105317&p=irol-newsArticle&ID=1635373&highlight=">BostonGlobe.com Awarded "Best Daily Newspaper Website" and "Best Overall Website Design" by Editor & Publisher Magazine</a><br />
+   December 1, 2011</li> 
+   <li><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=105317&p=irol-newsArticle&ID=1634389&highlight=">About.com Becomes First Web Site to Offer Content on Hundreds of Lifestyle Topics in Flipboard</a><br />  
+        November 29, 2011</li>   
+     <li><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=105317&p=irol-newsArticle&ID=1633310&highlight=">The New York Times Offers Special "Cyber Monday" Deal of 50% off Individual and Gift Digital Subscriptions</a><br />
+          November 23, 2011</li> 
+         <li><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=105317&p=irol-newsArticle&ID=1632471&highlight=">The New York Times to Launch 'TimesTalks on Demand' in Cooperation with FORA.tv</a><br />
+            November 21, 2011</li>
+       
+                   
+           
+
+
+       
+        
+
+        
+           
+              
+             
+
+       
+        
+              
+         
+     
+      
+
+ 
+ 
+
+ 
+
+           
+    
+  
+   
+         
+
+
+
+        
+         
+ 
+   
+   
+           
+  
+   
+    
+          
+          
+   
+   
+   
+          
+            
+    
+   
+    
+          
+          
+   
+    
+  
+          
+          
+  
+   
+   
+           
+         
+        
+   
+   
+           
+          
+          
+   
+    
+          
+          
+          
+   
+   
+          
+           
+           
+  
+   
+          
+          
+          
+   
+   
+          
+          
+   
+    
+          
+       
+           
+   
+   
+          
+          
+          
+   
+   
+          
+          
+          
+   
+   
+          
+          
+          
+   
+          
+   
+          
+         
+          
+  
+   
+          
+       
+          
+   
+   
+          
+         
+          
+   
+   
+          
+          
+          
+   
+   
+           
+          
+         
+          
+   
+          
+          
+         
+          
+    
+          
+          
+        
+         
+   
+          
+        
+      </ul>
+      <!--<div>
+				<ul>
+					<li><a href="#" class="imageLink"><span>RSS</span></a></li>
+					<li>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="press/index.html">More News</a></li>
+				</ul>	
+			</div>-->
+    </div>
+    <div id="rightContent"> 
+      <div id="videoArea"> 
+        <h3 id="video" class="graphic"> <span>Video</span></h3>
+        <a href="company/news_video_multimedia/index.html" class="imageLink"><span>RSS</span></a> 
+        <div id="videoHolder" style="font-size: 0px; margin-left: 10px; padding-bottom: 10px;"><a href="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" target="_blank"> 
+          <img src="images/placeholder_video.jpg" width="219" height="190" alt="Please Download the latest version of Flash to view the video" /></a> 
+        </div>
+      </div>
+      <script type="text/javascript">
+   			var so = new SWFObject("videoHome.swf", "videoHome", "219", "200", "8", "#ffffff");
+			so.addParam("menu", "false"); 
+   			so.write("videoHolder");
+      </script>
+      <ul id="mediaNav">
+        <li><a href="javascript:setMediaActive(1);" onmouseover="switchMediaImage(1)" onmouseout="switchBackMediaImage(1)" id="mediaNav1" class="podcastNav"><span> 
+          PODCASTS</span></a></li>
+        <li><a href="javascript:setMediaActive(2);" onmouseover="switchMediaImage(2)" onmouseout="switchBackMediaImage(2)" id="mediaNav2" class="blogsNav"><span> 
+          BLOGS</span></a></li>
+        <li><a href="javascript:setMediaActive(3);" onmouseover="switchMediaImage(3)" onmouseout="switchBackMediaImage(3)" id="mediaNav3" class="nytimesNav"><span> 
+          NYTimes.com</span></a></li>
+        <li><a href="javascript:setMediaActive(4);" onmouseover="switchMediaImage(4)" onmouseout="switchBackMediaImage(4)" id="mediaNav4" class="bostonNav"><span> 
+          Boston.com</span></a></li>
+      </ul>
+      <h3 id="nytimesPodcasts" class="graphic"> <span>NYTimes.com PODCASTS</span></h3>
+      <div id="podcastBlogArea"> 
+        <h4>Featured Podcast</h4>
+        <b>Book Review Podcast</b><br />
+        <p>Every week, Book Review Editor Sam Tanenhaus talks to authors, editors, 
+          critics and senior editor and best-seller columnist Dwight Garner about 
+          new books.</p>
+      </div>
+    </div>
+    <div class="homeBottomCNav"> 
+      <div id="hbottomNav1"> 
+        <ul>
+       
+        </ul>
+      </div>
+      <div id="hbottomNav2"> 
+        <ul>
+          <li><a href="http://phx.corporate-ir.net/phoenix.rss?c=105317&p=rssall" class="imageLink"><span>RSS</span></a></li>
+           <li>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="http://phx.corporate-ir.net/phoenix.zhtml?c=105317&p=newsRSS">RSS 
+            Feed</a></li>
+          <li><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=105317&p=irol-press">More 
+            News</a></li>
+        </ul>
+      </div>
+      <div id="hbottomNav3"> 
+        <ul>
+          <li><a href="http://www.nytimes.com/ref/books/books-podcast-archive.html" target="_blank"
+              class="btn_Podcast"><span>PODCAST</span></a></li>
+          <li>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="http://www.nytimes.com/ref/multimedia/podcasts.html"
+              target="_blank">More Podcasts</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <!-- End of TopWrapper -->
+  <div id="footer"> 
+    <div> 
+      <p> &#169; 2011 The New York Times Company &nbsp; &nbsp;</p>
+      <ul>
+        <li><a href="contact_us/index.html">Contact Us</a> | &nbsp;</li>
+        <li><a href="sitemap.html">Site Map</a> | &nbsp;</li>
+        <li><a href="terms_of_use.html">Terms of Use</a>
+      </ul>
+    </div>
+    <div class="footerOutsideLinks"> 
+      <ul>
+        <li><a href="http://www.nytimes.com" target="_blank">NYTimes.com</a> | 
+          &nbsp;</li>
+        <li><a href="http://global.nytimes.com/" target="_blank">IHT</a> | &nbsp;</li>
+          <li><a href="http://bostonglobe.com" target="_blank">BostonGlobe.com</a> | &nbsp;</li>
+        <li><a href="http://boston.com" target="_blank">Boston.com</a> | &nbsp;</li>
+        <li><a href="http://about.com" target="_blank">About.com</a>
+      </ul>
+    </div>
+  </div>
+</div>
+<script type="text/javascript">
+	setActive(1);
+	setMediaActive(1);
+	setMediaActive(3);
+  </script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3119358-1";
+urchinTracker();
+</script>
+</body>
+</html>

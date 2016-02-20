@@ -1,0 +1,7 @@
+#!/bin/bash 
+
+# A short script to run web crawler
+rm -f web/index.txt
+rm -f web/idxfiles/*
+
+./spidey $@

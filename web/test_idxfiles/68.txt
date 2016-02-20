@@ -1,0 +1,1377 @@
+Set-cookie: RMID=0c62dc7e25cf4ed9132ea14c; expires=Saturday, 01-Dec-2012 18:04:30 GMT; path=/; domain=.nytimes.com
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Set-cookie: adxcs=s*28147=0:1; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<script type="text/javascript" src="http://typeface.nytimes.com/hqf5ydk.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<title>Editorials, Columns, Op-Ed, Letters, Opinionator and More Opinion - The New York Times</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="noarchive">
+<meta name="description" content="Editorials, op-eds and columns from David Brooks, Maureen Dowd, Thomas L. Friedman, Charles Blow, Ross Douthat, Nicholas D. Kristof, Paul Krugman, Gail Collins, Frank Bruni and Joe Nocera. Read or e-mail a letter to the editor. Online only features in Op-Extra." />
+<meta name="keywords" content="Russia,United States Defense and Military Forces,Afghanistan War (2001- ),Pakistan,Germany,Europe,European Union,Social Conditions and Trends,Economic Conditions and Trends,European Sovereign Debt Crisis (2010- ),Europe,Euro (Currency),Credit and Debt,Budgets and Budgeting,Subprime Mortgage Crisis,Federal Reserve System,European Sovereign Debt Crisis (2010- ),Editorials,Banking and Financial Institutions,Credit and Debt,Economic Conditions and Trends,European Central Bank,Euro (Currency),Witnesses,Constitution (US),Forensic Science,Supreme Court,Muslim Brotherhood (Egypt),Muslims and Islam,Elections,Egypt,Politics and Government,Holder, Eric H Jr,Stevens, Ted,Justice Department,Sullivan, Emmet G,Decisions and Verdicts,Classical Music,Bargemusic,Bloom, Olga,Brooklyn (NYC),Rakoff, Jed S,Decisions and Verdicts,Citigroup Inc,Suits and Litigation,Securities and Commodities Violations,Solyndra Inc,Federal Aid (US),United States Politics and Government,House Committee on Energy and Commerce,Obama, Barack,Stearns, Clifford Bundy,Admissions Standards,University of Phoenix,Frauds and Swindling,For-Profit Schools,Social Conditions and Trends,Education (K-12),Lunch and Breakfast Programs,Education (K-12),Tennessee,Performance Evaluations (Labor),Teachers and School Employees" />
+<meta name="asset_id" content="">
+<meta name="CG" content="opinion">
+<meta name="SCG" content="">
+<meta name="PT" content="Section Front">
+<meta name="PST" content="">
+<meta name="msapplication-starturl" content="http://www.nytimes.com/" />
+<link rel="canonical" href="http://www.nytimes.com/pages/opinion/index.html">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.nytimes.com/services/xml/rss/nyt/Opinion.xml"/>
+
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/build/sectionfront/opinion/2.0/styles.css?10262011" />
+<link rel="stylesheet" type="text/css" media="print" href="http://graphics8.nytimes.com/css/0.1/print/styles.css">
+<!--[if IE]>
+        <style type="text/css">
+            @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie.css);
+        </style>
+    <![endif]-->
+<!--[if IE 6]>
+        <style type="text/css">
+            @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie6.css);
+        </style>
+    <![endif]-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/DropDown.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/util/tooltip.js"></script>
+<script type="text/JavaScript">
+        var static_kw = "Russia;United States Defense and Military Forces;Afghanistan War (2001- );Pakistan;Germany;Europe;European Union;Social Conditions and Trends;Economic Conditions and Trends;European Sovereign Debt Crisis (2010- );Europe;Euro (Currency);Credit and Debt;Budgets and Budgeting;Subprime Mortgage Crisis;Federal Reserve System;European Sovereign Debt Crisis (2010- );Editorials;Banking and Financial Institutions;Credit and Debt;Economic Conditions and Trends;European Central Bank;Euro (Currency);Witnesses;Constitution (US);Forensic Science;Supreme Court;Muslim Brotherhood (Egypt);Muslims and Islam;Elections;Egypt;Politics and Government;Holder; Eric H Jr;Stevens; Ted;Justice Department;Sullivan; Emmet G;Decisions and Verdicts;Classical Music;Bargemusic;Bloom; Olga;Brooklyn (NYC);Rakoff; Jed S;Decisions and Verdicts;Citigroup Inc;Suits and Litigation;Securities and Commodities Violations;Solyndra Inc;Federal Aid (US);United States Politics and Government;House Committee on Energy and Commerce;Obama; Barack;Stearns; Clifford Bundy;Admissions Standards;University of Phoenix;Frauds and Swindling;For-Profit Schools;Social Conditions and Trends;Education (K-12);Lunch and Breakfast Programs;Education (K-12);Tennessee;Performance Evaluations (Labor);Teachers and School Employees";
+        var dynamic_kw = "Russia;United+States+Defense+and+Military+Forces;Afghanistan+War+%282001-+%29;Pakistan;Germany;Europe;European+Union;Social+Conditions+and+Trends;Economic+Conditions+and+Trends;European+Sovereign+Debt+Crisis+%282010-+%29;Europe;Euro+%28Currency%29;Credit+and+Debt;Budgets+and+Budgeting;Subprime+Mortgage+Crisis;Federal+Reserve+System;European+Sovereign+Debt+Crisis+%282010-+%29;Editorials;Banking+and+Financial+Institutions;Credit+and+Debt;Economic+Conditions+and+Trends;European+Central+Bank;Euro+%28Currency%29;Witnesses;Constitution+%28US%29;Forensic+Science;Supreme+Court;Muslim+Brotherhood+%28Egypt%29;Muslims+and+Islam;Elections;Egypt;Politics+and+Government;Holder;+Eric+H+Jr;Stevens;+Ted;Justice+Department;Sullivan;+Emmet+G;Decisions+and+Verdicts;Classical+Music;Bargemusic;Bloom;+Olga;Brooklyn+%28NYC%29;Rakoff;+Jed+S;Decisions+and+Verdicts;Citigroup+Inc;Suits+and+Litigation;Securities+and+Commodities+Violations;Solyndra+Inc;Federal+Aid+%28US%29;United+States+Politics+and+Government;House+Committee+on+Energy+and+Commerce;Obama;+Barack;Stearns;+Clifford+Bundy;Admissions+Standards;University+of+Phoenix;Frauds+and+Swindling;For-Profit+Schools;Social+Conditions+and+Trends;Education+%28K-12%29;Lunch+and+Breakfast+Programs;Education+%28K-12%29;Tennessee;Performance+Evaluations+%28Labor%29;Teachers+and+School+Employees";
+        var nyt_google_contents = dynamic_kw + static_kw;
+        var nyt_google_ad_channel = "opinion";
+    </script>
+</head>
+<body>
+<a name="top"></a>
+<div  id="shell">
+
+<ul id="memberTools">
+
+<!-- start text link -->
+<li class="cColumn-TextAdsHeader">Subscribe:
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/opinion/index.html&pos=Bar1&sn2=f0ecce6d/4bb234b0&sn1=2407a328/96bf5462&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-digi-hd-d3847U-h3847W&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fsubscriptions%2FMultiproduct%2Flp5558%2Ehtml%3Fadxc%3D162578%26adxa%3D267524%26page%3Dwww.nytimes.com/pages/opinion/index.html%26pos%3DBar1%26campaignId%3D3847U" target="_blank">
+Digital</a> / <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/opinion/index.html&pos=Bar1&sn2=f0ecce6d/4bb234b0&sn1=8c0204ae/f0584be3&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-digi-hd-d3847U-h3847W&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DW47AF%26CMP%3D3847W" target="_blank">Home Delivery</a>
+</li>
+<!-- end text link -->
+
+ 
+                        <li><a id="memberToolsLogin" href="https://myaccount.nytimes.com/auth/login">Log In</a></li>
+            <li><a href="https://myaccount.nytimes.com/gst/regi.html">Register Now</a></li>
+                            
+
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+</ul>
+<div class="tabsContainer">
+<ul id="mainTabs" class="tabs">
+<li class="first mainTabHome"><a href="http://www.nytimes.com">Home Page</a></li>
+<li class="mainTabTodaysPaper"><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+<li class="mainTabVideo"><a href="http://www.nytimes.com/video">Video</a></li>
+<li class="mainTabMostPopular"><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+<li class="mainTabTimesTopics"><a href="http://topics.nytimes.com/top/reference/timestopics">Times Topics</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+</script>    <div  id="page" class="tabContent active">
+<div id="masthead" class="clearfix">      
+
+<div id="searchWidget">
+<div class="inlineSearchControl">
+<form enctype="application/x-www-form-urlencoded" action="http://query.nytimes.com/search/opinion" method="get" name="searchForm" id="searchForm">
+<input type="hidden" value="full" name="date_select"/>
+<label for="searchQuery">Search All NYTimes.com</label>
+<input type="text" prompt="Search Opinion" class="text" value="" size="" name="query" id="searchQuery"/>
+<input type="hidden" id="searchAll" name="type" value="nyt"/>
+<input type="image" id="searchSubmit" title="Search" alt="Search" width="22" height="19" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"/>
+</form>
+</div>
+</div>
+<div id="branding">
+<a href="http://www.nytimes.com"><img id="NYTLogo" alt="New York Times" src="http://graphics8.nytimes.com/images/misc/nytlogo110x16.gif"></a>
+</div>
+<h2>
+<a href="http://www.nytimes.com/pages/opinion/index.html"><img src="http://graphics8.nytimes.com/images/opinion/sectionfront/opinion-logo-sf.png" alt="The Opinion Pages"></a>
+</h2>
+</div>
+<div class="navigation tabsContainer">
+<ul class="tabs">
+<li id="navWorld" class="first ">
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>	<li id="navUs" >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>	<li id="navNyregion" >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>	<li id="navBusiness" >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>	<li id="navTechnology" >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>	<li id="navScience" >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>	<li id="navHealth" >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>	<li id="navSports" >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>	<li id="navOpinion" class="selected">
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+<ul class="subNavigation"><li id="subNav_opinioneditorials"><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/editorials/">Editorials</a></li><li id="subNav_opinioncolumnists"><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/">Columnists</a></li><li id="subNav_opinioncontributors"><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/contributors/">Contributors</a></li><li id="subNav_opinionletters"><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/letters/">Letters</a></li><li id="subNav_publiceditor"><a href="http://topics.nytimes.com/top/opinion/thepubliceditor/index.html">The Public Editor</a></li><li id="subNav_global"><a href="http://www.nytimes.com/pages/opinion/global/index.html">Global Opinion</a></li></ul></li>	<li id="navArts" >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>	<li id="navStyle" >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>	<li id="navTravel" >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>	<li id="navJobs" >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>	<li id="navRealestate" >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>	<li id="navAutomobiles" >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li></ul>
+</div>
+
+<div id="main">
+<div id="spanABCRegion">
+<div class="spanAB wrap module">
+<div class="abColumn">
+<div class="columnGroup">
+<style><!--
+  .inTextRefer {display: none;}
+  --></style>    <div class="ledeStory">
+<div class="ledePhoto">
+<a href="http://www.nytimes.com/2011/12/02/opinion/can-russia-help-us-withdraw-from-afghanistan.html?ref=opinion">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/opinion/1202OPEDwaszul-SF/1202OPEDwaszul-SF-articleLarge-v2.jpg" width="600" height="294" alt="" border="0">
+</a>
+<h6 class="credit">Yarek Waszul</h6>
+</div>
+<h6 class="kicker">Op-Ed Contributors</h6>
+<h2>
+<a href="http://www.nytimes.com/2011/12/02/opinion/can-russia-help-us-withdraw-from-afghanistan.html?ref=opinion">Can Russia Help Us Withdraw From Afghanistan?</a>
+</h2>
+<h6 class="byline">
+By DOV S. ZAKHEIM and PAUL J. SAUNDERS    </h6>
+<p class="summary">Instead of relying on Pakistan as a supply corridor to Afghanistan, the United States should expand its cooperation with Russia.        </p>
+</div>
+</div>
+</div>        <div class="cColumn">
+<div class="columnGroup">
+<div class="subColumns">
+<div class="column">
+<div class="columnGroup">
+<div class="story">
+<h6 class="kicker">DAVID BROOKS</h6>
+<h3>
+<a href="http://www.nytimes.com/2011/12/02/opinion/brooks-the-spirit-of-enterprise.html?ref=opinion">The Spirit of Enterprise</a>
+</h3>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/opinion/brooks-the-spirit-of-enterprise.html?ref=opinion">
+<img src="http://graphics8.nytimes.com/images/2010/09/16/opinion/Brooks_New/Brooks_New-thumbStandard.jpg" width="75" height="75" alt="David Brooks" border="0">
+</a>
+</div>
+<p class="summary">The Germans are trying to preserve an eroding ethos of effort, productivity and self-discipline. In condemning them, we deny our own foundations.    <span class="inTextRefer noWrap"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><a href="http://community.nytimes.com/article/comments/2011/12/02/opinion/brooks-the-spirit-of-enterprise.html">Comment</a></span></p>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/davidbrooks/index.html">Columnist Page</a> | <a href="http://brooks.blogs.nytimes.com/">Blog</a> </li>
+<li><a href="http://www.nytimes.com/2011/12/02/opinion/brooks-the-spirit-of-enterprise.html#commentsContainer"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="Comment" style="margin-right: 3px; padding-top: 3px;" border="0"/> Comment</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="column lastColumn">
+<div class="columnGroup">
+<div class="story">
+<h6 class="kicker">PAUL KRUGMAN</h6>
+<h3>
+<a href="http://www.nytimes.com/2011/12/02/opinion/krugman-killing-the-euro.html?ref=opinion">Killing the Euro</a>
+</h3>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/opinion/krugman-killing-the-euro.html?ref=opinion">
+<img src="http://graphics8.nytimes.com/images/2010/09/16/opinion/Krugman_New/Krugman_New-thumbStandard.jpg" width="75" height="75" alt="Paul Krugman" border="0">
+</a>
+</div>
+<p class="summary">Even optimists now see Europe as headed for recession, while pessimists warn of another global financial crisis on the way. How did things go so wrong?    <span class="inTextRefer noWrap"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><a href="http://community.nytimes.com/article/comments/2011/12/02/opinion/krugman-killing-the-euro.html">Comment</a></span></p>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/paulkrugman/">Columnist Page</a> | <a href="http://krugman.blogs.nytimes.com/">Blog</a> 
+</li>
+<li>
+<a href="http://www.nytimes.com/2011/12/02/opinion/krugman-killing-the-euro.html#postcomment"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif"
+alt="Comment" style="margin-right: 3px; padding-top: 3px;" border="0" /> Comment</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="singleRuleDivider"></div>
+<div class="subColumns">
+<div class="column">
+<div class="columnGroup">
+<div class="story">
+<h6 class="kicker">Opinionator</h6>
+<h3>
+<a href="http://opinionator.blogs.nytimes.com/2011/12/01/gun-nuts-in-a-rut/?ref=opinion">Gun Nuts in a Rut</a>
+</h3>
+<h6 class="byline">
+By TIMOTHY EGAN</h6>
+<div class="thumbnail">
+<a href="http://opinionator.blogs.nytimes.com/2011/12/01/gun-nuts-in-a-rut/?ref=opinion">
+<img src="http://graphics8.nytimes.com/images/2010/09/16/opinion/Egan_New/Egan_New-thumbStandard.jpg" width="75" height="75" alt="Gun Nuts in a Rut" border="0">
+</a>
+</div>
+<p class="summary">Despite all evidence to the contrary, the N.R.A. is determined to see President Obama as anti-gun.</p>
+</div>
+</div>
+</div>
+<div class="column lastColumn">
+<div class="columnGroup">
+<div class="story">
+<h6 class="kicker">Editorial</h6>
+<h3>
+<a href="http://www.nytimes.com/2011/12/02/opinion/the-fed-and-the-euro.html?ref=opinion">The Fed and the Euro</a>
+</h3>
+<h6 class="byline">
+</h6>
+<p class="summary">America’s extraordinary intervention was timely, and it should impress upon the Europeans that it is high time they stopped sitting on their hands.    <span class="inTextRefer noWrap"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><a href="http://community.nytimes.com/article/comments/2011/12/02/opinion/the-fed-and-the-euro.html">Comment</a></span></p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/12/02/opinion/the-fed-and-the-euro.html#postcomment"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif"
+alt="Comment" style="margin-right: 3px; padding-top: 3px;" border="0"> Comment</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="singleRuleDivider"></div><div class="story"><p><em style="i"><a  href="http://topics.nytimes.com/top/news/international/columns/rogercohen/index.html">Roger Cohen</a> is off today.</em></p></div></div>        </div>
+</div>            <div id="middle" class="spanBC noBackground wrap">
+<div class="singleRuleDk opening">
+<div class="aColumn column">
+<div class="columnGroup">
+<ul class="contentNavigation">
+<li class="today"><div class="pointer"></div><div class="wrap"><h2>Today</h2></div></li>
+<li class="columnists collapsible"><div class="pointer"></div><div class="wrap"><h2>Columnists</h2></div>
+<ul>
+<li class="allColumnists" feed="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/index.html?rss=1" moreUrl="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/index.html?offset=15&s=newest" moreLabel="More Columns">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">All Columnists</span>
+</h3>
+</div><div id="feedHeader" class="feedHeader" style="display:none;">
+<h2>All Columnists</h2>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/index.html">Columnists' Page</a></li>
+<li class="rss"><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/index.html?rss=1">Subscribe to All Columns</a></li>
+</ul></div>
+</li>
+<li class="charlesMBlow" feed="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/charles_m_blow/index.html?rss=1" moreUrl="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/charles_m_blow/index.html?offset=15&s=newest" moreLabel="More From Charles M. Blow">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">Charles M. Blow</span>
+<span class="columnistDays">Sa</span>
+</h3>
+</div><div id="feedHeader" class="feedHeader" style="display:none;">
+<div class="thumbnail">
+<img src="http://graphics8.nytimes.com/images/2010/09/16/opinion/Blow_New/Blow_New-thumbStandard.jpg">
+</div>
+<h2>Charles M. Blow</h2>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/charles_m_blow/index.html">Charles M. Blow&#8217;s Page</a></li>
+<li><a href="http://blow.blogs.nytimes.com/">Charles M. Blow&#8217;s Blog</a></li>
+<li class="rss"><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/charles_m_blow/index.html?rss=1">Subscribe to Charles M. Blow&#8217;s Column</a></li>
+<li class="twitter"><a href="https://twitter.com/CharlesMBlow">Follow on Twitter</a></li>
+<li class="facebook"><a href="http://www.facebook.com/CharlesMBlow">Visit on Facebook</a></li>
+</ul></div>
+</li>
+<li class="davidBrooks" feed="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/davidbrooks/index.html?rss=1" moreUrl="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/davidbrooks/index.html?offset=15&s=newest" moreLabel="More From David Brooks">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">David Brooks</span>
+<span class="columnistDays">Tu, F</span>
+</h3>
+</div><div id="feedHeader" class="feedHeader" style="display:none;">
+<div class="thumbnail">
+<img src="http://graphics8.nytimes.com/images/2010/09/16/opinion/Brooks_New/Brooks_New-thumbStandard.jpg">
+</div>
+<h2>David Brooks</h2>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/davidbrooks/index.html">David Brooks&#8217;s Page</a></li>
+<li><a href="http://brooks.blogs.nytimes.com/">David Brooks&#8217;s Blog</a></li>
+<li><a href="http://opinionator.blogs.nytimes.com/category/the-conversation/">The Conversation</a></li>
+<li class="rss"><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/davidbrooks/index.html?rss=1">Subscribe to David Brooks&#8217;s Column</a></li>
+</ul></div>
+</li>
+<li class="frankBruni" feed="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/frankbruni/index.html?rss=1" moreUrl="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/frankbruni/index.html?offset=15&s=newest" moreLabel="More From Frank Bruni">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">Frank Bruni</span>
+<span class="columnistDays">Su, Tu</span>
+</h3>
+</div><div id="feedHeader" class="feedHeader" style="display:none;">
+<div class="thumbnail">
+<img src="http://graphics8.nytimes.com/images/2011/05/27/timestopics/Frank-Bruni/Frank-Bruni-thumbStandard.jpg">
+</div>
+<h2>Frank Bruni</h2>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/frankbruni/index.html">Frank Bruni&#8217;s Page</a></li>
+<li class="rss"><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/frankbruni/index.html?rss=1">Subscribe to Frank Bruni&#8217;s Column</a></li>
+<li class="twitter"><a href="http://twitter.com/frankbruni">Follow on Twitter</a></li>
+<li class="facebook"><a href="http://www.facebook.com/frankbruninyt">Visit on Facebook</a></li>
+</ul></div>
+</li>
+<li class="rogerCohen" feed="http://topics.nytimes.com/top/news/international/columns/rogercohen/index.html?rss=1" moreUrl="http://topics.nytimes.com/top/news/international/columns/rogercohen/index.html?offset=15&s=newest" moreLabel="More From Roger Cohen">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">Roger Cohen</span>
+<span class="columnistDays">Tu, F</span>
+</h3>
+</div><div id="feedHeader" class="feedHeader" style="display:none;">
+<div class="thumbnail">
+<img src="http://graphics8.nytimes.com/images/2010/09/16/opinion/Cohen_New/Cohen_New-thumbStandard.jpg">
+</div>
+<h2>Roger Cohen</h2>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/top/news/international/columns/rogercohen/index.html">Roger Cohen&#8217;s Page</a></li>
+<li class="rss"><a href="http://topics.nytimes.com/top/news/international/columns/rogercohen/index.html?rss=1">Subscribe to Roger Cohen&#8217;s Column</a></li>
+<li class="twitter"><a href="http://twitter.com/nytimescohen">Follow on Twitter</a></li>
+</ul></div>
+</li>
+<li class="gailCollins" feed="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/gailcollins/index.html?rss=1" moreUrl="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/gailcollins/index.html?offset=15&s=newest" moreLabel="More From Gail Collins">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">Gail Collins</span>
+<span class="columnistDays">Th, Sa</span>
+</h3>
+</div><div id="feedHeader" class="feedHeader" style="display:none;">
+<div class="thumbnail">
+<img src="http://graphics8.nytimes.com/images/2010/09/16/opinion/Collins_New/Collins_New-thumbStandard.jpg">
+</div>
+<h2>Gail Collins</h2>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/gailcollins/index.html">Gail Collins&#8217;s Page</a></li>
+<li><a href="http://opinionator.blogs.nytimes.com/category/the-conversation/">The Conversation</a></li>
+<li class="rss"><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/gailcollins/index.html?rss=1">Subscribe to Gail Collins&#8217;s Column</a></li>
+</ul></div>
+</li>
+<li class="rossDouthat" feed="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/rossdouthat/index.html?rss=1" moreUrl="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/rossdouthat/index.html?offset=15&s=newest" moreLabel="More From Ross Douthat">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">Ross Douthat</span>
+<span class="columnistDays">Su</span>
+</h3>
+</div><div id="feedHeader" class="feedHeader" style="display:none;">
+<div class="thumbnail">
+<img src="http://graphics8.nytimes.com/images/2010/09/16/opinion/Douthat_New/Douthat_New-thumbStandard.jpg">
+</div>
+<h2>Ross Douthat</h2>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/rossdouthat/index.html">Ross Douthat&#8217;s Page</a></li>
+<li><a href="http://douthat.blogs.nytimes.com/">Ross Douthat&#8217;s Blog</a></li>
+<li class="rss"><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/rossdouthat/index.html?rss=1">Subscribe to Ross Douthat&#8217;s Column</a></li>
+</ul></div>
+</li>
+<li class="maureenDowd" feed="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/maureendowd/index.html?rss=1" moreUrl="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/maureendowd/index.html?offset=15&s=newest" moreLabel="More From Maureen Dowd">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">Maureen Dowd</span>
+<span class="columnistDays">Su, W</span>
+</h3>
+</div><div id="feedHeader" class="feedHeader" style="display:none;">
+<div class="thumbnail">
+<img src="http://graphics8.nytimes.com/images/2010/09/16/opinion/Dowd_New/Dowd_New-thumbStandard.jpg">
+</div>
+<h2>Maureen Dowd</h2>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/maureendowd/index.html">Maureen Dowd&#8217;s Page</a></li>
+<li class="rss"><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/maureendowd/index.html?rss=1">Subscribe to Maureen Dowd&#8217;s Column</a></li>
+</ul></div>
+</li>
+<li class="thomasLFriedman" feed="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/thomaslfriedman/index.html?rss=1" moreUrl="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/thomaslfriedman/index.html?offset=15&s=newest" moreLabel="More From Thomas L. Friedman">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">Thomas L. Friedman</span>
+<span class="columnistDays">Su, W</span>
+</h3>
+</div><div id="feedHeader" class="feedHeader" style="display:none;">
+<div class="thumbnail">
+<img src="http://graphics8.nytimes.com/images/2010/09/16/opinion/Friedman_New/Friedman_New-thumbStandard.jpg">
+</div>
+<h2>Thomas L. Friedman</h2>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/thomaslfriedman/index.html">Thomas L. Friedman&#8217;s Page</a></li>
+<li class="rss"><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/thomaslfriedman/index.html?rss=1">Subscribe to Thomas L. Friedman&#8217;s Column</a></li>
+</ul></div>
+</li>
+<li class="billKeller" feed="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/billkeller/index.html?rss=1" moreUrl="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/billkeller/index.html?offset=15&s=newest" moreLabel="More From Bill Keller">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">Bill Keller</span>
+<span class="columnistDays">M</span>
+</h3>
+</div><div id="feedHeader" class="feedHeader" style="display:none;">
+<div class="thumbnail">
+<img src="http://graphics8.nytimes.com/images/2011/09/18/opinion/Keller_New/Keller_New-thumbStandard.jpg">
+</div>
+<h2>Bill Keller</h2>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/billkeller/index.html">Bill Keller&#8217;s Page</a></li>
+<li class="rss"><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/billkeller/index.html?rss=1">Subscribe to Bill Keller&#8217;s Column</a></li>
+<li class="twitter"><a href="https://twitter.com/billkeller">Follow on Twitter</a></li>
+</ul></div>
+</li>
+<li class="nicholasDKristof" feed="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/nicholasdkristof/index.html?rss=1" moreUrl="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/nicholasdkristof/index.html?offset=15&s=newest" moreLabel="More From Nicholas D. Kristof">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">Nicholas D. Kristof</span>
+<span class="columnistDays">Su, Th</span>
+</h3>
+</div><div id="feedHeader" class="feedHeader" style="display:none;">
+<div class="thumbnail">
+<img src="http://graphics8.nytimes.com/images/2010/09/16/opinion/Kristof_New/Kristof_New-thumbStandard.jpg">
+</div>
+<h2>Nicholas D. Kristof</h2>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/nicholasdkristof/index.html">Nicholas D. Kristof&#8217;s Page</a></li>
+<li><a href="http://kristof.blogs.nytimes.com/">Nicholas D. Kristof&#8217;s Blog</a></li>
+<li class="rss"><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/nicholasdkristof/index.html?rss=1">Subscribe to Nicholas D. Kristof&#8217;s Column</a></li>
+<li class="twitter"><a href="https://twitter.com/NickKristof">Follow on Twitter</a></li>
+<li class="facebook"><a href="http://www.facebook.com/kristof">Visit on Facebook</a></li>
+</ul></div>
+</li>
+<li class="paulKrugman" feed="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/paulkrugman/index.html?rss=1" moreUrl="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/paulkrugman/index.html?offset=15&s=newest" moreLabel="More From Paul Krugman">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">Paul Krugman</span>
+<span class="columnistDays">M, F</span>
+</h3>
+</div><div id="feedHeader" class="feedHeader" style="display:none;">
+<div class="thumbnail">
+<img src="http://graphics8.nytimes.com/images/2010/09/16/opinion/Krugman_New/Krugman_New-thumbStandard.jpg">
+</div>
+<h2>Paul Krugman</h2>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/paulkrugman/index.html">Paul Krugman&#8217;s Page</a></li>
+<li><a href="http://krugman.blogs.nytimes.com/">Paul Krugman&#8217;s Blog</a></li>
+<li class="rss"><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/paulkrugman/index.html?rss=1">Subscribe to Paul Krugman&#8217;s Column</a></li>
+</ul></div>
+</li>
+<li class="joeNocera" feed="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/joenocera/index.html?rss=1" moreUrl="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/joenocera/index.html?offset=15&s=newest" moreLabel="More From Joe Nocera">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">Joe Nocera</span>
+<span class="columnistDays">Tu, Sa</span>
+</h3>
+</div><div id="feedHeader" class="feedHeader" style="display:none;">
+<div class="thumbnail">
+<img src="http://graphics8.nytimes.com/images/2011/03/29/opinion/Joe_Nocera/Joe_Nocera-thumbStandard.jpg">
+</div>
+<h2>Joe Nocera</h2>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/joenocera/index.html">Joe Nocera&#8217;s Page</a></li>
+<li class="rss"><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/joenocera/index.html?rss=1">Subscribe to Joe Nocera&#8217;s Column</a></li>
+</ul></div>
+</li>
+</ul>
+</li>
+<li class="editorials" feed="http://topics.nytimes.com/top/opinion/editorialsandoped/editorials/index.html?rss=1" moreUrl="http://topics.nytimes.com/top/opinion/editorialsandoped/editorials/index.html?offset=&s=newest" moreLabel="More Editorials"><div class="pointer"></div><div class="wrap"><h2><span class="label">Editorials</span></h2></div>
+<div class="feedHeader" style="display:none;">
+<h2>Editorials</h2>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/editorials/index.html">All Editorials</a></li>
+<li class="rss"><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/editorials/index.html?rss=1">Subscribe to Editorials</a></li>
+</ul>
+</div>
+</li>
+<li class="op-ed" feed="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/contributors/index.html?rss=1" moreUrl="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/contributors/index.html?offset=&s=newest" moreLabel="More Op-Eds"><div class="pointer"></div><div class="wrap"><h2><span class="label">Op-Ed</span></h2></div>
+<div class="feedHeader" style="display:none;">
+<h2>Op-Ed Contributors</h2>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/contributors/index.html">Op-Ed Contributors&#8217 Page</a></li>
+<li class="rss"><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/contributors/index.html?rss=1">Subscribe to Op-Ed Articles</a></li>
+</ul>
+</div>
+</li>
+<li class="opinionator collapsible"><div class="pointer"></div><div class="wrap"><h2>Opinionator</h2></div>
+<ul style="display:none;">
+<li feed="http://opinionator.blogs.nytimes.com/feed/" moreUrl="http://opinionator.blogs.nytimes.com/page/2/" moreLabel="More From Opinionator">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">All Opinionator</span></h3>
+</div>
+<div class="feedHeader" style="display:none;"><h2>All Opinionator</h2><ul class="refer">    <li><a href="http://opinionator.blogs.nytimes.com">Opinionator Home</a></li>    <li class="rss"><a href="http://opinionator.blogs.nytimes.com/feed/">Subscribe to Opinionator Home</a></li></ul></div></li>
+<li feed="http://opinionator.blogs.nytimes.com/category/allison-arieff/feed/" moreUrl="http://opinionator.blogs.nytimes.com/category/allison-arieff/page/2/" moreLabel="More From Allison Arieff">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">Allison Arieff</span></h3>
+</div>
+<div class="feedHeader" style="display:none;"><div class="thumbnail">    <img src="http://graphics8.nytimes.com/images/2010/09/16/opinion/Arieff_New/Arieff_New-thumbStandard.jpg"></div><h2>Allison Arieff</h2><ul class="refer">    <li><a href="http://opinionator.blogs.nytimes.com/category/allison-arieff">Allison Arieff’s Page</a></li>    <li class="rss"><a href="http://opinionator.blogs.nytimes.com/category/allison-arieff/feed/">Subscribe to Allison Arieff’s Page</a></li></ul></div></li>
+<li feed="http://opinionator.blogs.nytimes.com/category/mark-bittman/feed/" moreUrl="http://opinionator.blogs.nytimes.com/category/mark-bittman/page/2/" moreLabel="More From Mark Bittman">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">Mark Bittman</span></h3>
+</div>
+<div class="feedHeader" style="display:none;"><div class="thumbnail">    <img src="http://graphics8.nytimes.com/images/blogs_v3/opinionator/bittman/mark-bittman75.jpg"></div><h2>Mark Bittman</h2><ul class="refer">    <li><a href="http://opinionator.blogs.nytimes.com/category/mark-bittman">Mark Bittman&#8217;s Page</a></li>    <li class="rss"><a href="http://opinionator.blogs.nytimes.com/category/mark-bittman/feed/">Subscribe to Mark Bittman&#8217;s Page</a></li>    <li class="twitter"><a href="http://twitter.com/bittman">Follow on Twitter</a></li>    <li class="facebook"><a href="http://www.facebook.com/MarkBittman">Visit on Facebook</a></li></ul></div></li>
+<li feed="http://opinionator.blogs.nytimes.com/category/dick-cavett/feed/" moreUrl="http://opinionator.blogs.nytimes.com/category/dick-cavett/page/2/" moreLabel="More From Dick Cavett">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">Dick Cavett</span></h3>
+</div>
+<div class="feedHeader" style="display:none;"><div class="thumbnail">    <img src="http://graphics8.nytimes.com/images/2010/09/16/opinion/Cavett_New/Cavett_New-thumbStandard.jpg"></div><h2>Dick Cavett</h2><ul class="refer">    <li><a href="http://opinionator.blogs.nytimes.com/category/dick-cavett">Dick Cavett’s Page</a></li>    <li class="rss"><a href="http://opinionator.blogs.nytimes.com/category/dick-cavett/feed/">Subscribe to Dick Cavett’s Page</a></li></ul></div></li>
+<li feed="http://opinionator.blogs.nytimes.com/category/timothy-egan/feed/" moreUrl="http://opinionator.blogs.nytimes.com/category/timothy-egan/page/2/" moreLabel="More From Timothy Egan">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">Timothy Egan</span></h3>
+</div>
+<div class="feedHeader" style="display:none;"><div class="thumbnail">    <img src="http://graphics8.nytimes.com/images/2010/09/16/opinion/Egan_New/Egan_New-thumbStandard.jpg"></div><h2>Timothy Egan</h2><ul class="refer">    <li><a href="http://opinionator.blogs.nytimes.com/category/timothy-egan">Timothy Egan’s Page</a></li>    <li class="rss"><a href="http://opinionator.blogs.nytimes.com/category/timothy-egan/feed/">Subscribe to Timothy Egan’s Page</a></li></ul></div></li>
+<li feed="http://opinionator.blogs.nytimes.com/category/stanley-fish/feed/" moreUrl="http://opinionator.blogs.nytimes.com/category/stanley-fish/page/2/" moreLabel="More From Stanley Fish">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">Stanley Fish</span></h3>
+</div>
+<div class="feedHeader" style="display:none;"><div class="thumbnail">    <img src="http://graphics8.nytimes.com/images/2010/09/16/opinion/Fish_New/Fish_New-thumbStandard.jpg"></div><h2>Stanley Fish</h2><ul class="refer">    <li><a href="http://opinionator.blogs.nytimes.com/category/stanley-fish">Stanley Fish&#8217;s Page</a></li>    <li class="rss"><a href="http://opinionator.blogs.nytimes.com/category/stanley-fish/feed/">Subscribe to Stanley Fish&#8217;s Page</a></li></ul></div></li>
+<li feed="http://opinionator.blogs.nytimes.com/category/linda-greenhouse/feed/" moreUrl="http://opinionator.blogs.nytimes.com/category/linda-greenhouse/page/2/" moreLabel="More From Linda Greenhouse">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">Linda Greenhouse</span></h3>
+</div>
+<div class="feedHeader" style="display:none;"><div class="thumbnail">    <img src="http://graphics8.nytimes.com/images/2010/09/16/opinion/Greenhouse_New/Greenhouse_New-thumbStandard.jpg"></div><h2>Linda Greenhouse</h2><ul class="refer">    <li><a href="http://opinionator.blogs.nytimes.com/category/linda-greenhouse">Linda Greenhouse’s Page</a></li>    <li class="rss"><a href="http://opinionator.blogs.nytimes.com/category/linda-greenhouse/feed/">Subscribe to Linda Greenhouse’s Page</a></li></ul></div></li>
+<li feed="http://opinionator.blogs.nytimes.com/category/errol-morris/feed/" moreUrl="http://opinionator.blogs.nytimes.com/category/errol-morris/page/2/" moreLabel="More From Errol Morris">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">Errol Morris</span></h3>
+</div>
+<div class="feedHeader" style="display:none;"><div class="thumbnail">    <img src="http://graphics8.nytimes.com/images/2011/06/14/opinion/Morris_Photo/Morris_Photo-thumbStandard.jpg"></div><h2>Errol Morris</h2><ul class="refer">    <li><a href="http://opinionator.blogs.nytimes.com/category/errol-morris">Errol Morris&#8217;s Page</a></li>    <li class="rss"><a href="http://opinionator.blogs.nytimes.com/category/errol-morris/feed/">Subscribe to Errol Morris&#8217;s Page</a></li></ul></div></li>
+<li feed="http://opinionator.blogs.nytimes.com/category/borderlines/feed/" moreUrl="http://opinionator.blogs.nytimes.com/category/borderlines/page/2/" moreLabel="More From Borderlines">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">Borderlines</span></h3>
+</div>
+<div class="feedHeader" style="display:none;"><div class="thumbnail">    <img src="http://graphics8.nytimes.com/images/blogs_v3/opinionator/borderlines/borderlines75.gif"></div><h2>Borderlines</h2><ul class="refer">    <li><a href="http://opinionator.blogs.nytimes.com/category/borderlines">Borderlines Series Page</a></li>    <li class="rss"><a href="http://opinionator.blogs.nytimes.com/category/borderlines/feed/">Subscribe to Borderlines Series Page</a></li></ul></div></li>
+<li feed="http://opinionator.blogs.nytimes.com/category/disunion/feed/" moreUrl="http://opinionator.blogs.nytimes.com/category/disunion/page/2/" moreLabel="More From Disunion">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">Disunion</span></h3>
+</div>
+<div class="feedHeader" style="display:none;"><div class="thumbnail">    <img src="http://graphics8.nytimes.com/images/blogs_v3/opinionator/disunion/disunion75.gif"></div><h2>Disunion</h2><ul class="refer">    <li><a href="http://opinionator.blogs.nytimes.com/category/disunion">Disunion Series Page</a></li>    <li class="rss"><a href="http://opinionator.blogs.nytimes.com/category/disunion/feed/">Subscribe to Disunion Series Page</a></li>    <li class="facebook"><a href="http://www.facebook.com/pages/Civil-War-The-New-York-Times/171184126228555">Visit on Facebook</a></li></ul></div></li>
+<li feed="http://opinionator.blogs.nytimes.com/category/fixes/feed/" moreUrl="http://opinionator.blogs.nytimes.com/category/fixes/page/2/" moreLabel="More From Fixes">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">Fixes</span></h3>
+</div>
+<div class="feedHeader" style="display:none;"><div class="thumbnail">    <img src="http://graphics8.nytimes.com/images/blogs_v3/opinionator/pogs/fixes75.gif"></div><h2>Fixes</h2><ul class="refer">    <li><a href="http://opinionator.blogs.nytimes.com/category/fixes">Fixes Series Page</a></li>    <li class="rss"><a href="http://opinionator.blogs.nytimes.com/category/fixes/feed/">Subscribe to Fixes Series Page</a></li>    <li class="facebook"><a href="http://www.facebook.com/pages/Social-Change-New-York-Times/147881585260868">Visit on Facebook</a></li></ul></div></li>
+<li feed="http://opinionator.blogs.nytimes.com/category/home-fires/feed/" moreUrl="http://opinionator.blogs.nytimes.com/category/home-fires/page/2/" moreLabel="More From Home Fires">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">Home Fires</span></h3>
+</div>
+<div class="feedHeader" style="display:none;"><div class="thumbnail">    <img src="http://graphics8.nytimes.com/images/blogs_v3/opinionator/pogs/homefires75.gif"></div><h2>Home Fires</h2><ul class="refer">    <li><a href="http://opinionator.blogs.nytimes.com/category/home-fires">Home Fires Series Page</a></li>    <li class="rss"><a href="http://opinionator.blogs.nytimes.com/category/home-fires/feed/">Subscribe to Home Fires Series Page</a></li></ul></div></li>
+<li feed="http://opinionator.blogs.nytimes.com/category/the-conversation/feed/" moreUrl="http://opinionator.blogs.nytimes.com/category/the-conversation/page/2/" moreLabel="More From The Conversation">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">The Conversation</span></h3>
+</div>
+<div class="feedHeader" style="display:none;"><div class="thumbnail">    <img src="http://graphics8.nytimes.com/images/blogs_v3/opinionator/pogs/theconversation75.gif"></div><h2>The Conversation</h2><ul class="refer">    <li><a href="http://opinionator.blogs.nytimes.com/category/the-conversation">The Conversation’s Page</a></li>    <li class="rss"><a href="http://opinionator.blogs.nytimes.com/category/the-conversation/feed/">Subscribe to The Conversation’s Page</a></li></ul></div></li>
+<li feed="http://opinionator.blogs.nytimes.com/category/the-score/feed/" moreUrl="http://opinionator.blogs.nytimes.com/category/the-score/page/2/" moreLabel="More From The Score">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">The Score</span></h3>
+</div>
+<div class="feedHeader" style="display:none;"><div class="thumbnail">    <img src="http://graphics8.nytimes.com/images/blogs_v3/opinionator/pogs/thescore75.gif"></div><h2>The Score</h2><ul class="refer">    <li><a href="http://opinionator.blogs.nytimes.com/category/the-score">The Score Series Page</a></li>    <li class="rss"><a href="http://opinionator.blogs.nytimes.com/category/the-score/feed/">Subscribe to The Score Series Page</a></li></ul></div></li>
+<li feed="http://opinionator.blogs.nytimes.com/category/the-stone/feed/" moreUrl="http://opinionator.blogs.nytimes.com/category/the-stone/page/2/" moreLabel="More From The Stone">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">The Stone</span></h3>
+</div>
+<div class="feedHeader" style="display:none;"><div class="thumbnail">    <img src="http://graphics8.nytimes.com/images/blogs_v3/opinionator/pogs/thestone75.gif"></div><h2>The Stone</h2><ul class="refer">    <li><a href="http://opinionator.blogs.nytimes.com/category/the-stone">The Stone Series Page</a></li>    <li class="rss"><a href="http://opinionator.blogs.nytimes.com/category/the-stone/feed/">Subscribe to The Stone Series Page</a></li></ul></div></li>
+<li feed="http://opinionator.blogs.nytimes.com/category/the-thread/feed/" moreUrl="http://opinionator.blogs.nytimes.com/category/the-thread/page/2/" moreLabel="More From The Thread">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">The Thread</span></h3>
+</div>
+<div class="feedHeader" style="display:none;"><div class="thumbnail">    <img src="http://graphics8.nytimes.com/images/blogs_v3/opinionator/pogs/thethread75.gif"></div><h2>The Thread</h2><ul class="refer">    <li><a href="http://opinionator.blogs.nytimes.com/category/the-thread">More From The Thread</a></li>    <li class="rss"><a href="http://opinionator.blogs.nytimes.com/category/the-thread/feed/">Subscribe to More From The Thread</a></li></ul></div></li>
+<li feed="http://opinionator.blogs.nytimes.com/category/townies/feed/" moreUrl="http://opinionator.blogs.nytimes.com/category/townies/page/2/" moreLabel="More From Townies">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">Townies</span></h3>
+</div>
+<div class="feedHeader" style="display:none;"><div class="thumbnail">    <img src="http://graphics8.nytimes.com/images/blogs_v3/opinionator/pogs/townies75.gif"></div><h2>Townies</h2><ul class="refer">    <li><a href="http://opinionator.blogs.nytimes.com/category/townies">The Townies Series Page</a></li>    <li class="rss"><a href="http://opinionator.blogs.nytimes.com/category/townies/feed/">Subscribe to The Townies Series Page</a></li></ul></div></li>
+</ul>
+<li class="letters" feed="http://topics.nytimes.com/top/opinion/editorialsandoped/letters/index.html?rss=1" moreUrl="http://topics.nytimes.com/top/opinion/editorialsandoped/letters/index.html?offset=&s=newest" moreLabel="More Letters"><div class="pointer"></div><div class="wrap"><h2><span class="label">Letters</span></h2></div>
+<div class="feedHeader" style="display:none;">
+<h2>Letters</h2>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/letters/">Letters&#8217 Page</a></li>
+<li class="rss"><a href="http://topics.nytimes.com/top/opinion/editorialsandoped/letters/index.html?rss=1">Subscribe to Letters</a></li>
+<li class="twitter"><a href="http://twitter.com/tomfeyer">Follow on Twitter</a></li>
+</ul>
+</div>
+</li>
+<li class="sundayreview" feed="http://www.nytimes.com/services/xml/rss/nyt/sunday-review.xml" moreUrl="http://query.nytimes.com/search/opinion?date_select=full&query=%22Sunday+Review%22&type=nyt&x=0&y=0" moreLabel="More Sunday Review"><div class="pointer"></div><div class="wrap"><h2><span class="label">Sunday Review</span></h2></div>
+<div class="feedHeader" style="display:none;">
+<h2><img src="http://graphics8.nytimes.com/images/opinion/sectionfront/sundayreview190.png" alt="Sunday Review"></h2>
+<ul class="refer">
+<li class="rss"><a href="http://www.nytimes.com/services/xml/rss/nyt/sunday-review.xml">Subscribe to Sunday Review</a></li>
+</ul>
+</div>
+</li>
+<li class="theLoyalOpposition" moreLabel="More from The Loyal Opposition" moreUrl="http://loyalopposition.blogs.nytimes.com" feed="http://loyalopposition.blogs.nytimes.com/feed/"><div class="pointer"></div><div class="wrap"><h2><span class="label">The Loyal Opposition</span></h2></div>
+<div class="feedHeader" style="display:none;">
+<h2>The Loyal Opposition</h2>
+<ul class="refer">
+<li><a href="http://loyalopposition.blogs.nytimes.com">The Loyal Opposition Home</a></li>
+<li class="rss"><a href="http://loyalopposition.blogs.nytimes.com/feed/">Subscribe to The Loyal Opposition</a></li>
+</ul>
+</div>
+</li>             
+<li class="campaignStops" moreUrl="http://campaignstops.blogs.nytimes.com" moreLabel="More from Campaign Stops" feed="http://campaignstops.blogs.nytimes.com/feed/"><div class="pointer"></div><div class="wrap"><h2><span class="label">Campaign Stops</span></h2></div>
+<div class="feedHeader" style="display:none;">
+<h2>Campaign Stops</h2>
+<ul class="refer">
+<li><a href="http://campaignstops.blogs.nytimes.com">Campaign Stops Home</a></li>
+<li class="rss"><a href="http://campaignstops.blogs.nytimes.com/feed/">Subscribe to Campaign Stops</a></li>
+</ul>            
+</div>
+</li>       
+<li class="topics collapsible"><div class="pointer"></div><div class="wrap"><h2>Topics</h2></div>
+<ul style="display:none;">
+<li feed="http://topics.nytimes.com/top/opinion/afghanistan-war/index.html?rss=1" moreUrl="http://topics.nytimes.com/top/opinion/afghanistan-war/index.html?offset=15&s=newest" moreLabel="More About Afghanistan War">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">Afghanistan War</span></h3>
+</div>
+<div class="feedHeader" style="display:none;"><h2>Afghanistan War</h2><ul class="refer">    <li><a href="http://topics.nytimes.com/top/opinion/afghanistan-war/index.html">Afghanistan War Page</a></li>    <li class="rss"><a href="http://topics.nytimes.com/top/opinion/afghanistan-war/index.html?rss=1">Subscribe to Afghanistan War</a></li></ul></div></li>
+<li feed="http://topics.nytimes.com/top/opinion/economy/index.html?rss=1" moreUrl="http://topics.nytimes.com/top/opinion/economy/index.html?offset=15&s=newest" moreLabel="More About Economy">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">Economy</span></h3>
+</div>
+<div class="feedHeader" style="display:none;"><h2>Economy</h2><ul class="refer">    <li><a href="http://topics.nytimes.com/top/opinion/economy/index.html">Economy Page</a></li>    <li class="rss"><a href="http://topics.nytimes.com/top/opinion/economy/index.html?rss=1">Subscribe to Economy</a></li></ul></div></li>
+<li feed="http://topics.nytimes.com/top/opinion/education/index.html?rss=1" moreUrl="http://topics.nytimes.com/top/opinion/education/index.html?offset=15&s=newest" moreLabel="More About Education">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">Education</span></h3>
+</div>
+<div class="feedHeader" style="display:none;"><h2>Education</h2><ul class="refer">    <li><a href="http://topics.nytimes.com/top/opinion/education/index.html">Education Page</a></li>    <li class="rss"><a href="http://topics.nytimes.com/top/opinion/education/index.html?rss=1">Subscribe to Education</a></li></ul></div></li>
+<li feed="http://topics.nytimes.com/top/opinion/environment/index.html?rss=1" moreUrl="http://topics.nytimes.com/top/opinion/environment/index.html?offset=15&s=newest" moreLabel="More About Environment">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">Environment</span></h3>
+</div>
+<div class="feedHeader" style="display:none;"><h2>Environment</h2><ul class="refer">    <li><a href="http://topics.nytimes.com/top/opinion/environment/index.html">Environment Page</a></li>    <li class="rss"><a href="http://topics.nytimes.com/top/opinion/environment/index.html?rss=1">Subscribe to Environment</a></li></ul></div></li>
+<li feed="http://topics.nytimes.com/top/opinion/health-care/index.html?rss=1" moreUrl="http://topics.nytimes.com/top/opinion/health-care/index.html?offset=15&s=newest" moreLabel="More About Health Care">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">Health Care</span></h3>
+</div>
+<div class="feedHeader" style="display:none;"><h2>Health Care</h2><ul class="refer">    <li><a href="http://topics.nytimes.com/top/opinion/health-care/index.html">Health Care Page</a></li>    <li class="rss"><a href="http://topics.nytimes.com/top/opinion/health-care/index.html?rss=1">Subscribe to Health Care</a></li></ul></div></li>
+<li feed="http://topics.nytimes.com/top/opinion/immigration/index.html?rss=1" moreUrl="http://topics.nytimes.com/top/opinion/immigration/index.html?offset=15&s=newest" moreLabel="More About Immigration">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">Immigration</span></h3>
+</div>
+<div class="feedHeader" style="display:none;"><h2>Immigration</h2><ul class="refer">    <li><a href="http://topics.nytimes.com/top/opinion/immigration/index.html">Immigration Page</a></li>    <li class="rss"><a href="http://topics.nytimes.com/top/opinion/immigration/index.html?rss=1">Subscribe to Immigration</a></li></ul></div></li>
+<li feed="http://topics.nytimes.com/top/opinion/iraq-war/index.html?rss=1" moreUrl="http://topics.nytimes.com/top/opinion/iraq-war/index.html?offset=15&s=newest" moreLabel="More About Iraq War">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">Iraq War</span></h3>
+</div>
+<div class="feedHeader" style="display:none;"><h2>Iraq War</h2><ul class="refer">    <li><a href="http://topics.nytimes.com/top/opinion/iraq-war/index.html">Iraq War Page</a></li>    <li class="rss"><a href="http://topics.nytimes.com/top/opinion/iraq-war/index.html?rss=1">Subscribe to Iraq War</a></li></ul></div></li>
+<li feed="http://topics.nytimes.com/top/opinion/law-and-legislation/index.html?rss=1" moreUrl="http://topics.nytimes.com/top/opinion/law-and-legislation/index.html?offset=15&s=newest" moreLabel="More About Law and Legislation">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">Law and Legislation</span></h3>
+</div>
+<div class="feedHeader" style="display:none;"><h2>Law and Legislation</h2><ul class="refer">    <li><a href="http://topics.nytimes.com/top/opinion/law-and-legislation/index.html">Law and Legislation Page</a></li>    <li class="rss"><a href="http://topics.nytimes.com/top/opinion/law-and-legislation/index.html?rss=1">Subscribe to Law and Legislation</a></li></ul></div></li>
+<li feed="http://topics.nytimes.com/top/opinion/middle-east/index.html?rss=1" moreUrl="http://topics.nytimes.com/top/opinion/middle-east/index.html?offset=15&s=newest" moreLabel="More About Middle East">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">Middle East</span></h3>
+</div>
+<div class="feedHeader" style="display:none;"><h2>Middle East</h2><ul class="refer">    <li><a href="http://topics.nytimes.com/top/opinion/middle-east/index.html">Middle East Page</a></li>    <li class="rss"><a href="http://topics.nytimes.com/top/opinion/middle-east/index.html?rss=1">Subscribe to Middle East</a></li></ul></div></li>
+<li feed="http://topics.nytimes.com/top/opinion/new_york_state_politics/index.html?rss=1" moreUrl="http://topics.nytimes.com/top/opinion/new_york_state_politics/index.html?offset=15&s=newest" moreLabel="More About New York State Politics">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">New York State Politics</span></h3>
+</div>
+<div class="feedHeader" style="display:none;"><h2>New York State Politics</h2><ul class="refer">    <li><a href="http://topics.nytimes.com/top/opinion/new_york_state_politics/index.html">New York State Politics Page</a></li>    <li class="rss"><a href="http://topics.nytimes.com/top/opinion/new_york_state_politics/index.html?rss=1">Subscribe to New York State Politics</a></li></ul></div></li>
+<li feed="http://topics.nytimes.com/top/opinion/united-states-politics/index.html?rss=1" moreUrl="http://topics.nytimes.com/top/opinion/united-states-politics/index.html?offset=15&s=newest" moreLabel="More About United States Elections">
+<div class="pointer"></div>
+<div class="wrap">
+<h3><span class="label">United States Elections</span></h3>
+</div>
+<div class="feedHeader" style="display:none;"><h2>United States Elections</h2><ul class="refer">    <li><a href="http://topics.nytimes.com/top/opinion/united-states-politics/index.html">United States Elections Page</a></li>    <li class="rss"><a href="http://topics.nytimes.com/top/opinion/united-states-politics/index.html?rss=1">Subscribe to United States Elections</a></li></ul></div></li>
+</ul>
+<li class="roomfordebate" feed="http://www.nytimes.com/roomfordebate/scoop.rss" moreUrl="http://www.nytimes.com/roomfordebate/?page=2" moreLabel="More From Room for Debate"><div class="pointer"></div><div class="wrap"><h2><span class="label">Room For Debate</span></h2></div>
+<div class="feedHeader" style="display:none;">
+<div class="thumbnail">
+<img src="http://graphics8.nytimes.com/images/2010/07/09/opinion/09rfd-image/09rfd-image-custom4.jpg">
+</div>
+<h2>Room for Debate</h2>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/roomfordebate">Room for Debate Home</a></li>
+<li class="rss"><a href="http://www.nytimes.com/roomfordebate/scoop.rss">Subscribe to Room for Debate</a></li>
+</ul>
+</div>
+</li>
+<li class="video" feed="http://video.nytimes.com/video/playlist/opinion/1194811622299/index.html?rss=1" moreUrl="http://video.nytimes.com/video/playlist/opinion/1194811622299/index.html" moreLabel="More Opinion Videos"><div class="pointer"></div><div class="wrap"><h2><span class="label">Videos</span></h2></div>
+<div class="feedHeader" style="display:none;">
+<h2>Videos</h2>
+<ul class="refer">
+<li><a href="http://video.nytimes.com/video/playlist/opinion/1194811622299/index.html">Opinion Videos Home</a></li>                
+<li class="rss"><a href="http://video.nytimes.com/video/playlist/opinion/1194811622299/index.html?rss=1">Subscribe to Opinion Videos</a></li>
+</ul>
+</div>
+</li>    
+</ul>
+<div class="bottomLeft">
+<dl>
+<dd><a href="http://www.nytimes.com/2011/03/28/opinion/l28times.html">Publisher's Letter About<br/> Digital Subscriptions</a></dd>
+<dd><a href="http://www.nytimes.com/pages/opinion/global/index.html">Global Opinion</a></dd>
+<dd><a href="http://topics.nytimes.com/top/opinion/thepubliceditor/index.html">The Public Editor</a></dd>
+<dt>How-To</dt>
+<dd><a href="http://www.nytimes.com/ref/membercenter/help/opedsubmit.html">Submit an Op-Ed</a></dd>
+<dd><a href="http://www.nytimes.com/content/help/site/editorial/op-video/video.html?ref=opinion">Submit an Opinion Video</a></dd>
+<dd><a href="http://www.nytimes.com/ref/membercenter/help/lettertoeditor.html">Submit a Letter</a></dd>
+<dt>NYT Staff</dt>
+<dd><a href="http://www.nytimes.com/interactive/opinion/editorialboard.html">Editorial Board</a></dd>
+<dd><a href="http://www.nytimes.com/ref/membercenter/masthead_newspaper.html">NYT Masthead</a></dd>   
+<!--dd><a href="http://www.nytimes.com/ref/membercenter/help/webmasthead.html">Web Site Masthead</a></dd-->
+</dl>  
+</div>
+</div>
+</div>
+<div class="bcColumn column">
+<div class="bColumn">
+<div id="spanABTopRegion">
+<div class="columnGroup">
+<div class="subColumns">
+<div class="column">
+<div class="columnGroup">
+<div class="story">
+<h6 class="kicker">The Loyal Opposition</h6>
+<h3>
+<a href="http://loyalopposition.blogs.nytimes.com/2011/12/02/the-despair-index/?ref=opinion">The Despair Index</a>
+</h3>
+<h6 class="byline">
+By DAVID FIRESTONE</h6>
+<div class="thumbnail">
+<a href="http://loyalopposition.blogs.nytimes.com/2011/12/02/the-despair-index/?ref=opinion">
+<img src="http://graphics8.nytimes.com/images/blogs_v3/loyalopposition/loyalopposition75.gif" width="75" height="75" alt="The Despair Index" border="0">
+</a>
+</div>
+<p class="summary">The latest jobs report is the best in a long while, but it has a dark side.</p>
+</div>
+</div>
+</div>                
+<div class="column lastColumn">
+<div class="columnGroup">
+<div class="story">
+<h6 class="kicker">Campaign Stops</h6>
+<h3>
+<a href="http://campaignstops.blogs.nytimes.com/2011/12/02/can-we-get-serious/?ref=opinion">Can We Get Serious?</a>
+</h3>
+<h6 class="byline">
+By GIL TROY</h6>
+<div class="thumbnail">
+<a href="http://campaignstops.blogs.nytimes.com/2011/12/02/can-we-get-serious/?ref=opinion">
+<img src="http://graphics8.nytimes.com/images/blogs_v3/campaignstops/campaignstops75.gif" width="75" height="75" alt="Can We Get Serious?" border="0">
+</a>
+</div>
+<p class="summary">The recipe for a substantial presidential campaign is hard to follow.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="singleRuleDivider"></div>
+<div class="subColumns">
+<div class="column">
+<div class="columnGroup">
+<div class="story">
+<h6 class="kicker">Opinionator | Fixes</h6>
+<h3>
+<a href="http://opinionator.blogs.nytimes.com/2011/12/01/health-care-for-a-changing-work-force/?ref=opinion">Health Care for a Changing Work Force</a>
+</h3>
+<h6 class="byline">
+By DAVID BORNSTEIN</h6>
+<div class="thumbnail">
+<a href="http://opinionator.blogs.nytimes.com/2011/12/01/health-care-for-a-changing-work-force/?ref=opinion">
+<img src="http://graphics8.nytimes.com/images/blogs_v3/opinionator/pogs/fixes75.gif" width="75" height="75" alt="Health Care for a Changing Work Force" border="0">
+</a>
+</div>
+<p class="summary">With 42 million independent workers in the United States, the Freelancers Union's health plan may be a model for the future.</p>
+</div>
+</div>
+</div>                
+<div class="column lastColumn">
+<div class="columnGroup">
+<div class="story">
+<h6 class="kicker">Room for Debate</h6>
+<h3>
+<a href="http://www.nytimes.com/roomfordebate/2011/12/01/save-america-shop-at-work/?ref=opinion">Shop at Work, and Save America?</a>
+</h3>
+<h6 class="byline">
+</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/roomfordebate/2011/12/01/save-america-shop-at-work/?ref=opinion">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/opinion/30rfd-image/30rfd-image-custom2.jpg" width="75" height="75" alt="Shop at Work, and Save America?" border="0">
+</a>
+</div>
+<p class="summary">Should employers be worried about lost productivity, or grateful to workers who are always online?</p>
+</div>
+</div>
+</div>
+</div>
+<div class="singleRuleDivider"></div>
+<div class="subColumns">
+<div class="column">
+<div class="columnGroup">
+<div class="story">
+<h6 class="kicker">Op-Ed Contributor</h6>
+<h3>
+<a href="http://www.nytimes.com/2011/12/02/opinion/forensic-analysts-should-defend-reports-in-court.html?ref=opinion">The Bill of Rights Doesn’t Come Cheap</a>
+</h3>
+<h6 class="byline">
+By JEFFREY L. FISHER</h6>
+<p class="summary">Should an analyst who produced, say, a fingerprint report have to show up at trial to face questions about the report?</p>
+</div>
+</div>
+</div>                
+<div class="column lastColumn">
+<div class="columnGroup">
+<div class="story">
+<h6 class="kicker">Opinionator | Disunion</h6>
+<h3>
+<a href="http://opinionator.blogs.nytimes.com/2011/12/01/lincolns-p-r-coup/?ref=opinion">Lincoln’s P.R. Coup</a>
+</h3>
+<h6 class="byline">
+By AARON W. MARRS</h6>
+<div class="thumbnail">
+<a href="http://opinionator.blogs.nytimes.com/2011/12/01/lincolns-p-r-coup/?ref=opinion">
+<img src="http://graphics8.nytimes.com/images/blogs_v3/opinionator/disunion/disunion75.gif" width="75" height="75" alt="Lincoln’s P.R. Coup" border="0">
+</a>
+</div>
+<p class="summary">Why did the president release scores of State Department correspondence to the public in 1861?</p>
+</div>
+</div>
+</div>
+</div>
+<div class="singleRuleDivider"></div>
+<div class="subColumns">
+<div class="column">
+<div class="columnGroup">
+<div class="story">
+<h6 class="kicker">VIDEO</h6>
+<h3>
+<a href="http://video.nytimes.com/video/2011/12/01/opinion/100000001202664/bloggingheads-the-3-3-3-plan.html?ref=opinion">Bloggingheads: The 3-3-3 Plan</a>
+</h3>
+<div class="thumbnail">
+<a href="http://video.nytimes.com/video/2011/12/01/opinion/100000001202664/bloggingheads-the-3-3-3-plan.html?ref=opinion">
+<img src="http://graphics8.nytimes.com/images/2009/05/16/opinion/blogicon.jpg" width="75" height="75" alt="" border="0">
+</a>
+</div>
+<p class="summary">Robert Wright of Bloggingheads.tv and Mickey Kaus of kausfiles debate raising taxes and the Occupy movement.</p>
+</div>
+</div>
+</div>                
+<div class="column lastColumn">
+<div class="columnGroup">
+<div class="story">
+<h6 class="kicker">Editorial</h6>
+<h3>
+<a href="http://www.nytimes.com/2011/12/02/opinion/egypts-vote.html?ref=opinion">Egypt’s Vote</a>
+</h3>
+<h6 class="byline">
+</h6>
+<p class="summary">The struggle to build a democracy in Egypt was on display in elections this week, but the country has a long way to go.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="singleRuleDivider"></div>
+<div class="subColumns">
+<div class="column">
+<div class="columnGroup">
+<div class="story">
+<h6 class="kicker">Editorial</h6>
+<h3>
+<a href="http://www.nytimes.com/2011/12/02/opinion/woeful-cynical-misconduct.html?ref=opinion">Woeful, Cynical Misconduct</a>
+</h3>
+<h6 class="byline">
+</h6>
+<p class="summary">The depth of prosecutorial misconduct in the 2008 trial of Senator Ted Stevens is shocking. The Justice Department must act forcefully to repair the damage.</p>
+</div>
+</div>
+</div>                
+<div class="column lastColumn">
+<div class="columnGroup">
+<div class="story">
+<h6 class="kicker">Editorial | Appreciations</h6>
+<h3>
+<a href="http://www.nytimes.com/2011/12/02/opinion/bach-to-brooklyn.html?ref=opinion">Bach to Brooklyn</a>
+</h3>
+<h6 class="byline">
+By FRANCIS X. CLINES</h6>
+<p class="summary">The Brooklyn waterfront has Olga Bloom to thank for turning a coffee barge into a premier venue for chamber music.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="singleRuleDivider"></div>
+<div class="columnGroup doubleWide">
+<div class="story">
+<h6 class="kicker">Letters</h6>
+<h2>
+<a href="http://www.nytimes.com/2011/12/02/opinion/punishing-wrongdoing-on-wall-street.html?ref=opinion">Punishing Wrongdoing on Wall Street</a>
+</h2>
+<h6 class="byline">
+</h6>
+<div class="ledePhoto">
+<a href="http://www.nytimes.com/2011/12/02/opinion/punishing-wrongdoing-on-wall-street.html?ref=opinion">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/opinion/1202LETTERSsahre/1202LETTERSsahre-sfSpan.jpg" width="395" height="400" alt="" border="0">
+</a>
+<h6 class="credit">Paul Sahre</h6>
+</div>
+</div>
+<div class="singleRuleDivider"></div>
+</div>
+<div class="columnGroup doubleWide">
+<div style="display:none;">    
+<div class="story">
+<h6 class="kicker">The Loyal Opposition</h6>
+<h2>
+<a href="http://loyalopposition.blogs.nytimes.com/2011/12/02/dispatch-from-a-hydrofracking-hearing/?ref=opinion">Dispatch From a Hydrofracking Hearing</a>
+</h2>
+<h6 class="byline">
+By ANDREW ROSENTHAL    </h6>
+<p class="summary">On paper, hydraulic fracturing is a highly-technical subject. It is not a highly technical debate.                </p>
+</div>
+<div class="singleRuleDivider"></div>
+</div></div>
+<div class="columnGroup">
+<div class="subColumns">
+<div class="column">
+<div class="columnGroup">
+<div class="story">
+<h6 class="kicker">Letter</h6>
+<h3>
+<a href="http://www.nytimes.com/2011/12/02/opinion/the-solyndra-loan-inquiry.html?ref=opinion">The Solyndra Loan Inquiry</a>
+</h3>
+<h6 class="byline">
+</h6>
+</div>
+</div>
+</div>                
+<div class="column lastColumn">
+<div class="columnGroup">
+<div class="story">
+<h6 class="kicker">Letter</h6>
+<h3>
+<a href="http://www.nytimes.com/2011/12/02/opinion/for-profit-colleges.html?ref=opinion">For-Profit Colleges</a>
+</h3>
+<h6 class="byline">
+</h6>
+</div>
+</div>
+</div>
+</div>
+<div class="singleRuleDivider"></div>
+<div class="subColumns">
+<div class="column">
+<div class="columnGroup">
+<div class="story">
+<h6 class="kicker">Letter</h6>
+<h3>
+<a href="http://www.nytimes.com/2011/12/02/opinion/school-lunches.html?ref=opinion">School Lunches</a>
+</h3>
+<h6 class="byline">
+</h6>
+</div>
+</div>
+</div>                
+<div class="column lastColumn">
+<div class="columnGroup">
+<div class="story">
+<h6 class="kicker">Letter</h6>
+<h3>
+<a href="http://www.nytimes.com/2011/12/02/opinion/teacher-evaluations.html?ref=opinion">Teacher Evaluations</a>
+</h3>
+<h6 class="byline">
+</h6>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><!--end #spanABTopRegion.opening -->
+</div>
+<div class="cColumn">
+<!---->                    <div class="columnGroup first">
+
+<div class="singleAd" id="SFMiddle">
+<!-- ADXINFO classification="sumo" campaign="PANERAI_1779542_DEC02_INT"--><script src="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=rsb&c=28&pli=3568850&PluID=0&w=336&h=850&ord=2011.12.02.18.04.30&ucm=true"></script>
+
+<noscript>
+
+<a href="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=brd&FlightID=3568850&Page=&PluID=0&Pos=7955" target="_blank"><img src="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=bsr&FlightID=3568850&Page=&PluID=0&Pos=7955" border=0 width=336 height=850></a>
+
+</noscript>
+
+
+</div>
+
+
+<div class="blogModule">
+<div class="singleRuleDivider"></div>
+<div class="">
+<div class="insetH">
+<div class="story">
+<div class="thumbnail"><img src="http://graphics8.nytimes.com/images/blogs_v3/loyalopposition/loyalopposition75.png"></div>
+<div class="featuredBlogHeader">
+<h2>The Loyal Opposition</h2>
+<h6 class="subHeader">From the Desk of Andrew Rosenthal</h6>   
+</div>
+<h3><a href="http://loyalopposition.blogs.nytimes.com/2011/12/02/the-despair-index/">The Despair Index</a></h3>
+<h6 class="byline">By DAVID FIRESTONE</h6>
+<p class="summary"></p>
+<p class="dateline">December 2, 2011, 12:10 PM</p>
+<p class="refer"><a href="http://loyalopposition.blogs.nytimes.com">Read More »</a></p>
+</div>   
+</div>    
+<div class="singleRuleDivider"></div>    
+</div>
+<div class="">
+<div class="insetH">
+<div class="story">
+<div class="thumbnail"><img src="http://graphics8.nytimes.com/images/blogs_v3/campaignstops/campaignstops75.gif"></div>
+<div class="featuredBlogHeader">
+<h2>Campaign Stops</h2>
+<h6 class="subHeader">Strong Opinions on the 2012 Election</h6>   
+</div>
+<h3><a href="http://campaignstops.blogs.nytimes.com/2011/12/02/can-we-get-serious/">Can We Get Serious?</a></h3>
+<h6 class="byline">By GIL TROY</h6>
+<p class="summary"></p>
+<p class="dateline">December 2, 2011, 12:57 AM</p>
+<p class="refer"><a href="http://campaignstops.blogs.nytimes.com">Read More »</a></p>
+</div>   
+</div>    
+<div class="singleRuleDivider"></div>    
+</div>
+<div class="insetH"> 
+<h2>Latest From the Opinion Blogs</h2>
+<div class="story">
+<p class="kicker">Dot Earth</p>
+<h3><a href="http://dotearth.blogs.nytimes.com/2011/12/02/apple-and-planet-low-on-cats/">Apple, and Planet, Low on Cats</a></h3>
+<p class="dateline">December 2, 2011, 11:12 AM</p>
+</div>
+<div class="story">
+<p class="kicker">Latitude</p>
+<h3><a href="http://latitude.blogs.nytimes.com/2011/12/02/taking-back-the-favelas/">Taking Back the Favelas</a></h3>
+<p class="dateline">December 2, 2011, 8:14 AM</p>
+</div>
+<div class="story">
+<p class="kicker">Paul Krugman</p>
+<h3><a href="http://krugman.blogs.nytimes.com/2011/12/02/profligate-zombies/">Profligate Zombies</a></h3>
+<p class="dateline">December 2, 2011, 7:34 AM</p>
+</div>
+<div class="story">
+<p class="kicker">Ross Douthat</p>
+<h3><a href="http://douthat.blogs.nytimes.com/2011/12/01/the-palin-endorsement/">The Palin Endorsement</a></h3>
+<p class="dateline">December 1, 2011, 4:50 PM</p>
+</div>
+<div class="story">
+<p class="kicker">David Brooks</p>
+<h3><a href="http://brooks.blogs.nytimes.com/2011/12/01/the-life-report-regina-titus/">The Life Report: Regina Titus</a></h3>
+<p class="dateline">December 1, 2011, 3:31 PM</p>
+</div>
+<div class="story">
+<p class="kicker">Mark Bittman</p>
+<h3><a href="http://bittman.blogs.nytimes.com/2011/12/01/note-to-readers/">Note to Readers</a></h3>
+<p class="dateline">December 1, 2011, 1:17 PM</p>
+</div>
+<div class="story">
+<p class="kicker">Bill Keller</p>
+<h3><a href="http://keller.blogs.nytimes.com/2011/11/29/the-politics-of-economics-feedback/">The Politics of Economics: Feedback</a></h3>
+<p class="dateline">November 29, 2011, 7:11 PM</p>
+</div>
+<div class="story">
+<p class="kicker">Nicholas D. Kristof</p>
+<h3><a href="http://kristof.blogs.nytimes.com/2011/11/29/notes-from-a-young-american-in-congo-the-election/">Notes From a Young American in Congo: The Election</a></h3>
+<p class="dateline">November 29, 2011, 4:03 PM</p>
+</div>
+<div class="story">
+<p class="kicker">Public Editor's Journal</p>
+<h3><a href="http://publiceditor.blogs.nytimes.com/2011/11/04/occupy-wall-street-how-should-it-be-covered-now/">Occupy Wall Street: How Should It Be Covered Now?</a></h3>
+<p class="dateline">November 4, 2011, 1:53 PM</p>
+</div>
+</div>
+</div>
+
+<div class="singleAd" id="Box3">
+<!-- ADXINFO classification="feature_squares" campaign="nyt2011-regilite-P1-todaysheadlines"--><iframe title="regilite" src="https://myaccount.nytimes.com/regilite?product=TH" width="336" height="90" marginheight="0" marginwidth="0" frameborder="0" vspace="0" hspace="0" scrolling="no"></iframe>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="footer">
+<ul class="first">
+<li class="first"><a href="http://www.nytimes.com">Home</a></li>
+<li >
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li>
+<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+</ul>    <ul>
+<li class="first"><a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&copy; 2011</a> <a href="http://www.nytco.com/">The New York Times Company</a></li>
+<li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Terms of Service</a></li>
+<li class="termsOfSale"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+<li><a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a></li>
+<li><a class="rssButton" href="http://www.nytimes.com/rss">RSS</a></li>
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+<li><a href="http://www.nytco.com/careers">Work for Us</a></li>
+<li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+</ul>
+</div>
+</div><!--close main -->
+</div><!--close page -->
+</div><!--close shell -->
+
+
+
+
+
+
+<script src="http://content.dl-rms.com/rms/5087/nodetag.js"></script>
+
+
+<IMG SRC="/adx/bin/clientside/6804263bQ2FR5jwqSQ2A5_nB5jwwoQ2BaqQ2BSQ2Ba" height="1" width="3">
+
+<script type="text/javascript" language="JavaScript">
+// Written by /usr/local/knews/bin/commentcount.pl Fri Dec  2 13:02:02 2011
+var NYTArticleCommentCounts = {
+"100000001190843":{count:147, commentsEnabled:false},
+"100000001190858":{count:204, commentsEnabled:false},
+"100000001190907":{count:49, commentsEnabled:false},
+"100000001191255":{count:237, commentsEnabled:false},
+"100000001191704":{count:133, commentsEnabled:false},
+"100000001191724":{count:100, commentsEnabled:false},
+"100000001191950":{count:122, commentsEnabled:false},
+"100000001192133":{count:307, commentsEnabled:false},
+"100000001192329":{count:76, commentsEnabled:false},
+"100000001190961":{count:19, commentsEnabled:false},
+"100000001177231":{count:1, commentsEnabled:true},
+"100000001177245":{count:74, commentsEnabled:true},
+"100000001179958":{count:24, commentsEnabled:false},
+"100000001180322":{count:227, commentsEnabled:true},
+"100000001183078":{count:44, commentsEnabled:false},
+"100000001183080":{count:327, commentsEnabled:false},
+"100000001183081":{count:7, commentsEnabled:false},
+"100000001183084":{count:235, commentsEnabled:false},
+"100000001183087":{count:11, commentsEnabled:false},
+"100000001183089":{count:14, commentsEnabled:false},
+"100000001183090":{count:11, commentsEnabled:false},
+"100000001183091":{count:3, commentsEnabled:false},
+"100000001183094":{count:14, commentsEnabled:false},
+"100000001184186":{count:79, commentsEnabled:false},
+"100000001184524":{count:149, commentsEnabled:false},
+"100000001186117":{count:1, commentsEnabled:false},
+"100000001186193":{count:12, commentsEnabled:true},
+"100000001186569":{count:190, commentsEnabled:false},
+"100000001189184":{count:49, commentsEnabled:false},
+"100000001190721":{count:71, commentsEnabled:false},
+"100000001191577":{count:224, commentsEnabled:false},
+"100000001191688":{count:28, commentsEnabled:false},
+"100000001191719":{count:107, commentsEnabled:false},
+"100000001191931":{count:121, commentsEnabled:false},
+"100000001191985":{count:110, commentsEnabled:false},
+"100000001192057":{count:211, commentsEnabled:false},
+"100000001192188":{count:141, commentsEnabled:false},
+"100000001192496":{count:52, commentsEnabled:false},
+"100000001192500":{count:206, commentsEnabled:false},
+"100000001192600":{count:224, commentsEnabled:false},
+"100000001192611":{count:167, commentsEnabled:false},
+"100000001193250":{count:67, commentsEnabled:false},
+"100000001193262":{count:37, commentsEnabled:false},
+"100000001193344":{count:98, commentsEnabled:false},
+"100000001193527":{count:27, commentsEnabled:false},
+"100000001193629":{count:10, commentsEnabled:false},
+"100000001193702":{count:17, commentsEnabled:false},
+"100000001193743":{count:108, commentsEnabled:false},
+"100000001193763":{count:516, commentsEnabled:false},
+"100000001193825":{count:86, commentsEnabled:false},
+"100000001193857":{count:48, commentsEnabled:false},
+"100000001193859":{count:160, commentsEnabled:false},
+"100000001193890":{count:117, commentsEnabled:false},
+"100000001193920":{count:44, commentsEnabled:false},
+"100000001193944":{count:303, commentsEnabled:false},
+"100000001193948":{count:7, commentsEnabled:false},
+"100000001194088":{count:51, commentsEnabled:false},
+"100000001194098":{count:17, commentsEnabled:true},
+"100000001194137":{count:109, commentsEnabled:false},
+"100000001194342":{count:159, commentsEnabled:false},
+"100000001194394":{count:68, commentsEnabled:false},
+"100000001194454":{count:36, commentsEnabled:false},
+"100000001194795":{count:192, commentsEnabled:false},
+"100000001194808":{count:628, commentsEnabled:false},
+"100000001194892":{count:125, commentsEnabled:false},
+"100000001195360":{count:33, commentsEnabled:false},
+"100000001195689":{count:178, commentsEnabled:false},
+"100000001195802":{count:10, commentsEnabled:false},
+"100000001195854":{count:304, commentsEnabled:false},
+"100000001195914":{count:48, commentsEnabled:false},
+"100000001195920":{count:17, commentsEnabled:false},
+"100000001195923":{count:44, commentsEnabled:false},
+"100000001195938":{count:138, commentsEnabled:false},
+"100000001195940":{count:10, commentsEnabled:false},
+"100000001195947":{count:92, commentsEnabled:false},
+"100000001195952":{count:162, commentsEnabled:false},
+"100000001195976":{count:141, commentsEnabled:false},
+"100000001195982":{count:283, commentsEnabled:false},
+"100000001196229":{count:42, commentsEnabled:false},
+"100000001196250":{count:104, commentsEnabled:true},
+"100000001196432":{count:333, commentsEnabled:false},
+"100000001196658":{count:42, commentsEnabled:false},
+"100000001196737":{count:28, commentsEnabled:true},
+"100000001196861":{count:18, commentsEnabled:false},
+"100000001196955":{count:71, commentsEnabled:true},
+"100000001196963":{count:143, commentsEnabled:false},
+"100000001197064":{count:68, commentsEnabled:false},
+"100000001197489":{count:3, commentsEnabled:false},
+"100000001197999":{count:75, commentsEnabled:false},
+"100000001198014":{count:290, commentsEnabled:false},
+"100000001198050":{count:69, commentsEnabled:true},
+"100000001198076":{count:32, commentsEnabled:true},
+"100000001198092":{count:204, commentsEnabled:false},
+"100000001198110":{count:424, commentsEnabled:false},
+"100000001198123":{count:343, commentsEnabled:false},
+"100000001198126":{count:62, commentsEnabled:false},
+"100000001198138":{count:163, commentsEnabled:false},
+"100000001198377":{count:143, commentsEnabled:true},
+"100000001198446":{count:23, commentsEnabled:true},
+"100000001198471":{count:52, commentsEnabled:true},
+"100000001198476":{count:157, commentsEnabled:true},
+"100000001198581":{count:48, commentsEnabled:true},
+"100000001198642":{count:253, commentsEnabled:false},
+"100000001199366":{count:136, commentsEnabled:true},
+"100000001199374":{count:114, commentsEnabled:true},
+"100000001199444":{count:155, commentsEnabled:false},
+"100000001199658":{count:4, commentsEnabled:true},
+"100000001200046":{count:884, commentsEnabled:true},
+"100000001200335":{count:165, commentsEnabled:false},
+"100000001200378":{count:192, commentsEnabled:false},
+"100000001200458":{count:77, commentsEnabled:false},
+"100000001200844":{count:23, commentsEnabled:true},
+"100000001201276":{count:88, commentsEnabled:true},
+"100000001201525":{count:188, commentsEnabled:true},
+"100000001202361":{count:0, commentsEnabled:true},
+"100000001202521":{count:27, commentsEnabled:true},
+"100000001202701":{count:270, commentsEnabled:false},
+"100000001202807":{count:17, commentsEnabled:true},
+"100000001202815":{count:116, commentsEnabled:false},
+"100000001202831":{count:232, commentsEnabled:true},
+"100000001202861":{count:95, commentsEnabled:true},
+"100000001202869":{count:39, commentsEnabled:true},
+"100000001202871":{count:23, commentsEnabled:true},
+"100000001202889":{count:54, commentsEnabled:true},
+"100000001202895":{count:33, commentsEnabled:true},
+"100000001202901":{count:90, commentsEnabled:true},
+"100000001203208":{count:19, commentsEnabled:true},
+"100000001203416":{count:220, commentsEnabled:true},
+"100000001203664":{count:0, commentsEnabled:true},
+"100000001188908":{count:16, commentsEnabled:true},
+"100000001194403":{count:0, commentsEnabled:true},
+"100000001194404":{count:0, commentsEnabled:true},
+"100000001194405":{count:71, commentsEnabled:true},
+"100000001194406":{count:0, commentsEnabled:true},
+"100000001194419":{count:1, commentsEnabled:true},
+"100000001194423":{count:58, commentsEnabled:true},
+"100000001194424":{count:0, commentsEnabled:true},
+"100000001194425":{count:0, commentsEnabled:true},
+"100000001194427":{count:0, commentsEnabled:true},
+"100000001194843":{count:51, commentsEnabled:true},
+"100000001197746":{count:1, commentsEnabled:true},
+"100000001201815":{count:0, commentsEnabled:true},
+"100000001201989":{count:0, commentsEnabled:true}
+};
+</script>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/homepage/articleCommentCounts.js"></script>
+<script type="text/javascript" language="JavaScript">
+    ArticleCommentCounts.apply()
+    </script>
+
+			
+		<!-- Start UPT call -->
+		<img height="1" width="3" border=0 src="http://up.nytimes.com/?d=0/9/&t=3&s=0&ui=&r=&u=www%2enytimes%2ecom%2fpages%2fopinion%2findex%2ehtml%3f">
+		<!-- End UPT call -->
+	
+		
+        <script language="JavaScript"><!--
+          var dcsvid="";
+          var regstatus="non-registered";
+        //--></script>
+        <script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+        <noscript>
+          <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div>
+        </noscript>
+   
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/app/opinion/sectionfront/feed-loader.js"></script>
+<script type="text/javascript">
+    (function() {
+        var frame = $$("#Box3 iframe").first();
+        var src = frame.src;
+        frame.src = src + "&background-color=f4f4f4";
+    })();
+</script>
+</body>
+</html>

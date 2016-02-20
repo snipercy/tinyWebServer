@@ -1,0 +1,1307 @@
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Post a Job, Find a Job, Get Career Advice - Monster - The New York Times</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="noarchive">
+<meta name="description" content="Find a job or find the best candidates in New York City and beyond with The New York Times and Monster." />
+<meta name="keywords" content="Hiring and Promotion,Electronic Arts Inc,Computer and Video Games,Executives and Management (Theory),Riccitiello, John,Executives and Management (Theory),Hiring and Promotion,Abt Associates,Flanagan, Kathleen L.,Executives and Management (Theory),BET (TV Network),RLJ Companies,Johnson, Robert L,Wages and Salaries,Unemployment,Layoffs and Job Reductions,United States Economy,Rutgers, The State University of New Jersey,Labor and Jobs,Pensions and Retirement Plans,Integrated Management Resources Group,Insurance,Accounting and Accountants,Pension Benefit Guaranty Corp,Government Procurement,Education (K-12),Teachers and School Employees,Wages and Salaries,Education Department (US),Hiring and Promotion,Automobiles,Center for Automotive Research,Labor and Jobs,Mentors,AchieveGlobal,Daniels, Sharon M.,Careers and Professions,Executives and Management (Theory),Workplace Environment,Labor and Jobs,Entrepreneurship,Work-Life Balance,Small Business,Unemployment,Joint Select Committee on Deficit Reduction,United States Economy,Labor and Jobs,National Labor Relations Board,Democratic Party,Brian E. Hayes,Organized Labor,United States Politics and Government,Republican Party,Legal Profession,Law Schools,Economic Conditions and Trends,Education,Drugs (Pharmaceuticals),Miller, Peter K.,Careers and Professions,OptiNose,Executives and Management (Theory),Workplace Environment,Brain,Productivity,Psychology and Psychologists,Computers and the Internet,Hiring and Promotion,Mozilla Foundation,Badges,MacArthur, John D and Catherine T, Foundation,Labor and Jobs" />
+<meta name="asset_id" content="">
+<meta name="CG" content="jobs">
+<meta name="SCG" content="">
+<meta name="PT" content="Section Front">
+<meta name="PST" content="">
+<link rel="canonical" href="http://www.nytimes.com/pages/jobs/index.html">
+<meta name="msapplication-starturl" content="http://www.nytimes.com/" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.nytimes.com/services/xml/rss/nyt/Jobs.xml"/>
+
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/build/sectionfront/jobs/styles.css" />
+<link rel="stylesheet" type="text/css" media="print" href="http://graphics8.nytimes.com/css/0.1/print/styles.css">
+<!--[if IE]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie.css);
+	    </style>
+	<![endif]-->
+<!--[if IE 6]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie6.css);
+	    </style>
+	<![endif]-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/DropDown.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/util/tooltip.js"></script>
+<script type="text/JavaScript">
+		var static_kw = "Hiring and Promotion;Electronic Arts Inc;Computer and Video Games;Executives and Management (Theory);Riccitiello; John;Executives and Management (Theory);Hiring and Promotion;Abt Associates;Flanagan; Kathleen L.;Executives and Management (Theory);BET (TV Network);RLJ Companies;Johnson; Robert L;Wages and Salaries;Unemployment;Layoffs and Job Reductions;United States Economy;Rutgers; The State University of New Jersey;Labor and Jobs;Pensions and Retirement Plans;Integrated Management Resources Group;Insurance;Accounting and Accountants;Pension Benefit Guaranty Corp;Government Procurement;Education (K-12);Teachers and School Employees;Wages and Salaries;Education Department (US);Hiring and Promotion;Automobiles;Center for Automotive Research;Labor and Jobs;Mentors;AchieveGlobal;Daniels; Sharon M.;Careers and Professions;Executives and Management (Theory);Workplace Environment;Labor and Jobs;Entrepreneurship;Work-Life Balance;Small Business;Unemployment;Joint Select Committee on Deficit Reduction;United States Economy;Labor and Jobs;National Labor Relations Board;Democratic Party;Brian E. Hayes;Organized Labor;United States Politics and Government;Republican Party;Legal Profession;Law Schools;Economic Conditions and Trends;Education;Drugs (Pharmaceuticals);Miller; Peter K.;Careers and Professions;OptiNose;Executives and Management (Theory);Workplace Environment;Brain;Productivity;Psychology and Psychologists;Computers and the Internet;Hiring and Promotion;Mozilla Foundation;Badges;MacArthur; John D and Catherine T; Foundation;Labor and Jobs";
+		var dynamic_kw = "Hiring+and+Promotion;Electronic+Arts+Inc;Computer+and+Video+Games;Executives+and+Management+%28Theory%29;Riccitiello;+John;Executives+and+Management+%28Theory%29;Hiring+and+Promotion;Abt+Associates;Flanagan;+Kathleen+L.;Executives+and+Management+%28Theory%29;BET+%28TV+Network%29;RLJ+Companies;Johnson;+Robert+L;Wages+and+Salaries;Unemployment;Layoffs+and+Job+Reductions;United+States+Economy;Rutgers;+The+State+University+of+New+Jersey;Labor+and+Jobs;Pensions+and+Retirement+Plans;Integrated+Management+Resources+Group;Insurance;Accounting+and+Accountants;Pension+Benefit+Guaranty+Corp;Government+Procurement;Education+%28K-12%29;Teachers+and+School+Employees;Wages+and+Salaries;Education+Department+%28US%29;Hiring+and+Promotion;Automobiles;Center+for+Automotive+Research;Labor+and+Jobs;Mentors;AchieveGlobal;Daniels;+Sharon+M.;Careers+and+Professions;Executives+and+Management+%28Theory%29;Workplace+Environment;Labor+and+Jobs;Entrepreneurship;Work-Life+Balance;Small+Business;Unemployment;Joint+Select+Committee+on+Deficit+Reduction;United+States+Economy;Labor+and+Jobs;National+Labor+Relations+Board;Democratic+Party;Brian+E.+Hayes;Organized+Labor;United+States+Politics+and+Government;Republican+Party;Legal+Profession;Law+Schools;Economic+Conditions+and+Trends;Education;Drugs+%28Pharmaceuticals%29;Miller;+Peter+K.;Careers+and+Professions;OptiNose;Executives+and+Management+%28Theory%29;Workplace+Environment;Brain;Productivity;Psychology+and+Psychologists;Computers+and+the+Internet;Hiring+and+Promotion;Mozilla+Foundation;Badges;MacArthur;+John+D+and+Catherine+T;+Foundation;Labor+and+Jobs";
+		var nyt_google_contents = dynamic_kw + static_kw;
+		var nyt_google_ad_channel = "jobs";
+	</script>
+<script type="text/javascript" src="http://use.typekit.com/fml4qar.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" src="http://js.nyt.com/js2/build/sitewide/sitewide.js"></script>
+<script type="text/javascript" src="http://js.nyt.com/js/app/lib/jquery/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+</head>
+<body>
+<a name="top"></a>
+<div id="shell">
+
+<ul id="memberTools">
+
+ 
+                        <li><a id="memberToolsLogin" href="https://myaccount.nytimes.com/auth/login">Log In</a></li>
+            <li><a href="https://myaccount.nytimes.com/gst/regi.html">Register Now</a></li>
+                            
+
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+</ul>
+<div class="tabsContainer">
+<ul id="mainTabs" class="tabs">
+<li class="first mainTabHome"><a href="http://www.nytimes.com">Home Page</a></li>
+<li class="mainTabTodaysPaper"><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+<li class="mainTabVideo"><a href="http://www.nytimes.com/video">Video</a></li>
+<li class="mainTabMostPopular"><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+<li class="mainTabTimesTopics"><a href="http://topics.nytimes.com/top/reference/timestopics">Times Topics</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+</script>	<div id="page" class="tabContent active">
+<div class="clearfix" id="masthead">
+
+<div id="searchWidget">
+<div class="inlineSearchControl">
+<form enctype="application/x-www-form-urlencoded" action="http://query.nytimes.com/search/sitesearch" method="get" name="searchForm" id="searchForm">
+<input type="hidden" value="full" name="date_select"/>
+<label for="searchQuery">Search All NYTimes.com</label>
+<input type="text" class="text" value="" size="" name="query" id="searchQuery"/>
+<input type="hidden" id="searchAll" name="type" value="nyt"/>
+<input type="image" id="searchSubmit" title="Search" alt="Search" width="22" height="19" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"/>
+</form>
+</div>
+</div>
+
+<div id="branding" >
+<a href="http://www.nytimes.com"><img src="http://graphics8.nytimes.com/images/misc/nytlogo152x23.gif" alt="New York Times" id="NYTLogo"/></a>
+</div>
+
+<div id="date">
+<p>
+Friday, December  2, 2011
+</p>
+</div>
+
+<h2>
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</h2>
+
+</div>
+<div class="navigation tabsContainer">
+<ul class="tabs">
+<li id="navWorld" class="first ">
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>	<li id="navUs" >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>	<li id="navNyregion" >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>	<li id="navBusiness" >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>	<li id="navTechnology" >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>	<li id="navScience" >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>	<li id="navHealth" >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>	<li id="navSports" >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>	<li id="navOpinion" >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>	<li id="navArts" >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>	<li id="navStyle" >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>	<li id="navTravel" >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>	<li id="navJobs" class="selected">
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+<ul class="subNavigation"><li id="subNav_findjob"><a href="http://jobsearch.nytimes.monster.com">Find a Job</a></li><li id="subNav_postresume"><a href="http://career.nytimes.monster.com">Post Your Resume</a></li><li id="subNav_jobseeker"><a href="http://my.nytimes.monster.com">Job Seeker Login</a></li><li id="subNav_careeradvice"><a href="http://www.nytimes.com/marketing/jobmarket/career-resources/index.html">Career Advice</a></li><li id="subNav_employercentral"><a href="http://www.nytimes.com/marketing/jobmarket/employercentral/index.html">Employer Central</a></li></ul></li>	<li id="navRealestate" >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>	<li id="navAutomobiles" >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li></ul>
+</div>
+<div id="main">
+<div id="spanABCRegion">
+<div class="columnGroup first">				
+<div id="cobrandHeader">
+<ul id="tools" class="flush">
+<li><a id="jobseeker" href="http://www.nytimes.com/marketing/jobmarket/help/index.html">JOB SEEKER HELP</a></li>
+<li><a id="employer" href="http://www.nytimes.com/marketing/jobmarket/employercentral/help.html">EMPLOYER HELP</a></li>
+</ul>
+<h2><a href="http://www.nytimes.com/monster">nytimes.com & monster.com</a></h2>
+</div>	</div>
+</div><!--close spanABC -->			<div class="spanAB wrap">
+<div class="wideA">
+<div class="abColumn">
+<div class="aColumn">
+<!--cur:StandardThumb prev:-->
+<div class="columnGroup first">
+<div class="background-purple">
+<h4 class="moduleHeaderLg jobModuleHeader flushBottom"><strong>Job Seekers</strong></h4>
+</div>
+<div class="quickSearch box flushBottom">
+<div class="inset flushBottom">
+<form action="http://nytimes.monster.com/Search.aspx" method="get" name="advJobsearchForm">
+<input type="hidden" name="where" value="New-York-City__2C-NY">
+<input type="hidden" name="rad" value="75">
+<div class="story">
+<p class="refer">
+Find the best jobs in the New York City metro area and beyond.
+</p>
+</div>
+<label for="q">
+Keyword(s):
+</label>
+<input type="text" name="q" class="keyWords" id="keyWords" value=""/>
+<label for="Fn">
+Category:
+</label>
+<select name="Fn">
+<OPTION VALUE="" selected>-- All Categories --</OPTION>
+<OPTION VALUE="1">Accounting/Finance/Insurance</OPTION>
+<OPTION VALUE="2">Administrative/Clerical</OPTION>
+<OPTION VALUE="558">Banking/Real Estate/Mortgage Professionals</OPTION>
+<OPTION VALUE="559">Biotech/R&D/Science</OPTION>
+<OPTION VALUE="544">Building Construction/Skilled Trades</OPTION>
+<OPTION VALUE="3561">Business/Strategic Management</OPTION>
+<OPTION VALUE="11454">Creative/Design</OPTION>
+<OPTION VALUE="545">Customer Support/Client Care</OPTION>
+<OPTION VALUE="5623">Editorial/Writing</OPTION>
+<OPTION VALUE="3">Education/Training</OPTION>
+<OPTION VALUE="4">Engineering</OPTION>
+<OPTION VALUE="13">Food Services/Hospitality</OPTION>
+<OPTION VALUE="5">Human Resources</OPTION>
+<OPTION VALUE="553">Installation/Maintenance/Repair</OPTION>
+<OPTION VALUE="660">IT/Software Development</OPTION>
+<OPTION VALUE="7">Legal</OPTION>
+<OPTION VALUE="5625">Logistics/Transportation</OPTION>
+<OPTION VALUE="47">Manufacturing/Production/Operations</OPTION>
+<OPTION VALUE="9007">Marketing/Product</OPTION>
+<OPTION VALUE="3975">Medical/Health</OPTION>
+<OPTION VALUE="11">Other</OPTION>
+<OPTION VALUE="9008">Project/Program Management</OPTION>
+<OPTION VALUE="11455">Quality Assurance/Safety</OPTION>
+<OPTION VALUE="10">Sales/Retail/Business Development</OPTION>
+<OPTION VALUE="555">Security/Protective Services</OPTION>
+</select>
+<div class="wrap insetV">
+<p class="refer">
+Sort By:
+<input type="radio" name="sort" value=" rv.di.dt" style="position: relative;
+bottom: 1px;">
+Relevancy 
+<input type="radio" name="sort" value=" dt.rv.di" checked=""
+style="position:
+relative; bottom: 1px;">
+Date
+</p>
+</div><input type="image" alt="Submit" src="http://graphics8.nytimes.com/images/section/jobs/200703/buttons/purple/searchForJobs.gif" class="searchJobs"/>
+</form>
+</div>
+</div>
+
+<div class="box">
+<div class="inset categoryList">
+<div class="opposingFloatControl wrap">
+<div class="element1">
+<h4 class="moduleHeaderLg"><strong>TOP JOB CATEGORIES</strong></h4>
+</div>
+<div class="element2 refer">
+<a href="http://jobmarket.nytimes.com/jobs/category/" target="_parent">Browse All Categories »</a>
+</div>
+</div>
+<div class="subColumn-2">
+<div class="column">
+<ul class="refer flush">
+<li>
+<a href="http://jobmarket.nytimes.com/jobs/category/accounting-finance-insurance-jobs">Accounting/Finance</a>
+</li>
+<li>
+<a href="http://jobmarket.nytimes.com/jobs/category/administrative-clerical-jobs">Administrative</a>
+</li>
+<li>
+<a href="http://jobmarket.nytimes.com/jobs/category/creative-design-jobs">Creative/Design</a>
+</li>
+<li>
+<a href="http://jobmarket.nytimes.com/jobs/category/education-training-jobs">Education/Training</a>
+</li>
+<li>
+<a href="http://jobmarket.nytimes.com/jobs/category/engineering-jobs">Engineering</a>
+</li>
+</ul>
+</div>
+<div class="column">
+<ul class="refer flush">
+<li>
+<a href="http://jobmarket.nytimes.com/jobs/category/medical-health-jobs">Healthcare</a>
+</li>
+<li>
+<a href="http://jobmarket.nytimes.com/jobs/category/foodservices-hospitality-jobs">Hospitality/Food Services</a>
+</li>
+<li>
+<a href="http://jobmarket.nytimes.com/jobs/category/it-softwaredevelopment-jobs">IT/Software Development</a>
+</li>
+<li>
+<a href="http://jobmarket.nytimes.com/jobs/category/legal-jobs">Legal</a>
+</li>
+<li>
+<a href="http://jobmarket.nytimes.com/jobs/category/sales-retail-businessdevelopment-jobs">Sales/Retail/Business Development</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>	</div>
+<!--cur:SingleThumbandHeadlines prev:StandardThumb-->
+<div class="columnGroup doubleRule ">
+<div class="story">
+<h6 class="kicker">Corner Office | John Riccitiello</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/business/electronic-arts-chief-on-painting-a-consistent-picture.html?ref=jobs">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/business/27corner-pic/27corner-pic-thumbStandard.jpg" width="75" height="75" alt="John Riccitiello, chief executive of Electronic Arts, the video game maker, says that if leaders aren't consistent during challenging times, employees will remain uneasy. ”You need to paint a picture that everyone can buy into,” he says." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/business/electronic-arts-chief-on-painting-a-consistent-picture.html?ref=jobs">
+The Importance of Painting a Clear Picture</a></h3>
+<h6 class="byline">
+By ADAM BRYANT	    </h6>
+<p class="summary">
+John Riccitiello of Electronic Arts says a company’s leaders must be clear and consistent in articulating its vision.</p>
+</div>
+<ul class="headlinesOnly multiline flush"><li>
+<h6><a href="http://www.nytimes.com/2011/11/20/business/kathleen-flanagan-of-abt-on-making-confident-choices.html?ref=jobs">
+Corner Office: Kathleen L. Flanagan: Want to Lead? Learn to Nurture Your Butterflies</a>
+</h6>
+</li>
+</ul>	<ul class="headlinesOnly multiline flush"><li>
+<h6><a href="http://www.nytimes.com/2011/11/13/business/robert-l-johnson-anger-has-no-place-in-business.html?ref=jobs">
+Corner Office I Robert Johnson: No Ranting and Raving Is Permitted</a>
+</h6>
+</li>
+</ul>	</div>
+<!--cur:StandardThumb prev:SingleThumbandHeadlines-->
+<div class="columnGroup singleRule last">
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/business/for-jobless-little-hope-of-full-recovery-study-says.html?ref=jobs">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/business/JOBS/JOBS-thumbStandard.jpg" width="75" height="75" alt="Katie O'Brien Mowery has managed to find a new job with better benefits and opportunities." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/business/for-jobless-little-hope-of-full-recovery-study-says.html?ref=jobs">
+For Jobless, Little Hope of Restoring Better Days</a></h3>
+<h6 class="byline">
+By MOTOKO RICH	    </h6>
+<p class="summary">
+A new study found that just 7 percent of those who lost jobs after the financial crisis have regained or exceeded their previous financial position, a new study found.</p>
+<ul class="refer">
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001202521" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/02/business/for-jobless-little-hope-of-full-recovery-study-says.html"></span></li>
+</ul>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/12/02/business/contractors-work-for-us-pension-guarantor-was-flawed-audit-says.html?ref=jobs">
+Contractor’s Work Faulted at U.S. Pension Guarantor</a></h3>
+<h6 class="byline">
+By MARY WILLIAMS WALSH	    </h6>
+<p class="summary">
+The Integrated Management Resources Group, which determined payments to retirees, was found to make many errors, but the company was not replaced even after the flaws were noticed.</p>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/12/01/education/us-education-department-finds-salary-gap-in-poor-schools.html?ref=jobs">
+Districts Pay Less in Poor Schools, Report Says</a></h3>
+<h6 class="byline">
+By SAM DILLON	    </h6>
+<p class="summary">
+More state and local dollars are spent on salaries in higher-income areas, the federal Department of Education found.</p>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/11/30/business/center-for-automotive-research-predicts-sharp-gain-in-auto-jobs.html?ref=jobs">
+Group Predicts 28% Gain in Carmaking Jobs by 2015</a></h3>
+<h6 class="byline">
+By NICK BUNKLEY	    </h6>
+<p class="summary">
+The Center for Automotive Research expects that carmakers and their suppliers will add about 167,000 jobs in the next four years.</p>
+</div>
+<div class="story">
+<h6 class="kicker">The Boss</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/jobs/sharon-daniels-of-achieveglobal-on-her-love-of-coaching.html?ref=jobs">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/business/27-BOSS/27-BOSS-thumbStandard.jpg" width="75" height="75" alt="Sharon Daniels is the chief executive of AchieveGlobal, a work force development firm in Tampa, Fla." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/jobs/sharon-daniels-of-achieveglobal-on-her-love-of-coaching.html?ref=jobs">
+A Passion for Coaching</a></h3>
+<h6 class="byline">
+By SHARON M. DANIELS	    </h6>
+<p class="summary">
+Sharon Daniels of AchieveGlobal, a work force development firm, has used her coaching and mentoring skills in her own household, too.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Preoccupations</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/jobs/starting-a-business-the-romance-vs-the-reality.html?ref=jobs">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/business/27-PRE/27-PRE-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/jobs/starting-a-business-the-romance-vs-the-reality.html?ref=jobs">
+Starting a Business: The Romance vs. the Reality</a></h3>
+<h6 class="byline">
+By ALEXANDRA LEVIT	    </h6>
+<p class="summary">
+Entrepreneurship holds perils far different from those of working in the corporate world.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Economic View</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/business/long-term-unemployment-carries-risks-for-us.html?ref=jobs">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/business/27-VIEW/27-VIEW-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/business/long-term-unemployment-carries-risks-for-us.html?ref=jobs">
+The Fire Bell of Unemployment</a></h3>
+<h6 class="byline">
+By ROBERT J. SHILLER	    </h6>
+<p class="summary">
+The nation has been ignoring the serious social consequences of allowing a high jobless rate to continue for the long term.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/23/business/brian-e-hayes-threatens-to-quit-labor-board.html?ref=jobs">
+<img src="http://graphics8.nytimes.com/images/2011/11/23/business/LABOR-2/LABOR-2-thumbStandard.jpg" width="75" height="75" alt="Brian E. Hayes, the lone Republican on the N.L.R.B." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/23/business/brian-e-hayes-threatens-to-quit-labor-board.html?ref=jobs">
+Republican Might Quit Labor Board</a></h3>
+<h6 class="byline">
+By STEVEN GREENHOUSE	    </h6>
+<p class="summary">
+Brian E. Hayes has threatened to resign in order to block a plan by the National Labor Relations Board to adopt rules that would speed up unionization elections.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/20/business/after-law-school-associates-learn-to-be-lawyers.html?ref=jobs">
+<img src="http://graphics8.nytimes.com/images/2011/11/19/business/JP-LEGAL-2/JP-LEGAL-2-thumbStandard.jpg" width="75" height="75" alt="MOOT COURT | At Drinker Biddle, Eric Kassab and Jennifer Kissiah, both first-year associates, in a training session. Law schools emphasize theoretical work, rather than lawyering." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/20/business/after-law-school-associates-learn-to-be-lawyers.html?ref=jobs">
+What They Don’t Teach Law Students: Lawyering</a></h3>
+<h6 class="byline">
+By DAVID SEGAL	    </h6>
+<p class="summary">
+Law schools have long emphasized the theoretical over the useful, leaving law firms fairly resigned to training their hires how to actually practice law.</p>
+<ul class="refer">
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001181239" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/11/20/business/after-law-school-associates-learn-to-be-lawyers.html"></span></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">The Boss</h6>
+<h3><a href="http://www.nytimes.com/2011/11/20/jobs/peter-miller-of-optinose-a-pioneer-at-heart.html?ref=jobs">
+A Pioneer at Heart</a></h3>
+<h6 class="byline">
+By PETER K. MILLER	    </h6>
+<p class="summary">
+Peter K. Miller says he’s in his creative element as chief executive of OptiNose, a company that has developed a nasal system for delivering drugs within the body.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Career Couch</h6>
+<h3><a href="http://www.nytimes.com/2011/11/20/jobs/to-avoid-distractions-at-work-hit-the-reset-button.html?ref=jobs">
+Distracted? It’s Time to Hit the Reset Button</a></h3>
+<h6 class="byline">
+By EILENE ZIMMERMAN	    </h6>
+<p class="summary">
+Take a walk. Go to the gym. Or just breathe deeply. Experts say these and other strategies can help you maintain, or regain, your concentration at work.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Novelties</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/20/business/digital-badges-may-highlight-job-seekers-skills.html?ref=jobs">
+<img src="http://graphics8.nytimes.com/images/2011/11/20/business/20novel-icons/20novel-icons-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/20/business/digital-badges-may-highlight-job-seekers-skills.html?ref=jobs">
+For Job Hunters, Digital Merit Badges</a></h3>
+<h6 class="byline">
+By ANNE EISENBERG	    </h6>
+<p class="summary">
+The John D. and Catherine T. MacArthur Foundation is hoping a new badge system will help job seekers highlight skills not normally on a résumé.</p>
+</div>
+</div>
+<div id="adxSponLink" class="columnGroup singleRule"></div>
+</div><!--close .aColumn -->
+<div class="bColumn">
+<div class="columnGroup SectionFront3Col first">
+<div class="story" >
+<div class="jobModuleHeader background-purple" > <h4 class="moduleHeaderLg flushBottom"><strong><a href="http://career.nytimes.monster.com">Post your Resume</a></strong></h4>
+</div>
+<div class="box">
+<div class="inset">
+<div class="story">
+<div class="runaroundRight">
+<a href="http://career.nytimes.monster.com"><img height="75" width="75" border="0" alt="" src="http://graphics8.nytimes.com/marketing/jobmarket/images/section_front/jm_thumb01.jpg"/></a>
+</div>
+<p class="refer">
+Get found by New York employers that are actively searching for candidates on NYTimes.com & Monster. Post your resume today.
+</p>
+</div>
+<a href="http://career.nytimes.monster.com"><img alt="" src="http://graphics8.nytimes.com/images/section/jobs/200703/buttons/purple/getStarted.gif"/></a>
+</div>
+</div>
+</div>
+<!--div class="doubleRuleDivider"></div-->
+
+ 
+<div class = "doubleRuleDivider"></div>
+<h6 class="sectionHeader">Search Jobs From Around the Web</h6>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.indeed.com/"><img src="http://graphics8.nytimes.com/images/section/jobs/200703/indeed_87x31.gif" alt="Indeed logo" /></a>
+</div>
+<p class="more">
+Expand your
+search to access
+newspapers, associations and
+company career sites.
+<br />
+</p>
+<p class="more">
+<strong>From <a href="http://www.indeed.com/">Indeed.com</a></strong>
+</p>
+</div>              <div class="story doubleRule">
+<div class="runaroundRight"><a href="http://www.nytco.com/careers/index.html"><img alt="The New York Times Company's Career Page" src="http://graphics8.nytimes.com/images/2009/08/12/jobs/timest.jpg"/></a></div>
+<h5><a href="http://www.nytco.com/careers/index.html">Visit The New York Times Company’s Career Page</a></h5>
+</div> <div class="doubleRule">
+<a href="http://www.nytjobmarketonline.com/diversityandinclusion/"><img class="sectionHeader" src="http://graphics8.nytimes.com/marketing/jobmarket/images/section_front/diversity_headline_187x18.gif" width="187" height="18"></a>
+<p class="summary">
+Information, resources and research from The New York Times and partners.
+</p>
+<div class="refer">
+<a href="http://www.nytjobmarketonline.com/diversityandinclusion/">Read More »</a>
+</div>
+</div><div class="doubleRuleDivider"></div><div class="box blue salaryCalculator">
+<div class="inset">
+<h6 class="sectionHeader"><a href="http://nytimes.salary.com/">Salary Comparison</a></h6>
+<div class="story">
+<div class="runaroundRight">
+<a href="http://nytimes.salary.com/"><img src="http://graphics8.nytimes.com/marketing/jobmarket/images/section_front/jm_thumb03.jpg" alt="Salary" width="75" height="75"></a>
+</div>                                               
+<p class="refer">
+Calculate and find out how to negotiate your ideal salary.
+</p>
+</div>
+<div class="story">
+<p class="refer">
+Learn how your salary compares to others in your field.
+</p>
+</div>
+<form name="newsearchform" method="get" action="http://nytimes.salary.com/salarywizard/layoutscripts/swzl_titleselect.asp" onsubmit="return gotoTitleSelect();">
+<script language="javascript" src="Job_files/swzu_v4_jsfunc.js"></script>
+<input name="narrowdesc" value="" type="hidden">
+<label for="qlnd">Select a Job Category</label>
+<select name="narrowcode">
+<option value="FA01">Accounting</option>
+<option value="OF01">Admin and Office</option>
+<option value="AR01">Art and Design</option>
+<option value="SC02">Construction and Maintenance</option>
+<option value="RD01">Defense</option>
+<option value="ED01">Education</option>
+<option value="EN01">Engineering and Architecture</option>
+<option value="EX01">Executive Recruiting</option>
+<option value="AR03">Fashion, Beauty and Fitness</option>
+<option value="FA02">Finance and Banking</option>
+<option value="CS02">Government and Philanthropy</option>
+<option value="HC01">Healthcare — Administrative</option>
+<option value="HC05">Healthcare — Nursing</option>
+<option value="HC03">Healthcare — Practitioners</option>
+<option value="HC02">Healthcare — Technicians</option>
+<option value="AR02">Hospitality and Restaurant</option>
+<option value="HR01">Human Resources</option>
+<option value="LG01">Law Enforcement and Security</option>
+<option value="LE01">Legal</option>
+<option value="MM01">Manufacturing and Logistics</option>
+<option value="SM04">Advertising and Marketing</option>
+<option value="CM02">Media and Entertainment — Broadcast</option>
+<option value="CM01">Media and Entertainment — Print</option>
+<option value="AR01">Music, Theater and Dance</option>
+<option value="HC04">Pharmaceutical and Science</option>
+<option value="FA05">Real Estate</option>
+<option value="SM05">Retail</option>
+<option value="SM06">Sales and Business Dev</option>
+<option value="IT03">Tech, Telecom and Internet</option>
+</select>
+<label>Choose a State/Metro</label>
+<select name="metrocode">
+<option value="">Select State/Metro ----------</option>
+<option value="20">Alabama — Birmingham</option>
+<option value="54">Alabama — Dothan</option>
+<option value="237">Alabama — Florence</option>
+<option value="76">Alabama — Huntsville</option>
+<option value="111">Alabama — Mobile</option>
+<option value="113">Alabama — Montgomery</option>
+<option value="312">Alabama — Tuscaloosa</option>
+<option value="207">Alaska — Anchorage</option>
+<option value="232">Alaska — Fairbanks</option>
+<option value="256">Alaska — Juneau</option>
+<option value="236">Arizona — Flagstaff</option>
+<option value="267">Arizona — Mesa</option>
+<option value="133">Arizona — Phoenix</option>
+<option value="186">Arizona — Tucson</option>
+<option value="234">Arkansas — Fayetteville</option>
+<option value="241">Arkansas — Fort Smith</option>
+<option value="94">Arkansas — Little Rock</option>
+<option value="134">Arkansas — Pine Bluff</option>
+<option value="6">California — Anaheim</option>
+<option value="12">California — Bakersfield</option>
+<option value="226">California — Chico</option>
+<option value="62">California — Fresno</option>
+<option value="95">California — Lompoc</option>
+<option value="96">California — Long Beach</option>
+<option value="98">California — Los Angeles</option>
+<option value="268">California — Modesto</option>
+<option value="269">California — Monterey</option>
+<option value="122">California — Oakland</option>
+<option value="126">California — Orange County</option>
+<option value="283">California — Petaluma</option>
+<option value="146">California — Riverside</option>
+<option value="150">California — Sacramento</option>
+<option value="154">California — San Bernardino</option>
+<option value="155">California — San Diego</option>
+<option value="156">California — San Francisco</option>
+<option value="157">California — San Jose</option>
+<option value="158">California — Santa Ana</option>
+<option value="159">California — Santa Barbara</option>
+<option value="300">California — Santa Cruz</option>
+<option value="160">California — Santa Maria</option>
+<option value="302">California — Santa Rosa</option>
+<option value="175">California — Stockton</option>
+<option value="315">California — Vallejo</option>
+<option value="188">California — Ventura</option>
+<option value="217">Colorado — Boulder</option>
+<option value="40">Colorado — Colorado Springs</option>
+<option value="51">Colorado — Denver</option>
+<option value="239">Colorado — Fort Collins</option>
+<option value="140">Colorado — Pueblo</option>
+<option value="25">Connecticut — Bridgeport</option>
+<option value="47">Connecticut — Danbury</option>
+<option value="71">Connecticut — Hartford</option>
+<option value="117">Connecticut — New Britain</option>
+<option value="275">Connecticut — New Haven</option>
+<option value="276">Connecticut — New London</option>
+<option value="278">Connecticut — Norwich</option>
+<option value="174">Connecticut — Stamford</option>
+<option value="196">Delaware — Wilmington</option>
+<option value="192">District of Columbia — Washington</option>
+<option value="22">Florida — Boca Raton</option>
+<option value="218">Florida — Bradenton</option>
+<option value="38">Florida — Clearwater</option>
+<option value="50">Florida — Daytona Beach</option>
+<option value="59">Florida — Fort Lauderdale</option>
+<option value="240">Florida — Fort Myers</option>
+<option value="243">Florida — Gainesville</option>
+<option value="72">Florida — Hialeah</option>
+<option value="79">Florida — Jacksonville</option>
+<option value="105">Florida — Melbourne</option>
+<option value="107">Florida — Miami</option>
+<option value="127">Florida — Orlando</option>
+<option value="282">Florida — Pensacola</option>
+<option value="303">Florida — Sarasota</option>
+<option value="173">Florida — St. Petersburg</option>
+<option value="310">Florida — Tallahassee</option>
+<option value="180">Florida — Tampa</option>
+<option value="203">Georgia — Albany</option>
+<option value="8">Georgia — Atlanta</option>
+<option value="10">Georgia — Augusta</option>
+<option value="42">Georgia — Columbus</option>
+<option value="101">Georgia — Macon</option>
+<option value="161">Georgia — Savannah</option>
+<option value="250">Hawaii — Honolulu</option>
+<option value="216">Idaho — Boise</option>
+<option value="253">Idaho — Idaho Falls</option>
+<option value="286">Idaho — Pocatello</option>
+<option value="313">Idaho — Twin Falls</option>
+<option value="223">Illinois — Champaign</option>
+<option value="34">Illinois — Chicago</option>
+<option value="112">Illinois — Moline</option>
+<option value="130">Illinois — Peoria</option>
+<option value="149">Illinois — Rock Island</option>
+<option value="296">Illinois — Rockford</option>
+<option value="168">Illinois — Springfield</option>
+<option value="208">Indiana — Anderson</option>
+<option value="21">Indiana — Bloomington</option>
+<option value="228">Indiana — Elkhart</option>
+<option value="230">Indiana — Evansville</option>
+<option value="60">Indiana — Fort Wayne</option>
+<option value="63">Indiana — Gary</option>
+<option value="77">Indiana — Indianapolis</option>
+<option value="307">Indiana — South Bend</option>
+<option value="311">Indiana — Terre Haute</option>
+<option value="189">Indiana — Vincennes</option>
+<option value="29">Iowa — Cedar Falls</option>
+<option value="30">Iowa — Cedar Rapids</option>
+<option value="48">Iowa — Davenport</option>
+<option value="52">Iowa — Des Moines</option>
+<option value="305">Iowa — Sioux City</option>
+<option value="193">Iowa — Waterloo</option>
+<option value="81">Kansas — Kansas City</option>
+<option value="183">Kansas — Topeka</option>
+<option value="195">Kansas — Wichita</option>
+<option value="242">Kentucky — Frankfort</option>
+<option value="74">Kentucky — Hopkinsville</option>
+<option value="93">Kentucky — Lexington</option>
+<option value="99">Kentucky — Louisville</option>
+<option value="4">Louisiana — Alexandria</option>
+<option value="14">Louisiana — Baton Rouge</option>
+<option value="258">Louisiana — Lafayette</option>
+<option value="86">Louisiana — Lake Charles</option>
+<option value="270">Louisiana — Monroe</option>
+<option value="118">Louisiana — New Orleans</option>
+<option value="164">Louisiana — Shreveport</option>
+<option value="211">Maine — Bangor</option>
+<option value="287">Maine — Portland</option>
+<option value="13">Maryland — Baltimore</option>
+<option value="23">Massachusetts — Boston</option>
+<option value="26">Massachusetts — Brockton</option>
+<option value="90">Massachusetts — Lawrence</option>
+<option value="100">Massachusetts — Lowell</option>
+<option value="273">Massachusetts — New Bedford</option>
+<option value="285">Massachusetts — Pittsfield</option>
+<option value="169">Massachusetts — Springfield</option>
+<option value="198">Massachusetts — Worcester</option>
+<option value="209">Michigan — Ann Arbor</option>
+<option value="15">Michigan — Battle Creek</option>
+<option value="213">Michigan — Benton Harbor</option>
+<option value="53">Michigan — Detroit</option>
+<option value="65">Michigan — Grand Rapids</option>
+<option value="259">Michigan — Lansing</option>
+<option value="271">Michigan — Muskegon</option>
+<option value="151">Michigan — Saginaw</option>
+<option value="55">Minnesota — Duluth</option>
+<option value="110">Minnesota — Minneapolis-St. Paul</option>
+<option value="295">Minnesota — Rochester</option>
+<option value="309">Minnesota — St. Cloud</option>
+<option value="19">Mississippi — Biloxi</option>
+<option value="43">Mississippi — Columbus</option>
+<option value="248">Mississippi — Greenville</option>
+<option value="68">Mississippi — Gulfport</option>
+<option value="78">Mississippi — Jackson</option>
+<option value="128">Mississippi — Pascagoula</option>
+<option value="80">Missouri — Kansas City</option>
+<option value="308">Missouri — Springfield</option>
+<option value="172">Missouri — St. Louis</option>
+<option value="18">Montana — Billings</option>
+<option value="246">Montana — Great Falls</option>
+<option value="249">Montana — Helena</option>
+<option value="262">Nebraska — Lincoln</option>
+<option value="125">Nebraska — Omaha</option>
+<option value="221">Nevada — Carson City</option>
+<option value="89">Nevada — Las Vegas</option>
+<option value="143">Nevada — Reno</option>
+<option value="227">New Hampshire — Concord</option>
+<option value="266">New Hampshire — Manchester</option>
+<option value="272">New Hampshire — Nashua</option>
+<option value="288">New Hampshire — Portsmouth</option>
+<option value="9">New Jersey — Atlantic City</option>
+<option value="17">New Jersey — Bergen</option>
+<option value="108">New Jersey — Middlesex</option>
+<option value="274">New Jersey — New Brunswick</option>
+<option value="120">New Jersey — Newark</option>
+<option value="280">New Jersey — Paramus</option>
+<option value="129">New Jersey — Passaic</option>
+<option value="165">New Jersey — Somerset</option>
+<option value="184">New Jersey — Trenton</option>
+<option value="316">New Jersey — Vineland</option>
+<option value="1">New Mexico — Alamogordo</option>
+<option value="3">New Mexico — Albuquerque</option>
+<option value="88">New Mexico — Las Cruces</option>
+<option value="301">New Mexico — Santa Fe</option>
+<option value="2">New York — Albany</option>
+<option value="214">New York — Binghamton</option>
+<option value="28">New York — Buffalo</option>
+<option value="251">New York — Huntington</option>
+<option value="254">New York — Jamestown</option>
+<option value="115">New York — Nassau</option>
+<option value="119">New York — New York</option>
+<option value="289">New York — Poughkeepsie</option>
+<option value="291">New York — Queens</option>
+<option value="147">New York — Rochester</option>
+<option value="162">New York — Schenectady</option>
+<option value="176">New York — Suffolk</option>
+<option value="178">New York — Syracuse</option>
+<option value="185">New York — Troy</option>
+<option value="314">New York — Utica</option>
+<option value="7">North Carolina — Asheville</option>
+<option value="32">North Carolina — Charlotte</option>
+<option value="235">North Carolina — Fayetteville</option>
+<option value="64">North Carolina — Gastonia</option>
+<option value="66">North Carolina — Greensboro</option>
+<option value="73">North Carolina — High Point</option>
+<option value="141">North Carolina — Raleigh-Durham</option>
+<option value="298">North Carolina — Salisbury</option>
+<option value="317">North Carolina — Wilmington</option>
+<option value="197">North Carolina — Winston-Salem</option>
+<option value="215">North Dakota — Bismarck</option>
+<option value="233">North Dakota — Fargo</option>
+<option value="245">North Dakota — Grand Forks</option>
+<option value="202">Ohio — Akron</option>
+<option value="220">Ohio — Canton</option>
+<option value="35">Ohio — Chillicothe</option>
+<option value="36">Ohio — Cincinnati</option>
+<option value="39">Ohio — Cleveland</option>
+<option value="44">Ohio — Columbus</option>
+<option value="49">Ohio — Dayton</option>
+<option value="57">Ohio — Elyria</option>
+<option value="261">Ohio — Lima</option>
+<option value="97">Ohio — Lorain</option>
+<option value="138">Ohio — Portsmouth</option>
+<option value="170">Ohio — Springfield</option>
+<option value="182">Ohio — Toledo</option>
+<option value="318">Ohio — Youngstown</option>
+<option value="5">Oklahoma — Altus</option>
+<option value="91">Oklahoma — Lawton</option>
+<option value="124">Oklahoma — Oklahoma City</option>
+<option value="187">Oklahoma — Tulsa</option>
+<option value="58">Oregon — Eugene</option>
+<option value="104">Oregon — Medford</option>
+<option value="137">Oregon — Portland</option>
+<option value="297">Oregon — Salem</option>
+<option value="171">Oregon — Springfield</option>
+<option value="204">Pennsylvania — Allentown</option>
+<option value="205">Pennsylvania — Altoona</option>
+<option value="229">Pennsylvania — Erie</option>
+<option value="70">Pennsylvania — Harrisburg</option>
+<option value="255">Pennsylvania — Johnstown</option>
+<option value="87">Pennsylvania — Lancaster</option>
+<option value="92">Pennsylvania — Lebanon</option>
+<option value="132">Pennsylvania — Philadelphia</option>
+<option value="135">Pennsylvania — Pittsburgh</option>
+<option value="142">Pennsylvania — Reading</option>
+<option value="304">Pennsylvania — Scranton</option>
+<option value="200">Pennsylvania — York</option>
+<option value="299">Puerto Rico — San Juan</option>
+<option value="139">Rhode Island — Providence</option>
+<option value="31">South Carolina — Charleston</option>
+<option value="41">South Carolina — Columbia</option>
+<option value="238">South Carolina — Florence</option>
+<option value="67">South Carolina — Greenville</option>
+<option value="148">South Carolina — Rock Hill</option>
+<option value="166">South Carolina — Spartanburg</option>
+<option value="177">South Carolina — Sumter</option>
+<option value="284">South Dakota — Pierre</option>
+<option value="293">South Dakota — Rapid City</option>
+<option value="306">South Dakota — Sioux Falls</option>
+<option value="33">Tennessee — Chattanooga</option>
+<option value="37">Tennessee — Clarksville</option>
+<option value="257">Tennessee — Kingsport</option>
+<option value="84">Tennessee — Knoxville</option>
+<option value="106">Tennessee — Memphis</option>
+<option value="114">Tennessee — Nashville</option>
+<option value="201">Texas — Abilene</option>
+<option value="206">Texas — Amarillo</option>
+<option value="11">Texas — Austin</option>
+<option value="16">Texas — Beaumont</option>
+<option value="27">Texas — Brownsville</option>
+<option value="45">Texas — Corpus Christi</option>
+<option value="46">Texas — Dallas</option>
+<option value="56">Texas — El Paso</option>
+<option value="61">Texas — Fort Worth</option>
+<option value="244">Texas — Galveston</option>
+<option value="69">Texas — Harlingen</option>
+<option value="75">Texas — Houston</option>
+<option value="83">Texas — Killeen</option>
+<option value="263">Texas — Longview</option>
+<option value="264">Texas — Lubbock</option>
+<option value="103">Texas — McAllen</option>
+<option value="136">Texas — Port Arthur</option>
+<option value="153">Texas — San Antonio</option>
+<option value="181">Texas — Temple</option>
+<option value="191">Texas — Waco</option>
+<option value="194">Texas — Wichita Falls</option>
+<option value="123">Utah — Ogden</option>
+<option value="290">Utah — Provo</option>
+<option value="152">Utah — Salt Lake City</option>
+<option value="219">Vermont — Burlington</option>
+<option value="265">Virginia — Lynchburg</option>
+<option value="277">Virginia — Newport News</option>
+<option value="121">Virginia — Norfolk</option>
+<option value="131">Virginia — Petersburg</option>
+<option value="145">Virginia — Richmond</option>
+<option value="294">Virginia — Roanoke</option>
+<option value="190">Virginia — Virginia Beach</option>
+<option value="212">Washington — Bellingham</option>
+<option value="24">Washington — Bremerton</option>
+<option value="231">Washington — Everett</option>
+<option value="82">Washington — Kennewick</option>
+<option value="279">Washington — Olympia</option>
+<option value="144">Washington — Richland</option>
+<option value="163">Washington — Seattle</option>
+<option value="167">Washington — Spokane</option>
+<option value="179">Washington — Tacoma</option>
+<option value="199">Washington — Yakima</option>
+<option value="224">West Virginia — Charleston</option>
+<option value="252">West Virginia — Huntington</option>
+<option value="281">West Virginia — Parkersburg</option>
+<option value="210">Wisconsin — Appleton</option>
+<option value="247">Wisconsin — Green Bay</option>
+<option value="85">Wisconsin — La Crosse</option>
+<option value="102">Wisconsin — Madison</option>
+<option value="109">Wisconsin — Milwaukee</option>
+<option value="292">Wisconsin — Racine</option>
+<option value="222">Wyoming — Casper</option>
+<option value="225">Wyoming — Cheyenne</option>
+<option value="260">Wyoming — Laramie</option>
+</select>
+<label>OR Enter ZIP Code:</label>
+<input name="zipcode" value="" id="zipCode" type="text">
+<input alt="Submit" class="submit" src="http://jobmarket.nytimes.com/images/global/global_search/go_button22x19.gif" type="image">
+</form>
+<p class="refer insetV">
+<a href="https://secure.salary.com/salaryreport/layoutscripts/srpl_overview.asp?r=nytime_swznsptxt_psr">Get a customized salary report. </a>
+</p>
+</div>
+</div>
+<div class="doubleRule">
+<h6 class="sectionHeader">Job Seeker News & Advice</h6>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/marketing/jobmarket/career-resources"><img src="http://graphics8.nytimes.com/marketing/jobmarket/images/section_front/jm_thumb02.jpg" alt="Career Services" width="75" border="0" height="75"></a>
+</div><h3><a href="http://www.nytimes.com/marketing/jobmarket/career-resources">Career Information</a></h3>
+<h6 class="byline"></h6>
+<p class="summary">
+An effective job search requires much more than sending out resumes.
+</p>
+</div>
+</div>
+<div class="doubleRule">   
+
+
+<div class="box blue">
+<div class="inset" >
+<h3 class="moduleHeaderLg adText flushBottom">Advertisement</h3>
+<h3 class="moduleHeaderLg flushBottom"><strong>Career Services</strong></h3>
+<ul class="refer flush">
+  
+
+<li><!-- ADXINFO classification="text_ad" campaign="Indeed.com-cla2"-->Search <a href="http://www.indeed.com" target="blank">Jobs</a> on Indeed.com</li>
+  
+
+
+
+
+
+
+
+
+
+    
+  
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://boss.blogs.nytimes.com/" title="You're the Boss">
+<img src="http://graphics8.nytimes.com/images/2010/07/19/business/smallbusiness/youre-the-boss-190/youre-the-boss-190-custom1.gif" alt="You're the Boss"/>
+</a> 
+</h3> 	<a href="http://boss.blogs.nytimes.com/" title="You're the Boss">
+<img src="http://graphics8.nytimes.com/images/blogs_v3/boss/boss75.gif" alt="You're the Boss" class="thumbnail"/>
+</a> <div class="story first">
+<h3><a href="http://boss.blogs.nytimes.com/2011/12/02/making-a-grand-entrance-without-spending-a-fortune/?ref=jobs">Opening Big Without Spending a Fortune</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">7:00 AM ET</span></p>
+</div><div class="story">
+<h3><a href="http://boss.blogs.nytimes.com/2011/12/01/7-blogs-and-newsletters-that-can-help-you-sell-a-business/?ref=jobs">7 Blogs and Newsletters That Can Help You Sell a Business</a></h3>
+<p class="date">December 1, 2011 <span class="timestamp"></span></p>
+</div><div class="story">
+<h3><a href="http://boss.blogs.nytimes.com/2011/11/30/should-owners-have-to-bet-the-house/?ref=jobs">Should Owners Have to Bet the House?</a></h3>
+<p class="date">November 30, 2011 <span class="timestamp"></span></p>
+</div><p class="refer">
+<a href="http://boss.blogs.nytimes.com/" title="Go to Blog">Go to Blog &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule last">
+<h6 class="sectionHeader"><a href="http://www.nytimes.com/pages/business/smallbusiness/index.html">Small Business</a></h6><div class="story">
+<h3><a href="http://www.nytimes.com/pages/business/smallbusiness/index.html?ref=jobs">
+</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Entrepreneurs and job seekers can find news and advice to help them succeed in the competitive business marketplace.</p>
+<ul class="refer flush"><li><a href="http://www.nytimes.com/pages/business/smallbusiness/index.html">Go to Small Business  &raquo;</a></li>
+</ul></div>
+</div>
+</div><!--close .bColumn -->
+</div><!--close .abColumn -->
+<div class="cColumn">
+<!--StandardThumb  -->                    <div class="columnGroup first">
+<div class="story">
+<div class="jobModuleHeader background-green">
+<h4 class="moduleHeaderLg flushBottom"><strong><a href="http://www.nytimes.com/marketing/jobmarket/employercentral/index.html">Employer Central</a></strong></h4>
+</div>
+<div class="box">
+<div class="inset categoryList" >
+<div class="story">
+<p class="refer">
+The Best Source for the Best Candidates
+</p>
+</div>
+<div class="subColumn-2">
+<div class="column">
+<ul class="refer flush">
+<li>
+<a href="http://hiring.nytimes.monster.com/login.aspx">EMPLOYER LOG IN »</a>
+</li>
+<li>
+<a href="http://hiring.nytimes.monster.com/products/resumeproducts.aspx">Search Resumes »</a>
+</li>
+</ul>
+</div>
+<div class="column">
+<ul class="refer flush">
+<li>
+<a href="http://www.nytimes.com/marketing/jobmarket/employercentral/contact.html">Contact a Sales Rep
+»</a>
+</li>
+<li>
+<a href="http://www.nytimes.whsites.net/mediakit/pdfs/newspaper/rates/2009/RateCard_Recruit09_EW6.pdf">2009 Rate
+Card (PDF, 210K) »</a>
+</li>
+</ul>
+</div>
+</div>
+<p class="refer">
+<a href="http://www.nytimes.com/marketing/jobmarket/employercentral/postjob.html"><img src="http://graphics8.nytimes.com/marketing/jobmarket/images/section_front/post_a_job.gif" class="insetv"/></a>
+</p>
+</div>   
+</div>  
+</div>
+
+<div class="bigAd" id="SFMiddle">
+<!-- ADXINFO classification="bigad" campaign="NAVAIR_1777051-cla2"--><script src="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=rsb&c=28&pli=3496668&PluID=0&w=336&h=280&ord=2011.12.02.18.04.29&ucm=true&z=1"></script>
+<noscript>
+<a href="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=brd&FlightID=3496668&Page=&PluID=0&Pos=3333" target="_blank"><img src="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=bsr&FlightID=3496668&Page=&PluID=0&Pos=3333" border=0 width=336 height=280></a>
+</noscript>
+</div>
+
+<div class="story singleRule">
+<iframe marginheight="0" marginwidth="0" frameborder="0" scrolling="no" width="336" height="321" src="http://www.trumba.com/nytimes/jobs/sectionfront.aspx"></iframe>
+</div>
+<div class="columnGroup advertisementColumnGroup">
+<div class="adHeader">
+<div class="runaroundRight refer"> <a href="javascript:pop_me_up2('http://www.nytimes.com/marketing/jobmarket/help/nowhiring.html','popupad','left=100,top=100,width=390,height=550,resizable,scrollbars=no')">what´s this?</a></div>
+<h4>NOW HIRING</h4>
+</div>
+</div>
+<div class="advertisementThumbnails">
+
+<div class="wrap">
+
+<div class="column">
+<!-- ADXINFO classification="button" campaign="VSNY_1557027_01-cla2"--><A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/jobs/index.html&pos=JMNow1&sn2=396640a/bd8fb50c&sn1=5996f2e2/dd014df1&camp=VSNY_1557027_01-cla2&ad=vsny-88x31&goto=http://ad.doubleclick.net/jump/N4789.NY-Times/B4236706.7;sz=88x31;pc=nyt148918_248346;ord=2011.12.02.18.04.29" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N4789.NY-Times/B4236706.7;sz=88x31;pc=nyt148918_248346;ord=2011.12.02.18.04.29"
+ BORDER=0 WIDTH=88 HEIGHT=31
+ ALT="Click Here"></A>
+</div>
+
+
+
+</div>
+
+
+</div>
+      
+<div class="story singleRule" >
+<iframe src="http://jobmarket.nytimes.com/gst/classifieds/jobs/getfeaturedjobs.html" width="335" height="220" scrolling="no" frameborder="0"></iframe><!--<div class="columnGroup">
+AGENCY CENTER PLACEHOLDER
+</div>-->
+</div>        	</div>
+<!--Ads StandardThumb -->                    <div class="columnGroup last">
+
+
+<div class="singleAd" id="SponLink">
+<script language="JavaScript" type="text/javascript">
+    
+    // Sponlink_short
+
+    NYTD.GoogleAds.getGoogleAds("AFC", { 
+        google_ad_client:'nytimes_section_var',
+        ad_target_list:'sponLink'
+    });
+</script>
+</div>
+
+</div>
+</div><!--close cColumn -->
+</div><!--close wideA -->
+</div><!--close spanAB -->
+<div id="spanABCBottomRegion">
+<div class="columnGroup first">				
+<div id="cobrandFooter"><h4><a href="http://hiring.nytimes.monster.com/contactus.aspx">Contact Monster</a></h4> The New York Times and Monster have joined forces. The combined power of The New York Times and Monster will enable employers to reach one out of every two active and passive candidates online, in print and in person. Employers will have access to more than 3 million resumes in the New York DMA; the ability to reach 4.7 million New York Times weekday readers, 5 million Sunday Times readers, and 1.4 million daily visitors to NYTimes.com.</div>		</div>
+</div>
+</div><!--close main -->
+<div id="footer">
+<ul class="first">
+<li class="first"><a href="http://www.nytimes.com">Home</a></li>
+<li >
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li>
+<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+</ul>    <ul>
+<li class="first"><a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&copy; 2011</a> <a href="http://www.nytco.com/">The New York Times Company</a></li>
+<li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Terms of Service</a></li>
+<li class="termsOfSale"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+<li><a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a></li>
+<li><a class="rssButton" href="http://www.nytimes.com/rss">RSS</a></li>
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+<li><a href="http://www.nytco.com/careers">Work for Us</a></li>
+<li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+</ul>
+</div>
+</div><!--close page -->
+</div><!--close shell -->
+
+
+
+
+
+
+
+<IMG SRC="/adx/bin/clientside/9e7c90bQ2F(Q279Q24dttLQ3DQ273PhvYvbbt3fPLfd" height="1" width="3">
+
+<script type="text/javascript" language="JavaScript">
+// Written by /usr/local/knews/bin/commentcount.pl Fri Dec  2 13:02:02 2011
+var NYTArticleCommentCounts = {
+"100000001190843":{count:147, commentsEnabled:false},
+"100000001190858":{count:204, commentsEnabled:false},
+"100000001190907":{count:49, commentsEnabled:false},
+"100000001191255":{count:237, commentsEnabled:false},
+"100000001191704":{count:133, commentsEnabled:false},
+"100000001191724":{count:100, commentsEnabled:false},
+"100000001191950":{count:122, commentsEnabled:false},
+"100000001192133":{count:307, commentsEnabled:false},
+"100000001192329":{count:76, commentsEnabled:false},
+"100000001190961":{count:19, commentsEnabled:false},
+"100000001177231":{count:1, commentsEnabled:true},
+"100000001177245":{count:74, commentsEnabled:true},
+"100000001179958":{count:24, commentsEnabled:false},
+"100000001180322":{count:227, commentsEnabled:true},
+"100000001183078":{count:44, commentsEnabled:false},
+"100000001183080":{count:327, commentsEnabled:false},
+"100000001183081":{count:7, commentsEnabled:false},
+"100000001183084":{count:235, commentsEnabled:false},
+"100000001183087":{count:11, commentsEnabled:false},
+"100000001183089":{count:14, commentsEnabled:false},
+"100000001183090":{count:11, commentsEnabled:false},
+"100000001183091":{count:3, commentsEnabled:false},
+"100000001183094":{count:14, commentsEnabled:false},
+"100000001184186":{count:79, commentsEnabled:false},
+"100000001184524":{count:149, commentsEnabled:false},
+"100000001186117":{count:1, commentsEnabled:false},
+"100000001186193":{count:12, commentsEnabled:true},
+"100000001186569":{count:190, commentsEnabled:false},
+"100000001189184":{count:49, commentsEnabled:false},
+"100000001190721":{count:71, commentsEnabled:false},
+"100000001191577":{count:224, commentsEnabled:false},
+"100000001191688":{count:28, commentsEnabled:false},
+"100000001191719":{count:107, commentsEnabled:false},
+"100000001191931":{count:121, commentsEnabled:false},
+"100000001191985":{count:110, commentsEnabled:false},
+"100000001192057":{count:211, commentsEnabled:false},
+"100000001192188":{count:141, commentsEnabled:false},
+"100000001192496":{count:52, commentsEnabled:false},
+"100000001192500":{count:206, commentsEnabled:false},
+"100000001192600":{count:224, commentsEnabled:false},
+"100000001192611":{count:167, commentsEnabled:false},
+"100000001193250":{count:67, commentsEnabled:false},
+"100000001193262":{count:37, commentsEnabled:false},
+"100000001193344":{count:98, commentsEnabled:false},
+"100000001193527":{count:27, commentsEnabled:false},
+"100000001193629":{count:10, commentsEnabled:false},
+"100000001193702":{count:17, commentsEnabled:false},
+"100000001193743":{count:108, commentsEnabled:false},
+"100000001193763":{count:516, commentsEnabled:false},
+"100000001193825":{count:86, commentsEnabled:false},
+"100000001193857":{count:48, commentsEnabled:false},
+"100000001193859":{count:160, commentsEnabled:false},
+"100000001193890":{count:117, commentsEnabled:false},
+"100000001193920":{count:44, commentsEnabled:false},
+"100000001193944":{count:303, commentsEnabled:false},
+"100000001193948":{count:7, commentsEnabled:false},
+"100000001194088":{count:51, commentsEnabled:false},
+"100000001194098":{count:17, commentsEnabled:true},
+"100000001194137":{count:109, commentsEnabled:false},
+"100000001194342":{count:159, commentsEnabled:false},
+"100000001194394":{count:68, commentsEnabled:false},
+"100000001194454":{count:36, commentsEnabled:false},
+"100000001194795":{count:192, commentsEnabled:false},
+"100000001194808":{count:628, commentsEnabled:false},
+"100000001194892":{count:125, commentsEnabled:false},
+"100000001195360":{count:33, commentsEnabled:false},
+"100000001195689":{count:178, commentsEnabled:false},
+"100000001195802":{count:10, commentsEnabled:false},
+"100000001195854":{count:304, commentsEnabled:false},
+"100000001195914":{count:48, commentsEnabled:false},
+"100000001195920":{count:17, commentsEnabled:false},
+"100000001195923":{count:44, commentsEnabled:false},
+"100000001195938":{count:138, commentsEnabled:false},
+"100000001195940":{count:10, commentsEnabled:false},
+"100000001195947":{count:92, commentsEnabled:false},
+"100000001195952":{count:162, commentsEnabled:false},
+"100000001195976":{count:141, commentsEnabled:false},
+"100000001195982":{count:283, commentsEnabled:false},
+"100000001196229":{count:42, commentsEnabled:false},
+"100000001196250":{count:104, commentsEnabled:true},
+"100000001196432":{count:333, commentsEnabled:false},
+"100000001196658":{count:42, commentsEnabled:false},
+"100000001196737":{count:28, commentsEnabled:true},
+"100000001196861":{count:18, commentsEnabled:false},
+"100000001196955":{count:71, commentsEnabled:true},
+"100000001196963":{count:143, commentsEnabled:false},
+"100000001197064":{count:68, commentsEnabled:false},
+"100000001197489":{count:3, commentsEnabled:false},
+"100000001197999":{count:75, commentsEnabled:false},
+"100000001198014":{count:290, commentsEnabled:false},
+"100000001198050":{count:69, commentsEnabled:true},
+"100000001198076":{count:32, commentsEnabled:true},
+"100000001198092":{count:204, commentsEnabled:false},
+"100000001198110":{count:424, commentsEnabled:false},
+"100000001198123":{count:343, commentsEnabled:false},
+"100000001198126":{count:62, commentsEnabled:false},
+"100000001198138":{count:163, commentsEnabled:false},
+"100000001198377":{count:143, commentsEnabled:true},
+"100000001198446":{count:23, commentsEnabled:true},
+"100000001198471":{count:52, commentsEnabled:true},
+"100000001198476":{count:157, commentsEnabled:true},
+"100000001198581":{count:48, commentsEnabled:true},
+"100000001198642":{count:253, commentsEnabled:false},
+"100000001199366":{count:136, commentsEnabled:true},
+"100000001199374":{count:114, commentsEnabled:true},
+"100000001199444":{count:155, commentsEnabled:false},
+"100000001199658":{count:4, commentsEnabled:true},
+"100000001200046":{count:884, commentsEnabled:true},
+"100000001200335":{count:165, commentsEnabled:false},
+"100000001200378":{count:192, commentsEnabled:false},
+"100000001200458":{count:77, commentsEnabled:false},
+"100000001200844":{count:23, commentsEnabled:true},
+"100000001201276":{count:88, commentsEnabled:true},
+"100000001201525":{count:188, commentsEnabled:true},
+"100000001202361":{count:0, commentsEnabled:true},
+"100000001202521":{count:27, commentsEnabled:true},
+"100000001202701":{count:270, commentsEnabled:false},
+"100000001202807":{count:17, commentsEnabled:true},
+"100000001202815":{count:116, commentsEnabled:false},
+"100000001202831":{count:232, commentsEnabled:true},
+"100000001202861":{count:95, commentsEnabled:true},
+"100000001202869":{count:39, commentsEnabled:true},
+"100000001202871":{count:23, commentsEnabled:true},
+"100000001202889":{count:54, commentsEnabled:true},
+"100000001202895":{count:33, commentsEnabled:true},
+"100000001202901":{count:90, commentsEnabled:true},
+"100000001203208":{count:19, commentsEnabled:true},
+"100000001203416":{count:220, commentsEnabled:true},
+"100000001203664":{count:0, commentsEnabled:true},
+"100000001188908":{count:16, commentsEnabled:true},
+"100000001194403":{count:0, commentsEnabled:true},
+"100000001194404":{count:0, commentsEnabled:true},
+"100000001194405":{count:71, commentsEnabled:true},
+"100000001194406":{count:0, commentsEnabled:true},
+"100000001194419":{count:1, commentsEnabled:true},
+"100000001194423":{count:58, commentsEnabled:true},
+"100000001194424":{count:0, commentsEnabled:true},
+"100000001194425":{count:0, commentsEnabled:true},
+"100000001194427":{count:0, commentsEnabled:true},
+"100000001194843":{count:51, commentsEnabled:true},
+"100000001197746":{count:1, commentsEnabled:true},
+"100000001201815":{count:0, commentsEnabled:true},
+"100000001201989":{count:0, commentsEnabled:true}
+};
+</script>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/homepage/articleCommentCounts.js"></script>
+<script type="text/javascript" language="JavaScript">
+    ArticleCommentCounts.apply()
+    </script>
+
+			
+		<!-- Start UPT call -->
+		<img height="1" width="3" border=0 src="http://up.nytimes.com/?d=0//&t=6&s=0&ui=&r=&u=jobmarket%2enytimes%2ecom%2fpages%2fjobs%2findex%2ehtml%3f">
+		<!-- End UPT call -->
+	
+		
+        <script language="JavaScript"><!--
+          var dcsvid="";
+          var regstatus="non-registered";
+        //--></script>
+        <script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+        <noscript>
+          <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div>
+        </noscript>
+   
+</body>
+</html>

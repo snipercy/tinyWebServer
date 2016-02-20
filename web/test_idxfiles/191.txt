@@ -1,0 +1,3 @@
+Location: http://www.nytimes.com/glogin?URI=http://www.nytimes.com/2011/11/20/business/kathleen-flanagan-of-abt-on-making-confident-choices.html&OQ=_rQ3D1&OP=7f8c81e2Q2Fh8Q27AhNBuIQ26BBiEhEQ7EJJhJJhEQ7EhAQ2AIQ7BZQ27IIh6Q3AimeQ27Q27ZcQ5EeQ3AZQ3A_Q3AZcBQ5EcQ3AAicBZcQ22Q3A6Q7BZ_cuBZQ5EQ7BNQ27ZicumBQ7BuQ27IQ2BmiQ22e
+Connection: keep-alive
+

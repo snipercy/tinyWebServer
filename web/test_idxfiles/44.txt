@@ -1,0 +1,1662 @@
+Set-cookie: RMID=1e1f53f80a134ed9132e66c9; expires=Saturday, 01-Dec-2012 18:04:30 GMT; path=/; domain=.nytimes.com
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Set-cookie: adxcs=s*28146=0:1; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Books - The New York Times</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="noarchive">
+<meta name="description" content="Find book reviews &amp; news about authors, new books, best sellers, fiction &amp; non-fiction, literature, biographies, memoirs, children?s books, the Pulitzer Prizes and the Nobel Prize in Literature." />
+<meta name="keywords" content="Books and Literature,Nasar, Sylvia,Books and Literature,Economics,Wildlife Conservation Society,Jenkins, Jerry,Global Warming,Adirondack Mountains (NY),Books and Literature,Gross, Michael,Reading and Writing Skills,Books and Literature,Writing and Writers,Hiring and Promotion,New Inquiry, The,Colleges and Universities,Book Trade and Publishing,Labor and Jobs,Magazines,Fashion and Apparel,Dresses,Couture (Fashion),Books and Literature,Christian Dior SA,Photography,Demarchelier, Patrick,O'Rourke, P J,Books and Literature,Books and Literature,Books and Literature,Updike, John,Bible,Books and Literature,Javerbaum, David,Connelly, Michael,Books and Literature,Colleges and Universities,University of Baghdad,Libraries and Librarians,Iran,Iraq,State Department,United States International Relations,Baghdad (Iraq),Books and Literature,Vonnegut, Kurt Jr,Shields, Charles J,van Gogh, Vincent,Smith, Gregory White,Books and Literature,Naifeh, Steven,Art,Books and Literature,Lethem, Jonathan,Kahneman, Daniel,Books and Literature,iTunes,Facebook Inc,Google Book Search,Books and Literature,Netflix Inc,Computers and the Internet,YouTube.com,Levine, Robert,Wal-Mart Stores Inc,E-Commerce,Shakespeare, William,Verdi, Giuseppe,Wills, Garry,Writing and Writers,Books and Literature,Poetry and Poets,Theater,Millet, Lydia,Books and Literature,Music,Charles, Ray,Books and Literature,Rock Music,Blues Music,Burke, Solomon,Greenfield, Robert,Franklin, Aretha,Atlantic Records,Ertegun, Ahmet,Ellington, Duke,Fitzgerald, Ella,Nadas, Peter,Goldstein, Imre,Writing and Writers,Books and Literature,Books and Literature,Ferguson, Niall,Guterson, David,Books and Literature,Books and Literature,de' Medici, Caterina Riario Sforza,Lev, Elizabeth,Books and Literature,Toll, Ian W,Poetry and Poets,Books and Literature,Williams, William Carlos,Leibowitz, Herbert,Ku Klux Klan,Pegram, Thomas R,Books and Literature,Baker, Kelly J,Books and Literature,Audiobooks,Book Trade and Publishing,Books and Literature,Audiobooks,Libraries and Librarians,Books and Literature,Felsenstein, Frank,Muncie, Ind,Books and Literature,Books and Literature,Christgau, Robert,Patterson, James,Books and Literature,Books and Literature,Books and Literature,Books and Literature,Books and Literature,Books and Literature,Books and Literature,Books and Literature" />
+<meta name="asset_id" content="">
+<meta name="CG" content="books">
+<meta name="SCG" content="">
+<meta name="PT" content="Section Front">
+<meta name="PST" content="">
+<link rel="canonical" href="http://www.nytimes.com/pages/books/index.html">
+<meta name="msapplication-starturl" content="http://www.nytimes.com/" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.nytimes.com/services/xml/rss/nyt/Books.xml"/>
+
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/build/sectionfront/books/styles.css" />
+<link rel="stylesheet" type="text/css" media="print" href="http://graphics8.nytimes.com/css/0.1/print/styles.css">
+<!--[if IE]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie.css);
+	    </style>
+	<![endif]-->
+<!--[if IE 6]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie6.css);
+	    </style>
+	<![endif]-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/DropDown.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/util/tooltip.js"></script>
+<script type="text/JavaScript">
+		var static_kw = "Books and Literature;Nasar; Sylvia;Books and Literature;Economics;Wildlife Conservation Society;Jenkins; Jerry;Global Warming;Adirondack Mountains (NY);Books and Literature;Gross; Michael;Reading and Writing Skills;Books and Literature;Writing and Writers;Hiring and Promotion;New Inquiry; The;Colleges and Universities;Book Trade and Publishing;Labor and Jobs;Magazines;Fashion and Apparel;Dresses;Couture (Fashion);Books and Literature;Christian Dior SA;Photography;Demarchelier; Patrick;O'Rourke; P J;Books and Literature;Books and Literature;Books and Literature;Updike; John;Bible;Books and Literature;Javerbaum; David;Connelly; Michael;Books and Literature;Colleges and Universities;University of Baghdad;Libraries and Librarians;Iran;Iraq;State Department;United States International Relations;Baghdad (Iraq);Books and Literature;Vonnegut; Kurt Jr;Shields; Charles J;van Gogh; Vincent;Smith; Gregory White;Books and Literature;Naifeh; Steven;Art;Books and Literature;Lethem; Jonathan;Kahneman; Daniel;Books and Literature;iTunes;Facebook Inc;Google Book Search;Books and Literature;Netflix Inc;Computers and the Internet;YouTube.com;Levine; Robert;Wal-Mart Stores Inc;E-Commerce;Shakespeare; William;Verdi; Giuseppe;Wills; Garry;Writing and Writers;Books and Literature;Poetry and Poets;Theater;Millet; Lydia;Books and Literature;Music;Charles; Ray;Books and Literature;Rock Music;Blues Music;Burke; Solomon;Greenfield; Robert;Franklin; Aretha;Atlantic Records;Ertegun; Ahmet;Ellington; Duke;Fitzgerald; Ella;Nadas; Peter;Goldstein; Imre;Writing and Writers;Books and Literature;Books and Literature;Ferguson; Niall;Guterson; David;Books and Literature;Books and Literature;de' Medici; Caterina Riario Sforza;Lev; Elizabeth;Books and Literature;Toll; Ian W;Poetry and Poets;Books and Literature;Williams; William Carlos;Leibowitz; Herbert;Ku Klux Klan;Pegram; Thomas R;Books and Literature;Baker; Kelly J;Books and Literature;Audiobooks;Book Trade and Publishing;Books and Literature;Audiobooks;Libraries and Librarians;Books and Literature;Felsenstein; Frank;Muncie; Ind;Books and Literature;Books and Literature;Christgau; Robert;Patterson; James;Books and Literature;Books and Literature;Books and Literature;Books and Literature;Books and Literature;Books and Literature;Books and Literature;Books and Literature";
+		var dynamic_kw = "Books+and+Literature;Nasar;+Sylvia;Books+and+Literature;Economics;Wildlife+Conservation+Society;Jenkins;+Jerry;Global+Warming;Adirondack+Mountains+%28NY%29;Books+and+Literature;Gross;+Michael;Reading+and+Writing+Skills;Books+and+Literature;Writing+and+Writers;Hiring+and+Promotion;New+Inquiry;+The;Colleges+and+Universities;Book+Trade+and+Publishing;Labor+and+Jobs;Magazines;Fashion+and+Apparel;Dresses;Couture+%28Fashion%29;Books+and+Literature;Christian+Dior+SA;Photography;Demarchelier;+Patrick;O%27Rourke;+P+J;Books+and+Literature;Books+and+Literature;Books+and+Literature;Updike;+John;Bible;Books+and+Literature;Javerbaum;+David;Connelly;+Michael;Books+and+Literature;Colleges+and+Universities;University+of+Baghdad;Libraries+and+Librarians;Iran;Iraq;State+Department;United+States+International+Relations;Baghdad+%28Iraq%29;Books+and+Literature;Vonnegut;+Kurt+Jr;Shields;+Charles+J;van+Gogh;+Vincent;Smith;+Gregory+White;Books+and+Literature;Naifeh;+Steven;Art;Books+and+Literature;Lethem;+Jonathan;Kahneman;+Daniel;Books+and+Literature;iTunes;Facebook+Inc;Google+Book+Search;Books+and+Literature;Netflix+Inc;Computers+and+the+Internet;YouTube.com;Levine;+Robert;Wal-Mart+Stores+Inc;E-Commerce;Shakespeare;+William;Verdi;+Giuseppe;Wills;+Garry;Writing+and+Writers;Books+and+Literature;Poetry+and+Poets;Theater;Millet;+Lydia;Books+and+Literature;Music;Charles;+Ray;Books+and+Literature;Rock+Music;Blues+Music;Burke;+Solomon;Greenfield;+Robert;Franklin;+Aretha;Atlantic+Records;Ertegun;+Ahmet;Ellington;+Duke;Fitzgerald;+Ella;Nadas;+Peter;Goldstein;+Imre;Writing+and+Writers;Books+and+Literature;Books+and+Literature;Ferguson;+Niall;Guterson;+David;Books+and+Literature;Books+and+Literature;de%27+Medici;+Caterina+Riario+Sforza;Lev;+Elizabeth;Books+and+Literature;Toll;+Ian+W;Poetry+and+Poets;Books+and+Literature;Williams;+William+Carlos;Leibowitz;+Herbert;Ku+Klux+Klan;Pegram;+Thomas+R;Books+and+Literature;Baker;+Kelly+J;Books+and+Literature;Audiobooks;Book+Trade+and+Publishing;Books+and+Literature;Audiobooks;Libraries+and+Librarians;Books+and+Literature;Felsenstein;+Frank;Muncie;+Ind;Books+and+Literature;Books+and+Literature;Christgau;+Robert;Patterson;+James;Books+and+Literature;Books+and+Literature;Books+and+Literature;Books+and+Literature;Books+and+Literature;Books+and+Literature;Books+and+Literature;Books+and+Literature";
+		var nyt_google_contents = dynamic_kw + static_kw;
+		var nyt_google_ad_channel = "books";
+	</script>
+<script type="text/javascript" src="http://use.typekit.com/fml4qar.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" src="http://js.nyt.com/js2/build/sitewide/sitewide.js"></script>
+<script type="text/javascript" src="http://js.nyt.com/js/app/lib/jquery/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+</head>
+<body>
+<a name="top"></a>
+<div id="shell">
+
+<ul id="memberTools">
+
+<!-- start text link -->
+<li class="cColumn-TextAdsHeader">Subscribe:
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/books/index.html&pos=Bar1&sn2=a0db4c4b/7cc8252e&sn1=2407a328/96bf5462&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-digi-hd-d3847U-h3847W&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fsubscriptions%2FMultiproduct%2Flp5558%2Ehtml%3Fadxc%3D162578%26adxa%3D267524%26page%3Dwww.nytimes.com/pages/books/index.html%26pos%3DBar1%26campaignId%3D3847U" target="_blank">
+Digital</a> / <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/books/index.html&pos=Bar1&sn2=a0db4c4b/7cc8252e&sn1=8c0204ae/f0584be3&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-digi-hd-d3847U-h3847W&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DW47AF%26CMP%3D3847W" target="_blank">Home Delivery</a>
+</li>
+<!-- end text link -->
+
+ 
+                        <li><a id="memberToolsLogin" href="https://myaccount.nytimes.com/auth/login">Log In</a></li>
+            <li><a href="https://myaccount.nytimes.com/gst/regi.html">Register Now</a></li>
+                            
+
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+</ul>
+<div class="tabsContainer">
+<ul id="mainTabs" class="tabs">
+<li class="first mainTabHome"><a href="http://www.nytimes.com">Home Page</a></li>
+<li class="mainTabTodaysPaper"><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+<li class="mainTabVideo"><a href="http://www.nytimes.com/video">Video</a></li>
+<li class="mainTabMostPopular"><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+<li class="mainTabTimesTopics"><a href="http://topics.nytimes.com/top/reference/timestopics">Times Topics</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+</script>	<div id="page" class="tabContent active">
+<div class="clearfix" id="masthead">
+
+<div class="singleAd" id="Middle1C">
+<!-- ADXINFO classification="button" campaign="ING_DirectSiteSearchQ111_1694929-nyt1"--><A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/books/index.html&pos=Middle1C&sn2=620afad6/1ec8b97f&sn1=59756299/46b02203&camp=ING_DirectSiteSearchQ111_1694929-nyt1&ad=NEW.88x31.SiteSearch.Wizard&goto=http://ad.doubleclick.net/jump/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.30" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.30"
+ BORDER=0 WIDTH=88 HEIGHT=31
+ ALT="Click Here"></A>
+</div>
+
+<div id="searchWidget">
+<div class="inlineSearchControl">
+<form enctype="application/x-www-form-urlencoded" action="http://query.nytimes.com/search/sitesearch" method="get" name="searchForm" id="searchForm">
+<input type="hidden" value="full" name="date_select"/>
+<label for="searchQuery">Search All NYTimes.com</label>
+<input type="text" class="text" value="" size="" name="query" id="searchQuery"/>
+<input type="hidden" id="searchAll" name="type" value="nyt"/>
+<input type="image" id="searchSubmit" title="Search" alt="Search" width="22" height="19" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"/>
+</form>
+</div>
+</div>
+
+<div id="branding" >
+<a href="http://www.nytimes.com"><img src="http://graphics8.nytimes.com/images/misc/nytlogo152x23.gif" alt="New York Times" id="NYTLogo"/></a>
+</div>
+
+<div id="date">
+<p>
+Friday, December  2, 2011
+</p>
+</div>
+
+<h2>
+<a href="http://www.nytimes.com/pages/books/index.html">Books</a>
+</h2>
+
+</div>
+<div class="navigation tabsContainer">
+<ul class="tabs">
+<li id="navWorld" class="first ">
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>	<li id="navUs" >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>	<li id="navNyregion" >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>	<li id="navBusiness" >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>	<li id="navTechnology" >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>	<li id="navScience" >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>	<li id="navHealth" >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>	<li id="navSports" >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>	<li id="navOpinion" >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>	<li id="navArts" class="selected">
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+<ul class="subNavigation"><li id="subNav_design"><a href="http://www.nytimes.com/pages/arts/design/index.html">Art & Design</a></li><li id="subNav_books" class="selected children" ><a href="http://www.nytimes.com/pages/books/index.html">Books</a><ul><li id="subSubNav_review"><a href="http://www.nytimes.com/pages/books/review/index.html">Sunday Book Review</a></li><li id="subSubNav_bestseller"><a href="http://www.nytimes.com/best-sellers-books/overview.html">Best Sellers</a></li></ul></li><li id="subNav_dance"><a href="http://www.nytimes.com/pages/arts/dance/index.html">Dance</a></li><li id="subNav_movies"><a href="http://movies.nytimes.com/pages/movies/index.html">Movies</a></li><li id="subNav_music"><a href="http://www.nytimes.com/pages/arts/music/index.html">Music</a></li><li id="subNav_television"><a href="http://www.nytimes.com/pages/arts/television/index.html">Television</a></li><li id="subNav_theater"><a href="http://theater.nytimes.com/pages/theater/index.html">Theater</a></li><li id="subNav_video-games"><a href="http://www.nytimes.com/pages/arts/video-games/index.html">Video Games</a></li><li id="subNav_events"><a href="http://www.nytimes.com/events">Events</a></li></ul></li>	<li id="navStyle" >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>	<li id="navTravel" >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>	<li id="navJobs" >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>	<li id="navRealestate" >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>	<li id="navAutomobiles" >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li></ul>
+</div>
+
+<div class="singleAd" id="TopAd">
+<!-- ADXINFO classification="superheader" campaign="MorganLibrary_1781293_nyt10"--><script type="text/javascript">
+   var movieWidth = 960;
+   var movieHeight = 90;
+   var altSrc = "http://graphics8.nytimes.com/adx/images/ADS/28/57/ad.285748/MOR-0012-DickensHoliday_960x90_NYTimes_v4.jpg";
+   var swfFile = "http://graphics8.nytimes.com/adx/images/ADS/28/57/ad.285748/MOR-0012-DickensHoliday_960x90_NYTimes_v4.swf";
+   var altClickThru = "http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/books/index.html&pos=TopAd&sn2=82224690/d2cfe84c&sn1=9a94e00d/fd7f0608&camp=MorganLibrary_1781293_nyt10&ad=dickens_960x90_BooksSF_dec1&goto=http%3A%2F%2Fwww%2Ethemorgan%2Eorg%2Fexhibitions%2Fexhibition%2Easp%3Fid%3D48";
+   var swfSrc = swfFile + "?clicktag=" + escape(altClickThru);
+</script>
+<script type="text/javascript" src="http://www.nytimes.com/ads/common/embed3.js">
+</script>
+
+</div>
+
+<div id="main">
+<div class="spanAB wrap">
+<div class="wideA">
+<div class="abColumn">
+<div class="aColumn">
+<!--cur:LedeStory395 prev:-->
+<div class="columnGroup first">
+<div class="ledeStory">
+<div class="storyHeader">
+<h1><a href="http://www.nytimes.com/gift-guide/holiday-2011/categories.html?ref=books&amp;ref=books">
+For Bibliophiles, Titles of Distinction</a></h1>
+<h6 class="byline">
+</h6>
+</div>
+<div class="ledePhoto">
+<div class="image">
+<a href="http://www.nytimes.com/gift-guide/holiday-2011/categories.html?ref=books&amp;ref=books"><img src="http://graphics8.nytimes.com/images/2011/11/29/arts/booksgift/booksgift-sfSpan.jpg" border="0" width="395" height="202" alt="" /></a>
+</div>
+</div>
+<p class="summary">
+The Times’s book critics pick their top books of the year.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/11/25/books/michiko-kakutanis-recommendations-for-2011.html" target="_blank">Selections by Michiko Kakutani</a> | <a href="http://www.nytimes.com/2011/11/25/books/janet-maslins-recommendations.html" target="_blank">Janet Maslin</a> | <a href="http://www.nytimes.com/2011/11/25/books/dwight-garners-top-10-nonfiction-books-of-2011.html" target="_blank">Dwight Garner</a></li>
+<li><a href="http://www.nytimes.com/2011/11/22/books/review/100-notable-books-of-2011.html" target="_blank">Sunday Book Review: 100 Notable Books of 2011</a></li>
+</ul>
+</div>
+</div>
+<!--cur:LedeStory190 prev:LedeStory395-->
+<div class="columnGroup singleRule ">
+<h6 class="sectionHeader">Book News and Reviews</h6><div class="ledeStory">
+<div class="ledePhoto runaroundRight w190">
+<div class="image"> 
+<a href="http://www.nytimes.com/2011/12/11/books/10-best-books-of-2011.html?ref=books"><img border="0" height="182" width="190" alt="" src="http://graphics8.nytimes.com/images/2011/11/30/books/bestcovercap2/bestcovercap2-articleInline-v2.jpg"/></a>
+</div>
+<h6 class="credit">Todd St. John</h6>
+</div>
+<div class="storyHeader">
+<h6 class="kicker">Holiday Gift Guide</h6>
+<h1><a href="http://www.nytimes.com/2011/12/11/books/10-best-books-of-2011.html?ref=books">The 10 Best Books of 2011</a></h1>
+<h6 class="byline">
+</h6>
+</div>
+<p class="summary">
+The Book Review picks the year’s best fiction and nonfiction.</p>
+</div>
+<div class="storyFollowsLede">
+<h6 class="kicker">Books of The Times</h6>
+<h3><a href="http://www.nytimes.com/2011/12/02/books/grand-pursuit-by-sylvia-nasar-review.html?ref=books">
+&lsquo;Grand Pursuit&rsquo;</a></h3>
+<h6 class="byline">
+By SYLVIA NASAR<br/>Reviewed by MICHIKO KAKUTANI 
+</h6>
+<p class="summary">
+In “Grand Pursuit,” Sylvia Nasar surveys a century and a half of great minds behind the development of the dismal science.</p>
+</div>
+</div>
+<!--cur:StandardThumb prev:LedeStory190-->
+<div class="columnGroup ">
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/nyregion/fearing-climate-changes-effects-on-the-adirondacks.html?ref=books">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/nyregion/ADIRONDACKS1/ADIRONDACKS1-thumbStandard.jpg" width="75" height="75" alt="A full moon rising over Osgood Pond near Paul Smiths, N.Y." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/nyregion/fearing-climate-changes-effects-on-the-adirondacks.html?ref=books">
+Savoring Bogs and Moose, Fearing They’ll Vanish as the Adirondacks Warm</a></h3>
+<h6 class="byline">
+By LISA W. FODERARO	    </h6>
+<p class="summary">
+Jerry Jenkins, an ecologist, documents the ecosystem of the Adirondacks and laments its future in the face of global climate change’s local effects.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/slideshow/2011/12/02/nyregion/02Adirondacks.html"><span class="icon slideshow">Slide Show</span>: Documenting Climate Change in the Adirondacks</a></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">Books of The Times</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/01/books/unreal-estate-by-michael-gross-review.html?ref=books">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/arts/book/book-thumbStandard.jpg" width="75" height="75" alt="Michael Gross" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/01/books/unreal-estate-by-michael-gross-review.html?ref=books">
+&lsquo;Unreal Estate&rsquo;</a></h3>
+<h6 class="byline">
+By MICHAEL GROSS<br/>Reviewed by JANET MASLIN	    </h6>
+<p class="summary">
+In “Unreal Estate” Michael Gross gets nosy about grandiose estates, places that tend to be gated.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/01/fashion/new-yorks-literary-cubs.html?ref=books">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/fashion/01LITERARY_SPAN/01zLITERARY_SPAN-thumbStandard.jpg" width="75" height="75" alt="Rachel Rosenfelt, right, read a selection from Virginia Woolf at a literary salon held by the editors of The New Inquiry, an online journal she helped start. Also at the salon, from left to right, are Rebecca Chapman, Helena Fitzgerald and Tim Barker." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/01/fashion/new-yorks-literary-cubs.html?ref=books">
+The Literary Cubs</a></h3>
+<h6 class="byline">
+By ALEX WILLIAMS	    </h6>
+<p class="summary">
+A group of young, ambitious writers and editors have created a scrappy online journal and roving clubhouse that functions as a kind of Intellectuals Anonymous for the city’s literary underclass, one that has been largely ignored by the publishing establishment.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/01/fashion/with-dior-couture-patrick-demarchelier-opens-the-houses-doors.html?ref=books">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/fashion/01dspan/01dspan-thumbStandard.jpg" width="75" height="75" alt="Photography from Patrick Demarchelier's new book, "Dior Couture."" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/01/fashion/with-dior-couture-patrick-demarchelier-opens-the-houses-doors.html?ref=books">
+Opening the Doors of Dior</a></h3>
+<h6 class="byline">
+By CATHY HORYN	    </h6>
+<p class="summary">
+While not a complete record, “Dior Couture” (Rizzoli), by the photographer Patrick Demarchelier, is far and away the most gorgeous on the fashion house.</p>
+<ul class="refer">
+<li><a href="http://video.nytimes.com/video/2011/11/29/fashion/100000001197118/interviewing-demarchelier.html"><span class="icon video">Video</span>: Demarchelier in the Studio</a></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">Books of The Times</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/30/books/holidays-in-heck-by-p-j-orourke-review.html?ref=books">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/arts/30book/30book-thumbStandard.jpg" width="75" height="75" alt="P. J. O'Rourke's “Holidays in Heck” is a sequel of sorts to his 1998 book, “Holidays in Hell.”" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/30/books/holidays-in-heck-by-p-j-orourke-review.html?ref=books">
+&lsquo;Holidays in Heck&rsquo;</a></h3>
+<h6 class="byline">
+By P. J. O'ROURKE<br/>Reviewed by DWIGHT GARNER	    </h6>
+<p class="summary">
+P. J. O’Rourke’s new book, “Holidays in Heck,” a sequel of sorts to 1988’s “Holidays in Hell,” is a collection of essays and observations about his health, travels and family.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Picture Books</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/30/books/reviews-of-picture-books-fancy-nancy-splendiferous-christmas-the-money-well-save-the-perfect-christmas.html?ref=books">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/arts/30childrencap1/30childrencap1-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/30/books/reviews-of-picture-books-fancy-nancy-splendiferous-christmas-the-money-well-save-the-perfect-christmas.html?ref=books">
+Christmas, Plain and Fancy</a></h3>
+<h6 class="byline">
+By PAMELA PAUL	    </h6>
+<p class="summary">
+Reviews of “Fancy Nancy Splendiferous Christmas,” “The Money We’ll Save” and “The Perfect Christmas.”</p>
+</div>
+<div class="story">
+<h6 class="kicker">Books of The Times</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/29/books/higher-gossip-by-john-updike-review.html?ref=books">
+<img src="http://graphics8.nytimes.com/images/2011/11/29/arts/SUB-JP-BOOK/SUB-JP-BOOK-thumbStandard.jpg" width="75" height="75" alt="The author John Updike at the Boston Public Library in 2006. He died two years ago." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/29/books/higher-gossip-by-john-updike-review.html?ref=books">
+&lsquo;Higher Gossip&rsquo;</a></h3>
+<h6 class="byline">
+By JOHN UPDIKE<br/>Reviewed by MICHIKO KAKUTANI	    </h6>
+<p class="summary">
+A posthumous collection of essays and criticism reminds the reader of how skilled a literary decathlete John Updike was.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Books of The Times</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/28/books/the-last-testament-a-memoir-by-god-review.html?ref=books">
+<img src="http://graphics8.nytimes.com/images/2011/11/28/arts/BOOK/BOOK-thumbStandard.jpg" width="75" height="75" alt="David Javerbaum" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/28/books/the-last-testament-a-memoir-by-god-review.html?ref=books">
+&lsquo;The Last Testament&rsquo;</a></h3>
+<h6 class="byline">
+By DAVID JAVERBAUM<br/>Reviewed by JANET MASLIN	    </h6>
+<p class="summary">
+In “The Last Testament,” God (via David Javerbaum) reveals his weakness for Broadway musicals, and, in blatant self-promotion, explains how buying the book may save us.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Books of The Times</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/24/books/the-drop-by-michael-connelly-review.html?ref=books">
+<img src="http://graphics8.nytimes.com/images/2011/11/24/arts/24jpbook/24jpbook-thumbStandard.jpg" width="75" height="75" alt="Michael Connelly" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/24/books/the-drop-by-michael-connelly-review.html?ref=books">
+&lsquo;The Drop&rsquo;</a></h3>
+<h6 class="byline">
+By MICHAEL CONNELLY<br/>Reviewed by JANET MASLIN	    </h6>
+<p class="summary">
+Michael Connelly’s detective Harry Bosch returns in “The Drop,” with cases old and new vying for attention.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Baghdad Journal</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/23/world/middleeast/american-collection-at-baghdad-university-draws-few-visitors.html?ref=books">
+<img src="http://graphics8.nytimes.com/images/2011/11/23/world/LIBRARY/LIBRARY-thumbStandard-v3.jpg" width="75" height="75" alt="Kamal Yunis, a research librarian at Baghdad University, oversees the quiet American Corner." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/23/world/middleeast/american-collection-at-baghdad-university-draws-few-visitors.html?ref=books">
+A Corner of American Outreach Has Few Visitors, and Plenty of Dust</a></h3>
+<h6 class="byline">
+By TIM ARANGO	    </h6>
+<p class="summary">
+At Baghdad University’s library, a collection of books compiled by the American Embassy to pique students’ interest in the United States has been largely overlooked.</p>
+</div>
+</div>
+<!--cur:LedeStory190 prev:StandardThumb-->
+<div class="columnGroup singleRule ">
+<h6 class="sectionHeader">Sunday Book Review</h6><div class="ledeStory">
+<div class="ledePhoto runaroundRight w190">
+<div class="image"> 
+<a href="http://www.nytimes.com/2011/11/27/books/review/and-so-it-goes-kurt-vonnegut-a-life-by-charles-j-shields-book-review.html?ref=books"><img border="0" height="204" width="190" alt="" src="http://graphics8.nytimes.com/images/2011/11/11/books/review/Buckley/Buckley-articleInline.jpg"/></a>
+</div>
+<h6 class="credit">Thomas Fuchs</h6>
+</div>
+<div class="storyHeader">
+<h1><a href="http://www.nytimes.com/2011/11/27/books/review/and-so-it-goes-kurt-vonnegut-a-life-by-charles-j-shields-book-review.html?ref=books">&lsquo;And So It Goes&rsquo;</a></h1>
+<h6 class="byline">
+By CHARLES J. SHIELDS<br/>Reviewed by CHRISTOPHER BUCKLEY                    </h6>
+</div>
+<p class="summary">
+Kurt Vonnegut died in 2007, but one gets the sense from Charles J. Shields’s sad, often heartbreaking biography, “And So It Goes,” that he would have been happy to depart this vale of tears sooner.</p>
+</div>
+<div class="storyFollowsLede">
+<h3><a href="http://www.nytimes.com/2011/11/27/books/review/van-gogh-the-life-by-steven-naifeh-and-gregory-white-smith-book-review.html?ref=books">
+&lsquo;Van Gogh: The Life&rsquo;</a></h3>
+<h6 class="byline">
+By STEVEN NAIFEH AND GREGORY WHITE SMITH<br/>Reviewed by DEBORAH SOLOMON 
+</h6>
+<p class="summary">
+A speculative biography suggests that Vincent van Gogh might have been murdered.</p>
+</div>
+</div>
+<!--cur:StandardThumb prev:LedeStory190-->
+<div class="columnGroup last">
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/books/review/the-ecstasy-of-influence-nonfictions-etc-by-jonathan-lethem-book-review.html?ref=books">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/books/review/Christgau/Christgau-thumbStandard-v2.jpg" width="75" height="75" alt="Jonathan Lethem" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/books/review/the-ecstasy-of-influence-nonfictions-etc-by-jonathan-lethem-book-review.html?ref=books">
+&lsquo;The Ecstasy of Influence: Nonfictions, Etc&rsquo;</a></h3>
+<h6 class="byline">
+By JONATHAN LETHEM<br/>Reviewed by ROBERT CHRISTGAU	    </h6>
+<p class="summary">
+This collection presents Jonathan Lethem as a reader and writer, but also showcases his nonliterary interests.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/11/27/books/review/up-front.html" target="_blank">Up Front: Robert Christgau</a></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/books/review/thinking-fast-and-slow-by-daniel-kahneman-book-review.html?ref=books">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/books/review/HOLT-sub/HOLT-sub-thumbStandard-v2.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/books/review/thinking-fast-and-slow-by-daniel-kahneman-book-review.html?ref=books">
+&lsquo;Thinking, Fast and Slow&rsquo;</a></h3>
+<h6 class="byline">
+By DANIEL KAHNEMAN<br/>Reviewed by JIM HOLT	    </h6>
+<p class="summary">
+In the conflict between intuitive and rational decision-making, which side wins?</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/books/review/free-ride-by-robert-levine-book-review.html?ref=books">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/books/review/Rosen-sub/Rosen-sub-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/books/review/free-ride-by-robert-levine-book-review.html?ref=books">
+&lsquo;Free Ride&rsquo;</a></h3>
+<h6 class="byline">
+By ROBERT LEVINE<br/>Reviewed by JEFFREY ROSEN	    </h6>
+<p class="summary">
+Web sites that drive down content prices are “parasites,” Robert Levine says.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/books/review/will-in-the-middle.html?ref=books">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/books/review/Simon-1/Simon-1-thumbStandard.jpg" width="75" height="75" alt="William Shakespeare" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/books/review/will-in-the-middle.html?ref=books">
+Will in the Middle</a></h3>
+<h6 class="byline">
+By JOHN SIMON	    </h6>
+<p class="summary">
+Rome’s influence on Shakespeare, and Shakespeare’s on Verdi.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/books/review/ghost-lights-by-lydia-millet-book-review.html?ref=books">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/books/review/27EMMONS/27EMMONS-thumbStandard.jpg" width="75" height="75" alt="Lydia Millet" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/books/review/ghost-lights-by-lydia-millet-book-review.html?ref=books">
+&lsquo;Ghost Lights&rsquo;</a></h3>
+<h6 class="byline">
+By LYDIA MILLET<br/>Reviewed by JOSH EMMONS	    </h6>
+<p class="summary">
+A journey to the jungles of Belize becomes a soul-searching expedition for Lydia Millet’s mild-mannered hero.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/books/review/the-last-sultan-the-life-and-times-of-ahmet-ertegun-by-robert-greenfield-book-review.html?ref=books">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/books/review/27ABRAMOVICH/27ABRAMOVICH-thumbStandard.jpg" width="75" height="75" alt="Ahmet Ertegun, center, with Otis Redding, left, and King Curtis." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/books/review/the-last-sultan-the-life-and-times-of-ahmet-ertegun-by-robert-greenfield-book-review.html?ref=books">
+&lsquo;The Last Sultan: The Life and Times of Ahmet Ertegun&rsquo;</a></h3>
+<h6 class="byline">
+By ROBERT GREENFIELD<br/>Reviewed by ALEX ABRAMOVICH	    </h6>
+<p class="summary">
+A biography of Ahmet Ertegun, who built Atlantic Records on black music.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/books/review/parallel-stories-by-peter-nadastranslated-by-imre-goldstein-book-review.html?ref=books">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/books/review/27SUBMOSER/27SUBMOSER-thumbStandard-v2.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/books/review/parallel-stories-by-peter-nadastranslated-by-imre-goldstein-book-review.html?ref=books">
+&lsquo;Parallel Stories&rsquo;</a></h3>
+<h6 class="byline">
+By PETER NADAS.TRANSLATED BY IMRE GOLDSTEIN<br/>Reviewed by BENJAMIN MOSER	    </h6>
+<p class="summary">
+Peter Nadas’s novel takes a sweeping look at 20th-century Europe.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/books/review/civilization-the-west-and-the-rest-by-niall-ferguson-book-review.html?ref=books">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/books/review/Kagan/Kagan-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/books/review/civilization-the-west-and-the-rest-by-niall-ferguson-book-review.html?ref=books">
+&lsquo;Civilization: The West and the Rest&rsquo;</a></h3>
+<h6 class="byline">
+By NIALL FERGUSON<br/>Reviewed by DONALD KAGAN	    </h6>
+<p class="summary">
+How did the West come to dominate the rest of the world, and is its 500-year reign ending?</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/books/review/ed-king-by-david-guterson-book-review.html?ref=books">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/books/review/27GOODWILLIE/27GOODWILLIE-thumbStandard-v2.jpg" width="75" height="75" alt="David Guterson" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/books/review/ed-king-by-david-guterson-book-review.html?ref=books">
+&lsquo;Ed King&rsquo;</a></h3>
+<h6 class="byline">
+By DAVID GUTERSON<br/>Reviewed by DAVID GOODWILLIE	    </h6>
+<p class="summary">
+David Guterson’s Oedipal tale takes America to task.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/books/review/the-tigress-of-forli-by-elizabeth-lev-book-review.html?ref=books">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/books/review/27BROWNING/27BROWNING-thumbStandard.jpg" width="75" height="75" alt="Caterina Riario Sforza de' Medici pregnant in the right foreground of Botticelli's fresco “The Purification of the Leper,” from 1481, in the Sistine Chapel." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/books/review/the-tigress-of-forli-by-elizabeth-lev-book-review.html?ref=books">
+&lsquo;The Tigress of ForlÌ: Renaissance Italy’s Most Courageousand Notorious Countess,Caterina Riario Sforza de’ Medici&rsquo;</a></h3>
+<h6 class="byline">
+By ELIZABETH LEV<br/>Reviewed by DOMINIQUE BROWNING	    </h6>
+<p class="summary">
+Elizabeth Lev tells us why Caterina Riario Sforza de’ Medici was both celebrated and feared.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/books/review/pacific-crucible-war-at-sea-in-the-pacific-1941-1942-by-ian-w-toll-book-review.html?ref=books">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/books/review/27BESCHELOSS/27BESCHELOSS-thumbStandard.jpg" width="75" height="75" alt="Illustration of the Battle of Midway during World War II, 1942." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/books/review/pacific-crucible-war-at-sea-in-the-pacific-1941-1942-by-ian-w-toll-book-review.html?ref=books">
+&lsquo;Pacific Crucible: War at Sea in the Pacific, 1941-1942&rsquo;</a></h3>
+<h6 class="byline">
+By IAN W. TOLL<br/>Reviewed by MICHAEL BESCHLOSS	    </h6>
+<p class="summary">
+The author of “Six Frigates” traces the war with Japan from Pearl Harbor to the Battle of Midway.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/books/review/something-urgent-i-have-to-say-to-you-the-life-and-works-of-william-carlos-williams-by-herbert-leibowitz-book-review.html?ref=books">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/books/review/27FRIED/27FRIED-thumbStandard.jpg" width="75" height="75" alt="William Carlos Williams" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/books/review/something-urgent-i-have-to-say-to-you-the-life-and-works-of-william-carlos-williams-by-herbert-leibowitz-book-review.html?ref=books">
+&lsquo;“Something Urgent I Have To Say To You: The Life and Works of William Carlos Williams"&rsquo;</a></h3>
+<h6 class="byline">
+By HERBERT LEIBOWITZ.ILLUSTRATED. 496 PP. FARRAR, STRAUS & GIROUX. $40<br/>Reviewed by DAISY FRIED	    </h6>
+<p class="summary">
+A biography of the doctor-poet William Carlos Williams.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/books/review/the-not-so-invisible-empire.html?ref=books">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/books/review/27BOYLE/27BOYLE-thumbStandard.jpg" width="75" height="75" alt="A Klan initiation ceremony, circa 1925." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/books/review/the-not-so-invisible-empire.html?ref=books">
+The Not-So-Invisible Empire</a></h3>
+<h6 class="byline">
+By KEVIN BOYLE	    </h6>
+<p class="summary">
+Two books examine the political power and religious roots of the Ku Klux Klan in the early decades of the last century.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/books/review/wired-for-sound.html?ref=books">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/books/review/bkr-Schwartz-t_CA0/bkr-Schwartz-t_CA0-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/books/review/wired-for-sound.html?ref=books">
+Wired for Sound</a></h3>
+<h6 class="byline">
+By JOHN SCHWARTZ	    </h6>
+<p class="summary">
+What do our preferred approaches to reading say about us?</p>
+<ul class="refer">
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001177245" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/11/27/books/review/wired-for-sound.html"></span></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">The Mechanic Muse</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/books/review/the-minds-ear.html?ref=books">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/books/review/bkr-Parker-t_CA0/bkr-Parker-t_CA0-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/books/review/the-minds-ear.html?ref=books">
+The Mind’s Ear</a></h3>
+<h6 class="byline">
+By JAMES PARKER	    </h6>
+<p class="summary">
+With audiobooks, the spoken-word performance becomes inseparable from the text.</p>
+<ul class="refer">
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001177231" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/11/27/books/review/the-minds-ear.html"></span></li>
+</ul>
+</div>
+</div>
+<div id="adxSponLink" class="columnGroup singleRule"></div>
+</div><!--close .aColumn -->
+<div class="bColumn">
+<div class="columnGroup SectionFront3Col first">
+<div class="bestSellersPromo">
+<div class="promoHeader">
+<a href="http://www.nytimes.com/best-sellers-books/overview.html"><img src="http://graphics8.nytimes.com/images/bestsellers/promo/bestsellers-promo.gif"/></a>
+</div>
+<div class="singleRule">
+<ul>
+<h2>PRINT & E-BOOKS</h2>
+<li><a href="http://www.nytimes.com/best-sellers-books/combined-print-and-e-book-fiction/list.html">Fiction</a></li>
+<li><a href="http://www.nytimes.com/best-sellers-books/combined-print-and-e-book-nonfiction/list.html">Nonfiction</a></li>
+</ul>
+</div>
+<div class="singleRule">
+<ul>
+<h2>HARDCOVER</h2>
+<li><a href="http://www.nytimes.com/best-sellers-books/hardcover-fiction/list.html">Fiction</a></li>
+<li><a href="http://www.nytimes.com/best-sellers-books/hardcover-nonfiction/list.html">Nonfiction</a></li>
+</ul>
+</div>
+<div class="singleRule">
+<ul>
+<h2>PAPERBACK</h2>
+<li><a href="http://www.nytimes.com/best-sellers-books/trade-fiction-paperback/list.html">Trade Fiction</a></li>
+<li><a href="http://www.nytimes.com/best-sellers-books/mass-market-paperback/list.html">Mass-Market Fiction</a></li>
+<li><a href="http://www.nytimes.com/best-sellers-books/paperback-nonfiction/list.html">Nonfiction</a></li>
+</ul>
+</div>
+<div class="singleRule allLists">
+<ul>
+<li class="bestSellersPromoAllLists"><a href="http://www.nytimes.com/best-sellers-books/overview.html">All the lists »</a></li>
+</ul>
+</div>
+
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<div class="columnGroup first">
+<h6 class="sectionHeader"> 2011 Holiday Gift Guide </h6>
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/gift-guide/holiday-2011/categories.html?ref=books">
+<img src="http://graphics8.nytimes.com/images/apps/gift-guide/guide/holiday-2011/promos/giftguide2011-190b.png" width="190" height="126" alt="" border="0" />
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/gift-guide/holiday-2011/categories.html?ref=books">
+</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Plan your holiday shopping with The New York Times 2011 Holiday Gift Guide.</p>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<div class="columnGroup first">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/indexes/2011/11/13/arts/artsspecial/index.html?ref=books">
+<img src="http://graphics8.nytimes.com/images/2011/11/13/books/review/Hamill1/Hamill1-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+</a>
+</div>
+<h6 class="kicker">Special Section</h6>
+<h5><a href="http://www.nytimes.com/indexes/2011/11/13/arts/artsspecial/index.html?ref=books">
+Children’s Books</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+New books about New York City traditions, boys with imaginary friends and other topics.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/indexes/2011/11/13/arts/artsspecial/index.html">Go to Special Section »</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="story">
+<h6 class="kicker">ArtsBeat | Q. and A.</h6>
+<div class="thumbnail">
+<a href="http://artsbeat.blogs.nytimes.com/2011/11/10/errol-morris-interviews-stephen-king/?ref=books">
+<img src="http://graphics8.nytimes.com/images/2011/11/11/arts/10artsbeat-stephenking/10artsbeat-stephenking-thumbStandard-v2.jpg" width="75" height="75" alt="Errol Morris." border="0" />
+</a>
+</div>
+<h3><a href="http://artsbeat.blogs.nytimes.com/2011/11/10/errol-morris-interviews-stephen-king/?ref=books">
+Errol Morris Interviews Stephen King</a></h3>
+<h6 class="byline">
+By THE NEW YORK TIMES	    </h6>
+<p class="summary">
+After reviewing Stephen King’s new novel, “11/22/63,” the filmmaker Errol Morris chased Mr. King down for a Q. and A.</p>
+<ul class="refer">
+<li><a href="http://artsbeat.blogs.nytimes.com/2011/11/10/errol-morris-interviews-stephen-king/#postComment"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="Comment" style="margin-right: 3px; padding-top: 3px;" border="0"> Post a Comment</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">Back Page</h6><div class="story">
+<h6 class="kicker">Essay</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/books/review/what-muncie-read.html?ref=books">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/books/review/27TRUBEK/27TRUBEK-thumbStandard.jpg" width="75" height="75" alt="image of an 1898 library ledger from the Center for Middletown Studies, Ball State University." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/books/review/what-muncie-read.html?ref=books">
+What Muncie Read</a></h3>
+<h6 class="byline">
+By ANNE TRUBEK	    </h6>
+<p class="summary">
+People make hoary generalizations about changing American reading habits but we actually know very little about the history of reading.</p>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">From Opinion</h6><div class="story">
+<h6 class="kicker">Room for Debate</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/roomfordebate/2011/10/24/will-amazon-kill-off-book-publishers?ref=books">
+<img src="http://graphics8.nytimes.com/images/2011/10/20/opinion/20rfd-image/20rfd-image-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/roomfordebate/2011/10/24/will-amazon-kill-off-book-publishers?ref=books">
+Will Amazon Kill Off Publishers?</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+What happens when more writers have the option of a one-stop shop: agent, publisher and bookseller.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/roomfordebate/2011/10/24/will-amazon-kill-off-book-publishers"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="Comment" width="9" height="11" border="0"> Post a Comment »</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/ref/books/books-podcast-archive.html?ref=books">
+<img src="http://graphics8.nytimes.com/images/2009/04/03/books/book-review-podcast-logo2009/book-review-podcast-logo2009-thumbStandard-v2.gif" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/ref/books/books-podcast-archive.html?ref=books">
+Book Review Podcast</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+This week, historian David Greenberg assesses Ann Beattie’s latest book, “Mrs. Nixon: A Life”; Julie Bosman has notes from the field; Alexander Star takes an anthropological view of Afghanistan; and Gregory Cowles has best-seller news.</p>
+<ul class="refer">
+<li><script src="http://graphics8.nytimes.com/packages/html/multimedia/js/swfobject.js"></script>
+<script src="http://graphics8.nytimes.com/packages/html/multimedia/js/NYTInlineEmbed.js" ></script>
+<script>
+mm.DI = true;
+mm.LI = true;
+mm.AH = "This Week's Book Review Podcast";
+mm.AD = "2739";
+mm.AU = "http://dts.podtrac.nytimes.com/redirect.mp3/podcasts.nytimes.com//podcasts/2011/11/18/books/18bookreview/18bookreview.mp3";
+mm.IU = "";
+writePlayer();
+</script></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://artsbeat.blogs.nytimes.com/category/books/" title="ArtsBeat">
+<img src="http://graphics8.nytimes.com/images/blogs/artsbeat/artsbeat163.gif" alt="ArtsBeat"/>
+</a> 
+</h3> <div class="story first">
+<h3><a href="http://artsbeat.blogs.nytimes.com/2011/12/01/kelli-ohara-to-star-in-bridges-of-madison-county-musical-workshop/?ref=books">Kelli O'Hara to Star in 'Bridges of Madison County' Musical Workshop</a></h3>
+<p class="date">December 1, 2011 <span class="timestamp">2:57 PM ET</span></p>
+</div><div class="story">
+<h3><a href="http://artsbeat.blogs.nytimes.com/2011/12/01/look-up-in-the-sky-its-an-astronomical-price-for-a-comic-book/?ref=books">Look! Up in the Sky! It's an Astronomical Price for a Comic Book!</a></h3>
+<p class="date">December 1, 2011 <span class="timestamp"></span></p>
+</div><div class="story">
+<h3><a href="http://artsbeat.blogs.nytimes.com/2011/11/30/soviets-invade-finland-in-real-time/?ref=books">Soviets Invade Finland, in Real Time</a></h3>
+<p class="date">November 30, 2011 <span class="timestamp"></span></p>
+</div><p class="refer">
+<a href="http://artsbeat.blogs.nytimes.com/category/books/" title="More Book News in ArtsBeat">More Book News in ArtsBeat &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">The Times's Critics</h6><p class="summary">
+Recent reviews by:</p><ul>      
+<li><a href="http://topics.nytimes.com/top/reference/timestopics/people/k/michiko_kakutani/index.html">Michiko Kakutani</a></li>
+<li><a href="http://topics.nytimes.com/top/reference/timestopics/people/m/janet_maslin/index.html">Janet Maslin</a></li>
+<li><a href="http://topics.nytimes.com/top/reference/timestopics/people/g/dwight_garner/index.html">Dwight Garner</a></li>
+</ul>    
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">Book Review Features</h6><div style="display:none;"><div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/27/books/review/up-front.html?ref=books">
+<img src="http://graphics8.nytimes.com/images/2011/11/27/books/review/upfront/upfront-thumbStandard.jpg" width="75" height="75" alt="Robert Christgau" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/27/books/review/up-front.html?ref=books">
+Up Front: Robert Christgau</a></h3>
+<h6 class="byline">
+By THE EDITORS	    </h6>
+<p class="summary">
+The eminent rock critic Robert Christgau lets on that he favors Jonathan Lethem’s nonfiction over most of his fiction.</p>
+</div>
+</div><div class="story">
+<h6 class="kicker">TBR</h6>
+<h3><a href="http://www.nytimes.com/2011/12/04/books/review/inside-the-list.html?ref=books">
+Inside the List</a></h3>
+<h6 class="byline">
+By GREGORY COWLES	    </h6>
+<p class="summary">
+“Kill Alex Cross,” the latest entry in James Patterson’s signature detective series, storms the hardcover fiction list at No. 1.</p>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/11/20/books/review/editors-choice.html?ref=books">
+Editors’ Choice</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Reviews of recent books of particular interest.</p>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/11/27/books/review/paperback-row.html?ref=books">
+Paperback Row</a></h3>
+<h6 class="byline">
+By IHSAN TAYLOR	    </h6>
+<p class="summary">
+Paperback books of particular interest.</p>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://www.nytimes.com/2010/12/12/books/review/10-best-books-of-2010.html?ref=books">
+The 10 Best Books of 2010</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2010/12/05/books/review/100-notable-books-2010.html?ref=books">
+100 Notable Books of 2010</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2010/11/26/books/26kakutani10.html?ref=books">
+Michiko Kakutani’s Top 10 Books of 2010</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2010/11/26/books/26maslin10.html?ref=books">
+Janet Maslin’s Top 10 Books of 2010</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2010/11/26/books/26garner10.html?ref=books">
+Dwight Garner’s Top 10 Books of 2010</a>
+</h6>
+</li>
+</ul>
+</div>
+<div class="columnGroup doubleRule ">
+<h3 class="sectionHeader">Browsing Books</h3>
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://topics.nytimes.com/top/reference/timestopics/subjects/c/childrens_books/index.html?ref=books">
+Children’s Books</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://topics.nytimes.com/top/features/books/columns/crime/index.html?ref=books">
+Crime Books</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://query.nytimes.com/search/query?frow=0&n=10&srcht=s&query=Books+of+Style&amp;ref=books">
+Books of Style</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://query.nytimes.com/search/query?frow=0&n=10&srcht=s&query=Armchair+Traveler&amp;ref=books">
+Armchair Traveler: Travel Books</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2006/12/11/business/media/11asktheeditors.html?ref=books">
+Talk to the Newsroom: Book Review Editor Sam Tanenhaus</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/ref/books/review/br-back-issues.html?ref=books">
+The New York Times Book Review: Back Issues</a>
+</h6>
+</li>
+</ul>
+</div>
+<div class="columnGroup doubleRule ">
+<h3 class="sectionHeader">Help</h3>
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://www.nytimes.com/membercenter/faq/books.html?ref=books">
+Books F.A.Q.</a>
+</h6>
+</li>
+</ul>
+</div>
+<div class="columnGroup doubleRule last">
+
+
+<div class="singleAd" id="Box2">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/books/index.html&pos=Box2&sn2=4b9aa10d/7bc8257e&sn1=38d43609/ab3147cd&camp=nyt2011-circ-120x90-weekender-36H38&ad=071511-120x90-weekender-36H38&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DWC7AA%26CMP%3D36H38" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/13/ad.271312/11-0920_HDWeekender2_120x90.jpg" width="120" height="90" border="0"></a>
+
+</div>
+
+</div>
+</div><!--close .bColumn -->
+</div><!--close .abColumn -->
+<div class="cColumn">
+<!--Ads  -->                    <div class="columnGroup first">
+
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<div id="searchFormWrap2" style="height:7em;" class="clearfix">
+<p class="srchHdr">SEARCH BOOK REVIEWS SINCE 1981:</p>
+<form id="searchForm2" method="get" name="booksearch" action="http://topics.nytimes.com/top/features/books/bookreviews/"  enctype="application/x-www-form-urlencoded" style="float:left; margin-right:6px;">
+<input type="hidden" name="s" value="newest" />
+<input class="searchQuery" type="text" size="11" maxlength="50" name="query"/>
+<select name="match" style="width:129px;">
+<option value="all" selected="">Match All Words</option>
+<option value="any">Match Any Words</option>
+<option value="exact">Match Exact Phrase</option>
+</select>                
+<input value="Search" border="0" name="submit" alt="Go" title="Go" type="image" id="searchGoImg2" align="absmiddle" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"/>
+</form>
+<div id="Position1">
+
+</div>
+</div>  
+<div class="doubleRule"></div>
+<div class="searchFormWrap2">
+<div class="FindNewsByState">
+<p class="srchHdr">Times Topics: Featured Authors</p>
+<form name="otherTopics">
+<select name="top" onchange="goToURL2(this);">
+<option value="">Find an Author</option>
+<option value=""> —  —  —  —  —  —  —  —  —  —  — </option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/d/dante_alighieri/index.html">Dante Alighieri</option>        
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/a/martin_amis/index.html">Martin Amis</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/a/margaret_atwood/index.html">Margaret Atwood</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/a/wystan_hugh_auden/index.html">W.H. Auden</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/a/jane_austen/index.html">Jane Austen</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/a/paul_auster/index.html">Paul Auster</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/b/nicholson_baker/index.html">Nicholson Baker</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/b/russell_banks/index.html">Russell Banks</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/b/pat_barker/index.html">Pat Barker</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/b/julian_barnes/index.html">Julian Barnes</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/b/andrea_barrett/index.html">Andrea Barrett</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/b/john_barth/index.html">John Barth</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/b/donald_barthelme/index.html">Donald Barthelme</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/b/ann_beattie/index.html">Ann Beattie</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/b/saul_bellow/index.html">Saul Bellow</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/b/john_berryman/index.html">John Berryman</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/b/jorge_luis_borges/index.html">Jorge Luis Borges</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/b/t_coraghessan_boyle/index.html">T.C. Boyle</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/b/ray_bradbury/index.html">Ray Bradbury</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/b/harold_brodkey/index.html">Harold Brodkey</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/b/emily_bronte/index.html">Emily Bronte</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/b/a_s_byatt/index.html">A.S. Byatt</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/c/james_m_cain/index.html">James M. Cain</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/c/italo_calvino/index.html">Italo Calvino</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/c/albert_camus/index.html">Albert Camus</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/c/truman_capote/index.html">Truman Capote</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/c/philip_caputo/index.html">Philip Caputo</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/c/peter_carey/index.html">Peter Carey</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/c/robert_a_caro/index.html">Robert Caro</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/l/john_le_carre/index.html">John le Carre</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/c/raymond_carver/index.html">Raymond Carver</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/c/michael_chabon/index.html">Michael Chabon</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/c/raymond_chandler/index.html">Raymond Chandler</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/c/bruce_chatwin/index.html">Bruce Chatwin</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/c/john_cheever/index.html">John Cheever</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/c/anton_chekhov/index.html">Anton Chekhov</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/c/j_m_coetzee/index.html">J.M. Coetzee</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/c/joseph_conrad/index.html">Joseph Conrad</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/c/robert_coover/index.html">Robert Coover</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/c/michael_crichton/index.html
+">Michael Crichton</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/c/michael_cunningham/index.html">Michael Cunningham</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/d/dante_alighieri/index.html">Dante</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/d/edwidge_danticat/index.html">Edwidge Danticat</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/d/don_delillo/index.html">Don DeLillo</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/d/junot_diaz/index.html">Junot Diaz</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/d/philip_k_dick/index.html">Philip K. Dick</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/d/charles_dickens/index.html">Charles Dickens</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/d/james_dickey/index.html">James Dickey</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/d/emily_dickinson/index.html">Emily Dickinson</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/d/joan_didion/index.html">Joan Didion</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/d/isak_dinesen/index.html">Isak Dinesen</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/d/fyodor_dostoyevsky/index.html">Fyodor Dostoyevsky</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/d/e_l_doctorow/index.html">E.L. Doctorow</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/d/lawrence_durrell/index.html">Lawrence Durrell</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/e/dave_eggers/index.html">Dave Eggers</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/e/deborah_eisenberg/index.html">Deborah Eisenberg</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/e/t_s_eliot/index.html">T. S. Eliot</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/e/stanley_elkin/index.html">Stanley Elkin</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/e/bret_easton_ellis/index.html">Bret Easton Ellis</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/e/joseph_j_ellis/index.html">Jospeh J. Ellis</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/e/ralph_ellison/index.html">Ralph Ellison</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/e/james_ellroy/index.html">James Ellroy</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/e/ralph_waldo_emerson/index.html">Ralph Waldo Emerson</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/e/leslie_epstein/index.html">Leslie Epstein</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/e/louise_erdrich/index.html">Louise Erdrich</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/e/jeffrey_eugenides/index.html?">Jeffrey Eugenides</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/f/william_faulkner/index.html">William Faulkner</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/f/lawrence_ferlinghetti/index.html">Lawrence Ferlinghetti</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/f/f_scott_fitzgerald/index.html?8qa">F. Scott Fitzgerald</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/f/richard_flanagan/index.html">Richard Flanagan</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/f/gustave_flaubert/index.html">Gustave Flaubert</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/f/jonathan_safran_foer/index.html">Jonathan Safran Foer</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/f/richard_ford/index.html">Richard Ford</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/f/em_forster/index.html">E.M. Forster</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/f/john_fowles/index.html">John Fowles</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/f/jonathan_franzen/index.html">Jonathan Franzen</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/f/charles_frazier/index.html">Charles Frazier</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/f/james_frey/index.html">James Frey</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/f/robert_frost/index.html">Robert Frost</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/f/stephen_fry/index.html">Stephen Fry</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/g/william_gaddis/index.html">William Gaddis</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/g/alex_garland/index.html">Alex Garland</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/g/allen_ginsberg/index.html">Allen Ginsberg</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/g/nikolai_gogol/index.html">Nikolai Gogol</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/g/doris_kearns_goodwin/index.html">Doris Kearns Goodwin</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/g/nadine_gordimer/index.html">Nadine Gordimer</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/g/gunter_grass/index.html">Gunter Grass</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/g/henry_green/index.html">Henry Green</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/g/graham_greene/index.html">Graham Greene</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/g/allan_gurganus/index.html">Allan Gurganus</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/h/dashiell_hammett/index.html">Dashiell Hammett</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/h/elizabeth_hardwick/index.html">Elizabeth Hardwick</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/h/kathryn_harrison/index.html">Kathryn Harrison</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/h/nathaniel_hawthorne/index.html">Nathaniel Hawthorne</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/h/seamus_heaney/index.html">Seamus Heaney</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/h/michael_herr/index.html">Michael Herr</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/h/ernest_hemingway/index.html?8qa">Ernest Hemingway</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/h/homer/index.html">Homer</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/h/nick_hornby/index.html">Nick Hornby</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/h/khaled_hosseini/index.html">Khaled Hosseini</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/h/langston_hughes/index.html">Langston Hughes</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/h/zora_neale_hurston/index.html">Zora Neale Hurston</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/i/john_irving/index.html">John Irving</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/i/kazuo_ishiguro/index.html">Kazuo Ishiguro</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/j/henry_james/index.html">Henry James</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/j/gish_jen/index.html">Gish Jen</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/j/denis_johnson/index.html">Denis Johnson</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/j/james_joyce/index.html">James Joyce</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/k/franz_kafka/index.html">Franz Kafka</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/k/mary_karr/index.html">Mary Karr</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/k/jack_kerouac/index.html">Jack Kerouac</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/k/ken_kesey/index.html">Ken Kesey</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/k/stephen_king/index.html">Stephen King</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/k/milan_kundera/index.html">Milan Kundera</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/l/jhumpa_lahiri/index.html">Jhumpa Lahiri</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/l/philip_larkin/index.html">Philip Larkin</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/l/david_leavitt/index.html">David Leavitt</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/l/changrae_lee/index.html">Chang-Rae Lee</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/l/harper_lee/index.html">Harper Lee</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/l/doris_lessing/index.html">Doris Lessing</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/l/jonathan_lethem/index.html">Jonathan Lethem</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/l/primo_levi/index.html">Primo Levi</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/l/david_lodge/index.html">David Lodge</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/l/robert_lowell/index.html">Robert Lowell</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/l/malcolm_lowry/index.html">Malcolm Lowry</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/l/alison_lurie/index.html">Alison Lurie</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/m/norman_mailer/index.html?8qa">Norman Mailer</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/m/bernard_malamud/index.html">Bernard Malamud</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/m/thomas_mann/index.html">Thomas Mann</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/g/gabriel_garcia_marquez/index.html">Gabriel Garcia Marquez</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/m/bobbie_ann_mason/index.html">Bobbie Ann Mason</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/m/william_maxwell/index.html">William Maxwell</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/m/cormac_mccarthy/index.html">Cormac McCarthy</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/m/mary_mccarthy/index.html">Mary McCarthy</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/m/carson_mccullers/index.html">Carson McCullers</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/m/david_mccullough/index.html">David McCullough</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/m/alice_mcdermott/index.html">Alice McDermott</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/m/ian_mcewan/index.html">Ian McEwan</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/m/jay_mcinerney/index.html">Jay McInerney</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/m/carson_mccullers/index.html">Carson McCullers</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/m/david_mccullough/index.html">David McCullough</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/m/ian_mcewan/index.html?8qa">Ian McEwan</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/m/larry_mcmurtry/index.html">Larry McMurtry</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/m/herman_melville/index.html">Herman Melville</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/m/claire_messud/index.html">Claire Messud</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/m/henry_miller/index.html">Henry Miller</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/m/sue_miller/index.html">Sue Miller</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/m/steven_millhauser/index.html">Steven Millhauser</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/m/john_milton/index.html">John Milton</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/m/david_mitchell/index.html">David Mitchell</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/m/lorrie_moore/index.html">Lorrie Moore</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/m/susanna_moore/index.html">Susanna Moore</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/m/toni_morrison/index.html?8qa">Toni Morrison</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/m/alice_munro/index.html">Alice Munro</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/m/haruki_murakami/index.html">Haruki Murakami</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/m/iris_murdoch/index.html">Iris Murdoch</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/n/vladimir_nabokov/index.html?8qa">Vladimir Nabokov</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/n/v_s_naipaul/index.html?8qa">V.S. Naipaul</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/o/joyce_carol_oates/index.html">Joyce Carol Oates</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/o/tim_obrien/index.html">Tim O’Brien</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/o/flannery_oconnor/index.html">Flannery O’Connor</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/o/george_orwell/index.html">George Orwell</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/o/cynthia_ozick/index.html">Cynthia Ozick</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/p/dale_peck/index.html">Dale Peck</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/p/walker_percy/index.html">Walker Percy</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/p/tom_perrotta/index.html">Tom Perotta</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/p/sylvia_plath/index.html">Sylvia Plath</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/p/edgar_allan_poe/index.html">Edgar Allan Poe</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/p/anthony_powell/index.html">Anthony Powell</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/p/richard_price/index.html">Richard Price</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/p/v_s_pritchett/index.html">V.S. Pritchett</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/p/marcel_proust/index.html">Marcel Proust</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/p/thomas_pynchon/index.html">Thomas Pynchon</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/r/rainer_maria_rilke/index.html">Rainer Maria Rilke</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/r/philip_roth/index.html?8qa">Philip Roth</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/r/norman_rush/index.html">Norman Rush</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/r/salman_rushdie/index.html?8qa">Salman Rushdie</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/s/j_d_salinger/index.html?8qa">J.D. Salinger</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/s/jeanpaul_sartre/index.html">Jean-Paul Sartre</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/s/paul_scott/index.html">Paul Scott</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/s/w_g_sebald/index.html">W.G. Sebald</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/s/alice_sebold/index.html">Alice Sebold</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/s/david_sedaris/index.html">David Sedaris</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/s/anne_sexton/index.html">Anne Sexton</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/s/william_shakespeare/index.html?8qa">William Shakespeare</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/s/gary_shteyngart/index.html">Gary Shteyngart</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/s/jane_smiley/index.html">Jane Smiley</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/s/aleksandr_solzhenitsyn/index.html">Aleksandr Solzhenitsyn</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/s/zadie_smith/index.html">Zadie Smith</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/s/susan_sontag/index.html">Susan Sontag</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/s/muriel_spark/index.html">Muriel Spark</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/s/dana_spiotta/index.html">Dana Spiotta</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/s/wallace_stevens/index.html">Wallace Stevens</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/s/robert_stone/index.html">Robert Stone</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/s/william_styron/index.html">William Styron</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/s/italo_svevo/index.html">Italo Svevo</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/t/paul_theroux/index.html">Paul Theroux</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/t/hunter_s_thompson/index.html">Hunter S. Thompson</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/t/henry_david_thoreau/index.html">Henry David Thoreau</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/t/colm_toibin/index.html">Colm Toibin</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/t/j_r_r_tolkien/index.html">J.R.R. Tolkien</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/t/leo_tolstoy/index.html">Leo Tolstoy</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/t/william_trevor/index.html">William Trevor</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/t/anthony_trollope/index.html">Anthony Trollope</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/t/ivan_turgenev/index.html">Ivan Turgenev</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/t/mark_twain/index.html">Mark Twain</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/t/anne_tyler/index.html">Anne Tyler</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/u/john_updike/index.html">John Updike</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/v/mario_vargas_llosa/index.html">Mario Vargas Llosa</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/v/gore_vidal/index.html">Gore Vidal</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/w/david_foster_wallace/index.html">David Foster Wallace</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/w/robert_penn_warren/index.html">Robert Penn Warren</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/w/evelyn_waugh/index.html">Evelyn Waugh</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/w/eudora_welty/index.html">Eudora Welty</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/w/nathanael_west/index.html">Nathanael West</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/w/edith_wharton/index.html">Edith Wharton</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/w/oscar_wilde/index.html">Oscar Wilde</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/w/tennessee_williams/index.html">Tennessee Williams</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/w/edmund_wilson/index.html">Edmund Wilson</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/w/tom_wolfe/index.html">Tom Wolfe</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/w/geoffrey_wolff/index.html">Geoffrey Wolff</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/w/tobias_wolff/index.html">Tobias Wolff</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/w/bob_woodward/index.html">Bob Woodward</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/w/virginia_woolf/index.html">Virginia Woolf</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/w/richard_wright/index.html">Richard Wright</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/y/richard_yates/index.html">Richard Yates</option>
+<option value="http://topics.nytimes.com/top/reference/timestopics/people/y/william_butler_yeats/index.html">William Butler Yeats</option>
+</select>
+<!--input align="top" class="SearchMoviesGo" id="searchGoImg2" value="Search" border="0" name="submit" alt="Submit" type="image" src="http://graphics8.nytimes.com/images/global/global_search/go_button22x19.gif" -->
+</form>
+</div>
+</div>        	</div>
+<!--Ads Simple -->                    <div class="columnGroup ">
+
+			
+<div class="bigAd" id="SFMiddle">
+<!-- ADXINFO classification="superheader" campaign="MorganLibrary_1781293_nyt10"--><script type="text/javascript">
+   var movieWidth = 336;
+   var movieHeight = 280;
+   var altSrc = "http://graphics8.nytimes.com/adx/images/ADS/28/57/ad.285749/MOR-0012-DickensHoliday_336x280_NYTimes_v4.jpg";
+   var swfFile = "http://graphics8.nytimes.com/adx/images/ADS/28/57/ad.285749/MOR-0012-DickensHoliday_336x280_NYTimes_v4.swf";
+   var altClickThru = "http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/books/index.html&pos=SFMiddle&sn2=caa12c77/df20997c&sn1=34559f4e/e264e2e7&camp=MorganLibrary_1781293_nyt10&ad=dickens_336x280_BooksSF_dec1&goto=http%3A%2F%2Fwww%2Ethemorgan%2Eorg%2Fexhibitions%2Fexhibition%2Easp%3Fid%3D48";
+   var swfSrc = swfFile + "?clicktag=" + escape(altClickThru);
+</script>
+<script type="text/javascript" src="http://www.nytimes.com/ads/common/embed3.js">
+</script>
+
+</div>
+
+
+
+<div class="singleAd" id="Box3">
+<!-- ADXINFO classification="feature_squares" campaign="nyt2011-regilite-P1-ticketwatch"--><IFRAME title="regilite" src="https://myaccount.nytimes.com/regilite?product=TR" width="336" height="90" marginheight="0" marginwidth="0" frameborder="0" vspace="0" hspace="0" scrolling="no"></IFRAME> 
+
+</div>
+
+
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<div id="mostPopWidget" class="singleRule"> 
+
+      <!-- MOST POPULAR MODULE STARTS -->
+      <h4>MOST POPULAR - BOOKS</h4>
+         <div id="tabsContainer">
+         <ul class="tabs">
+            <li class="selected"><a href="#">E-Mailed</a></li>
+            <li><a href="#">Blogged</a></li>
+            
+            <li><a href="#">Viewed</a></li>
+            
+         </ul>
+         </div>
+            <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"></HEAD><div class="tabContent tabContentActive" id="mostEmailed"><ol>
+<li img="http://graphics8.nytimes.com/images/2011/11/29/books/best2011cap/best2011cap-thumbStandard.jpg"  kicker="Holiday Gift Guide"><a href="http://www.nytimes.com/2011/12/11/books/10-best-books-of-2011.html?src=me&amp;ref=books" title="Click to go to this article">Holiday Gift Guide: The 10 Best Books of 2011</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/27/books/review/HOLT-sub/HOLT-sub-thumbStandard-v2.jpg"  kicker=""><a href="http://www.nytimes.com/2011/11/27/books/review/thinking-fast-and-slow-by-daniel-kahneman-book-review.html?src=me&amp;ref=books" title="Click to go to this article">Two Brains Running</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/21/books/100notable_cap/100notable_cap-thumbStandard.jpg"  kicker="Holiday Gift Guide"><a href="http://www.nytimes.com/2011/11/22/books/review/100-notable-books-of-2011.html?src=me&amp;ref=books" title="Click to go to this article">Holiday Gift Guide: 100 Notable Books of 2011</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/arts/SUBBOOK/SUBBOOK-thumbStandard.jpg"  kicker="Books of The Times"><a href="http://www.nytimes.com/2011/12/02/books/grand-pursuit-by-sylvia-nasar-review.html?src=me&amp;ref=books" title="Click to go to this article">Books of The Times: The Economist&rsquo;s Progress: Better Living Through Fiscal Chemistry</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/25/arts/25book-kakutani/25book-kakutani-thumbStandard.jpg"  kicker="Holiday Gift Guide"><a href="http://www.nytimes.com/2011/11/25/books/michiko-kakutanis-recommendations-for-2011.html?src=me&amp;ref=books" title="Click to go to this article">Holiday Gift Guide: Michiko Kakutani&rsquo;s Picks for 2011</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/27/books/review/27BROWNING/27BROWNING-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/11/27/books/review/the-tigress-of-forli-by-elizabeth-lev-book-review.html?src=me&amp;ref=books" title="Click to go to this article">Real Housewife of the Renaissance</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/11/books/review/Buckley/Buckley-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/11/27/books/review/and-so-it-goes-kurt-vonnegut-a-life-by-charles-j-shields-book-review.html?src=me&amp;ref=books" title="Click to go to this article">How It Went</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/05/08/books/review/bkr-Rosenblatt-t_CA0/bkr-Rosenblatt-t_CA0-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/05/08/books/review/book-review-the-boy-in-the-moon-by-ian-brown.html?src=me&amp;ref=books" title="Click to go to this article">What Disabled Children Teach Us</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/09/11/books/review/11KELLER/11KELLER-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/09/11/books/review/arguably-essays-by-christopher-hitchens-book-review.html?src=me&amp;ref=books" title="Click to go to this article">Christopher Hitchens, a Man of His Words</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/arts/book/book-thumbStandard.jpg"  kicker="Books of The Times"><a href="http://www.nytimes.com/2011/12/01/books/unreal-estate-by-michael-gross-review.html?src=me&amp;ref=books" title="Click to go to this article">Books of The Times: Behind the Gilded Gates of the ____ and ______</a></li>
+</ol>
+        <a class="more" href="http://www.nytimes.com/gst/mostemailed.html">Go to Complete List &#x00bb;</a>
+        </div><!-- #most emailed top10 -->
+
+            <div class="tabContent" id="mostBlogged">
+<ol>
+<li><a href="http://www.nytimes.com/2011/12/01/fashion/new-yorks-literary-cubs.html?bl" title="Click to go to this article">New York's Literary Cubs</a></li>
+<li><a href="http://www.nytimes.com/2011/12/11/books/10-best-books-of-2011.html?bl" title="Click to go to this article">10 Best Books of 2011</a></li>
+<li><a href="http://www.nytimes.com/2011/11/27/books/review/thinking-fast-and-slow-by-daniel-kahneman-book-review.html?bl" title="Click to go to this article">Thinking, Fast and Slow mdash; By Daniel Kahneman mdash; Book Review</a></li>
+<li><a href="http://www.nytimes.com/2011/11/27/books/review/the-not-so-invisible-empire.html?bl" title="Click to go to this article">The Not-So-Invisible Empire</a></li>
+<li><a href="http://www.nytimes.com/2011/11/27/books/review/and-so-it-goes-kurt-vonnegut-a-life-by-charles-j-shields-book-review.html?bl" title="Click to go to this article">And So It Goes - Kurt Vonnegut: A Life - By Charles J. Shields - Book Review</a></li>
+<li><a href="http://www.nytimes.com/2011/11/27/books/review/wired-for-sound.html?bl" title="Click to go to this article">Wired for Sound</a></li>
+<li><a href="http://www.nytimes.com/2006/04/30/books/review/30kirn.html?bl" title="Click to go to this article">Russian Unorthodox</a></li>
+<li><a href="http://www.nytimes.com/2011/11/27/books/review/civilization-the-west-and-the-rest-by-niall-ferguson-book-review.html?bl" title="Click to go to this article">Civilization - The West and the Rest - By Niall Ferguson - Book Review</a></li>
+</ol>
+<a class="more" href="http://www.nytimes.com/gst/mostblogged.html">Go to Complete List &#x00bb;</a>
+</div><!-- #most blogged top10 -->
+
+            
+            <div class="tabContent" id="mostViewed"><ol>
+<li img="http://graphics8.nytimes.com/images/2011/11/29/books/best2011cap/best2011cap-thumbStandard.jpg"  kicker="Holiday Gift Guide"><a href="http://www.nytimes.com/2011/12/11/books/10-best-books-of-2011.html?src=mv&amp;ref=books" title="Click to go to this article">Holiday Gift Guide: The 10 Best Books of 2011</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/21/books/100notable_cap/100notable_cap-thumbStandard.jpg"  kicker="Holiday Gift Guide"><a href="http://www.nytimes.com/2011/11/22/books/review/100-notable-books-of-2011.html?src=mv&amp;ref=books" title="Click to go to this article">Holiday Gift Guide: 100 Notable Books of 2011</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/arts/SUBBOOK/SUBBOOK-thumbStandard.jpg"  kicker="Books of The Times"><a href="http://www.nytimes.com/2011/12/02/books/grand-pursuit-by-sylvia-nasar-review.html?src=mv&amp;ref=books" title="Click to go to this article">Books of The Times: The Economist&rsquo;s Progress: Better Living Through Fiscal Chemistry</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/27/books/review/HOLT-sub/HOLT-sub-thumbStandard-v2.jpg"  kicker=""><a href="http://www.nytimes.com/2011/11/27/books/review/thinking-fast-and-slow-by-daniel-kahneman-book-review.html?src=mv&amp;ref=books" title="Click to go to this article">Two Brains Running</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/25/arts/25book-kakutani/25book-kakutani-thumbStandard.jpg"  kicker="Holiday Gift Guide"><a href="http://www.nytimes.com/2011/11/25/books/michiko-kakutanis-recommendations-for-2011.html?src=mv&amp;ref=books" title="Click to go to this article">Holiday Gift Guide: Michiko Kakutani&rsquo;s Picks for 2011</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/25/arts/25book-maslin/25book-maslin-thumbStandard.jpg"  kicker="Holiday Gift Guide"><a href="http://www.nytimes.com/2011/11/25/books/janet-maslins-recommendations.html?src=mv&amp;ref=books" title="Click to go to this article">Holiday Gift Guide: Janet Maslin&rsquo;s Picks for 2011</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/arts/book/book-thumbStandard.jpg"  kicker="Books of The Times"><a href="http://www.nytimes.com/2011/12/01/books/unreal-estate-by-michael-gross-review.html?src=mv&amp;ref=books" title="Click to go to this article">Books of The Times: Behind the Gilded Gates of the ____ and ______</a></li>
+<li img="http://graphics8.nytimes.com/images/2010/12/10/books/review/10-best-web-2/10-best-web-2-thumbStandard-v2.jpg"  kicker="Holiday Gift Guide"><a href="http://www.nytimes.com/2010/12/12/books/review/10-best-books-of-2010.html?src=mv&amp;ref=books" title="Click to go to this article">Holiday Gift Guide: The 10 Best Books of 2010</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/25/arts/25book-garner/25book-garner-thumbStandard.jpg"  kicker="Holiday Gift Guide"><a href="http://www.nytimes.com/2011/11/25/books/dwight-garners-top-10-nonfiction-books-of-2011.html?src=mv&amp;ref=books" title="Click to go to this article">Holiday Gift Guide: Dwight Garner&rsquo;s Picks for 2011</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/09/11/books/review/11KELLER/11KELLER-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/09/11/books/review/arguably-essays-by-christopher-hitchens-book-review.html?src=mv&amp;ref=books" title="Click to go to this article">Christopher Hitchens, a Man of His Words</a></li>
+</ol>
+        </div><!-- #most viewed top10 -->
+
+            
+         <script type="text/javascript">new Accordian("mostPopWidget");</script>
+      <!-- MOST POPULAR MODULE ENDS -->
+   
+
+</div><!--close mostPopWidget -->
+</div>
+<!--Ads Simple -->                    <div class="columnGroup ">
+			
+
+<div class="bigAd" id="Box1">
+<!-- ADXINFO classification="Module" campaign="nyt2011_module_biz_piers_morgan_hp_ros_db"--><!-- MARKETING MODULE -->
+<div style="border:solid #999;border-width:1px;font-family:Arial,sans-serif;text-align:left; width:334px;background:#fff;" class="clearfix wrap">
+  <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/books/index.html&pos=Box1&sn2=a0db4bcb/7bc8258e&sn1=3cd7b396/8bf4d3f&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://mediadecoder.blogs.nytimes.com/2011/11/30/piers-morgan-struggles-to-beat-kings-ratings/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-PH%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm11/business_120211.jpg" width="334" height="154" border="0" alt=""></a> 
+  <div style="padding:7px 9px 0;background:#fff">
+      <h2 style="font-size:22px;line-height:24px; margin:0;padding:0 0 4px;"><a style="color:#004276;" target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/books/index.html&pos=Box1&sn2=a0db4bcb/7bc8258e&sn1=3cd7b396/8bf4d3f&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://mediadecoder.blogs.nytimes.com/2011/11/30/piers-morgan-struggles-to-beat-kings-ratings/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-HDR%26WT.mc_ev=click%26WT.mc_c=174041">Piers Morgan's struggle</a></h2>
+
+      <p style="margin:0 0 3px; padding:0;font-size: 11px;"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/books/index.html&pos=Box1&sn2=a0db4bcb/7bc8258e&sn1=dcca9a23/ff2c3589&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://nytimes.com/business/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-URL%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank" style="font-size:11px;margin:3px 0;padding:0;font-family:Arial,sans-serif;  color:#000; text-transform:uppercase;">Also in Business &raquo;</a></p>
+      <ul style="font-size:12px;margin:0; padding-bottom: 10px; border-bottom:1px solid #ccc;" class="refer">
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/books/index.html&pos=Box1&sn2=a0db4bcb/7bc8258e&sn1=7ddbcc18/6dfb3f78&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://dealbook.nytimes.com/2011/11/30/american-wont-be-the-last-airline-bankruptcy/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-L1%26WT.mc_ev=click%26WT.mc_c=174041" style="color: #004276">American won't be the last airline bankruptcy</a></li>
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/books/index.html&pos=Box1&sn2=a0db4bcb/7bc8258e&sn1=aada211/3630bfe3&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://www.nytimes.com/2011/11/30/business/media/pepto-bismol-highlights-overindulging-in-latest-campaign.html%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-L2%26WT.mc_ev=click%26WT.mc_c=174041" style="color: #004276">A look at Pepto-Bismol's new holiday commercials</a></li>
+      </ul>
+    </div>
+ 
+ <div style="padding:5px 9px; float:left; width:316px; background:#fff"> <a style="float:left" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/books/index.html&pos=Box1&sn2=a0db4bcb/7bc8258e&sn1=dcca9a23/ff2c3589&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://nytimes.com/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-LOGO%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/nytimes.gif" alt="nytimes.com" width="116" height="18" border="0"></a><a style="float:right" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/books/index.html&pos=Box1&sn2=a0db4bcb/7bc8258e&sn1=dcca9a23/ff2c3589&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://nytimes.com/business/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-VRT%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/verticals_business.gif" alt="Business" width="120" height="18" border="0"></a></div><br clear="all">
+
+</div>
+  <!-- /MARKETING MODULE -->
+
+</div>
+
+
+<div class="singleAd" id="Middle5">
+<!-- ADXINFO classification="FeaturedProduct" campaign="NYT2011-Mktg-TimesLimited-336x79-ROS"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/books/index.html&pos=Middle5&sn2=2a43d958/c615f50b&sn1=8a6313d5/cc494640&camp=NYT2011-Mktg-TimesLimited-336x79-ROS&ad=TL-D-I-NYT-AD-FP-TLP-ROS-0211-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fmarketing%2Ftimeslimited%2F%3FWT%2Emc%5Fid%3DTL%2DD%2DI%2DNYT%2DAD%2DFP%2DTLP%2DROS%2D0211%2DNA%26WT%2Emc%5Fev%3Dclick" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/25/86/ad.258626/Times_Limited_336x79_v2.gif" width="336" height="79" border="0"></a>
+
+</div>
+
+
+
+<!--[TwoColumnAdLeft - Begin] -->
+	<div class="adHeader">
+<h4>
+Advertisements	    </h4>
+</div>
+<div class="cColumn-TextAdsBox">
+	<div class="cColumn-TextAdsLeft">
+<div class="cColumn-TextAd">
+<!-- ADXINFO classification="SiteForADay" campaign="nyt2011-mktg-arts_and_ents-s4d_ros"--><div style="width:320px; height:60px;"> 
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/books/index.html&pos=Right5A&sn2=8c1904df/9c6bd3bd&sn1=6a1102ca/9e7f5eda&camp=nyt2011-mktg-arts_and_ents-s4d_ros&ad=AR-D-I-NYT-AD-S4D-AandE-ROS-1211-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fevents%2Findex%2Ehtml%3FWT%2Emc%5Fid%3DAR%2DD%2DI%2DNYT%2DAD%2DS4D%2DAandE%2DROS%2D1211%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D175108" target="_blank"> 
+<img style="float:left; margin-right:10px;" src="http://graphics8.nytimes.com/adx/images/ADS/28/59/ad.285977/11-2187_ArtsEntertainment_86x60.gif" width="86" height="60" border="0" style="vertical-align:text-top;"></a>
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/books/index.html&pos=Right5A&sn2=8c1904df/9c6bd3bd&sn1=6a1102ca/9e7f5eda&camp=nyt2011-mktg-arts_and_ents-s4d_ros&ad=AR-D-I-NYT-AD-S4D-AandE-ROS-1211-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fevents%2Findex%2Ehtml%3FWT%2Emc%5Fid%3DAR%2DD%2DI%2DNYT%2DAD%2DS4D%2DAandE%2DROS%2D1211%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D175108" target="_blank">  <br />Introducing: The Interactive Arts & Entertainment Guide</a>
+</div>
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+</div>
+	</div>
+<!--[TwoColumnAdLeft - End] -->
+<div class="advertisementColumnGroup">
+<!--[MarketPlaceGridAd - Begin] -->
+
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+    <!--[MarketPlaceGridAd - End] -->
+</div>
+</div>
+<!--Ads Ads -->                    <div class="columnGroup last">
+
+<div class="singleAd" id="Feature1">
+<!-- ADXINFO classification="hp-module" campaign="feature1-CanyonRanch-1764607-cla"--><!--Ad Template Begins Here -->
+<div class="story advertisement">
+<div class="callout">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/books/index.html&pos=Feature1&sn2=75884468/224484a2&sn1=5e1dcb15/121849b2&camp=feature1-CanyonRanch-1764607-cla&ad=3.11.11-CanyonRanch-173x98-SFM&goto=http%3A%2F%2Fwww%2Ecanyonranchlivingmiamibeach%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/26/01/ad.260145/2.9.11_173x98.jpg"" width="173" height="98" border="0" alt="Photo"></a>
+</div>
+<h5>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/books/index.html&pos=Feature1&sn2=75884468/224484a2&sn1=5e1dcb15/121849b2&camp=feature1-CanyonRanch-1764607-cla&ad=3.11.11-CanyonRanch-173x98-SFM&goto=http%3A%2F%2Fwww%2Ecanyonranchlivingmiamibeach%2Ecom" target="_blank"></a>
+</h5>
+<p class="summary"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/books/index.html&pos=Feature1&sn2=75884468/224484a2&sn1=5e1dcb15/121849b2&camp=feature1-CanyonRanch-1764607-cla&ad=3.11.11-CanyonRanch-173x98-SFM&goto=http%3A%2F%2Fwww%2Ecanyonranchlivingmiamibeach%2Ecom" target="_blank"><font size=1>A life of wellness is just a click away.  One to to three bedrooms from the 400s to over $3MM.</font></a>
+</p>
+<div class="adCreative">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/books/index.html&pos=Feature1&sn2=75884468/224484a2&sn1=5e1dcb15/121849b2&camp=feature1-CanyonRanch-1764607-cla&ad=3.11.11-CanyonRanch-173x98-SFM&goto=http%3A%2F%2Fwww%2Ecanyonranchlivingmiamibeach%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/26/01/ad.260145/2.9.11_logo.gif" width="78" height="36"></a>
+</div>
+
+<p class="summary"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/books/index.html&pos=Feature1&sn2=75884468/224484a2&sn1=5e1dcb15/121849b2&camp=feature1-CanyonRanch-1764607-cla&ad=3.11.11-CanyonRanch-173x98-SFM&goto=http%3A%2F%2Fwww%2Ecanyonranchlivingmiamibeach%2Ecom" target="_blank"><font size=1>CANYONRANCHLIVINGMIAMIBEACH.COM</font></a>
+</p>
+</div>
+<!--Ad Template Ends Here -->
+</div>
+
+
+<div class="singleAd" id="SponLink">
+<script language="JavaScript" type="text/javascript">
+    
+    // Sponlink_short
+
+    NYTD.GoogleAds.getGoogleAds("AFC", { 
+        google_ad_client:'nytimes_section_var',
+        ad_target_list:'sponLink'
+    });
+</script>
+</div>
+
+</div>
+</div><!--close cColumn -->
+</div><!--close wideA -->
+</div><!--close spanAB -->
+</div><!--close main -->
+<div id="footer">
+<ul class="first">
+<li class="first"><a href="http://www.nytimes.com">Home</a></li>
+<li >
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li>
+<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+</ul>    <ul>
+<li class="first"><a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&copy; 2011</a> <a href="http://www.nytco.com/">The New York Times Company</a></li>
+<li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Terms of Service</a></li>
+<li class="termsOfSale"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+<li><a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a></li>
+<li><a class="rssButton" href="http://www.nytimes.com/rss">RSS</a></li>
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+<li><a href="http://www.nytco.com/careers">Work for Us</a></li>
+<li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+</ul>
+</div>
+</div><!--close page -->
+</div><!--close shell -->
+
+
+
+
+
+
+
+<IMG SRC="/adx/bin/clientside/7e5a259dQ2FQ2AlQ5DQ23ZxHlwBQ2FlZlQ23ZiwQ25Q25xiM" height="1" width="3">
+
+<script type="text/javascript" language="JavaScript">
+// Written by /usr/local/knews/bin/commentcount.pl Fri Dec  2 13:02:02 2011
+var NYTArticleCommentCounts = {
+"100000001190843":{count:147, commentsEnabled:false},
+"100000001190858":{count:204, commentsEnabled:false},
+"100000001190907":{count:49, commentsEnabled:false},
+"100000001191255":{count:237, commentsEnabled:false},
+"100000001191704":{count:133, commentsEnabled:false},
+"100000001191724":{count:100, commentsEnabled:false},
+"100000001191950":{count:122, commentsEnabled:false},
+"100000001192133":{count:307, commentsEnabled:false},
+"100000001192329":{count:76, commentsEnabled:false},
+"100000001190961":{count:19, commentsEnabled:false},
+"100000001177231":{count:1, commentsEnabled:true},
+"100000001177245":{count:74, commentsEnabled:true},
+"100000001179958":{count:24, commentsEnabled:false},
+"100000001180322":{count:227, commentsEnabled:true},
+"100000001183078":{count:44, commentsEnabled:false},
+"100000001183080":{count:327, commentsEnabled:false},
+"100000001183081":{count:7, commentsEnabled:false},
+"100000001183084":{count:235, commentsEnabled:false},
+"100000001183087":{count:11, commentsEnabled:false},
+"100000001183089":{count:14, commentsEnabled:false},
+"100000001183090":{count:11, commentsEnabled:false},
+"100000001183091":{count:3, commentsEnabled:false},
+"100000001183094":{count:14, commentsEnabled:false},
+"100000001184186":{count:79, commentsEnabled:false},
+"100000001184524":{count:149, commentsEnabled:false},
+"100000001186117":{count:1, commentsEnabled:false},
+"100000001186193":{count:12, commentsEnabled:true},
+"100000001186569":{count:190, commentsEnabled:false},
+"100000001189184":{count:49, commentsEnabled:false},
+"100000001190721":{count:71, commentsEnabled:false},
+"100000001191577":{count:224, commentsEnabled:false},
+"100000001191688":{count:28, commentsEnabled:false},
+"100000001191719":{count:107, commentsEnabled:false},
+"100000001191931":{count:121, commentsEnabled:false},
+"100000001191985":{count:110, commentsEnabled:false},
+"100000001192057":{count:211, commentsEnabled:false},
+"100000001192188":{count:141, commentsEnabled:false},
+"100000001192496":{count:52, commentsEnabled:false},
+"100000001192500":{count:206, commentsEnabled:false},
+"100000001192600":{count:224, commentsEnabled:false},
+"100000001192611":{count:167, commentsEnabled:false},
+"100000001193250":{count:67, commentsEnabled:false},
+"100000001193262":{count:37, commentsEnabled:false},
+"100000001193344":{count:98, commentsEnabled:false},
+"100000001193527":{count:27, commentsEnabled:false},
+"100000001193629":{count:10, commentsEnabled:false},
+"100000001193702":{count:17, commentsEnabled:false},
+"100000001193743":{count:108, commentsEnabled:false},
+"100000001193763":{count:516, commentsEnabled:false},
+"100000001193825":{count:86, commentsEnabled:false},
+"100000001193857":{count:48, commentsEnabled:false},
+"100000001193859":{count:160, commentsEnabled:false},
+"100000001193890":{count:117, commentsEnabled:false},
+"100000001193920":{count:44, commentsEnabled:false},
+"100000001193944":{count:303, commentsEnabled:false},
+"100000001193948":{count:7, commentsEnabled:false},
+"100000001194088":{count:51, commentsEnabled:false},
+"100000001194098":{count:17, commentsEnabled:true},
+"100000001194137":{count:109, commentsEnabled:false},
+"100000001194342":{count:159, commentsEnabled:false},
+"100000001194394":{count:68, commentsEnabled:false},
+"100000001194454":{count:36, commentsEnabled:false},
+"100000001194795":{count:192, commentsEnabled:false},
+"100000001194808":{count:628, commentsEnabled:false},
+"100000001194892":{count:125, commentsEnabled:false},
+"100000001195360":{count:33, commentsEnabled:false},
+"100000001195689":{count:178, commentsEnabled:false},
+"100000001195802":{count:10, commentsEnabled:false},
+"100000001195854":{count:304, commentsEnabled:false},
+"100000001195914":{count:48, commentsEnabled:false},
+"100000001195920":{count:17, commentsEnabled:false},
+"100000001195923":{count:44, commentsEnabled:false},
+"100000001195938":{count:138, commentsEnabled:false},
+"100000001195940":{count:10, commentsEnabled:false},
+"100000001195947":{count:92, commentsEnabled:false},
+"100000001195952":{count:162, commentsEnabled:false},
+"100000001195976":{count:141, commentsEnabled:false},
+"100000001195982":{count:283, commentsEnabled:false},
+"100000001196229":{count:42, commentsEnabled:false},
+"100000001196250":{count:104, commentsEnabled:true},
+"100000001196432":{count:333, commentsEnabled:false},
+"100000001196658":{count:42, commentsEnabled:false},
+"100000001196737":{count:28, commentsEnabled:true},
+"100000001196861":{count:18, commentsEnabled:false},
+"100000001196955":{count:71, commentsEnabled:true},
+"100000001196963":{count:143, commentsEnabled:false},
+"100000001197064":{count:68, commentsEnabled:false},
+"100000001197489":{count:3, commentsEnabled:false},
+"100000001197999":{count:75, commentsEnabled:false},
+"100000001198014":{count:290, commentsEnabled:false},
+"100000001198050":{count:69, commentsEnabled:true},
+"100000001198076":{count:32, commentsEnabled:true},
+"100000001198092":{count:204, commentsEnabled:false},
+"100000001198110":{count:424, commentsEnabled:false},
+"100000001198123":{count:343, commentsEnabled:false},
+"100000001198126":{count:62, commentsEnabled:false},
+"100000001198138":{count:163, commentsEnabled:false},
+"100000001198377":{count:143, commentsEnabled:true},
+"100000001198446":{count:23, commentsEnabled:true},
+"100000001198471":{count:52, commentsEnabled:true},
+"100000001198476":{count:157, commentsEnabled:true},
+"100000001198581":{count:48, commentsEnabled:true},
+"100000001198642":{count:253, commentsEnabled:false},
+"100000001199366":{count:136, commentsEnabled:true},
+"100000001199374":{count:114, commentsEnabled:true},
+"100000001199444":{count:155, commentsEnabled:false},
+"100000001199658":{count:4, commentsEnabled:true},
+"100000001200046":{count:884, commentsEnabled:true},
+"100000001200335":{count:165, commentsEnabled:false},
+"100000001200378":{count:192, commentsEnabled:false},
+"100000001200458":{count:77, commentsEnabled:false},
+"100000001200844":{count:23, commentsEnabled:true},
+"100000001201276":{count:88, commentsEnabled:true},
+"100000001201525":{count:188, commentsEnabled:true},
+"100000001202361":{count:0, commentsEnabled:true},
+"100000001202521":{count:27, commentsEnabled:true},
+"100000001202701":{count:270, commentsEnabled:false},
+"100000001202807":{count:17, commentsEnabled:true},
+"100000001202815":{count:116, commentsEnabled:false},
+"100000001202831":{count:232, commentsEnabled:true},
+"100000001202861":{count:95, commentsEnabled:true},
+"100000001202869":{count:39, commentsEnabled:true},
+"100000001202871":{count:23, commentsEnabled:true},
+"100000001202889":{count:54, commentsEnabled:true},
+"100000001202895":{count:33, commentsEnabled:true},
+"100000001202901":{count:90, commentsEnabled:true},
+"100000001203208":{count:19, commentsEnabled:true},
+"100000001203416":{count:220, commentsEnabled:true},
+"100000001203664":{count:0, commentsEnabled:true},
+"100000001188908":{count:16, commentsEnabled:true},
+"100000001194403":{count:0, commentsEnabled:true},
+"100000001194404":{count:0, commentsEnabled:true},
+"100000001194405":{count:71, commentsEnabled:true},
+"100000001194406":{count:0, commentsEnabled:true},
+"100000001194419":{count:1, commentsEnabled:true},
+"100000001194423":{count:58, commentsEnabled:true},
+"100000001194424":{count:0, commentsEnabled:true},
+"100000001194425":{count:0, commentsEnabled:true},
+"100000001194427":{count:0, commentsEnabled:true},
+"100000001194843":{count:51, commentsEnabled:true},
+"100000001197746":{count:1, commentsEnabled:true},
+"100000001201815":{count:0, commentsEnabled:true},
+"100000001201989":{count:0, commentsEnabled:true}
+};
+</script>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/homepage/articleCommentCounts.js"></script>
+<script type="text/javascript" language="JavaScript">
+    ArticleCommentCounts.apply()
+    </script>
+
+			
+		<!-- Start UPT call -->
+		<img height="1" width="3" border=0 src="http://up.nytimes.com/?d=0/20/&t=3&s=0&ui=&r=&u=www%2enytimes%2ecom%2fpages%2fbooks%2findex%2ehtml%3f">
+		<!-- End UPT call -->
+	
+		
+        <script language="JavaScript"><!--
+          var dcsvid="";
+          var regstatus="non-registered";
+        //--></script>
+        <script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+        <noscript>
+          <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div>
+        </noscript>
+   
+</body>
+</html>

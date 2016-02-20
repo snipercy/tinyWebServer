@@ -1,0 +1,3 @@
+Location: http://www.nytimes.com/glogin?URI=http://www.nytimes.com/2011/12/02/us/drilling-down-laymans-guide-to-lease-terms.html&OQ=_rQ3D1&OP=37c21667Q2FlpTDl)8EQ2BQ2788fQ24lQ24YLLlLQ24lYQ24lnQ2Bl)Q270jj0Q22ux)8pQ22xjMGQ20MQ22Q2Bxun0)Txf8xjTMQ2BTxfTQ27Q20Q2BFZfQ20j
+Connection: keep-alive
+

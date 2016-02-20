@@ -1,0 +1,1230 @@
+Pragma: no-cache
+X-Revision: DEV
+Expires: Tue, 31 Mar 1981 05:00:00 GMT
+Cache-Control: no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+X-MID: ea3b9d0edbf0293eb179354013920cad9ce8af85
+Set-Cookie: k=10.35.27.120.1322849069849769; path=/; expires=Fri, 09-Dec-11 18:04:29 GMT; domain=.twitter.com
+Set-Cookie: guest_id=v1%3A132284906985816296; domain=.twitter.com; path=/; expires=Mon, 02-Dec-2013 06:04:29 GMT
+Set-Cookie: _twitter_sess=BAh7CDoPY3JlYXRlZF9hdGwrCCLr8v8zAToHaWQiJWIxMDU5NGQ4NWQ3MjZh%250AZWFlMDg0MjBmYmYwZjA4ODU2IgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVy%250AOjpGbGFzaDo6Rmxhc2hIYXNoewAGOgpAdXNlZHsA--bf0ea0979319f2d01d332fa1194b7c63af003330; domain=.twitter.com; path=/; HttpOnly
+X-XSS-Protection: 1; mode=block
+Vary: Accept-Encoding
+Content-Length: 54405
+Server: tfe
+Connection: Keep-Alive
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <script type="text/javascript">
+//<![CDATA[
+window.location.replace('/#!/nytimes');
+//]]>
+</script>
+    <script type="text/javascript">
+//<![CDATA[
+(function(g){var c=g.location.href.split("#!");if(c[1]){g.location.replace(g.HBR = (c[0].replace(/\/*$/, "") + "/" + c[1].replace(/^\/*/, "")));}else return true})(window);
+//]]>
+</script>
+    <script type="text/javascript" charset="utf-8">
+      if (!twttr) {
+        var twttr = {}
+      }
+
+      // Benchmarking load time.
+      // twttr.timeTillReadyUnique = 'c893cb72e47bcf52';
+      // twttr.timeTillReadyStart = new Date().getTime();
+    </script>
+
+        <script type="text/javascript">
+//<![CDATA[
+var page={};var onCondition=function(D,C,A,B){D=D;A=A?Math.min(A,5):5;B=B||100;if(D()){C()}else{if(A>1){setTimeout(function(){onCondition(D,C,A-1,B)},B)}}};
+//]]>
+</script>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta content="en-us" http-equiv="Content-Language" />
+<meta content="no" http-equiv="imagetoolbar" />
+<meta content="width = 780" name="viewport" />
+<meta content="4FTTxY4uvo0RZTMQqIyhh18HsepyJOctQ+XTOu1zsfE=" name="verify-v1" />
+<meta content="1" name="page" />
+<meta content="NOODP" name="robots" />
+<meta content="n" name="session-loggedin" />
+<meta content="Sign up for Twitter to follow The New York Times (@nytimes). Where the Conversation Begins. Follow breaking news, NYTimes.com home page articles, special features and more." name="description" />
+<meta content="nytimes" name="page-user-screen_name" />
+    <title id="page_title">The New York Times (@nytimes) on Twitter</title>
+    <link href="http://a1.twimg.com/a/1322778272/images/twitter_57.png" rel="apple-touch-icon" />
+<link href="/oexchange.xrd" rel="http://oexchange.org/spec/0.8/rel/related-target" type="application/xrd+xml" />
+<link href="http://a3.twimg.com/a/1322778272/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<link href="http://twitter.com/nytimes" rel="canonical" />
+    <link rel="alternate" href="http://twitter.com/statuses/user_timeline/807095.rss" title="nytimes's Tweets" type="application/rss+xml" />
+    <link rel="alternate" href="http://twitter.com/favorites/807095.rss" title="nytimes's Favorites" type="application/rss+xml" />
+  
+    
+    <link href="http://a0.twimg.com/a/1322778272/stylesheets/twitter.css?1322504248" media="screen" rel="stylesheet" type="text/css" />
+<link href="http://a0.twimg.com/a/1322778272/stylesheets/geo.css?1322504248" media="screen" rel="stylesheet" type="text/css" />
+<link href="http://a1.twimg.com/a/1322778272/stylesheets/buttons_new.css?1322504248" media="screen" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+      
+        body {
+  background: #FFFFFF url('http://a3.twimg.com/profile_background_images/4432187/twitter_post.png') fixed repeat;
+
+}
+
+body#show #content .meta a.screen-name,
+#content .shared-content .screen-name,
+#content .meta .byline a {
+  color: #004276;
+}
+
+/* Link Color */
+a,
+#content tr.hentry:hover a,
+body#profile #content div.hentry:hover a,
+#side .stats a:hover span.stats_count,
+#side div.user_icon a:hover,
+li.verified-profile a:hover,
+#side .promotion .definition strong,
+p.list-numbers a:hover,
+#side div.user_icon a:hover span,
+#content .tabMenu li a,
+.translator-profile a:hover,
+#local_trend_locations li a,
+.modal-content .list-slug,
+.tweet-label a:hover,
+ol.statuses li.garuda-tweet:hover .actions-hover li span a,
+ol.statuses li.garuda-tweet .actions-hover li span a:hover {
+  color: #004276;
+}
+
+body,
+ul#tabMenu li a, #side .section h1,
+#side .stat a,
+#side .stats a span.stats_count,
+#side div.section-header h1,
+#side div.user_icon a,
+#side div.user_icon a:hover,
+#side div.section-header h3.faq-header,
+ul.sidebar-menu li.active a,
+li.verified-profile a,
+#side .promotion a,
+body #content .list-header h2,
+p.list-numbers a,
+.bar h3 label,
+body.timeline #content h1,
+.list-header h2 a span,
+#content .tabMenu li.active a,
+body#direct_messages #content .tabMenu #inbox_tab a,
+body#inbox #content .tabMenu #inbox_tab a,
+body#sent #content .tabMenu #sent_tab a,
+body#direct_messages #content .tabMenu #inbox_tab a,
+body#retweets_by_others #content .tabMenu #retweets_by_others_tab a,
+body#retweets #content .tabMenu #retweets_tab a,
+body#retweeted_by_others #content .tabMenu #retweeted_by_others_tab a,
+body#retweeted_of_mine #content .tabMenu #retweeted_of_mine_tab a,
+.translator-profile a,
+#owners_lists h2 a {
+  color: #000000;
+}
+
+.email-address-nag-banner {
+  border-bottom: solid 1px #323232;
+}
+#side_base {
+  border-left:1px solid #323232;
+  background-color: #E7EFF8;
+}
+
+ul.sidebar-menu li.active a,
+ul.sidebar-menu li a:hover,
+#side div#custom_search.active,
+#side .promotion,
+.notify div {
+  background-color: #F7FFFF;
+}
+
+.list-header,
+.list-controls,
+ul.sidebar-list li.active a,
+ul.sidebar-list li a:hover,
+.list-header-inner {
+  background-color: #E7EFF8 !important;
+}
+
+#side .actions,
+#side .promo,
+#design .side-section {
+  border: 1px solid #323232;
+}
+
+#side div.section-header h3 {
+  border-bottom: 1px solid #323232;
+}
+
+#side p.sidebar-location {
+  border-bottom: 1px dotted #323232;
+}
+
+#side hr {
+  background: #323232;
+  color: #323232;
+}
+
+ul.sidebar-menu li.loading a {
+  background: #F7FFFF url('http://a3.twimg.com/a/1322778272/images/spinner.gif') no-repeat 171px 0.5em !important;
+}
+
+#side .collapsible h2.sidebar-title {
+  background: transparent url('http://a2.twimg.com/a/1322778272/images/toggle_up_dark.png') no-repeat center right !important;
+}
+
+#side .collapsible.collapsed h2.sidebar-title {
+  background: transparent url('http://a1.twimg.com/a/1322778272/images/toggle_down_dark.png') no-repeat center right !important;
+}
+
+#side ul.lists-links li a em {
+  background: url('http://a0.twimg.com/a/1322778272/images/arrow_right_dark.png') no-repeat left top;
+}
+
+#side span.pipe {
+  border-left:1px solid #323232;
+}
+
+#list_subscriptions span.view-all,
+#list_memberships span.view-all,
+#profile span.view-all,
+#profile_favorites span.view-all,
+#following span.view-all,
+#followers span.view-all {
+  border-left: 0;
+}
+
+a.edit-list {
+  border-right: 1px solid #323232 !important;
+}
+      
+      
+      
+    </style>
+      <link href="http://a2.twimg.com/a/1322778272/stylesheets/following.css?1322504248" media="screen, projection" rel="stylesheet" type="text/css" />
+
+  </head>
+
+  <body class="account firefox signin-island" id="profile">    <div class="fixed-banners">
+      
+      
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+document.domain = 'twitter.com';function fn(){document.write = "";window.top.location = window.self.location;setTimeout(function(){document.body.innerHTML = '';},0);window.self.onload = function(evt){document.body.innerHTML = '';};}if(window.top !== window.self){try{if(window.top.location.host){}else{fn();}}catch(e){fn();}}
+//]]>
+</script>
+    <div id="dim-screen"></div>
+    <ul id="accessibility" class="offscreen">
+  <li><a href="#content" accesskey="0">Skip past navigation</a></li>
+  <li>On a mobile phone? Check out <a href="http://m.twitter.com/">m.twitter.com</a>!</li>
+  <li><a href="#footer" accesskey="2">Skip to navigation</a></li>
+    <li><a href="#signin">Skip to sign in form</a></li>
+</ul>
+
+    
+    
+
+    
+
+    <div id="container" class="subpage">
+            <span id="loader" style="display:none"><img alt="Loader" src="http://a3.twimg.com/a/1322778272/images/loader.gif" /></span>
+      
+        <div class="clearfix" id="header">
+  <a href="http://twitter.com/" title="Twitter / Home" accesskey="1" id="logo">
+          <img alt="Twitter.com" src="http://a2.twimg.com/a/1322778272/images/twitter_logo_header.png" />    
+  </a>
+            <form method="post" id="sign_out_form" action="/sessions/destroy" style="display:none;">
+        <input name="authenticity_token" value="b05c4af9fbdda6a0b394924882f201588691f571" type="hidden"/>
+      </form>
+
+              
+  <div id="signin_controls">
+  <span id="have_an_account">
+    Have an account?<a href="/login" class="signin" tabindex="3"><span>Sign in</span></a></span>
+  <div id="signin_menu" class="common-form standard-form offscreen">
+  
+    <form method="post" id="signin" action="https://twitter.com/sessions">
+  
+  <input id="authenticity_token" name="authenticity_token" type="hidden" value="b05c4af9fbdda6a0b394924882f201588691f571" />  <input id="redirect_after_login" name="redirect_after_login" type="hidden" value="/nytimes" />  <p class="textbox">
+    <label for="username">Username or email</label>
+    <input type="text" id="username" name="session[username_or_email]" value="" title="username" tabindex="4"/>
+  </p>
+
+  <p class="textbox">
+    <label for="password">Password</label>
+    <input type="password" id="password" name="session[password]" value="" title="password" tabindex="5"/>
+  </p>
+
+  <p class="remember">
+    <input type="submit" id="signin_submit" value="Sign in" tabindex="7"/>
+    <input type="checkbox" id="remember" name="remember_me" value="1" tabindex="6"/>
+    <label for="remember">Remember me</label>
+  </p>
+
+  <p class="forgot">
+    <a href="/account/resend_password" id="resend_password_link">Forgot password?</a>
+  </p>
+
+  <p class="forgot-username">
+    <a href="/account/resend_password" id="forgot_username_link" title="If you remember your password, try logging in with your email">Forgot username?</a>
+  </p>
+    <p class="complete">
+      <a href="/account/complete" id="account_complete_link">Already using Twitter on your phone?</a>
+    </p>
+  <input type="hidden" name="q" id="signin_q" value=""/>
+  </form>
+</div>
+
+</div>
+
+
+
+
+            </div>
+
+
+    <div id="profilebox_outer" class="home_page_new_home_page">
+      <div id="profilebox" class="clearfix">
+        <div id="profiletext">
+          <h1>
+            <span>Get short, timely messages from The New York Times.</span>
+          </h1>
+
+          <h2>Twitter is a rich source of instantly updated information. It's easy to stay updated on an incredibly wide variety of topics. <strong><a href='/signup?follow=nytimes'>Join today</a></strong> and <strong>follow @nytimes</strong>.</h2>
+        </div>
+        <div id="profilebutton">
+          <form action="/signup" id="account_signup_form" method="get" name="account_signup_form">            <input id="follow" name="follow" type="hidden" value="nytimes" />
+            <input class="profilesubmit" id="profile_submit" name="commit" type="submit" value="Sign Up &rsaquo;" />
+          </form>
+          <p id="profilebox-mobile">
+            <span class="sms-follow-instructions">Get updates via SMS by texting <strong>follow nytimes</strong> to <strong>40404</strong> in the United States</span><br/>
+            <a id="sms_codes_link">
+              <span>Codes for other countries</span>
+            </a>
+            <div id="sms_codes">
+  <table celspacing="0" celpadding="0">
+    <thead>
+      <tr class="title">
+        <td colspan="3">Two-way (sending and receiving) short codes:</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th class="sms-country">Country</th>
+        <th class="sms-code">Code</th>
+        <th class="sms-network">For customers of</th>
+      </tr>
+      <tr>
+  <td class="sms-country">Australia</td>
+  <td colspan="2" class="sms-code-network">
+    <ul>
+      
+        <li>
+          <span class="sms-code">0198089488</span>
+          <span class="sms-network">Telstra</span>
+        </li>
+      
+    </ul>
+  </td>
+</tr><tr>
+  <td class="sms-country">Canada</td>
+  <td colspan="2" class="sms-code-network">
+    <ul>
+      
+        <li>
+          <span class="sms-code">21212</span>
+          <span class="sms-network">(any)</span>
+        </li>
+      
+    </ul>
+  </td>
+</tr><tr>
+  <td class="sms-country">United Kingdom</td>
+  <td colspan="2" class="sms-code-network">
+    <ul>
+      
+        <li>
+          <span class="sms-code">86444</span>
+          <span class="sms-network">Vodafone, Orange, 3, O2</span>
+        </li>
+      
+    </ul>
+  </td>
+</tr><tr>
+  <td class="sms-country">Indonesia</td>
+  <td colspan="2" class="sms-code-network">
+    <ul>
+      
+        <li>
+          <span class="sms-code">89887</span>
+          <span class="sms-network">AXIS, 3, Telkomsel</span>
+        </li>
+      
+    </ul>
+  </td>
+</tr><tr>
+  <td class="sms-country">Ireland</td>
+  <td colspan="2" class="sms-code-network">
+    <ul>
+      
+        <li>
+          <span class="sms-code">51210</span>
+          <span class="sms-network">O2</span>
+        </li>
+      
+    </ul>
+  </td>
+</tr><tr>
+  <td class="sms-country">India</td>
+  <td colspan="2" class="sms-code-network">
+    <ul>
+      
+        <li>
+          <span class="sms-code">53000</span>
+          <span class="sms-network">Bharti Airtel, Videocon</span>
+        </li>
+      
+    </ul>
+  </td>
+</tr><tr>
+  <td class="sms-country">Jordan</td>
+  <td colspan="2" class="sms-code-network">
+    <ul>
+      
+        <li>
+          <span class="sms-code">90903</span>
+          <span class="sms-network">Zain</span>
+        </li>
+      
+    </ul>
+  </td>
+</tr><tr>
+  <td class="sms-country">New Zealand</td>
+  <td colspan="2" class="sms-code-network">
+    <ul>
+      
+        <li>
+          <span class="sms-code">8987</span>
+          <span class="sms-network">Vodafone, Telecom NZ</span>
+        </li>
+      
+    </ul>
+  </td>
+</tr><tr>
+  <td class="sms-country">United States</td>
+  <td colspan="2" class="sms-code-network">
+    <ul>
+      
+        <li>
+          <span class="sms-code">40404</span>
+          <span class="sms-network">(any)</span>
+        </li>
+      
+    </ul>
+  </td>
+</tr>
+    </tbody>
+  </table>
+</div>
+
+          </p>
+        </div>
+      </div>
+    </div>
+    
+
+      
+      
+
+      <div class="content-bubble-arrow"></div>
+      
+      
+      
+        <table cellspacing="0" class="columns">
+          <tbody>
+            <tr>
+              <td id="content" class="round-left column">
+                                <div class="wrapper">
+                  
+                  
+
+  
+
+
+
+
+  <div class="profile-user">
+    <div id="user_807095" class="user ">
+      <h2 class="thumb clearfix">
+        <a href="/account/profile_image/nytimes?hreflang=en"><img alt="" border="0" height="73" id="profile-image" src="http://a0.twimg.com/profile_images/57465005/twitter_avatar.nyt_bigger.jpg" valign="middle" width="73" /></a>
+        <div class="screen-name">nytimes</div>
+      </h2>
+    </div>
+  </div>
+
+
+
+  <div id="similar_to_followed"></div>
+
+<div class="section">
+
+  <div id="timeline_heading" style="display: none;">
+    <h1 id="heading"></h1>
+  </div>
+  <ol id='timeline' class='statuses'>
+            <li class="hentry u-nytimes status latest-status" id="status_142653405675008002"
+>
+    <span class="status-body">
+    <span class="status-content">
+                  <span class="entry-content">Syrians Say They Are Feeling Grip of Economic Sanctions <a href="http://t.co/9WBsArSS" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">nyti.ms/vQyNIC</a></span>
+          </span>
+    <span class="meta entry-meta" data='{}'>
+  <a class="entry-date" rel="bookmark" href="http://twitter.com/nytimes/status/142653405675008002">
+    <span class="published timestamp" data="{time:'Fri Dec 02 17:16:36 +0000 2011'}">about 1 hour ago</span></a>
+  <span>via <a href="http://www.nytimes.com/twitter" rel="nofollow">The New York Times</a></span>
+    
+  </span>
+
+        <ul class="meta-data clearfix">
+</ul>
+  </span>
+</li>
+          
+<li  class="hentry u-ravisomaiya share status" id="status_142653060911599616"
+>
+      <span class="status-body">
+              <span class="big-retweet-icon" title="Retweets from people you follow appear in your timeline."></span>
+                    <strong><a href="http://twitter.com/ravisomaiya" class="tweet-url screen-name">ravisomaiya</a></strong>
+        
+                  <span class="entry-content">UK foreign office confirms &quot;all diplomatic staff of the Iranian embassy&quot; departed London for <a href="/search?q=%23Iran" title="#Iran" class="tweet-url hashtag" rel="nofollow">#Iran</a> this afternoon: <a href="http://t.co/3JxufN1m" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">ow.ly/i/mAwa</a></span>
+            <span class="meta entry-meta" data='{}'>
+  <a class="entry-date" rel="bookmark" href="http://twitter.com/ravisomaiya/status/142651948640903169">
+    <span class="published timestamp" data="{time:'Fri Dec 02 17:10:49 +0000 2011'}">about 1 hour ago</span></a>
+  <span>via <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
+    
+  </span>
+      
+        <span class="meta entry-meta retweet-meta">
+          <span class="shared-content">Retweeted by <a href="/nytimes" class="screen-name timestamp-title" data="&#123;time:&quot;Fri Dec 02 17:15:14 +0000 2011&quot;&#125;" title="about 1 hour ago">nytimes</a> and 100+ others</span>
+        </span>
+      
+            <ul class="meta-data clearfix">
+</ul>
+    </span>
+  </li >
+          <li class="hentry u-nytimes status" id="status_142646320925114369"
+>
+    <span class="status-body">
+    <span class="status-content">
+                  <span class="entry-content">The Caucus: Ethics Office Releases Report on Jackson's Push for Senate Seat <a href="http://t.co/wtpU4Tny" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">nyti.ms/skJexu</a></span>
+          </span>
+    <span class="meta entry-meta" data='{}'>
+  <a class="entry-date" rel="bookmark" href="http://twitter.com/nytimes/status/142646320925114369">
+    <span class="published timestamp" data="{time:'Fri Dec 02 16:48:27 +0000 2011'}">about 1 hour ago</span></a>
+  <span>via <a href="http://www.nytimes.com/twitter" rel="nofollow">The New York Times</a></span>
+    
+  </span>
+
+        <ul class="meta-data clearfix">
+</ul>
+  </span>
+</li>
+          <li class="hentry u-nytimes status" id="status_142642803367878656"
+>
+    <span class="status-body">
+    <span class="status-content">
+                  <span class="entry-content">The Caucus: Parties Can Look to '92 Election as a Guide for 2012 <a href="http://t.co/bklF8oR2" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">nyti.ms/tPereP</a></span>
+          </span>
+    <span class="meta entry-meta" data='{}'>
+  <a class="entry-date" rel="bookmark" href="http://twitter.com/nytimes/status/142642803367878656">
+    <span class="published timestamp" data="{time:'Fri Dec 02 16:34:29 +0000 2011'}">about 1 hour ago</span></a>
+  <span>via <a href="http://www.nytimes.com/twitter" rel="nofollow">The New York Times</a></span>
+    
+  </span>
+
+        <ul class="meta-data clearfix">
+</ul>
+  </span>
+</li>
+          <li class="hentry u-nytimes status" id="status_142639268983087104"
+>
+    <span class="status-body">
+    <span class="status-content">
+                  <span class="entry-content">Building a Better Mitt Romney-Bot <a href="http://t.co/Tgf0SMbY" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">nyti.ms/vGPoDV</a></span>
+          </span>
+    <span class="meta entry-meta" data='{}'>
+  <a class="entry-date" rel="bookmark" href="http://twitter.com/nytimes/status/142639268983087104">
+    <span class="published timestamp" data="{time:'Fri Dec 02 16:20:26 +0000 2011'}">about 2 hours ago</span></a>
+  <span>via <a href="http://www.nytimes.com/twitter" rel="nofollow">The New York Times</a></span>
+    
+  </span>
+
+        <ul class="meta-data clearfix">
+</ul>
+  </span>
+</li>
+          <li class="hentry u-nytimes status" id="status_142625158874673152"
+>
+    <span class="status-body">
+    <span class="status-content">
+                  <span class="entry-content">Arts &amp; Leisure: Alexander Garvin Looks at Public Spaces in New York <a href="http://t.co/cHTA4wSl" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">nyti.ms/v3njOc</a></span>
+          </span>
+    <span class="meta entry-meta" data='{}'>
+  <a class="entry-date" rel="bookmark" href="http://twitter.com/nytimes/status/142625158874673152">
+    <span class="published timestamp" data="{time:'Fri Dec 02 15:24:22 +0000 2011'}">about 3 hours ago</span></a>
+  <span>via <a href="http://www.nytimes.com/twitter" rel="nofollow">The New York Times</a></span>
+    
+  </span>
+
+        <ul class="meta-data clearfix">
+</ul>
+  </span>
+</li>
+          <li class="hentry u-nytimes status" id="status_142618126255788032"
+>
+    <span class="status-body">
+    <span class="status-content">
+                  <span class="entry-content">Prosecutor Seeks Sudan Defense Minister Arrest <a href="http://t.co/0oz2fVzj" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">nyti.ms/vch3Lo</a></span>
+          </span>
+    <span class="meta entry-meta" data='{}'>
+  <a class="entry-date" rel="bookmark" href="http://twitter.com/nytimes/status/142618126255788032">
+    <span class="published timestamp" data="{time:'Fri Dec 02 14:56:25 +0000 2011'}">about 3 hours ago</span></a>
+  <span>via <a href="http://www.nytimes.com/twitter" rel="nofollow">The New York Times</a></span>
+    
+  </span>
+
+        <ul class="meta-data clearfix">
+</ul>
+  </span>
+</li>
+          <li class="hentry u-nytimes status" id="status_142602509452718080"
+>
+    <span class="status-body">
+    <span class="status-content">
+                  <span class="entry-content">U.S. Adds 120,000 Jobs; Unemployment Drops to 8.6% <a href="http://t.co/wMPpDyDC" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">nyti.ms/t9ytFL</a></span>
+          </span>
+    <span class="meta entry-meta" data='{}'>
+  <a class="entry-date" rel="bookmark" href="http://twitter.com/nytimes/status/142602509452718080">
+    <span class="published timestamp" data="{time:'Fri Dec 02 13:54:22 +0000 2011'}">about 4 hours ago</span></a>
+  <span>via <a href="http://www.nytimes.com/twitter" rel="nofollow">The New York Times</a></span>
+    
+  </span>
+
+        <ul class="meta-data clearfix">
+</ul>
+  </span>
+</li>
+          <li class="hentry u-nytimes status" id="status_142602507162619904"
+>
+    <span class="status-body">
+    <span class="status-content">
+                  <span class="entry-content">U.N. Says Action Needed to Prevent Civil War in Syria <a href="http://t.co/Hr6Ckk6C" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">nyti.ms/rHMLj7</a></span>
+          </span>
+    <span class="meta entry-meta" data='{}'>
+  <a class="entry-date" rel="bookmark" href="http://twitter.com/nytimes/status/142602507162619904">
+    <span class="published timestamp" data="{time:'Fri Dec 02 13:54:21 +0000 2011'}">about 4 hours ago</span></a>
+  <span>via <a href="http://www.nytimes.com/twitter" rel="nofollow">The New York Times</a></span>
+    
+  </span>
+
+        <ul class="meta-data clearfix">
+</ul>
+  </span>
+</li>
+          <li class="hentry u-nytimes status" id="status_142596895540391937"
+>
+    <span class="status-body">
+    <span class="status-content">
+                  <span class="entry-content">NYT NEWS ALERT: U.S. Adds 120,000 Jobs in November; Jobless Rate Drops to 8.6%</span>
+          </span>
+    <span class="meta entry-meta" data='{}'>
+  <a class="entry-date" rel="bookmark" href="http://twitter.com/nytimes/status/142596895540391937">
+    <span class="published timestamp" data="{time:'Fri Dec 02 13:32:03 +0000 2011'}">about 5 hours ago</span></a>
+  <span>via <a href="http://www.nytimes.com/twitter" rel="nofollow">The New York Times</a></span>
+    
+  </span>
+
+        <ul class="meta-data clearfix">
+</ul>
+  </span>
+</li>
+          <li class="hentry u-nytimes status" id="status_142574836470906881"
+>
+    <span class="status-body">
+    <span class="status-content">
+                  <span class="entry-content">Drilling Down: Fighting Over Oil and Gas Well Leases <a href="http://t.co/F7cvx9qF" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">nyti.ms/uSjZJ7</a></span>
+          </span>
+    <span class="meta entry-meta" data='{}'>
+  <a class="entry-date" rel="bookmark" href="http://twitter.com/nytimes/status/142574836470906881">
+    <span class="published timestamp" data="{time:'Fri Dec 02 12:04:24 +0000 2011'}">about 6 hours ago</span></a>
+  <span>via <a href="http://www.nytimes.com/twitter" rel="nofollow">The New York Times</a></span>
+    
+  </span>
+
+        <ul class="meta-data clearfix">
+</ul>
+  </span>
+</li>
+          <li class="hentry u-nytimes status" id="status_142574834369572864"
+>
+    <span class="status-body">
+    <span class="status-content">
+                  <span class="entry-content">DealBook: Zynga Aims to Raise Up to $1 Billion <a href="http://t.co/yPIZp0g5" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">nyti.ms/sHUbSe</a></span>
+          </span>
+    <span class="meta entry-meta" data='{}'>
+  <a class="entry-date" rel="bookmark" href="http://twitter.com/nytimes/status/142574834369572864">
+    <span class="published timestamp" data="{time:'Fri Dec 02 12:04:24 +0000 2011'}">about 6 hours ago</span></a>
+  <span>via <a href="http://www.nytimes.com/twitter" rel="nofollow">The New York Times</a></span>
+    
+  </span>
+
+        <ul class="meta-data clearfix">
+</ul>
+  </span>
+</li>
+          <li class="hentry u-nytimes status" id="status_142564456755503104"
+>
+    <span class="status-body">
+    <span class="status-content">
+                  <span class="entry-content">Louis Silverstein, Times Art Director, Dies at 92 <a href="http://t.co/5dhRuaFg" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">nyti.ms/sc38pi</a></span>
+          </span>
+    <span class="meta entry-meta" data='{}'>
+  <a class="entry-date" rel="bookmark" href="http://twitter.com/nytimes/status/142564456755503104">
+    <span class="published timestamp" data="{time:'Fri Dec 02 11:23:09 +0000 2011'}">about 7 hours ago</span></a>
+  <span>via <a href="http://www.nytimes.com/twitter" rel="nofollow">The New York Times</a></span>
+    
+  </span>
+
+        <ul class="meta-data clearfix">
+</ul>
+  </span>
+</li>
+          <li class="hentry u-nytimes status" id="status_142559289482022912"
+>
+    <span class="status-body">
+    <span class="status-content">
+                  <span class="entry-content">Art Review: ‘Storytelling in Japanese Art’ at the Met - Review <a href="http://t.co/7NavfDbi" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">nyti.ms/rB4Pu4</a></span>
+          </span>
+    <span class="meta entry-meta" data='{}'>
+  <a class="entry-date" rel="bookmark" href="http://twitter.com/nytimes/status/142559289482022912">
+    <span class="published timestamp" data="{time:'Fri Dec 02 11:02:37 +0000 2011'}">about 7 hours ago</span></a>
+  <span>via <a href="http://www.nytimes.com/twitter" rel="nofollow">The New York Times</a></span>
+    
+  </span>
+
+        <ul class="meta-data clearfix">
+</ul>
+  </span>
+</li>
+          <li class="hentry u-nytimes status" id="status_142554115912892416"
+>
+    <span class="status-body">
+    <span class="status-content">
+                  <span class="entry-content">Global Stocks Climb After Merkel Reiterates Support for Euro <a href="http://t.co/pJVJdHnK" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">nyti.ms/sykQBw</a></span>
+          </span>
+    <span class="meta entry-meta" data='{}'>
+  <a class="entry-date" rel="bookmark" href="http://twitter.com/nytimes/status/142554115912892416">
+    <span class="published timestamp" data="{time:'Fri Dec 02 10:42:04 +0000 2011'}">about 7 hours ago</span></a>
+  <span>via <a href="http://www.nytimes.com/twitter" rel="nofollow">The New York Times</a></span>
+    
+  </span>
+
+        <ul class="meta-data clearfix">
+</ul>
+  </span>
+</li>
+          <li class="hentry u-nytimes status" id="status_142548993535262721"
+>
+    <span class="status-body">
+    <span class="status-content">
+                  <span class="entry-content">Germany’s Angela Merkel Says Euro Zone Debt Crisis Is Like a Marathon <a href="http://t.co/p2hMk6Fh" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">nyti.ms/uyKKib</a></span>
+          </span>
+    <span class="meta entry-meta" data='{}'>
+  <a class="entry-date" rel="bookmark" href="http://twitter.com/nytimes/status/142548993535262721">
+    <span class="published timestamp" data="{time:'Fri Dec 02 10:21:43 +0000 2011'}">about 8 hours ago</span></a>
+  <span>via <a href="http://www.nytimes.com/twitter" rel="nofollow">The New York Times</a></span>
+    
+  </span>
+
+        <ul class="meta-data clearfix">
+</ul>
+  </span>
+</li>
+          <li class="hentry u-nytimes status" id="status_142543831022313474"
+>
+    <span class="status-body">
+    <span class="status-content">
+                  <span class="entry-content">Republican Leaders Still Seem Torn About Mitt Romney <a href="http://t.co/p2nkYA0x" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">nyti.ms/vq94bp</a></span>
+          </span>
+    <span class="meta entry-meta" data='{}'>
+  <a class="entry-date" rel="bookmark" href="http://twitter.com/nytimes/status/142543831022313474">
+    <span class="published timestamp" data="{time:'Fri Dec 02 10:01:12 +0000 2011'}">about 8 hours ago</span></a>
+  <span>via <a href="http://www.nytimes.com/twitter" rel="nofollow">The New York Times</a></span>
+    
+  </span>
+
+        <ul class="meta-data clearfix">
+</ul>
+  </span>
+</li>
+          <li class="hentry u-nytimes status" id="status_142543828782563328"
+>
+    <span class="status-body">
+    <span class="status-content">
+                  <span class="entry-content">On Long Island, SAT Cheating Was Hardly a Secret <a href="http://t.co/zoSxrTgH" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">nyti.ms/shf1ku</a></span>
+          </span>
+    <span class="meta entry-meta" data='{}'>
+  <a class="entry-date" rel="bookmark" href="http://twitter.com/nytimes/status/142543828782563328">
+    <span class="published timestamp" data="{time:'Fri Dec 02 10:01:11 +0000 2011'}">about 8 hours ago</span></a>
+  <span>via <a href="http://www.nytimes.com/twitter" rel="nofollow">The New York Times</a></span>
+    
+  </span>
+
+        <ul class="meta-data clearfix">
+</ul>
+  </span>
+</li>
+          <li class="hentry u-nytimes status" id="status_142523229116960768"
+>
+    <span class="status-body">
+    <span class="status-content">
+                  <span class="entry-content">Cuomo Fund Fills With Money From Thankful Gay Donors <a href="http://t.co/QpexJGhQ" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">nyti.ms/voeXYC</a></span>
+          </span>
+    <span class="meta entry-meta" data='{}'>
+  <a class="entry-date" rel="bookmark" href="http://twitter.com/nytimes/status/142523229116960768">
+    <span class="published timestamp" data="{time:'Fri Dec 02 08:39:20 +0000 2011'}">about 9 hours ago</span></a>
+  <span>via <a href="http://www.nytimes.com/twitter" rel="nofollow">The New York Times</a></span>
+    
+  </span>
+
+        <ul class="meta-data clearfix">
+</ul>
+  </span>
+</li>
+          <li class="hentry u-nytimes status" id="status_142510913331793920"
+>
+    <span class="status-body">
+    <span class="status-content">
+                  <span class="entry-content">Daw Aung San Suu Kyi Endorses U.S.-Myanmar Overtures <a href="http://t.co/oucNtgox" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">nyti.ms/vQu22i</a></span>
+          </span>
+    <span class="meta entry-meta" data='{}'>
+  <a class="entry-date" rel="bookmark" href="http://twitter.com/nytimes/status/142510913331793920">
+    <span class="published timestamp" data="{time:'Fri Dec 02 07:50:24 +0000 2011'}">about 10 hours ago</span></a>
+  <span>via <a href="http://www.nytimes.com/twitter" rel="nofollow">The New York Times</a></span>
+    
+  </span>
+
+        <ul class="meta-data clearfix">
+</ul>
+  </span>
+</li>
+      </ol>
+
+  <div id="pagination">
+    <a href="/nytimes?max_id=142653405675008002&amp;page=2&amp;twttr=true" class="round more" id="more" rel="next">more</a>  </div>
+
+</div>
+
+
+
+
+
+                </div>
+                              </td>
+              
+                <td id="side_base" class="column round-right">
+                                  
+                  <div id="side">
+                      
+<div id="profile" class="section profile-side">
+  <span class="section-links">
+      </span>
+  <address>
+    <ul class="about vcard entry-author">
+      
+        <li class="verified-profile"><a href="/help/verified"><em>Verified Account</em></a></li>
+      
+      
+      
+        <li><span class="label">Name</span> <span class="fn">The New York Times</span></li>
+                  <li><span class="label">Location</span> <span class="adr">New York, NY</span></li>
+                          <li><span class="label">Web</span> <a href="http://www.nytimes.com/" class="url" rel="me nofollow" target="_blank">http://www.nytime...</a></li>
+                          <li id="bio"><span class="label">Bio</span> <span class="bio">Where the Conversation Begins. Follow breaking news, NYTimes.com home page articles, special features and more.</span></li>
+              
+    </ul>
+  </address>
+        
+
+
+<div class="stats">
+  <table>
+    <tr>
+      <td>
+      
+        
+
+<a href="/nytimes/following" id="following_count_link" class="link-following_page" rel="me" title="See who nytimes is following">
+  <span id="following_count" class="stats_count numeric">600 </span>
+  <span class="label">Following</span>
+</a>
+
+
+      </td>
+      <td>
+
+<a href="/nytimes/followers" id="follower_count_link" class="link-followers_page" rel="me" title="See who's following nytimes">
+  <span id="follower_count" class="stats_count numeric">4,068,347 </span>
+  <span class="label">Followers</span>
+</a>
+
+</td>
+              <td>
+
+<a href="/nytimes/lists/memberships" id="lists_count_link" class="link-lists_page" rel="me" title="See which lists nytimes is on">
+  <span id="lists_count" class="stats_count numeric">90,511 </span>
+  <span class="label">Listed</span>
+</a>
+
+</td>
+          </tr>
+  </table>
+  
+</div>
+  
+</div>
+
+  <ul id="primary_nav" class="sidebar-menu">
+    <li id="profile_tab"><a href="/nytimes" accesskey="u"><span id="update_count" class="stat_count">74,838</span><span>Tweets</span></a></li>
+    <li id="profile_favorites_tab"><a href="http://twitter.com/nytimes/favorites" accesskey="f"><span>Favorites</span></a></li>
+  </ul>
+
+
+
+  
+        <hr/>
+    <div id="side_lists">
+      <h2 class="sidebar-title"><span>Lists</span></h2>
+      
+        <ul class="sidebar-menu lists-links">
+          <li><a href="/nytimes/stevejobs" class="list_56152167" data="&#123;&quot;name&quot;:&quot;stevejobs&quot;,&quot;created_at&quot;:&quot;Thu Oct 06 00:00:03 +0000 2011&quot;,&quot;full_name&quot;:&quot;@nytimes\/stevejobs&quot;,&quot;dispatch_action&quot;:&quot;list&quot;,&quot;description&quot;:&quot;&quot;,&quot;mode&quot;:&quot;public&quot;,&quot;user&quot;:&quot;nytimes&quot;,&quot;uri&quot;:&quot;\/nytimes\/stevejobs&quot;,&quot;id_str&quot;:&quot;56152167&quot;,&quot;member_count&quot;:53,&quot;slug&quot;:&quot;stevejobs&quot;,&quot;id&quot;:56152167,&quot;following&quot;:false,&quot;subscriber_count&quot;:195&#125;" title="@nytimes/stevejobs"><span>@nytimes/<wbr/><b>stevejobs</b></span></a></li>
+<li><a href="/nytimes/sept11" class="list_54360635" data="&#123;&quot;name&quot;:&quot;Sept11&quot;,&quot;created_at&quot;:&quot;Sat Sep 10 16:48:55 +0000 2011&quot;,&quot;full_name&quot;:&quot;@nytimes\/sept11&quot;,&quot;dispatch_action&quot;:&quot;list&quot;,&quot;description&quot;:&quot;&quot;,&quot;mode&quot;:&quot;public&quot;,&quot;user&quot;:&quot;nytimes&quot;,&quot;uri&quot;:&quot;\/nytimes\/sept11&quot;,&quot;id_str&quot;:&quot;54360635&quot;,&quot;member_count&quot;:83,&quot;slug&quot;:&quot;sept11&quot;,&quot;id&quot;:54360635,&quot;following&quot;:false,&quot;subscriber_count&quot;:122&#125;" title="@nytimes/Sept11"><span>@nytimes/<wbr/><b>sept11</b></span></a></li>
+<li><a href="/nytimes/nyt-journalists" class="list_54340435" data="&#123;&quot;name&quot;:&quot;NYT Journalists&quot;,&quot;created_at&quot;:&quot;Sat Sep 10 09:57:18 +0000 2011&quot;,&quot;full_name&quot;:&quot;@nytimes\/nyt-journalists&quot;,&quot;dispatch_action&quot;:&quot;list&quot;,&quot;description&quot;:&quot;Our reporters, editors, photographers and producers on Twitter.&quot;,&quot;mode&quot;:&quot;public&quot;,&quot;user&quot;:&quot;nytimes&quot;,&quot;uri&quot;:&quot;\/nytimes\/nyt-journalists&quot;,&quot;id_str&quot;:&quot;54340435&quot;,&quot;member_count&quot;:426,&quot;slug&quot;:&quot;nyt-journalists&quot;,&quot;id&quot;:54340435,&quot;following&quot;:false,&quot;subscriber_count&quot;:1139&#125;" title="@nytimes/NYT Journalists"><span>@nytimes/<wbr/><b>nyt-journalists</b></span></a></li>
+<li><a href="/nytimes/libya" class="list_52972897" data="&#123;&quot;name&quot;:&quot;Libya&quot;,&quot;created_at&quot;:&quot;Sun Aug 21 22:01:53 +0000 2011&quot;,&quot;full_name&quot;:&quot;@nytimes\/libya&quot;,&quot;dispatch_action&quot;:&quot;list&quot;,&quot;description&quot;:&quot;Sources inside and outside Libya providing updates on the developments in Tripoli. &quot;,&quot;mode&quot;:&quot;public&quot;,&quot;user&quot;:&quot;nytimes&quot;,&quot;uri&quot;:&quot;\/nytimes\/libya&quot;,&quot;id_str&quot;:&quot;52972897&quot;,&quot;member_count&quot;:57,&quot;slug&quot;:&quot;libya&quot;,&quot;id&quot;:52972897,&quot;following&quot;:false,&quot;subscriber_count&quot;:724&#125;" title="@nytimes/Libya"><span>@nytimes/<wbr/><b>libya</b></span></a></li>
+<li><a href="/nytimes/bahrain" class="list_36229701" data="&#123;&quot;name&quot;:&quot;Bahrain&quot;,&quot;created_at&quot;:&quot;Fri Feb 18 17:41:53 +0000 2011&quot;,&quot;full_name&quot;:&quot;@nytimes\/bahrain&quot;,&quot;dispatch_action&quot;:&quot;list&quot;,&quot;description&quot;:&quot;On-the-ground sources tweeting about protests in Bahrain. &quot;,&quot;mode&quot;:&quot;public&quot;,&quot;user&quot;:&quot;nytimes&quot;,&quot;uri&quot;:&quot;\/nytimes\/bahrain&quot;,&quot;id_str&quot;:&quot;36229701&quot;,&quot;member_count&quot;:18,&quot;slug&quot;:&quot;bahrain&quot;,&quot;id&quot;:36229701,&quot;following&quot;:false,&quot;subscriber_count&quot;:118&#125;" title="@nytimes/Bahrain"><span>@nytimes/<wbr/><b>bahrain</b></span></a></li>
+<li><a href="/nytimes/egypt" class="list_34837197" data="&#123;&quot;name&quot;:&quot;Egypt&quot;,&quot;created_at&quot;:&quot;Sun Jan 30 16:25:18 +0000 2011&quot;,&quot;full_name&quot;:&quot;@nytimes\/egypt&quot;,&quot;dispatch_action&quot;:&quot;list&quot;,&quot;description&quot;:&quot;News, reaction and on-the-ground reports about protests in Egypt. &quot;,&quot;mode&quot;:&quot;public&quot;,&quot;user&quot;:&quot;nytimes&quot;,&quot;uri&quot;:&quot;\/nytimes\/egypt&quot;,&quot;id_str&quot;:&quot;34837197&quot;,&quot;member_count&quot;:38,&quot;slug&quot;:&quot;egypt&quot;,&quot;id&quot;:34837197,&quot;following&quot;:false,&quot;subscriber_count&quot;:682&#125;" title="@nytimes/Egypt"><span>@nytimes/<wbr/><b>egypt</b></span></a></li>
+        </ul>
+        <p class="sidebar-menu sidebar-menu-actions">
+          <span class="view-all"><a href="http://twitter.com/nytimes/lists">View all</a></span>
+        </p>
+          </div>
+      
+
+<hr/>
+
+
+  <div id="following">
+              
+    <h2 class="sidebar-title" id="fm_menu"><span>Following</span></h2>
+          <div class="sidebar-menu">
+  <div id="following_list">
+    
+  <span class="vcard">
+    <a href="/petereavis" class="url" hreflang="en" rel="contact" title="Peter Eavis"><img alt="Peter Eavis" class="photo fn" height="24" src="http://a2.twimg.com/profile_images/1159269183/image_mini.jpg" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/johnfisherburns" class="url" hreflang="en" rel="contact" title="John Fisher Burns"><img alt="John Fisher Burns" class="photo fn" height="24" src="http://a2.twimg.com/profile_images/1647275277/lk_port_27_mini.jpg" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/PowerLlama" class="url" hreflang="en" rel="contact" title="Austin Brown"><img alt="Austin Brown" class="photo fn" height="24" src="http://a1.twimg.com/profile_images/1378273837/beer_mini.jpg" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/emmagf" class="url" hreflang="en" rel="contact" title="Emma G. Fitzsimmons"><img alt="Emma G. Fitzsimmons" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1452684718/5960189052_a8fc1df1a4_s_mini.jpg" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/Harold_McGee" class="url" hreflang="en" rel="contact" title="Harold McGee"><img alt="Harold McGee" class="photo fn" height="24" src="http://a3.twimg.com/profile_images/1152134196/Harold_McGee_photo_-1_mini.jpg" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/RobbieBrown07" class="url" hreflang="en" rel="contact" title="Robbie Brown"><img alt="Robbie Brown" class="photo fn" height="24" src="http://a3.twimg.com/profile_images/1201749981/77867_674802483277_2606390_37708989_6257422_o_mini.jpg" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/Jo_Becker" class="url" hreflang="en" rel="contact" title="Jo Becker"><img alt="Jo Becker" class="photo fn" height="24" src="http://a1.twimg.com/profile_images/1471421248/IMG_2125_mini.JPG" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/micksussman" class="url" hreflang="en" rel="contact" title="Mick Sussman"><img alt="Mick Sussman" class="photo fn" height="24" src="http://a1.twimg.com/profile_images/1312373569/micksuss_mini.jpg" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/arianebernard" class="url" hreflang="en" rel="contact" title="Ariane B."><img alt="Ariane B." class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1091919163/6253_684952188165_412423_39727341_8300743_n_mini.jpg" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/mwollan" class="url" hreflang="en" rel="contact" title="Malia Wollan"><img alt="Malia Wollan" class="photo fn" height="24" src="http://a1.twimg.com/profile_images/1296379590/jump2_mini.jpg" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/viaSimonRomero" class="url" hreflang="en" rel="contact" title="Simon Romero"><img alt="Simon Romero" class="photo fn" height="24" src="http://a1.twimg.com/profile_images/1620258730/simon_haiti_tw_mini.jpg" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/jimrutenberg" class="url" hreflang="en" rel="contact" title="jimrutenberg"><img alt="jimrutenberg" class="photo fn" height="24" src="http://a1.twimg.com/profile_images/1633065548/radar_mini.jpg" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/pgeitner_iht" class="url" hreflang="en" rel="contact" title="Paul Geitner"><img alt="Paul Geitner" class="photo fn" height="24" src="http://a1.twimg.com/profile_images/1437230147/_DSC9054_copie_mini.jpg" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/deanemurphy" class="url" hreflang="en" rel="contact" title="Dean Murphy"><img alt="Dean Murphy" class="photo fn" height="24" src="http://a2.twimg.com/profile_images/1644668664/image_mini.jpg" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/SuzanneSpecNYT" class="url" hreflang="en" rel="contact" title="Suzanne Spector"><img alt="Suzanne Spector" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1544026542/hisgirlfriday.6872348_mini.jpg" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/meslackman" class="url" hreflang="en" rel="contact" title="Michael Slackman"><img alt="Michael Slackman" class="photo fn" height="24" src="http://a3.twimg.com/profile_images/1630991377/michael_n_mini.jpg" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/KirkSemple" class="url" hreflang="en" rel="contact" title="Kirk Semple"><img alt="Kirk Semple" class="photo fn" height="24" src="http://a3.twimg.com/profile_images/1647924362/me_at_tom_and_jan_farm_mini.JPG" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/noamcohen" class="url" hreflang="en" rel="contact" title="Noam Cohen"><img alt="Noam Cohen" class="photo fn" height="24" src="http://a3.twimg.com/profile_images/518160594/2222_mini.jpg" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/ddbutler" class="url" hreflang="en" rel="contact" title="David D. Butler"><img alt="David D. Butler" class="photo fn" height="24" src="http://a1.twimg.com/profile_images/196439273/me_mini.jpg" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/giacomonyt" class="url" hreflang="en" rel="contact" title="carol giacomo"><img alt="carol giacomo" class="photo fn" height="24" src="http://a1.twimg.com/profile_images/1239084040/MyPicture_mini.jpg" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/NYTnickc" class="url" hreflang="en" rel="contact" title="Nick Corasaniti"><img alt="Nick Corasaniti" class="photo fn" height="24" src="http://a1.twimg.com/profile_images/1597121381/NickCorasaniti_mini.JPG" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/nytrosenthal" class="url" hreflang="en" rel="contact" title="Elisabeth Rosenthal"><img alt="Elisabeth Rosenthal" class="photo fn" height="24" src="http://a1.twimg.com/profile_images/118220646/me_mini.jpg" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/joncaramanica" class="url" hreflang="en" rel="contact" title="Jon Caramanica"><img alt="Jon Caramanica" class="photo fn" height="24" src="http://a1.twimg.com/profile_images/455584611/Young_Buck_mini.jpg" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/spatrickfarrell" class="url" hreflang="en" rel="contact" title="Sean Patrick Farrell"><img alt="Sean Patrick Farrell" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1306810778/SPF_ISETT_ALASKA_mini.jpg" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/jskoff" class="url" hreflang="en" rel="contact" title="Jason Spingarn-Koff"><img alt="Jason Spingarn-Koff" class="photo fn" height="24" src="http://a3.twimg.com/profile_images/1611255470/Spingarn-Koff_NYTimes_2011_mini.jpg" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/libatiqua" class="url" hreflang="en" rel="contact" title="Libby Gery"><img alt="Libby Gery" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1240449002/libby_fb_mini.jpg" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/ssaulny" class="url" hreflang="en" rel="contact" title="susan saulny"><img alt="susan saulny" class="photo fn" height="24" src="http://a2.twimg.com/profile_images/1455750896/roof1_mini.JPG" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/joannanikasnyc" class="url" hreflang="en" rel="contact" title="Joanna Nikas"><img alt="Joanna Nikas" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1286771882/joanna_twitter_mini.jpg" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/kljohnso" class="url" hreflang="en" rel="contact" title="Kirk Johnson"><img alt="Kirk Johnson" class="photo fn" height="24" src="http://a1.twimg.com/profile_images/1130565475/P1010155_2_mini.JPG" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/campbellnyt" class="url" hreflang="en" rel="contact" title="Campbell Robertson"><img alt="Campbell Robertson" class="photo fn" height="24" src="http://a1.twimg.com/profile_images/1627924822/archyTAKE1_mini.gif" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/LizetteNYT" class="url" hreflang="en" rel="contact" title="Lizette Alvarez"><img alt="Lizette Alvarez" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1422127085/Lizette_Alvarez_mini.jpg" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/sudinan" class="url" hreflang="en" rel="contact" title="Susan Chira"><img alt="Susan Chira" class="photo fn" height="24" src="http://a1.twimg.com/sticky/default_profile_images/default_profile_2_mini.png" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/RobertMackey" class="url" hreflang="en" rel="contact" title="Robert Mackey"><img alt="Robert Mackey" class="photo fn" height="24" src="http://a3.twimg.com/profile_images/248157696/rm_profile_photo_zoom_mini.jpg" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/williamyardley" class="url" hreflang="en" rel="contact" title="William Yardley"><img alt="William Yardley" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1138994524/spaceneedle_mini.jpg" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/jennyschuessler" class="url" hreflang="en" rel="contact" title="Jenny Schuessler"><img alt="Jenny Schuessler" class="photo fn" height="24" src="http://a0.twimg.com/sticky/default_profile_images/default_profile_5_mini.png" width="24" /></a>  </span>
+
+
+  <span class="vcard">
+    <a href="/kchambrot" class="url" hreflang="en" rel="contact" title="Krysten Chambrot"><img alt="Krysten Chambrot" class="photo fn" height="24" src="http://a3.twimg.com/profile_images/503783852/kmc1_mini.jpg" width="24" /></a>  </span>
+
+
+  </div>
+    <div id="friends_view_all">
+    <a href="/nytimes/following" rel="me">View all&hellip;</a>
+  </div>
+  
+</div>
+
+        <hr/>
+  </div>
+
+
+
+
+
+  <div id="rssfeed">
+    <a href="/statuses/user_timeline/807095.rss" class="xref rss profile-rss" rel="alternate" type="application/rss+xml">RSS feed of nytimes's tweets</a>
+     <a href="/favorites/807095.rss" class="xref rss favorites-rss" rel="alternate" type="application/rss+xml">RSS feed of nytimes's favorites</a>
+  </div>
+
+
+
+
+                  </div>
+                                </td>
+              
+            </tr>
+          </tbody>
+        </table>
+      
+
+      
+  <div id="footer" class="round">
+      <h3 class="offscreen">Footer</h3>
+      
+      
+      <ul class="footer-nav">
+          <li class="first">&copy; 2011 Twitter</li>
+          <li><a href="/about">About Us</a></li>
+          <li><a href="/about/contact">Contact</a></li>
+          <li><a href="http://blog.twitter.com">Blog</a></li>
+          <li><a href="http://status.twitter.com">Status</a></li>
+                      <li><a href="/about/resources">Resources</a></li>
+                    <li><a href="//dev.twitter.com/">API</a></li>
+                      <li><a href="//business.twitter.com/">Business</a></li>
+                    <li><a href="//support.twitter.com">Help</a></li>
+          <li><a href="/help/jobs">Jobs</a></li>
+          <li><a href="/tos">Terms</a></li>
+          <li><a href="/privacy">Privacy</a></li>
+      </ul>
+  </div>
+
+
+
+    </div>
+
+    
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.3.0/jquery.min.js" type="text/javascript"></script>
+<script src="http://a0.twimg.com/a/1322778272/javascripts/twitter.js?1322782747" type="text/javascript"></script>
+<script src="http://a2.twimg.com/a/1322778272/javascripts/lib/jquery.tipsy.min.js?1322504248" type="text/javascript"></script>
+<script type='text/javascript' src='//www.google.com/jsapi'></script>
+<script src="http://a2.twimg.com/a/1322778272/javascripts/lib/gears_init.js?1322504248" type="text/javascript"></script>
+<script src="http://a3.twimg.com/a/1322778272/javascripts/lib/mustache.js?1322504248" type="text/javascript"></script>
+<script src="http://a3.twimg.com/a/1322778272/javascripts/geov1.js?1322782747" type="text/javascript"></script>
+<script src="http://a3.twimg.com/a/1322778272/javascripts/api.js?1322782747" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+$.cookie('tz_offset_sec', (-1 * (new Date()).getTimezoneOffset())*60);
+//]]>
+</script>
+  <script src="http://a3.twimg.com/a/1322778272/javascripts/lib/mustache.js?1322504248" type="text/javascript"></script>
+<script src="http://a1.twimg.com/a/1322778272/javascripts/dismissable.js?1322782747" type="text/javascript"></script>
+  
+
+<script type="text/javascript">
+//<![CDATA[
+  page.user_screenname = 'nytimes';
+  page.user_fullname = 'The New York Times';
+      page.controller_name = 'AccountController';
+      page.action_name = 'profile';
+      twttr.form_authenticity_token = 'b05c4af9fbdda6a0b394924882f201588691f571';
+      $.ajaxSetup({ data: { authenticity_token: 'b05c4af9fbdda6a0b394924882f201588691f571' } });
+
+      // FIXME: Reconcile with the kinds on the Status model.
+      twttr.statusKinds = {
+        UPDATE: 1,
+        SHARE: 2
+      };
+      twttr.ListPerUserLimit = 20;
+    
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+
+      $( function () {
+        
+      $("#sms_codes_link").hoverTip("#sms_codes");
+     initializePage();
+
+  
+
+  if (twttr.geo !== undefined) {
+    twttr.geo.options.show_place_details_in_map = true;
+  }
+
+(function(g){function b(){var c=g.location.href.split("#!");if(c[1]){g.location.replace(g.HBR = (c[0].replace(/\/*$/, "") + "/" + c[1].replace(/^\/*/, "")));}else return true}var a="onhashchange"in g;if(!a&&g.setAttribute){g.setAttribute("onhashchange","return;");a=typeof g.onhashchange==="function"}if(a)$(g).bind("hashchange",b);else{var d=function(){b()&&setTimeout(d,250)};setTimeout(d,250)}}(window));
+  $('#signin_menu').isSigninMenu();
+
+      });
+    
+//]]>
+</script>
+
+        <!-- BEGIN google analytics -->
+
+  <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  </script>
+
+  <script type="text/javascript">
+
+    try {
+      var pageTracker = _gat._getTracker("UA-30775-6");
+      pageTracker._setDomainName("twitter.com");
+            pageTracker._setVar('Not Logged In');
+            pageTracker._setVar('lang: en');
+            pageTracker._initData();
+                    
+          pageTracker._trackPageview('/profile/not_logged_in/nytimes');
+                  } catch(err) { }
+
+  </script>
+
+  <!-- END google analytics -->
+
+
+
+
+    <div id="notifications"></div>
+
+
+    
+
+    
+
+  </body>
+
+</html>

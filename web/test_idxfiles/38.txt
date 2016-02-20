@@ -1,0 +1,1149 @@
+Set-cookie: RMID=18ec18102c8a4ed9132e802d; expires=Saturday, 01-Dec-2012 18:04:30 GMT; path=/; domain=.nytimes.com
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Set-cookie: adxcs=s*2814a=0:1; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Technology News - The New York Times</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="noarchive">
+<meta name="description" content="Find breaking news, tech news and multimedia on the Internet, telecommunications, wireless applications, electronics, science, computers, e-mail and the Web." />
+<meta name="keywords" content="Computers and the Internet,Google Inc,Shopping and Retail,Research In Motion Ltd,Company Reports,Tablet Computers,Research In Motion Ltd,Campbell, George Jr,Wilson, Paul,Air Canada,Suspensions, Dismissals and Resignations,Rafferty, Brogan,Ohio,Beasley, Richard J.,Online Advertising,Murders and Attempted Murders,Classified Advertising,Labor and Jobs,Craigslist,Book Trade and Publishing,European Union,Value-Added Tax,E-Books and Readers,Carrier IQ,Genetics and Heredity,DNA (Deoxyribonucleic Acid),National Human Genome Research Institute,Computers and the Internet,Biotechnology,Beijing Genomics Institute,Research,Data Storage,Suspensions, Dismissals and Resignations,Olympus Corp,Japan,Boards of Directors,Woodford, Michael C,Research,European Union,Inventions and Patents,European Commission,Regulation and Deregulation of Industry,Thermostats,New Models, Design and Products,Nest,Computer and Video Games,Wii (Video Game System),Social Networking (Internet),Facebook Inc,Dancing,Salsa Dancing,Culture (Arts),Mobile Applications" />
+<meta name="asset_id" content="">
+<meta name="CG" content="technology">
+<meta name="SCG" content="">
+<meta name="PT" content="Section Front">
+<meta name="PST" content="">
+<link rel="canonical" href="http://www.nytimes.com/pages/technology/index.html">
+<meta name="msapplication-starturl" content="http://www.nytimes.com/" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.nytimes.com/services/xml/rss/nyt/Technology.xml"/>
+
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/build/sectionfront/technology/styles.css" />
+<link rel="stylesheet" type="text/css" media="print" href="http://graphics8.nytimes.com/css/0.1/print/styles.css">
+<!--[if IE]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie.css);
+	    </style>
+	<![endif]-->
+<!--[if IE 6]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie6.css);
+	    </style>
+	<![endif]-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/DropDown.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/util/tooltip.js"></script>
+<script type="text/JavaScript">
+		var static_kw = "Computers and the Internet;Google Inc;Shopping and Retail;Research In Motion Ltd;Company Reports;Tablet Computers;Research In Motion Ltd;Campbell; George Jr;Wilson; Paul;Air Canada;Suspensions; Dismissals and Resignations;Rafferty; Brogan;Ohio;Beasley; Richard J.;Online Advertising;Murders and Attempted Murders;Classified Advertising;Labor and Jobs;Craigslist;Book Trade and Publishing;European Union;Value-Added Tax;E-Books and Readers;Carrier IQ;Genetics and Heredity;DNA (Deoxyribonucleic Acid);National Human Genome Research Institute;Computers and the Internet;Biotechnology;Beijing Genomics Institute;Research;Data Storage;Suspensions; Dismissals and Resignations;Olympus Corp;Japan;Boards of Directors;Woodford; Michael C;Research;European Union;Inventions and Patents;European Commission;Regulation and Deregulation of Industry;Thermostats;New Models; Design and Products;Nest;Computer and Video Games;Wii (Video Game System);Social Networking (Internet);Facebook Inc;Dancing;Salsa Dancing;Culture (Arts);Mobile Applications";
+		var dynamic_kw = "Computers+and+the+Internet;Google+Inc;Shopping+and+Retail;Research+In+Motion+Ltd;Company+Reports;Tablet+Computers;Research+In+Motion+Ltd;Campbell;+George+Jr;Wilson;+Paul;Air+Canada;Suspensions;+Dismissals+and+Resignations;Rafferty;+Brogan;Ohio;Beasley;+Richard+J.;Online+Advertising;Murders+and+Attempted+Murders;Classified+Advertising;Labor+and+Jobs;Craigslist;Book+Trade+and+Publishing;European+Union;Value-Added+Tax;E-Books+and+Readers;Carrier+IQ;Genetics+and+Heredity;DNA+%28Deoxyribonucleic+Acid%29;National+Human+Genome+Research+Institute;Computers+and+the+Internet;Biotechnology;Beijing+Genomics+Institute;Research;Data+Storage;Suspensions;+Dismissals+and+Resignations;Olympus+Corp;Japan;Boards+of+Directors;Woodford;+Michael+C;Research;European+Union;Inventions+and+Patents;European+Commission;Regulation+and+Deregulation+of+Industry;Thermostats;New+Models;+Design+and+Products;Nest;Computer+and+Video+Games;Wii+%28Video+Game+System%29;Social+Networking+%28Internet%29;Facebook+Inc;Dancing;Salsa+Dancing;Culture+%28Arts%29;Mobile+Applications";
+		var nyt_google_contents = dynamic_kw + static_kw;
+		var nyt_google_ad_channel = "technology";
+	</script>
+<script type="text/javascript" src="http://use.typekit.com/fml4qar.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" src="http://js.nyt.com/js2/build/sitewide/sitewide.js"></script>
+<script type="text/javascript" src="http://js.nyt.com/js/app/lib/jquery/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+</head>
+<body>
+<a name="top"></a>
+<div id="shell">
+
+<ul id="memberTools">
+
+<!-- start text link -->
+<li class="cColumn-TextAdsHeader">Subscribe:
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/technology/index.html&pos=Bar1&sn2=2630ddf6/7cfc6770&sn1=2407a328/96bf5462&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-digi-hd-d3847U-h3847W&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fsubscriptions%2FMultiproduct%2Flp5558%2Ehtml%3Fadxc%3D162578%26adxa%3D267524%26page%3Dwww.nytimes.com/pages/technology/index.html%26pos%3DBar1%26campaignId%3D3847U" target="_blank">
+Digital</a> / <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/technology/index.html&pos=Bar1&sn2=2630ddf6/7cfc6770&sn1=8c0204ae/f0584be3&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-digi-hd-d3847U-h3847W&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DW47AF%26CMP%3D3847W" target="_blank">Home Delivery</a>
+</li>
+<!-- end text link -->
+
+ 
+                        <li><a id="memberToolsLogin" href="https://myaccount.nytimes.com/auth/login">Log In</a></li>
+            <li><a href="https://myaccount.nytimes.com/gst/regi.html">Register Now</a></li>
+                            
+
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+</ul>
+<div class="tabsContainer">
+<ul id="mainTabs" class="tabs">
+<li class="first mainTabHome"><a href="http://www.nytimes.com">Home Page</a></li>
+<li class="mainTabTodaysPaper"><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+<li class="mainTabVideo"><a href="http://www.nytimes.com/video">Video</a></li>
+<li class="mainTabMostPopular"><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+<li class="mainTabTimesTopics"><a href="http://topics.nytimes.com/top/reference/timestopics">Times Topics</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+</script>	<div id="page" class="tabContent active">
+<div class="clearfix" id="masthead">
+
+<div class="singleAd" id="Middle1C">
+<!-- ADXINFO classification="button" campaign="ING_DirectSiteSearchQ111_1694929-nyt1"--><A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/technology/index.html&pos=Middle1C&sn2=92ffb708/35e5dfd4&sn1=59756299/46b02203&camp=ING_DirectSiteSearchQ111_1694929-nyt1&ad=NEW.88x31.SiteSearch.Wizard&goto=http://ad.doubleclick.net/jump/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.30" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.30"
+ BORDER=0 WIDTH=88 HEIGHT=31
+ ALT="Click Here"></A>
+</div>
+
+<div id="searchWidget">
+<div class="inlineSearchControl">
+<form enctype="application/x-www-form-urlencoded" action="http://query.nytimes.com/search/sitesearch" method="get" name="searchForm" id="searchForm">
+<input type="hidden" value="full" name="date_select"/>
+<label for="searchQuery">Search All NYTimes.com</label>
+<input type="text" class="text" value="" size="" name="query" id="searchQuery"/>
+<input type="hidden" id="searchAll" name="type" value="nyt"/>
+<input type="image" id="searchSubmit" title="Search" alt="Search" width="22" height="19" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"/>
+</form>
+</div>
+</div>
+
+<div id="branding" >
+<a href="http://www.nytimes.com"><img src="http://graphics8.nytimes.com/images/misc/nytlogo152x23.gif" alt="New York Times" id="NYTLogo"/></a>
+</div>
+
+<div id="date">
+<p>
+Friday, December  2, 2011
+</p>
+</div>
+
+<h2 class="pageHeaderWithLabel">
+
+<span><a href="http://www.nytimes.com/pages/business/index.html">Business Day</a></span>
+
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</h2>
+
+</div>
+<div class="navigation tabsContainer">
+<ul class="tabs">
+<li id="navWorld" class="first ">
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>	<li id="navUs" >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>	<li id="navNyregion" >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>	<li id="navBusiness" >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>	<li id="navTechnology" class="selected">
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>	<li id="navScience" >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>	<li id="navHealth" >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>	<li id="navSports" >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>	<li id="navOpinion" >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>	<li id="navArts" >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>	<li id="navStyle" >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>	<li id="navTravel" >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>	<li id="navJobs" >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>	<li id="navRealestate" >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>	<li id="navAutomobiles" >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li></ul>
+</div>
+
+<div class="singleAd" id="TopAd">
+<!-- ADXINFO classification="leaderboard_728" campaign="Chief_Commercial_Claims_Branch_1767626-cla2"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/technology/index.html&pos=TopAd&sn2=d84e6329/ffd497f7&sn1=602c7b74/9486d27f&camp=Chief_Commercial_Claims_Branch_1767626-cla2&ad=10.18.11_CHI10037_NCS_728x90.gif&goto=https%3A%2F%2Fwww%2Ecia%2Egov%2Fcareers%2Fopportunities%2Fclandestine%2Fview%2Djobs%2Ehtml" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/28/04/ad.280408/10.18.11_CHI10037_NCS_728x90.gif" width="728" height="90" border="0"></a>
+
+</div>
+
+<div id="main">
+<div class="spanAB wrap">
+<div class="wideA">
+<div class="abColumn">
+<div class="aColumn">
+<!--cur:LedeStory395 prev:-->
+<div class="columnGroup first">
+<div class="ledeStory">
+<div class="storyHeader">
+<h1><a href="http://www.nytimes.com/2011/12/02/technology/companies/a-new-google-venture-nudges-web-boundaries.html?ref=technology">
+A New Google Venture, and Another Web Boundary Line Is Nudged</a></h1>
+<h6 class="byline">
+By CLAIRE CAIN MILLER and NICK BILTON            </h6>
+</div>
+<p class="summary">
+Google’s new plan to partner with retailers and start a delivery service is an example of how big tech companies are branching out and blurring the lines between their businesses.</p>
+</div>
+<div class="storyFollowsLede">
+<h3><a href="http://www.nytimes.com/2011/12/03/business/blackberry-maker-cuts-estimates-again.html?ref=technology">
+BlackBerry Maker Cuts Estimates Again</a></h3>
+<h6 class="byline">
+By IAN AUSTEN 
+<span class="timestamp">26 minutes ago</span>
+</h6>
+<p class="summary">
+Costs related to a worldwide shutdown of BlackBerry service during October and sluggish sales of phones led Research in Motion to warn that its third-quarter revenue would be lower than forecast.</p>
+</div>
+<div class="storyFollowsLede">
+<h3><a href="http://www.nytimes.com/2011/12/02/business/research-in-motion-employees-fined-for-disruption-on-plane.html?ref=technology">
+Two Research in Motion Employees Fined for Disruption on Plane</a></h3>
+<h6 class="byline">
+By IAN AUSTEN and SUSANNE CRAIG 
+</h6>
+<p class="summary">
+George Campbell and Paul A. Wilson pleaded guilty to a criminal count of mischief and were suspended from their positions pending an investigation.</p>
+</div>
+<div class="storyFollowsLede">
+<h6 class="kicker">DealBook</h6>
+<h3><a href="http://dealbook.nytimes.com/2011/12/02/zynga-aims-to-raise-up-to-1-billion/?ref=technology">
+Zynga Aims to Raise $1 Billion</a></h3>
+<h6 class="byline">
+By EVELYN M. RUSLI 
+<span class="timestamp">43 minutes ago</span>
+</h6>
+<p class="summary">
+Zynga, the online gaming company, has set the price range for its initial public offering at $8.50 to $10 a share, according to a filing submitted early Friday.</p>
+</div>
+<div class="storyFollowsLede">
+<h6 class="kicker">DealBook</h6>
+<h3><a href="http://dealbook.nytimes.com/2011/12/02/verizon-wireless-buys-spectrum-from-comcast-and-others-for-3-6-billion/?ref=technology">
+Verizon Wireless Buys Spectrum for $3.6 Billion</a></h3>
+<h6 class="byline">
+By AZAM AHMED 
+<span class="timestamp">11:27 AM ET</span>
+</h6>
+<p class="summary">
+Verizon says the 122 spectrum licenses being acquired will  allow it to improve its 4G products and could serve a potential 259 million additional customers.</p>
+</div>
+<div class="storyFollowsLede">
+<h3><a href="http://www.nytimes.com/2011/12/02/us/three-lured-to-death-in-ohio-by-craigslist-job-ad.html?ref=technology">
+Craigslist Used in Deadly Ploy to Lure Victims in Ohio</a></h3>
+<h6 class="byline">
+By ERICA GOODE 
+</h6>
+<p class="summary">
+Officials in Noble County, in rural southern Ohio, were alerted to the crimes after one man escaped with a gunshot wound to his arm.</p>
+<ul class="refer">
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001202807" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/02/us/three-lured-to-death-in-ohio-by-craigslist-job-ad.html"></span></li>
+</ul>
+</div>
+<div class="storyFollowsLede">
+<h3><a href="http://www.nytimes.com/2011/12/02/technology/eu-e-book-sales-hampered-by-tax-structure.html?ref=technology">
+European E-Book Sales Hampered by Tax Structure</a></h3>
+<h6 class="byline">
+By KEVIN J. O'BRIEN 
+</h6>
+<p class="summary">
+In Europe, e-books are taxed as high as 25 percent, much higher than printed books, leading some to believe publishers are being paid not to innovate.</p>
+</div>
+<div class="storyFollowsLede">
+<h6 class="kicker">Bits Blog</h6>
+<h3><a href="http://bits.blogs.nytimes.com/2011/12/01/programmer-raises-concerns-about-phone-monitoring-software/?ref=technology">
+Programmer Raises Concerns About Phone-Monitoring Software</a></h3>
+<h6 class="byline">
+By BRIAN X. CHEN 
+</h6>
+<p class="summary">
+A viral Internet video has raised privacy concerns about an obscure piece of data-collection software that is embedded in millions of cellphones. Trevor Eckhart, a 25-year-old programmer, shows that a program called Carrier IQ may be quietly logging much of a phone user's activity.</p>
+</div>
+</div>
+<!--cur:HeadlineOnly prev:LedeStory395-->
+<div class="columnGroup singleRule ">
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/01/business/dna-sequencing-caught-in-deluge-of-data.html?ref=technology">
+DNA Sequencing Caught in Deluge of Data</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/01/business/olympuss-ousted-chief-will-step-down-from-its-board.html?ref=technology">
+Olympus’s Ousted Chief Will Step Down From Its Board</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/01/business/global/europe-proposes-new-conditions-on-research-and-development.html?ref=technology">
+Europe Proposes New Conditions on Research and Development</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://dealbook.nytimes.com/2011/11/30/yahoo-board-leans-toward-selling-minority-stake/?ref=technology">
+DealBook: Yahoo Board Said to Lean Toward Sale of Minority Stake</a>
+</h6>
+</li>
+</ul>
+</div>
+<!--cur:StandardThumb prev:HeadlineOnly-->
+<div class="columnGroup singleRule last">
+<div id="multiPlayer" style="padding-top: 5px;">
+<!--bright cove code starts here  09/30/08 build//-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/bcvideo/1.0/iframe/embed.js"></script>
+<script type="text/javascript">
+	NYT_VideoPlayerStart( {
+	   playerType  : "section",
+	   playlistId  : "1194811622269"
+	} );
+</script>
+<!--bright cove code ends here //-->
+</div>
+</div>
+<div id="adxSponLink" class="columnGroup singleRule"></div>
+</div><!--close .aColumn -->
+<div class="bColumn">
+<div class="columnGroup SectionFront3Col first">
+<h6 class="sectionHeader">Personal Tech</h6><div class="story">
+<h6 class="kicker">State of the Art</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/01/technology/personaltech/nest-learning-thermostat-sets-a-standard-david-pogue.html?ref=technology">
+<img src="http://graphics8.nytimes.com/images/2010/06/01/technology/Pogue-190-for-Email/Pogue-190-for-Email-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/01/technology/personaltech/nest-learning-thermostat-sets-a-standard-david-pogue.html?ref=technology">
+A Thermostat That’s Clever, Not Clunky</a></h3>
+<h6 class="byline">
+By DAVID POGUE	    </h6>
+<p class="summary">
+The Nest Learning Thermostat can save on heating and cooling costs for your home. It even looks pretty on your wall.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/12/01/technology/personaltech/nest-learning-thermostat-sets-a-standard-david-pogue.html?ref=global-home#postcomment"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="Comment" style="margin-right: 3px; padding-top: 3px;" border="0"> Post a Comment</a> | <a href="http://www.nytimes.com/2011/12/01/technology/personaltech/nest-learning-thermostat-sets-a-standard-david-pogue.html?ref=global-home#commentsContainer">Read <span class="commentCountText" articleid="100000001199366"></span> </a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="relatedStories bitsPosts">
+<h3 class="sectionHeader">
+<a title="Bits Blog" href="http://bits.blogs.nytimes.com">
+<img alt="Bits Blog" src="http://graphics8.nytimes.com/images/blogs_v3/bits/bits_190.gif">
+</a> 
+</h3> 
+<div class="story first">
+<p class="date">December 2, 2011</p>
+<h3><a href="http://bits.blogs.nytimes.com/2011/12/02/justice-department-approves-googles-acquisition-of-admeld/">Justice Department Approves Google's Purchase of Admeld</a></h3>
+</div>
+<div class="story">
+<p class="date">December 2, 2011</p>
+<h3><a href="http://bits.blogs.nytimes.com/2011/12/02/daily-report-google-may-step-on-amazons-turf/">Daily Report: Google May Step on Amazon's Turf</a></h3>
+</div>
+<div class="story">
+<p class="date">December 2, 2011</p>
+<h3><a href="http://bits.blogs.nytimes.com/2011/12/02/rim-to-book-playbook-charge-in-quarter/">RIM to Book PlayBook Charge in Quarter</a></h3>
+</div>
+<div class="story">
+<p class="date">December 2, 2011</p>
+<h3><a href="http://bits.blogs.nytimes.com/2011/12/02/building-a-weather-app-that-sees-the-near-future/">Building a Weather App That Sees the (Near) Future</a></h3>
+</div>
+<div class="story last">
+<p class="date">December 2, 2011</p>
+<h3><a href="http://bits.blogs.nytimes.com/2011/12/02/zynga-aims-to-raise-1-billion/">Zynga Aims to Raise $1 Billion</a></h3>
+</div>
+</div> 
+</div>
+<div class="columnGroup doubleRule ">
+<div class="relatedStories aroundWeb">
+<h3 class="sectionHeader">
+<a title="Bits Blog" href="http://bits.blogs.nytimes.com/around-the-web/">Around the Web &#187;</a> 
+</h3> 
+<div class="story first">
+<div class="thumbnail">
+<a href="http://paidcontent.org/article/419-samsung-and-htc-hit-by-wiretapping-lawsuit-over-tracking-software/">
+<img width="50" height="50" border="0" src="http://graphics8.nytimes.com/images/2008/03/16/nyregion/15rcellphones-75.jpg" alt="http://paidcontent.org/article/419-samsung-and-htc-hit-by-wiretapping-lawsuit-over-tracking-software/">
+</a>
+</div>
+<p class="kicker">PaidContent</p>
+<h3><a href="http://paidcontent.org/article/419-samsung-and-htc-hit-by-wiretapping-lawsuit-over-tracking-software/">Samsung And HTC Hit By Wiretapping Lawsuit Over Tracking Software</a></h3>
+</div>
+<div class="story last">
+<div class="thumbnail">
+<a href="http://online.wsj.com/article/SB10001424052970204012004577072323400561792.html">
+<img width="50" height="50" border="0" src="http://graphics8.nytimes.com/images/2008/04/01/timestopics/AMAZON-395.jpg" alt="http://online.wsj.com/article/SB10001424052970204012004577072323400561792.html">
+</a>
+</div>
+<p class="kicker">Wall Street Journal</p>
+<h3><a href="http://online.wsj.com/article/SB10001424052970204012004577072323400561792.html">Google, Retailers in Fast-Delivery Talks</a></h3>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="relatedStories scuttlebot">
+<h3 class="sectionHeader flushBottom">
+<a href="http://bits.blogs.nytimes.com/around-the-web/" title="Scuttlebot">Scuttlebot &#187; 
+<div class="runaroundRight">
+<img alt="scuttlebot" src="http://graphics8.nytimes.com/images/blogs_v3/bits/bits_scuttlebot_graphic_SF.png"/>
+</div>
+</a>
+</h3>
+<p class="subHeader">News from the Web, annotated by our staff</p>
+<div class="singleRuleDivider flushTop"></div>
+<div class="story first">
+<h3>
+<a href="http://maps.google.com/maps/place?um=1&ie=UTF-8&q=carrier+iq&fb=1&gl=us&hq=carrier+iq&cid=3270451183699723088&ei=AQ3YTtSWBOn10gHnusXvDQ&sa=X&oi=local_result&ct=placepage-link&resnum=4&ved=0CEgQ4gkwAw">
+Carrier IQ Inc</a>
+<span class="kicker">| maps.google.com</span>
+</h3>
+<p class="summary">If you're in Mountain View and looking for cellphone diagnosticware, avoid Carrier IQ, say Google Places reviewers.<span><i> -&nbsp;
+<a class="byline" href="http://twitter.com/davidfg">David Gallagher</a>
+</i></span>
+</p>
+</div>
+<div class="story">
+<h3>
+<a href="http://googleblog.blogspot.com/2011/12/get-more-into-what-you-love-on-youtube.html">
+YouTube Redesign</a>
+<span class="kicker">| googleblog.blogspot.com</span>
+</h3>
+<p class="summary">Google's YouTube tries to increase time spent by new ways to get "channels" of videos, streams from Facebook and Google+<span><i> -&nbsp;
+<a class="byline" href="http://twitter.com/qhardy">Quentin Hardy</a>
+</i></span>
+</p>
+</div>
+<div class="story">
+<h3>
+<a href="http://www.kansascity.com/2011/11/30/3294024/for-1st-time-in-history-tv-ownership.html">
+First Time Ever, Net Drop in U.S. TVs</a>
+<span class="kicker">| KansasCity.com</span>
+</h3>
+<p class="summary">From 115.9 million TV households in 2011, Nielsen estimates 114.7 million homes in the U.S. will have a TV set next year<span><i> -&nbsp;
+<a class="byline" href="http://twitter.com/qhardy">Quentin Hardy</a>
+</i></span>
+</p>
+</div>
+<div class="story">
+<h3>
+<a href="http://www.colbertnation.com/the-colbert-report-videos/403350/november-30-2011/conservative-siri">
+Segment on Siri 11/30/2011</a>
+<span class="kicker">| The Colbert Report</span>
+</h3>
+<p class="summary">Mr. Colbert thinks Siri is a conservative.<span><i> -&nbsp;
+<a class="byline" href="http://twitter.com/ddarlin">Damon Darlin</a>
+</i></span>
+</p>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="story">
+<h6 class="kicker">Video Game Review</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/30/arts/video-games/the-legend-of-zelda-skyward-sword-by-nintendo-review.html?ref=technology">
+<img src="http://graphics8.nytimes.com/images/2011/11/29/arts/zelda/zelda-thumbStandard.jpg" width="75" height="75" alt="The Legend of Zelda: Skyward Sword, the latest entry in the series, is for the Wii, from Nintendo." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/30/arts/video-games/the-legend-of-zelda-skyward-sword-by-nintendo-review.html?ref=technology">
+Nostalgia Trip With an Old Friend</a></h3>
+<h6 class="byline">
+By SETH SCHIESEL	    </h6>
+<p class="summary">
+With The Legend of Zelda: Skyward Sword, for the Wii, Nintendo has released an old-school game for old-school players.</p>
+<ul class="refer">
+<li><a href="http://video.nytimes.com/video/2011/11/29/arts/video-games/100000001197615/trailer-the-legend-of-zelda.html" target="_blank"><img src="http://graphics.nytimes.com/images/multimedia/icons/video_icon.gif" alt="Video" width="12" height="9" border="0"> Trailer</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/ref/technology/techtalk.html?ref=technology">
+<img src="http://graphics8.nytimes.com/images/apps/podcasts/w75/bitstechtalk.gif" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/ref/technology/techtalk.html?ref=technology">
+Photo Play and Power Shopping</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Steve Lohr of The Times discusses new tools that can detect excessive retouching to digital photos and Patrick Carter of Digital Folio explains how his company’s price-comparison application works.</p>
+<ul class="refer">
+<li><strong>Subscribe: </strong> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=169241193">iTunes</a> | <a href="http://www.nytimes.com/services/xml/rss/nyt/podcasts/techtalk.xml">Other Software</a></li>
+<li><a href="http://www.nytimes.com/ref/technology/techtalk.html">Links Mentioned in the Podcast</a><script type="text/javascript">if(typeof deconcept=="undefined")document.write("\x3Cscript type='text/javascript' src='http://graphics8.nytimes.com/packages/html/multimedia/js/swfobject.js'\x3E\x3C/script\x3E");
+if(typeof writePlayer=="undefined")document.write("\x3Cscript type='text/javascript' src='http://graphics8.nytimes.com/packages/html/multimedia/js/NYTInlineEmbed.js'\x3E\x3C/script\x3E");</script></li>
+<li><script type="text/javascript">
+mm.AS = "20111130_Tech_Podcast";
+mm.AD = "1943";
+mm.AU = "http://dts.podtrac.nytimes.com/redirect.mp3/podcasts.nytimes.com/podcasts/2011/11/30/technology/30techtalk_pod/01techtalk.mp3"
+ ;
+mm.DI = true;
+mm.LI = false;
+mm.AH = "Listen to the Podcast";
+mm.IU = "";
+writePlayer();
+</script></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<a href="http://events.nytimes.com/gift-guide/holiday-2011/categories.html"><img src="http://graphics8.nytimes.com/images/apps/gift-guide/guide/holiday-2011/promos/giftguide2011-190b.png"></a>    
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<div class="columnGroup first">
+<a href="http://topics.nytimes.com/top/reference/timestopics/subjects/m/mobile_applications/index.html"><img src="http://graphics8.nytimes.com/packages/images/technology/app-index.jpg"></a>
+<p>
+<i>Browse all the mobile app coverage that has appeared in The New York Times by category, and see what Times writers have on their phones and tablets.</i></p>
+<p>
+<a href="http://topics.nytimes.com/top/reference/timestopics/subjects/m/mobile_applications/index.html">All Apps</a><br />
+<a title="News and Amusements" href="http://topics.nytimes.com/top/reference/timestopics/subjects/m/mobile_applications_news_and_amusements/index.html">News and Amusements</a> <br /><a title="Money" href="http://topics.nytimes.com/top/reference/timestopics/subjects/m/mobile_applications_social_networking_and_communications/index.html">Social and Communication</a><br><a title="Money" href="http://topics.nytimes.com/top/reference/timestopics/subjects/m/mobile_applications_money/index.html"> Money</a> <br />
+<a title="Travel and Food" href="http://topics.nytimes.com/top/reference/timestopics/subjects/m/mobile_applications_travel_and_food/index.html">Travel and Food</a> <br /> <a title="Tools and Resources" href="http://topics.nytimes.com/top/reference/timestopics/subjects/m/mobile_applications_tools_and_resources/index.html">Tools and Resources</a></p>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="columnGroup">
+<link rel="stylesheet" type="text/css"
+href="http://graphics8.nytimes.com/css/standalone/modules/screen/wallstreet/ondemand/general.css"
+/>
+<link rel="stylesheet" type="text/css"
+href="http://graphics8.nytimes.com/css/standalone/modules/screen/wallstreet/ondemand/box.css"
+/>
+<script type="text/javascript">
+        <!--
+                function insertWSODModule(file){
+                        var doc  =
+document.getElementsByTagName('head').item(0);
+                        var rnd  = "?"+Math.ceil(100*Math.random());
+                        var wsod = document.createElement('script');
+                        wsod.setAttribute('language','javascript');
+                        wsod.setAttribute('type','text/javascript');
+                        wsod.setAttribute('src',file+rnd);
+                        doc.appendChild(wsod);
+                }
+
+        //-->
+        </script>
+<div id="wsodMarkets" class="clearfix"> 
+<div id="wsodMarketsChart"></div>
+<script type="text/javascript">                     
+insertWSODModule("http://markets.on.nytimes.com/research/modules/technology/technology.asp");
+</script>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule last">
+
+
+<div class="singleAd" id="Box2">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/technology/index.html&pos=Box2&sn2=90a4c3ed/cc624b47&sn1=38d43609/ab3147cd&camp=nyt2011-circ-120x90-weekender-36H38&ad=071511-120x90-weekender-36H38&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DWC7AA%26CMP%3D36H38" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/13/ad.271312/11-0920_HDWeekender2_120x90.jpg" width="120" height="90" border="0"></a>
+
+</div>
+
+</div>
+</div><!--close .bColumn -->
+</div><!--close .abColumn -->
+<div class="cColumn">
+<!--Ads  -->                    <div class="columnGroup first">
+
+</div>
+<!--StandardThumbTwoCol Ads -->                    <div class="columnGroup ">
+<div id="standardThumbTwoCol" class="columnGroup fullWidth">
+<div class="columnGroup flushBottom">
+<h6 class="sectionHeader"><a href="http://www.nytimes.com/pages/technology/personaltech/index.html">More From Personal Tech »</a></h6>
+</div>
+<div class="subColumn-2 wrap">
+<div class="column">
+<div class="columnGroup">
+<div class="story">
+<div class="runaroundRight">
+<a href="http://www.nytimes.com/2011/12/01/technology/personaltech/12-things-you-didnt-know-facebook-could-do.html?ref=technology">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/technology/01basics-web/01basics-web-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/2011/12/01/technology/personaltech/12-things-you-didnt-know-facebook-could-do.html?ref=technology">
+12 Things You Didn’t Know Facebook Could Do</a></h5>
+</div>
+</div>
+</div>
+<div class="column lastColumn">
+<div class="columnGroup">
+<div class="story">
+<div class="runaroundRight">
+<a href="http://www.nytimes.com/2011/12/01/technology/personaltech/apps-that-make-you-feel-like-dancing.html?ref=technology">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/business/01-SMART2/01-SMART2-thumbStandard.jpg" width="75" height="75" alt="Pocket Salsa has 100 videos." border="0" />
+</a>
+</div>
+<h6 class="kicker">App Smart</h6>
+<h5><a href="http://www.nytimes.com/2011/12/01/technology/personaltech/apps-that-make-you-feel-like-dancing.html?ref=technology">
+Apps That Make You Feel Like Dancing</a></h5>
+</div>
+</div>
+</div>
+</div>    
+</div>	
+</div>
+<!--HeadlineOnlyNoKicker StandardThumbTwoCol -->                    <div class="columnGroup ">
+<h3 class="sectionHeader"><a href="http://gadgetwise.blogs.nytimes.com">   Gadgetwise &#187;</h3>
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://gadgetwise.blogs.nytimes.com/2011/11/30/tip-of-the-week-using-google-voice/?ref=technology">
+Tip of the Week: Using Google by Voice</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://gadgetwise.blogs.nytimes.com/2011/11/29/indoor-maps-for-android-users/?ref=technology">
+Indoor Maps for Android Users</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://gadgetwise.blogs.nytimes.com/2011/11/29/another-tethering-app-bites-the-dust/?ref=technology">
+Another Tethering App Bites the Dust</a>
+</h6>
+</li>
+</ul>
+</div>
+<!--Ads HeadlineOnlyNoKicker -->                    <div class="columnGroup ">
+
+			
+<div class="bigAd" id="SFMiddle">
+<!-- ADXINFO classification="bigad" campaign="IGG_SoftwareDJ1112-1780225-nyt2"--><div align="center"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/technology/index.html&pos=SFMiddle&sn2=4e96575a/bba92c9b&sn1=2250f0f4/cb4fa346&camp=IGG_SoftwareDJ1112-1780225-nyt2&ad=SoftwareDJ1112.300x250.FreeTrial.jpg&goto=http%3A%2F%2Fthequickenkiller%2Ecom%2Fibank%2Findex%2Ephp" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/28/49/ad.284991/IGG_SoftwareDJ1112_FreeTrial.jpg" width="300" height="250" border="0"></a>
+</div>
+</div>
+
+
+
+<div class="singleAd" id="Box3">
+<!-- ADXINFO classification="feature_squares" campaign="nyt2011-regilite-P1-TimesLimited-ros"--><iframe title="regilite" src="https://myaccount.nytimes.com/regilite?product=LT" width="336" height="90" marginheight="0" marginwidth="0" frameborder="0" vspace="0" hspace="0" scrolling="no"></iframe>
+</div>
+
+
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<div id="cnetMostPopWidget" class="singleRule">
+<a id="cnetLogoLink36" class="moveRight" href="http://www.cnet.com"></a>
+<h4>Most Popular Product Reviews</h4>
+<a id="cnetLogoLink40" href="http://www.cnet.com"></a>
+<div class="tabsContainer">
+<ul class="tabs">
+<li class="selected"><a href="#">CELLPHONES</a></li>
+<li><a href="#">CAMERAS</a></li>
+<li><a href="#">CAMCORDERS</a></li>
+</ul>
+</div>
+<div class="tabContent active" id="cellphones">
+<ul class="topPicksList">
+<li class="first">
+<a href="http://www.nytimes.com/technology/personaltech/cellphones/Samsung-Captivate-AT&amp;T/34121737.html" class="thumb"><img width="60" alt="Samsung Captivate (AT&amp;T)" src="http://i.i.com.com/cnwk.1d/sc/34121737-2-60-0.gif" border="0"></a><a href="http://www.nytimes.com/technology/personaltech/cellphones/Samsung-Captivate-AT&amp;T/34121737.html">Samsung Captivate (AT&amp;T)</a>
+</li>
+<li>
+<a href="http://www.nytimes.com/technology/personaltech/cellphones/HTC-Droid-Incredible-Verizon-Wireless/34064029.html" class="thumb"><img width="60" alt="HTC Droid Incredible (Verizon Wireless)" src="http://i.i.com.com/cnwk.1d/sc/34064029-2-60-0.gif" border="0"></a><a href="http://www.nytimes.com/technology/personaltech/cellphones/HTC-Droid-Incredible-Verizon-Wireless/34064029.html">HTC Droid Incredible (Verizon Wireless)</a>
+</li>
+<li class="last">
+<a href="http://www.nytimes.com/technology/personaltech/cellphones/Motorola-Droid-X-Verizon-Wireless/34122129.html" class="thumb"><img width="60" alt="Motorola Droid X (Verizon Wireless)" src="http://i.i.com.com/cnwk.1d/sc/34122129-2-60-0.gif" border="0"></a><a href="http://www.nytimes.com/technology/personaltech/cellphones/Motorola-Droid-X-Verizon-Wireless/34122129.html">Motorola Droid X (Verizon Wireless)</a>
+</li>
+</ul><div class="refer"><a href="http://www.nytimes.com/technology/personaltech/cellphones/overview.html">See all  Cellphones &raquo;</a></div>
+
+</div>
+<div class="tabContent" id="cameras">
+<ul class="topPicksList">
+<li class="first">
+<a href="http://www.nytimes.com/technology/personaltech/digital-cameras/Canon-PowerShot-S90/33765880.html" class="thumb"><img width="60" alt="Canon PowerShot S90" src="http://i.i.com.com/cnwk.1d/sc/33765880-2-60-0.gif" border="0"></a><a href="http://www.nytimes.com/technology/personaltech/digital-cameras/Canon-PowerShot-S90/33765880.html">Canon PowerShot S90</a>
+</li>
+<li>
+<a href="http://www.nytimes.com/technology/personaltech/digital-cameras/Sony-Cybershot-DSCHX5V/33939643.html" class="thumb"><img width="60" alt="Sony Cyber-shot DSC-HX5V" src="http://i.i.com.com/cnwk.1d/sc/33939643-2-60-0.gif" border="0"></a><a href="http://www.nytimes.com/technology/personaltech/digital-cameras/Sony-Cybershot-DSCHX5V/33939643.html">Sony Cyber-shot DSC-HX5V</a>
+</li>
+<li class="last">
+<a href="http://www.nytimes.com/technology/personaltech/digital-cameras/Canon-EOS-Rebel-T2i-with-1855mm-lens/33974698.html" class="thumb"><img width="60" alt="Canon EOS Rebel T2i (with 18-55mm lens)" src="http://i.i.com.com/cnwk.1d/sc/33974698-2-60-0.gif" border="0"></a><a href="http://www.nytimes.com/technology/personaltech/digital-cameras/Canon-EOS-Rebel-T2i-with-1855mm-lens/33974698.html">Canon EOS Rebel T2i (with 18-55mm lens)</a>
+</li>
+</ul><div class="refer"><a href="http://www.nytimes.com/technology/personaltech/digital-cameras/overview.html">See all  Digital Cameras &raquo;</a></div>
+
+</div>
+<div class="tabContent" id="camcorders">
+<ul class="topPicksList">
+<li class="first">
+<a href="http://www.nytimes.com/technology/personaltech/digital-camcorders/Flip-UltraHD-black/33637213.html" class="thumb"><img width="60" alt="Flip UltraHD (black)" src="http://i.i.com.com/cnwk.1d/sc/33637213-2-60-0.gif" border="0"></a><a href="http://www.nytimes.com/technology/personaltech/digital-camcorders/Flip-UltraHD-black/33637213.html">Flip UltraHD (black)</a>
+</li>
+<li>
+<a href="http://www.nytimes.com/technology/personaltech/digital-camcorders/Kodak-Playsport-black/33941237.html" class="thumb"><img width="60" alt="Kodak Playsport (black)" src="http://i.i.com.com/cnwk.1d/sc/33941237-2-60-0.gif" border="0"></a><a href="http://www.nytimes.com/technology/personaltech/digital-camcorders/Kodak-Playsport-black/33941237.html">Kodak Playsport (black)</a>
+</li>
+<li class="last">
+<a href="http://www.nytimes.com/technology/personaltech/digital-camcorders/Panasonic-HDCSD60K-black/33948147.html" class="thumb"><img width="60" alt="Panasonic HDC-SD60K (black)" src="http://i.i.com.com/cnwk.1d/sc/33948147-2-60-0.gif" border="0"></a><a href="http://www.nytimes.com/technology/personaltech/digital-camcorders/Panasonic-HDCSD60K-black/33948147.html">Panasonic HDC-SD60K (black)</a>
+</li>
+</ul><div class="refer"><a href="http://www.nytimes.com/technology/personaltech/digital-camcorders/overview.html">See all  Digital Camcorders &raquo;</a></div>
+
+</div>
+<script type="text/javascript">new Accordian("cnetMostPopWidget");</script>
+</div>
+<div class="singleRuleDivider"></div>
+<div class="columnGroup fullWidth">
+<div class="subColumn-2 wrap">
+<h3 class="sectionHeader columnGroup">Subscribe to Technology RSS Feeds</h3>
+<div class="column">
+<div class="columnGroup">
+<ul class="rssCcolumn">
+<li><a href="http://www.nytimes.com/services/xml/rss/nyt/Technology.xml">Technology News</a>
+<ul class="rssSubsection">
+<li><a href="http://www.nytimes.com/services/xml/rss/nyt/internet.xml">Internet</a></li>
+<li><a href="http://www.nytimes.com/services/xml/rss/nyt/start-ups.xml">Start-Ups</a></li>
+<li><a href="http://www.nytimes.com/services/xml/rss/nyt/business-computing.xml">Business Computing</a></li>
+<li><a href="http://www.nytimes.com/services/xml/rss/nyt/companies.xml">Companies</a></li>
+</ul>
+</li>
+</ul>					
+</div>
+</div>
+<div class="column last">
+<div class="columnGroup">
+<ul class="rssCcolumn">
+<li><a href="http://bits.blogs.nytimes.com/feed/">Bits Blog</a></li>
+<li><a href="http://www.nytimes.com/services/xml/rss/nyt/PersonalTech.xml">Personal Tech</a></li>
+<li><a href="http://pogue.blogs.nytimes.com/rss2.xml">Pogue’s Posts</a></li>
+</ul>
+</div>	
+</div>
+</div>
+</div>
+<div id="mostPopWidget" class="singleRule"> 
+
+      <!-- MOST POPULAR MODULE STARTS -->
+      <h4>MOST POPULAR - TECHNOLOGY</h4>
+         <div id="tabsContainer">
+         <ul class="tabs">
+            <li class="selected"><a href="#">E-Mailed</a></li>
+            <li><a href="#">Blogged</a></li>
+            
+            <li><a href="#">Viewed</a></li>
+            
+         </ul>
+         </div>
+            <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"></HEAD><div class="tabContent tabContentActive" id="mostEmailed"><ol>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/business/01-POGUE-JP1/01-POGUE-JP1-thumbStandard.jpg"  kicker="State of the Art"><a href="http://www.nytimes.com/2011/12/01/technology/personaltech/nest-learning-thermostat-sets-a-standard-david-pogue.html?src=me&amp;ref=technology" title="Click to go to this article">State of the Art: A Thermostat That&rsquo;s Clever, Not Clunky</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/technology/01basics-web/01basics-web-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/01/technology/personaltech/12-things-you-didnt-know-facebook-could-do.html?src=me&amp;ref=technology" title="Click to go to this article">12 Things You Didn&rsquo;t Know Facebook Could Do</a></li>
+<li kicker="Gadgetwise"><a href="http://gadgetwise.blogs.nytimes.com/2011/11/29/finding-good-apps-for-children-with-autism/?src=me&amp;ref=technology" title="Click to go to this article">Gadgetwise: Finding Good Apps for Children With Autism</a></li>
+<li kicker=""><a href="http://www.nytimes.com/2011/12/02/technology/companies/a-new-google-venture-nudges-web-boundaries.html?src=me&amp;ref=technology" title="Click to go to this article">A New Google Venture, and Another Web Boundary Line Is Nudged</a></li>
+<li kicker="App Smart"><a href="http://www.nytimes.com/2011/12/01/technology/personaltech/apps-that-make-you-feel-like-dancing.html?src=me&amp;ref=technology" title="Click to go to this article">App Smart: Apps That Make You Feel Like Dancing</a></li>
+<li kicker="Bits"><a href="http://bits.blogs.nytimes.com/2011/12/01/cloud-computing-endangers-older-tech-companies/?src=me&amp;ref=technology" title="Click to go to this article">Bits: Cloud Computing as a Threat to Older Tech Companies</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/technology/02ebook-pic/02ebook-pic-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/02/technology/eu-e-book-sales-hampered-by-tax-structure.html?src=me&amp;ref=technology" title="Click to go to this article">European E-Book Sales Hampered by Tax Structure</a></li>
+<li kicker="Pogue's Posts"><a href="http://pogue.blogs.nytimes.com/2011/12/01/nooks-advertising-is-corrected/?src=me&amp;ref=technology" title="Click to go to this article">Pogue's Posts: Nook's Advertising Is Corrected</a></li>
+<li kicker="Bits"><a href="http://bits.blogs.nytimes.com/2011/11/30/apple-says-siris-abortion-answers-are-a-glitch/?src=me&amp;ref=technology" title="Click to go to this article">Bits: Apple Says Siri's Abortion Answers Are a Glitch</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/29/business/Image1/Image1-thumbStandard-v2.jpg"  kicker=""><a href="http://www.nytimes.com/2011/11/29/technology/software-to-rate-how-drastically-photos-are-retouched.html?src=me&amp;ref=technology" title="Click to go to this article">Photoshopped or Not? A Tool to Tell</a></li>
+</ol>
+        <a class="more" href="http://www.nytimes.com/gst/mostemailed.html">Go to Complete List &#x00bb;</a>
+        </div><!-- #most emailed top10 -->
+
+            <div class="tabContent" id="mostBlogged">
+<ol>
+<li><a href="http://www.nytimes.com/2011/11/29/technology/software-to-rate-how-drastically-photos-are-retouched.html?bl" title="Click to go to this article">Software to Rate How Drastically Photos Are Retouched</a></li>
+<li><a href="http://www.nytimes.com/2011/11/29/technology/cyber-monday-sales-give-retailers-a-holiday-shopping-boost.html?bl" title="Click to go to this article">Cyber Monday Sales Give Retailers a Holiday Shopping Boost</a></li>
+<li><a href="http://www.nytimes.com/2011/11/30/technology/facebook-agrees-to-ftc-settlement-on-privacy.html?bl" title="Click to go to this article">Facebook Agrees to F.T.C. Settlement on Privacy</a></li>
+<li><a href="http://www.nytimes.com/2011/11/30/technology/a-proposal-for-eu-wide-data-protection-regulation.html?bl" title="Click to go to this article">A Proposal for E.U.-Wide Data Protection Regulation</a></li>
+<li><a href="http://www.nytimes.com/2011/12/01/technology/personaltech/nest-learning-thermostat-sets-a-standard-david-pogue.html?bl" title="Click to go to this article">Nest Learning Thermostat Sets a Standard - David Pogue</a></li>
+<li><a href="http://www.nytimes.com/2011/12/01/technology/personaltech/12-things-you-didnt-know-facebook-could-do.html?bl" title="Click to go to this article">12 Things You Didn't Know Facebook Could Do</a></li>
+<li><a href="http://www.nytimes.com/2005/10/08/technology/08photo.ready.html?bl" title="Click to go to this article">Why Do-It-Yourself Photo Printing Doesn't Add Up</a></li>
+</ol>
+<a class="more" href="http://www.nytimes.com/gst/mostblogged.html">Go to Complete List &#x00bb;</a>
+</div><!-- #most blogged top10 -->
+
+            
+            <div class="tabContent" id="mostViewed"><ol>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/technology/01basics-web/01basics-web-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/01/technology/personaltech/12-things-you-didnt-know-facebook-could-do.html?src=mv&amp;ref=technology" title="Click to go to this article">12 Things You Didn&rsquo;t Know Facebook Could Do</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/business/01-POGUE-JP1/01-POGUE-JP1-thumbStandard.jpg"  kicker="State of the Art"><a href="http://www.nytimes.com/2011/12/01/technology/personaltech/nest-learning-thermostat-sets-a-standard-david-pogue.html?src=mv&amp;ref=technology" title="Click to go to this article">State of the Art: A Thermostat That&rsquo;s Clever, Not Clunky</a></li>
+<li kicker=""><a href="http://www.nytimes.com/2011/12/02/technology/companies/a-new-google-venture-nudges-web-boundaries.html?src=mv&amp;ref=technology" title="Click to go to this article">A New Google Venture, and Another Web Boundary Line Is Nudged</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/29/business/Image1/Image1-thumbStandard-v2.jpg"  kicker=""><a href="http://www.nytimes.com/2011/11/29/technology/software-to-rate-how-drastically-photos-are-retouched.html?src=mv&amp;ref=technology" title="Click to go to this article">Photoshopped or Not? A Tool to Tell</a></li>
+<li kicker="Bits"><a href="http://bits.blogs.nytimes.com/2011/11/27/disruptions-fliers-must-turn-off-devices-but-its-not-clear-why/?src=mv&amp;ref=technology" title="Click to go to this article">Bits: Disruptions: Fliers Must Turn Off Devices, but It's Not Clear Why</a></li>
+<li kicker="Pogue's Posts"><a href="http://pogue.blogs.nytimes.com/2011/12/01/nooks-advertising-is-corrected/?src=mv&amp;ref=technology" title="Click to go to this article">Pogue's Posts: Nook's Advertising Is Corrected</a></li>
+<li kicker="Bits"><a href="http://bits.blogs.nytimes.com/2011/11/30/apple-says-siris-abortion-answers-are-a-glitch/?src=mv&amp;ref=technology" title="Click to go to this article">Bits: Apple Says Siri's Abortion Answers Are a Glitch</a></li>
+<li kicker="Bits"><a href="http://bits.blogs.nytimes.com/2011/12/01/cloud-computing-endangers-older-tech-companies/?src=mv&amp;ref=technology" title="Click to go to this article">Bits: Cloud Computing as a Threat to Older Tech Companies</a></li>
+<li kicker="Gadgetwise"><a href="http://gadgetwise.blogs.nytimes.com/2011/11/29/finding-good-apps-for-children-with-autism/?src=mv&amp;ref=technology" title="Click to go to this article">Gadgetwise: Finding Good Apps for Children With Autism</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/technology/02ebook-pic/02ebook-pic-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/02/technology/eu-e-book-sales-hampered-by-tax-structure.html?src=mv&amp;ref=technology" title="Click to go to this article">European E-Book Sales Hampered by Tax Structure</a></li>
+</ol>
+        </div><!-- #most viewed top10 -->
+
+            
+         <script type="text/javascript">new Accordian("mostPopWidget");</script>
+      <!-- MOST POPULAR MODULE ENDS -->
+   
+
+</div><!--close mostPopWidget -->
+</div>
+<!--Ads Simple -->                    <div class="columnGroup ">
+			
+
+<div class="bigAd" id="Box1">
+<!-- ADXINFO classification="Module" campaign="nyt2011_module_biz_piers_morgan_hp_ros_db"--><!-- MARKETING MODULE -->
+<div style="border:solid #999;border-width:1px;font-family:Arial,sans-serif;text-align:left; width:334px;background:#fff;" class="clearfix wrap">
+  <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/technology/index.html&pos=Box1&sn2=90a4c3ec/cc624d47&sn1=3cd7b396/8bf4d3f&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://mediadecoder.blogs.nytimes.com/2011/11/30/piers-morgan-struggles-to-beat-kings-ratings/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-PH%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm11/business_120211.jpg" width="334" height="154" border="0" alt=""></a> 
+  <div style="padding:7px 9px 0;background:#fff">
+      <h2 style="font-size:22px;line-height:24px; margin:0;padding:0 0 4px;"><a style="color:#004276;" target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/technology/index.html&pos=Box1&sn2=90a4c3ec/cc624d47&sn1=3cd7b396/8bf4d3f&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://mediadecoder.blogs.nytimes.com/2011/11/30/piers-morgan-struggles-to-beat-kings-ratings/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-HDR%26WT.mc_ev=click%26WT.mc_c=174041">Piers Morgan's struggle</a></h2>
+
+      <p style="margin:0 0 3px; padding:0;font-size: 11px;"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/technology/index.html&pos=Box1&sn2=90a4c3ec/cc624d47&sn1=dcca9a23/ff2c3589&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://nytimes.com/business/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-URL%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank" style="font-size:11px;margin:3px 0;padding:0;font-family:Arial,sans-serif;  color:#000; text-transform:uppercase;">Also in Business &raquo;</a></p>
+      <ul style="font-size:12px;margin:0; padding-bottom: 10px; border-bottom:1px solid #ccc;" class="refer">
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/technology/index.html&pos=Box1&sn2=90a4c3ec/cc624d47&sn1=7ddbcc18/6dfb3f78&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://dealbook.nytimes.com/2011/11/30/american-wont-be-the-last-airline-bankruptcy/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-L1%26WT.mc_ev=click%26WT.mc_c=174041" style="color: #004276">American won't be the last airline bankruptcy</a></li>
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/technology/index.html&pos=Box1&sn2=90a4c3ec/cc624d47&sn1=aada211/3630bfe3&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://www.nytimes.com/2011/11/30/business/media/pepto-bismol-highlights-overindulging-in-latest-campaign.html%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-L2%26WT.mc_ev=click%26WT.mc_c=174041" style="color: #004276">A look at Pepto-Bismol's new holiday commercials</a></li>
+      </ul>
+    </div>
+ 
+ <div style="padding:5px 9px; float:left; width:316px; background:#fff"> <a style="float:left" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/technology/index.html&pos=Box1&sn2=90a4c3ec/cc624d47&sn1=dcca9a23/ff2c3589&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://nytimes.com/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-LOGO%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/nytimes.gif" alt="nytimes.com" width="116" height="18" border="0"></a><a style="float:right" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/technology/index.html&pos=Box1&sn2=90a4c3ec/cc624d47&sn1=dcca9a23/ff2c3589&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://nytimes.com/business/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-VRT%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/verticals_business.gif" alt="Business" width="120" height="18" border="0"></a></div><br clear="all">
+
+</div>
+  <!-- /MARKETING MODULE -->
+
+</div>
+
+
+<div class="singleAd" id="Middle5">
+<!-- ADXINFO classification="feature_position" campaign="nyt2011-circ-middle5_promise-36H3U-38R9W-AK"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/technology/index.html&pos=Middle5&sn2=af2efd56/bb6c591d&sn1=4d66a43a/361c78b4&camp=nyt2011-circ-middle5_promise-36H3U-38R9W-AK&ad=092111-11a-middle5_promise-AK&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DW42CS%26CMP%3D36H3U" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/71/ad.277135/11-0922_HDGenericD2_336x79_AK.jpg" width="336" height="79" border="0"></a><div class='kj_cx'></div>
+<script type='text/javascript'>
+var kjData = {akin: 'NYT-IP-4d0abbb3acf67-y05', adWidth: 336, adHeight: 79, btnStyle: 2, crnr: 'bl'};
+if(!kjG){var kjG=[]}kjG.push(kjData);if(!kjLdr){var kjLdr={ld:function(){var b=document; var a=b.createElement('script');a.type='text/javascript';a.src='http://a.akncdn.com/adkeeper.1.0.js'; (b.getElementsByTagName('body')[0]||b.getElementsByTagName('head')[0]).appendChild(a) },init:function(){var a=window,b=document;if(b.addEventListener){a.addEventListener('load',this.ld,false) }else{if(a.attachEvent){a.attachEvent('onload',this.ld)}}}};kjLdr.init()}; </script>
+
+
+</div>
+
+
+
+<!--[TwoColumnAdLeft - Begin] -->
+	<div class="adHeader">
+<h4>
+Advertisements	    </h4>
+</div>
+<div class="cColumn-TextAdsBox">
+	<div class="cColumn-TextAdsLeft">
+<div class="cColumn-TextAd">
+<!-- ADXINFO classification="SiteForADay" campaign="nyt2011-mktg-arts_and_ents-s4d_ros"--><div style="width:320px; height:60px;"> 
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/technology/index.html&pos=Right5A&sn2=3164eeef/d1e52640&sn1=6a1102ca/9e7f5eda&camp=nyt2011-mktg-arts_and_ents-s4d_ros&ad=AR-D-I-NYT-AD-S4D-AandE-ROS-1211-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fevents%2Findex%2Ehtml%3FWT%2Emc%5Fid%3DAR%2DD%2DI%2DNYT%2DAD%2DS4D%2DAandE%2DROS%2D1211%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D175108" target="_blank"> 
+<img style="float:left; margin-right:10px;" src="http://graphics8.nytimes.com/adx/images/ADS/28/59/ad.285977/11-2187_ArtsEntertainment_86x60.gif" width="86" height="60" border="0" style="vertical-align:text-top;"></a>
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/technology/index.html&pos=Right5A&sn2=3164eeef/d1e52640&sn1=6a1102ca/9e7f5eda&camp=nyt2011-mktg-arts_and_ents-s4d_ros&ad=AR-D-I-NYT-AD-S4D-AandE-ROS-1211-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fevents%2Findex%2Ehtml%3FWT%2Emc%5Fid%3DAR%2DD%2DI%2DNYT%2DAD%2DS4D%2DAandE%2DROS%2D1211%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D175108" target="_blank">  <br />Introducing: The Interactive Arts & Entertainment Guide</a>
+</div>
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+</div>
+	</div>
+<!--[TwoColumnAdLeft - End] -->
+<div class="advertisementColumnGroup">
+<!--[MarketPlaceGridAd - Begin] -->
+
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+    <!--[MarketPlaceGridAd - End] -->
+</div>
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<div class="singleRule">
+<div class="story">
+<p class="disclaimer">Market data provided by Reuters. Copyright 2008 Reuters.</p>
+</div>
+<div class="story">
+<p class="disclaimer"><a href="javascript:pop_me_up2('http://markets.on.nytimes.com/nytimes/research/disclaimers/market_data/market_data.asp', '700_320', 'width=500,height=400,location=no,scrollbars=yes,toolbars=no,resizable=yes')">Click here</a> for limitations and restrictions on use and to read the disclaimer.</p>
+</div>
+</div>        	</div>
+<!--Ads Simple -->                    <div class="columnGroup last">
+
+<div class="singleAd" id="Feature1">
+<!-- ADXINFO classification="hp-module" campaign="feature1-1280FifthAve-18-1712178-cla"--><!--Ad Template Begins Here -->
+<div class="story advertisement">
+<div class="callout">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/technology/index.html&pos=Feature1&sn2=408c125b/f551db1c&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/15/ad.271512/7.23.11_BRK11-2614_1280_nyt.com_module_update2.jpg" width="173" height="98" border="0" alt="Click for Details"></a>
+</div>
+<h5>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/technology/index.html&pos=Feature1&sn2=408c125b/f551db1c&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank"></a>
+</h5>
+<p class="summary"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/technology/index.html&pos=Feature1&sn2=408c125b/f551db1c&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank">Designed by<br>Robert&nbsp;&nbsp;A.M. Stern<br>Overlooking Central Park<br>Up to 5 Bedrooms</a></p>
+<div class="adCreative">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/technology/index.html&pos=Feature1&sn2=408c125b/f551db1c&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/15/ad.271512/5.19.11_1280_logo_78x36.jpg" width="78" height="36"></a>
+</div>
+</div>
+<!--Ad Template Ends Here -->
+</div>
+
+
+<div class="singleAd" id="SponLink">
+<script language="JavaScript" type="text/javascript">
+    
+    // Sponlink_short
+
+    NYTD.GoogleAds.getGoogleAds("AFC", { 
+        google_ad_client:'nytimes_section_var',
+        ad_target_list:'sponLink'
+    });
+</script>
+</div>
+
+</div>
+</div><!--close cColumn -->
+</div><!--close wideA -->
+</div><!--close spanAB -->
+</div><!--close main -->
+<div id="footer">
+<ul class="first">
+<li class="first"><a href="http://www.nytimes.com">Home</a></li>
+<li >
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li>
+<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+</ul>    <ul>
+<li class="first"><a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&copy; 2011</a> <a href="http://www.nytco.com/">The New York Times Company</a></li>
+<li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Terms of Service</a></li>
+<li class="termsOfSale"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+<li><a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a></li>
+<li><a class="rssButton" href="http://www.nytimes.com/rss">RSS</a></li>
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+<li><a href="http://www.nytco.com/careers">Work for Us</a></li>
+<li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+</ul>
+</div>
+</div><!--close page -->
+</div><!--close shell -->
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/opinionlab/oo_engine_c.js"></script>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/opinionlab/oo_conf_en-US_float.js"></script>
+
+
+
+
+
+
+
+<IMG SRC="/adx/bin/clientside/3d62471dQ2FADXkQ5DzHQ5DDWkQ5EKKQ5DaFQ2755XHQ27a" height="1" width="3">
+
+<script type="text/javascript" language="JavaScript">
+// Written by /usr/local/knews/bin/commentcount.pl Fri Dec  2 13:02:02 2011
+var NYTArticleCommentCounts = {
+"100000001190843":{count:147, commentsEnabled:false},
+"100000001190858":{count:204, commentsEnabled:false},
+"100000001190907":{count:49, commentsEnabled:false},
+"100000001191255":{count:237, commentsEnabled:false},
+"100000001191704":{count:133, commentsEnabled:false},
+"100000001191724":{count:100, commentsEnabled:false},
+"100000001191950":{count:122, commentsEnabled:false},
+"100000001192133":{count:307, commentsEnabled:false},
+"100000001192329":{count:76, commentsEnabled:false},
+"100000001190961":{count:19, commentsEnabled:false},
+"100000001177231":{count:1, commentsEnabled:true},
+"100000001177245":{count:74, commentsEnabled:true},
+"100000001179958":{count:24, commentsEnabled:false},
+"100000001180322":{count:227, commentsEnabled:true},
+"100000001183078":{count:44, commentsEnabled:false},
+"100000001183080":{count:327, commentsEnabled:false},
+"100000001183081":{count:7, commentsEnabled:false},
+"100000001183084":{count:235, commentsEnabled:false},
+"100000001183087":{count:11, commentsEnabled:false},
+"100000001183089":{count:14, commentsEnabled:false},
+"100000001183090":{count:11, commentsEnabled:false},
+"100000001183091":{count:3, commentsEnabled:false},
+"100000001183094":{count:14, commentsEnabled:false},
+"100000001184186":{count:79, commentsEnabled:false},
+"100000001184524":{count:149, commentsEnabled:false},
+"100000001186117":{count:1, commentsEnabled:false},
+"100000001186193":{count:12, commentsEnabled:true},
+"100000001186569":{count:190, commentsEnabled:false},
+"100000001189184":{count:49, commentsEnabled:false},
+"100000001190721":{count:71, commentsEnabled:false},
+"100000001191577":{count:224, commentsEnabled:false},
+"100000001191688":{count:28, commentsEnabled:false},
+"100000001191719":{count:107, commentsEnabled:false},
+"100000001191931":{count:121, commentsEnabled:false},
+"100000001191985":{count:110, commentsEnabled:false},
+"100000001192057":{count:211, commentsEnabled:false},
+"100000001192188":{count:141, commentsEnabled:false},
+"100000001192496":{count:52, commentsEnabled:false},
+"100000001192500":{count:206, commentsEnabled:false},
+"100000001192600":{count:224, commentsEnabled:false},
+"100000001192611":{count:167, commentsEnabled:false},
+"100000001193250":{count:67, commentsEnabled:false},
+"100000001193262":{count:37, commentsEnabled:false},
+"100000001193344":{count:98, commentsEnabled:false},
+"100000001193527":{count:27, commentsEnabled:false},
+"100000001193629":{count:10, commentsEnabled:false},
+"100000001193702":{count:17, commentsEnabled:false},
+"100000001193743":{count:108, commentsEnabled:false},
+"100000001193763":{count:516, commentsEnabled:false},
+"100000001193825":{count:86, commentsEnabled:false},
+"100000001193857":{count:48, commentsEnabled:false},
+"100000001193859":{count:160, commentsEnabled:false},
+"100000001193890":{count:117, commentsEnabled:false},
+"100000001193920":{count:44, commentsEnabled:false},
+"100000001193944":{count:303, commentsEnabled:false},
+"100000001193948":{count:7, commentsEnabled:false},
+"100000001194088":{count:51, commentsEnabled:false},
+"100000001194098":{count:17, commentsEnabled:true},
+"100000001194137":{count:109, commentsEnabled:false},
+"100000001194342":{count:159, commentsEnabled:false},
+"100000001194394":{count:68, commentsEnabled:false},
+"100000001194454":{count:36, commentsEnabled:false},
+"100000001194795":{count:192, commentsEnabled:false},
+"100000001194808":{count:628, commentsEnabled:false},
+"100000001194892":{count:125, commentsEnabled:false},
+"100000001195360":{count:33, commentsEnabled:false},
+"100000001195689":{count:178, commentsEnabled:false},
+"100000001195802":{count:10, commentsEnabled:false},
+"100000001195854":{count:304, commentsEnabled:false},
+"100000001195914":{count:48, commentsEnabled:false},
+"100000001195920":{count:17, commentsEnabled:false},
+"100000001195923":{count:44, commentsEnabled:false},
+"100000001195938":{count:138, commentsEnabled:false},
+"100000001195940":{count:10, commentsEnabled:false},
+"100000001195947":{count:92, commentsEnabled:false},
+"100000001195952":{count:162, commentsEnabled:false},
+"100000001195976":{count:141, commentsEnabled:false},
+"100000001195982":{count:283, commentsEnabled:false},
+"100000001196229":{count:42, commentsEnabled:false},
+"100000001196250":{count:104, commentsEnabled:true},
+"100000001196432":{count:333, commentsEnabled:false},
+"100000001196658":{count:42, commentsEnabled:false},
+"100000001196737":{count:28, commentsEnabled:true},
+"100000001196861":{count:18, commentsEnabled:false},
+"100000001196955":{count:71, commentsEnabled:true},
+"100000001196963":{count:143, commentsEnabled:false},
+"100000001197064":{count:68, commentsEnabled:false},
+"100000001197489":{count:3, commentsEnabled:false},
+"100000001197999":{count:75, commentsEnabled:false},
+"100000001198014":{count:290, commentsEnabled:false},
+"100000001198050":{count:69, commentsEnabled:true},
+"100000001198076":{count:32, commentsEnabled:true},
+"100000001198092":{count:204, commentsEnabled:false},
+"100000001198110":{count:424, commentsEnabled:false},
+"100000001198123":{count:343, commentsEnabled:false},
+"100000001198126":{count:62, commentsEnabled:false},
+"100000001198138":{count:163, commentsEnabled:false},
+"100000001198377":{count:143, commentsEnabled:true},
+"100000001198446":{count:23, commentsEnabled:true},
+"100000001198471":{count:52, commentsEnabled:true},
+"100000001198476":{count:157, commentsEnabled:true},
+"100000001198581":{count:48, commentsEnabled:true},
+"100000001198642":{count:253, commentsEnabled:false},
+"100000001199366":{count:136, commentsEnabled:true},
+"100000001199374":{count:114, commentsEnabled:true},
+"100000001199444":{count:155, commentsEnabled:false},
+"100000001199658":{count:4, commentsEnabled:true},
+"100000001200046":{count:884, commentsEnabled:true},
+"100000001200335":{count:165, commentsEnabled:false},
+"100000001200378":{count:192, commentsEnabled:false},
+"100000001200458":{count:77, commentsEnabled:false},
+"100000001200844":{count:23, commentsEnabled:true},
+"100000001201276":{count:88, commentsEnabled:true},
+"100000001201525":{count:188, commentsEnabled:true},
+"100000001202361":{count:0, commentsEnabled:true},
+"100000001202521":{count:27, commentsEnabled:true},
+"100000001202701":{count:270, commentsEnabled:false},
+"100000001202807":{count:17, commentsEnabled:true},
+"100000001202815":{count:116, commentsEnabled:false},
+"100000001202831":{count:232, commentsEnabled:true},
+"100000001202861":{count:95, commentsEnabled:true},
+"100000001202869":{count:39, commentsEnabled:true},
+"100000001202871":{count:23, commentsEnabled:true},
+"100000001202889":{count:54, commentsEnabled:true},
+"100000001202895":{count:33, commentsEnabled:true},
+"100000001202901":{count:90, commentsEnabled:true},
+"100000001203208":{count:19, commentsEnabled:true},
+"100000001203416":{count:220, commentsEnabled:true},
+"100000001203664":{count:0, commentsEnabled:true},
+"100000001188908":{count:16, commentsEnabled:true},
+"100000001194403":{count:0, commentsEnabled:true},
+"100000001194404":{count:0, commentsEnabled:true},
+"100000001194405":{count:71, commentsEnabled:true},
+"100000001194406":{count:0, commentsEnabled:true},
+"100000001194419":{count:1, commentsEnabled:true},
+"100000001194423":{count:58, commentsEnabled:true},
+"100000001194424":{count:0, commentsEnabled:true},
+"100000001194425":{count:0, commentsEnabled:true},
+"100000001194427":{count:0, commentsEnabled:true},
+"100000001194843":{count:51, commentsEnabled:true},
+"100000001197746":{count:1, commentsEnabled:true},
+"100000001201815":{count:0, commentsEnabled:true},
+"100000001201989":{count:0, commentsEnabled:true}
+};
+</script>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/homepage/articleCommentCounts.js"></script>
+<script type="text/javascript" language="JavaScript">
+    ArticleCommentCounts.apply()
+    </script>
+
+			
+		<!-- Start UPT call -->
+		<img height="1" width="3" border=0 src="http://up.nytimes.com/?d=0/17/&t=3&s=0&ui=&r=&u=www%2enytimes%2ecom%2fpages%2ftechnology%2findex%2ehtml%3f">
+		<!-- End UPT call -->
+	
+		
+        <script language="JavaScript"><!--
+          var dcsvid="";
+          var regstatus="non-registered";
+        //--></script>
+        <script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+        <noscript>
+          <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div>
+        </noscript>
+   
+</body>
+</html>

@@ -1,0 +1,1154 @@
+Set-cookie: RMID=0c62dc7e25cf4ed9132ea149; expires=Saturday, 01-Dec-2012 18:04:30 GMT; path=/; domain=.nytimes.com
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Set-cookie: adxcs=s*28146=0:1; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>New York Region News - The New York Times</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="noarchive">
+<meta name="description" content="Breaking news from the New York Region including New York City, Westchester, Long Island, New Jersey and Connecticut." />
+<meta name="keywords" content="Queens (NYC),Small Business,Families and Family Life,Parenting,Antiques,Audio Recordings and Downloads,Coffeehouses,Carroll Gardens (NYC),Chefec, Joshua,Cheating,Education (K-12),Nassau County (NY),Eshaghoff, Samuel,ACT (Examination),SAT (College Admission Test),Same-Sex Marriage, Civil Unions and Domestic Partnerships,Cuomo, Andrew M,Campaign Finance,Politics and Government,New York State,Wildlife Conservation Society,Jenkins, Jerry,Global Warming,Adirondack Mountains (NY),Liquor,Gentrification,Harlem (NYC),Convenience Stores,Hermon, Ry-Ann,Bribery and Kickbacks,Boyland, William F Jr,Levy, Robert M,State Legislatures,New York State,Politics and Government,Brooklyn (NYC),City Council (NYC),New York City,Patterson, Robert P Jr,Seabrook, Larry B,Frauds and Swindling,Politics and Government,Bronx (NYC),New York City,Kruger, Carl,Malinsky, Aaron,Bribery and Kickbacks,Corruption (Institutional),New York State,Politics and Government,Graduation Rates,Education (K-12),Education Department (NYC),Bronx (NYC),Smalls, Sharron,Jane Addams High School for Academic Careers,Washington Heights (NYC),Crime and Criminals,Abortion,Almonte, Yaribely,New Jersey,Rieth, Glenn,National Guard,Christie, Christopher J,New York Times,Silverstein, Louis,Deaths (Obituaries),Art,Newspapers,Horse Racing,Veterinary Medicine,Gilman, Manuel,Deaths (Obituaries),Metropolitan Museum of Art,Museums,Museum of Fine Arts (Houston),Tinterow, Gary,Birds,Audubon Society, New York City,Connecticut,Lotteries,New York State,New Jersey,Fire Department (NYC),Bronx (NYC),Seabrook, Larry B,Blacks,New York City,City Council (NYC),Frauds and Swindling,Politics and Government,Fires and Firefighters,Parks and Other Recreation Areas,Architecture,Pedestrian Malls,Manhattan (NYC),Garvin, Alexander,Restoration and Renovation,Sidewalks,Area Planning and Renewal,Small Business,New York City,Families and Family Life,Family Business,Audio Recordings and Downloads,Antiques,Coffeehouses,Carroll Gardens (NYC),New Settlement Apartments,New York Times Neediest Cases Fund,Community Service Society of New York,Philanthropy" />
+<meta name="asset_id" content="">
+<meta name="CG" content="nyregion">
+<meta name="SCG" content="">
+<meta name="PT" content="Section Front">
+<meta name="PST" content="">
+<link rel="canonical" href="http://www.nytimes.com/pages/nyregion/index.html">
+<meta name="msapplication-starturl" content="http://www.nytimes.com/" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.nytimes.com/services/xml/rss/nyt/NYRegion.xml"/>
+
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/build/sectionfront/nyregion/styles.css" />
+<link rel="stylesheet" type="text/css" media="print" href="http://graphics8.nytimes.com/css/0.1/print/styles.css">
+<!--[if IE]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie.css);
+	    </style>
+	<![endif]-->
+<!--[if IE 6]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie6.css);
+	    </style>
+	<![endif]-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/DropDown.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/util/tooltip.js"></script>
+<script type="text/JavaScript">
+		var static_kw = "Queens (NYC);Small Business;Families and Family Life;Parenting;Antiques;Audio Recordings and Downloads;Coffeehouses;Carroll Gardens (NYC);Chefec; Joshua;Cheating;Education (K-12);Nassau County (NY);Eshaghoff; Samuel;ACT (Examination);SAT (College Admission Test);Same-Sex Marriage; Civil Unions and Domestic Partnerships;Cuomo; Andrew M;Campaign Finance;Politics and Government;New York State;Wildlife Conservation Society;Jenkins; Jerry;Global Warming;Adirondack Mountains (NY);Liquor;Gentrification;Harlem (NYC);Convenience Stores;Hermon; Ry-Ann;Bribery and Kickbacks;Boyland; William F Jr;Levy; Robert M;State Legislatures;New York State;Politics and Government;Brooklyn (NYC);City Council (NYC);New York City;Patterson; Robert P Jr;Seabrook; Larry B;Frauds and Swindling;Politics and Government;Bronx (NYC);New York City;Kruger; Carl;Malinsky; Aaron;Bribery and Kickbacks;Corruption (Institutional);New York State;Politics and Government;Graduation Rates;Education (K-12);Education Department (NYC);Bronx (NYC);Smalls; Sharron;Jane Addams High School for Academic Careers;Washington Heights (NYC);Crime and Criminals;Abortion;Almonte; Yaribely;New Jersey;Rieth; Glenn;National Guard;Christie; Christopher J;New York Times;Silverstein; Louis;Deaths (Obituaries);Art;Newspapers;Horse Racing;Veterinary Medicine;Gilman; Manuel;Deaths (Obituaries);Metropolitan Museum of Art;Museums;Museum of Fine Arts (Houston);Tinterow; Gary;Birds;Audubon Society; New York City;Connecticut;Lotteries;New York State;New Jersey;Fire Department (NYC);Bronx (NYC);Seabrook; Larry B;Blacks;New York City;City Council (NYC);Frauds and Swindling;Politics and Government;Fires and Firefighters;Parks and Other Recreation Areas;Architecture;Pedestrian Malls;Manhattan (NYC);Garvin; Alexander;Restoration and Renovation;Sidewalks;Area Planning and Renewal;Small Business;New York City;Families and Family Life;Family Business;Audio Recordings and Downloads;Antiques;Coffeehouses;Carroll Gardens (NYC);New Settlement Apartments;New York Times Neediest Cases Fund;Community Service Society of New York;Philanthropy";
+		var dynamic_kw = "Queens+%28NYC%29;Small+Business;Families+and+Family+Life;Parenting;Antiques;Audio+Recordings+and+Downloads;Coffeehouses;Carroll+Gardens+%28NYC%29;Chefec;+Joshua;Cheating;Education+%28K-12%29;Nassau+County+%28NY%29;Eshaghoff;+Samuel;ACT+%28Examination%29;SAT+%28College+Admission+Test%29;Same-Sex+Marriage;+Civil+Unions+and+Domestic+Partnerships;Cuomo;+Andrew+M;Campaign+Finance;Politics+and+Government;New+York+State;Wildlife+Conservation+Society;Jenkins;+Jerry;Global+Warming;Adirondack+Mountains+%28NY%29;Liquor;Gentrification;Harlem+%28NYC%29;Convenience+Stores;Hermon;+Ry-Ann;Bribery+and+Kickbacks;Boyland;+William+F+Jr;Levy;+Robert+M;State+Legislatures;New+York+State;Politics+and+Government;Brooklyn+%28NYC%29;City+Council+%28NYC%29;New+York+City;Patterson;+Robert+P+Jr;Seabrook;+Larry+B;Frauds+and+Swindling;Politics+and+Government;Bronx+%28NYC%29;New+York+City;Kruger;+Carl;Malinsky;+Aaron;Bribery+and+Kickbacks;Corruption+%28Institutional%29;New+York+State;Politics+and+Government;Graduation+Rates;Education+%28K-12%29;Education+Department+%28NYC%29;Bronx+%28NYC%29;Smalls;+Sharron;Jane+Addams+High+School+for+Academic+Careers;Washington+Heights+%28NYC%29;Crime+and+Criminals;Abortion;Almonte;+Yaribely;New+Jersey;Rieth;+Glenn;National+Guard;Christie;+Christopher+J;New+York+Times;Silverstein;+Louis;Deaths+%28Obituaries%29;Art;Newspapers;Horse+Racing;Veterinary+Medicine;Gilman;+Manuel;Deaths+%28Obituaries%29;Metropolitan+Museum+of+Art;Museums;Museum+of+Fine+Arts+%28Houston%29;Tinterow;+Gary;Birds;Audubon+Society;+New+York+City;Connecticut;Lotteries;New+York+State;New+Jersey;Fire+Department+%28NYC%29;Bronx+%28NYC%29;Seabrook;+Larry+B;Blacks;New+York+City;City+Council+%28NYC%29;Frauds+and+Swindling;Politics+and+Government;Fires+and+Firefighters;Parks+and+Other+Recreation+Areas;Architecture;Pedestrian+Malls;Manhattan+%28NYC%29;Garvin;+Alexander;Restoration+and+Renovation;Sidewalks;Area+Planning+and+Renewal;Small+Business;New+York+City;Families+and+Family+Life;Family+Business;Audio+Recordings+and+Downloads;Antiques;Coffeehouses;Carroll+Gardens+%28NYC%29;New+Settlement+Apartments;New+York+Times+Neediest+Cases+Fund;Community+Service+Society+of+New+York;Philanthropy";
+		var nyt_google_contents = dynamic_kw + static_kw;
+		var nyt_google_ad_channel = "nyregion";
+	</script>
+<script type="text/javascript" src="http://use.typekit.com/fml4qar.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" src="http://js.nyt.com/js2/build/sitewide/sitewide.js"></script>
+<script type="text/javascript" src="http://js.nyt.com/js/app/lib/jquery/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+</head>
+<body>
+<a name="top"></a>
+<div id="shell">
+
+<ul id="memberTools">
+
+ 
+                        <li><a id="memberToolsLogin" href="https://myaccount.nytimes.com/auth/login">Log In</a></li>
+            <li><a href="https://myaccount.nytimes.com/gst/regi.html">Register Now</a></li>
+                            
+
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+</ul>
+<div class="tabsContainer">
+<ul id="mainTabs" class="tabs">
+<li class="first mainTabHome"><a href="http://www.nytimes.com">Home Page</a></li>
+<li class="mainTabTodaysPaper"><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+<li class="mainTabVideo"><a href="http://www.nytimes.com/video">Video</a></li>
+<li class="mainTabMostPopular"><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+<li class="mainTabTimesTopics"><a href="http://topics.nytimes.com/top/reference/timestopics">Times Topics</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+</script>	<div id="page" class="tabContent active">
+<div class="clearfix" id="masthead">
+
+<div class="singleAd" id="Middle1C">
+<!-- ADXINFO classification="button" campaign="ING_DirectSiteSearchQ111_1694929-nyt1"--><A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/nyregion/index.html&pos=Middle1C&sn2=a26f75c3/6e4be44a&sn1=59756299/46b02203&camp=ING_DirectSiteSearchQ111_1694929-nyt1&ad=NEW.88x31.SiteSearch.Wizard&goto=http://ad.doubleclick.net/jump/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.30" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.30"
+ BORDER=0 WIDTH=88 HEIGHT=31
+ ALT="Click Here"></A>
+</div>
+
+<div id="searchWidget">
+<div class="inlineSearchControl">
+<form enctype="application/x-www-form-urlencoded" action="http://query.nytimes.com/search/sitesearch" method="get" name="searchForm" id="searchForm">
+<input type="hidden" value="full" name="date_select"/>
+<label for="searchQuery">Search All NYTimes.com</label>
+<input type="text" class="text" value="" size="" name="query" id="searchQuery"/>
+<input type="hidden" id="searchAll" name="type" value="nyt"/>
+<input type="image" id="searchSubmit" title="Search" alt="Search" width="22" height="19" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"/>
+</form>
+</div>
+</div>
+
+<div id="branding" >
+<a href="http://www.nytimes.com"><img src="http://graphics8.nytimes.com/images/misc/nytlogo152x23.gif" alt="New York Times" id="NYTLogo"/></a>
+</div>
+
+<div id="date">
+<p>
+Friday, December  2, 2011
+</p>
+</div>
+
+<h2>
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</h2>
+
+</div>
+<div class="navigation tabsContainer">
+<ul class="tabs">
+<li id="navWorld" class="first ">
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>	<li id="navUs" >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>	<li id="navNyregion" class="selected">
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>	<li id="navBusiness" >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>	<li id="navTechnology" >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>	<li id="navScience" >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>	<li id="navHealth" >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>	<li id="navSports" >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>	<li id="navOpinion" >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>	<li id="navArts" >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>	<li id="navStyle" >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>	<li id="navTravel" >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>	<li id="navJobs" >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>	<li id="navRealestate" >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>	<li id="navAutomobiles" >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li></ul>
+</div>
+
+<div class="singleAd" id="TopAd">
+<!-- ADXINFO classification="leaderboard_728" campaign="Baby_Buggy_1782769-nyt13"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/nyregion/index.html&pos=TopAd&sn2=f2733d20/944a2fc1&sn1=605ab3aa/26441441&camp=Baby_Buggy_1782769-nyt13&ad=728x90_BabyBuggy&goto=http%3A%2F%2Fbabybuggy%2Eorg%2Fnews%2Devents%2Fevents%2F" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/28/52/ad.285294/BB_10YR_NYT_LEADERBOARD_BANNER.gif" width="728" height="90" border="0"></a>
+
+</div>
+
+<div id="main">
+<div class="spanAB wrap">
+<div class="wideA">
+<div class="abColumn">
+<div class="aColumn">
+<!--cur:LedeStory395 prev:-->
+<div class="columnGroup first">
+<h6 class="sectionHeader">Metropolitan</h6>
+<div class="ledeStory">
+<div class="storyHeader">
+<h6 class="kicker">In the Family</h6>
+<h1><a href="http://www.nytimes.com/2011/12/04/nyregion/running-queens-school-day-care-center-tests-family-boundaries.html?ref=nyregion">
+Mom and Pop and More</a></h1>
+<h6 class="byline">
+By DIANE CARDWELL            </h6>
+</div>
+<div class="ledePhoto">
+<div class="image">
+<a href="http://www.nytimes.com/2011/12/04/nyregion/running-queens-school-day-care-center-tests-family-boundaries.html?ref=nyregion"><img src="http://graphics8.nytimes.com/images/2011/12/04/nyregion/04FAMILY2/04FAMILY2-sfSpan.jpg" border="0" width="395" height="262" alt="Denice Jeffries-El, the educational director of A Child’s Place, with her daughter, DiLynn, at the center." /></a>
+</div>
+<h6 class="credit">Chang W. Lee/The New York Times</h6>
+<p class="caption">Denice Jeffries-El, the educational director of A Child’s Place, with her daughter, DiLynn, at the center.</p>
+</div>
+<p class="summary">
+The Coles family runs A Child’s Place, a day care center and school in Queens, at times finding it difficult to navigate the personal and professional boundaries.</p>
+<ul class="refer">
+<li><a href="http://video.nytimes.com/video/2011/05/22/nyregion/100000000810859/third-generation-businesses.html"><span class="icon video">Video</span>: Third Generation Businesses</a>
+</li>
+<li><a href="http://www.nytimes.com/2011/06/19/nyregion/an-american-family-mom-sperm-donor-lover-child.html">First in the Series</a> | <a href="http://www.nytimes.com/2011/07/24/nyregion/the-story-of-the-van-dusen-family-one-of-manhattans-oldest.html">Second in the Series</a> | <a href="http://www.nytimes.com/2011/09/25/nyregion/one-roof-three-generations-portrait-of-a-chinese-american-family.html">Third in the Series</a></li>
+</ul>
+</div>
+</div>
+<!--cur:StandardThumb prev:LedeStory395-->
+<div class="columnGroup ">
+<div class="story">
+<h6 class="kicker">Neighborhood Joint | Carroll Gardens</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/04/nyregion/where-hunters-of-vinyl-and-other-treasures-load-up.html?ref=nyregion">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/nyregion/04JOINT1_SPAN/04JOINT1_SPAN-thumbStandard.jpg" width="75" height="75" alt="A customer browses the bins at Black Gold Records, store in the Carroll Gardens neighborhood of Brooklyn that offers records, coffee and antiques." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/04/nyregion/where-hunters-of-vinyl-and-other-treasures-load-up.html?ref=nyregion">
+Funkadelic Sold Here, on Vinyl</a></h3>
+<h6 class="byline">
+By BRENDAN SPIEGEL				<span class="timestamp">4:35 PM ET</span>
+</h6>
+<p class="summary">
+At Black Gold, lovers of vinyl records can also sift through antiques and objects of curiosity to their hearts’ content.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/slideshow/2011/12/04/nyregion/joint-black-gold-records.html"><span class="icon slideshow">Slide Show</span>: Neighborhood Joint | Black Gold Records</a></li>
+</ul>
+<ul class="refer flush"><li><a href="http://topics.nytimes.com/top/features/timestopics/series/neighborhood_joint/index.html">More Articles in the Series &raquo;</a></li>
+</ul></div>
+</div>
+<!--cur:BlogModule prev:StandardThumb-->
+<div class="columnGroup singleRule ">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://cityroom.blogs.nytimes.com/" title="City Room: Blogging From the Five Boroughs">
+<img src="http://graphics8.nytimes.com/images/blogs/cityroom/cr_section_header.gif" alt="City Room: Blogging From the Five Boroughs"/>
+</a> 
+</h3> <div class="story first">
+<p class="date">December 2, 2011 <span class="timestamp">11:00 AM ET</span></p><h3><a href="http://cityroom.blogs.nytimes.com/2011/12/02/q-and-a-with-vivian-toy-the-apartment-critic/?ref=nyregion">Q. and A. With Vivian Toy: The Apartment Critic</a></h3>
+<h6 class="byline"> By THE NEW YORK TIMES </h6> 
+<p class="summary">
+A real estate reporter for The Times who has visited nearly 600 Manhattan apartments fields your questions about buying, selling and related concerns.</p>
+</div><div class="story">
+<p class="date">December 2, 2011 <span class="timestamp">10:53 AM ET</span></p><h3><a href="http://cityroom.blogs.nytimes.com/2011/12/02/the-city-comes-into-view/?ref=nyregion">With Leaves Gone, the City Comes Into View</a></h3>
+<h6 class="byline"> By MARIELLE ANZELONE </h6> 
+<p class="summary">
+Autumn Unfolds: The loss of leaves has opened a vista in Inwood Hill Park in Upper Manhattan, and the city has come to us.</p>
+</div><div class="story">
+<p class="date">December 2, 2011 <span class="timestamp">10:13 AM ET</span></p><h3><a href="http://cityroom.blogs.nytimes.com/2011/12/02/tiff-over-mural-in-fiat-commercial-is-resolved/?ref=nyregion">Tiff Over Mural in Fiat Commercial Is Resolved</a></h3>
+<h6 class="byline"> By THE NEW YORK TIMES </h6> 
+<p class="summary">
+The Bronx muralists whose work was used without permission in a Fiat commercial starring Jennifer Lopez will be getting, at the very least, a free car by way of compensation, which they say they will paint and put up for auction to benefit charity.</p>
+</div><p class="refer">
+<a href="http://cityroom.blogs.nytimes.com/" title="Go to City Room">Go to City Room &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<!--cur:StandardThumb prev:BlogModule-->
+<div class="columnGroup singleRule ">
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/education/on-long-island-sat-cheating-was-hardly-a-secret.html?ref=nyregion">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/nyregion/Y-SAT1/Y-SAT1-thumbStandard.jpg" width="75" height="75" alt="Great Neck North High School on Long Island, where the cheating inquiry began and the authorities were contacted." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/education/on-long-island-sat-cheating-was-hardly-a-secret.html?ref=nyregion">
+Exam Cheating on Long Island Hardly a Secret</a></h3>
+<h6 class="byline">
+By JENNY ANDERSON and PETER APPLEBOME	    </h6>
+<p class="summary">
+Charges that 20 students took SAT or ACT tests for others, or paid a test-taker, reflect the college admissions rat race.</p>
+<ul class="refer">
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001202869" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/02/education/on-long-island-sat-cheating-was-hardly-a-secret.html"></span></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/nyregion/cuomo-fund-fills-with-money-from-thankful-gay-donors.html?ref=nyregion">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/nyregion/JP-CUOMO/JP-CUOMO-thumbStandard.jpg" width="75" height="75" alt="Gov. Andrew M. Cuomo “has delivered for us,” said a gay rights activist, who said his constituency would assist the governor." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/nyregion/cuomo-fund-fills-with-money-from-thankful-gay-donors.html?ref=nyregion">
+After Pushing Gay Marriage, Cuomo Is Thanked With Money</a></h3>
+<h6 class="byline">
+By THOMAS KAPLAN	    </h6>
+<p class="summary">
+Gov. Andrew M. Cuomo is going to Los Angeles for a fund-raiser in his honor, following four in New York since spring that drew on supporters of same-sex marriage.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/nyregion/fearing-climate-changes-effects-on-the-adirondacks.html?ref=nyregion">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/nyregion/ADIRONDACKS1/ADIRONDACKS1-thumbStandard.jpg" width="75" height="75" alt="A full moon rising over Osgood Pond near Paul Smiths, N.Y." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/nyregion/fearing-climate-changes-effects-on-the-adirondacks.html?ref=nyregion">
+Savoring Bogs and Moose, Fearing They’ll Vanish as the Adirondacks Warm</a></h3>
+<h6 class="byline">
+By LISA W. FODERARO	    </h6>
+<p class="summary">
+Jerry Jenkins, an ecologist, documents the ecosystem of the Adirondacks and laments its future in the face of global climate change’s local effects.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/slideshow/2011/12/02/nyregion/02Adirondacks.html"><span class="icon slideshow">Slide Show</span>: Documenting Climate Change in the Adirondacks</a></li>
+</ul>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/12/02/nyregion/in-reborn-harlem-liquor-store-draws-complaints.html?ref=nyregion">
+As Tastes Change in Harlem, Old-Look Liquor Store Stirs a Fight</a></h3>
+<h6 class="byline">
+By JOSEPH BERGER	    </h6>
+<p class="summary">
+Some affluent residents of a gentrified section of Harlem would prefer a trendy shop that offers high-priced wines.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/nyregion/boylands-chief-of-staff-arrested-in-bribery-case.html?ref=nyregion">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/nyregion/BOYLAND/BOYLAND-thumbStandard.jpg" width="75" height="75" alt="Ry-Ann Hermon" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/nyregion/boylands-chief-of-staff-arrested-in-bribery-case.html?ref=nyregion">
+Assemblyman’s Chief of Staff Is Arrested in Bribery Case</a></h3>
+<h6 class="byline">
+By MOSI SECRET	    </h6>
+<p class="summary">
+Ry-Ann Hermon was charged with accepting bribes from the same federal agents who were dealing with her boss, Assemblyman William F. Boyland Jr.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/12/02/nyregion/excerpts-from-recordings-of-boylands-chief-of-staff.html">‘Are We Getting Some Money?’</a></li>
+<li><a href="http://www.nytimes.com/interactive/2011/12/02/nyregion/02boyland-doc1.html"><span class="icon document">Documents</span>: Boyland Complaint</a> | <a href="http://www.nytimes.com/interactive/2011/12/02/nyregion/02boyland-doc2.html">Hermon Complaint</a>
+</li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/nyregion/defense-calls-case-against-larry-seabrook-speculation.html?ref=nyregion">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/nyregion/SEABROOK/SEABROOK-thumbStandard.jpg" width="75" height="75" alt="Councilman Larry B. Seabrook" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/nyregion/defense-calls-case-against-larry-seabrook-speculation.html?ref=nyregion">
+City Councilman’s Lawyer Calls Charges ‘Speculation’</a></h3>
+<h6 class="byline">
+By COLIN MOYNIHAN	    </h6>
+<p class="summary">
+During closing arguments in a corruption trial, a defense lawyer urged the jury to weigh City Councilman Larry B. Seabrook’s 30 years of public service against “so-called evidence.”</p>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/top/reference/timestopics/people/s/lawrence_b_seabrook/index.html">Times Topic: Larry B. Seabrook</a></li>
+</ul>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/12/02/nyregion/in-transcript-details-on-why-developer-aaron-malinsky-was-dropped-from-kruger-case.html?ref=nyregion">
+Insight Into Dropping of Charges for Developer</a></h3>
+<h6 class="byline">
+By BENJAMIN WEISER	    </h6>
+<p class="summary">
+A prosecutor said that while there was evidence against other defendants accused in the public corruption case that ensnared State Senator Carl Kruger, for Aaron Malinsky there was not.</p>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/12/02/education/problems-with-credits-at-school-in-the-bronx.html?ref=nyregion">
+Problems With Credits at School in the Bronx</a></h3>
+<h6 class="byline">
+By ANNA M. PHILLIPS and HADAS GOSHEN	    </h6>
+<p class="summary">
+Jane Addams High School for Academic Careers is under investigation for allegations that the school gave students credits for multiple courses for taking a single class.</p>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/12/02/nyregion/self-abortion-charge-after-fetus-found-in-trash-in-washington-heights.html?ref=nyregion">
+After Fetus Is Found in Trash, a Rare Charge of Self-Abortion</a></h3>
+<h6 class="byline">
+By ANEMONA HARTOCOLLIS	    </h6>
+<p class="summary">
+A woman was charged with self-abortion in the first degree, the police said Thursday, becoming only the fifth woman charged with self-abortion since 1980.</p>
+</div>
+</div>
+<!--cur:HeadlineOnly prev:StandardThumb-->
+<div class="columnGroup singleRule ">
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/nyregion/glenn-rieth-new-jersey-adjutant-general-said-to-be-resigning-in-sex-scandal.html?ref=nyregion">
+New Jersey Adjutant General Said to Be Resigning in Sex Scandal</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/nyregion/louis-silverstein-times-art-director-dies-at-92.html?ref=nyregion">
+Louis Silverstein, Who Gave a Bolder and Airier Look to The Times, Dies at 92</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/sports/manuel-gilman-influential-racetrack-veterinarian-dies-at-91.html?ref=nyregion">
+Manuel Gilman, Influential Racetrack Veterinarian, Dies at 91</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/design/gary-tinterow-named-director-of-museum-of-fine-arts-houston.html?ref=nyregion">
+Met Veteran Named Director of Houston Art Museum</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/nyregion/bird-watching-at-prospect-park-audubon-center.html?ref=nyregion">
+Winged Migrants in Their Brooklyn Pied-à-Terre</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/nyregion/lottery-numbers-for-new-york-new-jersey-and-connecticut.html?ref=nyregion">
+Lottery Numbers</a>
+</h6>
+</li>
+</ul>
+</div>
+<!--cur:StandardThumb prev:HeadlineOnly-->
+<div class="columnGroup singleRule last">
+<div id="multiPlayer" style="padding-top: 5px;">
+<!--bright cove code starts here  09/30/08 build//-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/bcvideo/1.0/iframe/embed.js"></script>
+<script type="text/javascript">
+  NYT_VideoPlayerStart( {
+     playerType  : "section",
+     playlistId  : "1194811622239"
+  } );
+</script>
+<!--bright cove code ends here //-->
+</div>
+</div>
+<div id="adxSponLink" class="columnGroup singleRule"></div>
+</div><!--close .aColumn -->
+<div class="bColumn">
+<div class="columnGroup SectionFront3Col first">
+<div class="story">
+<h6 class="kicker">About New York</h6>
+<h3><a href="http://www.nytimes.com/2011/12/02/nyregion/chicanery-far-beyond-a-156-bagel.html?ref=nyregion">
+Chicanery Far Beyond a $156 Bagel</a></h3>
+<h6 class="byline">
+By JIM DWYER	    </h6>
+<p class="summary">
+The sad story of Larry Seabrook and a diversity grant.</p>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/topics/news/newyorkandregion/columns/aboutnewyork/index.html">More About New York Columns</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">From Arts</h6><div class="story">
+<h6 class="kicker">Arts & Leisure</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/04/arts/design/alexander-garvin-looks-at-public-spaces-in-new-york.html?ref=nyregion">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/arts/04SUBSPACES_SPAN/04SUBSPACES_SPAN-thumbStandard-v3.jpg" width="75" height="75" alt="The fountain at Bryant Park in Midtown." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/04/arts/design/alexander-garvin-looks-at-public-spaces-in-new-york.html?ref=nyregion">
+Treasuring Urban Oases</a></h3>
+<h6 class="byline">
+By MICHAEL KIMMELMAN				<span class="timestamp">8:00 AM ET</span>
+</h6>
+<p class="summary">
+Alexander Garvin, an architect and urban planner, has spent the better part of the last half-century thinking about New York City’s public spaces.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/slideshow/2011/12/04/arts/design/20111204-SPACES.html"><img src="http://graphics8.nytimes.com/images/multimedia/icons/photo_icon.gif" alt="Photographs" width="12" height="10" border="0"> Walking New York's Public Spaces</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<h6 class="sectionHeader flushBottom">Multimedia</h6>
+<div class="columnGroup firstArticleInline">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://video.nytimes.com/video/2011/12/02/nyregion/100000000810859/third-generation-businesses.html?ref=nyregion">
+<img src="http://graphics8.nytimes.com/images/2011/05/22/nyregion/video-familywatch/video-familywatch-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay video">Video</span>
+</a>
+</div>
+<h5><a href="http://video.nytimes.com/video/2011/12/02/nyregion/100000000810859/third-generation-businesses.html?ref=nyregion">
+Third Generation Businesses</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Three family businesses in New York City have managed to survive for three generations and counting.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/12/04/nyregion/running-queens-school-day-care-center-tests-family-boundaries.html">Related Article</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="columnGroup singleRule lastArticleInline">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/slideshow/2011/12/04/nyregion/joint-black-gold-records.html?ref=nyregion">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/nyregion/20111204JOINTss-slide-0LGE/20111204JOINTss-slide-0LGE-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay slideshow">Slide Show</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/slideshow/2011/12/04/nyregion/joint-black-gold-records.html?ref=nyregion">
+Neighborhood Joint | Black Gold Records</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+A coffee and antiques shop in Carroll Gardens attracts vinyl hunters who return frequently to dig through the store’s record collection.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/12/04/nyregion/where-hunters-of-vinyl-and-other-treasures-load-up.html">Related Article »</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">The Neediest Cases Fund</h6><p><img src="http://graphics8.nytimes.com/packages/flash/nyregion/2010-neediest/logo102x100.png" width="75" height="75" alt="The Neediest Cases" class="runaroundRight"/><em>For the past 100 years, The New York Times Neediest Cases Fund has provided direct assistance to children, families and the elderly in New York. An article will appear daily through Feb. 10.</em><br/></p>
+<p class="refer"><a href="https://nytneediestcases.com/"><strong>Donate Now »</strong></a></p>
+<p class="refer"><a href="http://topics.nytimes.com/top/news/newyorkandregion/neediestcases/index.html">Go to The Neediest Cases »</a></p>
+<p></p>
+<div class="story">
+<h6 class="kicker">The Neediest Cases</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/nyregion/after-opening-a-door-watching-anxiety-fade.html?ref=nyregion">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/nyregion/02NEEDIEST1/02NEEDIEST1-thumbStandard-v2.jpg" width="75" height="75" alt="Atom Thomas, 25, who dropped out of high school because of paralyzing social anxiety, intends to get his G.E.D. and enter college to become an art teacher." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/nyregion/after-opening-a-door-watching-anxiety-fade.html?ref=nyregion">
+After Opening a Door, Watching Anxiety Fade</a></h3>
+<h6 class="byline">
+By MATHEW R. WARREN	    </h6>
+<p class="summary">
+Atom Thomas’s decision to attend a job-readiness program in May 2010 helped him overcome paralyzing social anxiety and begin looking for work.</p>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://www.nytimes.com/schoolbook" title="SchoolBook">
+<img src="http://graphics8.nytimes.com/packages/images/nytint/schoolbook/schoolbook-163.png" alt="SchoolBook"/>
+</a> 
+</h3> <div class="summary">News, data and conversation about schools in New York City.</div><div class="story first">
+<h3><a href="http://www.nytimes.com/schoolbook/2011/12/02/cookie-tray-theory-propels-student-to-d-c/?ref=nyregion">Cookie Tray Theory Propels Student to D.C.</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">8:19 AM ET</span></p>
+</div><div class="story">
+<h3><a href="http://www.nytimes.com/schoolbook/2011/12/02/bloomberg-says-large-classes-are-fine-by-him/?ref=nyregion">Bloomberg Says Large Classes Are Fine by Him</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">8:18 AM ET</span></p>
+</div><div class="story">
+<h3><a href="http://www.nytimes.com/schoolbook/2011/12/01/jane-addams-h-s-students-fear-they-lack-credits-to-graduate/?ref=nyregion">Jane Addams H.S. Students Fear They Lack Credits to Graduate</a></h3>
+<p class="date">December 1, 2011 <span class="timestamp">4:03 PM ET</span></p>
+</div><p class="refer">
+<a href="http://www.nytimes.com/schoolbook" title="Go to SchoolBook">Go to SchoolBook &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule ">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://artsbeat.blogs.nytimes.com/" title="Artsbeat">
+<img src="http://graphics8.nytimes.com/images/blogs/artsbeat/artsbeat163.gif" alt="Artsbeat"/>
+</a> 
+</h3> <div class="story first">
+<h3><a href="http://artsbeat.blogs.nytimes.com/2011/12/02/a-personal-walk-through-public-new-york/?ref=nyregion">A Personal Walk Through Public New York</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">10:15 AM ET</span></p>
+</div><div class="story">
+<h3><a href="http://artsbeat.blogs.nytimes.com/2011/12/01/rebecca-musical-names-its-mrs-danvers-and-mr-de-winter/?ref=nyregion">'Rebecca' Musical Names Its Mrs. Danvers and Mr. de Winter</a></h3>
+<p class="date">December 1, 2011 <span class="timestamp">3:44 PM ET</span></p>
+</div><p class="refer">
+<a href="http://artsbeat.blogs.nytimes.com/" title="Go to Blog">Go to Blog &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule last">
+
+
+<div class="singleAd" id="Box2">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/nyregion/index.html&pos=Box2&sn2=188be56d/8959e6c&sn1=38d43609/ab3147cd&camp=nyt2011-circ-120x90-weekender-36H38&ad=071511-120x90-weekender-36H38&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DWC7AA%26CMP%3D36H38" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/13/ad.271312/11-0920_HDWeekender2_120x90.jpg" width="120" height="90" border="0"></a>
+
+</div>
+
+</div>
+</div><!--close .bColumn -->
+</div><!--close .abColumn -->
+<div class="cColumn">
+<!--Ads  -->                    <div class="columnGroup first">
+
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<div class="box module twitterModule">
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/common/modules/twitterReader.css"/>
+<div class="bugHeader clearfix">
+<div class="branding">
+<h4><strong>Our Reporters and Editors on Twitter</strong></h4>
+</div>
+</div>
+<div class="scrollBox2">
+<div class="scrollContent">
+<ul id="twList-3" class="verticalScroll">
+<li class="loadingtweets" id="loadingtweets-4">
+<img src="http://graphics8.nytimes.com/images/blogs/firstlook/spinner.gif"/>Loading Twitter messages...
+</li>
+</ul>
+</div>
+</div>
+<div class="footer">
+<p>Follow <a href="http://www.twitter.com/nytmetro/">@nytmetro</a> and <a href="http://twitter.com/#!/nytmetro/metro-reporters-editors">Metro Staff</a> on Twitter.</p>
+</div>
+<input type="hidden" name="sectionFrontHost" id = "sectionFrontHost" value="http://cityroom.blogs.nytimes.com"/>
+<script type="text/javascript">
+  var twitterReaderVar={widget_id:3,sidebar_id:"sidebar-1",widget_name:"nyt-twitter",avatar:"show"};
+  
+    
+    if(typeof twitterReader == 'undefined') {
+    twitterReader = new Array();
+  }
+  twitterReader.push(twitterReaderVar);
+
+  </script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/app/ontwitter-multi/2.0/ontwitter-multi.js">
+  </script>
+</div>
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/section/arts/modules/eventsCalendarModule.css" />
+<script type="text/javascript" src="/js/app/events/1.0/module.js"></script>
+<div id="eventsCalendarModule" class="eventsCalendarModule"></div><div class="singleRuleDivider"></div>
+<style type="text/css">.cColumn .columnGroup .columnGroup.fullWidth{margin-left:-7px !important;margin-right:-9px !important;margin-bottom:0 !important;}.cColumn .columnGroup .columnGroup.fullWidth .columnGroup{margin-left:7px !important;margin-right:9px !important;}.cColumn .columnGroup .columnGroup.fullWidth .column .columnGroup{margin-right:5px !important;}.cColumn .columnGroup .columnGroup.fullWidth .column.last .columnGroup{margin-right:9px !important;}</style>
+<div class="columnGroup fullWidth">
+<div class="subColumn-2 wrap"><h3 class="sectionHeader insetH" style="margin-left: 6px;">Metro Columnists</h3><div class="column">
+<div class="columnGroup">
+<div class="story"><div class="runaroundRight"><a href="http://topics.nytimes.com/topics/news/newyorkandregion/columns/big_city/index.html"><img src="http://graphics8.nytimes.com/images/2011/08/16/nyregion/ginia-bellafante-profile/ginia-bellafante-profile-custom3.jpg" alt="GINIA BELLAFANTE" height="50" width="50"/></a></div><h6 class="kicker">Big City</h6><h5><a href="http://topics.nytimes.com/topics/news/newyorkandregion/columns/big_city/index.html">Ginia Bellafante</a></h5><span class="caption">Sunday</span></div></div>
+<div class="columnGroup">
+<div class="story"><div class="runaroundRight"><a href="http://topics.nytimes.com/top/news/newyorkandregion/columns/the_appraisal/index.html"><img src="http://graphics8.nytimes.com/images/2011/05/23/nyregion/diane_cardwell_headshot/diane_cardwell_headshot-custom1-v2.jpg" alt="Diane Cardwell" height="50" width="50"/></a></div><h6 class="kicker">The Appraisal</h6><h5><a href="http://topics.nytimes.com/top/news/newyorkandregion/columns/the_appraisal/index.html">Diane Cardwell</a></h5><span class="caption">Monday</span></div></div>
+<div class="columnGroup"><div class="story"><div class="runaroundRight"><a href="http://topics.nytimes.com/top/reference/timestopics/people/d/jim_dwyer/"><img src="http://graphics8.nytimes.com/images/2011/06/16/nyregion/dwyer-headshot/dwyer-headshot-custom2.jpg" alt="Dwyer" height="50" width="50"/></a></div><h6 class="kicker">About New York</h6><h5><a href="http://topics.nytimes.com/top/reference/timestopics/people/d/jim_dwyer/">Jim Dwyer</a></h5><span class="caption">Wednesday, Friday</span></div></div>
+<div class="columnGroup">
+<div class="story"><div class="runaroundRight"><a href="http://topics.nytimes.com/top/news/newyorkandregion/columns/crime_scene/index.html"><img src="http://graphics8.nytimes.com/images/2011/05/06/nyregion/michael-wilson-headshot/michael-wilson-headshot-custom2-v2.jpg" alt="Wilson" height="50" width="50"/></a></div><h6 class="kicker">Crime Scene</h6><h5><a href="http://topics.nytimes.com/top/news/newyorkandregion/columns/crime_scene/index.html">Michael Wilson</a></h5><span class="caption">Saturday</span></div></div></div>
+<div class="column last">
+<div class="columnGroup">
+<div class="story"><div class="runaroundRight"><a href="http://cityroom.blogs.nytimes.com/category/the-day/"><img src="http://graphics8.nytimes.com/images/2011/05/06/nyregion/clyde-haberman-photo/clyde-haberman-photo-custom1-v2.jpg" alt="Clyde Haberman" height="50" width="50"/></a></div><h6 class="kicker">The Day</h6><h5><a href="http://cityroom.blogs.nytimes.com/category/the-day/">Clyde Haberman</a></h5><span class="caption">Monday-Thursday</span></div></div>
+<div class="columnGroup">
+<div class="story"><div class="runaroundRight"><a href="http://topics.nytimes.com/top/news/newyorkandregion/columns/gotham/index.html"><img src="http://graphics8.nytimes.com/images/2011/05/23/nyregion/powell-headshot/powell-headshot-custom1.jpg" alt="Michael Powell" height="50" width="50"/></a></div><h6 class="kicker">Gotham</h6><h5><a href="http://topics.nytimes.com/top/news/newyorkandregion/columns/gotham/index.html">Michael Powell</a></h5><span class="caption">Tuesday</span></div></div>
+<div class="columnGroup">
+<div class="story"><div class="runaroundRight"><a href="http://topics.nytimes.com/top/news/newyorkandregion/columns/nocturnalist/index.html"><img src="http://graphics8.nytimes.com/images/2011/05/05/nyregion/sarah-maslin-nir-headshot/sarah-maslin-nir-headshot-custom1.jpg" alt="Sarah Maslin Nir" height="50" width="50"/></a></div><h6 class="kicker">Nocturnalist</h6><h5><a href="http://topics.nytimes.com/top/news/newyorkandregion/columns/nocturnalist/index.html">Sarah</br>Maslin Nir</a></h5><span class="caption">Saturday</span></div></div>
+</div></div></div>        	</div>
+<!--Ads Simple -->                    <div class="columnGroup ">
+
+			
+<div class="bigAd" id="SFMiddle">
+<!-- ADXINFO classification="bigad" campaign="BOA_CSR2011_Phase2_1768561-nyt1"--><script language="Javascript" type="text/javascript">
+var clickTagFramePrepend1584959 = "http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/nyregion/index.html&pos=SFMiddle&camp=BOA_CSR2011_Phase2_1768561-nyt1&ad=EW-1584959_NYRegion&sn2=8dfce1f6/9926f9b3&snr=doubleclick&snx=1322848861&sn1=ce93589d/8c215ae1&goto=[ewclickthru]";
+</script>
+<script language="Javascript" type="text/javascript" id="ew1584959_wrapper"
+ src="http://cdn.eyewonder.com/100125/773124/1584959/wrapper.js"></script>
+<noscript>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/nyregion/index.html&pos=SFMiddle&sn2=8dfce1f6/9926f9b3&sn1=c0e7a4dc/8f12e454&camp=BOA_CSR2011_Phase2_1768561-nyt1&ad=EW-1584959_NYRegion&goto=http%3A%2F%2Fwww%2Eeyewonderlabs%2Ecom%2Fct%2Ecfm%3Fewbust%3D0%26file%3Dhttp%3A%2F%2Fcdn%2Eeyewonder%2Ecom%2F100125%2F773124%2F1584959%2FNOSCRIPTfailover%2Ejpg%26eid%3D1584959%26name%3DClickthru%2DNOSCRIPT%26num%3D1%26time%3D0%26diff%3D0%26click%3Dhttp%3A%2F%2Fad%2Edoubleclick%2Enet%2Fclk%3B247992465%3B70714533%3Br" target="_blank">
+<img width="300" height="250"
+ src="http://cdn.eyewonder.com/100125/773124/1584959/NOSCRIPTfailover.jpg"
+ border="0" alt="">
+</a>
+<div style="position:absolute;top:0x;left:0px;z-index:2">
+<img src="http://cdn.eyewonder.com/100125/773124/1584959/ewtrack.gif?ewadid=170080"
+ border="0" width="1" height="1">
+</div>
+<div style="position:absolute;top:0x;left:0px;z-index:3">
+<img src="http://cdn.eyewonder.com/100125/773124/1584959/ewtrack_f.gif?ewadid=170080"
+ border="0" width="1" height="1">
+</div>
+</noscript>
+
+</div>
+
+
+
+<div class="singleAd" id="Box3">
+<!-- ADXINFO classification="feature_squares" campaign="nyt2011-regilite-P1-ticketwatch"--><IFRAME title="regilite" src="https://myaccount.nytimes.com/regilite?product=TR" width="336" height="90" marginheight="0" marginwidth="0" frameborder="0" vspace="0" hspace="0" scrolling="no"></IFRAME> 
+
+</div>
+
+
+</div>
+<!--StandardThumb Ads -->                    <div class="columnGroup ">
+<div id="mostPopWidget" class="singleRule"> 
+
+      <!-- MOST POPULAR MODULE STARTS -->
+      <h4>MOST POPULAR - N.Y. / REGION</h4>
+         <div id="tabsContainer">
+         <ul class="tabs">
+            <li class="selected"><a href="#">E-Mailed</a></li>
+            <li><a href="#">Blogged</a></li>
+            
+            <li><a href="#">Viewed</a></li>
+            
+         </ul>
+         </div>
+            <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"></HEAD><div class="tabContent tabContentActive" id="mostEmailed"><ol>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/nyregion/ADIRONDACKS1/ADIRONDACKS1-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/02/nyregion/fearing-climate-changes-effects-on-the-adirondacks.html?src=me&amp;ref=nyregion" title="Click to go to this article">Savoring Bogs and Moose, Fearing They&rsquo;ll Vanish as the Adirondacks Warm</a></li>
+<li kicker="City Room"><a href="http://cityroom.blogs.nytimes.com/2011/12/01/off-the-mat-into-court-lawsuit-pits-bikram-and-yoga-to-the-people/?src=me&amp;ref=nyregion" title="Click to go to this article">City Room: Off the Mat, Into Court: Lawsuit Pits Bikram and Yoga to the People</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/nyregion/SILVERSTEIN1-obit/SILVERSTEIN1-obit-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/02/nyregion/louis-silverstein-times-art-director-dies-at-92.html?src=me&amp;ref=nyregion" title="Click to go to this article">Louis Silverstein, Who Gave a Bolder and Airier Look to The Times, Dies at 92</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/nyregion/CUOMO/CUOMO-thumbStandard-v3.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/02/nyregion/cuomo-fund-fills-with-money-from-thankful-gay-donors.html?src=me&amp;ref=nyregion" title="Click to go to this article">After Pushing Gay Marriage, Cuomo Is Thanked With Money</a></li>
+<li kicker=""><a href="http://www.nytimes.com/2011/12/02/nyregion/in-reborn-harlem-liquor-store-draws-complaints.html?src=me&amp;ref=nyregion" title="Click to go to this article">As Tastes Change in Harlem, Old-Look Liquor Store Stirs a Fight</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/arts/02BIRD1_SPAN/02BIRD1-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/02/nyregion/bird-watching-at-prospect-park-audubon-center.html?src=me&amp;ref=nyregion" title="Click to go to this article">Winged Migrants in Their Brooklyn Pied-&agrave;-Terre</a></li>
+<li kicker=""><a href="http://www.nytimes.com/2011/12/02/nyregion/self-abortion-charge-after-fetus-found-in-trash-in-washington-heights.html?src=me&amp;ref=nyregion" title="Click to go to this article">After Fetus Is Found in Trash, a Rare Charge of Self-Abortion</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/28/nyregion/BLOCKS2/BLOCKS2-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/11/28/nyregion/with-building-blocks-educators-going-back-to-basics.html?src=me&amp;ref=nyregion" title="Click to go to this article">With Blocks, Educators Go Back to Basics</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/nyregion/LONGSHOREMEN/LONGSHOREMEN-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/01/nyregion/told-to-diversify-dock-union-offers-nearly-all-white-list.html?src=me&amp;ref=nyregion" title="Click to go to this article">Told to Diversify, Dock Union Offers a Nearly All-White Retort</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/30/nyregion/PIE/PIE-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/11/30/nyregion/don-mclean-sets-record-straight-on-american-pie-origins.html?src=me&amp;ref=nyregion" title="Click to go to this article">&lsquo;American Pie&rsquo; Still Homemade, but With a New Twist</a></li>
+</ol>
+        <a class="more" href="http://www.nytimes.com/gst/mostemailed.html">Go to Complete List &#x00bb;</a>
+        </div><!-- #most emailed top10 -->
+
+            <div class="tabContent" id="mostBlogged">
+<ol>
+<li><a href="http://www.nytimes.com/2011/11/26/nyregion/hydrofracking-debate-spurs-huge-spending-by-industry.html?bl" title="Click to go to this article">Hydrofracking Debate Spurs Huge Spending by Industry</a></li>
+<li><a href="http://www.nytimes.com/2011/11/28/nyregion/with-building-blocks-educators-going-back-to-basics.html?bl" title="Click to go to this article">With Building Blocks, Educators Going Back to Basics</a></li>
+<li><a href="http://www.nytimes.com/2011/11/28/nyregion/brief-details-jury-nullification-case-against-julian-heicklen.html?bl" title="Click to go to this article">Brief Details Jury Nullification Case Against Julian Heicklen</a></li>
+<li><a href="http://www.nytimes.com/2011/11/30/nyregion/judge-says-lawsuit-against-gay-marriage-law-in-new-york-may-proceed.html?bl" title="Click to go to this article">Judge Says Lawsuit Against Gay Marriage Law in New York May Proceed</a></li>
+<li><a href="http://www.nytimes.com/2011/12/01/nyregion/told-to-diversify-dock-union-offers-nearly-all-white-list.html?bl" title="Click to go to this article">Told to Diversify, Dock Union Offers Nearly All-White List</a></li>
+<li><a href="http://www.nytimes.com/2011/11/26/nyregion/for-visitors-to-rikers-with-sneaky-intentions-a-last-chance-to-reconsider.html?bl" title="Click to go to this article">For Visitors to Rikers With Sneaky Intentions, a Last Chance to Reconsider</a></li>
+<li><a href="http://www.nytimes.com/2011/11/30/nyregion/assemblyman-william-boyland-jr-charged-again-with-bribery.html?bl" title="Click to go to this article">Assemblyman William Boyland Jr. Charged Again With Bribery</a></li>
+<li><a href="http://www.nytimes.com/2011/11/26/nyregion/blind-new-jersey-man-challenged-again-on-guns.html?bl" title="Click to go to this article">Blind New Jersey Man Challenged Again on Guns</a></li>
+<li><a href="http://www.nytimes.com/2011/11/30/nyregion/stuyvesant-town-and-peter-cooper-tenants-hope-to-buy-apartments.html?bl" title="Click to go to this article">Stuyvesant Town and Peter Cooper Tenants Hope to Buy Apartments</a></li>
+<li><a href="http://www.nytimes.com/2011/11/26/nyregion/as-catholics-prepare-for-new-mass-translation-corpus-christi-parish-carves-its-own-path.html?bl" title="Click to go to this article">As Catholics Prepare for New Mass Translation, Corpus Christi Parish Carves Own Path</a></li>
+</ol>
+<a class="more" href="http://www.nytimes.com/gst/mostblogged.html">Go to Complete List &#x00bb;</a>
+</div><!-- #most blogged top10 -->
+
+            
+            <div class="tabContent" id="mostViewed"><ol>
+<li kicker="City Room"><a href="http://cityroom.blogs.nytimes.com/2011/11/30/occupy-protesters-mobilize-for-obamas-visit/?src=mv&amp;ref=nyregion" title="Click to go to this article">City Room: Occupy Protesters Mobilize for Obama's Visit</a></li>
+<li kicker=""><a href="http://www.nytimes.com/2011/12/02/nyregion/self-abortion-charge-after-fetus-found-in-trash-in-washington-heights.html?src=mv&amp;ref=nyregion" title="Click to go to this article">After Fetus Is Found in Trash, a Rare Charge of Self-Abortion</a></li>
+<li kicker="City Room"><a href="http://cityroom.blogs.nytimes.com/2011/12/01/off-the-mat-into-court-lawsuit-pits-bikram-and-yoga-to-the-people/?src=mv&amp;ref=nyregion" title="Click to go to this article">City Room: Off the Mat, Into Court: Lawsuit Pits Bikram and Yoga to the People</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/nyregion/CUOMO/CUOMO-thumbStandard-v3.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/02/nyregion/cuomo-fund-fills-with-money-from-thankful-gay-donors.html?src=mv&amp;ref=nyregion" title="Click to go to this article">After Pushing Gay Marriage, Cuomo Is Thanked With Money</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/nyregion/BOYLAND/BOYLAND-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/02/nyregion/boylands-chief-of-staff-arrested-in-bribery-case.html?src=mv&amp;ref=nyregion" title="Click to go to this article">Assemblyman&rsquo;s Chief of Staff Is Arrested in Bribery Case</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/nyregion/SILVERSTEIN1-obit/SILVERSTEIN1-obit-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/02/nyregion/louis-silverstein-times-art-director-dies-at-92.html?src=mv&amp;ref=nyregion" title="Click to go to this article">Louis Silverstein, Who Gave a Bolder and Airier Look to The Times, Dies at 92</a></li>
+<li kicker=""><a href="http://www.nytimes.com/2011/12/02/nyregion/in-reborn-harlem-liquor-store-draws-complaints.html?src=mv&amp;ref=nyregion" title="Click to go to this article">As Tastes Change in Harlem, Old-Look Liquor Store Stirs a Fight</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/02/nyregion/ADIRONDACKS1/ADIRONDACKS1-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/02/nyregion/fearing-climate-changes-effects-on-the-adirondacks.html?src=mv&amp;ref=nyregion" title="Click to go to this article">Savoring Bogs and Moose, Fearing They&rsquo;ll Vanish as the Adirondacks Warm</a></li>
+<li kicker="City Room"><a href="http://cityroom.blogs.nytimes.com/2011/12/01/before-they-were-gay-at-least-in-print/?src=mv&amp;ref=nyregion" title="Click to go to this article">City Room: Before They Were Gay (at Least in Print)</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/12/01/nyregion/LONGSHOREMEN/LONGSHOREMEN-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/12/01/nyregion/told-to-diversify-dock-union-offers-nearly-all-white-list.html?src=mv&amp;ref=nyregion" title="Click to go to this article">Told to Diversify, Dock Union Offers a Nearly All-White Retort</a></li>
+</ol>
+        </div><!-- #most viewed top10 -->
+
+            
+         <script type="text/javascript">new Accordian("mostPopWidget");</script>
+      <!-- MOST POPULAR MODULE ENDS -->
+   
+
+</div><!--close mostPopWidget -->
+<div class="story">
+<h3 class="sectionHeader">In the Region</h3>
+<p class="summary">
+News, restaurant reviews and arts coverage from New Jersey, Connecticut, Westchester and Long Island.  </p>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/top/news/national/usstatesterritoriesandpossessions/newjersey/index.html">New Jersey</a> »  <a href="http://topics.nytimes.com/top/news/national/usstatesterritoriesandpossessions/connecticut/index.html">Connecticut »</a></li>
+<li><a href="http://topics.nytimes.com/topics/news/newyorkandregion/westchester//index.html">Westchester</a> »  <a href="http://topics.nytimes.com/topics/news/newyorkandregion/long_island//index.html">Long Island »</a></li>
+</ul>
+</div><div class="columnGroup fullWidth">
+<div class="insetH singleRuleDivider"></div>
+<div class="subColumn-2 wrap">
+<div class="column">
+<div class="columnGroup">
+<div class="story">
+<h3 class="sectionHeader">Local Blogging</h3>
+<!--h6 class="kicker">Leave and Let Leave</h6-->
+<div class="runaroundRight">
+<img alt="The Local" src="http://graphics8.nytimes.com/images/2009/03/02/nyregion/local_75.gif" width="75" height="75" />
+</div>
+<p class="summary">The Times is blogging from the East Village, Fort Greene and Clinton Hill. Explore our local blogs:
+</p>
+<ul class="refer">
+<li>
+<p>
+<a href="http://fort-greene.blogs.nytimes.com/">Fort Greene/Clinton Hill, Brooklyn » </a></p>
+</li>
+<li>
+<p>
+<a href="http://eastvillage.thelocal.nytimes.com/">East Village, Manhattan » </a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="column last">
+<div class="columnGroup">
+<div class="story">
+<h3 class="sectionHeader">The Times Close Up</h3>
+<!--h6 class="kicker">The Times Close Up</h6-->
+<div class="runaroundRight">
+<img alt="The Times's Sam Roberts" src="http://graphics8.nytimes.com/images/promos/nyregion/sam_roberts.75.jpg" width="75" height="75" />
+</div>
+<p class="summary"> Sam Roberts hosts an inside look at the most compelling stories in Sunday's Times, 10 p.m. on Saturdays and 10 a.m. on Sundays, <a target="_blank" href="http://www.ny1.com/content/features/the_new_york_times_close_up/">on NY1 News</a>. This week's guests include The Times's Michael Golden, Patrick Healy, Melena Ryzik, Michael Powell. Also appearing, Ellen Futter, David Ives and Jon Robin Baitz.
+</p>
+</div>
+</div>
+</div>
+</div>
+</div><div class="singleRuleDivider"></div><div class="story">
+<h6 class="kicker">The Scoop</h6>
+<div class="thumbnail">
+<a href="http://nytimes.com/thescoop?ref=nyregion">
+<img src="http://graphics8.nytimes.com/images/promos/thescoop/thescoop-75.gif" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://nytimes.com/thescoop?ref=nyregion">
+A New York City App</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+From the staff of The New York Times, a free, constantly updated insiders’ guide to our favorite things in New York, including <a href="http://thescoop.nytlabs.com/#!/viewList/restaurants">restaurants</a>, <a href="http://thescoop.nytlabs.com/#!/viewList/bars">bars</a>, <a href="http://thescoop.nytlabs.com/#!/viewList/coffeeshops">coffee shops</a>, <a href="http://thescoop.nytlabs.com/#!/viewList/shopping">boutiques</a> and <a href="http://thescoop.nytlabs.com/#!/viewList/househome">home furnishing stores</a>, as well as <a href="http://thescoop.nytlabs.com/#!/viewList/thisweek">events</a> and <a href="http://thescoop.nytlabs.com/#!/viewList/timeless">outings</a>.</p>
+<ul class="refer">
+<li><a href="http://thescoop.nytlabs.com/#!/viewHome">See the Web Version</a></li>
+</ul>
+<ul class="refer flush"><li><a href="http://nytimes.com/thescoop">Learn More and Download &raquo;</a></li>
+</ul></div>
+</div>
+<!--Ads StandardThumb -->                    <div class="columnGroup ">
+			
+
+<div class="bigAd" id="Box1">
+<!-- ADXINFO classification="Module" campaign="nyt2011_module_biz_piers_morgan_hp_ros_db"--><!-- MARKETING MODULE -->
+<div style="border:solid #999;border-width:1px;font-family:Arial,sans-serif;text-align:left; width:334px;background:#fff;" class="clearfix wrap">
+  <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/nyregion/index.html&pos=Box1&sn2=188be56c/8999e6c&sn1=3cd7b396/8bf4d3f&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://mediadecoder.blogs.nytimes.com/2011/11/30/piers-morgan-struggles-to-beat-kings-ratings/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-PH%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm11/business_120211.jpg" width="334" height="154" border="0" alt=""></a> 
+  <div style="padding:7px 9px 0;background:#fff">
+      <h2 style="font-size:22px;line-height:24px; margin:0;padding:0 0 4px;"><a style="color:#004276;" target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/nyregion/index.html&pos=Box1&sn2=188be56c/8999e6c&sn1=3cd7b396/8bf4d3f&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://mediadecoder.blogs.nytimes.com/2011/11/30/piers-morgan-struggles-to-beat-kings-ratings/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-HDR%26WT.mc_ev=click%26WT.mc_c=174041">Piers Morgan's struggle</a></h2>
+
+      <p style="margin:0 0 3px; padding:0;font-size: 11px;"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/nyregion/index.html&pos=Box1&sn2=188be56c/8999e6c&sn1=dcca9a23/ff2c3589&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://nytimes.com/business/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-URL%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank" style="font-size:11px;margin:3px 0;padding:0;font-family:Arial,sans-serif;  color:#000; text-transform:uppercase;">Also in Business &raquo;</a></p>
+      <ul style="font-size:12px;margin:0; padding-bottom: 10px; border-bottom:1px solid #ccc;" class="refer">
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/nyregion/index.html&pos=Box1&sn2=188be56c/8999e6c&sn1=7ddbcc18/6dfb3f78&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://dealbook.nytimes.com/2011/11/30/american-wont-be-the-last-airline-bankruptcy/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-L1%26WT.mc_ev=click%26WT.mc_c=174041" style="color: #004276">American won't be the last airline bankruptcy</a></li>
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/nyregion/index.html&pos=Box1&sn2=188be56c/8999e6c&sn1=aada211/3630bfe3&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://www.nytimes.com/2011/11/30/business/media/pepto-bismol-highlights-overindulging-in-latest-campaign.html%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-L2%26WT.mc_ev=click%26WT.mc_c=174041" style="color: #004276">A look at Pepto-Bismol's new holiday commercials</a></li>
+      </ul>
+    </div>
+ 
+ <div style="padding:5px 9px; float:left; width:316px; background:#fff"> <a style="float:left" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/nyregion/index.html&pos=Box1&sn2=188be56c/8999e6c&sn1=dcca9a23/ff2c3589&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://nytimes.com/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-LOGO%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/nytimes.gif" alt="nytimes.com" width="116" height="18" border="0"></a><a style="float:right" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/nyregion/index.html&pos=Box1&sn2=188be56c/8999e6c&sn1=dcca9a23/ff2c3589&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://nytimes.com/business/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-VRT%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/verticals_business.gif" alt="Business" width="120" height="18" border="0"></a></div><br clear="all">
+
+</div>
+  <!-- /MARKETING MODULE -->
+
+</div>
+
+
+<div class="singleAd" id="Middle5">
+<!-- ADXINFO classification="FeaturedProduct" campaign="NYT2011-Mktg-TimesLimited-336x79-ROS"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/nyregion/index.html&pos=Middle5&sn2=20d37220/60689bed&sn1=8a6313d5/cc494640&camp=NYT2011-Mktg-TimesLimited-336x79-ROS&ad=TL-D-I-NYT-AD-FP-TLP-ROS-0211-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fmarketing%2Ftimeslimited%2F%3FWT%2Emc%5Fid%3DTL%2DD%2DI%2DNYT%2DAD%2DFP%2DTLP%2DROS%2D0211%2DNA%26WT%2Emc%5Fev%3Dclick" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/25/86/ad.258626/Times_Limited_336x79_v2.gif" width="336" height="79" border="0"></a>
+
+</div>
+
+
+
+<!--[TwoColumnAdLeft - Begin] -->
+	<div class="adHeader">
+<h4>
+Advertisements	    </h4>
+</div>
+<div class="cColumn-TextAdsBox">
+	<div class="cColumn-TextAdsLeft">
+<div class="cColumn-TextAd">
+<!-- ADXINFO classification="SiteForADay" campaign="nyt2011-mktg-arts_and_ents-s4d_ros"--><div style="width:320px; height:60px;"> 
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/nyregion/index.html&pos=Right5A&sn2=20e77e8c/65d91bed&sn1=6a1102ca/9e7f5eda&camp=nyt2011-mktg-arts_and_ents-s4d_ros&ad=AR-D-I-NYT-AD-S4D-AandE-ROS-1211-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fevents%2Findex%2Ehtml%3FWT%2Emc%5Fid%3DAR%2DD%2DI%2DNYT%2DAD%2DS4D%2DAandE%2DROS%2D1211%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D175108" target="_blank"> 
+<img style="float:left; margin-right:10px;" src="http://graphics8.nytimes.com/adx/images/ADS/28/59/ad.285977/11-2187_ArtsEntertainment_86x60.gif" width="86" height="60" border="0" style="vertical-align:text-top;"></a>
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/nyregion/index.html&pos=Right5A&sn2=20e77e8c/65d91bed&sn1=6a1102ca/9e7f5eda&camp=nyt2011-mktg-arts_and_ents-s4d_ros&ad=AR-D-I-NYT-AD-S4D-AandE-ROS-1211-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fevents%2Findex%2Ehtml%3FWT%2Emc%5Fid%3DAR%2DD%2DI%2DNYT%2DAD%2DS4D%2DAandE%2DROS%2D1211%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D175108" target="_blank">  <br />Introducing: The Interactive Arts & Entertainment Guide</a>
+</div>
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+</div>
+	</div>
+<!--[TwoColumnAdLeft - End] -->
+<div class="advertisementColumnGroup">
+<!--[MarketPlaceGridAd - Begin] -->
+
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+    <!--[MarketPlaceGridAd - End] -->
+</div>
+</div>
+<!--Ads Ads -->                    <div class="columnGroup last">
+
+<div class="singleAd" id="Feature1">
+<!-- ADXINFO classification="hp-module" campaign="feature1-1280FifthAve-18-1712178-cla"--><!--Ad Template Begins Here -->
+<div class="story advertisement">
+<div class="callout">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/nyregion/index.html&pos=Feature1&sn2=80de3143/73af189&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/15/ad.271512/7.23.11_BRK11-2614_1280_nyt.com_module_update2.jpg" width="173" height="98" border="0" alt="Click for Details"></a>
+</div>
+<h5>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/nyregion/index.html&pos=Feature1&sn2=80de3143/73af189&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank"></a>
+</h5>
+<p class="summary"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/nyregion/index.html&pos=Feature1&sn2=80de3143/73af189&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank">Designed by<br>Robert&nbsp;&nbsp;A.M. Stern<br>Overlooking Central Park<br>Up to 5 Bedrooms</a></p>
+<div class="adCreative">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/nyregion/index.html&pos=Feature1&sn2=80de3143/73af189&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/15/ad.271512/5.19.11_1280_logo_78x36.jpg" width="78" height="36"></a>
+</div>
+</div>
+<!--Ad Template Ends Here -->
+</div>
+
+
+<div class="singleAd" id="SponLink">
+<script language="JavaScript" type="text/javascript">
+    
+    // Sponlink_short
+
+    NYTD.GoogleAds.getGoogleAds("AFC", { 
+        google_ad_client:'nytimes_section_var',
+        ad_target_list:'sponLink'
+    });
+</script>
+</div>
+
+</div>
+</div><!--close cColumn -->
+</div><!--close wideA -->
+</div><!--close spanAB -->
+</div><!--close main -->
+<div id="footer">
+<ul class="first">
+<li class="first"><a href="http://www.nytimes.com">Home</a></li>
+<li >
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li>
+<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+</ul>    <ul>
+<li class="first"><a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&copy; 2011</a> <a href="http://www.nytco.com/">The New York Times Company</a></li>
+<li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Terms of Service</a></li>
+<li class="termsOfSale"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+<li><a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a></li>
+<li><a class="rssButton" href="http://www.nytimes.com/rss">RSS</a></li>
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+<li><a href="http://www.nytco.com/careers">Work for Us</a></li>
+<li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+</ul>
+</div>
+</div><!--close page -->
+</div><!--close shell -->
+
+
+
+
+
+
+
+<IMG SRC="/adx/bin/clientside/68042620Q2F.-EQ5CVQ7Df-5Sq-EQ5CQ5CTQ2BFVQ5CQ7DQ2BF" height="1" width="3">
+
+<script type="text/javascript" language="JavaScript">
+// Written by /usr/local/knews/bin/commentcount.pl Fri Dec  2 13:02:02 2011
+var NYTArticleCommentCounts = {
+"100000001190843":{count:147, commentsEnabled:false},
+"100000001190858":{count:204, commentsEnabled:false},
+"100000001190907":{count:49, commentsEnabled:false},
+"100000001191255":{count:237, commentsEnabled:false},
+"100000001191704":{count:133, commentsEnabled:false},
+"100000001191724":{count:100, commentsEnabled:false},
+"100000001191950":{count:122, commentsEnabled:false},
+"100000001192133":{count:307, commentsEnabled:false},
+"100000001192329":{count:76, commentsEnabled:false},
+"100000001190961":{count:19, commentsEnabled:false},
+"100000001177231":{count:1, commentsEnabled:true},
+"100000001177245":{count:74, commentsEnabled:true},
+"100000001179958":{count:24, commentsEnabled:false},
+"100000001180322":{count:227, commentsEnabled:true},
+"100000001183078":{count:44, commentsEnabled:false},
+"100000001183080":{count:327, commentsEnabled:false},
+"100000001183081":{count:7, commentsEnabled:false},
+"100000001183084":{count:235, commentsEnabled:false},
+"100000001183087":{count:11, commentsEnabled:false},
+"100000001183089":{count:14, commentsEnabled:false},
+"100000001183090":{count:11, commentsEnabled:false},
+"100000001183091":{count:3, commentsEnabled:false},
+"100000001183094":{count:14, commentsEnabled:false},
+"100000001184186":{count:79, commentsEnabled:false},
+"100000001184524":{count:149, commentsEnabled:false},
+"100000001186117":{count:1, commentsEnabled:false},
+"100000001186193":{count:12, commentsEnabled:true},
+"100000001186569":{count:190, commentsEnabled:false},
+"100000001189184":{count:49, commentsEnabled:false},
+"100000001190721":{count:71, commentsEnabled:false},
+"100000001191577":{count:224, commentsEnabled:false},
+"100000001191688":{count:28, commentsEnabled:false},
+"100000001191719":{count:107, commentsEnabled:false},
+"100000001191931":{count:121, commentsEnabled:false},
+"100000001191985":{count:110, commentsEnabled:false},
+"100000001192057":{count:211, commentsEnabled:false},
+"100000001192188":{count:141, commentsEnabled:false},
+"100000001192496":{count:52, commentsEnabled:false},
+"100000001192500":{count:206, commentsEnabled:false},
+"100000001192600":{count:224, commentsEnabled:false},
+"100000001192611":{count:167, commentsEnabled:false},
+"100000001193250":{count:67, commentsEnabled:false},
+"100000001193262":{count:37, commentsEnabled:false},
+"100000001193344":{count:98, commentsEnabled:false},
+"100000001193527":{count:27, commentsEnabled:false},
+"100000001193629":{count:10, commentsEnabled:false},
+"100000001193702":{count:17, commentsEnabled:false},
+"100000001193743":{count:108, commentsEnabled:false},
+"100000001193763":{count:516, commentsEnabled:false},
+"100000001193825":{count:86, commentsEnabled:false},
+"100000001193857":{count:48, commentsEnabled:false},
+"100000001193859":{count:160, commentsEnabled:false},
+"100000001193890":{count:117, commentsEnabled:false},
+"100000001193920":{count:44, commentsEnabled:false},
+"100000001193944":{count:303, commentsEnabled:false},
+"100000001193948":{count:7, commentsEnabled:false},
+"100000001194088":{count:51, commentsEnabled:false},
+"100000001194098":{count:17, commentsEnabled:true},
+"100000001194137":{count:109, commentsEnabled:false},
+"100000001194342":{count:159, commentsEnabled:false},
+"100000001194394":{count:68, commentsEnabled:false},
+"100000001194454":{count:36, commentsEnabled:false},
+"100000001194795":{count:192, commentsEnabled:false},
+"100000001194808":{count:628, commentsEnabled:false},
+"100000001194892":{count:125, commentsEnabled:false},
+"100000001195360":{count:33, commentsEnabled:false},
+"100000001195689":{count:178, commentsEnabled:false},
+"100000001195802":{count:10, commentsEnabled:false},
+"100000001195854":{count:304, commentsEnabled:false},
+"100000001195914":{count:48, commentsEnabled:false},
+"100000001195920":{count:17, commentsEnabled:false},
+"100000001195923":{count:44, commentsEnabled:false},
+"100000001195938":{count:138, commentsEnabled:false},
+"100000001195940":{count:10, commentsEnabled:false},
+"100000001195947":{count:92, commentsEnabled:false},
+"100000001195952":{count:162, commentsEnabled:false},
+"100000001195976":{count:141, commentsEnabled:false},
+"100000001195982":{count:283, commentsEnabled:false},
+"100000001196229":{count:42, commentsEnabled:false},
+"100000001196250":{count:104, commentsEnabled:true},
+"100000001196432":{count:333, commentsEnabled:false},
+"100000001196658":{count:42, commentsEnabled:false},
+"100000001196737":{count:28, commentsEnabled:true},
+"100000001196861":{count:18, commentsEnabled:false},
+"100000001196955":{count:71, commentsEnabled:true},
+"100000001196963":{count:143, commentsEnabled:false},
+"100000001197064":{count:68, commentsEnabled:false},
+"100000001197489":{count:3, commentsEnabled:false},
+"100000001197999":{count:75, commentsEnabled:false},
+"100000001198014":{count:290, commentsEnabled:false},
+"100000001198050":{count:69, commentsEnabled:true},
+"100000001198076":{count:32, commentsEnabled:true},
+"100000001198092":{count:204, commentsEnabled:false},
+"100000001198110":{count:424, commentsEnabled:false},
+"100000001198123":{count:343, commentsEnabled:false},
+"100000001198126":{count:62, commentsEnabled:false},
+"100000001198138":{count:163, commentsEnabled:false},
+"100000001198377":{count:143, commentsEnabled:true},
+"100000001198446":{count:23, commentsEnabled:true},
+"100000001198471":{count:52, commentsEnabled:true},
+"100000001198476":{count:157, commentsEnabled:true},
+"100000001198581":{count:48, commentsEnabled:true},
+"100000001198642":{count:253, commentsEnabled:false},
+"100000001199366":{count:136, commentsEnabled:true},
+"100000001199374":{count:114, commentsEnabled:true},
+"100000001199444":{count:155, commentsEnabled:false},
+"100000001199658":{count:4, commentsEnabled:true},
+"100000001200046":{count:884, commentsEnabled:true},
+"100000001200335":{count:165, commentsEnabled:false},
+"100000001200378":{count:192, commentsEnabled:false},
+"100000001200458":{count:77, commentsEnabled:false},
+"100000001200844":{count:23, commentsEnabled:true},
+"100000001201276":{count:88, commentsEnabled:true},
+"100000001201525":{count:188, commentsEnabled:true},
+"100000001202361":{count:0, commentsEnabled:true},
+"100000001202521":{count:27, commentsEnabled:true},
+"100000001202701":{count:270, commentsEnabled:false},
+"100000001202807":{count:17, commentsEnabled:true},
+"100000001202815":{count:116, commentsEnabled:false},
+"100000001202831":{count:232, commentsEnabled:true},
+"100000001202861":{count:95, commentsEnabled:true},
+"100000001202869":{count:39, commentsEnabled:true},
+"100000001202871":{count:23, commentsEnabled:true},
+"100000001202889":{count:54, commentsEnabled:true},
+"100000001202895":{count:33, commentsEnabled:true},
+"100000001202901":{count:90, commentsEnabled:true},
+"100000001203208":{count:19, commentsEnabled:true},
+"100000001203416":{count:220, commentsEnabled:true},
+"100000001203664":{count:0, commentsEnabled:true},
+"100000001188908":{count:16, commentsEnabled:true},
+"100000001194403":{count:0, commentsEnabled:true},
+"100000001194404":{count:0, commentsEnabled:true},
+"100000001194405":{count:71, commentsEnabled:true},
+"100000001194406":{count:0, commentsEnabled:true},
+"100000001194419":{count:1, commentsEnabled:true},
+"100000001194423":{count:58, commentsEnabled:true},
+"100000001194424":{count:0, commentsEnabled:true},
+"100000001194425":{count:0, commentsEnabled:true},
+"100000001194427":{count:0, commentsEnabled:true},
+"100000001194843":{count:51, commentsEnabled:true},
+"100000001197746":{count:1, commentsEnabled:true},
+"100000001201815":{count:0, commentsEnabled:true},
+"100000001201989":{count:0, commentsEnabled:true}
+};
+</script>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/homepage/articleCommentCounts.js"></script>
+<script type="text/javascript" language="JavaScript">
+    ArticleCommentCounts.apply()
+    </script>
+
+			
+		<!-- Start UPT call -->
+		<img height="1" width="3" border=0 src="http://up.nytimes.com/?d=0//&t=3&s=0&ui=&r=&u=www%2enytimes%2ecom%2fpages%2fnyregion%2findex%2ehtml%3f">
+		<!-- End UPT call -->
+	
+		
+        <script language="JavaScript"><!--
+          var dcsvid="";
+          var regstatus="non-registered";
+        //--></script>
+        <script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+        <noscript>
+          <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div>
+        </noscript>
+   
+</body>
+</html>

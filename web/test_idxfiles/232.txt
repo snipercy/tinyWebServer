@@ -1,0 +1,3 @@
+Location: http://www.nytimes.com/glogin?URI=http://www.nytimes.com/2011/12/03/world/middleeast/syrians-say-they-are-feeling-grip-of-economic-sanctions.html&OQ=_rQ3D1Q26hpw&OP=55d600f3Q2F8ldC8Q5E)Q2AQ3Dr))JZ8Z6RR8RZ86@8l)rjQ5E8n0Q5EQ5EjddcQ3DJ8Q3Dvr0cxQ3DQ3CQ3DcvQ3CJVdvQ3CcrdQ3C2ddj0x_Q3C_r0Q26Q3C)2Q3CdQ2A)x)n0Q2AQ3CQ3DcxQ2AJ0)xQ3DQ20VJnj
+Connection: keep-alive
+

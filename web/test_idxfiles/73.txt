@@ -1,0 +1,247 @@
+Connection: close
+X-Powered-By: PHP/5.2.9
+Vary: Cookie
+Last-Modified: Fri, 02 Dec 2011 18:04:21 +0000
+Cache-Control: max-age=290, must-revalidate
+X-Pingback: http://beta620.nytimes.com/xmlrpc.php
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>beta620 | Experimental Projects From The New York Times</title>
+<link rel="stylesheet" media="screen" href="http://graphics8.nytimes.com/css/0.1/screen/build/beta620/styles.css">
+<!--[if IE]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script type="text/javascript" src="http://typeface.nytimes.com/bqu0ftf.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link rel="alternate" type="application/rss+xml" title="beta620 &raquo; Feed" href="http://beta620.nytimes.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="beta620 &raquo; Comments Feed" href="http://beta620.nytimes.com/comments/feed/" />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://beta620.nytimes.com/wp-content/plugins/contact-form-7/styles.css?ver=2.4.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://beta620.nytimes.com/wp-includes/js/l10n.js?ver=20101110'></script>
+<script type='text/javascript' src='http://beta620.nytimes.com/wp-includes/js/jquery/jquery.js?ver=1.6.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://beta620.nytimes.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://beta620.nytimes.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='beta620' href='http://beta620.nytimes.com/' />
+<meta name="generator" content="WordPress 3.2.1" />
+<script type="text/javascript">
+//<![CDATA[
+var _wpcf7 = { cached: 1 };
+//]]>
+</script>
+<meta name="PT" content="Blogs" /><meta name="PST" content="Blog Main" /><meta name="CG" content="" />
+<meta name="SCG" content="beta620" />
+<meta name="BN" content="beta620" />
+<script type="text/javascript">
+//<![CDATA[
+var _beta620 = { highlighted_nav: -1 };
+//]]>
+</script>
+<!--
+	generated 10 seconds ago
+	generated in 0.379 seconds
+	served from batcache in 0.004 seconds
+	expires in 290 seconds
+-->
+</head>
+<body>
+<div id="shell">
+		<div id="masthead" class="containingBlock">
+			<div class="insetPadded">
+				<header role="banner">
+					<div class="opposingFloatControl wrap">
+						<hgroup>
+							<div class="element1">
+							<h1 class="branding"><a href="http://beta620.nytimes.com"><img src="http://graphics8.nytimes.com/images/beta620/labs_logo.png" width="249" height="50" alt="Experimental Projects From The New York Times"></a></h1>
+							</div>
+							<div class="element2">
+								<h2><img src="http://graphics8.nytimes.com/images/beta620/nyt_logo.png" width="166" height="23" alt="The New York Times"/></h2>
+							</div>
+						</hgroup>
+					</div>
+				</header>
+				<nav class="mainNavigation">
+				<ul id="menu-top" class="horizontalMenu"><li id="menu-item-22" class=" selected current_page_item  menu-item-22"><a href="http://beta620.nytimes.com/">Projects</a></li>
+<li id="menu-item-24" class=" menu-item-24"><a href="http://beta620.nytimes.com/blog/">What&#8217;s Going On</a></li>
+<li id="menu-item-250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-250"><a href="http://beta620.nytimes.com/graduates/">Graduates</a></li>
+<li id="menu-item-222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-222"><a href="http://beta620.nytimes.com/suggestions/">Suggestions</a></li>
+</ul>				</nav>
+			</div><!-- close inset -->
+		</div><!-- close masthead -->
+<script type="text/javascript">
+//<![CDATA[
+if(_beta620.highlighted_nav>-1){jQuery.each(jQuery("#menu-top").find("a"),function(key, value){if(key == _beta620.highlighted_nav){if(jQuery(this).parent().hasClass('selected')){}else{jQuery(this).parent().addClass('selected');}}});}
+//]]>
+</script>
+<div id="main">
+	<div class="spanBC"><div class="aColumn">
+<div class="inset">
+		<article class="">
+			<header>
+				<h1><a href="http://beta620.nytimes.com/2011/11/17/uist-and-hcir-fellow-traveler-scott-bateman/">UIST and HCIR fellow traveler, Scott Bateman</a></h1>
+									<p class="summaryLg">I wasn't the only person who spent a good chunk of his October in California attending the UIST and HCIR computing research conferences. Scott Bateman is in the final year of his Ph.D. in Computer Science at the University of Saskatchewan in Canada. He co-authored a paper at UIST (with video) and presented a poster at HCIR. 
+
+I got him on the phone, just as the season's first snow was falling in Saskatoon.
+</p>
+								<p class="byline">By <span>Brad Stenger</span></p>
+			</header>
+			<footer>
+				<time class="dateline">11/17/2011 10:43 <sup>PM</sup></time>
+			</footer>
+		</article>
+		<article class="singleRuleLt">
+			<header>
+				<h1><a href="http://beta620.nytimes.com/2011/11/03/2011-hcir-workshop-at-google/">2011 HCIR Workshop at Google</a></h1>
+								<p class="byline">By <span>Brad Stenger</span></p>
+			</header>
+			<footer>
+				<time class="dateline">11/3/2011 10:21 <sup>PM</sup></time>
+			</footer>
+		</article>
+		<article class="singleRuleLt">
+			<header>
+				<h1><a href="http://beta620.nytimes.com/2011/10/31/uist-2011-mobile-interfaces-research/">UIST 2011: Mobile Interfaces Research</a></h1>
+								<p class="byline">By <span>Brad Stenger</span></p>
+			</header>
+			<footer>
+				<time class="dateline">10/31/2011 10:18 <sup>PM</sup></time>
+			</footer>
+		</article>
+<div class="opposingFloatControl pagination">
+	<div class="element1">
+		<a href="http://beta620.nytimes.com/blog/page/2/" class="button">&laquo; Older</a>
+	</div>
+</div><!-- close pagination -->
+	</aside>
+</section></div><!-- close inset -->
+</div><!-- close aColumn -->
+				<div class="bcColumn">
+					<div class="inset">
+						<section class="featuredProjects">
+							<h1 class="sectionHeading">Featured Projects</h1>
+							<aside class="featuredProjectsModule">
+								<div class="subColumn-3"><article class="column firstColumn"> 
+<div class="inset"> 
+	<div class="cardModule mashups"> 
+<div class="moduleLabel"><h5>Mashups</h5></div>
+<div class="inset"> 
+	<header><h1 class="moduleHeading"><a href="http://beta620.nytimes.com/projects/timesinstant/">TimesInstant</a></h1></header> 
+<p class="summary">Speed up and simplify the search experience on NYTimes.com. </p> 
+<footer class="opposingFloatControl"> 
+	<div class="element1"><a class="button" href="http://beta620.nytimes.com/projects/timesinstant/">Project Page &#187;</a></div>
+</footer>
+</div><!-- close inset --> 
+</div><!-- close cardModule --> 
+</div><!-- close inset --> 
+</article>
+<article class="column "> 
+<div class="inset"> 
+	<div class="cardModule social"> 
+<div class="moduleLabel"><h5>Social</h5></div>
+<div class="inset"> 
+	<header><h1 class="moduleHeading"><a href="http://beta620.nytimes.com/projects/community-hub/">Community Hub</a></h1></header> 
+<p class="summary">A handy, informative dashboard of user generated content on NYTimes.com. </p> 
+<footer class="opposingFloatControl"> 
+	<div class="element1"><a class="button" href="http://beta620.nytimes.com/projects/community-hub/">Project Page &#187;</a></div>
+</footer>
+</div><!-- close inset --> 
+</div><!-- close cardModule --> 
+</div><!-- close inset --> 
+</article>
+<article class="column lastColumn"> 
+<div class="inset"> 
+	<div class="cardModule apps"> 
+<div class="moduleLabel"><h5>Apps</h5></div>
+<div class="inset"> 
+	<header><h1 class="moduleHeading"><a href="http://beta620.nytimes.com/projects/nytimes-crossword-web-app/">NYTimes Crossword Web App</a></h1></header> 
+<p class="summary">Play the new HTML5 New York Times Crossword Puzzle Web app. No plugins required.</p> 
+<footer class="opposingFloatControl"> 
+	<div class="element1"><a class="button" href="http://beta620.nytimes.com/projects/nytimes-crossword-web-app/">Project Page &#187;</a></div>
+</footer>
+</div><!-- close inset --> 
+</div><!-- close cardModule --> 
+</div><!-- close inset --> 
+</article>
+</div><!-- close subColumn-3 -->
+							</aside><!-- close featuredProjectsModule -->
+						</section><!-- close section -->
+						<section class="projectsArchive singleRule">
+							<header class="opposingFloatControl">
+								<div class="element1">
+									<h1 class="sectionHeading">More Projects &raquo;</h1>
+								</div>
+<!--								<div class="element2"> -->
+<!--									<form class="searchForm" method="get">-->
+<!--										<div class="control"> -->
+<!--										   <input type="text" class="text" id="s" name="s"><button class="searchButton">Search</button> -->
+<!--										</div> -->
+<!--									</form> -->
+<!--								</div>-->
+							</header><!-- close header -->
+							<div class="subColumn-2">
+								<div class="column firstColumn">
+									<div class="inset">
+																				<ul class="projectsArchiveList">
+																				<li><a href="http://beta620.nytimes.com/projects/longitude/">Longitude</a></li>
+																				<li><a href="http://beta620.nytimes.com/projects/the-buzz/">The Buzz</a></li>
+																				</ul>
+																			</div><!-- close inset -->
+								</div><!-- close column -->
+								<div class="column lastColumn">
+									<div class="inset">
+																				<ul class="projectsArchiveList">
+																				<li><a href="http://beta620.nytimes.com/projects/smart-search-bar/">Smart Search Bar</a></li>
+																				<li><a href="http://beta620.nytimes.com/projects/times-companion/">Times Companion</a></li>
+																				</ul>
+																			</div><!-- close inset -->
+								</div><!-- close column -->
+							</div><!-- close subColumn-2 -->
+						</section><!-- close section -->
+					</div><!-- close inset -->
+				</div><!-- close bcColumn -->
+
+			</div><!-- close spanBC -->
+		</div><!-- close main -->
+<footer id="footer" role="contentinfo">
+<div class="spanABC">
+	<div class="aColumn"><div class="inset"><h4>About beta620</h4>			<div class="textwidget"><p>This site serves as a springboard for the creativity of our software developers, journalists and product managers, who will use it as a platform to showcase new and exciting ideas for The Times. Feel free to browse our projects and be sure to let us know what you think.</p>
+<p><a href="http://beta620.nytimes.com/2011/08/07/intro-beta620-post/">Welcome to beta620</a> | <a href="http://twitter.com/#!/beta620">Twitter</a> | <a href="https://www.facebook.com/beta620">Facebook</a> </p>
+</div>
+		</div></div><div class="bColumn"><div class="inset"><h4>Developing at The Times</h4>			<div class="textwidget"><p>The New York Times is committed to constant development and innovation. beta620 is the latest example of that commitment. In addition to our internal Technology and Innovation Challenges, we also host a series of TimesOpen events and an annual hack day. </p>
+<p><a href="http://open.blogs.nytimes.com/">TimesOpen</a> | <a href="http://developer.nytimes.com/">Developer Network</a> | <a href="http://bit.ly/nytjobs">Work for Us</a></p>
+</div>
+		</div></div><div class="cColumn"><div class="inset"><h4>About NYTimes.com</h4>			<div class="textwidget"><p>The core purpose of The New York Times is to enhance society by creating, collecting and distributing high-quality news, information and entertainment. While the Internet has changed the way news is distributed and consumed, our Company is committed to producing high-quality journalism on any platform.   </p>
+<p><a href="http://www.nytimes.com">NYTimes.com</a> | <a href="http://www.nytimes.com/content/help/rights/privacy/highlights/privacy-highlights.html">Privacy Policy</a> | <a href="http://www.nytimes.com/content/help/rights/terms/terms-of-service.html">Terms of Service</a></p>
+</div>
+		</div></div></div><!-- close spanABC -->
+</footer><!-- close footer -->
+</div><!-- close shell -->
+<script type='text/javascript' src='http://beta620.nytimes.com/wp-content/plugins/contact-form-7/jquery.form.js?ver=2.52'></script>
+<script type='text/javascript' src='http://beta620.nytimes.com/wp-content/plugins/contact-form-7/scripts.js?ver=2.4.6'></script>
+<!-- webtrends -->
+<script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div>
+</noscript>
+<!-- webtrends End -->
+<!-- Start UPT call -->
+<script type="text/javascript">
+document.write('<img class="uptCall" height="1" width="3" border="0" src="http://up.nytimes.com/?d=0//&t=15&s=1&ui=&r=' + encodeURIComponent(document.referrer) + '&u=' + encodeURIComponent(document.location) + '">');
+</script>
+<!-- UPT call End -->
+<!-- Google Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4406282-115']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- Google Analytics End -->
+</body>
+</html>

@@ -1,0 +1,898 @@
+Set-Cookie: ASPSESSIONIDAAQRQDDT=KDDBCJIAHHKJDLEHOACHBEKI; path=/
+Cache-control: private
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>The New York Times: Weddings Directory </title>
+<meta name="keywords" content="Weddings Directory">
+<meta name="description" content="Weddings Directory">
+
+  
+<script src="http://www.nytimes.com/adx/bin/adx_remote.html?type=fastscript&page=listings.nytimes.com/weddings/search&posall=Top5,TopLeft,Middle1,SFMiddle,SponLink,TopAd,Right3,Right1,Bottom7,Bottom8,Bottom9,Inv1,Inv2,Inv3&query=qstring&keywords=?"></script>
+
+<script type="text/javascript" src="http://www.nytimes.com/js/goToURL2.js"></script>
+<!-- begin site-wide js functions -->
+<script src="http://www.nytimes.com/js/common.js"></script>
+<script src="http://www.nytimes.com/js/todays_date.js" type="text/javascript" language="JavaScript"></script>
+<!-- end site-wide js functions -->
+
+<script type="text/JavaScript">
+<!--
+function goToURL(obj){
+	var f = (obj.section) ? obj : obj.form;
+	var selected = f.section.selectedIndex;
+	var URL = f.section.options[selected].value;
+	if (URL != "") document.location = URL;
+		return false;
+	}
+//-->
+</script>
+
+<!-- the following code checks for version 6.+ of the Macromedia Flash player  -->
+<!-- begin VBScript Flash Detect for IE/PC -->
+<script language="vbscript">
+	on error resume next
+	var gotFlash
+	gotFlash = False
+	gotFlash = IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.6"))
+</script>
+<!-- end VBScript Flash Detect for IE/PC -->
+<!-- begin javascript plugin detect functions -->
+<script language="javascript">
+var targetVersion = 6;
+//Look for correct version of Flash plugin. If found, then launch window.
+if ((navigator.plugins) && (navigator.plugins["Shockwave Flash"])) {
+	var d = navigator.plugins["Shockwave Flash"].description;
+	var v = parseInt(d.charAt(d.indexOf(".") - 1));
+	//if the player is version 6 or above then set flag
+	gotFlash = (v >= targetVersion)	? true : false;
+}
+</script>
+<!-- end javascript plugin detect functions -->
+
+
+<link rel="stylesheet" href="css/nyt_uls.css" type="text/css" />
+<link rel="stylesheet" href="css/gabriels.css" type="text/css" />
+<link rel="stylesheet" href="css/global.css" type="text/css" />
+</head>
+<body marginheight="5" marginwidth="5" leftmargin="5" topmargin="5" link="#000066" bgcolor="#ffffff" alink="#000066" vlink="#000066">
+
+<!-- Top5 position -->
+<script language="JavaScript">
+<!--
+if (typeof adxpos_Top5 != "undefined")
+    document.write(adxads[adxpos_Top5]);
+// -->
+</script>
+<noscript>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=cookie&pos=Top5"><img src="http://www.nytimes.com/adx/bin/adx_remote.html?type=noscript&page=listings.nytimes.com/weddings/search&posall=Top5,TopLeft,Middle1,SFMiddle,SponLink,TopAd,Right3,Right1,Bottom7,Bottom8,Bottom9,Inv1,Inv2,Inv3&pos=Top5&query=qstring&keywords=?"></a></noscript>
+
+<TABLE WIDTH="768" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+ 
+ <TR>
+  <TD ALIGN="left" width="180">
+   <!-- TopLeft position -->
+<script language="JavaScript">
+<!--
+if (typeof adxpos_TopLeft != "undefined")
+    document.write(adxads[adxpos_TopLeft]);
+// -->
+</script>
+<noscript>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=cookie&pos=TopLeft"><img src="http://www.nytimes.com/adx/bin/adx_remote.html?type=noscript&page=listings.nytimes.com/weddings/search&posall=Top5,TopLeft,Middle1,SFMiddle,SponLink,TopAd,Right3,Right1,Bottom7,Bottom8,Bottom9,Inv1,Inv2,Inv3&pos=TopLeft&query=qstring&keywords=?"></a></noscript>
+  </TD>
+  <TD ALIGN="center" width="408"><a href="default.asp"><IMG src="images/logo_big.gif" border="0"></a></TD>
+  
+  <TD ALIGN="right" width="180" class="text_headersmall"><script src="http://www.nytimes.com/js/print_todays_date.js" type="text/javascript" language="JavaScript"></script>&nbsp;&nbsp;</TD>
+  
+ </TR>
+ 
+ <tr>
+  <td colspan="3"><IMG src="images/spacer.gif" width="1" height="4"></td>
+ </TR>
+</TABLE>
+
+<TABLE WIDTH="768" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+ <TR>
+  <TD bgcolor="#000000"><img src="images/spacer.gif" width="1" height="3"></TD>
+ </TR>
+</TABLE>
+
+<table width="768" cellspacing="0" cellpadding="0" valign="top" border="0">
+ <tr>
+  <td width="5"><img src="images/spacer.gif" width="5" height="20"></td>
+  <td width="379">
+   <strong>NYTimes:</strong>&nbsp;
+   <a href="http://www.nytimes.com/index.html">Home</a> -
+   <a href="http://www.nytimes.com/ref/membercenter/help/siteindex.html">Site Index</a> -
+   <a href="http://query.nytimes.com/search/archive.html">Archive</a> -
+   <a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a>
+  </td>
+  <td width="379" align="right">
+   <strong>Weddings Directory:</strong>&nbsp;
+   
+   <a href="JavaScript: openHelp('help.html')">FAQs</a> |
+   <a href="JavaScript: openHelp('help.html#Contact')">Contact Us</a>
+   
+  </td>
+  <td width="5"><img src="images/spacer.gif" width="5" height="20"></td>
+ </tr>
+ <tr>
+  <td width="768" colspan="4" bgcolor="#000000"><img src="images/spacer.gif" width="768" height="1"></td>
+ </tr>	
+</table>
+
+<table border="0" cellspacing="0" cellpadding="0" width="768" background="images/bg_header.gif">
+ <tr>
+  <td colspan="5"><img src="images/spacer.gif" width="1" height="5"></td>
+ </tr>
+ <tr>
+  <td width="5"><img src="images/spacer.gif" width="5" height="1"></td>
+  <td align="left">
+   <table cellspacing="0" cellpadding="0" border="0">
+    <form name="sectionform" onsubmit="return goToURL(this);">
+    <tr>
+	 <td valign="center">
+	  <select name="section" onchange="goToURL(this);" class="text_header">
+	   <option selected="">Go to a Section</option>
+	   <option>-----------------------</option>
+	   <option value="http://www.nytimes.com/pages/arts/index.html?gts">Arts</option>
+	   <option value="http://www.nytimes.com/pages/automobiles/index.html?gts">Automobiles</option>
+	   <option value="http://www.nytimes.com/pages/books/index.html?gts">Books</option>
+	   <option value="http://www.nytimes.com/pages/business/index.html?gts">Business</option>
+	   <option value="http://www.nytimes.com/pages/politics/campaign/index.html?gts">Campaign 2004</option>
+	   <option value="http://www.nytimes.com/pages/cartoons/index.html?gts">Cartoons</option>
+	   <option value="http://listings.nytimes.com/ClassifiedsMarketplace/">Classifieds Marketplace</option>
+	   <option value="http://www.nytimes.com/corrections.html?gts">Corrections</option>
+	   <option value="http://www.nytimes.com/pages/crosswords/index.html?gts">Crossword/Games</option>
+	   <option value="http://www.nytimes.com/pages/dining/index.html?gts">Dining & Wine</option>
+	   <option value="http://www.nytimes.com/pages/opinion/index.html?gts">Editorials/Op-Ed</option>
+	   <option value="http://www.nytimes.com/pages/education/index.html?gts">Education</option>
+	   <option value="http://www.nytimes.com/pages/fashion/index.html?gts">Fashion & Style</option>
+	   <option value="http://www.nytimes.com/pages/health/index.html?gts">Health</option>
+	   <option value="http://www.nytimes.com/pages/garden/index.html?gts">Home & Garden</option>
+	   <option value="http://www.nytimes.com/pages/world/index.html?gts">International</option>
+	   <option value="http://www.nytimes.com/pages/jobs/index.html?gts">Job Market</option>
+	   <option value="http://www.nytimes.com/learning?gts">Learning Network</option>
+	   <option value="http://www.nytimes.com/pages/magazine/?gts">Magazine</option>
+	   <option value="http://movies.nytimes.com?gts">Movies</option>
+	   <option value="http://www.nytimes.com/pages/multimedia/index.html?gts">Multimedia/Photos</option>
+	   <option value="http://www.nytimes.com/top/features/travel/destinations/unitedstates/newyork/newyorkcity/index.html?gts">NYC Guide</option>
+	   <option value="http://www.nytimes.com/pages/pageone/index.html?gts">NYT Front Page</option>
+	   <option value="http://www.nytimes.com/pages/national/index.html?gts">National</option>
+	   <option value="http://www.nytimes.com/pages/nyregion/index.html?gts">New York Region</option>
+	   <option value="http://www.nytimes.com/pages/obituaries/index.html?gts">Obituaries</option>
+	   <option value="http://www.nytimes.com/pages/readersopinions/index.html?gts">Readers' Opinions</option>
+	   <option value="http://www.nytimes.com/pages/realestate/index.html?gts">Real Estate</option>
+	   <option value="http://www.nytimes.com/pages/science/index.html?gts">Science</option>
+	   <option value="http://www.nytimes.com/pages/sports/index.html?gts">Sports</option>
+	   <option value="http://www.nytimes.com/pages/technology/index.html?gts">Technology</option>
+	   <option value="http://www.nytimes.com/top/opinion/thepubliceditor/index.html?gts">The Public Editor</option>
+	   <option value="http://theater.nytimes.com/pages/theater/index.html?gts">Theater</option>
+	   <option value="http://www.nytimes.com/pages/travel/index.html?gts">Travel</option>
+	   <option value="http://www.nytimes.com/pages/politics/index.html?gts">Washington</option>
+	   <option value="http://www.nytimes.com/weather/?gts">Weather</option>
+	   <option value="http://www.nytimes.com/pages/weekinreview/index.html?gts">Week in Review</option>
+	   <option>-----------------------</option>
+	   <option value="http://www.nytimes.com/ref/membercenter/help/siteindex.html#services">Services</option>
+	  </select>
+	 </td>
+	 <td width="5"><img src="http://graphics.nytimes.com/images/misc/spacer.gif" width="5" height="1" border="0" alt=""/></td>
+	 <td width="17" valign="center"><input width="28" height="21" border="0" alt="Go" type="image" src="http://graphics7.nytimes.com/images/misc/go_button.gif"></td>
+	 <td width="10"><img src="http://graphics.nytimes.com/images/misc/spacer.gif" width="10" height="1" border="0" alt=""/></td>
+	</tr>
+	</form>
+   </table>
+  </td>
+  <td align="right">
+   <!-- Middle1 position -->
+<script language="JavaScript">
+<!--
+if (typeof adxpos_Middle1 != "undefined")
+    document.write(adxads[adxpos_Middle1]);
+// -->
+</script>
+<noscript>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=cookie&pos=Middle1"><img src="http://www.nytimes.com/adx/bin/adx_remote.html?type=noscript&page=listings.nytimes.com/weddings/search&posall=Top5,TopLeft,Middle1,SFMiddle,SponLink,TopAd,Right3,Right1,Bottom7,Bottom8,Bottom9,Inv1,Inv2,Inv3&pos=Middle1&query=qstring&keywords=?"></a></noscript>
+  </td>
+  <td width="5"><img src="images/spacer.gif" width="5" height="1"></td>
+ </tr>
+ <tr>
+  <td colspan="5"><img src="images/spacer.gif" width="1" height="5"></td>
+ </tr>
+ <tr>
+  <td bgcolor="#cccccc" colspan="5"><img src="images/spacer.gif" width="1" height="1"></td>
+ </tr>
+</table>
+
+<TABLE WIDTH="768" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+ 
+ <tr>
+  <td bgcolor="#cccccc" colspan="5"><img src="images/spacer.gif" width="1" height="1"></td>
+ </tr>
+</TABLE>
+
+<div id="navBar" class="navHeader">
+
+<table width="768" cellspacing="0" cellpadding="0" border="0" valign="top" class="navHeader">
+ <tr>
+  <td class="navHeader" align="center" width="174"><a href="http://listings.nytimes.com/ClassifiedsMarketplace/">Classifieds Marketplace</a></td>
+  <td><IMG src="http://graphics8.nytimes.com/images/misc/nav_pipe.gif" alt="" width="1" height="23" border="0" /></td>
+  <td class="navHeader" align="center" width="185"><a href="searchindex.asp">Weddings Directory Home</a></td>
+  <td><IMG src="http://graphics8.nytimes.com/images/misc/nav_pipe.gif" alt="" width="1" height="23" border="0" /></td>
+  <td class="navHeader" align="center" width="158"><a href="http://www.legacy.com/nytimes/celebrations.asp?Page=SearchResults">Paid Announcements</a></td>
+  <td><IMG src="http://graphics8.nytimes.com/images/misc/nav_pipe.gif" alt="" width="1" height="23" border="0" /></td>
+  <td class="navHeader" align="center" width="147"><a class="text_footer" href="list_listings.asp">Weddings Services</a></td>
+  <td><IMG src="http://graphics8.nytimes.com/images/misc/nav_pipe.gif" alt="" width="1" height="23" border="0" /></td>
+  <td class="navHeader" align="center" width="104"><a href="https://placead.nytimes.com/legacy.html">Place an Ad</a></td>
+ </tr>
+ <tr>
+  <td background="http://graphics8.nytimes.com/images/misc/nav_bg.gif" colspan="9"><IMG src="images/spacer.gif" height="2" border="0" alt="0" /></td>
+ </tr>
+</table>
+
+</div>
+
+<TABLE WIDTH="768" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+ <tr>
+  <TD align="center"><div class="b10"><img src="images/spacer.gif" width="1" height="1"></div></TD>
+ </TR>
+</TABLE>       
+<TABLE width="768" cellspacing="0" cellpadding="0" valign="top" border="0">
+ <TR>
+  <TD colspan="3" align="center"><center><font class="smtext" size="1" face="arial, helvetica, sans serif" color="#333333">The editorial staff of The New York Times is not involved in the selection of these announcements or the production of this listing service.</font></center></TD>
+ </TR>
+ <TR>
+  <TD colspan="3"><img src="images/spacer.gif" width="1" height="5"></TD>
+ </TR>
+ <TR>
+  <TD width="412">
+   
+   <TABLE WIDTH="412" border="0" cellpadding="0" cellspacing="0" class="table_maincolor">
+	<TR>
+	 <TD colspan="9"><img src="images/hd_paidannouncements.gif"></TD>
+    </TR>
+	<TR>
+	 <TD>
+	  <TABLE border="0" cellpadding="0" cellspacing="0">
+	   <TR>
+	    <TD colspan="3"><img src="images/spacer.gif" width="1" height="5"></TD>
+	   </TR>
+	   <TR>
+	    <TD align="center" width="190" valign="top">
+	    
+
+<script language="javascript" src="http://www.legacy.com/Celebrations/Services/FeaturedAnnouncement.asp?Script=1&Cobrand=nytimes"></script>
+<script type="text/JavaScript">
+	if( LegacyFeaturedAnnouncementIsAvailable() == 1 )
+	{
+		document.write('<TABLE border="0" cellpadding="0" cellspacing="0">');
+		document.write(' <TR>');
+		document.write('  <TD align="center"><img src="images/hdsmall_featuredannouncement.gif"></TD>');
+		document.write(' </TR>');
+		document.write(' <tr>');
+		document.write('  <TD align="center">');
+		document.write('   <TABLE cellpadding="0" cellspacing="0" style="border: 1px solid #CCCCCC;" align="center">');
+		document.write('    <tr>');
+		document.write('	    <td><a href="' + LegacyFeaturedAnnouncementLinkUrl() + '"><img src="' + LegacyFeaturedAnnouncementImageUrl() + '" style="border:2px #FFFFFF solid;" onload="if(this.width>126){this.height=this.height*(126/this.width);this.width=126;}" height="100"></a></td>');
+		
+		//LegacyFeaturedAnnouncementWriteStartLink();
+		//LegacyFeaturedAnnouncementWriteImage();
+		//LegacyFeaturedAnnouncementWriteEndLink();
+		
+		document.write('    </tr>');
+		document.write('   </table>');
+		document.write('  </TD>');
+		document.write(' </TR>');
+		document.write(' <TR>');
+		document.write('  <TD>');
+		document.write('   <TABLE cellpadding="2" cellspacing="0" border="0" align="center">');
+		document.write('    <tr>');
+		document.write('     <td width="10"></TD>');
+		document.write('     <td class="text_details" align="center">');
+		document.write('	  <a href="' + LegacyFeaturedAnnouncementLinkUrl() + '">' + LegacyFeaturedAnnouncementName() + '</a><br>');
+		document.write('      ' + LegacyFeaturedAnnouncementType() + '<br>');
+		document.write('     </TD>');
+		document.write('     <td width="10"></TD>');
+		document.write('    </tr>');
+		document.write('   </table>');
+		document.write('  </TD>');
+		document.write(' </tr>');
+		document.write('</table>');
+	}
+</script>
+
+	    
+		</TD>
+	    <TD width="1" bgcolor="#B4C5DC"><img src="images/spacer.gif" width="1" height="1"></TD>
+	    <TD align="center" width="221" valign="top">
+		 <TABLE border="0" cellpadding="0" cellspacing="0">
+	      
+		  <TR>
+		   <TD align="center" colspan="3">
+		    <img src="images/hdsmall_findannouncement.gif"><br>
+			<img src="images/but_annoucements_top.gif"><br>
+			<a href="http://www.legacy.com/nytimes/celebrations.asp?Page=SearchResults&CelebrationToDisplay=1"><img src="images/but_weddingannoucements.gif" border="0"></a><br>
+			<a href="http://www.legacy.com/nytimes/celebrations.asp?Page=SearchResults&CelebrationToDisplay=4"><img src="images/but_anniversaryannoucements.gif" border="0"></a><br>
+			<a href="http://www.legacy.com/nytimes/celebrations.asp?Page=SearchResults&CelebrationToDisplay=2"><img src="images/but_engagementannoucements.gif" border="0"></a><br>
+			<a href="http://www.legacy.com/nytimes/celebrations.asp?Page=SearchResults"><img src="images/but_viewallannoucements.gif" border="0"></a><br>
+			<img src="images/but_annoucements_bottom.gif"><br>
+		   </TD>
+		  </TR>
+	      
+	      <TR>
+	       <TD colspan="3"><img src="images/spacer.gif" width="1" height="10"></TD>
+	      </TR>
+		  <tr>
+		   <TD width="10" ><img src="images/spacer.gif" width="10" height="1"></TD>
+	       <TD bgcolor="#B4C5DC" width="392"><img src="images/spacer.gif" width="1" height="1"></TD>
+	       <TD width="10"><img src="images/spacer.gif" width="10" height="1"></TD>
+		  </TR>
+	      <TR>
+	       <TD colspan="3"><img src="images/spacer.gif" width="1" height="10"></TD>
+	      </TR>
+	      
+		  <TR>
+		   <TD align="center" colspan="3"><a href="https://placead.nytimes.com/legacy.html"><img src="images/but_placeannoucement.gif" border="0"></a></TD>
+		  </TR>
+	      
+	      <TR>
+	       <TD colspan="3"><img src="images/spacer.gif" width="1" height="5"></TD>
+	      </TR>
+		 </TABLE>
+		</TD>
+	   </TR>
+	  </TABLE>
+	  <TABLE border="0" cellpadding="0" cellspacing="0">
+	   <TR>
+	    <TD colspan="3"><img src="images/spacer.gif" width="1" height="5"></TD>
+	   </TR>
+	   <TR>
+	    <TD width="10"><img src="images/spacer.gif" width="10" height="1"></TD>
+	    <TD bgcolor="#B4C5DC" width="392"><img src="images/spacer.gif" width="1" height="1"></TD>
+	    <TD width="10"><img src="images/spacer.gif" width="10" height="1"></TD>
+	   </TR>
+	   <TR>
+	    <TD colspan="3"><img src="images/spacer.gif" width="1" height="5"></TD>
+	   </TR>
+	   
+	   <TR>
+	    <TD>&nbsp;</TD>
+		<TD><img src="images/hdsmall_searchannouncement.gif"></TD>
+		<TD>&nbsp;</TD>
+	   </TR>
+	  </TABLE>
+	  <TABLE border="0" cellpadding="0" cellspacing="0">
+	   <script language="JavaScript">  
+		function SearchAnnoucements(intCelebrationToDisplay){
+			document.AnnouncementSearch.CelebrationToDisplay.value = intCelebrationToDisplay;
+			document.AnnouncementSearch.submit();
+	   	} 
+       </script> 
+	   <form method="post" name="AnnouncementSearch" id="AnnouncementSearch" action="http://www.legacy.com/nytimes/Celebrations.asp?Page=SearchResults"> 
+       <input name="CelebrationToDisplay" id="CelebrationToDisplay" type="hidden" value="7">
+	   <TR>
+	    <TD width="10"><img src="images/spacer.gif" width="10" height="1"></TD>
+		<TD><input type="text" name="LastName" id="LastName" STYLE="width:330px; font-size:10px;">&nbsp;</TD>
+	    <TD><a href="javascript:SearchAnnoucements(7)"><img src="images/but_search.gif" border="0"></a></TD>
+	    <TD width="10"><img src="images/spacer.gif" width="10" height="1"></TD>
+	   </TR>
+	   <TR>
+	    <TD colspan="3"><img src="images/spacer.gif" width="1" height="10"></TD>
+	   </TR>
+	   </form>
+	   
+	  </TABLE>
+	 </TD>
+	</TR>
+	<TR>
+     <TD COLSPAN="9"><IMG SRC="images/ulsline_412.gif"></TD>
+    </TR>
+   </TABLE>
+   
+  </TD>
+  <TD width="20"><IMG SRC="images/spacer.gif" width="20" height="1"></TD>
+  <TD width="336" align="center">
+   <font class="smtext" size="1" face="arial, helvetica, sans serif" color="#999999">Advertisement</font>
+   <br>
+	<!--SFMiddle position Big Ad-->
+	<script>
+	<!--
+	if (typeof adxpos_SFMiddle != "undefined")
+    	document.write(adxads[adxpos_SFMiddle]);
+	// -->
+	</script>
+	<noscript>
+	<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=cookie&pos=SFMiddle">
+	<img src="http://www.nytimes.com/adx/bin/adx_remote.html?type=noscript&page=listings.nytimes.com/weddings/search&posall=Top5,TopLeft,Middle1,SFMiddle,SponLink,TopAd,Right3,Right1,Bottom7,Bottom8,Bottom9,Inv1,Inv2,Inv3&pos=SFMiddle&query=qstring&keywords=?">
+	</a></noscript>
+  </TD>
+ </TR>
+</TABLE>
+      
+<table width="768" cellspacing="0" cellpadding="0" valign="top" border="0">
+ <TR>
+  <TD colspan="3"><div class="b20"><IMG SRC="images/spacer.gif" width="1" height="1"></div></TD>
+ </TR>
+ <tr>
+  <td width="588" valign="top">
+
+<!--
+<MAP NAME="TheKnotBrowse">
+<AREA ALT="The Knot" COORDS="439,3,582,17" HREF="http://www.theknot.com">
+</MAP>
+-->
+   <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+	<TR>
+	 <TD>
+      <TABLE WIDTH="588" border="0" cellpadding="0" cellspacing="0" class="table_mylisitngs">
+	   <tr>
+	    <td colspan="10"><img src="images/hd_browse.gif" border="0"> <!--USEMAP="#TheKnotBrowse"--></td>
+	   </tr>
+	   <TR>
+	    <TD colspan="10"><img src="images/spacer.gif" width="1" height="10"></TD>
+	   </TR>
+	   <tr>
+	   	<TD colspan="10">
+ 		 <TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" width="100%">
+		  <TR>
+           <td width='15' align='center' valign='top'><img src='images/spacer.gif' width='15' height='1'></td> 
+		   <td valign='top'>
+		  
+		  
+		
+		  
+          	<TR><td width='15' align='center' valign='top'><img src='images/spacer.gif' width='15' height='1'></td><td  width='571' class='text_details'>No listings available</td></TR>
+       
+		   
+		   </td>
+           <td width='15' align='center' valign='top'><img src='images/spacer.gif' width='15' height='1'></td> 
+		  </tr>
+         </table>
+		</TD>
+	   </TR>
+	   <TR>
+	    <TD colspan="10"><img src="images/spacer.gif" width="1" height="25"></TD>
+	   </TR>
+	   <TR>
+	    <TD colspan="7" align="right"><a href="https://placead.nytimes.com/default.asp?CategoryID=NYTWED"><img src="images/but_placead.gif" border="0"></a></TD>
+	   </TR>
+
+
+		 <form name="TheNextPage" method="post" action="List_Listings.asp">
+		 <input type="hidden" name="CategoryId" value="NYTWED">
+		 <input type="hidden" name="strStates" value="">
+		 <input type="hidden" name="ChangeEmail" value="">
+
+	   <tr>
+	    <td colspan="10"><img src="images/hd_searchmain.gif"></td>
+	   </tr>
+	   <tr class="table_maincolor">
+	   	<TD colspan="10"><IMG SRC="images/spacer.gif" width="1" height="2"></TD>
+	   </TR>
+	   <TR class="table_maincolor">
+	    <TD WIDTH="8"><IMG SRC="images/spacer.gif" width="8" height="1"></TD>
+		<TD WIDTH="180">
+	      <SELECT NAME="SubCatId" STYLE="width:180px; font-size:10px;">
+	       <OPTION VALUE="">- Select a Category -</option>
+				 
+
+	      </SELECT>
+		</TD>
+		<TD CLASS="text_small" width="50" align="center"><img src="images/andor.gif" border="0"></TD>
+		<TD WIDTH="140">
+	      <SELECT NAME="RegionId" STYLE="width:140px; font-size:10px;">
+	      <OPTION VALUE="">- Pick a Location -</option>
+				 
+
+	      </SELECT>
+		</TD>
+		<TD CLASS="text_small" width="30" align="center"><img src="images/and.gif" border="0"></TD>
+			
+        <TD WIDTH="119"><INPUT TYPE="text" name="KeyWord" STYLE="width:119px; font-size:10px;" value="- Optional Keyword -" onFocus="if(this.value==this.defaultValue) this.value='';" onBlur="if(this.value=='') this.value='- Optional Keyword -';"></TD>
+		<TD width="60" align="right"><a href="javascript:Search_Listings()" onmouseover="window.status='Search';return true;" onmouseout="window.status=' ';"><img src="images/but_search.gif" border="0"></a></TD>
+	    <TD WIDTH="8"><IMG SRC="images/spacer.gif" width="8" height="1"></TD>
+       </TR>
+       <TR class="table_maincolor">
+        <TD colspan="10"><IMG SRC="images/spacer.gif" width="1" height="8"></TD>
+       </TR>
+       </form>
+      </TABLE>
+	 </TD>
+	</TR>
+   </TABLE>
+
+<br>
+
+   <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+	<tr>
+	 <td align="center">
+	<div class="b10"><img src="../Weddings/images/spacer.gif" height="1" width="1"></div>
+<TABLE WIDTH="100%" border="0" cellpadding="0" cellspacing="0" class="table_maincolor">
+	<tr>
+	<td colspan="3"><img src="images/hd_placead.gif"></td>
+	</tr>
+	<tr>
+	<TD><img src="images/spacer.gif" width="10" height="1"></TD>
+	<td align="center">
+	<table cellpadding="0" cellspacing="0" border="0" class="text_placeanad">
+		<tr>
+		<td>
+		Have your listing seen by 14 million NYTimes.com visitors each month or call us at 866-760-0959.<br><img src="images/spacer.gif" width="1" height="6"><br>
+		  
+		<B>Getting Married?</b><BR><a href="https://placead.nytimes.com/legacy.html">Click here</a> to list your paid announcement online. Include photos, a guestbook and more.<br><img src="images/spacer.gif" width="1" height="4"><br>You can also share the happy news in The New York Times newspaper's Social Announcements, a new bannered advertising section every week in Sunday Styles. To advertise in print, call 1-800-458-5522.<br><img src="images/spacer.gif" width="1" height="6"><br>
+
+		<B>Have a Wedding-related business or service?</B><BR><a href="https://placead.nytimes.com/default.asp?CategoryID=NYTWED">Click here</a> to list your business or service in the NYTimes.com Weddings Directory. Include 45 lines of text, photos links to your website, email address and more!<br><img src="images/spacer.gif" width="1" height="6"><br>
+		</td>
+		</tr>
+	</table>
+	</td>
+	<TD><img src="images/spacer.gif" width="10" height="1"></TD>
+	</tr>
+	<TR>
+	<TD colspan="3"><IMG SRC="images/ulsline_160.gif"></td>
+	</TR>
+	</table></td>
+	</tr>
+   </TABLE>
+<br>
+
+
+  </TD>
+  <TD width="20" valign="top"><img src="images/spacer.gif" width="20" height="1"></td>
+	
+  <td valign="top" width="160">
+   
+	<TABLE WIDTH="160" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+	<td colspan="3"><img src="images/hd_weddingsandcelebrations.gif"></td>
+	</tr>
+	<tr>
+	<TD width="2" bgcolor="#CCCCCC"><img src="images/spacer.gif" width="2" height="1"></TD>
+	<td align="center">
+	<table cellpadding="8" cellspacing="0" border="0" class="text_placeanad">
+		<tr>
+		<td>
+		<font color="#000066">Read The Times's weekly stories and Vows column. Learn how to <a href="http://www.nytimes.com/ref/fashion/weddings/howtosubmitwedding.html" class="text_breadcrumb">submit your own announcement</a> for editorial review.</font><br><img src="images/spacer.gif" width="1" height="8"><br>
+		- <a href="http://www.nytimes.com/pages/fashion/weddings/index.html" class="text_breadcrumb">Go to Weddings & Celebrations</a><br><img src="images/spacer.gif" width="1" height="8"><br>
+		- <a href="http://forums.nytimes.com/top/opinion/readersopinions/forums/stylegarden/weddingscelebrations/index.html" class="text_breadcrumb">Share Your Wedding Story</a>
+		</td>
+		</tr>
+	</table>
+	</td>
+	<TD width="2" bgcolor="#CCCCCC"><img src="images/spacer.gif" width="2" height="1"></TD>
+	</tr>
+	<TR>
+	<TD bgcolor="#CCCCCC" colspan="3"><img src="images/spacer.gif" width="1" height="2"></TD>
+	</TR>
+	</table>
+	
+	<div class="b15"><img src="../Weddings/images/spacer.gif" height="1" width="1"></div>
+
+	
+	
+	
+
+
+
+
+
+	<script language="JavaScript" type="text/javascript">
+	function open_popup(url, w, h, resize, scroll) {
+	var properties = "toolbar=0,location=0,directories=0,status=0,menubar=0,copyhistory=0,scrollbars="+ scroll +".resizeable="+ resize +",width="+ w +",height="+ h;
+	var child = window.open(url,"popup", properties);
+
+	}
+	</script>
+
+
+<TABLE WIDTH="160" border="0" cellpadding="0" cellspacing="0" class="table_maincolor">
+ <TR>
+  <td><img SRC="../+Comshare/images/hd_contactus.gif" width="160" height="14"></td>
+ </tr>
+ <tr>
+  <td align="center">
+   <table cellpadding="5" cellspacing="0" border="0" class="text_placeanad" >
+    <tr>
+	 <td>
+	 For help with ONLINE ads, please email:<BR><a href="mailto:onlineclassifieds@nytimes.com">onlineclassifieds@<BR>nytimes.com</a>
+   <div class="b4"><img src="../Weddings/images/spacer.gif" height="1" width="1"></div>
+	 </td>
+	</tr>
+   </table>
+  </td>
+ </tr>
+ <TR>
+  <TD><IMG SRC="images/ulsline_160.gif" width="160" height="1"></td>
+ </TR>
+</table>
+
+  </TD>  
+	
+ </TR>
+</TABLE>
+
+<TABLE WIDTH="768" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+ <TR>
+  <TD><div class="b20"><img src="../Weddings/images/spacer.gif" height="1" width="1"></div></TD>
+ </TR>
+ <tr>
+  <td width="768" align="center" class="footer">
+   <a href="http://listings.nytimes.com/ClassifiedsMarketplace/">Classifieds Marketplace</a> |
+   <a href="http://listings.nytimes.com/weddings/searchindex.asp">Weddings Directory Home</a> |
+   <a href="http://www.legacy.com/nytimes/celebrations.asp?Page=SearchResults">Paid Announcements</a> |
+   <a href="http://listings.nytimes.com/weddings/List_listings.asp">Weddings Services</a> |
+   <a href="https://placead.nytimes.com/default.asp?CategoryID=NYTWED">Place an Ad</a>
+  </td>
+ </TR>
+</TABLE>
+
+
+<TABLE WIDTH="768" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+ <tr>
+  <td colspan="2"><img src="images/spacer.gif" width="1" height="10" border="0" /></td>
+ </TR>
+ <tr>
+  <td colspan="2" bgcolor="#CCCCCC"><img src="images/spacer.gif" width="1" height="1" border="0" /></td>
+ </TR>
+ <tr bgcolor="#EBEBEB">
+  <td width="14"><img src="images/spacer.gif" width="14" height="27" border="0" /></td>
+  <td width="764" valign="middle" class="footer">
+   <a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">Copyright 2011</a>
+   <a href="http://www.nytco.com">The New York Times Company</a> |
+   <a href="http://www.nytimes.com/ref/membercenter/help/privacy.html">Privacy Policy</a> |
+   <a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a> |
+   <a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a>
+  </td>
+ </TR>
+</TABLE>
+
+
+<!-- SiteCatalyst code version: G.6.
+Copyright 1997-2004 Omniture, Inc. More info available at
+http://www.omniture.com --><script language="JavaScript"><!--
+var s_account="nytclassifieds"
+var s_pageName="Weddings/searchindex.asp"
+var s_server="listings.nytimes.com"
+var s_channel="Classifieds"
+var s_pageType=""
+var s_prop1=""
+var s_prop2=""
+var s_prop3=""
+var s_prop4=""
+var s_prop5=""
+var s_prop6=""
+var s_prop7=""
+var s_prop8=""
+var s_prop9=""
+var s_prop10=""
+var s_campaign=""
+var s_state=""
+var s_zip=""
+var s_events=""
+var s_products=""
+var s_purchaseID=""
+var s_eVar1=""
+var s_eVar2=""
+var s_eVar3=""
+var s_eVar4=""
+var s_eVar5=""
+var s_eVar6=""
+var s_eVar7=""
+var s_eVar8=""
+var s_eVar9=""
+var s_eVar10=""
+var s_code=' '//--></script>
+<script language="JavaScript" src="http://www.nytimes.com/js/s_code_1to1.js"></script>
+<script language="JavaScript"><!-- 
+var s_wd=window,s_tm=new Date;if(s_code!=' '){s_code=s_dc(
+s_account);if(s_code)document.write(s_code)}else
+document.write('<im'+'g src="http://std.o.nytimes.com/b/ss/'+s_account+'/1/G.6--FB/s'+s_tm.getTime()+'?[AQB]'
++'&j=1.0&[AQE]" height="1" width="1" border="0" alt="" />')
+//--></script><script language="JavaScript"><!-- 
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img 
+src="http://std.o.nytimes.com/b/ss/nytclassifieds/1/G.6--NS/0" 
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: G.6. -->
+
+<!-- SiteCatalyst code version: G.5.
+Copyright 1997-2003 Omniture, Inc. More info available at
+http://www.omniture.com --><script language="JavaScript"><!--
+var s_account="nytimesglobal"
+var s_pageName="Weddings/searchindex.asp"
+var s_server="listings.nytimes.com"
+var s_channel="Classifieds"
+var s_formOnPage=""
+var s_pageType=""
+var s_prop1=""
+var s_prop2=""
+var s_prop3=""
+var s_prop4=""
+var s_prop5=""
+var s_prop6=""
+var s_prop7=""
+var s_prop8=""
+var s_prop9=""
+var s_prop10=""
+var s_campaign=""
+var s_state=""
+var s_zip=""
+var s_events=""
+var s_products=""
+var s_purchaseID=""
+var s_eVar1=""
+var s_eVar2=""
+var s_eVar3=""
+var s_eVar4=""
+var s_eVar5=""
+var s_eVar6=""
+var s_eVar7=""
+var s_eVar8=""
+var s_eVar9=""
+var s_eVar10=""
+//--></script><script language="JavaScript" src="http://www.nytimes.com/js/s_code_sampling.js"></script>
+<!-- End SiteCatalyst code version: G.5. -->
+<script language="javascript">
+//-------------------------------------------------------------------------
+function ContactInfo(loc)
+{
+ 	var Email = '';
+  	URL = "../+ComShare/User_Info.asp?Email="+Email+"&loc="+loc;
+   	window.open(URL,"","width=420,height=500,left=20,top=40,resizable=no,scrollbars=yes");
+}
+//-------------------------------------------------------------------------
+function getCookie(Name) {
+	var search = Name + "=";
+	if (document.cookie.length > 0) { // if there are any cookies
+		offset = document.cookie.indexOf(search);
+    	if (offset != -1) { 			// if cookie exists
+      		offset += search.length	;	      					// set index of beginning of value
+      		end = document.cookie.indexOf(";", offset);		// set index of end of cookie value
+      		if (end == -1)
+        		end = document.cookie.length;
+
+      		return unescape(document.cookie.substring(offset, end));
+    	}
+	}
+}
+//-------------------------------------------------------------------------
+function ChangeUser(loc)
+{
+  URL = "../+ComShare/GetEmail.asp?loc="+loc;
+  window.open(URL,"","width=350,height=265,top=40,left=20,resizable=no,scrollbars=no");
+}	
+//-------------------------------------------------------------------------
+function SaveSelect(Lid) {
+	    res = getCookie("NYTULSEmailId");
+  	    if (res != null && res !="")
+  	    {
+  		  window.open("../+ComShare/SaveListing.asp?ListingId=" + Lid +"&CaseType=U","SaveSelect","width=300,height=150,scrollbars,left=20,top=40");  			
+    	 // document.SaveSelected.submit();
+    	}
+  	    else //if (res==undefined || res==null || res =="") 
+  	      ChangeUser('l');        
+}
+//-------------------------------------------------------------------------
+function DeleteSelect(Lid) {
+	    res = getCookie("NYTULSEmailId");
+  	    if (res != null && res !="")
+  	      	   window.open("../+ComShare/DeleteListing.asp?ListingId=" + Lid,"DeleteSelect","width=300,height=150,scrollbars,left=20,top=40");  	
+//  		  top.location="../+ComShare/DeleteListing.asp?ListingId=" + Lid 
+  	    else //if (res==undefined || res==null || res =="") 
+  	      ChangeUser('l');        
+}
+//-------------------------------------------------------------------------
+function openMap(baseURL) {
+	window.open(baseURL,"", "width=580,height=600,toolbar=no,status=no,directories=no,menubar=no,resizable=no,scrollbars=yes");
+}
+//-------------------------------------------------------------------------
+function openEmail(baseURL) {
+	window.open(baseURL,"", "width=400,height=455,toolbar=no,status=no,directories=no,menubar=no,resizable=no,scrollbars=no");
+}
+//-------------------------------------------------------------------------
+function openPrint(baseURL) {
+	window.open(baseURL,"", "width=610,height=500,toolbar=no,status=no,directories=no,menubar=no,resizable=no,scrollbars=yes");
+}
+//-------------------------------------------------------------------------
+function openKey(url){
+	window.open(url,'ik','width=475,height=150,toolbar=no,status=no,menubar=no,scrollbars=no,resizable=no')
+}
+//-------------------------------------------------------------------------
+function openPhoto(url){
+	window.open(url,'ik','width=400,height=345,toolbar=no,status=no,menubar=no,scrollbars=no,resizable=no')
+}
+//-------------------------------------------------------------------------
+function pop_Map(url){
+	window.open(url,'ik','width=475,height=480,toolbar=no,status=no,menubar=no,scrollbars=no,resizable=no')
+}
+//-------------------------------------------------------------------------
+function openHelp(baseURL) {
+	window.open(baseURL,"", "width=420,height=480,toolbar=no,status=no,directories=no,menubar=no,resizable=no,scrollbars=yes");
+}
+//-------------------------------------------------------------------------
+</script>
+		
+
+<script language="javascript">
+//-------------------------------------------------------------------------
+function Search_Listings()
+{
+ 	document.TheNextPage.action="List_listings.asp"
+	document.TheNextPage.submit();
+}
+//-------------------------------------------------------------------------
+function ChangeEmail() {
+		document.TheNextPage.ChangeEmail.value = 'N';
+		document.TheNextPage.submit();
+}
+//-------------------------------------------------------------------------
+</script>
+
+</BODY>
+<!-- Bottom7 position -->
+<script language="JavaScript">
+<!--
+if (typeof adxpos_Bottom7 != "undefined")
+    document.write(adxads[adxpos_Bottom7]);
+// -->
+</script>
+<noscript>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=cookie&pos=Bottom7"><img src="http://www.nytimes.com/adx/bin/adx_remote.html?type=noscript&page=listings.nytimes.com/weddings/search&posall=Top5,TopLeft,Middle1,SFMiddle,SponLink,TopAd,Right3,Right1,Bottom7,Bottom8,Bottom9,Inv1,Inv2,Inv3&pos=Bottom7&query=qstring&keywords=?"></a></noscript>
+
+
+<!-- Bottom8 position -->
+<script language="JavaScript">
+<!--
+if (typeof adxpos_Bottom8 != "undefined")
+    document.write(adxads[adxpos_Bottom8]);
+// -->
+</script>
+<noscript>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=cookie&pos=Bottom8"><img src="http://www.nytimes.com/adx/bin/adx_remote.html?type=noscript&page=listings.nytimes.com/weddings/search&posall=Top5,TopLeft,Middle1,SFMiddle,SponLink,TopAd,Right3,Right1,Bottom7,Bottom8,Bottom9,Inv1,Inv2,Inv3&pos=Bottom8&query=qstring&keywords=?"></a></noscript>
+
+
+<!-- Bottom9 position -->
+<script language="JavaScript">
+<!--
+if (typeof adxpos_Bottom9 != "undefined")
+    document.write(adxads[adxpos_Bottom9]);
+// -->
+</script>
+<noscript>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=cookie&pos=Bottom9"><img src="http://www.nytimes.com/adx/bin/adx_remote.html?type=noscript&page=listings.nytimes.com/weddings/search&posall=Top5,TopLeft,Middle1,SFMiddle,SponLink,TopAd,Right3,Right1,Bottom7,Bottom8,Bottom9,Inv1,Inv2,Inv3&pos=Bottom9&query=qstring&keywords=?"></a></noscript>
+
+
+<!-- Inv1 position -->
+<script language="JavaScript">
+<!--
+if (typeof adxpos_Inv1 != "undefined")
+    document.write(adxads[adxpos_Inv1]);
+// -->
+</script>
+<noscript>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=cookie&pos=Inv1"><img src="http://www.nytimes.com/adx/bin/adx_remote.html?type=noscript&page=listings.nytimes.com/weddings/search&posall=Top5,TopLeft,Middle1,SFMiddle,SponLink,TopAd,Right3,Right1,Bottom7,Bottom8,Bottom9,Inv1,Inv2,Inv3&pos=Inv1&query=qstring&keywords=?"></a></noscript>
+
+
+<!-- Inv2 position -->
+<script language="JavaScript">
+<!--
+if (typeof adxpos_Inv2 != "undefined")
+    document.write(adxads[adxpos_Inv2]);
+// -->
+</script>
+<noscript>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=cookie&pos=Inv2"><img src="http://www.nytimes.com/adx/bin/adx_remote.html?type=noscript&page=listings.nytimes.com/weddings/search&posall=Top5,TopLeft,Middle1,SFMiddle,SponLink,TopAd,Right3,Right1,Bottom7,Bottom8,Bottom9,Inv1,Inv2,Inv3&pos=Inv2&query=qstring&keywords=?"></a></noscript>
+
+
+<!-- Inv3 position -->
+<script language="JavaScript">
+<!--
+if (typeof adxpos_Inv3 != "undefined")
+    document.write(adxads[adxpos_Inv3]);
+// -->
+</script>
+<noscript>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=cookie&pos=Inv3"><img src="http://www.nytimes.com/adx/bin/adx_remote.html?type=noscript&page=listings.nytimes.com/weddings/search&posall=Top5,TopLeft,Middle1,SFMiddle,SponLink,TopAd,Right3,Right1,Bottom7,Bottom8,Bottom9,Inv1,Inv2,Inv3&pos=Inv3&query=qstring&keywords=?"></a></noscript>
+</HTML>

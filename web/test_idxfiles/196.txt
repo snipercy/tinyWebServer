@@ -1,0 +1,361 @@
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Browse Jobs by Category - The New York Times & Monster</title>
+<!--Begin common meta tags--><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Expires" content="now">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta name="robots" content="noarchive">
+<!--End common meta tags--><!--Begin common script tags--><script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script><script type="text/javascript" src="http://graphics8.nytimes.com/js/browserSize.js"></script><script type="text/javascript" src="http://graphics8.nytimes.com/js/Tacoda_AMS_DDC_Header.js"></script><script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/DropDown.js"></script><script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/modifyNavigationDisplay.js"></script><script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/fileit.js"></script><script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/todays_date.js"></script><script type="text/javascript" language="JavaScript">
+        function linkbox(url, winName) {
+                window.open(url, winName,
+                "location=yes,directories=yes,menubar=yes,toolbar=yes,status=yes,resizable=yes,scrollbars=yes");
+        }
+   </script><!--End common script tags--><!--Begin common css--><!--[if IE 7]>
+		<style type="text/css">
+			@import url(http://graphics8.nytimes.com/css/common/screen/ie7.css);
+		</style>
+		<![endif]--><!--End common css--><LINK rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/common/global.css">
+<style type="text/css">
+                        @import url(http://graphics8.nytimes.com/css/section/jobmarket/screen/200703/browsetree/category.css);
+		</style>
+<!--[if IE 7]>
+                <style type="text/css">
+			@import url(http://graphics8.nytimes.com/css/section/jobmarket/screen/ie7.css); 
+                </style>
+		<![endif]-->
+</head>
+<body>
+<a name="top"></a><div id="shell">
+<div id="login">
+<ul id="memberTools">
+<li><a href="https://myaccount.nytimes.com/auth/login">Log In</a></li>
+<li><a href="https://myaccount.nytimes.com/gst/regi.html">Register Now</a></li>
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+</ul>
+<ul class="tabs">
+<li><a href="http://www.nytimes.com">Home Page</a></li>
+<li><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+<li><a href="http://www.nytimes.com/video">Video</a></li>
+<li><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+<li><a href="http://www.nytimes.com/timestopics">Times Topics</a></li>
+</ul>
+</div>
+<div id="page">
+<div id="masthead">
+<form id="searchForm" name="searchForm" method="GET" action="http://query.nytimes.com/gst/sitesearch_selector.html" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="date_select" value="full"><div id="nytSearchWidget">
+<label for="searchQuery">Search All NYTimes.com</label><input id="searchQuery" type="text" name="query"><input id="searchSubmit" title="Search" alt="Search" type="image" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"><input type="hidden" value="nyt" name="type" id="searchAll">
+</div>
+</form>
+<a href="http://www.nytimes.com"><img id="NYTLogo" alt="New York Times" title="New York Times" src="http://graphics8.nytimes.com/images/misc/nytlogo153x23.gif"></a><div id="date"><script language="JavaScript" type="text/javascript" src="http://graphics8.nytimes.com/js/print_todays_date.js"></script></div>
+<h1><a href="http://jobmarket.nytimes.com">Jobs</a></h1>
+</div>
+<div id="navigation" class=""><ul class="tabs">
+<li id="navWorld"><a href="http://www.nytimes.com/pages/world/index.html">World</a></li>
+<li id="navUS"><a href="http://www.nytimes.com/pages/national/index.html">U.S.</a></li>
+<li id="navNYRegion"><a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a></li>
+<li id="navBusiness"><a href="http://www.nytimes.com/pages/business/index.html">Business</a></li>
+<li id="navTechnology"><a href="http://www.nytimes.com/pages/technology/index.html">Technology</a></li>
+<li id="navScience"><a href="http://www.nytimes.com/pages/science/index.html">Science</a></li>
+<li id="navHealth"><a href="http://www.nytimes.com/pages/health/index.html">Health</a></li>
+<li id="navSports"><a href="http://www.nytimes.com/pages/sports/index.html">Sports</a></li>
+<li id="navOpinion"><a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a></li>
+<li id="navArts"><a href="http://www.nytimes.com/pages/arts/index.html">Arts</a></li>
+<li id="navStyle"><a href="http://www.nytimes.com/pages/style/index.html">Style</a></li>
+<li id="navTravel"><a href="http://travel.nytimes.com">Travel</a></li>
+<li class="selected" id="navJobs">
+<a href="http://jobmarket.nytimes.com/pages/jobs/index.html">Jobs</a><ul>
+<li><a href="http://jobsearch.nytimes.monster.com">Find a Job</a></li>
+<li><a href="http://career.nytimes.monster.com">Post Your Resume</a></li>
+<li><a href="http://my.nytimes.monster.com">Job Seeker Login</a></li>
+<li><a href="http://www.nytimes.com/marketing/jobmarket/career-resources/index.html">Career Advice</a></li>
+<li id="subnavEmployercentral"><a href="http://www.nytimes.com/marketing/jobmarket/employercentral/index.html">Employer Central</a></li>
+</ul>
+</li>
+<li id="navRealestate"><a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a></li>
+<li id="navAutos"><a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a></li>
+</ul></div>
+<script type="text/javascript">modifyNavigationDisplay();</script><div id="adxLeaderboard"><!-- ADXINFO classification="leaderboard_728" campaign="Google_2011_ROS_LB"--><div class="clearfix">
+<script type="text/javascript" language="JavaScript">
+<!--
+	google_ad_client = 'ca-nytimes_display_html';
+	google_alternate_ad_url = 'http://www.nytimes.com/ads/remnant/networkredirect-leaderboard.html';
+	google_ad_width = 728; 
+	google_ad_height = 90;
+	google_ad_format = '728x90_pas_abgc';
+	google_ad_type = 'image,flash';
+	google_encoding = 'utf8'; 
+	google_safe = 'high';
+	google_targeting = 'site_content';
+	google_ad_channel = 'ROS_leaderboard';
+// -->
+</script>
+<script type="text/javascript" language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+<noscript>
+	<img height="1" width="1" border="0" src="http://pagead2.googlesyndication.com/pagead/imp.gif?client=ca-nytimes_display_html&event=noscript" /> 
+</noscript>
+<div style="font-family: Arial; font-size: 10px; color:#004276; float: right; margin-right: 125px;"><a href="http://www.nytimes.whsites.net/mediakit/">Advertise on NYTimes.com</a></div></div>
+</div>
+<div id="main">
+<div id="cobrandHeader">
+<ul id="tools">
+<li><a href="http://www.nytimes.com/marketing/jobmarket/help/index.html" id="jobseeker">JOB SEEKER HELP</a></li>
+<li><a href="http://www.nytimes.com/marketing/jobmarket/employercentral/help.html" id="employer">EMPLOYER HELP</a></li>
+</ul>
+<h2><a href="http://www.nytimes.com/monster">nytimes.com  &  monster.com</a></h2>
+</div>
+<div id="abColumns" class="top">
+<div id="description">
+<h3>Jobs By Category</h3>
+<p>Browse or search jobs online from The New York Times Job Market including government jobs, advertising jobs, engineering jobs, finance jobs, accounting jobs, marketing jobs, entertainment jobs and sales jobs. </p>
+</div>
+<ul>
+<li><a href="http://jobmarket.nytimes.com/jobs/category/accounting-finance-insurance-jobs">Accounting / Finance / Insurance</a></li>
+<li><a href="http://jobmarket.nytimes.com/jobs/category/administrative-clerical-jobs">Administrative / Clerical</a></li>
+<li><a href="http://jobmarket.nytimes.com/jobs/category/banking-realestate-mortgageprofessionals-jobs">Banking / Real Estate / Mortgage Professionals</a></li>
+<li><a href="http://jobmarket.nytimes.com/jobs/category/biotech-rd-science-jobs">Biotech / R&D / Science</a></li>
+<li><a href="http://jobmarket.nytimes.com/jobs/category/buildingconstruction-skilledtrades-jobs">Building Construction / Skilled Trades</a></li>
+<li><a href="http://jobmarket.nytimes.com/jobs/category/business-strategicmanagement-jobs">Business / Strategic Management</a></li>
+<li><a href="http://jobmarket.nytimes.com/jobs/category/creative-design-jobs">Creative / Design</a></li>
+<li><a href="http://jobmarket.nytimes.com/jobs/category/customersupport-clientcare-jobs">Customer Support / Client Care</a></li>
+<li><a href="http://jobmarket.nytimes.com/jobs/category/editorial-writing-jobs">Editorial / Writing</a></li>
+<li><a href="http://jobmarket.nytimes.com/jobs/category/education-training-jobs">Education / Training</a></li>
+<li><a href="http://jobmarket.nytimes.com/jobs/category/engineering-jobs">Engineering</a></li>
+<li><a href="http://jobmarket.nytimes.com/jobs/category/foodservices-hospitality-jobs">Food Services / Hospitality</a></li>
+<li><a href="http://jobmarket.nytimes.com/jobs/category/humanresources-jobs">Human Resources</a></li>
+						</ul><ul>
+					<li><a href="http://jobmarket.nytimes.com/jobs/category/it-softwaredevelopment-jobs">IT / Software Development</a></li>
+<li><a href="http://jobmarket.nytimes.com/jobs/category/installation-maintenance-repair-jobs">Installation / Maintenance / Repair</a></li>
+<li><a href="http://jobmarket.nytimes.com/jobs/category/legal-jobs">Legal</a></li>
+<li><a href="http://jobmarket.nytimes.com/jobs/category/logistics-transportation-jobs">Logistics / Transportation</a></li>
+<li><a href="http://jobmarket.nytimes.com/jobs/category/manufacturing-production-operations-jobs">Manufacturing / Production / Operations</a></li>
+<li><a href="http://jobmarket.nytimes.com/jobs/category/marketing-product-jobs">Marketing / Product</a></li>
+<li><a href="http://jobmarket.nytimes.com/jobs/category/medical-health-jobs">Medical / Health</a></li>
+<li><a href="http://jobmarket.nytimes.com/jobs/category/other-jobs">Other</a></li>
+<li><a href="http://jobmarket.nytimes.com/jobs/category/project-programmanagement-jobs">Project / Program Management</a></li>
+<li><a href="http://jobmarket.nytimes.com/jobs/category/qualityassurance-safety-jobs">Quality Assurance / Safety</a></li>
+<li><a href="http://jobmarket.nytimes.com/jobs/category/sales-retail-businessdevelopment-jobs">Sales / Retail / Business Development</a></li>
+<li><a href="http://jobmarket.nytimes.com/jobs/category/security-protectiveservices-jobs">Security / Protective Services</a></li>
+</ul>
+<div class="singleRule"></div>
+<div class="columnGroup advertisementColumnGroup"></div>
+</div>
+<div class="cColumn">
+<div class="columnGroup firstColumnGroup"><div id="quickSearch" class="cobrand">
+<h3>QUICK JOB SEARCH</h3>
+<div class="container">
+<p>Find the best jobs in the New York City metro area and beyond.</p>
+<form action="http://nytimes.monster.com/Search.aspx" method="get" name="advJobsearchForm">
+<input type="hidden" name="cy" value="us"><label for="q">Keyword(s):</label><input name="q" type="text" id="keyWords" size="57" value=""><input type="hidden" name="lid" value="550"><div id="category">
+<label for="Fn">Category:</label><br><select name="Fn"><OPTION VALUE="" selected>-- All Categories --</OPTION>
+
+<OPTION VALUE="1">Accounting/Finance/Insurance</OPTION>
+<OPTION VALUE="2">Administrative/Clerical</OPTION>
+<OPTION VALUE="558">Banking/Real Estate/Mortgage Professionals</OPTION>
+<OPTION VALUE="559">Biotech/R&amp;D/Science</OPTION>
+<OPTION VALUE="544">Building Construction/Skilled Trades</OPTION>
+<OPTION VALUE="3561">Business/Strategic Management</OPTION>
+<OPTION VALUE="11454">Creative/Design</OPTION>
+<OPTION VALUE="545">Customer Support/Client Care</OPTION>
+<OPTION VALUE="5623">Editorial/Writing</OPTION>
+<OPTION VALUE="3">Education/Training</OPTION>
+<OPTION VALUE="4">Engineering</OPTION>
+<OPTION VALUE="13">Food Services/Hospitality</OPTION>
+<OPTION VALUE="5">Human Resources</OPTION>
+<OPTION VALUE="553">Installation/Maintenance/Repair</OPTION>
+<OPTION VALUE="660">IT/Software Development</OPTION>
+<OPTION VALUE="7">Legal</OPTION>
+<OPTION VALUE="5625">Logistics/Transportation</OPTION>
+<OPTION VALUE="47">Manufacturing/Production/Operations</OPTION>
+<OPTION VALUE="9007">Marketing/Product</OPTION>
+<OPTION VALUE="3975">Medical/Health</OPTION>
+<OPTION VALUE="11">Other</OPTION>
+<OPTION VALUE="9008">Project/Program Management</OPTION>
+<OPTION VALUE="11455">Quality Assurance/Safety</OPTION>
+<OPTION VALUE="10">Sales/Retail/Business Development</OPTION>
+<OPTION VALUE="555">Security/Protective Services</OPTION>
+
+
+</select>
+</div>
+<div id="bottom"><div id="inputGroup">
+<ul>
+<li>Sort By: </li>
+<li><input name="sort" value="rv" type="radio"></li>
+<li>Relevancy</li>
+<li><input name="sort" value="dt" type="radio" checked></li>
+<li>Date</li>
+</ul>
+<input alt="Submit" src="http://graphics8.nytimes.com/images/global/global_search/go_button22x19.gif" border="0" type="image">
+</div></div>
+<div class="clearfix"></div>
+</form>
+</div>
+</div></div>
+<div class="columnGroup"><div id="jobSeekerTool" class="cobrand">
+<h3>JOB SEEKER TOOLS</h3>
+<div class="container clearfix"><ul>
+<li><a href="http://www.nytimes.com/marketing/jobmarket/career-resources/index.html">Career Advice &#x00bb;</a></li>
+<li><a href="http://jobmarket.nytimes.com/jobs/category/">Browse Jobs by Category &#x00bb;</a></li>
+<li><a href="http://career.nytimes.monster.com">Post Your Resume &#x00bb;</a></li>
+<li class="last"><a href="http://salary.nytimes.com/">Salary Information &#x00bb;</a></li>
+</ul></div>
+</div></div>
+<div id="adxBigAd" class="columnGroup advertisementColumnGroup"><!-- ADXINFO classification="bigad" campaign="Google_2011_ROS_BA_2"--><div class="clearfix">
+<script language="JavaScript">
+<!--
+if (!window.nyt_google_count) { var nyt_google_count = 0; }
+if ((!window.nyt_google_ad_channel) && (window.google_ad_channel)) { var nyt_google_ad_channel = google_ad_channel; }
+if ((!window.nyt_google_hints) && (window.google_hints)) { var nyt_google_hints = google_hints; }
+if ((!window.nyt_google_contents) && (window.google_contents)) { var nyt_google_contents = google_contents; }
+function ss(w,id) {window.status = w;return true;}function cs(){window.status='';}function ha(a){  pha=document.getElementById(a); nhi=pha.href.indexOf("&nh=");if(nhi < 1) {phb=pha.href+"&nh=1";} pha.href=phb;}function ca(a) {  pha=document.getElementById(a); nci=pha.href.indexOf("&nc=");if(nci < 1) {phb=pha.href+"&nc=1";} pha.href=phb;window.open(document.getElementById(a).href);}function ga(o,e) {if (document.getElementById) {a=o.id.substring(1);p = "";r = "";g = e.target;if (g) {t = g.id;f = g.parentNode;if (f) {p = f.id;h = f.parentNode;if (h)r = h.id;}} else {h = e.srcElement;f = h.parentNode;if (f)p = f.id;t = h.id;}if (t==a || p==a || r==a)return true;pha=document.getElementById(a); nbi=pha.href.indexOf("&nb=");if(nbi < 1) {phb=pha.href+"&nb=1";} pha.href=phb;window.open(document.getElementById(a).href);}}
+ 
+function google_ad_request_done(ads) {
+    var s = '';
+    var i;
+ 
+    if (ads.length == 0) {
+        return;
+    }
+ 
+    if (ads[0].type == "image") {
+        s += '<a href="' + ads[0].url +
+        '" target="_blank" title="go to ' + ads[0].visible_url +
+        '"><img border="0" src="' + ads[0].image_url +
+        '"width="' + ads[0].image_width +
+        '"height="' + ads[0].image_height + '"></a>';
+    } else if (ads[0].type == "flash") {
+        s += '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"' +
+        ' codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0"' +
+        ' WIDTH="' + google_ad.image_width +
+        '" HEIGHT="' + google_ad.image_height + '">' +
+        '<PARAM NAME="movie" VALUE="' + google_ad.image_url + '">' +
+        '<PARAM NAME="quality" VALUE="high">' +
+        '<PARAM NAME="AllowScriptAccess" VALUE="never">' +
+        '<EMBED src="' + google_ad.image_url +
+        '" WIDTH="' + google_ad.image_width +
+        '" HEIGHT="' + google_ad.image_height +
+        '" TYPE="application/x-shockwave-flash"' +
+        ' AllowScriptAccess="never" ' +
+        ' PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED></OBJECT>';
+    } else if (ads[0].type == "text") {
+        nyt_google_count += ads.length;
+        google_ad_section_line_height = "14px";
+        google_ad_section_padding_left = "7px";
+        google_title_link_font_size = "12px";
+        google_ad_text_font_size = "11px";
+        google_visible_url_font_size = "10px";
+ 
+        s += '<table width="100%" height="" border="0" cellspacing="0" cellpadding="0" style="text-align:left; width:100%; border-style: solid; border-width: 1px; border-color: #9da3ad" >\n<tr>\n<td style="font-family:Arial,Helvetica,sans-serif; font-size:12px; color:#333333;" valign="top"><table width="100%" height="100%" cellspacing="0" cellpadding="0" border="0" style="width:100%; height:100%;">\n<tr>\n <td style="background-color:#9da3ad; width:70%; height:20px; padding-top:2px; padding-left:11px; padding-bottom:2px; font-family:Arial,Helvetica,sans-serif; font-size:12px; color:#333333;" width="70%" height="20" bgcolor="#9da3ad" ><span style="font-size: 12px; font-weight: normal; color:#ffffff;" >Ads by Google</span></td>\n<td style="padding-top:2px; padding-bottom:2px; width:30%; height:20px; align:right; background-color:#9da3ad; font-family:Arial,Helvetica,sans-serif; font-size:12px; color:#333333;" width="30%" height="20" align="right" bgcolor="#9da3ad" ><span><a style="font-family:Arial,Helvetica,sans-serif; color: white; font-size:12px; padding-right:7px;" href="http://www.nytimes.com/ref/membercenter/faq/linkingqa16.html" onclick="window.open(\'\',\'popupad\',\'left=100,top=100,width=390,height=390,resizable,scrollbars=no\')" target="popupad">what\'s this?</a></span></td>\n</tr>\n</table>\n</td>\n</tr>\n<tr>\n<td style="height:110px; font-family:Arial,Helvetica,sans-serif; font-size:12px; color:#333333;" valign="top" height="110"><table height="100%" width="100%" cellpadding="4" cellspacing="0" border="0" bgcolor="#f8f8f9" style="height:100%; width:100%; padding:4px; background-color:#f8f8f9;">\n';
+        for (i = 0; i < ads.length; ++i) {
+            s += '<tr>\n<td style="cursor:pointer; cursor:hand; font-family:Arial,Helvetica,sans-serif; font-size:12px; color:#333333; background-color:#f8f8f9;" id="taw' + i + '" valign="middle" onFocus="ss(\'go to ' + ads[i].visible_url + '\',\'aw' + i + '\')" onMouseOver="ss(\'go to ' + ads[i].visible_url + '\',\'aw' + i + '\')"  onMouseOut="cs()" onClick="ga(this,event)"><div style="line-height:' + google_ad_section_line_height + '; padding-left:' + google_ad_section_padding_left + '; padding-bottom:5px;" ><a id="aw' + i + '" href="' + ads[i].url + '" target="_blank" style="font-size:' + google_title_link_font_size + '; color:#000066; font-weight:bold; text-decoration:underline;" onFocus="ss(\'go to ' + ads[i].visible_url + '\',\'aw' + i + '\')" onClick="ha(\'aw' + i + '\')" onMouseOver="return ss(\'go to ' + ads[i].visible_url + '\',\'aw' + i + '\')"  onMouseOut="cs()">' + ads[i].line1 + '</a><br>\n<a href="' + ads[i].url + '" target="_blank" style="font-family:Arial,Helvetica,sans-serif; font-size:' + google_ad_text_font_size + ';color:#333333;text-decoration:none;">' + ads[i].line2 + ' ' + ads[i].line3 + '</a><br>\n<a href="' + ads[i].url + '" target="_blank" style="font-size:' + google_visible_url_font_size + '; color:#000066; font-weight:normal; text-decoration:none;">' + ads[i].visible_url + '</a></div>\n</td>\n</tr>\n';
+        }
+        s += '</table>\n</td>\n</tr>\n</table>';
+    }
+    document.write(s);
+    return;
+}
+google_ad_client = 'ca-nytimes_display_html';
+google_ad_format = '336x280_pas_abgc';
+google_ad_output = 'js';
+google_max_num_ads = '6';
+google_ad_type = 'text,image,flash';
+google_image_size = '336x280';
+google_safe = 'high';
+google_targeting = 'site_content';
+if (window.nyt_google_contents) { google_contents = nyt_google_contents; }
+else if (window.nyt_google_hints) { google_hints = nyt_google_hints; }
+// -->
+</script>
+<script language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+
+<div style="font-family: Arial; font-size: 10px; color:#004276; float: right; margin-right: 9px;"><a href="http://www.nytimes.whsites.net/mediakit/">Advertise on NYTimes.com</a></div></div>
+</div>
+<div class="columnGroup">
+<!--NYT_DEBUG element start: nytweb/common/PublishNYTElement -->
+<iframe marginheight="0" marginwidth="0" frameborder="0" scrolling="no" width="336" height="321" src="http://www.trumba.com/nytimes/jobs/sectionfront.aspx"></iframe>
+<!--NYT_DEBUG element end: nytweb/common/PublishNYTElement -->
+</div>
+<div class="columnGroup"><iframe src="http://jobmarket.nytimes.com/gst/classifieds/jobs/getfeaturedjobs.html?cat=" width="335" height="220" scrolling="no" frameborder="0"></iframe></div>
+<div id="careerServices" class="filledBox">
+<h4>Advertisement</h4>
+<h3>CAREER SERVICES</h3>
+<ul><li><!-- ADXINFO classification="text_ad" campaign="Indeed.com-cla2"-->Search <a href="http://www.indeed.com" target="blank">Jobs</a> on Indeed.com</li></ul>
+</div>
+</div>
+</div>
+<div id="cobrandFooter">
+<h4><a href="http://hiring.nytimes.monster.com/contactus.aspx">Contact Monster</a></h4>
+			The New York Times and Monster have joined forces. The combined power of The New York Times and Monster will enable employers to reach one out of every two active and passive candidates online, in print and in person. Employers will have access to more than 3 million resumes in the New York DMA; the ability to reach 4.7 million New York Times weekday readers, 5 million Sunday Times readers, and 1.4 million daily visitors to NYTimes.com.
+		</div>
+<div class="hideContent">
+			
+		<!-- Start UPT call -->
+		<img height="1" width="3" border=0 src="http://up.nytimes.com/?d=0/12/44&t=12&s=0&ui=&r=&u=jobmarket%2enytimes%2ecom%2fjobs%2fcategory%2f%3f">
+		<!-- End UPT call -->
+	
+		
+        <script language="JavaScript"><!--
+          var dcsvid="";
+          var regstatus="non-registered";
+        //--></script>
+        <script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+        <noscript>
+          <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div>
+        </noscript>
+   
+
+		<script language="Javascript">Tacoda_AMS_DDC_addPair("t_section","")</script>
+		<script language="Javascript">Tacoda_AMS_DDC_addPair("site","nytimes.com")</script>
+		<script language="JavaScript">Tacoda_AMS_DDC("http://te.nytimes.com/tte/blank.gif","1.0")</script>	
+		<IMG SRC="/adx/bin/clientside/3d523457Q2FbkQ23zhQ24Q512!kIQ51fnQ24jeejIeQ252qh" height="1" width="3"></div>
+<div id="footer">
+<div class="footerRow">
+<a href="http://www.nytimes.com">Home</a><ul>
+<li><a href="http://www.nytimes.com/pages/world/index.html">World</a></li>
+<li><a href="http://www.nytimes.com/pages/national/index.html">U.S.</a></li>
+<li><a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a></li>
+<li><a href="http://www.nytimes.com/pages/business/index.html">Business</a></li>
+<li><a href="http://www.nytimes.com/pages/technology/index.html">Technology</a></li>
+<li><a href="http://www.nytimes.com/pages/science/index.html">Science</a></li>
+<li><a href="http://www.nytimes.com/pages/health/index.html">Health</a></li>
+<li><a href="http://www.nytimes.com/pages/sports/index.html">Sports</a></li>
+<li><a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a></li>
+<li><a href="http://www.nytimes.com/pages/arts/index.html">Arts</a></li>
+<li><a href="http://www.nytimes.com/pages/style/index.html">Style</a></li>
+<li><a href="http://travel.nytimes.com">Travel</a></li>
+<li><a href="http://jobmarket.nytimes.com/pages/jobs/index.html">Jobs</a></li>
+<li><a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a></li>
+<li><a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a></li>
+<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+</ul>
+</div>
+<ul>
+<li class="first">
+<a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&#169; 2011</a> <a href="http://www.nytco.com/">The New York Times Company</a>
+</li>
+<li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Terms of Service</a></li>
+<li><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+<li><a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a></li>
+<li><a href="http://www.nytimes.com/rss" class="rssButton">RSS</a></li>
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+<li><a href="http://www.nytco.com/career.html">Work for Us</a></li>
+<li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+</ul>
+</div>
+</div>
+</div>
+</body>
+</html>
+

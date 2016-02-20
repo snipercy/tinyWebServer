@@ -1,0 +1,234 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>The International Herald Tribune</title>
+<link href="main.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="Scripts/tools.js"></script>
+</head>
+
+<body onload="MM_preloadImages('images/about_col_sel.gif','images/adv_col_sel.gif','images/events_col_sel.gif','images/press_col_sel.gif','images/about_col_sel.gif','images/adv_col_sel.gif','images/events_col_sel.gif','images/press_col_sel.gif')">
+<center>
+<table width="860" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="text-align:left;"><img src="images/spacer.gif" alt="" width="10" height="1" /></td>
+    <td style="text-align:left;"><!-- #BeginLibraryItem "/Library/header.lbi" --><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="left" valign="top" style="text-align:left;"><a href="index.php"><img src="images/iht-logo.gif" alt="International Herald Tribune" width="505" height="61" border="0" /></a></td>
+        <td align="left" valign="top" style="text-align:left;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td align="right" class="menu_email_home"><img src="images/spacer.gif" alt="" width="1" height="10" /></td>
+            </tr>
+            <tr>
+              <td align="right" class="menu_email_home" style="padding-bottom:2px;"><p class="menu_email_link"><a href="contact.html" class="menu_email_link">Contact Us</a> <a href="contact.html"></a></p></td>
+            </tr>
+            <tr>
+              <td align="right" class="menu_email_home"><p class="content_bold"><a href="emailsignup.html" class="content_bold">Sign up for 
+              email updates</a></p></td>
+              </tr>
+            <tr>
+              <td align="right" class="menu_email_home" style="padding-top:3px;"><a href="emailsignup.html"><img src="images/email_icon.gif" alt="email icon" width="22" height="14" border="0" /></a></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td><img src="images/spacer.gif" alt="" width="515" height="12" /></td>
+        <td><img src="images/spacer.gif" alt="" width="305" height="1" /></td>
+      </tr>
+    </table><!-- #EndLibraryItem --></td>
+    <td rowspan="3" style="text-align:left;"><img src="images/spacer.gif" alt="" width="20" height="1" /></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><img src="images/spacer.gif" alt="" width="20" height="1" /></td>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><img src="images/spacer.gif" alt="" width="198" height="1" /></td>
+        <td><img src="images/spacer.gif" alt="" width="7" height="1" /></td>
+        <td><img src="images/spacer.gif" alt="" width="198" height="1" /></td>
+        <td><img src="images/spacer.gif" alt="" width="7" height="1" /></td>
+        <td><img src="images/spacer.gif" alt="" width="198" height="1" /></td>
+        <td><img src="images/spacer.gif" alt="" width="7" height="1" /></td>
+        <td><img src="images/spacer.gif" alt="" width="198" height="1" /></td>
+        <td><img src="images/spacer.gif" alt="" width="7" height="1" /></td>
+        <td><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+      </tr>
+      <tr>
+        <td colspan="2" class="menu_box_sel"><a href="about/about.html" class="menu">About</a></td>
+        <td colspan="2" class="menu_box_sel"><a href="http://www.nytimesglobal.com" class="menu">Advertising</a></td>
+        <td colspan="2" class="menu_box_sel"><a href="events/events.html" class="menu">Events</a></td>
+        <td colspan="2" class="menu_box_sel"><a href="http://www.twitter.com/ihtcomms" class="menu">Follow IHT on Twitter</a></td>
+        <td class="right_col_box_home"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+      </tr>
+      
+      <tr>
+        <td colspan="2" class="about_col_box" onclick="location='about/about.html'" onmouseover="changeClass(this,'about_col_box_sel');" onmouseout="changeClass(this,'about_col_box');"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          
+          <tr>
+            <td colspan="2" align="right" class="menu_col_title_box"><p class="menu_col_title"><a href="about/about.html" class="menu_col_title"><img src="images/about_col_hdr.gif" alt="Who are we?" width="130" height="23" border="0" /></a></p>              </td>
+            </tr>
+			<tr>
+									<td align='right' class='menu_col_arrow'>&gt;</td>
+									<td class='menu_col_box'><a href='about/about.html' class='menu_col'>About the IHT</a></td>
+								  </tr><tr>
+									<td align='right' class='menu_col_arrow'>&gt;</td>
+									<td class='menu_col_box'><a href='about/history.html' class='menu_col'>History</a></td>
+								  </tr><tr>
+									<td align='right' class='menu_col_arrow'>&gt;</td>
+									<td class='menu_col_box'><a href='http://www.ihtinfo.com/press/index.php' class='menu_col'>Press releases</a></td>
+								  </tr><tr>
+									<td align='right' class='menu_col_arrow'>&gt;</td>
+									<td class='menu_col_box'><a href='http://www.ihtinfo.com/contact.html#events' class='menu_col'>Contact our press team</a></td>
+								  </tr><tr>
+									<td align='right' class='menu_col_arrow'>&gt;</td>
+									<td class='menu_col_box'><a href='http://www.facebook.com/InternationalHeraldTribune' class='menu_col'>Join the IHT on Facebook</a></td>
+								  </tr>        </table></td>
+        <td colspan="2" class="adv_col_box" onclick="location='advertising/nytmg.html'" onmouseover="changeClass(this,'adv_col_box_sel');" onmouseout="changeClass(this,'adv_col_box');"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td colspan="2" align="right" class="menu_col_title_box"><p class="menu_col_title"><a href="httP://www.nytimesglobal.com" class="menu_col_title"><img src="images/adv_col_hdr.gif" alt="Global thinking" width="151" height="23" border="0" /></a></p></td>
+            </tr>
+			<tr>
+									<td align='right' class='menu_col_arrow'>&gt;</td>
+									<td class='menu_col_box'><a href='http://www.nytimesglobal.com' class='menu_col'>Media Kit</a></td>
+								  </tr><tr>
+									<td align='right' class='menu_col_arrow'>&gt;</td>
+									<td class='menu_col_box'><a href='http://www.nytimesglobal.com/rates.aspx' class='menu_col'>Rates</a></td>
+								  </tr><tr>
+									<td align='right' class='menu_col_arrow'>&gt;</td>
+									<td class='menu_col_box'><a href='http://www.nytimesglobal.com/editorial-calendar.aspx' class='menu_col'>Editorial Calendar</a></td>
+								  </tr><tr>
+									<td align='right' class='menu_col_arrow'>&gt;</td>
+									<td class='menu_col_box'><a href='http://www.nytimesglobal.com/global-sectors.aspx' class='menu_col'>Global Sectors</a></td>
+								  </tr><tr>
+									<td align='right' class='menu_col_arrow'>&gt;</td>
+									<td class='menu_col_box'><a href='http://www.nytimesglobal.com/contact-us.aspx' class='menu_col'>Contact our sales team</a></td>
+								  </tr>        </table></td>
+        <td colspan="2" class="events_col_box" onclick="location='events/events.html'"onmouseover="changeClass(this,'events_col_box_sel');" onmouseout="changeClass(this,'events_col_box');"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td colspan="2" align="right" class="menu_col_title_box"><p class="menu_col_title"><a href="events/events.html" class="menu_col_title"><img src="images/event_col_hdr.gif" alt="Industry leading" width="163" height="23" border="0" /></a></p></td>
+            </tr>
+			<tr>
+									<td align='right' class='menu_col_arrow'>&gt;</td>
+									<td class='menu_col_box'><a href='http://www.ihtconferences.com' class='menu_col'>IHT Conferences</a></td>
+								  </tr><tr>
+									<td align='right' class='menu_col_arrow'>&gt;</td>
+									<td class='menu_col_box'><a href='http://www.ihtinfo.com/events/female_factor/index.html' class='menu_col'>Female Factor Debates</a></td>
+								  </tr><tr>
+									<td align='right' class='menu_col_arrow'>&gt;</td>
+									<td class='menu_col_box'><a href='http://www.ihtconferences.com/home/contacts.aspx' class='menu_col'>Contact our events team</a></td>
+								  </tr>        </table></td>
+        <td colspan="2" class="press_col_box"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td colspan="2" align="right" class="menu_col_title_box"><p class="menu_col_title"><a href="http://twitter.com/IHTComms"><img src="images/headlines_col_hdr.gif" alt="Join the global conversation" width="163" height="23" border="0" /></a></p></td>
+            </tr>
+						<tr><td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  
+  <tr>
+    <td colspan="2"><script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 30,
+  interval: 6000,
+  title: 'News from the IHT',
+  subject: '',
+  width: 'auto',
+  height: 225,
+  theme: {
+    shell: {
+      background: '#eeeeef',
+      color: '#8f9193'
+    },
+    tweets: {
+      background: '#ffffff',
+      color: '#8f9193',
+      links: '#ff9900'
+    }
+  },
+  features: {
+    scrollbar: true,
+    loop: false,
+    live: true,
+    hashtags: true,
+    timestamp: true,
+    avatars: false,
+    behavior: 'all'
+  }
+}).render().setUser('ihtcomms').start();
+</script></td>
+  </tr>
+</table>
+            </td></tr>
+        </table></td>
+        <td class="right_col_box_home"><img src="images/spacer.gif" alt="" width="1" height="355" /></td>
+      </tr>
+    </table></td>
+    </tr>
+  <tr>
+    <td><img src="images/spacer.gif" alt="" width="1" height="20" /></td>
+    </tr>
+  <tr>
+    <td colspan="3"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><img src="images/spacer.gif" alt="" width="1" height="7" /></td>
+        </tr>
+      
+      <tr>
+        <td class="skybox_shadows"><!-- #BeginLibraryItem "/Library/sky boxes.lbi" --><div class="nopadding" id="lyrSkyboxes">
+          
+        </div><script type="text/javascript" src="Scripts/skybox-ajax.js"></script>
+<script type="text/javascript"> 
+ajaxFunction();
+</script> <!-- #EndLibraryItem --></td>
+          </tr>
+    </table></td>
+    </tr>
+  <tr>
+    <td colspan="3" valign="bottom"><!-- #BeginLibraryItem "/Library/footer.lbi" --><table width="100%"  border="0" cellpadding="0" cellspacing="0" class="footer">
+      <tr>
+        <td><img src="images/spacer.gif" alt="" width="10" height="1" /></td>
+        <td><img src="images/spacer.gif" alt="" width="105" height="5" /></td>
+        <td><img src="images/spacer.gif" alt="" width="118" height="5" /></td>
+        <td><img src="images/spacer.gif" alt="" width="132" height="5" /></td>
+        <td><img src="images/spacer.gif" alt="" width="70" height="5" /></td>
+        <td><img src="images/spacer.gif" alt="" width="60" height="5" /></td>
+        <td><img src="images/spacer.gif" alt="" width="45" height="5" /></td>
+        <td><img src="images/spacer.gif" alt="" width="310" height="5" /></td>
+        <td><img src="images/spacer.gif" alt="" width="10" height="1" /></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td rowspan="2" valign="top"><img src="images/nytmglogo.gif" alt="NYTMG logo" width="96" height="30" /></td>
+        <td class="footerbox"><a href="http://www.iht.com" target="_blank" class="footer">Visit global.nytimes.com</a> </td>
+        <td class="footerbox"><a href="https://subs.iht.com/selectoffer" target="_blank" class="footer">Subscribe to the Newspaper</a></td>
+        <td class="footerbox"><a href="privacy.html" class="footer">Privacy Policy</a></td>
+        <td class="footerbox"><a href="contact.html" class="footer">Contact Us</a></td>
+        <td>&nbsp;</td>
+        <td align="right"><p class="footer_gray">Copyright &copy; 2010 The International Herald Tribune All Rights Reserved</p></td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td align="right">&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+    </table><!-- #EndLibraryItem --></td>
+  </tr>
+</table>
+</center>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script> 
+<script type="text/javascript"> 
+ajaxFunction();
+_uacct = "UA-965142-2"; 
+urchinTracker(); 
+</script> 
+</body>
+</html>

@@ -1,0 +1,952 @@
+Set-cookie: RMID=1e1f53f80a144ed913316958; expires=Saturday, 01-Dec-2012 18:04:33 GMT; path=/; domain=.nytimes.com
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Set-cookie: adxcs=s*28144=0:1; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Real Estate - Commercial - The New York Times</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="noarchive">
+<meta name="description" content="Find commercial space. Buy, sell or rent commercial real estate including listings for retail, industrial &amp; office space in New York &amp; beyond." />
+<meta name="keywords" content="Computers and the Internet,Prices (Fares, Fees and Rates),Landlords,Real Estate and Housing (Residential),Renting and Leasing (Real Estate),Area Planning and Renewal,Real Estate (Commercial),Cleveland (Ohio),Real Estate and Housing (Residential),Restoration and Renovation,West Side Railyards (NYC),Manhattan (NYC),Bloomberg, Michael R,Real Estate (Commercial),Area Planning and Renewal,Olympic Games (2012),Related Cos,New York City,Restoration and Renovation,Real Estate (Commercial),Historic Buildings and Sites,Center for Urban Real Estate,Area Planning and Renewal,Governors Island (NYC),Manhattan (NYC),Land Use Policies,New York City,Leadership in Energy and Environmental Design (LEED),Real Estate (Commercial),Malkin, Anthony E,Real Estate and Housing (Residential),Bicycles and Bicycling,Transportation Alternatives,RXR Realty,Commuting,Trinity Real Estate,Area Planning and Renewal,Security Bank Corporation,Ron Payne,Owensboro (Ky),Labor and Jobs,Real Estate (Commercial),Area Planning and Renewal,Long Island City (NYC),Real Estate and Housing (Residential),Shopping and Retail,New York City,Real Estate (Commercial),Electric Light and Power,Living Cities,Energy Efficiency,Massachusetts,Boston (Mass),Real Estate (Commercial),Real Estate and Housing (Residential),Vertex Pharmaceuticals Inc,Real Estate (Commercial),Renting and Leasing (Real Estate),Relocation of Business,Manhattan (NYC),Budgets and Budgeting,Economic Conditions and Trends,BASF AG,Real Estate (Commercial),Florham Park (NJ),Relocation of Business,Chemicals,Infrastructure (Public Works),Real Estate (Commercial),Willets Point (NYC),Area Planning and Renewal,Real Estate (Commercial),Mortgages,Banking and Financial Institutions,Life Insurance,Anbau Enterprises,Real Estate and Housing (Residential),van Beuren, Barbara,New York City,Keller Williams Realty,Real Estate Brokers,Bracha, Ilan,Real Estate and Housing (Residential),Real Estate (Commercial),WSP Flack &amp; Kurtz,Engineering and Engineers,Building (Construction),WSP Flack + Kurtz,Cooper, David" />
+<meta name="asset_id" content="">
+<meta name="CG" content="realestate">
+<meta name="SCG" content="commercial">
+<meta name="PT" content="Section Front">
+<meta name="PST" content="Subsection Front">
+<link rel="canonical" href="http://www.nytimes.com/pages/realestate/commercial/index.html">
+<meta name="msapplication-starturl" content="http://www.nytimes.com/" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.nytimes.com/services/xml/rss/nyt/Commercial.xml"/>
+
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/build/sectionfront/realestate/commercial/styles.css" />
+<link rel="stylesheet" type="text/css" media="print" href="http://graphics8.nytimes.com/css/0.1/print/styles.css">
+<!--[if IE]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie.css);
+	    </style>
+	<![endif]-->
+<!--[if IE 6]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie6.css);
+	    </style>
+	<![endif]-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/DropDown.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/util/tooltip.js"></script>
+<script type="text/JavaScript">
+		var static_kw = "Computers and the Internet;Prices (Fares; Fees and Rates);Landlords;Real Estate and Housing (Residential);Renting and Leasing (Real Estate);Area Planning and Renewal;Real Estate (Commercial);Cleveland (Ohio);Real Estate and Housing (Residential);Restoration and Renovation;West Side Railyards (NYC);Manhattan (NYC);Bloomberg; Michael R;Real Estate (Commercial);Area Planning and Renewal;Olympic Games (2012);Related Cos;New York City;Restoration and Renovation;Real Estate (Commercial);Historic Buildings and Sites;Center for Urban Real Estate;Area Planning and Renewal;Governors Island (NYC);Manhattan (NYC);Land Use Policies;New York City;Leadership in Energy and Environmental Design (LEED);Real Estate (Commercial);Malkin; Anthony E;Real Estate and Housing (Residential);Bicycles and Bicycling;Transportation Alternatives;RXR Realty;Commuting;Trinity Real Estate;Area Planning and Renewal;Security Bank Corporation;Ron Payne;Owensboro (Ky);Labor and Jobs;Real Estate (Commercial);Area Planning and Renewal;Long Island City (NYC);Real Estate and Housing (Residential);Shopping and Retail;New York City;Real Estate (Commercial);Electric Light and Power;Living Cities;Energy Efficiency;Massachusetts;Boston (Mass);Real Estate (Commercial);Real Estate and Housing (Residential);Vertex Pharmaceuticals Inc;Real Estate (Commercial);Renting and Leasing (Real Estate);Relocation of Business;Manhattan (NYC);Budgets and Budgeting;Economic Conditions and Trends;BASF AG;Real Estate (Commercial);Florham Park (NJ);Relocation of Business;Chemicals;Infrastructure (Public Works);Real Estate (Commercial);Willets Point (NYC);Area Planning and Renewal;Real Estate (Commercial);Mortgages;Banking and Financial Institutions;Life Insurance;Anbau Enterprises;Real Estate and Housing (Residential);van Beuren; Barbara;New York City;Keller Williams Realty;Real Estate Brokers;Bracha; Ilan;Real Estate and Housing (Residential);Real Estate (Commercial);WSP Flack & Kurtz;Engineering and Engineers;Building (Construction);WSP Flack + Kurtz;Cooper; David";
+		var dynamic_kw = "Computers+and+the+Internet;Prices+%28Fares;+Fees+and+Rates%29;Landlords;Real+Estate+and+Housing+%28Residential%29;Renting+and+Leasing+%28Real+Estate%29;Area+Planning+and+Renewal;Real+Estate+%28Commercial%29;Cleveland+%28Ohio%29;Real+Estate+and+Housing+%28Residential%29;Restoration+and+Renovation;West+Side+Railyards+%28NYC%29;Manhattan+%28NYC%29;Bloomberg;+Michael+R;Real+Estate+%28Commercial%29;Area+Planning+and+Renewal;Olympic+Games+%282012%29;Related+Cos;New+York+City;Restoration+and+Renovation;Real+Estate+%28Commercial%29;Historic+Buildings+and+Sites;Center+for+Urban+Real+Estate;Area+Planning+and+Renewal;Governors+Island+%28NYC%29;Manhattan+%28NYC%29;Land+Use+Policies;New+York+City;Leadership+in+Energy+and+Environmental+Design+%28LEED%29;Real+Estate+%28Commercial%29;Malkin;+Anthony+E;Real+Estate+and+Housing+%28Residential%29;Bicycles+and+Bicycling;Transportation+Alternatives;RXR+Realty;Commuting;Trinity+Real+Estate;Area+Planning+and+Renewal;Security+Bank+Corporation;Ron+Payne;Owensboro+%28Ky%29;Labor+and+Jobs;Real+Estate+%28Commercial%29;Area+Planning+and+Renewal;Long+Island+City+%28NYC%29;Real+Estate+and+Housing+%28Residential%29;Shopping+and+Retail;New+York+City;Real+Estate+%28Commercial%29;Electric+Light+and+Power;Living+Cities;Energy+Efficiency;Massachusetts;Boston+%28Mass%29;Real+Estate+%28Commercial%29;Real+Estate+and+Housing+%28Residential%29;Vertex+Pharmaceuticals+Inc;Real+Estate+%28Commercial%29;Renting+and+Leasing+%28Real+Estate%29;Relocation+of+Business;Manhattan+%28NYC%29;Budgets+and+Budgeting;Economic+Conditions+and+Trends;BASF+AG;Real+Estate+%28Commercial%29;Florham+Park+%28NJ%29;Relocation+of+Business;Chemicals;Infrastructure+%28Public+Works%29;Real+Estate+%28Commercial%29;Willets+Point+%28NYC%29;Area+Planning+and+Renewal;Real+Estate+%28Commercial%29;Mortgages;Banking+and+Financial+Institutions;Life+Insurance;Anbau+Enterprises;Real+Estate+and+Housing+%28Residential%29;van+Beuren;+Barbara;New+York+City;Keller+Williams+Realty;Real+Estate+Brokers;Bracha;+Ilan;Real+Estate+and+Housing+%28Residential%29;Real+Estate+%28Commercial%29;WSP+Flack+%26+Kurtz;Engineering+and+Engineers;Building+%28Construction%29;WSP+Flack+%2B+Kurtz;Cooper;+David";
+		var nyt_google_contents = dynamic_kw + static_kw;
+		var nyt_google_ad_channel = "realestate_commercial";
+	</script>
+<script type="text/javascript" src="http://use.typekit.com/fml4qar.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" src="http://js.nyt.com/js2/build/sitewide/sitewide.js"></script>
+<script type="text/javascript" src="http://js.nyt.com/js/app/lib/jquery/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+</head>
+<body>
+<a name="top"></a>
+<div id="shell">
+
+<ul id="memberTools">
+
+ 
+                        <li><a id="memberToolsLogin" href="https://myaccount.nytimes.com/auth/login">Log In</a></li>
+            <li><a href="https://myaccount.nytimes.com/gst/regi.html">Register Now</a></li>
+                            
+
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+</ul>
+<div class="tabsContainer">
+<ul id="mainTabs" class="tabs">
+<li class="first mainTabHome"><a href="http://www.nytimes.com">Home Page</a></li>
+<li class="mainTabTodaysPaper"><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+<li class="mainTabVideo"><a href="http://www.nytimes.com/video">Video</a></li>
+<li class="mainTabMostPopular"><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+<li class="mainTabTimesTopics"><a href="http://topics.nytimes.com/top/reference/timestopics">Times Topics</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+</script>	<div id="page" class="tabContent active">
+<div class="clearfix" id="masthead">
+
+<div class="singleAd" id="Middle1C">
+<!-- ADXINFO classification="button" campaign="ING_DirectSiteSearchQ111_1694929-nyt1"--><A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/realestate/commercial/index.html&pos=Middle1C&sn2=98e53d22/3673a66b&sn1=59756299/46b02203&camp=ING_DirectSiteSearchQ111_1694929-nyt1&ad=NEW.88x31.SiteSearch.Wizard&goto=http://ad.doubleclick.net/jump/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.33" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.33"
+ BORDER=0 WIDTH=88 HEIGHT=31
+ ALT="Click Here"></A>
+</div>
+
+<div id="searchWidget">
+<div class="inlineSearchControl">
+<form enctype="application/x-www-form-urlencoded" action="http://query.nytimes.com/search/sitesearch" method="get" name="searchForm" id="searchForm">
+<input type="hidden" value="full" name="date_select"/>
+<label for="searchQuery">Search All NYTimes.com</label>
+<input type="text" class="text" value="" size="" name="query" id="searchQuery"/>
+<input type="hidden" id="searchAll" name="type" value="nyt"/>
+<input type="image" id="searchSubmit" title="Search" alt="Search" width="22" height="19" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"/>
+</form>
+</div>
+</div>
+
+<div id="branding" >
+<a href="http://www.nytimes.com"><img src="http://graphics8.nytimes.com/images/misc/nytlogo152x23.gif" alt="New York Times" id="NYTLogo"/></a>
+</div>
+
+<div id="date">
+<p>
+Friday, December  2, 2011
+</p>
+</div>
+
+<h2>
+<a href="http://www.nytimes.com/pages/realestate/commercial/index.html">Commercial</a>
+</h2>
+
+</div>
+<div class="navigation tabsContainer">
+<ul class="tabs">
+<li id="navWorld" class="first ">
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>	<li id="navUs" >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>	<li id="navNyregion" >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>	<li id="navBusiness" >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>	<li id="navTechnology" >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>	<li id="navScience" >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>	<li id="navHealth" >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>	<li id="navSports" >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>	<li id="navOpinion" >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>	<li id="navArts" >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>	<li id="navStyle" >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>	<li id="navTravel" >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>	<li id="navJobs" >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>	<li id="navRealestate" class="selected">
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+<ul class="subNavigation"><li id="subNav_communities"><a href="http://www.nytimes.com/pages/realestate/communities/index.html">Neighborhoods</a></li><li id="subNav_greathomesanddestinations"><a href="http://www.nytimes.com/pages/great-homes-and-destinations/index.html">Great Homes and Destinations</a></li><li id="subNav_commercial" class="selected nochildren" ><a href="http://www.nytimes.com/pages/realestate/commercial/index.html">Commercial</a></li><li id="subNav_allclassifieds"><a href="http://www.nytimes.com/ref/classifieds/">All Classifieds</a></li></ul></li>	<li id="navAutomobiles" >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li></ul>
+</div>
+
+<div class="singleAd" id="TopAd">
+<!-- ADXINFO classification="leaderboard_728" campaign="Citi_NatContContextAddress_1778585-nyt1"--><script language="JavaScript" type="text/javascript" src="http://view.atdmt.com/NYC/jview/359855726/direct;wi.728;hi.90;pc.172960_282801/01/2011.12.02.18.04.33?click=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fadx%2Fbin%2Fadx%5Fclick%2Ehtml%3Ftype%3Dgoto%26opzn%26page%3Dwww.nytimes.com/pages/realestate/commercial/index.html%26pos%3DTopAd%26camp%3DCiti%5FNatContContextAddress%5F1778585%2Dnyt1%26ad%3Datlas%2D359855726%5F728x90%5FROS%26sn2%3D6e71c3a5/6fb16f74%26snr%3Ddoubleclick%26snx%3D1322848862%26sn1%3Da24f8359%2Fd9b22823%26goto%3D">
+</script><noscript><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/realestate/commercial/index.html&pos=TopAd&sn2=6e71c3a5/6fb16f74&sn1=c8e65fa8/cdc43793&camp=Citi_NatContContextAddress_1778585-nyt1&ad=atlas-359855726_728x90_ROS&goto=http%3A%2F%2Fclk%2Eatdmt%2Ecom%2FNYC%2Fgo%2F359855726%2Fdirect%3Bwi%2E728%3Bhi%2E90%3Bpc%2E172960%5F282801%2F01%2F2011.12.02.18.04.33%2F" target="_blank"><img border="0" src="http://view.atdmt.com/NYC/view/359855726/direct;wi.728;hi.90;pc.172960_282801/01/2011.12.02.18.04.33/" /></a></noscript>
+</div>
+
+<div id="main">
+<div class="spanAB wrap">
+<div class="wideA">
+<div class="abColumn">
+<div class="aColumn">
+<!--cur:StandardThumb prev:-->
+<div class="columnGroup first">
+<h2 class="subSectionHeader">Commercial</h2> <h4><strong><a class="postAdLink" href="http://www.cityfeet.com/Advertise/Default.aspx?PartnerPath=nytimes/">Post a Listing Online »</a></strong></h4>
+<div class="columnGroup firstColumnGroup"><iframe src="http://www.cityfeet.com/nytimes/ControlHolder.aspx" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" width="395" height="324"></iframe></div>
+</div>
+<!--cur:LedeStory395 prev:StandardThumb-->
+<div class="columnGroup singleRule ">
+<div class="ledeStory">
+<div class="storyHeader">
+<h6 class="kicker">Square Feet</h6>
+<h1><a href="http://www.nytimes.com/2011/11/30/realestate/commercial/landlords-use-computers-to-arrive-at-the-right-rental-fee.html?ref=commercial">
+When Apartment Rents Climb, Landlords Can Say ‘The Computer Did It’</a></h1>
+<h6 class="byline">
+By MATT HUDGINS            </h6>
+</div>
+<div class="ledePhoto">
+<div class="image">
+<a href="http://www.nytimes.com/2011/11/30/realestate/commercial/landlords-use-computers-to-arrive-at-the-right-rental-fee.html?ref=commercial"><img src="http://graphics8.nytimes.com/images/2011/11/30/business/Multifamily/Multifamily-sfSpan.jpg" border="0" width="395" height="263" alt="Shea Properties runs the Madrid Apartments in Mission Viejo, Calif., and sets rents by using revenue management software." /></a>
+</div>
+<h6 class="credit">David Ahntholz for The New York Times</h6>
+<p class="caption">Shea Properties runs the Madrid Apartments in Mission Viejo, Calif., and sets rents by using revenue management software.</p>
+</div>
+<p class="summary">
+Landlords who run apartment properties with thousands of units are increasingly turning to software programs to help them set rents.</p>
+</div>
+<div class="storyFollowsLede">
+<h6 class="kicker">Square Feet</h6>
+<h3><a href="http://www.nytimes.com/2011/11/30/realestate/commercial/cleveland-ignites-job-growth-with-rebuilding-project.html?ref=commercial">
+Cleveland Turns Uptown Into New Downtown</a></h3>
+<h6 class="byline">
+By KEITH SCHNEIDER 
+</h6>
+<p class="summary">
+A city that has leaked people and jobs for decades is breathing new life into its Uptown arts and entertainment district.</p>
+</div>
+<div class="storyFollowsLede">
+<h3><a href="http://www.nytimes.com/2011/11/28/nyregion/on-far-west-side-bloombergs-failed-olympic-plan-spurs-development.html?ref=commercial">
+From Ashes of Olympic Bid, a Future Rises for the Far West Side</a></h3>
+<h6 class="byline">
+By CHARLES V. BAGLI 
+</h6>
+<p class="summary">
+Remnants of a bid to host the 2012 Olympics have helped jump-start construction at Hudson Yards, which could soon have more office space than all of Baltimore, city officials said.</p>
+<ul class="refer">
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001193857" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/11/28/nyregion/on-far-west-side-bloombergs-failed-olympic-plan-spurs-development.html"></span></li>
+</ul>
+</div>
+</div>
+<!--cur:StandardThumb prev:LedeStory395-->
+<div class="columnGroup last">
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/11/23/realestate/commercial/the-tricky-task-of-renovating-a-buildings-landmark-interior.html?ref=commercial">
+The Tricky Task of Renovating a Building Without Altering Its Landmark Insides</a></h3>
+<h6 class="byline">
+By C. J. HUGHES	    </h6>
+<p class="summary">
+Landmark protection for interiors of buildings in New York City can please preservationists, but for landlords and real estate brokers, it can be even more confining than a protected exterior.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/23/realestate/commercial/visions-of-lolo-a-neighborhood-rising-from-landfill.html?ref=commercial">
+<img src="http://graphics8.nytimes.com/images/2011/11/23/business/Columbia/Columbia-thumbStandard.jpg" width="75" height="75" alt="The Center for Urban Real Estate says that connecting Lower Manhattan and Governors Island would generate billions of dollars in revenue for the city." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/23/realestate/commercial/visions-of-lolo-a-neighborhood-rising-from-landfill.html?ref=commercial">
+Visions of a Development Rising From the Sea</a></h3>
+<h6 class="byline">
+By JULIE SATOW	    </h6>
+<p class="summary">
+The Center for Urban Real Estate, a new research group, has proposed connecting Lower Manhattan with Governors Island by using landfill.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Square Feet</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/16/realestate/commercial/for-those-who-pedal-to-work-a-room-to-store-their-bikes.html?ref=commercial">
+<img src="http://graphics8.nytimes.com/images/2011/11/16/business/Bikeroom/Bikeroom-thumbStandard.jpg" width="75" height="75" alt="Jordan Mokriski in the bike storage room of the Starrett-Lehigh Building, where he works. The room holds about 150 bicycles." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/16/realestate/commercial/for-those-who-pedal-to-work-a-room-to-store-their-bikes.html?ref=commercial">
+A Room of Their Own for 2-Wheeled Commuters</a></h3>
+<h6 class="byline">
+By TOM ACITELLI	    </h6>
+<p class="summary">
+Some commercial buildings, spurred by New York City law, are carving out dedicated storage rooms for bicycles.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Square Feet</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/16/realestate/commercial/in-owensboro-ky-a-tax-increase-helps-revitalize-downtown.html?ref=commercial">
+<img src="http://graphics8.nytimes.com/images/2011/11/16/business/Owensboro2/Owensboro2-thumbStandard.jpg" width="75" height="75" alt="Mayor Ron Payne has overseen more than $1 billion in development, including an expansion of the regional airport terminal." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/16/realestate/commercial/in-owensboro-ky-a-tax-increase-helps-revitalize-downtown.html?ref=commercial">
+A Kentucky City Reinvents a Faded Downtown</a></h3>
+<h6 class="byline">
+By KEITH SCHNEIDER	    </h6>
+<p class="summary">
+After decades of decay, Owensboro is generating new entertainment, hotel, housing, retail, and office development with the support of an $80 million tax increase.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Square Feet</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/09/realestate/commercial/as-hunters-point-grows-retail-services-are-slow-to-catch-up.html?ref=commercial">
+<img src="http://graphics8.nytimes.com/images/2011/11/09/business/LIC1/LIC1-thumbStandard.jpg" width="75" height="75" alt="Donna Drimer owns Matted, a gift shop on Vernon Boulevard that attracts shoppers outside Queens." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/09/realestate/commercial/as-hunters-point-grows-retail-services-are-slow-to-catch-up.html?ref=commercial">
+In a Queens Enclave, Often Shopping in Vain</a></h3>
+<h6 class="byline">
+By BETSY VERECKEY				<span class="timestamp"></span>
+</h6>
+<p class="summary">
+Hunters Point, in Long Island City, Queens, is becoming a popular place to live, but residents are frustrated by the lack of shops, like clothing and hardware stores.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Square Feet</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/09/realestate/commercial/study-clarifies-the-energy-savings-in-retrofitted-buildings.html?ref=commercial">
+<img src="http://graphics8.nytimes.com/images/2011/11/09/business/Green/Green-thumbStandard.jpg" width="75" height="75" alt="Riverview II in Yonkers, owned by the Related Companies, has reduced overall electricity usage by more than 25 percent." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/09/realestate/commercial/study-clarifies-the-energy-savings-in-retrofitted-buildings.html?ref=commercial">
+Study Clarifies the Energy Savings in Retrofitted Buildings</a></h3>
+<h6 class="byline">
+By JULIE SATOW	    </h6>
+<p class="summary">
+An examination of housing units in New York City found that energy retrofits resulted in a 19 percent savings on fuel bills and a 10 percent savings on electricity.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Square Feet</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/02/business/spurring-growth-on-bostons-waterfront.html?ref=commercial">
+<img src="http://graphics8.nytimes.com/images/2011/11/02/business/Boston1_337_span/Boston1-thumbStandard.jpg" width="75" height="75" alt="A complex under way for Vertex Pharmaceuticals has attracted more development to the area." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/02/business/spurring-growth-on-bostons-waterfront.html?ref=commercial">
+Spurring Growth on Boston’s Waterfront</a></h3>
+<h6 class="byline">
+By SUSAN DIESENHOUSE	    </h6>
+<p class="summary">
+An area on the Boston waterfront attracts a variety of development projects after Vertex Pharmaceutical plans to relocate there.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/10/26/realestate/commercial/its-still-a-renters-market-office-landlords-learn.html?ref=commercial">
+<img src="http://graphics8.nytimes.com/images/2011/10/26/business/Tenant1/Tenant1-thumbStandard.jpg" width="75" height="75" alt="The financial holding company Nomura Securities received incentives for its 20-year lease at Worldwide Plaza." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/10/26/realestate/commercial/its-still-a-renters-market-office-landlords-learn.html?ref=commercial">
+It’s Still a Renter’s Market, Office Landlords Learn</a></h3>
+<h6 class="byline">
+By TOM ACITELLI	    </h6>
+<p class="summary">
+Although Manhattan office rents have risen since the recession, landlords are offering months of free rent and making building improvements to entice tenants.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/10/26/realestate/commercial/demand-for-office-space-continues-in-attractive-suburban-markets.html?ref=commercial">
+<img src="http://graphics8.nytimes.com/images/2011/10/26/business/Morris/Morris-thumbStandard.jpg" width="75" height="75" alt="BASF’s headquarters is the first office space at a development called the Green at Florham Park, N.J." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/10/26/realestate/commercial/demand-for-office-space-continues-in-attractive-suburban-markets.html?ref=commercial">
+Manhattan? BASF Prefers the Countryside</a></h3>
+<h6 class="byline">
+By JAMIE DUFFY	    </h6>
+<p class="summary">
+The world’s largest chemical company will retain its North American presence in Morris County, N.J., in a new $130 million building.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/10/19/realestate/commercial/willets-point-redevelopment-takes-a-step-forward.html?ref=commercial">
+<img src="http://graphics8.nytimes.com/images/2011/10/19/business/Willets/Willets-thumbStandard.jpg" width="75" height="75" alt="The area around Citi Field features no sidewalks, huge potholes and many auto repair shops." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/10/19/realestate/commercial/willets-point-redevelopment-takes-a-step-forward.html?ref=commercial">
+In Queens, Neglected Sector Attracts Big Developers</a></h3>
+<h6 class="byline">
+By TERRY PRISTIN	    </h6>
+<p class="summary">
+Willets Point has long been home to an unsightly jumble of auto shops, but New York City officials say they have made progress on a $3 billion revitalization proposal.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/10/19/realestate/commercial/insurers-see-an-opening-in-commercial-mortgages.html?ref=commercial">
+<img src="http://graphics8.nytimes.com/images/2011/10/19/business/Insure/Insure-thumbStandard.jpg" width="75" height="75" alt="Richard D. Jones, at Dechert in Philadelphia, said insurers sold off many of their mortgages in recent years." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/10/19/realestate/commercial/insurers-see-an-opening-in-commercial-mortgages.html?ref=commercial">
+Insurers See an Opening in Commercial Mortgages</a></h3>
+<h6 class="byline">
+By JULIE SATOW				<span class="timestamp"></span>
+</h6>
+<p class="summary">
+As investment banks pull back from a volatile commercial mortgage market, life insurance companies are moving in, expanding their lending.</p>
+</div>
+</div>
+<div id="adxSponLink" class="columnGroup singleRule"></div>
+</div><!--close .aColumn -->
+<div class="bColumn">
+<div class="columnGroup SectionFront3Col first">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<div class="columnGroup first">
+<div class="story">  
+<div class="wideThumb">
+<a href="javascript:pop_me_up2('http://www.nytimes.com/imagepages/2011/11/16/realestate/16trans-graphic.html?ref=commercial','370_1745','width=370,height=1745,location=no,scrollbars=yes,toolbars=no,resizable=yes')">
+<img src="http://graphics8.nytimes.com/images/2011/11/16/realestate/16trans-graphic/16trans-graphic-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+</a>
+</div>
+<h5><a href="javascript:pop_me_up2('http://www.nytimes.com/imagepages/2011/11/16/realestate/16trans-graphic.html?ref=commercial','370_1745','width=370,height=1745,location=no,scrollbars=yes,toolbars=no,resizable=yes')">
+Transactions</a></h5>
+<h6 class="byline">
+</h6>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://dealbook.blogs.nytimes.com/category/real-estate/" title="DealBook">
+<img src="http://graphics8.nytimes.com/images/2010/11/08/business/dealbook-headers/dealbook-headers-custom3.gif" alt="DealBook"/>
+</a> 
+</h3> <div class="summary">The latest postings about real estate from DealBook.</div><div class="story first">
+<h3><a href="http://dealbook.nytimes.com/2011/11/29/empire-state-building-on-track-for-i-p-o/?ref=commercial">Empire State Building on Track to Be Part of I.P.O.</a></h3>
+<p class="date">November 29, 2011 <span class="timestamp"></span></p>
+</div><p class="refer">
+<a href="http://dealbook.blogs.nytimes.com/category/real-estate/" title="More From DealBook">More From DealBook &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule ">
+<div class="relatedStories"><div class="internal">
+<h3 class="sectionHeader"><a href="http://crenews.com" title="Commercial Real Estate news from Crenews.com"><img src="http://graphics8.nytimes.com/images/section/realestate/crenews190x19.png" alt="Commercial Real Estate news from Crenews.com"></a></h3>
+<div class="story first">
+<h5><a href="http://www.crenews.com/index.php?option=com_content&amp;task=view&amp;id=74187&amp;Itemid=128">Bank Group Lends $265Mln for Long Island City, N.Y., Apartments</a></h5>
+<p class="date">December  1, 2011</p>
+</div>
+<div class="story">
+<h5><a href="http://www.crenews.com/index.php?option=com_content&amp;task=view&amp;id=74179&amp;Itemid=128">Invesco Cites CMBS as Most Mispriced Asset in Market</a></h5>
+<p class="date">December  1, 2011</p>
+</div>
+<div class="story">
+<h5><a href="http://www.crenews.com/index.php?option=com_content&amp;task=view&amp;id=74171&amp;Itemid=128">Vornado Prices $400Mln of Unsecured Notes</a></h5>
+<p class="date">December  1, 2011</p>
+</div>
+</div></div>
+    
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">The 30-Minute Interview</h6><div class="story">
+<h6 class="kicker">Square Feet | The 30-Minute Interview</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/04/realestate/barbara-van-beuren.html?ref=commercial">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/realestate/04SQFT/04SQFT-thumbStandard.jpg" width="75" height="75" alt="Barbara van Beuren" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/04/realestate/barbara-van-beuren.html?ref=commercial">
+Barbara van Beuren</a></h3>
+<h6 class="byline">
+By VIVIAN MARINO	    </h6>
+<p class="summary">
+Ms. van Beuren is a managing partner of Anbau Enterprises, a Manhattan developer that specializes in for-sale residential real estate.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Square Feet | The 30-Minute Interview</h6>
+<h3><a href="http://www.nytimes.com/2011/11/27/realestate/ilan-bracha.html?ref=commercial">
+Ilan Bracha</a></h3>
+<h6 class="byline">
+By VIVIAN MARINO	    </h6>
+<p class="summary">
+Mr. Bracha is the chairman of the newly opened Manhattan office of Keller Williams Realty — Keller Williams New York City.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Square Feet | The 30-Minute Interview</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/20/realestate/david-cooper.html?ref=commercial">
+<img src="http://graphics8.nytimes.com/images/2011/11/20/realestate/20SQFT/20SQFT-thumbStandard.jpg" width="75" height="75" alt="David Cooper" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/20/realestate/david-cooper.html?ref=commercial">
+David Cooper</a></h3>
+<h6 class="byline">
+By VIVIAN MARINO	    </h6>
+<p class="summary">
+Mr. Cooper is the president and chief executive of WSP Flack + Kurtz, a building systems engineering company that provides a wide range of consulting, design and engineering services.</p>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">Times Topics</h6><ul>
+<li><a href="http://topics.nytimes.com/top/reference/timestopics/subjects/s/sept_11_2001/reconstruction/index.html">Building at Ground Zero</a></li>
+</ul>    
+</div>
+<div class="columnGroup doubleRule last">
+
+
+<div class="singleAd" id="Box2">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/realestate/commercial/index.html&pos=Box2&sn2=758b7be8/e435fadd&sn1=38d43609/ab3147cd&camp=nyt2011-circ-120x90-weekender-36H38&ad=071511-120x90-weekender-36H38&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DWC7AA%26CMP%3D36H38" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/13/ad.271312/11-0920_HDWeekender2_120x90.jpg" width="120" height="90" border="0"></a>
+
+</div>
+
+</div>
+</div><!--close .bColumn -->
+</div><!--close .abColumn -->
+<div class="cColumn">
+<!--Ads  -->                    <div class="columnGroup first">
+
+</div>
+<!--Ads Ads -->                    <div class="columnGroup ">
+
+<div class="twoColumnAd">
+<div class="subColumn-2 wrap">
+
+<div class="column firstColumn">
+<!-- ADXINFO classification="template_RE" campaign="default-sir-FP-REarticlePgs-1566484-cla_GH"--><div class="story meta">
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/realestate/commercial/index.html&pos=Middle2B&sn2=98e53c61/3673a66b&sn1=a7f6911d/1b579d23&camp=default-sir-FP-REarticlePgs-1566484-cla_GH&ad=2836-4350745&goto=http://www.sothebysrealty.com/en/PropertyDetails.aspx%3FR%3D104350745%26WT.mc_id%3DNYTimes%26campaign%3Dlisthub%26refcode%3DSIRnytimes" target="_blank">
+<img class="firstImage" src="http://media.sothebysrealty.com/sirimages/zh48x3gkhaz7mcpsfaz9q9tw_PMAS.jpg" width="166" height="114"/></a>
+
+
+
+<h5>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/realestate/commercial/index.html&pos=Middle2B&sn2=98e53c61/3673a66b&sn1=a7f6911d/1b579d23&camp=default-sir-FP-REarticlePgs-1566484-cla_GH&ad=2836-4350745&goto=http://www.sothebysrealty.com/en/PropertyDetails.aspx%3FR%3D104350745%26WT.mc_id%3DNYTimes%26campaign%3Dlisthub%26refcode%3DSIRnytimes" target="_blank">11386 E. Hedgehog Place, Scottsdale</a></h5>
+<p class="summary">Exceptional 5-acre estate with sunset and ...
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/realestate/commercial/index.html&pos=Middle2B&sn2=98e53c61/3673a66b&sn1=a7f6911d/1b579d23&camp=default-sir-FP-REarticlePgs-1566484-cla_GH&ad=2836-4350745&goto=http://www.sothebysrealty.com/en/PropertyDetails.aspx%3FR%3D104350745%26WT.mc_id%3DNYTimes%26campaign%3Dlisthub%26refcode%3DSIRnytimes" target="_blank"></a>
+  </p>
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/realestate/commercial/index.html&pos=Middle2B&sn2=98e53c61/3673a66b&sn1=a7f6911d/1b579d23&camp=default-sir-FP-REarticlePgs-1566484-cla_GH&ad=2836-4350745&goto=http://www.sothebysrealty.com/en/home.aspx?WT.mc_id=NYTimes" target="_blank">
+<img src="http://images.gabriels.net/NY/FP_Logo/SIR_78x36.jpg" border="0" class="runaroundLeft"></a>
+
+</div>
+</div>
+
+
+<div class="column lastColumn">
+<h4 class="moduleHeader">Advertisement</h4>
+
+<!-- ADXINFO classification="box_120x90" campaign="BrokerButton-1-Commercial-RealEstate-Pgs"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/realestate/commercial/index.html&pos=Frame2B&sn2=e8904264/c3be2774&sn1=ba68e282/9b476749&camp=BrokerButton-1-Commercial-RealEstate-Pgs&ad=RE_090128_yourMoney_120x90.jpg&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fpages%2Fyour%2Dmoney%2Findex%2Ehtml" target="_blank">
+<img class="insetV flushTop" src="http://graphics8.nytimes.com/adx/images/ADS/19/54/ad.195429/090128_yourMoney_120x90.jpg" width="120" height="90" border="0"></a>
+
+
+
+
+<!-- ADXINFO classification="box_120x90" campaign="default-Frame3B-CommSF-cla"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/realestate/commercial/index.html&pos=Frame3B&sn2=e89042a4/c45e2774&sn1=ca7a59ec/4ae7db63&camp=default-Frame3B-CommSF-cla&ad=TimesTalks_120x90&goto=http%3A%2F%2Fwww%2Etimestalks%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/22/46/ad.224648/TT_banner_generic_120x90-static.jpg" width="120" height="90" border="0"></a>
+
+
+</div>
+
+</div>
+</div>
+
+
+<div class="twoColumnAd">
+<div class="subColumn-2 wrap">
+
+<div class="column firstColumn">
+<!-- ADXINFO classification="template_RE" campaign="default-sir-FP-REarticlePgs-1566484-cla_GH"--><div class="story meta">
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/realestate/commercial/index.html&pos=Middle7B&sn2=98e53da1/5a73a66b&sn1=a7f6911d/1b579d23&camp=default-sir-FP-REarticlePgs-1566484-cla_GH&ad=2836-3001RRD620&goto=http://www.sothebysrealty.com/en/PropertyDetails.aspx%3FR%3D104343759%26WT.mc_id%3DNYTimes%26campaign%3Dlisthub%26refcode%3DSIRnytimes" target="_blank">
+<img class="firstImage" src="http://media.sothebysrealty.com/sirimages/g2m0hk4d0nn7mmtjd91w6gjy_PMAS.jpg" width="166" height="114"/></a>
+
+
+
+<h5>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/realestate/commercial/index.html&pos=Middle7B&sn2=98e53da1/5a73a66b&sn1=a7f6911d/1b579d23&camp=default-sir-FP-REarticlePgs-1566484-cla_GH&ad=2836-3001RRD620&goto=http://www.sothebysrealty.com/en/PropertyDetails.aspx%3FR%3D104343759%26WT.mc_id%3DNYTimes%26campaign%3Dlisthub%26refcode%3DSIRnytimes" target="_blank">3001 Ranch Road 620, Austin</a></h5>
+<p class="summary">Under Construction, Phase II of Discovery ...
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/realestate/commercial/index.html&pos=Middle7B&sn2=98e53da1/5a73a66b&sn1=a7f6911d/1b579d23&camp=default-sir-FP-REarticlePgs-1566484-cla_GH&ad=2836-3001RRD620&goto=http://www.sothebysrealty.com/en/PropertyDetails.aspx%3FR%3D104343759%26WT.mc_id%3DNYTimes%26campaign%3Dlisthub%26refcode%3DSIRnytimes" target="_blank"></a>
+  </p>
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/realestate/commercial/index.html&pos=Middle7B&sn2=98e53da1/5a73a66b&sn1=a7f6911d/1b579d23&camp=default-sir-FP-REarticlePgs-1566484-cla_GH&ad=2836-3001RRD620&goto=http://www.sothebysrealty.com/en/home.aspx?WT.mc_id=NYTimes" target="_blank">
+<img src="http://images.gabriels.net/NY/FP_Logo/SIR_78x36.jpg" border="0" class="runaroundLeft"></a>
+
+</div>
+</div>
+
+
+<div class="column lastColumn">
+<h4 class="moduleHeader">Advertisement</h4>
+
+<!-- ADXINFO classification="box_120x90" campaign="default-BrokerButton-REpgs-cla"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/realestate/commercial/index.html&pos=Frame4B&sn2=e89043e4/c47e2774&sn1=21e8e0e0/1069c93b&camp=default-BrokerButton-REpgs-cla&ad=120x90_T_Logo.gif&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fpages%2Ft%2Dmagazine%2Findex%2Ehtml" target="_blank">
+<img class="insetV flushTop" src="http://graphics8.nytimes.com/adx/images/ADS/19/54/ad.195428/120x90_T_Logo.gif" width="120" height="90" border="0"></a>
+
+
+
+<!-- ADXINFO classification="box_120x90" campaign="default-BB-4-RealEstate-SF"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/realestate/commercial/index.html&pos=Frame5B&sn2=e8904424/c41e2774&sn1=c2c859c1/a0f38eff&camp=default-BB-4-RealEstate-SF&ad=1.15.10-newUrl-BHG-120x90.gif&goto=http%3A%2F%2Fwww%2Erandrealty%2Ecom" target="_blank">
+<img class="insetV flushTop" src="http://graphics8.nytimes.com/adx/images/ADS/22/28/ad.222823/120-X-90_broker-button.gif" width="120" height="90" border="0"></a>
+
+</div>
+
+</div>
+</div>
+			
+<div class="bigAd" id="SFMiddle">
+<!-- ADXINFO classification="BigAd" campaign="JohnstonMurphy_NovDec_2011_1762511_nyt8"--><SCRIPT type="text/javascript" SRC="http://ad.doubleclick.net/adj/N6550.276948.NYTIMES/B5878617.21;sz=336x280;pc=nyt172819A282713;ord=2011.12.02.18.04.33?;click=http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/realestate/commercial/index.html&pos=SFMiddle&camp=JohnstonMurphy_NovDec_2011_1762511_nyt8&ad=JandM_336x280_ROS_PreEmpt_Flt2&sn2=90b7ab8e/a788f57b&snr=doubleclick&snx=1322848863&sn1=26dfa6d1/398f811d&goto=">
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/realestate/commercial/index.html&pos=SFMiddle&sn2=90b7ab8e/a788f57b&sn1=51be39ad/20fcb8c6&camp=JohnstonMurphy_NovDec_2011_1762511_nyt8&ad=JandM_336x280_ROS_PreEmpt_Flt2&goto=http://ad.doubleclick.net/jump/N6550.276948.NYTIMES/B5878617.21;sz=336x280;pc=nyt172819A282713;ord=2011.12.02.18.04.33?" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N6550.276948.NYTIMES/B5878617.21;sz=336x280;pc=nyt172819A282713;ord=2011.12.02.18.04.33?"
+ BORDER=0 WIDTH=336 HEIGHT=280
+ ALT="Click Here"></A>
+</NOSCRIPT>
+</div>
+
+
+
+<div class="singleAd" id="Box3">
+<!-- ADXINFO classification="feature_squares" campaign="nyt2011-regilite-p1-dealbook-Blog"--><iframe title="regilite" src="https://myaccount.nytimes.com/regilite?product=DK" width="336" height="90" marginheight="0" marginwidth="0" frameborder="0" vspace="0" hspace="0" scrolling="no"></iframe>
+</div>
+
+
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<div>
+<iframe src="http://www.rcanalytics.com/USMarkets/intheframe.aspx?mockup=y" height="130" width="336" frameborder="0" scrolling="no"></iframe>
+<br />
+<table width="336" style="margin: 12px 0px 0px 0;">
+<tr>
+<td width="171">
+<a href="http://www.rcanalytics.com" target="_blank">
+<img  alt="REAL Capital Analytics - Transactions, Trends, Tools." style="margin-top: 1px; border: 0px;" src="http://www.rcanalytics.com/images/RCA-E-Logo-NYT-TTT.gif"/>
+</a>
+</td>
+<td style="line-height: 9px;" valign="top">
+<a href="http://www.rcanalytics.com/" style="color: #EA7517; font-family: Verdana; font-size: 9px; font-weight: bold; text-decoration: none;" target="_blank" title="Commercial Real Estate Investment Trends">Commercial Real Estate Investment Trends</a>
+</td>
+</tr>
+</table>
+</div>        	</div>
+<!--Ads Simple -->                    <div class="columnGroup ">
+			
+
+<div class="bigAd" id="Box1">
+<!-- ADXINFO classification="Module" campaign="nyt2011_module_movies_dude_film_hp_ros_db"--><!-- MARKETING MODULE -->
+<div style="border:solid #999;border-width:1px;font-family:Arial,sans-serif;text-align:left; width:334px;background:#fff;" class="clearfix wrap">
+  <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/realestate/commercial/index.html&pos=Box1&sn2=758b7be7/e435f6dd&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/2011/12/01/is-it-the-year-of-the-dude-film/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-PH%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm11/movies_120211.jpg" width="334" height="154" border="0" alt=""></a> 
+  <div style="padding:7px 9px 0;background:#fff">
+      <h2 style="font-size:22px;line-height:24px; margin:0;padding:0 0 4px;"><a style="color:#004276;" target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/realestate/commercial/index.html&pos=Box1&sn2=758b7be7/e435f6dd&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/2011/12/01/is-it-the-year-of-the-dude-film/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-HDR%26WT.mc_ev=click%26WT.mc_c=175075">Is it the year of the dude film?</a></h2>
+
+      <p style="margin:0 0 3px; padding:0;font-size: 11px;"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/realestate/commercial/index.html&pos=Box1&sn2=758b7be7/e435f6dd&sn1=9f65a43f/6fae85ce&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://nytimes.com/movies/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-URL%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank" style="font-size:11px;margin:3px 0;padding:0;font-family:Arial,sans-serif;  color:#000; text-transform:uppercase;">Also in Movies &raquo;</a></p>
+      <ul style="font-size:12px;margin:0; padding-bottom: 10px; border-bottom:1px solid #ccc;" class="refer">
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/realestate/commercial/index.html&pos=Box1&sn2=758b7be7/e435f6dd&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/2011/11/29/patton-oswalt-steals-the-scene-at-gotham-awards/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-L1%26WT.mc_ev=click%26WT.mc_c=175075" style="color: #004276">All about the Gotham Awards</a></li>
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/realestate/commercial/index.html&pos=Box1&sn2=758b7be7/e435f6dd&sn1=661da60f/95ccae2&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://carpetbagger.blogs.nytimes.com/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-L2%26WT.mc_ev=click%26WT.mc_c=175075" style="color: #004276">Awards season from The Carpetbagger</a></li>
+      </ul>
+    </div>
+ 
+ <div style="padding:5px 9px; float:left; width:316px; background:#fff"> <a style="float:left" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/realestate/commercial/index.html&pos=Box1&sn2=758b7be7/e435f6dd&sn1=9f65a43f/6fae85ce&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://nytimes.com/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-LOGO%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/nytimes.gif" alt="nytimes.com" width="116" height="18" border="0"></a><a style="float:right" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/realestate/commercial/index.html&pos=Box1&sn2=758b7be7/e435f6dd&sn1=9f65a43f/6fae85ce&camp=nyt2011_module_movies_dude_film_hp_ros_db&ad=MO-D-I-NYT-MOD-MOD-M230-ROS-1211&goto=http://nytimes.com/movies/%3FWT.mc_id=MO-D-I-NYT-MOD-MOD-M230-ROS-1211-VRT%26WT.mc_ev=click%26WT.mc_c=175075" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/verticals_movies.gif" alt="Movies" width="120" height="18" border="0"></a></div><br clear="all">
+
+</div>
+  <!-- /MARKETING MODULE -->
+
+
+</div>
+
+
+<div class="singleAd" id="Middle5">
+<!-- ADXINFO classification="FeaturedProduct" campaign="nyt2011-mktg-giftguides-336x79-ros"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/realestate/commercial/index.html&pos=Middle5&sn2=9ce98bd2/bbf31c9a&sn1=d6f7d74/359f08bf&camp=nyt2011-mktg-giftguides-336x79-ros&ad=GG-D-I-NYT-AD-FP-HGG-ROS-1111-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fgift%2Dguide%2Fholiday%2D2011%2Fcategories%2Ehtml%3FWT%2Emc%5Fid%3DGG%2DD%2DI%2DNYT%2DAD%2DFP%2DHGG%2DROS%2D1111%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D173906" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/28/40/ad.284068/GiftGuide_336x79.gif" width="336" height="79" border="0"></a>
+
+</div>
+
+
+
+<!--[TwoColumnAdLeft - Begin] -->
+	<div class="adHeader">
+<h4>
+Advertisements	    </h4>
+</div>
+<div class="cColumn-TextAdsBox">
+	<div class="cColumn-TextAdsLeft">
+<div class="cColumn-TextAd">
+<!-- ADXINFO classification="text_ad" campaign="weichert-Textlinks-1566514-cla"--><!-- start text link -->
+<a href="http://www.weichert.com/" target="_blank">
+<div class="cColumn-TextAdsHeader">Weichert.com</div>
+Realtors, Real Estate Listings, Homes for Sale, and Mortgages.</a>
+<!-- end text link -->
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+</div>
+	</div>
+<!--[TwoColumnAdLeft - End] -->
+<div class="advertisementColumnGroup">
+<!--[MarketPlaceGridAd - Begin] -->
+
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+    <!--[MarketPlaceGridAd - End] -->
+</div>
+</div>
+<!--Ads Ads -->                    <div class="columnGroup last">
+
+<div class="singleAd" id="Feature1">
+<!-- ADXINFO classification="hp-module" campaign="feature1-GilbaneProperties-1770810-cla"--><!--Ad Template Begins Here -->
+<div class="story advertisement">
+<div class="callout">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/realestate/commercial/index.html&pos=Feature1&sn2=ae3bd8fb/205fb7c&sn1=3145f6ef/1f7e77ab&camp=feature1-GilbaneProperties-1770810-cla&ad=7.23.11-gilbane-173x98-SFM&goto=http%3A%2F%2Fliveatsurfside%2Ecom%2FNYT" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/17/ad.271744/Surfside.jpg" width="173" height="98" border="0" alt="Click for Details"></a>
+</div>
+<h5>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/realestate/commercial/index.html&pos=Feature1&sn2=ae3bd8fb/205fb7c&sn1=3145f6ef/1f7e77ab&camp=feature1-GilbaneProperties-1770810-cla&ad=7.23.11-gilbane-173x98-SFM&goto=http%3A%2F%2Fliveatsurfside%2Ecom%2FNYT" target="_blank"><font size=1>SURFSIDE Narragansett RI.</font></a>
+</h5>
+<p class="summary"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/realestate/commercial/index.html&pos=Feature1&sn2=ae3bd8fb/205fb7c&sn1=3145f6ef/1f7e77ab&camp=feature1-GilbaneProperties-1770810-cla&ad=7.23.11-gilbane-173x98-SFM&goto=http%3A%2F%2Fliveatsurfside%2Ecom%2FNYT" target="_blank"><font size=1>2 & 3-bedroom oceanfront condos and townhomes from the 400s.</font></a>
+</p>
+<div class="adCreative">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/realestate/commercial/index.html&pos=Feature1&sn2=ae3bd8fb/205fb7c&sn1=3145f6ef/1f7e77ab&camp=feature1-GilbaneProperties-1770810-cla&ad=7.23.11-gilbane-173x98-SFM&goto=http%3A%2F%2Fliveatsurfside%2Ecom%2FNYT" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/17/ad.271744/SurfsideLogo-TypeOnly.jpg" width="78" height="36"></a>
+</div>
+</div>
+<!--Ad Template Ends Here -->
+</div>
+
+
+</div>
+</div><!--close cColumn -->
+</div><!--close wideA -->
+</div><!--close spanAB -->
+</div><!--close main -->
+<div id="footer">
+<ul class="first">
+<li class="first"><a href="http://www.nytimes.com">Home</a></li>
+<li >
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li>
+<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+</ul>    <ul>
+<li class="first"><a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&copy; 2011</a> <a href="http://www.nytco.com/">The New York Times Company</a></li>
+<li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Terms of Service</a></li>
+<li class="termsOfSale"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+<li><a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a></li>
+<li><a class="rssButton" href="http://www.nytimes.com/rss">RSS</a></li>
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+<li><a href="http://www.nytco.com/careers">Work for Us</a></li>
+<li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+</ul>
+</div>
+</div><!--close page -->
+</div><!--close shell -->
+
+
+
+
+
+
+
+<IMG SRC="/adx/bin/clientside/1734b007Q2FuihQ3ABbQ3EiH9niBiQ3AB2Hiab2f" height="1" width="3">
+
+<script type="text/javascript" language="JavaScript">
+// Written by /usr/local/knews/bin/commentcount.pl Fri Dec  2 13:02:02 2011
+var NYTArticleCommentCounts = {
+"100000001190843":{count:147, commentsEnabled:false},
+"100000001190858":{count:204, commentsEnabled:false},
+"100000001190907":{count:49, commentsEnabled:false},
+"100000001191255":{count:237, commentsEnabled:false},
+"100000001191704":{count:133, commentsEnabled:false},
+"100000001191724":{count:100, commentsEnabled:false},
+"100000001191950":{count:122, commentsEnabled:false},
+"100000001192133":{count:307, commentsEnabled:false},
+"100000001192329":{count:76, commentsEnabled:false},
+"100000001190961":{count:19, commentsEnabled:false},
+"100000001177231":{count:1, commentsEnabled:true},
+"100000001177245":{count:74, commentsEnabled:true},
+"100000001179958":{count:24, commentsEnabled:false},
+"100000001180322":{count:227, commentsEnabled:true},
+"100000001183078":{count:44, commentsEnabled:false},
+"100000001183080":{count:327, commentsEnabled:false},
+"100000001183081":{count:7, commentsEnabled:false},
+"100000001183084":{count:235, commentsEnabled:false},
+"100000001183087":{count:11, commentsEnabled:false},
+"100000001183089":{count:14, commentsEnabled:false},
+"100000001183090":{count:11, commentsEnabled:false},
+"100000001183091":{count:3, commentsEnabled:false},
+"100000001183094":{count:14, commentsEnabled:false},
+"100000001184186":{count:79, commentsEnabled:false},
+"100000001184524":{count:149, commentsEnabled:false},
+"100000001186117":{count:1, commentsEnabled:false},
+"100000001186193":{count:12, commentsEnabled:true},
+"100000001186569":{count:190, commentsEnabled:false},
+"100000001189184":{count:49, commentsEnabled:false},
+"100000001190721":{count:71, commentsEnabled:false},
+"100000001191577":{count:224, commentsEnabled:false},
+"100000001191688":{count:28, commentsEnabled:false},
+"100000001191719":{count:107, commentsEnabled:false},
+"100000001191931":{count:121, commentsEnabled:false},
+"100000001191985":{count:110, commentsEnabled:false},
+"100000001192057":{count:211, commentsEnabled:false},
+"100000001192188":{count:141, commentsEnabled:false},
+"100000001192496":{count:52, commentsEnabled:false},
+"100000001192500":{count:206, commentsEnabled:false},
+"100000001192600":{count:224, commentsEnabled:false},
+"100000001192611":{count:167, commentsEnabled:false},
+"100000001193250":{count:67, commentsEnabled:false},
+"100000001193262":{count:37, commentsEnabled:false},
+"100000001193344":{count:98, commentsEnabled:false},
+"100000001193527":{count:27, commentsEnabled:false},
+"100000001193629":{count:10, commentsEnabled:false},
+"100000001193702":{count:17, commentsEnabled:false},
+"100000001193743":{count:108, commentsEnabled:false},
+"100000001193763":{count:516, commentsEnabled:false},
+"100000001193825":{count:86, commentsEnabled:false},
+"100000001193857":{count:48, commentsEnabled:false},
+"100000001193859":{count:160, commentsEnabled:false},
+"100000001193890":{count:117, commentsEnabled:false},
+"100000001193920":{count:44, commentsEnabled:false},
+"100000001193944":{count:303, commentsEnabled:false},
+"100000001193948":{count:7, commentsEnabled:false},
+"100000001194088":{count:51, commentsEnabled:false},
+"100000001194098":{count:17, commentsEnabled:true},
+"100000001194137":{count:109, commentsEnabled:false},
+"100000001194342":{count:159, commentsEnabled:false},
+"100000001194394":{count:68, commentsEnabled:false},
+"100000001194454":{count:36, commentsEnabled:false},
+"100000001194795":{count:192, commentsEnabled:false},
+"100000001194808":{count:628, commentsEnabled:false},
+"100000001194892":{count:125, commentsEnabled:false},
+"100000001195360":{count:33, commentsEnabled:false},
+"100000001195689":{count:178, commentsEnabled:false},
+"100000001195802":{count:10, commentsEnabled:false},
+"100000001195854":{count:304, commentsEnabled:false},
+"100000001195914":{count:48, commentsEnabled:false},
+"100000001195920":{count:17, commentsEnabled:false},
+"100000001195923":{count:44, commentsEnabled:false},
+"100000001195938":{count:138, commentsEnabled:false},
+"100000001195940":{count:10, commentsEnabled:false},
+"100000001195947":{count:92, commentsEnabled:false},
+"100000001195952":{count:162, commentsEnabled:false},
+"100000001195976":{count:141, commentsEnabled:false},
+"100000001195982":{count:283, commentsEnabled:false},
+"100000001196229":{count:42, commentsEnabled:false},
+"100000001196250":{count:104, commentsEnabled:true},
+"100000001196432":{count:333, commentsEnabled:false},
+"100000001196658":{count:42, commentsEnabled:false},
+"100000001196737":{count:28, commentsEnabled:true},
+"100000001196861":{count:18, commentsEnabled:false},
+"100000001196955":{count:71, commentsEnabled:true},
+"100000001196963":{count:143, commentsEnabled:false},
+"100000001197064":{count:68, commentsEnabled:false},
+"100000001197489":{count:3, commentsEnabled:false},
+"100000001197999":{count:75, commentsEnabled:false},
+"100000001198014":{count:290, commentsEnabled:false},
+"100000001198050":{count:69, commentsEnabled:true},
+"100000001198076":{count:32, commentsEnabled:true},
+"100000001198092":{count:204, commentsEnabled:false},
+"100000001198110":{count:424, commentsEnabled:false},
+"100000001198123":{count:343, commentsEnabled:false},
+"100000001198126":{count:62, commentsEnabled:false},
+"100000001198138":{count:163, commentsEnabled:false},
+"100000001198377":{count:143, commentsEnabled:true},
+"100000001198446":{count:23, commentsEnabled:true},
+"100000001198471":{count:52, commentsEnabled:true},
+"100000001198476":{count:157, commentsEnabled:true},
+"100000001198581":{count:48, commentsEnabled:true},
+"100000001198642":{count:253, commentsEnabled:false},
+"100000001199366":{count:136, commentsEnabled:true},
+"100000001199374":{count:114, commentsEnabled:true},
+"100000001199444":{count:155, commentsEnabled:false},
+"100000001199658":{count:4, commentsEnabled:true},
+"100000001200046":{count:884, commentsEnabled:true},
+"100000001200335":{count:165, commentsEnabled:false},
+"100000001200378":{count:192, commentsEnabled:false},
+"100000001200458":{count:77, commentsEnabled:false},
+"100000001200844":{count:23, commentsEnabled:true},
+"100000001201276":{count:88, commentsEnabled:true},
+"100000001201525":{count:188, commentsEnabled:true},
+"100000001202361":{count:0, commentsEnabled:true},
+"100000001202521":{count:27, commentsEnabled:true},
+"100000001202701":{count:270, commentsEnabled:false},
+"100000001202807":{count:17, commentsEnabled:true},
+"100000001202815":{count:116, commentsEnabled:false},
+"100000001202831":{count:232, commentsEnabled:true},
+"100000001202861":{count:95, commentsEnabled:true},
+"100000001202869":{count:39, commentsEnabled:true},
+"100000001202871":{count:23, commentsEnabled:true},
+"100000001202889":{count:54, commentsEnabled:true},
+"100000001202895":{count:33, commentsEnabled:true},
+"100000001202901":{count:90, commentsEnabled:true},
+"100000001203208":{count:19, commentsEnabled:true},
+"100000001203416":{count:220, commentsEnabled:true},
+"100000001203664":{count:0, commentsEnabled:true},
+"100000001188908":{count:16, commentsEnabled:true},
+"100000001194403":{count:0, commentsEnabled:true},
+"100000001194404":{count:0, commentsEnabled:true},
+"100000001194405":{count:71, commentsEnabled:true},
+"100000001194406":{count:0, commentsEnabled:true},
+"100000001194419":{count:1, commentsEnabled:true},
+"100000001194423":{count:58, commentsEnabled:true},
+"100000001194424":{count:0, commentsEnabled:true},
+"100000001194425":{count:0, commentsEnabled:true},
+"100000001194427":{count:0, commentsEnabled:true},
+"100000001194843":{count:51, commentsEnabled:true},
+"100000001197746":{count:1, commentsEnabled:true},
+"100000001201815":{count:0, commentsEnabled:true},
+"100000001201989":{count:0, commentsEnabled:true}
+};
+</script>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/homepage/articleCommentCounts.js"></script>
+<script type="text/javascript" language="JavaScript">
+    ArticleCommentCounts.apply()
+    </script>
+
+			
+		<!-- Start UPT call -->
+		<img height="1" width="3" border=0 src="http://up.nytimes.com/?d=0/8/47&t=3&s=0&ui=&r=&u=www%2enytimes%2ecom%2fpages%2frealestate%2fcommercial%2findex%2ehtml%3f">
+		<!-- End UPT call -->
+	
+		
+        <script language="JavaScript"><!--
+          var dcsvid="";
+          var regstatus="non-registered";
+        //--></script>
+        <script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+        <noscript>
+          <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div>
+        </noscript>
+   
+</body>
+</html>

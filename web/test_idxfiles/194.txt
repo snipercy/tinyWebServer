@@ -1,0 +1,316 @@
+Set-cookie: RMID=2c24588640f44ed913318c41; expires=Saturday, 01-Dec-2012 18:04:33 GMT; path=/; domain=.nytimes.com
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> 
+<html>  
+<head>    
+<title>Post a Job - The New York Times &amp; Monster</title> 
+<meta  http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+<meta  http-equiv="Expire" content="now"> 
+<meta  http-equiv="Pragma" content="no-cache"> 
+<meta  name="robots" content="noarchive"> 
+<meta  name="CG" content="Jobs"> 
+<meta  name="PT" content="Other"> 
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/common/global.css"> 
+<style type="text/css"> 
+@import url(http://graphics8.nytimes.com/css/section/jobmarket/screen/200703/sectionfront.css);
+@import url(http://graphics8.nytimes.com/css/section/jobmarket/screen/200703/employercentral/postjob.css);
+@import url(http://graphics8.nytimes.com/marketing/jobmarket/employercentral/css/styles.css);
+</style> 
+<!--[if IE 7]>
+<style type="text/css"> 
+  @import url(http://graphics8.nytimes.com/css/common/screen/ie7.css); 
+</style>
+<![endif]--> 
+<!--[if IE 6]>
+<style type="text/css"> 
+  @import url(css/ie6.css); 
+</style>
+<![endif]--> 
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script> 
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/modifyNavigationDisplay.js"></script> 
+<script type="text/javascript"  src="http://graphics8.nytimes.com/js/todays_date.js"></script> 
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/Tacoda_AMS_DDC_Header.js"></script> 
+<script type="text/javascript" src="http://www.nytimes.com/marketing/jobmarket/career-resources/javascript/job_tools.js"></script> 
+<script type="text/javascript" src="http://www.nytimes.com/adx/bin/adx_remote.html?type=fastscript&page=www.nytimes.com/jobs/employercentral&posall=MiddleRight,Middle1C,TopAd,JMSpon1,JMSpon2,JMSpon3,JMSpon4,SFMiddle,Position1,Position2,Position3,Position4,Position5,Position6,Position7,Position8,Position9,Position10,Position11,Position12,JMNow1,JMNow2,JMNow3,JMNow4,JMNow5,JMNow6,SponLink,Box1,Right3,JMCal1,JMCal2,JMCal3,Bottom7,Bottom8,Bottom9,Inv1,Inv2,Inv3,ADX_CLIENTSIDE&query=qstring&akeywords=?"></script> 
+</head> 
+<body class="nytdPostJob"> 
+<div id="shell"> 
+<div id="login"> 
+<ul id="memberTools"> 
+<li><iframe height="15" width="480" scrolling="no" frameborder="0"  src="http://www.nytimes.com/export_html/common/new_login_iframe.html"> 
+[Your user agent does not support frames or is currently configured
+not to display frames. However, you may visit
+<a href="http://www.nytimes.com/export_html/common/new_login_iframe.html">the related document.</a>]
+</iframe></li> 
+</ul> 
+<ul class="tabs"> 
+<li><a href="http://www.nytimes.com">Home Page</a></li> 
+<li><a href="http://my.nytimes.com">My Times</a></li> 
+<li><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li> 
+<li><a href="http://www.nytimes.com/video">Video</a></li> 
+<li><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li> 
+<li><a href="http://www.nytimes.com/timestopics">Times Topics</a></li> 
+</ul> 
+</div><!--close login --> 
+<div id="page"> 
+<div id="masthead"> 
+<div id="Middle1"> 
+<script> 
+              <!--
+              if (typeof adxpos_Middle1C != "undefined")
+              document.write(adxads[adxpos_Middle1C]);
+              // -->
+           </script> 
+</div> 
+<form id="searchForm" name="searchForm" method="get" 
+			action="http://query.nytimes.com/search/sitesearch" 
+			enctype="application/x-www-form-urlencoded"> 
+<div id="nytSearchWidget"> 
+<label for="searchQuery">Search All NYTimes.com</label> 
+<input type="text" name="query" id="searchQuery"/> 
+<input id="searchSubmit" title="Search" alt="Go" type="image" src="http://graphics8.nytimes.com/images/global/buttons/go.gif" > 
+<input type="hidden" id="searchAll" name="type" value="nyt"/> 
+</div> 
+</form> 
+<img id="NYTLogo" alt="New York Times" title="New York Times" src="http://graphics8.nytimes.com/images/misc/nytlogo153x23.gif"> 
+<div id="date"> 
+<script type="text/javascript">document.write(day + ' ' + month + ' ' + myweekday + ', ' + year);</script> 
+</div><!--close date --> 
+<h1><a href="http://jobmarket.nytimes.com/pages/jobs/">Jobs</a></h1> 
+</div><!--close masthead --> 
+<div id="navigation" class=""> 
+<ul class="tabs"> 
+<li id="navWorld" ><a href="http://www.nytimes.com/pages/world/index.html">World</a> 
+</li> 
+<li id="navUS" ><a href="http://www.nytimes.com/pages/national/index.html">U.S.</a> 
+</li> 
+<li id="navNYRegion" ><a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a> 
+</li> 
+<li id="navBusiness" ><a href="http://www.nytimes.com/pages/business/index.html">Business</a> 
+</li> 
+<li id="navTechnology" ><a href="http://www.nytimes.com/pages/technology/index.html">Technology</a> 
+</li> 
+<li id="navScience" ><a href="http://www.nytimes.com/pages/science/index.html">Science</a> 
+</li> 
+<li id="navHealth" ><a href="http://www.nytimes.com/pages/health/index.html">Health</a> 
+</li> 
+<li id="navSports" ><a href="http://www.nytimes.com/pages/sports/index.html">Sports</a> 
+</li> 
+<li id="navOpinion" ><a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a> 
+</li> 
+<li id="navArts" ><a href="http://www.nytimes.com/pages/arts/index.html">Arts</a> 
+</li> 
+<li id="navStyle" ><a href="http://www.nytimes.com/pages/style/index.html">Style</a> 
+</li> 
+<li id="navTravel" ><a href="http://travel.nytimes.com/pages/travel/index.html">Travel</a> 
+</li> 
+<li id="navJobs" class="selected"><a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a> 
+<ul id="subnavJobs"> 
+<li  ><a href="http://jobsearch.nytimes.monster.com">Find a Job</a> 
+</li> 
+<li  ><a href="http://my.nytimes.monster.com">Post Your Resume</a> 
+</li> 
+<li  ><a href="http://my.nytimes.monster.com">Job Seeker Login</a> 
+</li> 
+<li  ><a href="http://www.nytimes.com/marketing/jobmarket/career-resources/index.html">Career Advice</a> 
+</li> 
+<li class="selected children" id="subnavEmployercentral" ><a href="http://www.nytimes.com/marketing/jobmarket/employercentral/index.html">Employer Central</a> 
+<ul> 
+<li class="selected"><a href="http://www.nytimes.com/marketing/jobmarket/employercentral/postjob.html">Post a Job</a></li> 
+<li><a href="http://hiring.nytimes.monster.com/products/resumeproducts.aspx">Search Resumes</a></li> 
+<li><a href="http://hiring.nytimes.monster.com/login.aspx">Employer Login</a></li> 
+<li><a href="http://www.nytimes.com/marketing/jobmarket/employercentral/contact.html">Contact</a></li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li id="navRealestate" ><a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a> 
+</li> 
+<li id="navAutos" ><a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a> 
+</li> 
+</ul> 
+</div><!--close navigation --> 
+<script type="text/javascript">modifyNavigationDisplay();</script> 
+<div id="main"> 
+<div id="cobrandHeader"> 
+<ul id="tools"> 
+<!--<li><a href="/marketing/jobmarket/help/index.html" id="jobseeker">JOB SEEKER HELP</a></li> --> 
+<li><a href="/marketing/jobmarket/employercentral/help.html" id="employer">EMPLOYER HELP</a></li> 
+</ul> 
+<h2><a href="http://www.nytimes.com/monster">nytimes.com  &  monster.com</a></h2> 
+</div> 
+<div id="wideColumn" class="clearfix"> 
+<div class="descCol clearfix"> 
+<div class="leftCol"> 
+<h2>Post a Job</h2> 
+<p class="summary"> 
+Only by advertising through the New York Times can you reach 1 out of every 2 job seekers in New York.  Your job will be automatically posted on <a href="http://www.nytimes.com/monster">Monster.com</a> as well, and you have the option to place your ad in next Sunday's New York Times print edition, maximizing your target audience. 
+</p> 
+</div><!--END .leftCol --> 
+<div class="rightCol"> 
+<!--JOB POSTING COUPON --> 
+<div class="couponMeta">Limited Time Offer</div> 
+<div class="jobPostingCoupon"> 
+<div class="couponBox"> 
+<div class="couponSavings"><span>Save $50</span></div> 
+<div class="couponContent"> 
+<h5 class="couponHeader">60 day Job Posting</h5> 
+<p class="couponSummary">Save $50 on a 60 day day job posting!</p> 
+<p class="couponCurrentPricing">Now $345</p> 
+</div><!--END .couponContent --> 
+<div class="couponButton"><a href="http://hiring.nytimes.monster.com/order/promo.aspx?promotionID=8969&adid=0">Act Now</a></div> 
+</div><!--END .couponBox --> 
+</div><!--END .jobPostingCoupon --> 
+<!--/JOB POSTING COUPON --> 
+</div><!--END .rightCol --> 
+</div><!--END .descCol --> 
+<div class="leftCol"> 
+<div class="singleJobPosting box clearfix"> 
+<h3><a href="http://hiring.nytimes.monster.com/products/SingleJobPosting.aspx?mode=prod"><img src="http://graphics8.nytimes.com/marketing/jobmarket/employercentral/images/hdr_singleJobPosting.gif" alt="Single Job Posting"></a></h3> 
+<div class="corner"></div> 
+<div class="column"> 
+<p>Find the right hire today and save with the following offers, each for $395.</p> 
+<div class="box firstPromo clearfix"> 
+<p class="summary">Post a job for 30 days online and get 4 lines of print in Sunday's paper <em class="alert meta">*Ad must be completed by Thurs. at 5:59PM ET</em></p>		  
+<div class="button"> 
+<a href="http://hiring.nytimes.monster.com/order/promo.aspx?pid=7847NEWS_ECMP"><img src="http://graphics8.nytimes.com/marketing/jobmarket/employercentral/images/post_now.gif" alt="Post Now"></a> 
+</div> 
+</div> 
+<div class="box secondPromo clearfix"> 
+<p class="summary">Post a job online-only for 60 days</p> 
+<div class="button"> 
+<a href="http://hiring.nytimes.monster.com/products/SingleJobPosting.aspx?mode=prod"><img src="http://graphics8.nytimes.com/marketing/jobmarket/employercentral/images/post_now.gif" alt="Post Now"></a> 
+</div> 
+</div> 
+</div> 
+<div class="column lastColumn"> 
+<h4>Benefits</h4> 
+<ul> 
+<li>Post a job in minutes and start receiving qualified responses the same day.</li> 
+<li>Update your listing details as many times as you want.</li> 
+<li class="lastList">Your ad can be read by 5.5 million readers in print and over 21.5 million readers online.</li> 
+</ul> 
+</div> 
+</div> 
+<!--close singleJobPosting --> 
+<div class="targetPost box clearfix"> 
+<h3><img src="http://graphics8.nytimes.com/marketing/jobmarket/employercentral/images/hdr_targetPost.gif" alt="Target Post"></h3> 
+<div class="column"> 
+<p>Take advantage of this new and affordable job posting product Target Post and instantly connect to local skilled, hourly, and administrative candidates. This offer is just $99.</p> 
+<div class="button"> 
+<a href="http://hiring.nytimes.monster.com/products/SingleRestrictedJobPosting.aspx?WT.mc_n=mhxwnbuywf"><img src="http://graphics8.nytimes.com/marketing/jobmarket/employercentral/images/post_now.gif" alt="Post Now"></a> 
+</div> 
+</div> 
+<div class="column lastColumn"> 
+<ul> 
+<li>Choose from 250 pre-defined job titles with matching descriptions.</li> 
+<li>Simplified one-step job posting process.</li> 
+<li class="lastList">View and organize responses online.</li> 
+</ul> 
+</div> 
+</div> 
+<!--close targetPost --> 
+<div class="bulkJobPostings box clearfix"> 
+<h3><a href="http://hiring.nytimes.monster.com/products/BulkJobPostings.aspx?mode=qb"><img src="http://graphics8.nytimes.com/marketing/jobmarket/employercentral/images/hdr_bulkJobPostings.gif" alt="Bulk Job Postings"></a></h3> 
+<div class="corner"></div> 
+<div class="column"> 
+<p>We&rsquo;ve made purchasing and using bulk job postings as easy as can be. Simply buy as many postings you need and post jobs whenever you need to hire.  Just log in to your account and click &ldquo;Post a Job.&rdquo; It&rsquo;s that easy.</p> 
+<div class="button"> 
+<a href="http://hiring.nytimes.monster.com/products/BulkJobPostings.aspx?mode=qb"><img src="http://graphics8.nytimes.com/marketing/jobmarket/employercentral/images/post_now.gif" alt="Post Now"></a> 
+</div> 
+</div> 
+<div class="column lastColumn"> 
+<ul> 
+<li>Plan ahead and<br> save on every job posting.</li> 
+<li>Post any time you need to hire &ndash; bulk postings are good within 12 months.</li> 
+<li class="lastList">You&rsquo;ll receive responses instantly, making it easy to save, rank, and organize qualified resumes online.</li> 
+</ul> 
+</div> 
+</div> 
+<!--close bulkJobPostings --> 
+</div> 
+<!--/close leftCol --> 
+<div class="rightCol"> 
+<div class="resumeSearch box"> 
+<h3><img src="http://graphics8.nytimes.com/marketing/jobmarket/employercentral/images/hdr_resumeSearch.gif" alt="Resume Search"></h3> 
+<p>The New York Times&rsquo;s alliance with Monster gives you immediate access to over 45 million resumes nationwide and 3 million resumes in the New York DMA.</p> 
+<div class="button"> 
+<a href="http://hiring.nytimes.monster.com/products/resumeproducts.aspx"><img src="http://graphics8.nytimes.com/marketing/jobmarket/employercentral/images/button_search_now.gif" alt="Search Now"></a> 
+</div> 
+</div> 
+<!--close resumeSearch --> 
+<div class="contactUs"> 
+<h3><img src="http://graphics8.nytimes.com/marketing/jobmarket/employercentral/images/hdr_contactUs.gif" alt="Contact Us"></h3> 
+<p class="box">To speak to a recruitment sales consultant about our online classified ad products, please call <strong>(212) 556-8034</strong>. For outside of New York City, please call <strong>(800) 421-4574</strong>.</p> 
+</div> 
+<!--close contactUs --> 
+<div class="creditCards"> 
+<img alt="" src="http://graphics8.nytimes.com/marketing/jobmarket/employercentral/images/postajob_17.jpg"/> 
+<p class="meta">Visa, MasterCard and American Express accepted</p> 
+</div> 
+</div> 
+<!--close rightCol --> 
+</div> 
+<!--close wideColumn --> 
+</div> 
+<!--close main --> 
+<!--BEGIN FOOTER --> 
+<br clear="all"> 
+<div id="cobrandFooter"> 
+<h4> 
+<a href="http://hiring.nytimes.monster.com/contactus.aspx">Contact Monster</a> 
+</h4> 
+The New York Times and Monster have joined forces. The combined power of The New York Times and Monster will enable employers to reach one out of every two active and passive candidates online, in print and in person. Employers will have access to more than 3 million resumes in the New York DMA; the ability to reach 4.7 million New York Times weekday readers, 5 million Sunday Times readers, and 1.4 million daily visitors to NYTimes.com.
+</div> 
+<div id="footer"> 
+<div class="footerRow"> 
+<a href="http://www.nytimes.com">Home</a> 
+<ul> 
+<li><a href="http://www.nytimes.com/pages/world/index.html">World</a></li> 
+<li><a href="http://www.nytimes.com/pages/national/index.html">U.S.</a></li> 
+<li><a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y./Region</a></li> 
+<li><a href="http://www.nytimes.com/pages/business/index.html">Business</a></li> 
+<li><a href="http://tech.nytimes.com/pages/technology/index.html">Technology</a></li> 
+<li><a href="http://www.nytimes.com/pages/science/index.html">Science</a></li> 
+<li><a href="http://www.nytimes.com/pages/health/index.html">Health</a></li> 
+<li><a href="http://www.nytimes.com/pages/sports/index.html">Sports</a></li> 
+<li><a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a></li> 
+<li><a href="http://www.nytimes.com/pages/arts/index.html">Arts</a></li> 
+<li><a href="http://www.nytimes.com/pages/style/index.html">Style</a></li> 
+<li><a href="http://travel.nytimes.com/pages/travel/index.html">Travel</a></li> 
+<li><a href="http://jobmarket.nytimes.com/pages/jobs/index.html">Jobs</a></li> 
+<li><a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a></li> 
+<li><a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a></li> 
+<li><a href="#top">Back to Top</a></li> 
+</ul> 
+</div><!--close footerRow --> 
+<a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">Copyright&nbsp;<script type="text/javascript">var date = new Date(); document.write(date.getFullYear());</script></a>&nbsp;<a href="http://www.nytco.com/">The New York Times Company</a> 
+<ul> 
+<li><a href="http://www.nytimes.com/privacy">Privacy Policy</a></li> 
+<li><a href="http://www.nytimes.com/search">Search</a></li> 
+<li><a href="http://www.nytimes.com/corrections.html">Corrections</a></li> 
+<li><a href="http://www.nytimes.com/rss" class="rssButton">RSS</a></li> 
+<li><a href="http://firstlook.nytimes.com">First Look</a></li> 
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li> 
+<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li> 
+<li><a href="http://www.nytdigital.com/careers">Work for Us</a></li> 
+<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li> 
+</ul> 
+</div><!--close footer --> 
+</div><!--close page --> 
+</div><!--close shell --> 
+<!--END FOOTER --> 
+<script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script> 
+<noscript> 
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsxmnyde100000oerlyk5ceo_6k5k/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7" /></div>
+</noscript> 
+</body> 
+</html>

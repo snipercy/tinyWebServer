@@ -1,0 +1,23 @@
+Set-cookie: RMID=007af83f67d14ed9132eebd0; expires=Saturday, 01-Dec-2012 18:04:30 GMT; path=/; domain=.nytimes.com
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Set-cookie: adxcs=si=0:1; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+<html><head>
+<meta http-equiv=refresh content="15;url=/pages/garden/index.html?adxnnl=1&adxnnlx=1322849070-97DOfIsQSg0HSrHD1TX4Og">
+<title>NY Times Advertisement</title></head>
+<body marginheight="5" marginwidth="0" leftmargin="0" topmargin="5" link="#000066" bgcolor="#ffffff" alink="#990000" vlink="#444464" text="#000000">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr>
+    <td align="left"><img src="http://graphics8.nytimes.com/ads/interstitial/nyt_adv.gif" width="341" height="30"></td>
+    <td align="right"><a href="/pages/garden/index.html?adxnnl=1&adxnnlx=1322849070-97DOfIsQSg0HSrHD1TX4Og" onMouseOver="document.skip.src = 'http://graphics8.nytimes.com/ads/interstitial/skip_1.gif'" onMouseOut="document.skip.src='http://graphics8.nytimes.com/ads/interstitial/skip_0.gif'"><img name="skip" src="http://graphics8.nytimes.com/ads/interstitial/skip_0.gif" width="69" height="30" border="0"></a>   </td></tr>
+  <tr>
+    <td colspan="2" bgcolor="#EDEDED" align="center"><!-- ADXINFO classification="interstitial-article" campaign="i-int_Burberry_Fall_2011_1767893_nyt8"--><!--adx-interstitial timeout=15-->
+<div align="center">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=interstitial:www.nytimes.com/pages/garden&pos=Interstitial&sn2=fabb51df/b721737&sn1=1eaf9ae/d79eb08d&camp=i-int_Burberry_Fall_2011_1767893_nyt8&ad=Burberry_StyleInterstitial_Flight3&goto=http%3A%2F%2Fbs%2Eserving%2Dsys%2Ecom%2FBurstingPipe%2FadServer%2Ebs%3Fcn%3Dtf%26c%3D20%26mc%3Dclick%26pli%3D3425796%26PluID%3D0%26ord%3D%25%25GMTTIME%25%25" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/28/55/ad.285558/AW11_NOV_FESTIVE_640x480_US.jpg" width="640" height="480" border="0"></a>
+<img src="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&c=19&mc=imp&pli=3425796&PluID=0&ord=2011.12.02.18.04.30&rtu=-1">
+</div><IMG SRC="/adx/bin/clientside/374349ffQ2FQ7ENqxQ5BiQ23wNQ5DxVQ5DDN.jQ5BQ5CwQ7DQ23Q5B." height="1" width="3"></td></tr></table></body></html>

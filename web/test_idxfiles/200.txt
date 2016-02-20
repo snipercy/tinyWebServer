@@ -1,0 +1,510 @@
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+
+<!-- NYT_DEBUG element start: nytweb/sectionfront/member_center/MCRoot -->
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"/>
+<html>
+<head>
+
+
+<!--NYT_DEBUG element begin: nytweb/article2/ArticleMeta -->
+
+
+
+
+
+
+
+
+<title>The New York Times &#62; Member Center &#62; We&#39;re Sorry</title>
+
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="ROBOTS" content="NOARCHIVE">
+<meta name="DISPLAYDATE" content="February 7, 2005">
+<meta name="hdl" content="We&#39;re Sorry">
+<meta name="byl" content="">
+<meta name="lp" content="">
+<meta name="description" content="">
+<meta name="cre" content="The New York Times">
+<meta name="edt" content="The New York Times on the Web">
+<meta name="pdate" content="20050207">
+<meta name="ttl" content=""> 
+<meta name="virtloc" content="">
+<meta name="des" content="">
+<meta name="per" content="">
+<meta name="org" content="">
+<meta name="geo" content="">
+<meta name="ticker" content="">
+<meta name="dat" content="February 7, 2005">
+<meta name="tom" content="News">
+<meta name="cat" content="">
+<meta name="col" content="">
+<meta name="dsk" content="Member Center">
+<meta name="articleid" content="1107769821625">
+
+
+
+<meta name="thumbnail" content=""/>
+<meta name="thumbnail_height" content=""/>
+<meta name="thumbnail_width" content=""/>
+<meta name="tiny_thumb" content=""/>
+<meta name="tiny_thumb_height" content=""/>
+<meta name="tiny_thumb_width" content=""/>
+
+<META NAME="HOMEPAGE_TEMPLATE_VERSION" CONTENT="300">
+
+
+
+
+	
+		
+	
+	
+
+
+<script type="text/JavaScript">
+	var google_hints = "";
+	var google_ad_channel = "ar_membercenter";
+</script>
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<ics:argument NAME="non_dated" VALUE="y"/>
+	
+	
+	
+	
+<!--ADX SETUP="www.nytimes.com/ref/membercenter/apperror.html@Top5,Middle1,Middle5,Travel7,Travel9,Travel11,Right,Right5,Right6,Right7,Right8,Bottom3A,Bottom7,Bottom8,Bottom9,Inv1,Inv2,Inv3,CircTop,SponLink,Right3,BottomAd,TopAd,Right3,CircBottom?suggested%5fmembercenter;" FORCETAGS="Frame4,Right4" -->
+
+
+
+<!--NYT_DEBUG element end: nytweb/article2/ArticleMeta-->
+<meta name="Keywords" content="Variables.keyword">
+<!--NYT_DEBUG element start: nytweb/section/standard/JavaScript -->
+
+
+<script type="text/JavaScript">
+<!--
+	//this is javascript
+
+	function nameIt() {
+    	window.name = 'nytimesmain';
+    }
+
+	function pop_me_up2(pURL,name,features){
+		new_window = window.open(pURL,name,features);
+		new_window.focus();
+	}
+
+	function changeImage(image_name,image_src) {
+   		document.images[image_name].src = image_src;
+	}
+
+	function goToURL(obj){
+		var f = (obj.section) ? obj : obj.form;
+		var selected = f.section.selectedIndex;
+		var URL = f.section.options[selected].value;
+		if (URL != "") document.location = URL;
+		return false;
+	}
+
+        function goToURL2(sel){
+        // This version only works for onChange events from select objects
+        // but the select object can have any name, unlike goToURL() which requires 
+        // the select object to be named "section"
+        
+                var selected = sel.selectedIndex;
+                var url = sel.options[selected].value;
+                if (url != "") document.location = url;
+                return false;
+        }
+
+	if (window.self != window.top) {
+		top.location.replace(window.location.href);
+	}
+
+	if (document.layers) {
+	document.write("<link rel='stylesheet' type='text/css'  href='http://graphics8.nytimes.com/css/membercenter.ns.css'>");
+	}
+	else {
+	document.write("<link rel='stylesheet' type='text/css'  href='http://graphics8.nytimes.com/css/membercenter.css'>");
+	}
+
+//-->
+</script>
+
+<!-- begin Tacoda-specific code -->
+<script src="http://graphics8.nytimes.com/js/Tacoda_AMS_DDC_Header.js"></script>
+<!-- end Tacoda-specific code -->
+<script src="http://graphics8.nytimes.com/js/article_dhtml.js" type="text/javascript"></script>
+<script src="http://graphics8.nytimes.com/js/section/timesselect/timesselect.js" type="text/javascript"></script>
+<!-- TimesSelect js -->
+<!--NYT_DEBUG ch: http://graphics8.nytimes.com jh: http://graphics8.nytimes.com -->
+<!--NYT_DEBUG element end: nytweb/section/standard/JavaScript -->
+<meta http-equiv="Content-Type" content="text/html"><meta http-equiv="charset" content="iso-8859-1"><meta name="robots" content="noarchive">
+
+	<title>We're Sorry</title>
+
+
+<script src="/js/section/timesselect/timesselect.js" type="text/javascript"></script>
+<script language="JavaScript">
+if (document.layers) {
+document.write("<link rel='stylesheet' type='text/css'  href='http://www.nytimes.com/css/mc.ns.css'>");
+}
+else {
+document.write("<link rel='stylesheet' type='text/css'  href='http://www.nytimes.com/css/mc.css'>");
+}
+</script>
+
+<link rel="stylesheet" href="/css/globalToolbar_px.css" type="text/css">
+
+<!--ADX AD="Top5"-->
+</head>
+
+<body marginheight="0" marginwidth="5" leftmargin="5" topmargin="0" link="#000066" bgcolor="#ffffff" alink="#990000" vlink="#444464"  onload="nameIt()">
+<a name="top"></a>
+
+
+
+
+
+
+<NYT_HEADER>
+<NYT_DYNAMIC_COBRAND PATH=/web/docsroot2/partners/banners>
+<table width="768" cellspacing="0" cellpadding="0" border="0" valign="top">
+  <tr>
+  	<td width="184" align="left" valign="top"><!-- NYT Logo --><a href="http://www.nytimes.com/"><img src="http://graphics.nytimes.com/images/article/header/nytlogoleft_article.gif" width="184" height="40" align="left" border="0" alt="The New York Times"></a></td>
+    <td width="400" align="left" valign="top"><NYT_HEADER_IMAGE><a href="/membercenter/index.html"><img src="http://graphics.nytimes.com/images/article/header/sect_membercenter.gif" width="400" height="40" border="0" alt="The New York Times Member Center"></a></NYT_HEADER_IMAGE></td>
+    <td width="179" align="right" valign="middle" class="date">
+		<!--ADX AD="CircTop"-->&nbsp;
+	</td>
+	<td width="5"><img src="http://graphics.nytimes.com/images/misc/spacer.gif" width="5" height="1" alt=""></td>
+  </tr>
+  <tr>
+    <td colspan="4" bgcolor="#000000"><img src="http://graphics.nytimes.com/images/misc/spacer.gif" width="1" height="3" alt=""></td>
+  </tr>
+  <tr>
+    <td width="768" colspan="4"><img src="http://graphics.nytimes.com/images/misc/spacer.gif" width="1" height="3" alt=""></td>
+  </tr>
+</table>
+</NYT_HEADER>
+<meta name="hdr_img" content="/images/article/header/sect_membercenter.gif">
+
+
+
+
+
+
+<!--NYT_DEBUG element start: nytweb/global/common/GlobalToolBar -->
+
+
+
+
+<script type="text/javascript" src="/js/article_dhtml.js"></script>
+<div id="globalToolBar">
+	<div id="siteBar">
+		
+<!--NYT_DEBUG element start: nytweb/common/GlobalSiteNav-->
+
+
+<!-- NYT_DEBUG element start: nytweb/common/dateStamper -->
+
+
+<!--NYT_DEBUG element end: nytweb/common/dateStamper -->
+ 
+
+<span id="siteNavigation">
+
+
+	<a href="http://www.nytimes.com" id="homeLink" onClick="javascript:s_code_linktrack('HomeLinkText');">NYTimes.com</a>
+	<div id="goToSection">
+		<div id="goToSectionBox" onmouseover="toggleGTS('active');" onmouseout="toggleGTS('inactive');">
+			<div class="inactive">
+				<div id="gtsLeftCol">
+					<h3>News</h3>
+					<ul>
+						<li><a href="http://www.nytimes.com/pages/business/index.html" onClick="javascript:s_code_linktrack('SectionDropDown');">Business</a></li>
+						<li><a href="http://www.nytimes.com/pages/education/index.html" onClick="javascript:s_code_linktrack('SectionDropDown');">Education</a></li>
+						<li><a href="http://www.nytimes.com/pages/health/index.html" onClick="javascript:s_code_linktrack('SectionDropDown');">Health</a></li>
+						<li><a href="http://www.nytimes.com/pages/world/index.html" onClick="javascript:s_code_linktrack('SectionDropDown');">International</a></li>
+						<li><a href="http://www.nytimes.com/pages/national/index.html" onClick="javascript:s_code_linktrack('SectionDropDown');">National</a></li>
+						<li><a href="http://www.nytimes.com/pages/nyregion/index.html" onClick="javascript:s_code_linktrack('SectionDropDown');">New York/Region</a></li>
+						<li><a href="http://www.nytimes.com/pages/pageone/index.html" onClick="javascript:s_code_linktrack('SectionDropDown');">NYT Front Page</a></li>
+						<li><a href="http://www.nytimes.com/pages/obituaries/index.html" onClick="javascript:s_code_linktrack('SectionDropDown');">Obituaries</a></li>
+						<li><a href="http://www.nytimes.com/pages/science/index.html" onClick="javascript:s_code_linktrack('SectionDropDown');">Science</a></li>
+						<li><a href="http://www.nytimes.com/pages/sports/index.html" onClick="javascript:s_code_linktrack('SectionDropDown');">Sports</a></li>
+						<li><a href="http://tech.nytimes.com/pages/technology/index.html" onClick="javascript:s_code_linktrack('SectionDropDown');">Technology</a></li>
+						<li><a href="http://www.nytimes.com/pages/politics/index.html" onClick="javascript:s_code_linktrack('SectionDropDown');">Washington</a></li>
+						<li><a href="http://www.nytimes.com/weather" onClick="javascript:s_code_linktrack('SectionDropDown');">Weather</a></li>
+					</ul>
+				</div>
+				<div id="gtsMiddleCol">
+					<h3>Features</h3>
+					<ul>
+						<li><a href="http://www.nytimes.com/pages/arts/" onClick="javascript:s_code_linktrack('SectionDropDown');">Arts</a></li>
+						<li><a href="http://www.nytimes.com/pages/books/" onClick="javascript:s_code_linktrack('SectionDropDown');">Books</a></li>
+						<li><a href="http://www.nytimes.com/pages/cartoons/" onClick="javascript:s_code_linktrack('SectionDropDown');">Cartoons</a></li>
+						<li><a href="http://www.nytimes.com/pages/crosswords/" onClick="javascript:s_code_linktrack('SectionDropDown');">Crossword/Games</a></li>
+						<li><a href="http://www.nytimes.com/pages/dining/" onClick="javascript:s_code_linktrack('SectionDropDown');">Dining &amp; Wine</a></li>
+						<li><a href="http://www.nytimes.com/pages/fashion/" onClick="javascript:s_code_linktrack('SectionDropDown');">Fashion &amp; Style</a></li>
+						<li><a href="http://www.nytimes.com/pages/garden/" onClick="javascript:s_code_linktrack('SectionDropDown');">Home &amp; Garden</a></li>
+						<li><a href="http://www.nytimes.com/learning/" onClick="javascript:s_code_linktrack('SectionDropDown');">Learning Network</a></li>
+						<li><a href="http://www.nytimes.com/pages/magazine/" onClick="javascript:s_code_linktrack('SectionDropDown');">Magazine</a></li>
+						<li><a href="http://movies.nytimes.com" onClick="javascript:s_code_linktrack('SectionDropDown');">Movies</a></li>
+						<li><a href="http://www.nytimes.com/pages/multimedia/" onClick="javascript:s_code_linktrack('SectionDropDown');">Multimedia/Photos</a></li>
+						<li><a href="http://travel2.nytimes.com/top/features/travel/destinations/unitedstates/newyork/newyorkcity/guide.html" onClick="javascript:s_code_linktrack('SectionDropDown');">NYC Guide</a></li>
+						<li><a href="http://theater.nytimes.com" onClick="javascript:s_code_linktrack('SectionDropDown');">Theater</a></li>
+						<li><a href="http://travel.nytimes.com" onClick="javascript:s_code_linktrack('SectionDropDown');">Travel</a></li>
+						<li><a href="http://www.nytimes.com/pages/weekinreview/" onClick="javascript:s_code_linktrack('SectionDropDown');">Week in Review</a></li>
+					</ul>
+				</div>
+				<div id="gtsRightCol">
+					<h3>Opinion</h3>
+					<ul>
+						<li><a href="http://www.nytimes.com/pages/opinion/index.html" onClick="javascript:s_code_linktrack('SectionDropDown');">Editorials/Op-Ed</a></li>
+						<li><a href="http://www.nytimes.com/pages/readersopinions/index.html" onClick="javascript:s_code_linktrack('SectionDropDown');">Readers' Opinions</a></li>
+						<li><a href="http://topics.nytimes.com/top/opinion/thepubliceditor/index.html" onClick="javascript:s_code_linktrack('SectionDropDown');">The Public Editor</a></li>
+					</ul>
+					<h3>CLASSIFIEDS</h3>
+					<ul>
+						<li><a href="http://www.nytimes.com/pages/automobiles/index.html" onClick="javascript:s_code_linktrack('SectionDropDown');">Autos</a></li>
+						<li><a href="http://www.nytimes.com/pages/jobs/index.html" onClick="javascript:s_code_linktrack('SectionDropDown');">Job Market</a></li>
+						<li><a href="http://www.nytimes.com/pages/realestate/index.html" onClick="javascript:s_code_linktrack('SectionDropDown');">Real Estate</a></li>
+						<li><a href="http://listings.nytimes.com/classifiedsmarketplace/" onClick="javascript:s_code_linktrack('SectionDropDown');">All Classifieds</a></li>
+					</ul>
+				</div>
+				<div class="clear"></div>
+			</div><!-- #inactive -->
+		</div><!-- #goToSectionBox -->
+		<a href="http://www.nytimes.com/ref/membercenter/help/siteindex.html" id="gtsLink" class="inactive" onmouseover="toggleGTS('active');" onmouseout="toggleGTS('inactive');">Go to a Section</a>
+	</div><!-- #goToSection -->
+
+</span><!-- #siteNavigation -->
+
+<!--NYT_DEBUG element end: nytweb/common/GlobalSiteNav-->
+
+		
+			
+		
+<!--NYT_DEBUG element start: LoginBar -->
+
+<NYT_GLOBALTOOLBAR_USR />
+
+<!-- Login bar end -->
+
+	</div><!-- #siteBar -->
+
+	<!--NYT_DEBUG element start Search bar -->
+	
+
+	<div id="searchBar">
+		
+<!--NYT_DEBUG element start: nytweb/common/TSmenu-->
+
+<NYT_GLOBALTOOLBAR_TS />
+<!--NYT_DEBUG element end: nytweb/common/TSmenu-->
+
+		<div id="searchSponsor"><!--ADX AD="Middle1B"--></div>
+		
+			
+
+<!--NYT_DEBUG element start: nytweb/section/standard/ArticleSearch-->
+
+<div id="searchFormWrap">
+	<form id="searchForm" name="searchForm" method="GET" action="http://query.nytimes.com/gst/sitesearch_selector.html" enctype="application/x-www-form-urlencoded">
+		<input type="hidden" name="date_select" value="full"/>
+		<img class="searchLabelImg" src="http://graphics8.nytimes.com/images/search/search_srcHeader.gif" style="border:0;height:5px;width:29px;" />
+		<div class="searchInputs">
+			<input type="text" name="query" id="searchQuery" />
+			<select id="searchType" name="type">
+				<option value="nyt">NYT Since 1981</option>
+				<option value="proquest">NYT 1851-1980</option>
+				<option value="google">Google/Web</option>
+				<option value="multimedia">Multimedia</option>
+				<option value="venues">NYC Guide</option>
+			</select>
+			<input type="image"	src="http://graphics8.nytimes.com/images/global/global_search/search_button.gif" value="Search" width="56" height="21" border="0" name="submit" alt="Submit" align="absmiddle" />
+		</div><!-- .searchInputs -->
+	</form>
+</div><!-- #searchFormWrap -->
+<!--NYT_DEBUG element start: nytweb/section/standard/ArticleSearch-->
+
+		
+	</div><!-- #searchBar -->
+</div><!-- #globalToolBar -->
+
+
+<!-- NYT_DEBUG element end: nytweb/global/common/GlobalToolBar -->
+
+
+
+<table width="768" cellspacing="0" cellpadding="0" border="0">
+	<tr><td width="768"><img src="http://graphics.nytimes.com/images/misc/spacer.gif" width="768" height="3" alt=""></td></tr>
+	<tr><td width="768" bgcolor="#cccccc">
+		
+		
+
+<table width="768" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td width="170"><NYT_GMACH><a href="http://www.nytimes.com/membercenter/index.html" onmouseout="changeImage('ts_nav_1', 'http://graphics.nytimes.com/images/section/membercenter/ts_nav_1_off.gif')" onmouseover="changeImage('ts_nav_1', 'http://graphics.nytimes.com/images/section/membercenter/ts_nav_1_over.gif')"></NYT_GMACH><img name="ts_nav_1" src="http://graphics.nytimes.com/images/section/membercenter/ts_nav_1_off.gif" width="170" height="30" border="0" alt="Member Center Home"/></a></td>
+		<td width="130"><NYT_GMACH><a href="http://www.nytimes.com/mem/profile.html"  onmouseout="changeImage('ts_nav_2', 'http://graphics.nytimes.com/images/section/membercenter/ts_nav_2_off.gif')" onmouseover="changeImage('ts_nav_2', 'http://graphics.nytimes.com/images/section/membercenter/ts_nav_2_over.gif')"></NYT_GMACH><img name="ts_nav_2" src="http://graphics.nytimes.com/images/section/membercenter/ts_nav_2_off.gif" width="130" height="30" border="0" alt="Your Profile"/></a></td>
+		<td width="173"><NYT_GMACH><a href="http://www.nytimes.com/mem/email.html"  onmouseout="changeImage('ts_nav_3', 'http://graphics.nytimes.com/images/section/membercenter/ts_nav_3_off.gif')" onmouseover="changeImage('ts_nav_3', 'http://graphics.nytimes.com/images/section/membercenter/ts_nav_3_over.gif')"></NYT_GMACH><img name="ts_nav_3" src="http://graphics.nytimes.com/images/section/membercenter/ts_nav_3_off.gif" width="173" height="30" border="0" alt="E-Mail Preferences"/></a></td>
+		<td width="167"><NYT_GMACH><a href="https://select.nytimes.com/commerce/jsp/purchase_history.jsp" onmouseout="changeImage('ts_nav_4', 'http://graphics.nytimes.com/images/section/membercenter/ts_nav_4_off.gif')" onmouseover="changeImage('ts_nav_4', 'http://graphics.nytimes.com/images/section/membercenter/ts_nav_4_over.gif')"></NYT_GMACH><img name="ts_nav_4" src="http://graphics.nytimes.com/images/section/membercenter/ts_nav_4_off.gif" width="167" height="30" border="0" alt="Purchase History"/></a></td>
+		<td width="128"><a href="http://www.nytimes.com/membercenter/sitehelp.html"><img name="ts_nav_5" src="http://graphics.nytimes.com/images/section/membercenter/ts_nav_5.gif" width="128" height="30" border="0" alt="Site Help"/></a></td>
+	</tr>
+</table>
+
+		
+	</td></tr>
+	<tr><td width="768" align="left" valign="top">
+		<table width="768" cellpadding="0" cellspacing="0" border="0">		
+			<tr>
+				<td width="1" bgcolor="#CCCCCC"><img src="http://graphics.nytimes.com/images/misc/spacer.gif" width="1" height="1" alt=""/></td>
+				<td colspan="5" width="766" bgcolor="#EDEDEE"><img src="http://graphics.nytimes.com/images/misc/spacer.gif" width="1" height="4" alt=""/></td>
+				<td width="1" bgcolor="#CCCCCC"><img src="http://graphics.nytimes.com/images/misc/spacer.gif" width="1" height="1" alt=""/></td>
+			</tr>
+			<tr>
+				<td width="1" bgcolor="#CCCCCC"><img src="http://graphics.nytimes.com/images/misc/spacer.gif" width="1" height="1" alt=""/></td>
+				<td width="9" bgcolor="#EDEDEE"><img src="http://graphics.nytimes.com/images/misc/spacer.gif" width="9" height="1" alt=""/></td>
+				<td width="1" bgcolor="#CCCCCC"><img src="http://graphics.nytimes.com/images/misc/spacer.gif" width="1" height="1" alt=""/></td>
+				<td width="746">
+					<table width="746" cellpadding="0" cellspacing="0" border="0">
+						<tr><td width="746" bgcolor="#CCCCCC" colspan="3"><img src="http://graphics.nytimes.com/images/misc/spacer.gif" width="746" height="1" alt=""/></td></tr>
+						<tr>
+							<td width="13"><img src="http://graphics.nytimes.com/images/misc/spacer.gif" width="13" height="1" alt=""/></td>
+							<td width="720" class="mcheadline">
+							
+							  <br>
+							
+				 			<!-- Body start -->
+							
+								<table width="620" cellpadding="0" cellspacing="0" border="0">
+								<tr><td width="620" align="left" valign="top" class="mcheadline">
+								
+
+
+
+
+	<!--NYT_MOVE_INLINE_UP -->
+
+
+
+
+
+
+	
+	
+
+
+
+<NYT_HEADLINE version="1.0" type=" ">
+
+		<span class="faqheader">We're Sorry</span><br><br>
+	
+</NYT_HEADLINE>
+
+
+
+
+
+<NYT_BYLINE version="1.0" type=" ">
+
+
+</NYT_BYLINE>
+
+
+
+	<br>
+
+
+
+
+
+<!--NYT_DEBUG body start -->
+
+<NYT_TEXT>
+An error has occurred.  Please try again later or contact <a href="http://www.nytimes.com/membercenter/formh.html">Customer Service</a> for assistance.
+
+
+
+	<NYT_DYNAMIC_IFADS CircBottom>
+	<p><br clear="all">
+	<table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td align="left" valign="bottom">
+	</NYT_DYNAMIC_IFADS>
+	<!--ADX AD="CircBottom" -->
+	<NYT_DYNAMIC_IFADS CircBottom>
+	</td></tr></table>
+	</NYT_DYNAMIC_IFADS>
+
+
+</NYT_TEXT>
+<!--NYT_DEBUG body end -->
+<br>
+
+
+
+
+
+
+
+								</td></tr>
+								</table>
+								<br clear="all"/><div align="right"><a href="http://www.nytimes.com/membercenter/sitehelp.html">Back to Site Help</a></div><br/>
+							
+							<!-- Body end -->
+							</td>
+							<td width="13"><img src="http://graphics.nytimes.com/images/misc/spacer.gif" width="13" height="1" alt=""/></td>
+						</tr>
+						<tr><td width="746" bgcolor="#CCCCCC" colspan="3"><img src="http://graphics.nytimes.com/images/misc/spacer.gif" width="1" height="1" alt=""/></td></tr>
+					</table>
+				</td>
+				<td width="1" bgcolor="#CCCCCC"><img src="http://graphics.nytimes.com/images/misc/spacer.gif" width="1" height="1" alt=""/></td>
+				<td width="9" bgcolor="#EDEDEE"><img src="http://graphics.nytimes.com/images/misc/spacer.gif" width="9" height="1" alt=""/></td>
+				<td width="1" bgcolor="#CCCCCC"><img src="http://graphics.nytimes.com/images/misc/spacer.gif" width="1" height="1" alt=""/></td>
+			</tr>
+		</table>
+	</td></tr>
+</table>
+
+
+<table width="768" cellpadding="0" cellspacing="0" border="0" bgcolor="#EDEDEE">
+	<tr>
+		<td width="1" bgcolor="#CCCCCC"><img src="http://graphics.nytimes.com/images/misc/spacer.gif" width="1" height="40" alt=""/></td>
+		<td width="766" valign="middle">  
+			<img src="http://graphics.nytimes.com/images/misc/spacer.gif" width="38" height="1" alt=""/><a class="footer" href="/ref/membercenter/help/copyright.html">Copyright 2007</a>&nbsp;<a class="footer" href="http://www.nytco.com/">The New York Times Company</a> | <a class="footer" href="http://www.nytimes.com/privacy">Privacy Policy</a>
+		</td>
+		<td width="1" bgcolor="#CCCCCC"><img src="http://graphics.nytimes.com/images/misc/spacer.gif" width="1" height="1" alt=""></td>
+	</tr>	
+</table>
+
+<table width="768" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td width="768" bgcolor="#CCCCCC"><img src="http://graphics.nytimes.com/images/misc/spacer.gif" width="1" height="1" alt=""/></td>
+	</tr>	
+</table>
+<br><br>
+<!--ADX AD="Bottom9"-->
+<NYT_TRACKING_CODE SECTION="Member Center" SUBSECTION="null"/>
+<NYT_TACODA_CODE SECTION="Member Center" SUBSECTION="null"/>
+</body>
+<!--ADX AD="ADX_CLIENTSIDE"-->
+<!--ADX AD="Bottom7"-->
+</html>
+
+<!-- NYT_DEBUG element end: nytweb/sectionfront/member_center/MCRoot -->
+
+

@@ -1,0 +1,606 @@
+Vary: *
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 2.0.50727
+X-Powered-By: ASP.NET
+Date: Fri, 02 Dec 2011 18:01:29 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	New York City Real Estate Listings Search - NYTimes
+</title>
+	<script type="text/javascript">
+	    var BypassGlobalProxy = 'false';
+	    var ImageServerAddress = 'http://imagescdn.Gabriels.net/nytimes/';
+	    var ImageStaticURL     = '/';
+	</script>   
+	
+	
+<link rel="stylesheet" type="text/css" href="/dynamic/includes%2cmasters%2cnytimes.master,ExternalCSS,1111_30_1533.css" />
+<link rel="stylesheet" type="text/css" href="/dynamic/includes%2cmasters%2cnytimes.master,AllCSS,1111_30_1533.css" />    
+    <meta name="description" content="Homes for sale or for rent in New York City" />
+    <meta name="keywords" content="New York City Real Estate, New York City Homes for Sale, New York City Homes for Rent" />  
+
+<link rel="stylesheet" type="text/css" href="/dynamic/search%2cadvanced.aspx,mapstyleoverride,1111_30_1533.css" />
+<link rel="stylesheet" type="text/css" href="/dynamic/search%2cadvanced.aspx,,1111_30_1533.css" />
+<script type="text/javascript" src="/dynamic/includes%2cmasters%2cnytimes.master,,1111_30_1533.js"></script>
+<script type="text/javascript" src="/dynamic/search%2cadvanced.aspx,SearchBarJS,1111_30_1533.js"></script><link rel="shortcut icon" href="http://graphics8.nytimes.com/favicon.ico" type="image/x-icon" /><link rel="icon" href="http://graphics8.nytimes.com/favicon.ico" type="image/x-icon" />
+   
+	<!--[if IE]>
+    <style type="text/css"> 
+        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie.css);
+    </style>
+	<![endif]-->
+        
+    <META NAME="CG"  CONTENT="Real Estate">
+                    <META NAME="SCG"  CONTENT="Property Search">
+                    <META NAME="PT" CONTENT="Search"> 
+                    <META NAME="PS" CONTENT="Gabriels">
+                    <META NAME="PST" CONTENT="Advanced">    
+     
+<script type="text/javascript" src="/dynamic/search%2cadvanced.aspx,jsbodyplaceholder,1111_30_1533.js"></script>     
+                
+</head>
+<body id="ctl00_MasterPageBodyTag" onload="PageInit();" class="page_advanced-search">
+
+<div class="site-nyt">
+
+    
+    
+    
+    
+    <div id="shell">
+	<ul id="memberTools">
+		
+	</ul>
+	<div class="tabsContainer">
+		<ul id="mainTabs" class="tabs">
+			<li class="first selected"><a href="http://www.nytimes.com">Home Page</a></li>
+			<li><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+			<li><a href="http://www.nytimes.com/video">Video</a></li>
+			<li><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+			<li><a href="http://www.nytimes.com/timestopics">Times Topics</a></li>
+		</ul>  
+	</div>
+	<div id="page" class="tabContent active">
+	    
+		<div class="clearfix" id="masthead">
+		    <div id="Middle1CTag">
+               
+            </div>
+			<div id="searchWidget">
+				<div class="inlineSearchControl">
+					<form enctype="application/x-www-form-urlencoded" action="http://query.nytimes.com/search/sitesearch" method="get" name="searchForm" id="searchForm">
+					<input type="hidden" value="full" name="date_select"/>
+					<label for="searchQuery">Search All NYTimes.com</label>
+					<input type="text" class="text" value="" size="" name="query" id="searchQuery"/>
+					<input type="hidden" id="searchAll" name="type" value="nyt"/>
+					<input type="button" id="searchSubmit" class="searchSubmit" value="Go" />
+					</form>
+				</div>
+			</div>
+			<div id="branding"><a href="http://www.nytimes.com"><img src="http://realestate.nytimes.com/images/nyt/nytlogo152x23.gif" title="New York Times" alt="New York Times" id="NYTLogo"/></a></div>
+			
+			<div id="date"><p>Friday, December 02, 2011</p></div>
+			
+			<h2><a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a></h2>
+			
+		</div>
+		
+		
+    
+    
+    
+    <script language="javascript" type="text/javascript">
+		var WebRoot = "/";
+		var AbsoluteWebRoot = "http://realestate.nytimes.com/";
+		var PersonalizationRoot = "/my/";
+		var WebsiteName = "New York Times Real Estate";
+		var PortalName = "NYTimes.com Real Estate";
+		var ClientName = "NYTimes";
+		var ChannelSectionId="829246";
+	    var SEOSection="sales";	  
+	    var PageCache = null;  
+	    var BypassGlobalProxy = 'false';
+	    var ImageServerAddress = 'http://imagescdn.Gabriels.net/nytimes/';
+	    var ImageStaticURL     = '/';
+	    var GoogleMapVersion   = '3';
+	</script>
+    
+    
+    <div class="gts">
+
+        
+        
+    
+        <div id="main" class="clearfix">
+            
+
+<form id="AdvancedSearchForm" name="AdvancedSearchForm" action="">
+    <div id="global-tools" class="clearfix">
+        <div id="global-breadcrumb">
+            <a href="http://www.nytimes.com/realestate/">Real Estate</a> &raquo;
+            <span>Advanced Search</span>
+        </div>
+    </div>
+    <div id="advanced-search-header">
+        <div id="advanced-search-title">
+            <h2>Advanced Search</h2>
+            <p>Select desired locations and criteria below</p>
+        </div>
+        <div class="hidden-rule"><hr/></div>
+    </div>
+    <div id="advanced-search-nav" class="clearfix">
+        <ul id="global-tools-list" class="clearfix">
+			<li class="last">
+
+<script type="text/javascript">
+var SignInOrRegister = "";
+function ChangeUserAction()
+{
+    var PageName = '/search/advanced.aspx';
+    if(PageName.toLowerCase().indexOf("/detail.aspx") == 0)
+    {
+        ChangeDetailUserAction();
+    }
+    else if(PageName.toLowerCase().indexOf("/results.aspx") > -1 || PageName.toLowerCase().indexOf("/resultscompare.aspx") > -1)
+    {
+        ChangeResultUserAction(PageCache.ListingIds);
+    }
+    else if(IsDefaultPage())
+    {
+        window.location.reload(true);
+    }
+}
+function ShowMyList(showMY)
+{
+    //SAML - this function is no longer needed
+    //return;
+    var PageName = '/search/advanced.aspx';
+    var rhtml= "";
+    
+    if(showMY)
+    {
+        if(PageName.toLowerCase().indexOf("/results.aspx") > -1) 
+        {
+            //remove compare cookie
+            //RemoveCompareAll(); - called in ToSaved in personalization - Irina
+            rhtml += '<li class="my_listings"><a href=javascript:ToSaved("listings","results","' + GetPageName() + '"); target="_parent">My Listings</a> ('+ readListingCountPersCookie() + ')</li>';
+            rhtml += '<li class="last"><a href=javascript:ToSaved("searches","results","' + GetPageName() + '"); target="_parent">My Searches</a> ('+ readSearchCountPersCookie() + ')</li>';
+            //rhtml += '<li class="last"><a href="javascript:void(0);" onclick="SignOut();" target="_parent">Sign Out</a></li>';
+        }
+        else if(PageName.toLowerCase().indexOf("/detail.aspx") > -1) 
+        {
+            //compare cookie is never on detail page if we come from results
+            //if we came from compareresults cookie exists - we should leave it
+            rhtml += '<li class="my_listings"><a href=javascript:ToSaved("listings","details","' + GetPageName() + '"); target="_parent">My Listings</a> ('+ readListingCountPersCookie() + ')</li>';
+            rhtml += '<li class="last"><a href=javascript:ToSaved("searches","details","' + GetPageName() + '"); target="_parent">My Searches</a> ('+ readSearchCountPersCookie() + ')</li>';
+            //rhtml += '<li class="last"><a href="javascript:void(0);" onclick="SignOut();" target="_parent">Sign Out</a></li>';
+        }
+        else if(PageName.toLowerCase().indexOf("/resultscompare.aspx") > -1) 
+        {
+         
+            rhtml += '<li class="my_listings"><a href=javascript:ToSaved("listings","compareresults","' + GetPageName() + '"); target="_parent">My Listings</a> ('+ readListingCountPersCookie() + ')</li>';
+            rhtml += '<li class="last"><a href=javascript:ToSaved("searches","compareresults","' + GetPageName() + '"); target="_parent">My Searches</a> ('+ readSearchCountPersCookie() + ')</li>';
+            //rhtml += '<li class="last"><a href="javascript:void(0);" onclick="SignOut();" target="_parent">Sign Out</a></li>';
+        }
+        else 
+        {            
+            rhtml += '<li class="my_listings"><a href="' + PersonalizationRoot + 'saved_listings.aspx" target="_parent">My Listings</a> ('+ readListingCountPersCookie() + ')</li>';
+            rhtml += '<li class="last"><a href="' + PersonalizationRoot + 'saved_searches.aspx" target="_parent">My Searches</a> ('+ readSearchCountPersCookie() + ')</li>';
+            //rhtml += '<li class="last"><a href="javascript:void(0);" onclick="SignOut();" target="_parent">Sign Out</a></li>';              
+                            
+        }
+        
+        gE("loggedin").innerHTML = rhtml;
+        
+    }
+}
+</script>
+
+
+        <ul id="notloggedin" class="clearfix">
+            
+                    <li class="last"><a href="/my/saved_listings.aspx">My Real Estate &raquo;</a></li>
+                    
+        </ul>
+        <ul id="loggedin" style="display: none;"></ul>
+    
+    
+
+<form id="frmbacktoresults" action="/my/saved_listings.aspx" target="_parent" method="post">
+    <input type="hidden" id="backtoresultsSEO" name="backtoresultsSEO" value="" /> 
+     <input type="hidden" id="backtoresultsordetails" name="backtoresultsordetails" value="results" /><!--Irina - default value - will be reset on detail page to details, same action-->
+</form>
+
+</li>
+		</ul>
+        <div class="single-rule"><hr/></div>
+    </div>
+    <div id="advanced-search-content" class="clearfix">
+        <div id="advanced-search-mapping" class="map-default-wrap" style="position:relative;">
+            <div id="map-header" class="clearfix"> 
+                <div id="map-state">
+                    <a href="javascript:ToggleMap()" id="map-state-btn-expand"><span class="icon expand-map"></span>Expand Map</a>
+                </div> 
+            </div>
+            <div id="map-border">
+                <div id="map" class="map_default"></div>
+            </div>
+            <div id="map-icon-key">
+                <img src="/images/advanced-search-mapping-icon-key.gif" alt="Icon Key" />
+            </div>            
+            <div id="selectedLocations" style="border-style:none;"> <!-- selectedLocations are referenced in loadmapregions -->
+                    
+					<input type="radio" id="mlo_loc" checked="checked" style="display:none;"/> 
+					<input type="radio" id="mlo_map" checked="checked" style="display:none;"/> 
+		    </div>
+            <input type="text" id="showzoom" />
+        </div>
+        <div class="column-ab">
+            <div class="clearfix">
+               
+               
+ 
+ <style type="text/css">
+   div#SuggestContainer
+    {
+        width: 183px;
+    }
+ </style>
+    
+<script type="text/javascript">
+var RetainSEOPath           = "False";
+//================================================================
+//  CacheObject for local persistance
+//================================================================
+var CacheObject = new Object();    
+    CacheObject.Channel              = "sales";
+    CacheObject.ChannelId            = "829246";
+    CacheObject.WebRoot              = "http://service-nytimes.gabriels.net/v1.2/" ;//"http://service-nytimes-staging.gabriels.net/";
+    CacheObject.LoadCycle            = false;
+    CacheObject.SelectedCityRegionId = "2000400000986";
+    CacheObject.SelectedRegionId     = "2000400000986";   
+    CacheObject.SelectedLevel        = "3";
+    CacheObject.SelectedStateRegionId= "200040";
+    CacheObject.SelectedCountySEO    = "new-york-county-ny-area";
+    CacheObject.SelectedState        = "NY";
+    CacheObject.SelectedCountry      = "USA";
+    CacheObject.SearchTab            = "nyc";
+    CacheObject.RegionIds            = "2000400000986";
+    CacheObject.Refinements          = "";
+    //MAPS Settings-------------------------------------------------
+    CacheObject.Latitude             = 40.772430;
+    CacheObject.Longitude            = -73.932709;
+    CacheObject.Zoom                 = 12;
+    CacheObject.SuppressByLevel      = 4;
+    CacheObject.SuppressByParents    = [2000400000169,2000400000173,2000400000986,2000400003384,2000400001382];
+    CacheObject.MinZoom              = 12;
+    CacheObject.MaxZoom              = 18;    
+</script>
+
+<div class="column-a">    
+    <h5>Listing Type</h5><div class="search-top clearfix"><div class="search-options"><input type="radio" value="sales" id="sales" name="Channel" onclick="SwapType('sales')" checked="checked" /><label for="sales" class="active">For Sale</label><input type="radio" value="rentals" id="rentals" name="Channel" onclick="SwapType('rentals')" /><label for="rentals">For Rent</label></div><div class="single-rule"><hr /></div><div id="searchoptions"><h5>Search by</h5><h5 id="searchoptionheader">
+            Location <a id="searchtype" class="search-left" href="javascript:SwitchOptions();"> Address, zip, etc.</a></h5></div></div><div id="col-a-select"><ul class="gts-tabs clearfix" id="tabs"><li id="tab-nyc" class="selected"><a href="javascript:void(0);" onclick="javascript:SwapTab('nyc');GetMapSettings('nyc');">NYC</a></li><li id="tab-tri" class=""><a href="javascript:void(0);" onclick="javascript:SwapTab('tri');GetMapSettings('tri');">TRI-STATE</a></li><li id="tab-usa" class=""><a href="javascript:void(0);" onclick="javascript:SwapTab('usa');GetMapSettings('usa');">NATIONAL</a></li><li id="tab-geo" class=""><a href="javascript:void(0);" onclick="javascript:SwapTab('geo');GetMapSettings('geo');">GLOBAL</a></li></ul><div class="single-rule"><hr /></div><select id="Location1"><option /></select><select id="Location2" class="last"><option /></select><select id="Location3" class="hide"><option /></select><select id="Location4" class="hide"><option /></select><div class="option-popup-wrap"><div class="option-popup-link" id="popLinkLocations"><a onclick="javascript:ShowLocationsFlyOut();" href="javascript:void(0);"><span class="icon-text">
+                Show all Cities in NYC</span></a></div><div class="option-popup option-popup-650" id="popLocation"><span>location on ajax</span></div></div><div id="add-locations" class="add-locations"><input type="button" class="btn-location" value="Add Location" onclick="AddLocationSearch();" /></div><div id="selected-locations"><h5>Selected Locations</h5></div></div><div id="col-a-suggest"><div class="col-a-bottom"><div class="label" style="display: inline; font-size: 11px;">
+            Or, enter a location, building, zip code or web ID:
+          </div><div id="SuggestWrapper"><input type="text" ID="Term" autocomplete="off" class="ghost-text" /><div id="SuggestContainer" class="closed"> </div><input id="LocationSuggested" type="hidden" class="isHidden" /><input id="LocationSelected" type="hidden" class="isHidden" /></div></div></div>    
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() 
+{
+   SwapType(CacheObject.Channel); //SwapTab("nyc");   
+   
+   // Update the Location List when it comes from results page to the adv search page.   
+   if (RetainSEOPath.toLowerCase() == "true")
+   { 
+        DisplaySelectedLocationsList();  
+   }
+});
+
+</script>
+                   
+                <div class="column-b" id="column-b">
+                   
+                    <div id="submit-wrap1">
+                        <div id="submit-search1"> 
+                        <input type="button" onclick="AdvancedSearch()" value="" class="btn-img search" />
+                        </div>
+                    </div>
+                    
+                    <div class="single-rule">
+                        <hr>
+                    </div> 
+                     
+                    <div id="criteria">
+                        <span></span>
+                    </div>
+                   
+                    <div id="submit-wrap">
+                        <div id="submit-search">
+                        <div id="scroll-top-message"></div>
+                        <input type="button" onclick="AdvancedSearch()" value="" class="btn-img search" />
+                        </div>
+                    </div>
+                             
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
+        </div>
+    
+    
+    </div><!-- END: gts -->
+    
+    
+    
+    
+    
+    
+		<div id="footer">
+			<ul class="first">
+			<li class="first"><a href="http://www.nytimes.com">Home</a></li>
+			<li ><a href="http://www.nytimes.com/pages/world/index.html">World</a></li>
+			<li ><a href="http://www.nytimes.com/pages/national/index.html">U.S.</a></li>
+			<li ><a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a></li>
+			<li ><a href="http://www.nytimes.com/pages/business/index.html">Business</a></li>
+			<li ><a href="http://www.nytimes.com/pages/technology/index.html">Technology</a></li>
+			<li ><a href="http://www.nytimes.com/pages/science/index.html">Science</a></li>
+			<li ><a href="http://www.nytimes.com/pages/health/index.html">Health</a></li>
+			<li ><a href="http://www.nytimes.com/pages/sports/index.html">Sports</a></li>
+			<li ><a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a></li>
+			<li ><a href="http://www.nytimes.com/pages/arts/index.html">Arts</a></li>
+			<li ><a href="http://www.nytimes.com/pages/style/index.html">Style</a></li>
+			<li ><a href="http://www.nytimes.com/pages/travel/index.html">Travel</a></li>
+			<li ><a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a></li>
+			<li ><a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a></li>
+			<li ><a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a></li>
+			<li><a href="#top">Back to Top</a></li>
+			</ul>
+            
+            <ul>
+			    
+                <li class="first"><a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&copy 2011</a> <a href="http://www.nytco.com/">The New York Times Company</a></li>
+                <li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+                <li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>
+                <li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Terms of Service</a></li>
+                <li><a href="http://www.nytimes.com/corrections.html">Corrections</a></li>
+                <li><a href="http://www.nytimes.com/rss"><span class="icon icon-rss"></span><span class="icon-text"> RSS</span></a></li>
+                <li><a href="http://firstlook.nytimes.com">First Look</a></li>
+                <li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+                <li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+                <li><a href="http://www.nytco.com/careers">Work for Us</a></li>
+                <li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+                <li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+    		</ul>
+            </div>
+	</div><!--close page -->
+    </div><!--close shell -->
+    
+    
+    <script src="/includes/javascript/webtrends/trackingTags_v1.1.js" type="text/javascript"></script>
+    <noscript>
+    <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsuvvccp000000sdtpzj7ceo_3j2x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div>
+    </noscript>
+    
+    
+    <script language="javascript" type="text/javascript">
+    if (!document.readyState)
+    {
+        document.readyState = "complete";
+    }
+    </script>
+    
+    <div id="crosshair" style="z-index:1000;position:absolute;left:100px;top:100px;width:5px;height:5px;display:none;"><img src="/images/map_markers/crosshair.gif" width="5" height="5" alt="map crosshair" /></div>
+
+</div>
+
+
+<!-- v1.4.12 -->
+
+
+	
+
+
+
+<script type="text/javascript" src="/dynamic/includes%2cmasters%2cnytimes.master,BottomJS,1111_30_1533.js"></script>
+<script type="text/javascript" src="/dynamic/search%2cadvanced.aspx,BottomJS,1111_30_1533.js"></script>
+
+<script type="text/javascript">
+var SearchTab               = CacheObject.SearchTab;
+var Provider                = "GoogleMapsProvider3";
+var mapProvider ;
+
+var PageCache               = new Object();
+    PageCache.QueryString   = "N=" + CacheObject.ChannelId;
+    PageCache.TotalRecords  = 100; // required for map loading
+    
+// MAPS----  
+var DefaultLatitude         = CacheObject.Latitude; 
+var DefaultLongitude        = CacheObject.Longitude; 
+var DefaultZoom             = CacheObject.Zoom; 
+var MinZoom                 = CacheObject.MinZoom;
+var MaxZoom                 = CacheObject.MaxZoom;
+var SuppressByLevel         = CacheObject.SuppressByLevel;
+var SuppressByParents       = [CacheObject.SuppressByParents];
+var PolyCache               = new Array();
+
+//BROWSER TYPE---
+var browsertype             = "ds robots/1.0";
+
+</script>    
+<div id="overDiv" style="position:absolute;z-index:5000;display:block;visibility:hidden;"></div>    
+<script type="text/javascript">
+    if (document.all)
+    {
+        var over = overDiv.style;
+    }   
+    else
+    {
+        var over = document.getElementById("overDiv");
+    }
+    
+    
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//  Maps: Start: Scroll feature of the map 
+//  MA: Please donot move this peice of the scroll feature of the map to any other place. This shod be called 
+//  only after the elements like adv saerch mapping and submit wrap gets created.
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+var RegionLoadTimer = window.setTimeout(function(){void(null);},1);
+var SelectedLocationsTimer = window.setTimeout(function(){void(null);},1);
+
+function mapIsExpanded()
+{
+    if (gE('advanced-search-mapping').className == 'map-default-wrap')
+    {
+        return false;
+    }
+    return true;
+}
+
+var FixedEle = new Object();
+
+function SetFixedEle()
+{
+    FixedEle.MapX = RecurseOffset(gE('advanced-search-mapping')).offsetLeft - 7;
+    FixedEle.MapY = RecurseOffset(gE('advanced-search-mapping')).offsetTop;
+}
+
+SetFixedEle();
+
+window.onresize = function()
+{
+    window.setTimeout(function()
+    {
+        DoReturnSub();
+        DoReturnMap();
+        SetFixedEle();
+    },10);
+};
+
+var MapExpHTML = "<a href=\"javascript:ToggleMap()\" id=\"map-state-btn-expand\"><span class='icon expand-map'></span>Expand Map</a>";
+var MapConHTML = "<a href=\"javascript:ToggleMap()\" id=\"map-state-btn-collapse\"><span class='icon contract-map'></span>Contract Map</a>";
+                
+function ToggleMap()
+{
+    if (mapIsExpanded())
+    {
+        gE('map-state').innerHTML = MapExpHTML;
+        gE('advanced-search-mapping').className = 'map-default-wrap';
+        gE('map').className = 'map_default';
+        mapProvider.checkResize(); 
+        LoadMapRegions(false, false, false, SuppressByLevel, SuppressByParents);
+        window.setTimeout(function()
+        {
+            SetFixedEle();
+        },10);
+    }
+    else
+    {
+        gE('map-state').innerHTML = MapConHTML;
+        gE('advanced-search-mapping').className = 'map-expanded-wrap';
+        gE('map').className = 'map_expanded';
+        mapProvider.checkResize(); 
+        LoadMapRegions(false, false, false, SuppressByLevel, SuppressByParents);
+        window.scroll(0,0);
+        window.setTimeout(function()
+        {
+            SetFixedEle();
+        },10);
+    }
+}
+   
+function DoFixSub()
+{
+    gE('scroll-top-message').innerHTML = "<a href='javascript:;' onclick='window.scroll(0,0)'>Back To Top</a>";
+}
+
+function DoReturnSub()
+{
+    gE('scroll-top-message').innerHTML = "";
+}
+
+function DoFixMap()
+{
+    gE('advanced-search-mapping').style.top = "10px";
+    gE('advanced-search-mapping').style.left = FixedEle.MapX + "px";
+    gE('advanced-search-mapping').style.position = "fixed";
+}
+
+function DoReturnMap()
+{
+    gE('advanced-search-mapping').style.top = "0px";
+    gE('advanced-search-mapping').style.left = "0px";
+    gE('advanced-search-mapping').style.position = "relative";
+}
+    
+var FixMapSub = window.setInterval(function()
+{
+    var Scrolled;
+     
+    if (document.documentElement && document.documentElement.scrollTop)
+    {
+        Scrolled = document.documentElement.scrollTop;
+    }
+    else if (document.all)
+    {
+        Scrolled = document.body.scrollTop;
+    }
+    else
+    {
+        Scrolled = window.pageYOffset;
+    }
+    
+    if (Scrolled > FixedEle.SubY)
+    {
+       DoFixSub();
+    }
+    else
+    {
+        DoReturnSub();
+    }
+    
+    if (mapIsExpanded())
+    {
+        DoReturnMap();
+        return;
+    }    
+    
+    if (Scrolled > FixedEle.MapY)
+    {
+        DoFixMap();
+    }
+    else
+    {
+        DoReturnMap();
+    }
+},250);
+
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//  Maps: End: Scroll feature of the map
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+function PageInit()
+{
+    ToolsInit();
+    PageLoader();
+}
+
+</script>
+
+<script type="text/javascript" src="/includes/javascript/RolloverInfo.js.aspx"></script>
+
+
+<script type="text/javascript">
+        _userv=0;
+        urchinTracker();
+    </script>
+</body>
+</html>

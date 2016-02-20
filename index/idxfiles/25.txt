@@ -1,0 +1,1755 @@
+Content-Length: 154
+Connection: Close
+Location: http://www.baidu.com/s?wd=DNF&ie=utf-8&tn=SE_PSStatistics_p1d9m0nf
+Server: Bws 1.0
+Set-Cookie: PSLOSTID=1034; Domain=.baidu.com; Path=/; Max-Age=60
+
+<html>
+<head><title>302 Found</title></head>
+<body bgcolor="white">
+<center><h1>302 Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+Date: Wed, 03 Jun 2015 08:12:54 GMT
+P3p: CP=" OTI DSP COR IVA OUR IND COM "
+P3p: CP=" OTI DSP COR IVA OUR IND COM "
+Server: Apache
+Set-Cookie: BAIDUID=0C4E810E8C6798706A8C181746D609FA:FG=1; expires=Thu, 02-Jun-16 08:12:54 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+Set-Cookie: BAIDUID=CDDFD7AB1948B4E9D2A65B0EF8AE0F7C:FG=1; expires=Thu, 02-Jun-16 08:12:54 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+Tracecode: 07736221121221859850060316
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Wait: 54
+
+<!DOCTYPE html>
+<!--STATUS OK-->
+<html>
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=9" />
+		<meta http-equiv="content-type" content="text/html;charset=gbk" />
+		<meta property="wb:webmaster" content="3aababe5ed22e23c" />
+		<title>百度知道 - 全球最大中文互动问答平台</title>
+		
+<script type="text/javascript">
+//
+void function(e,t,n,a,o,i,m){e.alogObjectName=o,e[o]=e[o]||function(){(e[o].q=e[o].q||[]).push(arguments)},e[o].l=e[o].l||+new Date,i=t.createElement(n),i.asyn=1,i.src=a,m=t.getElementsByTagName(n)[0],m.parentNode.insertBefore(i,m)}(window,document,"script","http://img.baidu.com/hunter/alog.min.js","alog");
+//
+void function(e,o){var t,n="Other";(t=/\b(safari|firefox|chrome|opera)\b.*?(\d+)/i.exec(o))&&(n=t[1]),(t=/MSIE ([0-9]*)/.exec(o))&&(n="IE"+t[1]),!/^IE/.test(n)&&(t=/trident\/.* rv:([\w]+)?/i.exec(o))&&(n="IE"+t[1]),/(M?QQBrowser)\/([0-9.]*)/.test(o)&&(n="QQ Browser"),/SE 2.X MetaSr/.test(o)&&(n="Sogou Explorer"),alog("exception.set","browser",n);var r=!1;e.onerror=function(e,o,t,n){var c=!0;return!o&&/^script error/i.test(e)&&(r?c=!1:r=!0),c&&alog("exception.send","exception",{msg:e,js:o,ln:t,col:n}),!1},alog("exception.on","catch",function(e){alog("exception.send","exception",{msg:e.msg,js:e.path,ln:e.ln,method:e.method,flag:"catch"})}),alog("exception.on","count",function(e){alog("exception.send","exception",{msg:e.toString(),flag:"count"})})}(window,navigator.userAgent);
+</script>
+
+		        
+<meta name="description" content="百度知道是由全球最大的中文搜索引擎百度自主研发、基于搜索的互动式知识问答分享平台。用户可以根据自身的需求，有针对性地提出问题；同时，这些答案又将作为搜索结果，满足有相同或类似问题的用户需求。" />
+
+		<script type="text/javascript">
+			!function(){var n={},t={};n.context=function(n,e){var i=arguments.length;if(i>1)t[n]=e;else if(1==i){if("object"!=typeof n)return t[n];for(var o in n)n.hasOwnProperty(o)&&(t[o]=n[o])}},"F"in window||(window.F=n)}();;
+			
+            
+																																				
+			F.context('user', {"isLogin":"","stoken":"","name":"","id":"","wealth":"","gradeIndex":""});
+			F.context('user')['internalAdmin'] = null;
+
+							F.context('defaultQuery', '{"title":"","value":""}');
+									
+			            
+                                                F.context('productsDomain', {
+                'zuoye': 'http://zuoye.baidu.com',
+                'baobao': 'http://baobao.baidu.com',
+                'doctor': 'http://muzhi.baidu.com'
+            });
+		</script>
+
+		
+
+        <!--[if lte IE 8]>
+            <script>
+                (function(){
+                    var e="abbr,article,aside,audio,canvas,datalist,details,dialog,eventsource,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(","),
+                    i=e.length;
+                    while(i--){document.createElement(e[i])}
+                 })();
+            </script>
+        <![endif]-->
+	<link rel="stylesheet" type="text/css" href="http://cdn.iknow.bdimg.com/static/common/pkg/common_b58f594.css" /><link rel="stylesheet" type="text/css" href="http://cdn.iknow.bdimg.com/static/home/pkg/module-new_4368cd8.css" /><link rel="stylesheet" type="text/css" href="http://cdn.iknow.bdimg.com/static/common/widget/footer-new/footer-new_d9bb01f.css" /></head>
+    
+    
+<script> alog('speed.set', 'ht',new Date);</script>
+
+
+	<body class="layout-center home-search">
+		
+            
+<div id="userbar" class="userbar userbar-new" data="">
+            <ul class="aside-list">
+            <li><a rel="nofollow" alog-alias="usrbar-login" href="javascript:;" id="userbar-login" log="type:2026,pname:account,mod:login,action:show,pos:pop">登录</a></li>
+            <li><a rel="nofollow" alog-alias="usrbar-reg" id="userbar-reg" href="https://passport.baidu.com/v2/?reg&tpl=ik&color=green&u=" target="_blank">注册</a></li>
+            <li><a rel="nofollow" href="http://www.baidu.com/" id="userbar-baidu-index">百度首页</a></li>
+        </ul>
+    </div>
+
+
+
+		
+        
+		
+        	    	<header id="header" class="container">
+                <a href="http://zhidao.baidu.com/activity/commAct?name=weituanerzhan&fr=sytt" title="" target="_blank" class="adTopImg" style="background:url(http://img.baidu.com/img/iknow/sula201506/zhangjialintuanduitoutu.png);"></a>
+        		
+			<div id="search-box" class="search-box line">
+    <a class="logo" href="/" title="百度知道"></a>
+    <ul class="channel grid">
+        <li><a log="sc_pos:c_news" rel="nofollow" href="http://news.baidu.com/">新闻</a></li> 
+        <li><a log="sc_pos:c_baidu" rel="nofollow" href="http://www.baidu.com/">网页</a></li> 
+        <li><a log="sc_pos:c_tieba" rel="nofollow" href="http://tieba.baidu.com/">贴吧</a></li> 
+        <li><strong>知道</strong></li> 
+        <li><a log="sc_pos:c_mp3" rel="nofollow" href="http://music.baidu.com/">音乐</a></li> 
+        <li><a log="sc_pos:c_pic" rel="nofollow" href="http://image.baidu.com/">图片</a></li> 
+        <li><a log="sc_pos:c_video" rel="nofollow" href="http://v.baidu.com/">视频</a></li> 
+        <li><a log="sc_pos:c_map" rel="nofollow" href="http://map.baidu.com/">地图</a></li> 
+        <li><a log="sc_pos:c_baike" rel="nofollow" href="http://baike.baidu.com/">百科</a></li> 
+        <li><a log="sc_pos:c_doc" rel="nofollow" href="http://wenku.baidu.com/">文库</a></li>
+        <li><a log="sc_pos:c_jingyan" href="http://jingyan.baidu.com/">经验</a></li>
+    </ul>
+
+    <form action="/search" name="search-form" method="get" id="search-form" class="search-form">
+        <input class="hdi" id="kw" maxlength="256" tabindex="1" size="46" name="word" value="" autocomplete="off" />
+        <button alog-action="g-search-anwser" type="submit" id="search-btn" hidefocus="true"  tabindex="2" class="btn-global">搜索答案</button>
+        <a href="#" alog-action="g-i-ask" class="i-ask-link" id="ask-btn">我要提问</a>
+    </form>
+</div>
+
+		
+	</header>
+        
+<div class="nav-menu-container" id="j-nav-menu-container">
+    <div class="nav-show-control">
+        <div class="nav-menu-layout">
+            <div class="nav-menu line">
+                <div class="nav-menu-content container">
+                    <div class="content-box">
+                        <div class="menu-item menu-item-index">
+                            <a class="menu-title current" href="/" target="_blank">
+                                首页
+                            </a>
+                        </div>
+                        <div class="menu-item menu-item-cat">
+                            <a class="menu-title " href="/browse/" target="_blank">
+                                问题分类
+                            </a>
+                            <div class="menu-content">
+                                <ul class="menu-sub-list">
+                                    <li class="menu-sub-item-wp">
+                                        <a class="menu-sub-item" href="/browse/74" target="_blank" target="_blank">
+                                            电脑网络
+                                        </a>
+                                    </li>
+                                    <li class="menu-sub-item-wp">
+                                        <a class="menu-sub-item" href="/browse/80" target="_blank" target="_blank">
+                                            生活
+                                        </a>
+                                    </li>
+                                    <li class="menu-sub-item-wp">
+                                        <a class="menu-sub-item" href="/browse/79" target="_blank" target="_blank">
+                                            医疗健康
+                                        </a>
+                                    </li>
+                                    <li class="menu-sub-item-wp">
+                                        <a class="menu-sub-item" href="/browse/78" target="_blank" target="_blank">
+                                            体育运动
+                                        </a>
+                                    </li>
+                                    <li class="menu-sub-item-wp">
+                                        <a class="menu-sub-item" href="/browse/95" target="_blank" target="_blank">
+                                            电子数码
+                                        </a>
+                                    </li>
+                                    <li class="menu-sub-item-wp">
+                                        <a class="menu-sub-item" href="/browse/82" target="_blank" target="_blank">
+                                            商业理财
+                                        </a>
+                                    </li>
+                                    <li class="menu-sub-item-wp">
+                                        <a class="menu-sub-item" href="/browse/83" target="_blank" target="_blank">
+                                            教育科学
+                                        </a>
+                                    </li>
+                                    <li class="menu-sub-item-wp">
+                                        <a class="menu-sub-item" href="/browse/84" target="_blank" target="_blank">
+                                            社会民生
+                                        </a>
+                                    </li>
+                                    <li class="menu-sub-item-wp">
+                                        <a class="menu-sub-item" href="/browse/85" target="_blank" target="_blank">
+                                            文化艺术
+                                        </a>
+                                    </li>
+                                    <li class="menu-sub-item-wp">
+                                        <a class="menu-sub-item" href="/browse/77" target="_blank" target="_blank">
+                                            游戏
+                                        </a>
+                                    </li>
+                                    <li class="menu-sub-item-wp">
+                                        <a class="menu-sub-item" href="/browse/1031" target="_blank" target="_blank">
+                                            娱乐休闲
+                                        </a>
+                                    </li>
+                                    <li class="menu-sub-item-wp">
+                                        <a class="menu-sub-item" href="/browse/81" target="_blank" target="_blank">
+                                            烦恼
+                                        </a>
+                                    </li>
+                                    <li class="menu-sub-item-wp">
+                                        <a class="menu-sub-item" href="/browse/1101" target="_blank" target="_blank">
+                                            资源共享
+                                        </a>
+                                    </li>
+                                    <li class="menu-sub-item-wp">
+                                        <a class="menu-sub-item" href="/browse/1" target="_blank" target="_blank">
+                                            地区
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="menu-item menu-item-lanmu">
+                            <a class="menu-title" href="javascript:;">
+                                知道栏目
+                            </a>
+                            <div class="menu-content">
+                                <ul class="menu-sub-list">
+                                    <li class="menu-sub-item-wp">
+                                        <a class="menu-sub-item" href="/daily" target="_blank">
+                                            知道日报
+                                        </a>
+                                    </li>
+                                    <li class="menu-sub-item-wp">
+                                        <a class="menu-sub-item" href="/liuyan" target="_blank">
+                                            真相问答机
+                                        </a>
+                                    </li>
+                                    <li class="menu-sub-item-wp">
+                                        <a class="menu-sub-item" href="/s/bigdata/" target="_blank">
+                                            知道大数据
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="menu-item menu-item-user">
+                            <a class="menu-title" href="javascript:;">
+                                知道用户
+                            </a>
+                            <div class="menu-content">
+                                <ul class="menu-sub-list">
+                                    <li class="menu-sub-item-wp">
+                                        <a class="menu-sub-item" href="/zhima/" target="_blank">
+                                            芝麻
+                                        </a>
+                                    </li>
+                                    <li class="menu-sub-item-wp">
+                                        <a class="menu-sub-item" href="/uteam" target="_blank">
+                                            芝麻团
+                                        </a>
+                                    </li>
+                                    <li class="menu-sub-item-wp">
+                                        <a class="menu-sub-item" href="/user/admin" target="_blank">
+                                            芝麻将
+                                        </a>
+                                    </li>
+                                    <li class="menu-sub-item-wp">
+                                        <a class="menu-sub-item" href="/shop" target="_blank">
+                                            财富商城
+                                        </a>
+                                    </li>
+                                    <li class="menu-sub-item-wp">
+                                        <a class="menu-sub-item" href="/s/star/index.html" target="_blank">
+                                            知道之星
+                                        </a>
+                                    </li>
+                                    <li class="menu-sub-item-wp">
+                                        <a class="menu-sub-item" href="/s/activity/index.html" target="_blank">
+                                            知道活动
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="menu-item menu-item-expert">
+                            <a class="menu-title" href="javascript:;">
+                                咨询专家
+                            </a>
+                            <div class="menu-content">
+                                <ul class="menu-sub-list">
+                                    <li class="menu-sub-item-wp">
+                                        <a class="menu-sub-item" href="/hangjia" target="_blank">
+                                            知道行家
+                                        </a>
+                                    </li>
+                                    <li class="menu-sub-item-wp">
+                                        <a class="menu-sub-item" href="http://muzhi.baidu.com?from=submenu" target="_blank">
+                                            问医生
+                                        </a>
+                                    </li>
+                                    <li class="menu-sub-item-wp">
+                                        <a class="menu-sub-item" href="http://zuoye.baidu.com" target="_blank">
+                                            作业帮
+                                        </a>
+                                    </li>
+                                    <li class="menu-sub-item-wp">
+                                        <a class="menu-sub-item" href="http://baobao.baidu.com" target="_blank">
+                                            宝宝知道
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="menu-item menu-item-jingyan">
+                            <a class="menu-title" href="http://jingyan.baidu.com/" target="_blank">
+                                经验
+                            </a>
+                        </div>
+
+                        <div class="menu-right-section">
+                            <div class="menu-right-section-devide">
+                                
+                            </div>
+                            <ul class="menu-right-list">
+                                <li class="menu-right-list-item open-dev">
+                                    <a href="/opendev?fr=home" class="menu-right-list-link" target="_blank">
+                                        <span class="item-icon">
+                                            
+                                        </span>
+                                        <span class="item-name">
+                                            开放平台
+                                        </span>
+                                    </a>
+                                    <span class="right-list-item-devide">
+                                        
+                                    </span>
+                                </li>
+                                <li class="menu-right-list-item zhidao-app">
+                                    <a href="/zt/ikapp/index.html?fr=home" class="menu-right-list-link" target="_blank">
+                                        <span class="item-icon">
+                                            
+                                        </span>
+                                        <span class="item-name">
+                                            手机知道
+                                        </span>
+                                    </a>
+                                    <span class="right-list-item-devide">
+                                        
+                                    </span>
+                                </li>
+                                <li class="menu-right-list-item user-center">
+                                    <a href="/ihome" class="menu-right-list-link" target="_blank">
+                                        <span class="item-icon">
+                                            
+                                        </span>
+                                        <span class="item-name">
+                                            个人中心
+                                        </span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+	<div id="body" class="container">
+		
+<div class="banner-wp" style="background-color:#3c5929;">
+<div class="banner container" data-href="http://zhidao.baidu.com/daily">
+<img src="http://img.iknow.bdimg.com/zhidaoribao2014/2015year/0603/0603banner.jpg" class="banner-bg-img">
+<div class="banner-left-mask">
+</div>
+<div class="banner-right-mask">
+</div>
+<p class="iknow-daily-date">
+知道日报&nbsp;6月3日</p>
+<p class="banner-daily-info">
+<span class="banner-title">
+谁是世界上最富有的动物？
+</span>
+<span class="banner-author">
+来自：煎蛋
+</span>
+</p>
+<div class="iknow-daily-collection line">
+<ul class="daily-colletion-list line">
+<li class="daily-colletion-item line daily-colletion-item-0">
+<a class="colletion-item-link" href="http://zhidao.baidu.com/daily/view?id=4536" target="_blank" log="page:home,pos:daily,area:img,index:0">
+<img src="http://img.iknow.bdimg.com/zhidaoribao2014/2015year/0603/s3.jpg" class="colletion-item-pic">
+</a>
+<span class="item-title-layout">
+<span class="colletion-item-title">
+<a class="text-value" href="http://zhidao.baidu.com/daily/view?id=4536" target="_blank" log="page:home,pos:daily,area:title,index:0">为何不用左脚来控制刹车？</a>
+</span>
+</span>
+</li>
+<li class="daily-colletion-item line daily-colletion-item-1">
+<a class="colletion-item-link" href="http://zhidao.baidu.com/daily/view?id=4534" target="_blank" log="page:home,pos:daily,area:img,index:1">
+<img src="http://img.iknow.bdimg.com/zhidaoribao2014/2015year/0603/s2.jpg" class="colletion-item-pic">
+</a>
+<span class="item-title-layout">
+<span class="colletion-item-title">
+<a class="text-value" href="http://zhidao.baidu.com/daily/view?id=4534" target="_blank" log="page:home,pos:daily,area:title,index:1">铁锅炒菜会帮人补铁吗？</a>
+</span>
+</span>
+</li>
+<li class="daily-colletion-item line daily-colletion-item-2">
+<a class="colletion-item-link" href="http://zhidao.baidu.com/daily/view?id=4539" target="_blank" log="page:home,pos:daily,area:img,index:2">
+<img src="http://img.iknow.bdimg.com/zhidaoribao2014/2015year/0603/s1.jpg" class="colletion-item-pic">
+</a>
+<span class="item-title-layout">
+<span class="colletion-item-title">
+<a class="text-value" href="http://zhidao.baidu.com/daily/view?id=4539" target="_blank" log="page:home,pos:daily,area:title,index:2">掉进黑洞会发生什么？你死了但同时还活着</a>
+</span>
+</span>
+</li>
+</ul>
+<a class="more-daily" href="http://zhidao.baidu.com/daily" target="_blank" title="进入日报首页" log="page:home,pos:more-daily">
+</a>
+</div>
+<div class="slogan-widget">
+<div class="slogan-wp">
+<h2 class="slogan-title">
+<span class="title-content">百度知道</span>
+<a href="http://help.baidu.com/question?prod_en=zhidao&class=%C8%EB%C3%C5&id=1000774#知道协议" class="iknow-need-know" target="_blank" title="知道须知"></a>
+</h2>
+<div class="slogan-devide-line">
+</div>
+<div class="slogan-content">
+<div class="not-login-slogan">
+<div class="middle-content line">
+<p class="slogan-text">
+总有一个人知道<br>你问题的答案</p>
+<div class="not-login-slogan-bg">
+</div>
+</div>
+<div class="finish-count">
+<p class="finish-count-text">解决</p>
+<div class="finish-count-num line">
+<div class="count-num-item">
+<span class="num-item-scroll">0</span><span class="num-item-scroll">1</span><span class="num-item-scroll">2</span><span class="num-item-scroll">3</span><span class="num-item-scroll">4</span><span class="num-item-scroll">5</span><span class="num-item-scroll">6</span><span class="num-item-scroll">7</span><span class="num-item-scroll">8</span><span class="num-item-scroll">9</span><span class="num-item-scroll">0</span><span class="num-item-scroll">1</span><span class="num-item-scroll">2</span><span class="num-item-scroll">3</span><span class="num-item-scroll">4</span><span class="num-item-scroll">5</span><span class="num-item-scroll">6</span><span class="num-item-scroll">7</span><span class="num-item-scroll">8</span><span class="num-item-scroll">9</span>
+</div>
+<div class="count-num-item">
+<span class="num-item-scroll">0</span><span class="num-item-scroll">1</span><span class="num-item-scroll">2</span><span class="num-item-scroll">3</span><span class="num-item-scroll">4</span><span class="num-item-scroll">5</span><span class="num-item-scroll">6</span><span class="num-item-scroll">7</span><span class="num-item-scroll">8</span><span class="num-item-scroll">9</span><span class="num-item-scroll">0</span><span class="num-item-scroll">1</span><span class="num-item-scroll">2</span><span class="num-item-scroll">3</span><span class="num-item-scroll">4</span><span class="num-item-scroll">5</span><span class="num-item-scroll">6</span><span class="num-item-scroll">7</span><span class="num-item-scroll">8</span><span class="num-item-scroll">9</span>
+</div>
+<div class="count-num-item">
+<span class="num-item-scroll">0</span><span class="num-item-scroll">1</span><span class="num-item-scroll">2</span><span class="num-item-scroll">3</span><span class="num-item-scroll">4</span><span class="num-item-scroll">5</span><span class="num-item-scroll">6</span><span class="num-item-scroll">7</span><span class="num-item-scroll">8</span><span class="num-item-scroll">9</span><span class="num-item-scroll">0</span><span class="num-item-scroll">1</span><span class="num-item-scroll">2</span><span class="num-item-scroll">3</span><span class="num-item-scroll">4</span><span class="num-item-scroll">5</span><span class="num-item-scroll">6</span><span class="num-item-scroll">7</span><span class="num-item-scroll">8</span><span class="num-item-scroll">9</span>
+</div>
+<div class="count-num-comma">
+,</div>
+<div class="count-num-item">
+<span class="num-item-scroll">0</span><span class="num-item-scroll">1</span><span class="num-item-scroll">2</span><span class="num-item-scroll">3</span><span class="num-item-scroll">4</span><span class="num-item-scroll">5</span><span class="num-item-scroll">6</span><span class="num-item-scroll">7</span><span class="num-item-scroll">8</span><span class="num-item-scroll">9</span><span class="num-item-scroll">0</span><span class="num-item-scroll">1</span><span class="num-item-scroll">2</span><span class="num-item-scroll">3</span><span class="num-item-scroll">4</span><span class="num-item-scroll">5</span><span class="num-item-scroll">6</span><span class="num-item-scroll">7</span><span class="num-item-scroll">8</span><span class="num-item-scroll">9</span>
+</div>
+<div class="count-num-item">
+<span class="num-item-scroll">0</span><span class="num-item-scroll">1</span><span class="num-item-scroll">2</span><span class="num-item-scroll">3</span><span class="num-item-scroll">4</span><span class="num-item-scroll">5</span><span class="num-item-scroll">6</span><span class="num-item-scroll">7</span><span class="num-item-scroll">8</span><span class="num-item-scroll">9</span><span class="num-item-scroll">0</span><span class="num-item-scroll">1</span><span class="num-item-scroll">2</span><span class="num-item-scroll">3</span><span class="num-item-scroll">4</span><span class="num-item-scroll">5</span><span class="num-item-scroll">6</span><span class="num-item-scroll">7</span><span class="num-item-scroll">8</span><span class="num-item-scroll">9</span>
+</div>
+<div class="count-num-item">
+<span class="num-item-scroll">0</span><span class="num-item-scroll">1</span><span class="num-item-scroll">2</span><span class="num-item-scroll">3</span><span class="num-item-scroll">4</span><span class="num-item-scroll">5</span><span class="num-item-scroll">6</span><span class="num-item-scroll">7</span><span class="num-item-scroll">8</span><span class="num-item-scroll">9</span><span class="num-item-scroll">0</span><span class="num-item-scroll">1</span><span class="num-item-scroll">2</span><span class="num-item-scroll">3</span><span class="num-item-scroll">4</span><span class="num-item-scroll">5</span><span class="num-item-scroll">6</span><span class="num-item-scroll">7</span><span class="num-item-scroll">8</span><span class="num-item-scroll">9</span>
+</div>
+<div class="count-num-comma">
+,</div>
+<div class="count-num-item">
+<span class="num-item-scroll">0</span><span class="num-item-scroll">1</span><span class="num-item-scroll">2</span><span class="num-item-scroll">3</span><span class="num-item-scroll">4</span><span class="num-item-scroll">5</span><span class="num-item-scroll">6</span><span class="num-item-scroll">7</span><span class="num-item-scroll">8</span><span class="num-item-scroll">9</span><span class="num-item-scroll">0</span><span class="num-item-scroll">1</span><span class="num-item-scroll">2</span><span class="num-item-scroll">3</span><span class="num-item-scroll">4</span><span class="num-item-scroll">5</span><span class="num-item-scroll">6</span><span class="num-item-scroll">7</span><span class="num-item-scroll">8</span><span class="num-item-scroll">9</span>
+</div>
+<div class="count-num-item">
+<span class="num-item-scroll">0</span><span class="num-item-scroll">1</span><span class="num-item-scroll">2</span><span class="num-item-scroll">3</span><span class="num-item-scroll">4</span><span class="num-item-scroll">5</span><span class="num-item-scroll">6</span><span class="num-item-scroll">7</span><span class="num-item-scroll">8</span><span class="num-item-scroll">9</span><span class="num-item-scroll">0</span><span class="num-item-scroll">1</span><span class="num-item-scroll">2</span><span class="num-item-scroll">3</span><span class="num-item-scroll">4</span><span class="num-item-scroll">5</span><span class="num-item-scroll">6</span><span class="num-item-scroll">7</span><span class="num-item-scroll">8</span><span class="num-item-scroll">9</span>
+</div>
+<div class="count-num-item">
+<span class="num-item-scroll">0</span><span class="num-item-scroll">1</span><span class="num-item-scroll">2</span><span class="num-item-scroll">3</span><span class="num-item-scroll">4</span><span class="num-item-scroll">5</span><span class="num-item-scroll">6</span><span class="num-item-scroll">7</span><span class="num-item-scroll">8</span><span class="num-item-scroll">9</span><span class="num-item-scroll">0</span><span class="num-item-scroll">1</span><span class="num-item-scroll">2</span><span class="num-item-scroll">3</span><span class="num-item-scroll">4</span><span class="num-item-scroll">5</span><span class="num-item-scroll">6</span><span class="num-item-scroll">7</span><span class="num-item-scroll">8</span><span class="num-item-scroll">9</span>
+</div>
+</div>
+<p class="finish-count-text">个问题</p>
+</div>
+<p class="iknow-need-know">
+<a href="http://help.baidu.com/question?prod_en=zhidao&class=%C8%EB%C3%C5&id=1000774#知道协议" target="_blank" class="iknow-need-know-link">
+知道须知</a>
+</p>
+<div class="answer-question-section line">
+<a href="/new" target="_blank" class="not-login-button-item question-button">
+<span class="item-logo question-button-logo"></span>
+<span class="item-title">我要提问</span>
+</a>
+<a href="/browse" target="_blank" class="not-login-button-item answer-button">
+<span class="item-logo answer-button-logo"></span>
+<span class="item-title">我来回答</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<style type="text/css">
+	.banner-left-mask {
+		background: -moz-linear-gradient(left,  rgba(60,89,41,1) 0%, rgba(60,89,41,0) 100%); /* FF3.6+ */
+		background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(60,89,41,1)), color-stop(100%,rgba(60,89,41,0))); /* Chrome,Safari4+ */
+		background: -webkit-linear-gradient(left,  rgba(60,89,41,1) 0%,rgba(60,89,41,0) 100%); /* Chrome10+,Safari5.1+ */
+		background: -o-linear-gradient(left,  rgba(60,89,41,1) 0%,rgba(60,89,41,0) 100%); /* Opera 11.10+ */
+		background: -ms-linear-gradient(left,  rgba(60,89,41,1) 0%,rgba(60,89,41,0) 100%); /* IE10+ */
+		background: linear-gradient(to right,  rgba(60,89,41,1) 0%,rgba(60,89,41,0) 100%); /* W3C */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3c5929', endColorstr='#003c5929',GradientType=1 ); /* IE6-9 */
+	}
+	.banner-right-mask {
+		background: -moz-linear-gradient(left,  rgba(60,89,41,0) 0%, rgba(60,89,41,1) 100%); /* FF3.6+ */
+		background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(60,89,41,0)), color-stop(100%,rgba(60,89,41,1))); /* Chrome,Safari4+ */
+		background: -webkit-linear-gradient(left,  rgba(60,89,41,0) 0%,rgba(60,89,41,1) 100%); /* Chrome10+,Safari5.1+ */
+		background: -o-linear-gradient(left,  rgba(60,89,41,0) 0%,rgba(60,89,41,1) 100%); /* Opera 11.10+ */
+		background: -ms-linear-gradient(left,  rgba(60,89,41,0) 0%,rgba(60,89,41,1) 100%); /* IE10+ */
+		background: linear-gradient(to right,  rgba(60,89,41,0) 0%,rgba(60,89,41,1) 100%); /* W3C */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#003c5929', endColorstr='#3c5929',GradientType=1 ); /* IE6-9 */
+	}
+</style>
+<div class="three-parts-layout-wp">
+<div class="three-parts-layout line container">
+<div class="wendaji-container">
+<div class="wendaji">
+<h3 class="three-parts-layout-title">
+真相问答机<span class="home-split"></span>
+<a href="http://zhidao.baidu.com/liuyan" class="title-more-link" target="_blank" log="page:home,pos:wendaji,area:more">更多</a>
+</h3>
+<div class="three-parts-layout-content wendaji-content line">
+<a class="wendaji-img-wp" href="http://zhidao.baidu.com/liuyan/detail?id=5860" target="_blank" log="page:home,pos:wendaji,area:img">
+<img class="wendaji-img" src="http://img.iknow.bdimg.com/2015zx/sc/20150603shouye.jpg">
+</a>
+<div class="wendaji-item-content">
+<a class="wendaji-item-title" href="http://zhidao.baidu.com/liuyan/detail?id=5860" target="_blank" log="page:home,pos:wendaji,area:title">
+口香糖可以代替刷牙清洁口腔
+</a>
+<p class="wendaji-item-body">
+不少人对口香糖很依赖，觉得既能清洁口腔，又方便快捷。用口香糖代替刷牙来清洁口腔，真的可行吗？
+</p>
+<p class="wendaji-action line">
+<a class="wendaji-action-item wendaji-true" data-type="trueCount" href="/liuyan/detail?id=5860" target="_blank">
+真</a>
+<a class="wendaji-action-item wendaji-false" data-type="falseCount" href="/liuyan/detail?id=5860" target="_blank">
+假</a>
+<a class="wendaji-action-item wendaji-unknow" data-type="notSureCount" href="/liuyan/detail?id=5860" target="_blank">
+求真相</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="dashuju-container">
+<div class="dashuju">
+<h3 class="three-parts-layout-title">
+知道大数据
+</h3>
+<div class="three-parts-layout-content dashuju-content">
+<a href="http://zhidao.baidu.com/s/bigdata/" class="dashuju-link" log="page:home,pos:dashuju,area:content" target="_blank">
+<img class="dashuju-img" src="http://img.iknow.bdimg.com/geye/ertongjieda1.png">
+<span class="dashuju-title">
+儿童节：零零后的“新式”童年
+</span>
+</a>
+</div>
+</div></div>
+<div class="announcement-container">
+<div class="announcement">
+<h3 class="three-parts-layout-title">公告</h3>
+<div class="three-parts-layout-content announcement-content line">
+<ul class="announcement-list">
+<li class="announcement-list-item">
+<i class="announcement-disc"></i>
+<a target="_blank" class="announcement-link"  href="http://yuedu.baidu.com/partner/browse/profile?id=0b0a8f77168884868762d627">免费领取《知道日报》主题专刊</a>
+</li>
+<li class="announcement-list-item">
+<i class="announcement-disc"></i>
+<a target="_blank" class="announcement-link"  href="http://tieba.baidu.com/p/3407259471">百度知道APP5.0更新上线！</a>
+</li>
+<li class="announcement-list-item">
+<i class="announcement-disc"></i>
+<a target="_blank" class="announcement-link"  href="http://zhidao.baidu.com/s/book/index.html">百度知道出书啦！火爆售卖</a>
+</li>
+<li class="announcement-list-item">
+<i class="announcement-disc"></i>
+<a target="_blank" class="announcement-link"  href="http://zhidao.baidu.com/baobao">宝宝知道App上线啦！</a>
+</li>
+<li class="announcement-list-item">
+<i class="announcement-disc"></i>
+<a target="_blank" class="announcement-link"  href="http://www.baidu.com/search/zhidao_help.html">帮助手册：如何使用知道</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div><div class="push-and-product-wp">
+<div class="push-and-product line container">
+<div class="push-question-container">
+<div class="unlogin-push">
+<div class="push-title-container line">
+<h3 class="push-title">大家都在问</h3>
+<p class="using-user-count">
+<span class="user-count-num">85056</span>名用户正在答题</p>
+<a href="http://zhidao.baidu.com/browse/" class="more-question-link" target="_blank">更多</a>
+</div>
+<div class="unlogin-push-content">
+<ul class="unlogin-push-qustion-list">
+<li class="qustion-item line">
+<p class="create-time">
+1 分钟前
+</p>
+<div class="time-line-bg"></div>
+<div class="question-body line">
+<div class="question-body-content">
+<a class="question-link" title="我一个大学女同学和我说她父母不同意她和她男朋友，私下里已经给她订了，她很难过，找我倾诉，我怎么帮她" href="/question/1756072627269132428.html?push=asking&entry=qb_home_new" target="_blank">
+我一个大学女同学和我说她父母不同意她和她男朋友，...
+</a>
+<a href="http://zhidao.baidu.com/s/2011wapadv/index.html?fr=index&tab=1" class="i-from-wap" title="来自手机知道"></a>
+<span class="question-replyers-count question-no-replyers">
+2个网友参与了回答</span>
+</div>
+<div class="bottom-line">
+</div>
+</div>
+</li>
+<li class="qustion-item line">
+<p class="create-time">
+1 分钟前
+</p>
+<div class="time-line-bg"></div>
+<div class="question-body line">
+<div class="question-body-content">
+<span class="i-wealth question-score">5</span>
+<a class="question-link" title="为什么我总是长不高，为什么我总是瘦不了！！！！！！！！" href="/question/1606136972360921227.html?push=asking&entry=qb_home_new" target="_blank">
+为什么我总是长不高，为什么我总是瘦不了！！！！！...
+</a>
+<a href="http://zhidao.baidu.com/s/2011wapadv/index.html?fr=index&tab=1" class="i-from-wap" title="来自手机知道"></a>
+<span class="question-replyers-count question-no-replyers">
+2个网友参与了回答</span>
+</div>
+<div class="bottom-line">
+</div>
+</div>
+</li>
+<li class="qustion-item line">
+<p class="create-time">
+2 分钟前
+</p>
+<div class="time-line-bg"></div>
+<div class="question-body line">
+<div class="question-body-content">
+<a class="question-link"  href="/question/200908683174426645.html?push=asking&entry=qb_home_new" target="_blank">
+魅蓝note怎样获取root权限
+</a>
+<span class="question-replyers-count question-no-replyers">
+2个网友参与了回答</span>
+</div>
+<div class="bottom-line">
+</div>
+</div>
+</li>
+<li class="qustion-item line">
+<p class="create-time">
+2 分钟前
+</p>
+<div class="time-line-bg"></div>
+<div class="question-body line">
+<div class="question-body-content">
+<a class="question-link"  href="/question/426398146169680332.html?push=asking&entry=qb_home_new" target="_blank">
+做什么运动可以长个
+</a>
+<a href="http://zhidao.baidu.com/s/2011wapadv/index.html?fr=index&tab=1" class="i-from-wap" title="来自手机知道"></a>
+<span class="question-replyers-count question-no-replyers">
+1个网友参与了回答</span>
+</div>
+<div class="bottom-line">
+</div>
+</div>
+</li>
+<li class="qustion-item line">
+<p class="create-time">
+2 分钟前
+</p>
+<div class="time-line-bg"></div>
+<div class="question-body line">
+<div class="question-body-content">
+<a class="question-link" title="复仇者联盟2的百度云哪位大神给一个吧，谢谢啊" href="/question/200908683045259285.html?push=asking&entry=qb_home_new" target="_blank">
+复仇者联盟2的百度云哪位大神给一个吧，谢谢啊
+</a>
+<a href="http://zhidao.baidu.com/s/2011wapadv/index.html?fr=index&tab=1" class="i-from-wap" title="来自手机知道"></a>
+<span class="question-replyers-count question-no-replyers">
+2个网友参与了回答</span>
+</div>
+<div class="bottom-line">
+</div>
+</div>
+</li>
+<li class="qustion-item line">
+<p class="create-time">
+2 分钟前
+</p>
+<div class="time-line-bg"></div>
+<div class="question-body line">
+<div class="question-body-content">
+<a class="question-link" title="一辆道路摩托跑车雅马哈价格是多少？" href="/question/426398145975755212.html?push=asking&entry=qb_home_new" target="_blank">
+一辆道路摩托跑车雅马哈价格是多少？
+</a>
+<a href="http://zhidao.baidu.com/s/2011wapadv/index.html?fr=index&tab=1" class="i-from-wap" title="来自手机知道"></a>
+<span class="question-replyers-count question-no-replyers">
+2个网友参与了回答</span>
+</div>
+<div class="bottom-line">
+</div>
+</div>
+</li>
+<li class="qustion-item line">
+<p class="create-time">
+2 分钟前
+</p>
+<div class="time-line-bg"></div>
+<div class="question-body line">
+<div class="question-body-content">
+<a class="question-link"  href="/question/426334722552327972.html?push=asking&entry=qb_home_new" target="_blank">
+电脑怎样设置开机密码
+</a>
+<a href="http://zhidao.baidu.com/s/2011wapadv/index.html?fr=index&tab=1" class="i-from-wap" title="来自手机知道"></a>
+<span class="question-replyers-count question-no-replyers">
+2个网友参与了回答</span>
+</div>
+<div class="bottom-line">
+</div>
+</div>
+</li>
+<li class="qustion-item line">
+<p class="create-time">
+3 分钟前
+</p>
+<div class="time-line-bg"></div>
+<div class="question-body line">
+<div class="question-body-content">
+<a class="question-link"  href="/question/241833474409682604.html?push=asking&entry=qb_home_new" target="_blank">
+现货投资好做吗？
+</a>
+<a href="http://zhidao.baidu.com/s/2011wapadv/index.html?fr=index&tab=1" class="i-from-wap" title="来自手机知道"></a>
+<span class="question-replyers-count question-no-replyers">
+1个网友参与了回答</span>
+</div>
+<div class="bottom-line">
+</div>
+</div>
+</li>
+<li class="qustion-item line">
+<p class="create-time">
+3 分钟前
+</p>
+<div class="time-line-bg"></div>
+<div class="question-body line">
+<div class="question-body-content">
+<a class="question-link" title="北方人吃饭一般吃什么？包子？" href="/question/200845259426125445.html?push=asking&entry=qb_home_new" target="_blank">
+北方人吃饭一般吃什么？包子？
+</a>
+<a href="http://zhidao.baidu.com/s/2011wapadv/index.html?fr=index&tab=1" class="i-from-wap" title="来自手机知道"></a>
+<span class="question-replyers-count question-no-replyers">
+2个网友参与了回答</span>
+</div>
+<div class="bottom-line">
+</div>
+</div>
+</li>
+<li class="qustion-item line">
+<p class="create-time">
+3 分钟前
+</p>
+<div class="time-line-bg"></div>
+<div class="question-body line">
+<div class="question-body-content">
+<span class="i-wealth question-score">50</span>
+<a class="question-link" title="我要去跳楼了，这该死的英语对我来说实在是太太太太太太太太太∞难了，怎么学都学不会，一篇课文里的90" href="/question/984292655301847539.html?push=asking&entry=qb_home_new" target="_blank">
+我要去跳楼了，这该死的英语对我来说实在是太太太太...
+</a>
+<a href="http://zhidao.baidu.com/s/2011wapadv/index.html?fr=index&tab=1" class="i-from-wap" title="来自手机知道"></a>
+<span class="question-replyers-count question-no-replyers">
+2个网友参与了回答</span>
+</div>
+<div class="bottom-line">
+</div>
+</div>
+</li>
+<li class="qustion-item line">
+<p class="create-time">
+3 分钟前
+</p>
+<div class="time-line-bg"></div>
+<div class="question-body line">
+<div class="question-body-content">
+<span class="i-wealth question-score">5</span>
+<a class="question-link" title="部门经理最近一个劲儿向办公室里一个跟我有竞争关系的同事请教这请教那，看起来很重视那个同事，而对我很" href="/question/241833474214631244.html?push=asking&entry=qb_home_new" target="_blank">
+部门经理最近一个劲儿向办公室里一个跟我有竞争关系...
+</a>
+<a href="http://zhidao.baidu.com/s/2011wapadv/index.html?fr=index&tab=1" class="i-from-wap" title="来自手机知道"></a>
+<span class="question-replyers-count question-no-replyers">
+2个网友参与了回答</span>
+</div>
+<div class="bottom-line">
+</div>
+</div>
+</li>
+<li class="qustion-item line">
+<p class="create-time">
+3 分钟前
+</p>
+<div class="time-line-bg"></div>
+<div class="question-body line">
+<div class="question-body-content">
+<span class="i-wealth question-score">10</span>
+<a class="question-link" title="我这人总是不愿意登陆任何账号 也绝对不愿意申请 手机 电脑使用任何记录每次必须消除得干净" href="/question/1606073548224954307.html?push=asking&entry=qb_home_new" target="_blank">
+我这人总是不愿意登陆任何账号 也绝对不愿意申请 手...
+</a>
+<a href="http://zhidao.baidu.com/s/2011wapadv/index.html?fr=index&tab=1" class="i-from-wap" title="来自手机知道"></a>
+<span class="question-replyers-count question-no-replyers">
+2个网友参与了回答</span>
+</div>
+<div class="bottom-line">
+</div>
+</div>
+</li>
+<li class="qustion-item line">
+<p class="create-time">
+3 分钟前
+</p>
+<div class="time-line-bg"></div>
+<div class="question-body line">
+<div class="question-body-content">
+<a class="question-link" title="现在的流动奶茶店要是想加盟，可选择什么品牌？" href="/question/1756009202875015228.html?push=asking&entry=qb_home_new" target="_blank">
+现在的流动奶茶店要是想加盟，可选择什么品牌？
+</a>
+<a href="http://zhidao.baidu.com/s/2011wapadv/index.html?fr=index&tab=1" class="i-from-wap" title="来自手机知道"></a>
+<span class="question-replyers-count question-no-replyers">
+1个网友参与了回答</span>
+</div>
+<div class="bottom-line">
+</div>
+</div>
+</li>
+<li class="qustion-item line">
+<p class="create-time">
+4 分钟前
+</p>
+<div class="time-line-bg"></div>
+<div class="question-body line">
+<div class="question-body-content">
+<a class="question-link" title="把wifi装在房间里 会有辐射吗？就这两天把wifi装在房里 我们三兄妹都发烧头晕 怎" href="/question/1756009202873949748.html?push=asking&entry=qb_home_new" target="_blank">
+把wifi装在房间里 会有辐射吗？就这两天把wifi装在房...
+</a>
+<a href="http://zhidao.baidu.com/s/2011wapadv/index.html?fr=index&tab=1" class="i-from-wap" title="来自手机知道"></a>
+<span class="question-replyers-count question-no-replyers">
+2个网友参与了回答</span>
+</div>
+<div class="bottom-line">
+</div>
+</div>
+</li>
+<li class="qustion-item line">
+<p class="create-time">
+4 分钟前
+</p>
+<div class="time-line-bg"></div>
+<div class="question-body line">
+<div class="question-body-content">
+<a class="question-link" title="现货投资有没有一起的，求带" href="/question/984292655108270499.html?push=asking&entry=qb_home_new" target="_blank">
+现货投资有没有一起的，求带
+</a>
+<a href="http://zhidao.baidu.com/s/2011wapadv/index.html?fr=index&tab=1" class="i-from-wap" title="来自手机知道"></a>
+<span class="question-replyers-count question-no-replyers">
+2个网友参与了回答</span>
+</div>
+<div class="bottom-line">
+</div>
+</div>
+</li>
+<li class="qustion-item line">
+<p class="create-time">
+4 分钟前
+</p>
+<div class="time-line-bg"></div>
+<div class="question-body line">
+<div class="question-body-content">
+<span class="i-wealth question-score">30</span>
+<a class="question-link" title="特岗教师考试报名，比如我是学物理专业的，可不可以申请教生物呢？" href="/question/200845259039197725.html?push=asking&entry=qb_home_new" target="_blank">
+特岗教师考试报名，比如我是学物理专业的，可不可以...
+</a>
+<a href="http://zhidao.baidu.com/s/2011wapadv/index.html?fr=index&tab=1" class="i-from-wap" title="来自手机知道"></a>
+<span class="question-replyers-count question-no-replyers">
+2个网友参与了回答</span>
+</div>
+<div class="bottom-line">
+</div>
+</div>
+</li>
+<li class="qustion-item line">
+<p class="create-time">
+4 分钟前
+</p>
+<div class="time-line-bg"></div>
+<div class="question-body line">
+<div class="question-body-content">
+<span class="i-wealth question-score">20</span>
+<a class="question-link" title="怎样才能把婴儿的粥煲的好吃一点？" href="/question/1606073548030292027.html?push=asking&entry=qb_home_new" target="_blank">
+怎样才能把婴儿的粥煲的好吃一点？
+</a>
+<a href="http://zhidao.baidu.com/s/2011wapadv/index.html?fr=index&tab=1" class="i-from-wap" title="来自手机知道"></a>
+<span class="question-replyers-count question-no-replyers">
+2个网友参与了回答</span>
+</div>
+<div class="bottom-line">
+</div>
+</div>
+</li>
+<li class="qustion-item line">
+<p class="create-time">
+4 分钟前
+</p>
+<div class="time-line-bg"></div>
+<div class="question-body line">
+<div class="question-body-content">
+<a class="question-link"  href="/question/426334721970409932.html?push=asking&entry=qb_home_new" target="_blank">
+淘宝女装可以报哪些活动
+</a>
+<span class="question-replyers-count question-no-replyers">
+2个网友参与了回答</span>
+</div>
+<div class="bottom-line">
+</div>
+</div>
+</li>
+<li class="qustion-item line">
+<p class="create-time">
+4 分钟前
+</p>
+<div class="time-line-bg"></div>
+<div class="question-body line">
+<div class="question-body-content">
+<a class="question-link" title="微软有那么多牛人，为什么 IE 却做得不够好" href="/question/1756009202680086508.html?push=asking&entry=qb_home_new" target="_blank">
+微软有那么多牛人，为什么 IE 却做得不够好
+</a>
+<span class="question-replyers-count question-no-replyers">
+2个网友参与了回答</span>
+</div>
+<div class="bottom-line">
+</div>
+</div>
+</li>
+</ul></div>
+</div>
+</div>
+<div class="product-container">
+<div class="product-show">
+<div class="wenyisheng-layout line">
+<div class="product-item line product-wenhisheng">
+<div class="right-info">
+</div>
+<div class="left-info">
+<p class="product-title">
+拇指医生</p>
+<p class="product-sub-title">
+好医生就在身边</p>
+<p class="product-btn-wp">
+<a href="http://muzhi.baidu.com/?from=new_home" class="product-btn" target="_blank">
+立即进入</a>
+</p>
+</div>
+</div>
+</div>
+<div class="product-layout line">
+<div class="product-collection-item">
+<div class="product-item line product-zuoyebang" data-href="http://zuoye.baidu.com?from=new_home">
+<div class="left-info">
+<p class="product-title">
+作业帮</p>
+<p class="product-sub-title">
+千万学生都在用</p>
+<p class="product-type">
+<span class="type-item apple">
+</span>
+<span class="product-divide-line"></span>
+<span class="type-item android">
+</span>
+</p>
+</div>
+<div class="right-info">
+<div class="product-icon"></div>
+<div class="product-icon-qr"></div>
+</div>
+</div>
+</div>
+<div class="product-collection-item">
+<div class="product-item line product-baobaozhidao" data-href="http://baobao.baidu.com?from=new_home">
+<div class="left-info">
+<p class="product-title">
+宝宝知道</p>
+<p class="product-sub-title">
+宝宝问题，妈妈知道</p>
+<p class="product-type">
+<span class="type-item apple">
+</span>
+<span class="product-divide-line"></span>
+<span class="type-item android">
+</span>
+</p>
+</div>
+<div class="right-info">
+<div class="product-icon"></div>
+<div class="product-icon-qr"></div>
+</div>
+</div>
+</div>
+<div class="product-collection-item">
+<div class="product-item line product-zhidaoapp" data-href="http://zhidao.baidu.com/zt/ikapp/?from=new_home">
+<div class="left-info">
+<p class="product-title">
+百度知道</p>
+<p class="product-sub-title">
+最大中文问答社区</p>
+<p class="product-type">
+<span class="type-item apple">
+</span>
+<span class="product-divide-line"></span>
+<span class="type-item android">
+</span>
+</p>
+</div>
+<div class="right-info">
+<div class="product-icon"></div>
+<div class="product-icon-qr"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="product-show-tab">
+<span class="show-tab-item show-tab-item-current" data-index="0"></span>
+<span class="show-tab-item" data-index="1"></span>
+<span class="show-tab-item" data-index="2"></span>
+</div>
+</div>
+</div>
+</div>
+</div><div class="wgt-zd-user" id="wgt-zd-user">
+<div class="container line">
+<div class="wgt-zhima grid">
+<h2>知道用户</h2>
+<div class="info line">
+<div class="card user" data-type='user'>
+<div class="zhima-star">
+</div>
+<div class="inner">
+<div class="up">
+<div class="n-section animate-text">
+<div class="innerBox animate-text">
+<p class="title">芝麻</p>
+<p class="desc">在百度知道中所有贡献知识的用户</p>
+</div>
+</div><a class="portrait animate" rel="nofollow" href="http://zhidao.baidu.com/s/star/index.html" target="_blank">
+<img class="animate user-avatar" src="http://himg.bdimg.com/sys/portrait/item/3a3de6b299e6bca0e4b99fe995bfe88d893911.jpg" />
+<div class="cover animate">
+<img class="animate" src="http://cdn.iknow.bdimg.com/static/home/widget/zd-user/zhima/img/up-large_935ea9f.png" />
+</div>
+</a>
+<a class="name" rel="nofollow" href="http://zhidao.baidu.com/s/star/index.html" target="_blank">沙漠也长草</a>
+<div class="h-section">
+<p class="help">Ta帮助的人<span class="">13,782,818</span></p>
+<p class="field">擅长<span>社会民生</span><span>军事</span><span>求职就业</span></p>
+</div>
+</div>
+<div class="bottom">
+<p class="info ">
+已有<span style="color:#ee5e0f;">7,399,111</span>个芝麻</p>
+<div class="people">
+<div class="innderBox line">
+<div class="portrait selected" data-uname="沙漠也长草" title="沙漠也长草" data-helpnum="13,782,818" data-keyword="社会民生,军事,求职就业" data-index="0">
+<img class="user-avatar-small" src="http://himg.bdimg.com/sys/portrait/item/3a3de6b299e6bca0e4b99fe995bfe88d893911.jpg" />
+<div class="cover"></div>
+</div>
+<div class="portrait" data-uname="宇宙外的三道题" title="宇宙外的三道题" data-helpnum="6,070,149" data-keyword="增高,健身,宗教" data-index="1">
+<img class="user-avatar-small" src="http://himg.bdimg.com/sys/portrait/item/24b8e5ae87e5ae99e5a496e79a84e4b889e98193e9a2987e44.jpg" />
+<div class="cover"></div>
+</div>
+<div class="portrait" data-uname="kook636" title="kook636" data-helpnum="29,738,786" data-keyword="化妆,护肤,MP4" data-index="2">
+<img class="user-avatar-small" src="http://himg.bdimg.com/sys/portrait/item/b5756b6f6f6b363336020a.jpg" />
+<div class="cover"></div>
+</div>
+<div class="portrait" data-uname="妙酒" title="妙酒" data-helpnum="655,882,975" data-keyword="数学,方程,教育" data-index="3">
+<img class="user-avatar-small" src="http://himg.bdimg.com/sys/portrait/item/1f43e5a699e985929d01.jpg" />
+<div class="cover"></div>
+</div>
+<div class="portrait" data-uname="晓寒秋枫" title="晓寒秋枫" data-helpnum="88,881,435" data-keyword="文化艺术,资源共享,小说" data-index="4">
+<img class="user-avatar-small" src="http://himg.bdimg.com/sys/portrait/item/6869e69993e5af92e7a78be69eab8409.jpg" />
+<div class="cover"></div>
+</div>
+<div class="portrait" data-uname="卢召843297658" title="卢召843297658" data-helpnum="525,088" data-keyword="百度,网络运营,电子商务" data-index="5">
+<img class="user-avatar-small" src="http://himg.bdimg.com/sys/portrait/item/36d3e58da2e58fac383433323937363538052a.jpg" />
+<div class="cover"></div>
+</div>
+</div>
+</div>
+<div class="button-layout">
+<a class="button" target="_blank" href="/browse">我要答题</a>
+</div>
+</div>
+</div>
+</div>
+<div class="card team" data-type='team'>
+<div class="inner">
+<div class="up">
+<div class="n-section animate-text">
+<div class="innerBox animate-text">
+<p class="title">芝麻团</p>
+<p class="desc">由有共同专长、共同兴趣的芝麻组成的团队</p>
+</div>
+</div>
+<a class="portrait animate" rel="nofollow" href="/uteam/view?teamId=72545" target="_blank" log="page:home,pos:zhimateam,area:portrait">
+<img class="animate user-avatar" src="http://a.hiphotos.baidu.com/zhidao/wh%3D450%2C600/sign=5e05fd6bbd389b5038aae856b005c9eb/472309f7905298221adadeb6d3ca7bcb0b46d4de.jpg" />
+<div class="cover animate">
+<img class="animate" src="http://cdn.iknow.bdimg.com/static/home/widget/zd-user/zhima/img/team_5f59640.png" />
+</div>
+</a>
+<a class="name" rel="nofollow" href="/uteam/view?teamId=72545" target="_blank" log="page:home,pos:zhimateam,area:name">影视易团</a>
+<div class="h-section">
+<p class="help">团队采纳数<span class="">902,976</span></p>
+<p class="field">擅长<span>电影</span><span>娱乐</span><span>影视</span></p>
+</div>
+</div>
+<div class="bottom">
+<p class="info ">
+已有<span style="color:#ee5e0f;">7,016</span>个芝麻团</p>
+<div class="people">
+<div class="innderBox line">
+<div class="portrait selected" data-uname="影视易团" title="影视易团" data-helpnum="902,976" data-keyword="电影,娱乐,影视" data-team-id="72545">
+<img class="user-avatar-small" src="http://a.hiphotos.baidu.com/zhidao/wh%3D450%2C600/sign=5e05fd6bbd389b5038aae856b005c9eb/472309f7905298221adadeb6d3ca7bcb0b46d4de.jpg" />
+<div class="cover"></div>
+</div>
+<div class="portrait" data-uname="星之浩可" title="星之浩可" data-helpnum="229,723" data-keyword="电影,音乐,动漫" data-team-id="73950">
+<img class="user-avatar-small" src="http://hiphotos.baidu.com/album/pic/item/d8f9d72a6059252d5d0ee09f349b033b5bb5b914.jpg" />
+<div class="cover"></div>
+</div>
+<div class="portrait" data-uname="马鸣风萧萧" title="马鸣风萧萧" data-helpnum="102,379" data-keyword="文学,历史,诗歌" data-team-id="53035">
+<img class="user-avatar-small" src="http://d.hiphotos.baidu.com/zhidao/wh%3D450%2C600/sign=f9723b538fd4b31cf0699cbfb2e60b49/c9fcc3cec3fdfc0321dac3a8d03f8794a4c2267b.jpg" />
+<div class="cover"></div>
+</div>
+<div class="portrait" data-uname="数学之美" title="数学之美" data-helpnum="777,479" data-keyword="数学,教育,语文" data-team-id="28973">
+<img class="user-avatar-small" src="http://hiphotos.baidu.com/wusongsha0926/pic/item/95679e368744ebf863991286d9f9d72a6159a7a8.jpg" />
+<div class="cover"></div>
+</div>
+<div class="portrait" data-uname="百度知道教育7" title="百度知道教育7" data-helpnum="13,695" data-keyword="数学,语文,教育" data-team-id="85599">
+<img class="user-avatar-small" src="http://f.hiphotos.baidu.com/zhidao/wh%3D450%2C600/sign=bbc0763c0b2442a7ae5bf5a1e473817d/ca1349540923dd5473dfebd7d509b3de9d8248e4.jpg" />
+<div class="cover"></div>
+</div>
+<div class="portrait" data-uname="AUDIT" title="AUDIT" data-helpnum="15,110" data-keyword="教育,中考,高考" data-team-id="82083">
+<img class="user-avatar-small" src="http://a.hiphotos.baidu.com/album/abpic/item/95eef01f3a292df5f940e4dabd315c6035a87379.jpg" />
+<div class="cover"></div>
+</div>
+</div>
+</div>
+<div class="button-layout">
+<a class="button" target="_blank" href="/uteam/class" log="page:home,pos:zhimateam,area:button">加入团队</a>
+</div>
+</div>
+</div>
+</div>
+<div class="card admin" data-type='admin'>
+<div class="inner">
+<div class="up">
+<div class="n-section animate-text">
+<div class="innerBox animate-text">
+<p class="title">芝麻将</p>
+<p class="desc">由热心用户组成，官方直接领导的平台管理团队</p>
+</div>
+</div>
+<a class="portrait animate" rel="nofollow" href="http://www.baidu.com/p/aerin0530?from=zhidao" target="_blank">
+<img class="animate user-avatar" src="http://himg.bdimg.com/sys/portrait/item/2535616572696e303533303d16.jpg" />
+<div class="cover animate">
+<img class="animate" src="http://cdn.iknow.bdimg.com/static/home/widget/zd-user/zhima/img/uadmin_6c4bd97.png" />
+</div>
+</a>
+<a class="name" rel="nofollow" href="http://www.baidu.com/p/aerin0530?from=zhidao" target="_blank">aerin0530</a>
+<div class="h-section">
+<p class="help">推荐答案数<span class="">7,040</span></p>
+<p class="field">擅长<span>体育运动</span><span>足球</span><span>乒乓球</span></p>
+</div>
+</div>
+<div class="bottom">
+<p class="info ">
+已有<span style="color:#ee5e0f;">3,868</span>个芝麻将</p>
+<div class="people">
+<div class="innderBox line">
+<div class="portrait selected" data-uname="aerin0530" title="aerin0530" data-helpnum="7,040" data-keyword="体育运动,足球,乒乓球">
+<img class="user-avatar-small" src="http://himg.bdimg.com/sys/portrait/item/2535616572696e303533303d16.jpg" />
+<div class="cover"></div>
+</div>
+<div class="portrait" data-uname="m_zeq" title="m_zeq" data-helpnum="26,229" data-keyword="办公,互联网,地理">
+<img class="user-avatar-small" src="http://himg.bdimg.com/sys/portrait/item/fae26d5f7a6571a501.jpg" />
+<div class="cover"></div>
+</div>
+<div class="portrait" data-uname="喜阳阳1208" title="喜阳阳1208" data-helpnum="13,899" data-keyword="企业管理,求职就业,电子商务">
+<img class="user-avatar-small" src="http://himg.bdimg.com/sys/portrait/item/08f0cfb2d1f4d1f4313230388838.jpg" />
+<div class="cover"></div>
+</div>
+<div class="portrait" data-uname="乐观罗江山" title="乐观罗江山" data-helpnum="5,589" data-keyword="公务办理,招聘,求职就业">
+<img class="user-avatar-small" src="http://himg.bdimg.com/sys/portrait/item/a4bcc0d6b9dbc2debdadc9bdd24a.jpg" />
+<div class="cover"></div>
+</div>
+<div class="portrait" data-uname="索罗剑客" title="索罗剑客" data-helpnum="5,439" data-keyword="求职就业,招聘,职业教育">
+<img class="user-avatar-small" src="http://himg.bdimg.com/sys/portrait/item/b001cbf7c2debda3bfcdcb4d.jpg" />
+<div class="cover"></div>
+</div>
+<div class="portrait" data-uname="红豆爱阿翁" title="红豆爱阿翁" data-helpnum="2,747" data-keyword="资源共享,青春期,数码">
+<img class="user-avatar-small" src="http://himg.bdimg.com/sys/portrait/item/c8dfbaecb6b9b0aeb0a2ceccf903.jpg" />
+<div class="cover"></div>
+</div>
+</div>
+</div>
+<div class="button-layout">
+<a class="button" target="_blank" href="http://zhidao.baidu.com/uadmin/apply" log="page:home,pos:zhimaadmin,area:button">申请芝麻将</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="grid-r">
+<div class="wgt-promotions" id="wgt-promotions">
+<div class="promotions-block" id="imgs-block">
+</div>
+<div id="site-navigator-back">
+</div>
+<div id="site-navigator">
+</div>
+</div>
+<div class="wgt-rank">
+<div class="head line">
+<div class="tab grid-r">
+<a rel="nofollow" href="http://zhidao.baidu.com/misc/alltop?type=week" class="select" target="_blank">周采纳数</a>
+<span class="split">|</span>
+<a rel="nofollow" href="http://zhidao.baidu.com/misc/alltop?type=all" class="not-selected-total" target="_blank">总积分</a>
+</div>
+排行榜</div>
+<div class="tabCnt">
+<div class="rank-block week">
+<dl>
+<dt class="rank rank0 line">
+<div class="grid-r">
+<span class="ansNum ">2279</span>
+<span class="trend-box"><span class="trend up"></span></span>
+</div>
+<span class="sort ">1</span>
+<a rel="nofollow" href="http://www.baidu.com/p/%E5%86%B0%E9%9B%AA%E9%98%B3%E5%85%89%E4%B9%85%E4%B9%85?from=zhidao" target="_blank">冰雪阳光久久</a>
+</dt>
+<dt class="rank rank1 line">
+<div class="grid-r">
+<span class="ansNum ">2034</span>
+<span class="trend-box"><span class="trend new"></span></span>
+</div>
+<span class="sort ">2</span>
+<a rel="nofollow" href="http://www.baidu.com/p/%E5%87%8C%E6%9C%88%E9%9C%9C%E4%B8%B6?from=zhidao" target="_blank">凌月霜丶</a>
+</dt>
+<dt class="rank rank2 line">
+<div class="grid-r">
+<span class="ansNum ">1964</span>
+<span class="trend-box"><span class="trend new"></span></span>
+</div>
+<span class="sort ">3</span>
+<a rel="nofollow" href="http://www.baidu.com/p/%E5%B0%8F%E6%98%9F%E6%98%9F%E7%9A%84%E7%9A%84%E6%95%85%E4%BA%8B?from=zhidao" target="_blank">小星星的的故事</a>
+</dt>
+<dt class="rank rank3 line">
+<div class="grid-r">
+<span class="ansNum ">1944</span>
+<span class="trend-box"><span class="trend new"></span></span>
+</div>
+<span class="sort ">4</span>
+<a rel="nofollow" href="http://www.baidu.com/p/%E8%8A%8A%E8%8A%8A%E7%9A%84%E5%93%A6?from=zhidao" target="_blank">芊芊的哦</a>
+</dt>
+<dt class="rank rank4 line">
+<div class="grid-r">
+<span class="ansNum ">1921</span>
+<span class="trend-box"><span class="trend up"></span></span>
+</div>
+<span class="sort ">5</span>
+<a rel="nofollow" href="http://www.baidu.com/p/12345A%E5%B8%AE%E5%8A%A9?from=zhidao" target="_blank">12345A帮助</a>
+</dt>
+<dt class="rank rank5 line">
+<div class="grid-r">
+<span class="ansNum ">1890</span>
+<span class="trend-box"><span class="trend new"></span></span>
+</div>
+<span class="sort ">6</span>
+<a rel="nofollow" href="http://www.baidu.com/p/%E5%81%9A%E4%BA%BA%E8%A6%81%E8%A6%81%E5%8E%9A%E9%81%93?from=zhidao" target="_blank">做人要要厚道</a>
+</dt>
+<dt class="rank rank6 line">
+<div class="grid-r">
+<span class="ansNum ">1812</span>
+<span class="trend-box"><span class="trend up"></span></span>
+</div>
+<span class="sort ">7</span>
+<a rel="nofollow" href="http://www.baidu.com/p/wjwj5603?from=zhidao" target="_blank">wjwj5603</a>
+</dt>
+<dt class="rank rank7 line">
+<div class="grid-r">
+<span class="ansNum ">1676</span>
+<span class="trend-box"><span class="trend up"></span></span>
+</div>
+<span class="sort ">8</span>
+<a rel="nofollow" href="http://www.baidu.com/p/%E7%BB%8F%E6%9C%9F%E5%8D%AB%E5%A3%AB?from=zhidao" target="_blank">经期卫士</a>
+</dt>
+</dl>
+</div>
+<div class="rank-block total">
+<dl>
+<dt class="rank rank0 line">
+<div class="grid-r">
+<span class="ansNum ">14603497</span>
+<span class="trend-box"><span class="trend remain"></span></span>
+</div>
+<span class="sort ">1</span>
+<a rel="nofollow" href="http://www.baidu.com/p/12345A%E5%B8%AE%E5%8A%A9?from=zhidao" target="_blank">12345A帮助</a>
+</dt>
+<dt class="rank rank1 line">
+<div class="grid-r">
+<span class="ansNum ">8043817</span>
+<span class="trend-box"><span class="trend remain"></span></span>
+</div>
+<span class="sort ">2</span>
+<a rel="nofollow" href="http://www.baidu.com/p/%E6%88%91%E4%B8%8D%E6%98%AF%E4%BB%96%E8%88%85?from=zhidao" target="_blank">我不是他舅</a>
+</dt>
+<dt class="rank rank2 line">
+<div class="grid-r">
+<span class="ansNum ">6397209</span>
+<span class="trend-box"><span class="trend remain"></span></span>
+</div>
+<span class="sort ">3</span>
+<a rel="nofollow" href="http://www.baidu.com/p/%E5%A6%99%E9%85%92?from=zhidao" target="_blank">妙酒</a>
+</dt>
+<dt class="rank rank3 line">
+<div class="grid-r">
+<span class="ansNum ">6179936</span>
+<span class="trend-box"><span class="trend remain"></span></span>
+</div>
+<span class="sort ">4</span>
+<a rel="nofollow" href="http://www.baidu.com/p/zgq2093?from=zhidao" target="_blank">zgq2093</a>
+</dt>
+<dt class="rank rank4 line">
+<div class="grid-r">
+<span class="ansNum ">4602370</span>
+<span class="trend-box"><span class="trend remain"></span></span>
+</div>
+<span class="sort ">5</span>
+<a rel="nofollow" href="http://www.baidu.com/p/%E6%9C%80%E5%90%8E%E5%A4%A9%E4%BD%BF%E6%AF%81%E7%81%AD?from=zhidao" target="_blank">最后天使毁灭</a>
+</dt>
+<dt class="rank rank5 line">
+<div class="grid-r">
+<span class="ansNum ">4264610</span>
+<span class="trend-box"><span class="trend new"></span></span>
+</div>
+<span class="sort ">6</span>
+<a rel="nofollow" href="http://www.baidu.com/p/wjh301314?from=zhidao" target="_blank">wjh301314</a>
+</dt>
+<dt class="rank rank6 line">
+<div class="grid-r">
+<span class="ansNum ">3370768</span>
+<span class="trend-box"><span class="trend down"></span></span>
+</div>
+<span class="sort ">7</span>
+<a rel="nofollow" href="http://www.baidu.com/p/%E6%96%B0%E7%9F%B3%E5%AE%B6%E5%BA%84?from=zhidao" target="_blank">新石家庄</a>
+</dt>
+<dt class="rank rank7 line">
+<div class="grid-r">
+<span class="ansNum ">3244526</span>
+<span class="trend-box"><span class="trend down"></span></span>
+</div>
+<span class="sort ">8</span>
+<a rel="nofollow" href="http://www.baidu.com/p/Rok_Lancelot?from=zhidao" target="_blank">Rok_Lancelot</a>
+</dt>
+</dl>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><div class="wgt-pgc container line" id="wgt-pgc">
+<div class="wgt-mavin grid">
+<div class="head line">
+<div class="head-r grid-r">
+<span class="number" id="mavin-refresh">
+<i class="animate hide">&nbsp;&nbsp;&nbsp;</i>
+<i class="static">&nbsp;&nbsp;&nbsp;</i>
+换一换</span>
+<span class="home-split"></span>
+<a href="http://zhidao.baidu.com/hangjia" target="_blank">更多</a></div><span class="title">知道行家</span>
+<span class="number"><em>13</em>个领域</span>
+<span class="number"><em>8,582</em>个行家</span>
+</div>
+<div class="list">
+<script id="t:mavin-tpl" type="text/html">
+			<#for ( var i = 0; i < list.length; i++ ) {#>
+                <div class="mavin-item<#if(i == list.length-1){#> last<#}#>">
+                	<div class="ask">
+                		<a href="/question/<#=list[i].qid#>.html" target="_blank"><#=list[i].title#></a>
+                	</div>
+                	<a class="info" href="/hangjia/profile/<#=list[i].uname#>" target="_blank">
+                		<div class="info-inner">
+	                		<div class="portrait">
+	                			<img src="<#=list[i].picUrl#>" />
+	                			<div class="cover"></div>
+	                		</div>
+	                		<p class="name"><#=list[i].name#></p>
+		                	<p class="field">擅长领域：<#=list[i].field#></p>
+		                </div>
+                	</a>
+                </div>
+            <#}#>
+		</script>
+</div>
+</div>
+<div class="wgt-doctor grid-r">
+<div class="head line">
+<a class="grid-r" href="http://muzhi.baidu.com/?from=new_home_more" target="_blank">更多</a>
+<span class="title">拇指医生</span>
+<span class="number"><em>16683</em>个医生在线</span>
+</div>
+<div class="info line">
+<div class="famous grid">
+<h3><em></em>名医义诊</h3>
+<div class="user">
+<div class="portrait grid">
+<a href="http://muzhi.baidu.com/doctor/home/ff42efa90304ae8d9e2202fe" target="_blank">
+<img src="http://hiphotos.baidu.com/zhidao/pic/item/bd315c6034a85edffee6eeb34c540923dd547533.png" />
+<div class="cover"></div>
+</a>
+</div>
+<div class="cnt grid">
+<a class="name" href="http://muzhi.baidu.com/doctor/home/ff42efa90304ae8d9e2202fe" target="_blank">魏世辉</a>
+<p class="desc">神经眼科专家</p>
+</div>
+</div>
+<div class="question">
+<a href="http://muzhi.baidu.com/question/1496089379816294739.html" class="ask" target="_blank">黄斑变性引起眼底出血该怎么办？</a>
+<p class="answer">首先进行视功能、散瞳查眼底、黄斑OCT、眼底血管荧光造影检查，根据结果选择治疗方案，治疗选择包括抗VEGF玻...</p>
+</div>
+<a href="http://muzhi.baidu.com/doctor/activity/index?activity_id=10" class="go" target="_blank">打开专题<em></em></a>
+</div>
+<div class="grid split-box"></div>
+<div class="hot grid">
+<h3><em></em>热门名医</h3>
+<div class="user">
+<div class="portrait grid">
+<a href="http://muzhi.baidu.com/doctor/home/3ea5148909b56f52e61bbadb" target="_blank">
+<img src="http://hiphotos.baidu.com/zhidao/pic/item/c8ea15ce36d3d53944335f633987e950352ab000.jpg" />
+<div class="cover"></div>
+</a>
+</div>
+<div class="cnt grid">
+<a class="name" href="http://muzhi.baidu.com/doctor/home/3ea5148909b56f52e61bbadb" target="_blank">陈明宏</a>
+<p class="desc">内科<span>|</span>医师</p>
+<p class="hospital">福建医科大学附属协和医院</p>
+</div>
+</div>
+<dl class="line">
+<dt class="first">
+<label>1228</label>好评数</dt>
+<dt>
+<label>6941</label>回答数</dt>
+<dt>
+<label class="doctor-help-num">3863428</label>帮助人数</dt>
+</dl>
+<div class="other">
+<div class="item grid">
+<a class="name" href="http://muzhi.baidu.com/doctor/home/48a42057d17fc4ad24250491" target="_blank">杨华清</a>
+<p class="hospital">北京康复医院</p>
+</div>
+<div class="item grid">
+<a class="name" href="http://muzhi.baidu.com/doctor/home/046a7b3e929bf4ebc27fa9b2" target="_blank">曹依群</a>
+<p class="hospital">上海长海医院</p>
+</div>
+<div class="item grid">
+<a class="name" href="http://muzhi.baidu.com/doctor/home/ae97a64627b11ba8fd461dbb" target="_blank">刘飞鹏</a>
+<p class="hospital">南京市淳化医院</p>
+</div>
+<div class="item grid">
+<a class="name" href="http://muzhi.baidu.com/doctor/home/4853e1e52026334909f7269d" target="_blank">刘岩</a>
+<p class="hospital">军事医学科学院附属307医院</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="wgt-class container">
+<div class="class-box wgt-carousel-wrap">
+<script id="t:class-tpl" type="text/html">
+			<#for ( var i = 0; i < list.length; i++ ) {#>
+                <div class="class-item <#if( i == list.length-1 ){#> last<#}else{#> line-right<#}#>">
+                	<div class="title line">
+                		<a href="/browse/<#=list[i].id#>" target="_blank"><img src="<#=list[i].src#>" class="grid" /></a>
+                		<a class="txt-show" href="/browse/<#=list[i].id#>" target="_blank"><#=list[i].name#></a>
+                	</div>
+                	<div class="list line">
+	                	<#for( var x = 0; x < list[i].fields.length; x++ ){#>
+	                		<a href="/browse/<#=list[i].fields[x].id#>" target="_blank"><span><#=list[i].fields[x].name#></span></a>
+						<#}#>
+                	</div>
+                </div>
+            <#}#>
+		</script>
+</div>
+</div>
+<div class="wgt-ads container line" id="wgt-ads">
+<div id="union-home_bottom" class="wgt-union union-home_bottom line"></div>
+<div class="wgt-promotion">
+<a rel="nofollow" href="http://zhidao.baidu.com/liuyan" data-img="http://img.baidu.com/img/iknow/sula201505/zhenxiangwendaji280.png" target="_blank" log="page:home,pos:bottom_promotion">
+</a>
+</div>
+</div>
+
+	</div>
+
+
+		
+<div class="wgt-footer-new">
+    <div class="footer-wp">
+        <ul class="footer-list clearfix">
+            <li class="footer-list-item footer-list-guide">
+                <div class="footer-title"><span class="icon-guide"></span>新手帮助</div>
+                <ul class="footer-link clearfix">
+                    <li><a href="http://tieba.baidu.com/p/3615879106" target="_blank">如何答题</a></li>
+                    <li><a href="http://tieba.baidu.com/p/3615829242" target="_blank">获取采纳</a></li>
+                    <li><a href="http://tieba.baidu.com/p/3615827221" target="_blank">使用财富值</a></li>
+                </ul>
+            </li>  
+            <li class="footer-list-item footer-list-intro">
+                <div class="footer-title"><span class="icon-intro"></span>玩法介绍</div>
+                <ul class="footer-link clearfix">
+                    <li><a href="/shop" target="_blank">知道商城</a></li>
+                    <li><a href="/uteam" target="_blank">知道团队</a></li>
+                    <li><a href="/hangjia" target="_blank">行家认证</a></li>
+                </ul>
+            </li>  
+            <li class="footer-list-item footer-list-sug">
+                <div class="footer-title"><span class="icon-sug"></span>投诉建议</div>
+                <ul class="footer-link clearfix">
+                    <li><a href="http://tousu.baidu.com/zhidao" target="_blank">举报不良信息</a></li>
+                    <li><a href="/feedback" target="_blank">意见反馈</a></li>
+                    <li><a href="http://tousu.baidu.com/zhidao#3" target="_blank">投诉侵权信息</a></li>
+                </ul>
+            </li> 
+        </ul>
+    </div>
+    <div class="footer-new">
+        <p class="jt1128">
+         &copy;2015 Baidu&nbsp;&nbsp; <a rel="nofollow" href="http://www.baidu.com/duty/" target="_blank">使用百度前必读</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a rel="nofollow" href="http://help.baidu.com/question?prod_en=zhidao&class=597&id=1001104" target="_blank">知道协议</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a rel="nofollow" href="/opendev" target="_blank">百度知道开放平台</a>
+        </p>
+    </div>
+</div>
+
+
+	    
+        
+
+        
+                    
+    <div style="display:none">
+        <script type="text/javascript">
+            var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+            document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F6859ce5aaf00fb00387e6434e4fcc925' type='text/javascript'%3E%3C/script%3E"));
+        </script>
+    </div>
+
+	</body><script type="text/javascript" src="http://cdn.iknow.bdimg.com/static/common/lib/mod_96dd55b.js"></script><script type="text/javascript">require.resourceMap({"res":{"common:widget\/lib\/swfupload\/swfupload.js":{"url":"http:\/\/cdn.iknow.bdimg.com\/static\/common\/widget\/lib\/swfupload\/swfupload_b24a26d.js"}},"pkg":[]});</script><script type="text/javascript" src="http://cdn.iknow.bdimg.com/static/common/pkg/framework_af469f5.js"></script><script type="text/javascript" src="http://cdn.iknow.bdimg.com/static/common/pkg/more_0e338e4.js"></script><script type="text/javascript" src="http://cdn.iknow.bdimg.com/static/common/pkg/module_15eacdc.js"></script><script type="text/javascript" src="http://cdn.iknow.bdimg.com/static/common/widget/js/logic/set-tag-dialog/sortable_8294514.js"></script><script type="text/javascript" src="http://cdn.iknow.bdimg.com/static/common/widget/js/logic/set-tag-dialog/set-tag-dialog_fa6f10c.js"></script><script type="text/javascript" src="http://cdn.iknow.bdimg.com/static/common/widget/lib/jquery.easing/jquery.easing_1c47609.js"></script><script type="text/javascript" src="http://cdn.iknow.bdimg.com/static/home/pkg/module-new_9449229.js"></script><script type="text/javascript" src="http://cdn.iknow.bdimg.com/static/common/widget/js/logic/ie-prompt/ie-prompt_a2b924f.js"></script><script type="text/javascript">
+!function(){    require.async('common:widget/userbar-new/userbar-new.js');
+}();
+!function(){    require.async('common:widget/js/logic/search-box/search-box.js');
+}();
+!function(){    require.async('common:widget/menu/menu.js', function(menu){
+    	menu.init();
+    });
+}();
+!function(){    F.context('signInTime',{
+        year: '2015',
+        month: '06',
+        day: '03'
+    });
+    F.context('realTimeData',{"finishCount":"377717662","onlineUserCount":"85056","onlineDoctorCount":"16683","zhimaCount":"7399111","teamCount":"7016","uadminCount":"3868","mavinCount":"8582"});
+
+	require.async('home:widget/slogan/slogan.js',function(slogan){
+		slogan.init();
+	});
+}();
+!function(){	F.context('cmsInfo',{"announcement":{"notice":[{"title":"\u514d\u8d39\u9886\u53d6\u300a\u77e5\u9053\u65e5\u62a5\u300b\u4e3b\u9898\u4e13\u520a","url":"http:\/\/yuedu.baidu.com\/partner\/browse\/profile?id=0b0a8f77168884868762d627","isNew":"0","isRecommend":""},{"title":"\u767e\u5ea6\u77e5\u9053APP5.0\u66f4\u65b0\u4e0a\u7ebf\uff01","url":"http:\/\/tieba.baidu.com\/p\/3407259471","isNew":"0","isRecommend":"0"},{"title":"\u767e\u5ea6\u77e5\u9053\u51fa\u4e66\u5566\uff01\u706b\u7206\u552e\u5356","url":"http:\/\/zhidao.baidu.com\/s\/book\/index.html","isNew":"0","isRecommend":"0"},{"title":"\u5b9d\u5b9d\u77e5\u9053App\u4e0a\u7ebf\u5566\uff01","url":"http:\/\/zhidao.baidu.com\/baobao","isNew":"0","isRecommend":""},{"title":"\u5e2e\u52a9\u624b\u518c\uff1a\u5982\u4f55\u4f7f\u7528\u77e5\u9053","url":"http:\/\/www.baidu.com\/search\/zhidao_help.html","isNew":"0","isRecommend":"0"}]},"banner":{"bannerList":[{"title":"\u8c01\u662f\u4e16\u754c\u4e0a\u6700\u5bcc\u6709\u7684\u52a8\u7269\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0603\/0603banner.jpg","bgColor1":"3c5929","bgColor2":"60,89,41","linkUrl":"http:\/\/zhidao.baidu.com\/daily","author":"\u714e\u86cb","month":"6","day":"3"},{"title":"\u9e21\u86cb\u751f\u5403\u4f1a\u66f4\u6709\u8425\u517b\u5417\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0602\/0602banner.jpg","bgColor1":"a8b762","bgColor2":"168,183,98","linkUrl":"http:\/\/zhidao.baidu.com\/daily","author":"\u874c\u86aa\u4e94\u7ebf\u8c31","month":"6","day":"2"},{"title":"\u3010\u516d\u4e00\u3011\u4e16\u754c\u5404\u56fd\u7684\u513f\u7ae5\u8282\u90fd\u600e\u4e48\u8fc7\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0601\/0601banner.jpg","bgColor1":"d0cbc7","bgColor2":"208,203,199","linkUrl":"http:\/\/zhidao.baidu.com\/daily","author":"\u75af\u4e2b\u5934","month":"6","day":"1"},{"title":"\u4f18\u79c0\u4eba\u5de5\u667a\u80fd\u7535\u5f71\uff0c\u54ea\u4e9b\u4f60\u4e0d\u53ef\u9519\u8fc7\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0531\/0531bannern.jpg","bgColor1":"83d8f2","bgColor2":"131,216,242","linkUrl":"http:\/\/zhidao.baidu.com\/daily","author":"\u771f\u7684\u609f\u7a7a","month":"5","day":"31"},{"title":"\u535a\u7269\u9986\u4e3a\u4ec0\u4e48\u4e0d\u8ba9\u5f00\u95ea\u5149\u706f\uff1f\u770b\u4e86\u8fd9\u4e2a\u5c31\u77e5\u9053\u4e86","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0530\/0530banner.jpg","bgColor1":"a5cced","bgColor2":"165,204,237","linkUrl":"http:\/\/zhidao.baidu.com\/daily","author":"\u4e2d\u56fd\u79d1\u6280\u7f51","month":"5","day":"30"},{"title":"\u5386\u53f2\u4e0a\u7684\u4e94\u5927\u6218\u4e89\u662f\u4ec0\u4e48\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0529\/0529banner.jpg","bgColor1":"c9c7d5","bgColor2":"201,199,213","linkUrl":"http:\/\/zhidao.baidu.com\/daily","author":"\u714e\u86cb","month":"5","day":"29"},{"title":"\u4e2d\u56fd\u6700\u65e9\u7684\u9ad8\u94c1\u4ec0\u4e48\u6837\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0528\/0528banner.jpg","bgColor1":"707e9b","bgColor2":"112,126,155","linkUrl":"http:\/\/zhidao.baidu.com\/daily","author":"\u9ad8\u94c1\u89c1\u95fb","month":"5","day":"28"},{"title":"\u5b89\u68c0\u5bf9\u4eba\u4f53\u6709\u5371\u5bb3\u5417\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0527\/0527banner.jpg","bgColor1":"d2d2dc","bgColor2":"210,210,220","linkUrl":"http:\/\/zhidao.baidu.com\/daily","author":"\u5bd2\u6728\u9493\u840c","month":"5","day":"27"},{"title":"\u65e0\u4eba\u673a\u4e5f\u8981\u201c\u6709\u8bc1\u9a7e\u9a76\u201d\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0526\/0526banner.jpg","bgColor1":"2866bd","bgColor2":"40,102,189","linkUrl":"http:\/\/zhidao.baidu.com\/daily","author":"\u874c\u86aa\u4e94\u7ebf\u8c31","month":"5","day":"26"},{"title":"\u201c\u98de\u673a\u4e4b\u7236\u201d\u6216\u53e6\u6709\u5176\u4eba\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0525\/0525banner.jpg","bgColor1":"4b70c7","bgColor2":"75,112,199","linkUrl":"http:\/\/zhidao.baidu.com\/daily","author":"\u300a\u767e\u79d1\u77e5\u8bc6\u300b\u6742\u5fd7","month":"5","day":"25"}],"bannerDailyList":[{"title":"\u4e3a\u4f55\u4e0d\u7528\u5de6\u811a\u6765\u63a7\u5236\u5239\u8f66\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0603\/s3.jpg","bgColor1":"","bgColor2":"","linkUrl":"http:\/\/zhidao.baidu.com\/daily\/view?id=4536","author":"","month":"6","day":"3"},{"title":"\u94c1\u9505\u7092\u83dc\u4f1a\u5e2e\u4eba\u8865\u94c1\u5417\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0603\/s2.jpg","bgColor1":"","bgColor2":"","linkUrl":"http:\/\/zhidao.baidu.com\/daily\/view?id=4534","author":"","month":"6","day":"3"},{"title":"\u6389\u8fdb\u9ed1\u6d1e\u4f1a\u53d1\u751f\u4ec0\u4e48\uff1f\u4f60\u6b7b\u4e86\u4f46\u540c\u65f6\u8fd8\u6d3b\u7740","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0603\/s1.jpg","bgColor1":"","bgColor2":"","linkUrl":"http:\/\/zhidao.baidu.com\/daily\/view?id=4539","author":"","month":"6","day":"3"},{"title":"\u5c0f\u884c\u661f\u649e\u51fb\u5730\u7403\uff0c\u80fd\u63d0\u524d\u9632\u5fa1\u5417\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0602\/s3.jpg","bgColor1":"","bgColor2":"","linkUrl":"http:\/\/zhidao.baidu.com\/daily\/view?id=4532","author":"","month":"6","day":"2"},{"title":"\u82f1\u56fd\u8981\u548c\u6b27\u76df\u201d\u5206\u624b\u201c\uff0c\u5230\u5e95\u4ec0\u4e48\u4ec7\u4ec0\u4e48\u6028\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0602\/s2.jpg","bgColor1":"","bgColor2":"","linkUrl":"http:\/\/zhidao.baidu.com\/daily\/view?id=4531","author":"","month":"6","day":"2"},{"title":"\u5438\u7535\u5b50\u70df\u6709\u5bb3\u5417\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0602\/s1.jpg","bgColor1":"","bgColor2":"","linkUrl":"http:\/\/zhidao.baidu.com\/daily\/view?id=4529","author":"","month":"6","day":"2"},{"title":"\u4e2d\u4e1c\u547c\u5438\u7efc\u5408\u5f81\uff08MERS\uff09\uff0c\u8be5\u5982\u4f55\u5e94\u5bf9\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0601\/s4.jpg","bgColor1":"","bgColor2":"","linkUrl":"http:\/\/zhidao.baidu.com\/daily\/view?id=4527","author":"","month":"6","day":"1"},{"title":"\u5927\u8111\uff0c\u5982\u4f55\u8bb0\u5f55\u6211\u4eec\u7684\u4eba\u751f\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0601\/s2.jpg","bgColor1":"","bgColor2":"","linkUrl":"http:\/\/zhidao.baidu.com\/daily\/view?id=4510","author":"","month":"6","day":"1"},{"title":"\u68a6\u5883\u6709\u53ef\u80fd\u88ab\u64cd\u7eb5\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0601\/s1.jpg","bgColor1":"","bgColor2":"","linkUrl":"http:\/\/zhidao.baidu.com\/daily\/view?id=4518","author":"","month":"6","day":"1"},{"title":"\u732a\u548c\u9c7c\uff0c\u6539\u53d8\u4e86\u6211\u4eec\u7684\u5386\u53f2\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0531\/s3.jpg","bgColor1":"","bgColor2":"","linkUrl":"http:\/\/zhidao.baidu.com\/daily\/view?id=4514","author":"","month":"5","day":"31"},{"title":"\u5173\u4e8e\u88d9\u5b50\u76848\u4e2a\u7ecf\u5178\u6545\u4e8b\uff01\u4f60\u77e5\u9053\u591a\u5c11\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0531\/s2.jpg","bgColor1":"","bgColor2":"","linkUrl":"http:\/\/zhidao.baidu.com\/daily\/view?id=4516","author":"","month":"5","day":"31"},{"title":"\u3010\u4e16\u754c\u65e0\u70df\u65e5\u3011\u63a7\u70df\uff0c\u6211\u4eec\u90fd\u6709\u54ea\u4e9b\u62db\u513f\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0531\/s1.jpg","bgColor1":"","bgColor2":"","linkUrl":"http:\/\/zhidao.baidu.com\/daily\/view?id=4519","author":"","month":"5","day":"31"},{"title":"\u5965\u9edb\u4e3d\u00b7\u8d6b\u672c\u6f14\u8fc7\u7684\u7ecf\u5178\u7535\u5f71\u6709\u54ea\u4e9b\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0530\/s3.jpg","bgColor1":"","bgColor2":"","linkUrl":"http:\/\/zhidao.baidu.com\/daily\/view?id=4517","author":"","month":"5","day":"30"},{"title":"\u957f\u4e0d\u9ad8\uff0c\u5230\u5e95\u54ea\u4e9b\u56e0\u7d20\u5f71\u54cd\u4f60\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0530\/s2.jpg","bgColor1":"","bgColor2":"","linkUrl":"http:\/\/zhidao.baidu.com\/daily\/view?id=4508","author":"","month":"5","day":"30"},{"title":"8\u79cd\u98df\u7269\uff0c\u8ba9\u4f60\u4f53\u5473\u96be\u95fb\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0530\/s1.jpg","bgColor1":"","bgColor2":"","linkUrl":"http:\/\/zhidao.baidu.com\/daily\/view?id=4504","author":"","month":"5","day":"30"},{"title":"\u591a\u5927\u7684\u9668\u77f3\u53ef\u4ee5\u5c06\u4eba\u7c7b\u8d76\u5c3d\u6740\u7edd\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0529\/s3.jpg","bgColor1":"","bgColor2":"","linkUrl":"http:\/\/zhidao.baidu.com\/daily\/view?id=4500","author":"","month":"5","day":"29"},{"title":"\u764c\u7684\u201c\u6740\u624b\u201d\u672c\u9886\u662f\u600e\u6837\u70bc\u6210\u7684\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0529\/s2.jpg","bgColor1":"","bgColor2":"","linkUrl":"http:\/\/zhidao.baidu.com\/daily\/view?id=4522","author":"","month":"5","day":"29"},{"title":"\u7a7f\u8d8a\u5230\u660e\u671d\u662f\u600e\u6837\u7684\u4e00\u79cd\u4f53\u9a8c\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0529\/s1.jpg","bgColor1":"","bgColor2":"","linkUrl":"http:\/\/zhidao.baidu.com\/daily\/view?id=4498","author":"","month":"5","day":"29"},{"title":"\u56fd\u5916\u7684\u8def\u6012\u75c7\u662f\u600e\u6837\u7684\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0528\/s3.jpg","bgColor1":"","bgColor2":"","linkUrl":"http:\/\/zhidao.baidu.com\/daily\/view?id=4495","author":"","month":"5","day":"28"},{"title":"\u590f\u5929\u6765\u4e86\uff0c\u9632\u6691\u6709\u54ea\u4e9b\u8bef\u533a\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0528\/s2.jpg","bgColor1":"","bgColor2":"","linkUrl":"http:\/\/zhidao.baidu.com\/daily\/view?id=4493","author":"","month":"5","day":"28"},{"title":"\u4eba\u4f53\u768412\u5927\u6781\u9650\uff0c\u4f60\u77e5\u9053\u591a\u5c11\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0528\/s1.jpg","bgColor1":"","bgColor2":"","linkUrl":"http:\/\/zhidao.baidu.com\/daily\/view?id=4492","author":"","month":"5","day":"28"},{"title":"\u50ac\u719f\u7684\u6c34\u679c\uff0c\u8fd8\u80fd\u5403\u5417\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0527\/s3.jpg","bgColor1":"","bgColor2":"","linkUrl":"http:\/\/zhidao.baidu.com\/daily\/view?id=4487","author":"","month":"5","day":"27"},{"title":"\u4eba\u7c7b\u4e3a\u4ec0\u4e48\u80fd\u4e0d\u65ad\u5237\u65b0\u4f53\u80b2\u4e16\u754c\u7eaa\u5f55\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0527\/s2.jpg","bgColor1":"","bgColor2":"","linkUrl":"http:\/\/zhidao.baidu.com\/daily\/view?id=4485","author":"","month":"5","day":"27"},{"title":"\u9006\u5411\u601d\u8003\uff1a\u9e21\u86cb\u600e\u4e48\u5403\u6700\u4e0d\u5065\u5eb7\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0527\/s1.jpg","bgColor1":"","bgColor2":"","linkUrl":"http:\/\/zhidao.baidu.com\/daily\/view?id=4484","author":"","month":"5","day":"27"},{"title":"\u6025\u6027\u9ad8\u539f\u53cd\u5e94\uff0c\u8be5\u5982\u4f55\u5e94\u5bf9\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0526\/s3.jpg","bgColor1":"","bgColor2":"","linkUrl":"http:\/\/zhidao.baidu.com\/daily\/view?id=4480","author":"","month":"5","day":"26"},{"title":"\u5982\u4f55\u770b\u5f85\u7ea6\u7ff0\u00b7\u7eb3\u4ec0\u7684\u7cbe\u795e\u5206\u88c2\u75c7\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0526\/s2.jpg","bgColor1":"","bgColor2":"","linkUrl":"http:\/\/zhidao.baidu.com\/daily\/view?id=4478","author":"","month":"5","day":"26"},{"title":"\u63ed\u79d8\uff1a\u53e4\u4ee3\u90fd\u6709\u54ea\u4e9b\u9632\u76d7\u5893\u624b\u6bb5\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0526\/s1.jpg","bgColor1":"","bgColor2":"","linkUrl":"http:\/\/zhidao.baidu.com\/daily\/view?id=4479","author":"","month":"5","day":"26"},{"title":"\u8dd1\u6b65\u65f6\uff0c\u4f60\u8be5\u5982\u4f55\u547c\u5438\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0525\/s3.jpg","bgColor1":"","bgColor2":"","linkUrl":"http:\/\/zhidao.baidu.com\/daily\/view?id=4472","author":"","month":"5","day":"25"},{"title":"\u4e16\u754c\u4e0a\u6700\u8d35\u7684\u836f\u662f\u4ec0\u4e48\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0525\/s2.jpg","bgColor1":"","bgColor2":"","linkUrl":"http:\/\/zhidao.baidu.com\/daily\/view?id=4475","author":"","month":"5","day":"25"},{"title":"\u610f\u5916\u5e76\u4e0d\u603b\u662f\u201c\u676f\u5177\u201d\uff0c\u6bd4\u5982\u8fd910\u4e2a\uff1f","bgImg":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0525\/s1.jpg","bgColor1":"","bgColor2":"","linkUrl":"http:\/\/zhidao.baidu.com\/daily\/view?id=4474","author":"","month":"5","day":"25"}]},"bottomAd":{"img":"http:\/\/img.baidu.com\/img\/iknow\/sula201505\/zhenxiangwendaji280.png","url":"http:\/\/zhidao.baidu.com\/liuyan"},"bottomPromo":{"data":{"url":"http:\/\/zhidao.baidu.com\/s\/yszm.html","img":"http:\/\/img.baidu.com\/img\/iknow\/yszmbanner.jpg"}},"dashuju":{"dashuju":[{"url":"http:\/\/zhidao.baidu.com\/s\/bigdata\/","img":"http:\/\/img.iknow.bdimg.com\/geye\/ertongjieda1.png","title":"\u513f\u7ae5\u8282\uff1a\u96f6\u96f6\u540e\u7684\u201c\u65b0\u5f0f\u201d\u7ae5\u5e74","hTitle":"\u77e5\u9053\u5927\u6570\u636e"}]},"defaultQuery":{"title":"","value":""},"doctor":{"famous":{"url":"http:\/\/muzhi.baidu.com\/doctor\/home\/ff42efa90304ae8d9e2202fe","picUrl":"http:\/\/hiphotos.baidu.com\/zhidao\/pic\/item\/bd315c6034a85edffee6eeb34c540923dd547533.png","name":"\u9b4f\u4e16\u8f89","desc":"\u795e\u7ecf\u773c\u79d1\u4e13\u5bb6","qid":"http:\/\/muzhi.baidu.com\/question\/1496089379816294739.html","ask":"\u9ec4\u6591\u53d8\u6027\u5f15\u8d77\u773c\u5e95\u51fa\u8840\u8be5\u600e\u4e48\u529e\uff1f","answer":"\u9996\u5148\u8fdb\u884c\u89c6\u529f\u80fd\u3001\u6563\u77b3\u67e5\u773c\u5e95\u3001\u9ec4\u6591OCT\u3001\u773c\u5e95\u8840\u7ba1\u8367\u5149\u9020\u5f71\u68c0\u67e5\uff0c\u6839\u636e\u7ed3\u679c\u9009\u62e9\u6cbb\u7597\u65b9\u6848\uff0c\u6cbb\u7597\u9009\u62e9\u5305\u62ec\u6297VEGF\u73bb\u7483\u4f53\u8154\u5185\u6ce8\u5c04\u3001\u6d3b\u8840\u5316\u7600\u836f\u7269\u6cbb\u7597\u3001PDT\u6cbb\u7597\u3002","open":"http:\/\/muzhi.baidu.com\/doctor\/activity\/index?activity_id=10"},"hot":{"url":"http:\/\/muzhi.baidu.com\/doctor\/home\/3ea5148909b56f52e61bbadb","picUrl":"http:\/\/hiphotos.baidu.com\/zhidao\/pic\/item\/c8ea15ce36d3d53944335f633987e950352ab000.jpg","name":"\u9648\u660e\u5b8f","cname":"\u5185\u79d1","field":"\u533b\u5e08","hospital":"\u798f\u5efa\u533b\u79d1\u5927\u5b66\u9644\u5c5e\u534f\u548c\u533b\u9662","uid":"16730399","others":[{"url":"http:\/\/muzhi.baidu.com\/doctor\/home\/48a42057d17fc4ad24250491","name":"\u6768\u534e\u6e05","cname":"\u5317\u4eac\u5eb7\u590d\u533b\u9662"},{"url":"http:\/\/muzhi.baidu.com\/doctor\/home\/046a7b3e929bf4ebc27fa9b2","name":"\u66f9\u4f9d\u7fa4","cname":"\u4e0a\u6d77\u957f\u6d77\u533b\u9662"},{"url":"http:\/\/muzhi.baidu.com\/doctor\/home\/ae97a64627b11ba8fd461dbb","name":"\u5218\u98de\u9e4f","cname":"\u5357\u4eac\u5e02\u6df3\u5316\u533b\u9662"},{"url":"http:\/\/muzhi.baidu.com\/doctor\/home\/4853e1e52026334909f7269d","name":"\u5218\u5ca9","cname":"\u519b\u4e8b\u533b\u5b66\u79d1\u5b66\u9662\u9644\u5c5e307\u533b\u9662"}],"goodNum":"1228","replyNum":"6941","helpNum":"3863428"}},"domReady":{"domReady":[]},"enterprise":{"logoHeading":{"name":"\u8054\u60f3\u4f01\u4e1a\u5e73\u53f0","url":"http:\/\/zhidao.baidu.com\/c\/lenovo","imgUrl":"http:\/\/hiphotos.baidu.com\/openiknow\/pic\/item\/a686c917afb39297c83d6d48.jpg","content":"\u5168\u7403\u9886\u5148pc\u4f01\u4e1a\uff0c\u4eab\u8a89\u5168\u7403\u7684Think\u53caIdea\u54c1\u724c\u3002"},"logoWall":[{"name":"\u5c0f\u7c73\u4f01\u4e1a\u5e73\u53f0","url":"http:\/\/zhidao.baidu.com\/c\/xiaomi","imgUrl":"http:\/\/hiphotos.baidu.com\/openiknow\/pic\/item\/728da97725914685b151b946.jpg","content":""},{"name":"\u4e09\u661f\u6570\u5b57\u670d\u52a1\u5e73\u53f0","url":"http:\/\/zhidao.baidu.com\/c\/samsung","imgUrl":"http:\/\/hiphotos.baidu.com\/openiknow\/pic\/item\/c75c103809dfea58b311c722.jpg","content":""},{"name":"\u5b89\u5fbd\u7535\u4fe1\u4f01\u4e1a\u5e73\u53f0","url":"http:\/\/zhidao.baidu.com\/c\/ah189","imgUrl":"http:\/\/hiphotos.baidu.com\/openiknow\/pic\/item\/024f78f0879c3f717831aa39.jpg","content":""},{"name":"\u82f1\u7279\u5c14\u670d\u52a1\u5e73\u53f0","url":"http:\/\/zhidao.baidu.com\/c\/intel","imgUrl":"http:\/\/hiphotos.baidu.com\/zhidao\/pic\/item\/42a98226cffc1e17c7f70b924890f603728de9cd.jpg","content":""},{"name":"\u8054\u901a\u4f01\u4e1a\u5e73\u53f0","url":"http:\/\/zhidao.baidu.com\/c\/chinaunicom","imgUrl":"http:\/\/hiphotos.baidu.com\/openiknow\/pic\/item\/a2cc7cd9fe97115a38012f5e.jpg","content":""},{"name":"\u62db\u5546\u94f6\u884c\u4f01\u4e1a\u77e5\u9053\u5e73\u53f0","url":"http:\/\/zhidao.baidu.com\/c\/cmbchina","imgUrl":"http:\/\/hiphotos.baidu.com\/openiknow\/pic\/item\/f2deb48fbaaff228f11f36a5.jpg","content":""},{"name":"OPPO\u4f01\u4e1a\u77e5\u9053\u5e73\u53f0","url":"http:\/\/zhidao.baidu.com\/c\/oppo","imgUrl":"http:\/\/hiphotos.baidu.com\/openiknow\/pic\/item\/ac6eddc4bd5e745538db4947.jpg","content":""},{"name":"\u91d1\u5c71\u7f51\u7edc\u4f01\u4e1a\u5e73\u53f0","url":"http:\/\/zhidao.baidu.com\/c\/ijinshan","imgUrl":"http:\/\/hiphotos.baidu.com\/openiknow\/pic\/item\/f91986181cc5361c4bedbc0c.jpg","content":""}]},"mavin":{"list":[{"title":"\u5357\u4eac\u516c\u79ef\u91d1\u63d0\u53d6\u6d41\u7a0b\uff1f","qid":"296249470","picUrl":"http:\/\/e.hiphotos.baidu.com\/zhidao\/wh%3D450%2C600\/sign=c1adeb7270f082022dc7993b7ecbd7db\/b2de9c82d158ccbf0067ba6b1ad8bc3eb0354183.jpg","name":"\u5cb3\u4e00\u65e0\u6cd5\u89e3\u91ca","field":"\u5e7f\u4e1c","uname":"\u5cb3\u4e00\u65e0\u6cd5\u89e3\u91ca"},{"title":"\u91cd\u4f24 \u516b\u7ea7\u4f24\u6b8b \u600e\u4e48\u5224?","qid":"533306973","picUrl":"http:\/\/c.hiphotos.baidu.com\/zhidao\/wh%3D450%2C600\/sign=15155af19e16fdfad839ceea81bfa062\/6a63f6246b600c3335be7f12194c510fd8f9a121.jpg","name":"huhaitian2014","field":"\u6cd5\u5f8b","uname":"huhaitian2014"},{"title":"\u7535\u91ce\u732a,\u4eba\u89e6\u7535\u6b7b\u4ea1\u5982\u4f55\u8d54\u507f?","qid":"119022949","picUrl":"http:\/\/a.hiphotos.baidu.com\/zhidao\/wh%3D450%2C600\/sign=aa4ee481abd3fd1f365caa3e057e0929\/902397dda144ad347147f028d3a20cf430ad85a0.jpg","name":"\u7f57\u7b19\u94ed","field":"\u5a5a\u59fb\u7ee7\u627f","uname":"\u4e0a\u6d77\u7b19\u94ed\u5f8b\u5e08"},{"title":"\u7ec6\u5c0f\u75c5\u6bd2\u5582\u4ec0\u4e48\u7ed9\u72d7\u72d7\u5403?","qid":"250296976","picUrl":"http:\/\/a.hiphotos.baidu.com\/zhidao\/wh%3D450%2C600\/sign=3107b81856fbb2fb347e50167a7a0c92\/d01373f082025aafcce6ce8ef8edab64024f1a9a.jpg","name":"\u8bb8\u6ed4","field":"\u5ba0\u7269","uname":"\u9f99\u7687XT"},{"title":"\u6cd5\u9662\u91cc\u7684\u884c\u653f\u5385\u662f\u7ba1\u4ec0\u4e48\u7684?","qid":"153294099","picUrl":"http:\/\/d.hiphotos.baidu.com\/zhidao\/wh%3D450%2C600\/sign=ddddf690f4246b607b5bba70dec8367a\/8326cffc1e178a82dad5d763f403738da877e80c.jpg","name":"sunlianxiang","field":"\u6cd5\u5f8b","uname":"sunlianxiang"},{"title":"360\u4e91\u76d8\u4e2d\u600e\u4e48\u53d6\u6d88\u201c\u9501\u5b9a\u4e91\u76d8\u201d?","qid":"1669169092425084507","picUrl":"http:\/\/a.hiphotos.baidu.com\/zhidao\/wh%3D450%2C600\/sign=516781fcb019ebc4c02d7e9db716e3ca\/fc1f4134970a304e0d491e63d2c8a786c9175c3b.jpg","name":"great\u4f6f\u88c5\u57cb\u5026","field":"\u7535\u8111","uname":"great\u4f6f\u88c5\u57cb\u5026"},{"title":"\u534e\u4e3aC8800\u624b\u673a\u7684MAC\u5730\u5740\uff1f","qid":"338976949","picUrl":"http:\/\/b.hiphotos.baidu.com\/zhidao\/wh%3D450%2C600\/sign=de6a2a77b78f8c54e386cd2b0f1901c3\/8644ebf81a4c510fa8c20e836359252dd42aa521.jpg","name":"\u5de7\u7c73\u4e50","field":"\u6570\u7801","uname":"\u5de7\u7c73\u4e50"},{"title":"\u9972\u517b\u4e03\u5f69\u6587\u9e1f\u56db\u5b63\u600e\u6837\u7ba1\u7406?","qid":"203260102","picUrl":"http:\/\/h.hiphotos.baidu.com\/zhidao\/wh%3D450%2C600\/sign=9a464f59f6deb48ffb3ca9dac52f161f\/0d338744ebf81a4c36b339f1d22a6059252da601.jpg","name":"\u738b\u4e00\u5e06","field":"\u751f\u6d3b","uname":"\u5a07\u5a07\u5a07\u5a07\u6c14\u5305"},{"title":"\u5728\u7528\u53cb\u56fa\u5b9a\u8d44\u4ea7\u4e2d\u600e\u6837\u589e\u52a0\u90e8\u95e8?","qid":"349910354","picUrl":"http:\/\/a.hiphotos.baidu.com\/zhidao\/wh%3D450%2C600\/sign=b8da4a71013b5bb5be8228fa03e3f90f\/377adab44aed2e731b3acdf68501a18b86d6fa1d.jpg","name":"\u9a6c\u5174\u6b66","field":"\u6570\u5b66","uname":"\u5357\u9738\u5929mxw"},{"title":"\u65b0\u8fdb\u4eba\u5458\u7684\u5e74\u4f11\u5047\u5230\u5e95\u600e\u4e48\u8ba1\u7b97\uff1f","qid":"79298799","picUrl":"http:\/\/f.hiphotos.baidu.com\/zhidao\/wh%3D450%2C600\/sign=e837222423a446237e9fad66ad125e38\/4afbfbedab64034ffde59a58acc379310a551d47.jpg","name":"\u6881\u8363\u4e1a","field":"\u6570\u5b66","uname":"\u6768\u67f3\u98ce83"},{"title":"\u5982\u4f55\u529e\u7406\u89e3\u9664\u52b3\u52a8\u5408\u540c\u624b\u7eed?","qid":"34692243","picUrl":"http:\/\/b.hiphotos.baidu.com\/zhidao\/wh%3D450%2C600\/sign=396c6ddfb8a1cd1105e37a248c22e4ca\/3801213fb80e7bec95578a0e2d2eb9389a506b54.jpg","name":"\u97e9\u98de","field":"\u52b3\u52a8\u4eba\u4e8b","uname":"\u4e13\u4e1a\u4ef2\u88c1\u5458"},{"title":"\u6d89\u5acc\u9632\u5bb3\u516c\u52a1\u7f6a\u5224\u591a\u5c11\u5e74?","qid":"2074496816311574748","picUrl":"http:\/\/f.hiphotos.baidu.com\/zhidao\/wh%3D450%2C600\/sign=7f4d2111e2fe9925cb596154019872e9\/6159252dd42a283471ff0fdf59b5c9ea14cebf8c.jpg","name":"amidaya","field":"\u6cd5\u5f8b","uname":"amidaya"}]},"promotion":{"promotion":[{"imgUrl":"http:\/\/img.baidu.com\/img\/iknow\/sula05\/huishibaobaoshouyebanner.jpg?t=1421596270","url":"http:\/\/zhidao.baidu.com\/s\/wyeth.html","title":""},{"imgUrl":"http:\/\/img.baidu.com\/img\/iknow\/sula05\/jiushouyebanneryaoyan.jpg?t=1421596270","url":"http:\/\/zhidao.baidu.com\/s\/bigdata\/index.html","title":""},{"imgUrl":"http:\/\/img.baidu.com\/img\/iknow\/sula05\/yingerchuangsouyelunbo.jpg?t=1421596270","url":"http:\/\/zhidao.baidu.com\/baobao","title":""}]},"promotions":{"promotions":[{"imgUrl":"http:\/\/img.baidu.com\/img\/iknow\/sula201506\/zhangjialinshouyelunbotoutu.png","url":"http:\/\/zhidao.baidu.com\/activity\/commAct?name=weituanerzhan&fr=lb","title":""},{"imgUrl":"http:\/\/img.baidu.com\/img\/iknow\/jqyz280-120.jpg","url":"http:\/\/muzhi.baidu.com\/doctor\/activity\/index?activity_id=10","title":""},{"imgUrl":"http:\/\/img.baidu.com\/img\/iknow\/sula201504\/daibaobaoqulvxing280.jpg","url":"http:\/\/baobao.baidu.com\/papi\/active\/travelwallpc","title":""}]},"recommend":{"group":[{"heading":{"qid":"0","rid":"0","title":"\u3010\u77e5\u9053\u65e5\u62a5\u3011\u4e3a\u4f55\u8bfa\u4f0a\u5c14\u62ff\u4e0d\u5230\u91d1\u7403\u5956\uff1f","content":"\u95e8\u5c06\u83b7\u5f97\u91d1\u7403\u5956\u662f\u975e\u5e38\u56f0\u96be\u7684\uff0c\u5bf9\u4e8e\u4e00\u4e2a\u95e8\u5c06\u6765\u8bf4\uff0c\u9700\u8981\u51fa\u8272\u7684\u53d1\u6325\u548c\u7279\u5b9a\u7684\u6761\u4ef6\u624d\u80fd\u5b8c\u6210\u8d85\u8d8a\u3002\u6bd4\u5982\u7387\u961f\u4e16\u754c\u676f\u593a\u51a0\uff0c\u800c\u6bcf\u573a\u6dd8\u6c70\u8d5b\u90fd\u662f\u70b9\u7403\u51b3\u80dc\uff0c\u6bcf\u6b21\u90fd\u80fd\u6251\u51fa\u70b9\u7403\u3002","replyer":"\u300a\u6613\u767e\u79d1\u300b","url":"http:\/\/zhidao.baidu.com\/daily\/view?id=3591","imgUrl":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0120\/jctj.jpg?t=1433289608","imgLink":"http:\/\/zhidao.baidu.com\/daily\/view?id=3582","imgTitle":"\u60f3\u8981\u592a\u7a7a\u65c5\u6e38\uff1f\u6709\u94b1\u4e5f\u4e0d\u80fd\u4efb\u6027\uff01"},"question":[{"title":"\u3010\u77e5\u9053\u65e5\u62a5\u3011\u4e3a\u4ec0\u4e48\u201c\u5e74\u8f7b\u4eba\u4e0d\u8981\u8001\u71ac\u591c\u201d\uff1f","replyer":"","url":"http:\/\/zhidao.baidu.com\/daily\/view?id=3594"},{"title":"\u3010\u77e5\u9053\u65e5\u62a5\u3011\u9605\u8bfb\uff1a\u4f60\u5728\u9676\u9189\uff0c\u5927\u8111\u5728\u201c\u53d7\u7f6a\u201d\uff1f","replyer":"","url":"http:\/\/zhidao.baidu.com\/daily\/view?id=3589"},{"title":"\u3010\u771f\u76f8\u95ee\u7b54\u673a\u3011\u9c7c\u5403\u4e1c\u897f\u4e0d\u77e5\u9053\u9971\u5417\uff1f","replyer":"","url":"http:\/\/zhidao.baidu.com\/liuyan"}]},{"heading":{"qid":"0","rid":"0","title":"\u3010\u77e5\u9053\u65e5\u62a5\u3011\u9ed1\u5ba2\u653b\u51fb\u516c\u5171WiFi\u6709\u54ea\u4e9b\u201c\u9634\u62db\u201d\uff1f","content":"\u9ed1\u5ba2\u653b\u51fb\u516c\u5171WiFi\uff0c\u6700\u5e38\u89c1\u7684\u4e09\u5927\u201c\u9634\u62db\u201d\u662f\uff1a\u57df\u540d\u52ab\u6301\uff1b\u9493\u9c7cWiFi\uff1bARP\uff08\u5730\u5740\u89e3\u6790\u534f\u8bae\uff09\u6b3a\u9a97\u3002","replyer":"\u4e2d\u56fd\u79d1\u6280\u7f51","url":"http:\/\/zhidao.baidu.com\/daily\/view?id=3583","imgUrl":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/ads\/20150119huishi.jpg?t=1433289608","imgLink":"http:\/\/zhidao.baidu.com\/s\/wyeth.html","imgTitle":"\u5b9d\u5b9d\u8425\u517b\u77e5\u591a\u5c11\uff1f"},"question":[{"title":"\u3010\u77e5\u9053\u65e5\u62a5\u3011\u5851\u6599\u888b\u88c5\u98df\u54c1\u6709\u4ec0\u4e48\u5371\u5bb3\uff1f","replyer":"","url":"http:\/\/zhidao.baidu.com\/daily\/view?id=3577"},{"title":"\u3010\u77e5\u9053\u65e5\u62a5\u3011\u4e73\u817a\u764c\u79bb\u6211\u4eec\u6709\u591a\u8fdc\uff1f","replyer":"","url":"http:\/\/zhidao.baidu.com\/daily\/view?id=3586"},{"title":"\u3010\u771f\u76f8\u95ee\u7b54\u673a\u3011\u5b58\u5728\u201c\u592b\u59bb\u76f8\u201d\u5417\uff1f","replyer":"","url":"http:\/\/zhidao.baidu.com\/liuyan"}]},{"heading":{"qid":"0","rid":"0","title":"\u3010\u77e5\u9053\u65e5\u62a5\u3011\u836f\u7269\u201c\u7981\u5fcc\u201d\u4f60\u4e86\u89e3\u591a\u5c11\uff1f","content":"\u628a\u201c\u7528\u836f\u671f\u95f4\u4e0d\u80fd\u559d\u897f\u67da\u6c41\u201d\u5199\u8fdb\u8bf4\u660e\u4e66\u6ce8\u610f\u4e8b\u9879\u751a\u81f3\u662f\u7981\u5fcc\u7684\u836f\u7269\u4e0d\u5728\u5c11\u6570\uff0c\u770b\u5230\u8fd9\u4e00\u6761\uff0c\u5f88\u591a\u4eba\u53ef\u80fd\u4f1a\u89c9\u5f97\u201c\u5403\u836f\u548c\u559d\u897f\u67da\u6c41\u6709\u4ec0\u4e48\u5173\u7cfb\u201d\u3002\u8fd9\u79cd\u60f3\u6cd5\u6070\u6070\u5341\u5206\u5371\u9669\u3002","replyer":"\u9646\u8fdc\u7199","url":"http:\/\/zhidao.baidu.com\/daily\/view?id=3580","imgUrl":"http:\/\/img.iknow.bdimg.com\/zhidaoribao2014\/2015year\/0118\/jctj.jpg?t=1433289608","imgLink":"http:\/\/zhidao.baidu.com\/daily\/view?id=3581","imgTitle":"\u72d9\u51fb\u624b\uff0c\u770b\u4e0d\u89c1\u7684\u9b54\u9b3c\uff1f"},"question":[{"title":"\u3010\u77e5\u9053\u65e5\u62a5\u3011\u5468\u516c\u4e0d\u59d3\u5468\uff0c\u59d3\u4ec0\u4e48\uff1f","replyer":"","url":"http:\/\/zhidao.baidu.com\/daily\/view?id=3579"},{"title":"\u3010\u77e5\u9053\u65e5\u62a5\u3011\u5982\u4f55\u624d\u80fd\u71ac\u591c\u4e0d\u4f24\u8eab\uff1f","replyer":"","url":"http:\/\/zhidao.baidu.com\/daily\/view?id=3572"},{"title":"\u3010\u771f\u76f8\u95ee\u7b54\u673a\u3011\u5b58\u5728\u201c\u592b\u59bb\u76f8\u201d\u5417\uff1f","replyer":"","url":"http:\/\/zhidao.baidu.com\/liuyan"}]}]},"recommendTopic":{"hotTopic":{"imgUrl":"http:\/\/img.baidu.com\/img\/iknow\/sula01\/zhuantizhishijihe.jpg?t=1413256908","title":"\u90a3\u4e9b\u548c\u8eab\u4f53\u6709\u5173\u7684\u77e5\u8bc6","url":"http:\/\/zhidao.baidu.com\/daily","question":[{"title":"\u6211\u4eec\u7684\u8eab\u4f53\u9700\u8981\u53d8\u201c\u78b1\u201d\u5417\uff1f","answer":"\u4f53\u5185\u7684pH\u503c\u57287.35\uff5e7.45\uff0c\u9178\u78b1\u5e73\u8861\u6700\u91cd\u8981\u3002","url":"http:\/\/zhidao.baidu.com\/daily\/view?id=2710"},{"title":"\u662f\u4e0d\u662f\u957f\u5f97\u8d8a\u6f02\u4eae\u5c31\u8d8a\u5065\u5eb7?","answer":"\u7814\u7a76\u4eba\u5458\u8868\u793a\uff0c\u7814\u7a76\u7ed3\u679c\u652f\u6301\u5916\u8c8c\u662f\u5065\u5eb7\u57fa\u56e0\u7684\u6807\u5fd7\u3002","url":"http:\/\/zhidao.baidu.com\/daily\/view?id=686"},{"title":"\u8fdb\u5316\u4f1a\u5e26\u6765\u8eab\u4f53\u75bc\u75db\u5417\uff1f","answer":"\u79d1\u5b66\u5bb6\u7814\u7a76\u53d1\u73b0\uff0c\u4eba\u7c7b\u76ee\u524d\u7ecf\u53d7\u7684\u5f88\u591a\u75bc\u75db\u90fd\u6e90\u4e8e\u8fdb\u5316\u3002","url":"http:\/\/zhidao.baidu.com\/daily\/view?id=2899"}]},"interest":[{"title":"\u9e21\u86cb\u6e05&\u70eb\u4f24","questionTitle":"\u9e21\u86cb\u6e05\u80fd\u6cbb\u7597\u70eb\u4f24\u5417\uff1f","url":"http:\/\/zhidao.baidu.com\/s\/daily\/2014-03-04\/1395436373.html","answer":"\u7528\u9e21\u86cb\u6e05\u5904\u7406\u70eb\u4f24\u5e76\u975e\u660e\u667a\u4e4b\u4e3e\uff0c\u6709\u611f\u67d3\u6c99\u95e8\u6c0f\u83cc\u7684\u98ce\u9669\uff0c\u4e00\u822c\u7684\u5bb6\u5ead\u70eb\u4f24\uff0c\u6839\u636e\u7a0b\u5ea6\u4e0d\u540c\u6709\u76f8\u5e94\u7684\u5904\u7406\u63aa\u65bd\uff0c\u4e25\u91cd\u65f6\u52a1\u5fc5\u53ca\u65f6\u6c42\u52a9\u4e8e\u4e13\u4e1a\u7684\u533b\u7597\u673a\u6784\u3002"},{"title":"\u6392\u961f&\u79d1\u5b66","questionTitle":"\u6392\u961f\u4e5f\u80fd\u5f88\u5feb\u4e50\uff1f","url":"http:\/\/zhidao.baidu.com\/s\/daily\/2014-03-04\/1396602766.html","answer":"1. \u65e0\u6240\u4e8b\u4e8b\u7684\u7b49\u5f85\u6bd4\u6709\u4e8b\u53ef\u5e72\u7684\u7b49\u5f85\u611f\u89c9\u8981\u957f\uff1b2. \u7b49\u5f85\u670d\u52a1\u7684\u65f6\u95f4\u6bd4\u63a5\u53d7\u670d\u52a1\u7684\u65f6\u95f4\u957f\uff1b3. \u7126\u8651\u4f7f\u7b49\u5f85\u770b\u8d77\u6765\u6bd4\u5b9e\u9645\u65f6\u95f4\u66f4\u957f\uff1b4. \u4e0d\u786e\u5b9a\u7ed3\u679c\uff08\u662f\u5426\u4e70\u5230\u7968\uff09\u7684\u7b49\u5f85\u6bd4\u660e\u786e\u7684\u7b49\u5f85\u65f6\u95f4\u66f4\u957f\u2026\u2026"},{"title":"\u5973\u6027&\u5fc3\u7406\u6d4b\u8bd5","questionTitle":"\u4e3a\u4ec0\u4e48\u5973\u6027\u504f\u7231\u5fc3\u7406\u6d4b\u8bd5\uff1f","url":"http:\/\/zhidao.baidu.com\/s\/daily\/2014-03-08\/1402870573.html","answer":"\u6697\u604b\u4e2d\u7684\u59d1\u5a18\u65e5\u5e38\u4e24\u4ef6\u5927\u4e8b\uff0c\u4e00\u662f\u5404\u79cd\u6e20\u9053\u5173\u6ce8\u4ed6\u7684\u52a8\u6001\uff0c\u4e8c\u662f\u505a\u5fc3\u7406\u6d4b\u8bd5\uff1b\u70ed\u604b\u4e2d\u7684\u59d1\u5a18\u65e5\u5e38\u4e24\u4ef6\u5927\u4e8b\uff0c\u4e00\u662f\u7c98\u7740\u7537\u670b\u53cb\uff0c\u4e8c\u662f\u505a\u5fc3\u7406\u6d4b\u8bd5\uff1b\u5931\u604b\u4e2d\u7684\u59d1\u5a18\u65e5\u5e38\u4e24\u4ef6\u5927\u4e8b\uff0c\u4e00\u662f\u901a\u8fc7\u5404\u79cd\u6d3b\u52a8\u7597\u4f24\uff0c\u4e8c\u662f\u505a\u5fc3\u7406\u6d4b\u8bd5\u2026\u2026\u5443\uff0c\u4e3a\u4ec0\u4e48\u5973\u751f\u7279\u522b\u7231\u5fc3\u7406\u6d4b\u8bd5\uff1f"},{"title":"\u65c5\u884c&\u517b\u751f","questionTitle":"\u7ed9\u65c5\u884c\u8005\u7684\u517b\u751f\u5fe0\u544a","url":"http:\/\/zhidao.baidu.com\/s\/daily\/2014-03-01\/1401896642.html#pn=4","answer":"\u9664\u4e86\u5de5\u4f5c\u65c5\u884c\uff0c\u770b\u671b\u7236\u6bcd\u3001\u4eb2\u670b\u76f8\u4f1a\u3001\u4f11\u95f2\u5ea6\u5047\uff0c\u4e5f\u90fd\u96be\u514d\u5728\u5916\u5954\u6ce2\u52b3\u987f\u3002\u5230\u8fd9\u65f6\u8282\uff0c\u8fd8\u6709\u65f6\u95f4\u8fd0\u52a8\u5065\u8eab\u5417\uff1f\u8fd8\u6709\u673a\u4f1a\u6309\u65f6\u5403\u7761\u5417\uff1f\u5f88\u591a\u4eba\u53ea\u597d\u82e6\u7b11\u7740\u6447\u6447\u5934\u3002\u5176\u5b9e\uff0c\u53ea\u8981\u81ea\u5df1\u6709\u5fc3\uff0c\u65e0\u8bba\u4ec0\u4e48\u60c5\u51b5\uff0c\u90fd\u80fd\u60f3\u51fa\u529e\u6cd5\uff0c\u5173\u7231\u81ea\u5df1\u7684\u5065\u5eb7\u3002"},{"title":"\u9632\u6050&\u653b\u7565","questionTitle":"\u9632\u6050\u9632\u66b4\u5168\u653b\u7565","url":"http:\/\/zhidao.baidu.com\/s\/daily\/2014-03-02\/1398508453.html","answer":"\u9047\u5230\u6050\u6016\u66b4\u529b\u4e8b\u4ef6\uff0c\u5982\u4f55\u81ea\u6551\u4e0e\u4e92\u6551\uff1f\u5982\u4f55\u8bc6\u522b\u6050\u6016\u88ad\u51fb\u8ff9\u8c61\uff1f\u5982\u4f55\u89c4\u907f\u67aa\u51fb\u3001\u7206\u70b8\u3001\u7eb5\u706b\u7b49\u6050\u6016\u66b4\u529b\u4e8b\u4ef6\uff1f\u4e3a\u6606\u660e\u9ed8\u54c0\u7948\u798f\u7684\u540c\u65f6\uff0c\u5e0c\u671b\u5927\u5bb6\u80fd\u591f\u5b66\u4e60\uff0c\u4f46\u6c38\u8fdc\u4e0d\u9700\u8981\u7528\u4e0a\uff01"},{"title":"\u5927\u4fbf&\u5065\u5eb7","questionTitle":"\u770b\u5927\u4fbf\uff0c\u8bc6\u5065\u5eb7","url":"http:\/\/zhidao.baidu.com\/s\/daily\/2014-02-21\/1400273634.html","answer":"\u5927\u4fbf\u662f\u4e00\u4e2a\u975e\u5e38\u597d\u7684\u8eab\u4f53\u5065\u5eb7\u72b6\u51b5\u68c0\u67e5\u7684\u76f4\u89c2\u6307\u6807\u3002\u56de\u5934\u770b\u4e0a\u4e00\u773c\uff0c\u4e5f\u8bb8\u5c31\u80fd\u544a\u8bc9\u4f60\u662f\u5426\u6709\u75be\u75c5\uff0c\u4e5f\u53ef\u80fd\u5c31\u8ba9\u4f60\u53ca\u65e9\u5c31\u533b\uff0c\u9632\u60a3\u4e8e\u672a\u7136\u3002"},{"title":"\u7518\u8349\u7247&\u9e26\u7247","questionTitle":"\u4e3a\u4f55\u5e26\u7518\u8349\u7247\u65e0\u6cd5\u5165\u5883\u7f8e\u56fd\uff1f","url":"http:\/\/zhidao.baidu.com\/s\/daily\/2014-02-20\/1394679266.html","answer":"\u6700\u8fd1\uff0c\u4ece\u6d59\u6c5f\u8d74\u7f8e\u529e\u4e8b\u7684\u5434\u5148\u751f\u548c\u5176\u5973\u513f\u9047\u5230\u4e86\u4e00\u4ef6\u9ebb\u70e6\u4e8b\u3002\u5728\u4ed6\u4eec\u5165\u5883\u7f8e\u56fd\u65f6\uff0c\u88ab\u67e5\u51fa\u643a\u5e26\u670916\u74f6\u5171\u8ba1\u7ea61600\u7c92\u7684\u590d\u65b9\u7518\u8349\u7247\u3002\u7f8e\u56fd\u8b66\u65b9\u968f\u540e\u4ee5\u643a\u5e26\u542b\u6bd2\u8fdd\u7981\u54c1\u672a\u7533\u62a5\u5165\u5883\u4e3a\u7406\u7531\uff0c\u5c06\u5176\u9063\u8fd4\u56de\u56fd\uff0c\u5e76\u5224\u5176\u672a\u6765\u4e94\u5e74\u5185\u4e0d\u5f97\u5165\u5883\u3002"},{"title":"\u96fe\u973e&\u53e3\u7f69","questionTitle":"\u5e94\u5bf9\u96fe\u973e\uff0c\u53e3\u7f69\u600e\u4e48\u9009\uff1f","url":"http:\/\/zhidao.baidu.com\/s\/daily\/2013-12-13\/1395922999.html","answer":"\u6700\u8fd1\u5168\u56fd\u5404\u5730\u53c8\u5728\u4e0a\u6f14\u96fe\u973e\u56f4\u57ce\u7684\u620f\u7801\u3002\u5982\u4f55\u5728\u4e91\u70df\u96fe\u7ed5\u4e2d\u4fdd\u62a4\u81ea\u5df1\uff1f\u666e\u901a\u7eb1\u5e03\u53e3\u7f69\u6216\u8005\u533b\u7528\u624b\u672f\u53e3\u7f69\u80fd\u62b5\u6321PM2.5\u5417\uff1f\u4ec0\u4e48\u662fN95\u53e3\u7f69\uff1f"},{"title":"\u6027\u90fd&\u4e1c\u839e","questionTitle":"\u4e1c\u839e\u600e\u4e48\u4e86\uff1f","url":"http:\/\/zhidao.baidu.com\/question\/982243983357389379.html?quesup2&oldq=1","answer":"\u4ece2\u67089\u65e5\u8d77\uff0c\u4e1c\u839e\u767b\u4e0a\u4e86\u5404\u5927\u5a92\u4f53\u5934\u6761\u3002\u4e1c\u839e\u4e0b\u4e86\u573a\u4e0d\u5c0f\u7684\u96e8\u3001\u4e1c\u839e\u4fdd\u536b\u6218\u3001\u4e1c\u839e\u633a\u4f4f\u7b49\u8bdd\u9898\u72c2\u626b\u4e92\u8054\u7f51\uff0c\u201c\u4e1c\u839e\u67e5\u5c01\u6d89\u9ec4\u5a31\u4e50\u573a\u6240\u201d\u76f4\u98da\u767e\u5ea6\u70ed\u70b9\u641c\u7d22\u6392\u884c\u699c\u524d\u4e09\uff0c\u4e1c\u839e\u5230\u5e95\u600e\u4e48\u4e86\uff1f"},{"title":"\u8d5b\u767e\u5473&\u978b\u5e95","questionTitle":"\u8d5b\u767e\u5473\u91cc\u6709\u978b\u5e95\u662f\u600e\u4e48\u56de\u4e8b\uff1f","url":"http:\/\/zhidao.baidu.com\/s\/daily\/2014-02-10\/1400715076.html?autorefresh=1391997750416","answer":"\u6700\u8fd1\u6709\u65b0\u95fb\u62a5\u9053\uff0cSubway\u5728\u5317\u7f8e\u51fa\u552e\u7684\u98df\u7269\u4e2d\u6709\u79cd\u53ebAzodiacarbonamide\u7684\u5316\u5b66\u5236\u54c1\uff0c\u4e5f\u88ab\u7528\u4e8e\u745c\u4f3d\u57ab\u548c\u978b\u5e95\uff0c\u5728\u6b27\u76df\u3001\u6fb3\u5927\u5229\u4e9a\u7b49\u5730\u88ab\u660e\u4ee4\u7981\u6b62\u7528\u4e8e\u98df\u7269\u3002"},{"title":"\u9ebb\u8fa3\u70eb&\u5065\u5eb7","questionTitle":"\u600e\u4e48\u5403\u9ebb\u8fa3\u70eb\u624d\u5065\u5eb7\uff1f","url":"http:\/\/zhidao.baidu.com\/s\/daily\/2014-01-20\/1397111972.html","answer":"\u5f88\u591a\u4eba\u8ba4\u4e3a\u9ebb\u8fa3\u70eb\u662f\u4e00\u79cd\u4e0d\u5065\u5eb7\u7684\u98df\u7269\uff0c\u5b9e\u9645\u4e0a\uff0c\u5982\u679c\u80fd\u591f\u5728\u98df\u54c1\u5b89\u5168\u65b9\u9762\u628a\u597d\u5173\uff0c\u5e76\u8fdb\u884c\u5408\u7406\u7684\u642d\u914d\uff0c\u9ebb\u8fa3\u70eb\u8bf4\u5f97\u4e0a\u662f\u4e00\u79cd\u76f8\u5f53\u4e0d\u9519\u7684\u5feb\u9910\u98df\u54c1\uff0c\u6bd4\u714e\u70b8\u98df\u54c1\u8981\u5065\u5eb7\u5f97\u591a\uff0c\u4e5f\u73af\u4fdd\u5f97\u591a\u3002"},{"title":"\u597d\u7537\u4eba&\u574f\u7537\u4eba","questionTitle":"\u4e3a\u4ec0\u4e48\u7537\u4eba\u4e0d\u574f\uff0c\u5973\u4eba\u4e0d\u7231\uff1f","url":"http:\/\/zhidao.baidu.com\/s\/daily\/2014-01-19\/1392523837.html","answer":"\u4e0d\u5c11\u4eba\u90fd\u6709\u7740\u8fd9\u4e48\u4e00\u79cd\u5370\u8c61\uff1a\u201c\u597d\u7537\u4eba\u201d\u867d\u7136\u4eba\u54c1\u5f88\u597d\uff0c\u5bf9\u7231\u4eba\u5fe0\u8bda\uff0c\u4f46\u6027\u683c\u61a8\u5b9e\u6728\u8bb7\uff0c\u4e0d\u5584\u8a00\u8f9e\uff0c\u201c\u60c5\u5546\u201d\u592a\u4f4e\uff0c\u6240\u4ee5\u4e0d\u53d7\u5973\u6027\u6b22\u8fce\u3002\u800c\u201c\u574f\u7537\u4eba\u201d\u6027\u683c\u6d3b\u6cfc\u3001\u80fd\u8bf4\u4f1a\u9053\uff0c\u201c\u60c5\u5546\u201d\u5f88\u9ad8\u3002"},{"title":"\u6b4c\u624b&\u5531\u529f","questionTitle":"\u4e3a\u4f55\u5927\u9646\u6b4c\u624b\u5531\u529f\u4e0d\u5982\u6e2f\u53f0\uff1f","url":"http:\/\/zhidao.baidu.com\/s\/daily\/2014-01-21\/1390721322.html","answer":"\u867d\u7136\u300a\u6211\u662f\u6b4c\u624b\u300b\u6709\u5927\u91cf\u7684\u540e\u671f\u6280\u672f\u5904\u7406\uff0c\u4f46\u5e76\u4e0d\u59a8\u788d\u573a\u5916\u89c2\u4f17\u6bd4\u8f83\u4ed6\u4eec\u7684\u5531\u529f\u3002\u672c\u5b63\u300a\u6211\u662f\u6b4c\u624b\u300b\u64ad\u51fa\u4e86\u4e09\u573a\uff0c\u5df2\u80fd\u5927\u81f4\u4f53\u73b0\u6b4c\u624b\u4eec\u7684\u5531\u529f\u6c34\u51c6\u3002"},{"title":"\u8def\u706f\u6746&\u62a5\u8b66","questionTitle":"\u201c\u8def\u706f\u6746\u5b9a\u4f4d\u62a5\u8b66\u201d\u9760\u8c31\u5417\uff1f","url":"http:\/\/zhidao.baidu.com\/question\/1732146661299396787.html","answer":"\u4e0d\u5c11\u5a92\u4f53\u5728\u5404\u5730\u4e5f\u8fdb\u884c\u4e86\u6c42\u8bc1\uff1a\u8def\u706f\u6746\u6709\u5b9a\u4f4d\u529f\u80fd\u5417\uff1f\u6709\uff0c\u4f46\u5927\u90e8\u5206\u57ce\u5e02\u53ea\u662f\u5185\u90e8\u517b\u62a4\u4eba\u5458\u5728\u7528\u3002\u76ee\u524d\uff0c\u6709\u5c11\u91cf\u57ce\u5e02\u5229\u7528\u8def\u706f\u6746\u7f16\u53f7\u5b9e\u73b0\u201c\u5b9a\u4f4d\u201d\u62a5\u8b66\u3002"},{"title":"\u7a7f\u8863&\u642d\u914d","questionTitle":"\u4e0d\u53ef\u4e0d\u77e5\u7684\u7a7f\u8863\u642d\u914d\u5b66\u95ee","url":"http:\/\/zhidao.baidu.com\/question\/325390876.html","answer":"1.\u7ea2\u8272\u914d\u767d\u8272\u3001\u9ed1\u8272\u3001\u84dd\u7070\u8272\u3001\u7c73\u8272\u3001\u7070\u8272\uff1b2.\u5496\u5561\u8272\u914d\u7c73\u8272\u3001\u9e45\u9ec4\u3001\u7816\u7ea2\u3001\u84dd\u7eff\u8272\u3001\u9ed1\u8272\uff1b3.\u9ec4\u8272\u914d\u7d2b\u8272\u3001\u84dd\u8272\u3001\u767d\u8272\u3001\u5496\u5561\u8272\u3001\u9ed1\u8272\u2026\u2026"},{"title":"\u9178\u5976&\u725b\u5976","questionTitle":"\u9178\u5976\u80fd\u4ee3\u66ff\u725b\u5976\u5417\uff1f","url":"http:\/\/zhidao.baidu.com\/s\/daily\/2013-12-27\/1395780156.html","answer":"\u6211\u4eec\u5148\u6765\u770b\u770b\u725b\u5976\u91cc\u90fd\u6709\u4ec0\u4e48\u3002\u5c31\u50cf\u725b\u5976\u7684\u5305\u88c5\u76d2\u4e0a\u6807\u8bc6\u7684\u90a3\u6837\uff0c\u4e0d\u7ba1\u662f\u5df4\u6c0f\u5976\u8fd8\u662f\u5e38\u6e29UHT\u5976\uff0c\u901a\u5e38100\u514b\u5168\u8102\u725b\u5976\u4e2d\uff0c\u542b\u6709\u5927\u7ea63%\u7684\u86cb\u767d\u8d28\uff0c3.5%\u5de6\u53f3\u7684\u8102\u80aa\uff0c\u4ee5\u53ca5%\u5de6\u53f3\u7684\u78b3\u6c34\u5316\u5408\u7269\u3002\u9664\u6b64\u4e4b\u5916\uff0c100\u514b\u7684\u725b\u5976\u4e2d\u8fd8\u542b\u6709110\u6beb\u514b\u7684\u9499\u8d28\u3002\u82e5\u662f\u4f4e\u8102\u6216\u8005\u8131\u8102\u725b\u5976\uff0c\u5176\u4e2d\u7684\u8102\u80aa\u542b\u91cf\u5219\u4f1a\u66f4\u4f4e\u4e00\u4e9b\u3002"},{"title":"\u96fe\u973e&\u5403\u9752\u83dc","questionTitle":"\u5403\u9752\u83dc\u53ef\u4ee5\u9632\u96fe\u973e\u5417\uff1f","url":"http:\/\/zhidao.baidu.com\/question\/2051946864787345667.html","answer":"\u6709\u7231\u59d0\u59d0@\u58a8\u4e00\u53ea \u5e0c\u671b\u8d81\u5c0f\u59b9\u59b9\u5bb3\u6015\u96fe\u973e\u4e2d\u6bd2\u54c4\u5979\u5403\u9752\u83dc\uff0c\u6c42\u5927\u5bb6\u5728\u767e\u5ea6\u77e5\u9053\u5e2e\u56de\u7b54\u5403\u9752\u83dc\u53ef\u9632\u96fe\u973e\u3002\u5403\u9752\u83dc\u771f\u7684\u53ef\u4ee5\u9632\u96fe\u973e\u5417\uff1f"},{"title":"\u65b9\u4fbf\u9762&\u53d1\u660e","questionTitle":"\u65b9\u4fbf\u9762\u662f\u8c01\u53d1\u660e\u7684\uff1f","url":"http:\/\/zhidao.baidu.com\/question\/20232642.html","answer":"\u5b89\u85e4\u767e\u798f\u53d1\u660e\u4e16\u754c\u4e0a\u7b2c\u4e00\u5305\u65b9\u4fbf\u9762\u2014\u2014\"\u9e21\u8089\u62c9\u9762\"\u662f\u57281958\u5e74\uff0c\u5f53\u65f6\u4ed6\u5df248\u5c81\uff0c\u800c\u5f00\u53d1\u65b9\u4fbf\u9762\u7684\u7075\u611f\u5219\u65e9\u57281945\u5e74\u5c31\u5df2\u840c\u751f\u3002"},{"title":"\u5154\u5b50&\u841d\u535c","questionTitle":"\u5154\u5b50\u5176\u5b9e\u4e0d\u7231\u5403\u841d\u535c","url":"http:\/\/zhidao.baidu.com\/link?url=OEC3mlLqV8Gb4wF8HDmPZlf5yO0fpZt5Kk_HXFkFN_jFrtqh_KWi4eLhRYcyf_WBgUUbxPzzH7BPiNJvR3a5-_","answer":"\u5154\u5b50\u4e3b\u7cae\u662f\u7267\u8349\uff0c\u914d\u4ee5\u9002\u91cf\u5154\u7cae\u5582\u517b\u3002\u6c34\u679c\u852c\u83dc\u53ea\u80fd\u5f53\u96f6\u98df\u5582\uff0c\u800c\u4e14\u8981\u4fdd\u8bc1\u5e72\u51c0\u65e0\u519c\u836f\u8868\u9762\u65e0\u6c34\u5206\uff0c\u8fd8\u4e0d\u80fd\u542b\u6c34\u592a\u591a\uff0c\u6c34\u5206\u592a\u591a\u7684\u83dc\u53f6\u9700\u8981\u6652\u852b\u4e00\u70b9\u518d\u5582\u3002"},{"title":"\u559d\u9152&\u6000\u5b55","questionTitle":"\u559d\u9152\u5bf9\u6000\u5b55\u7684\u5f71\u54cd\uff1f","url":"http:\/\/zhidao.baidu.com\/question\/91236623.html","answer":"\u2460\u6000\u5b55\u524d6\u4e2a\u6708\uff0c\u81f3\u5c113\u4e2a\u6708\u5e94\u6212\u70df\u6212\u9152\uff1b\u2461\u5982\u679c\u5b55\u524d\u4e08\u592b\u5076\u5c14\u559d\u9152\uff0c\u867d\u7136\u53ef\u80fd\u5f71\u54cd\u4e0d\u5927\uff0c\u4f46\u8981\u53ca\u65f6\u6ce8\u610f\u5b55\u68c0\uff1b\u2462\u5b55\u5987\u5fc5\u987b\u6212\u9152\uff0c\u5bf9\u80ce\u513f\u5065\u5eb7\u5f71\u54cd\u8f83\u5927\u3002"},{"title":"UGG&\u5ff5\u6cd5","questionTitle":"UGG\u662f\u4ec0\u4e48\uff1f","url":"http:\/\/zhidao.baidu.com\/question\/127727988.html?qbl=relate_question_0","answer":"\u6700\u521d\u540d\u5b57\u7684\u6765\u7531\u53ebugly boots\uff08\u610f\u601d\u662f\u4e11\u964b\u7684\u978b\u5b50\uff09\u3002\u540e\u6765\u6fb3\u6d32\u4eba\u6635\u79f0\u5b83\u4e3augg\uff0c\u4e5f\u5c31\u662f\u76f4\u76ae\u6bdb\u4e00\u4f53\u7684\u5706\u5934\u9774\u5b50\u3002"},{"title":"\u9e9d\u9999&\u6d41\u4ea7","questionTitle":"\u9999\u6c34\u4e2d\u7684\u9e9d\u9999\u53ef\u81f4\u6d41\u4ea7\uff1f","url":"http:\/\/zhidao.baidu.com\/s\/daily\/2013-11-26\/1391781653.html","answer":"\u76ee\u524d\u5728\u5404\u7c7b\u5316\u5986\u54c1\u3001\u9999\u6c34\u4e2d\u4f7f\u7528\u7684\u57fa\u672c\u90fd\u662f\u4eba\u9020\u9e9d\u9999\u4e86\u3002\u5728\u4eba\u9020\u9e9d\u9999\u88ab\u5e7f\u6cdb\u4f7f\u7528\u7684\u51e0\u5341\u5e74\u91cc\uff0c\u4eba\u4eec\u4e0d\u65ad\u76d1\u6d4b\u8bc4\u4f30\u7740\u4eba\u9020\u9e9d\u9999\u7684\u5b89\u5168\u6027\uff0c\u5e76\u6839\u636e\u8bc4\u4f30\u7ed3\u679c\u6539\u8fdb\u5de5\u827a\uff0c\u8bc4\u4f30\u4e2d\u6ca1\u6709\u53d1\u73b0\u9e9d\u9999\u6709\u5f71\u54cd\u598a\u5a20\u7684\u4f5c\u7528\uff0c\u4e5f\u6ca1\u6709\u9e9d\u9999\u9020\u6210\u6d41\u4ea7\u7684\u62a5\u544a\u3002"},{"title":"\u52a0\u6e7f\u5668&\u5065\u5eb7","questionTitle":"\u51ac\u5b63\u4f7f\u7528\u52a0\u6e7f\u5668\u8981\u6ce8\u610f\u4ec0\u4e48\uff1f","url":"http:\/\/zhidao.baidu.com\/s\/daily\/2013-11-29\/1385795924.html","answer":"\u5317\u65b9\u7684\u51ac\u5929\u4e00\u5411\u5e72\u71e5\uff0c\u4f9b\u6696\u4ee5\u540e\u53d8\u5f97\u66f4\u52a0\u5e72\u71e5\uff0c\u4e8e\u662f\u5f88\u591a\u4eba\u53c8\u796d\u51fa\u4e86\u51ac\u5b63\u4fdd\u6e7f\u5fc5\u5907\u5355\u54c1\u4e4b\u2014\u2014\u52a0\u6e7f\u5668\uff01"},{"title":"\u56fd\u5bb6&\u56fd\u82b1","questionTitle":"\u4e16\u754c\u5404\u56fd\u7684\u56fd\u82b1\u662f\u4ec0\u4e48\uff1f","url":"http:\/\/zhidao.baidu.com\/question\/13969657.html","answer":"\u4e2d\u56fd-\u7261\u4e39\uff1b\u4fc4\u7f57\u65af-\u5411\u65e5\u8475\uff1b\u82f1\u56fd\u3001\u7f8e\u56fd-\u73ab\u7470\uff1b\u610f\u5927\u5229-\u96cf\u83ca\uff1b\u6fb3\u5927\u5229\u4e9a-\u91d1\u5408\u6b22\uff1b\u897f\u73ed\u7259-\u77f3\u69b4\uff1b\u65b0\u52a0\u5761-\u4e07\u4ee3\u5170\uff1b\u57c3\u53ca\u3001\u6cf0\u56fd-\u7761\u83b2\uff1b\u97e9\u56fd-\u6728\u69ff\u82b1\uff1b\u65e5\u672c-\u6a31\u82b1\uff1b\u9a6c\u6765\u897f\u4e9a\u3001\u6590\u6d4e-\u6276\u6851"},{"title":"\u7a0b\u5e8f\u5458&\u9888\u690e","questionTitle":"\u7a0b\u5e8f\u5458\uff0c\u5982\u4f55\u62ef\u6551\u4f60\u7684\u9888\u690e\uff1f","url":"http:\/\/t.cn\/8kAgje7","answer":"\u63a8\u8350\u8fd0\u52a8\uff1a\u2460\u5de6\u53f3\u8f6c\u5934 \u2461\u5411\u4e0a\u62ac\u5934 \u2462\u5de6\u53f3\u6b6a\u5934 \u2463\u65cb\u8f6c\u80a9\u90e8 \u2464\u6e38\u6cf3 \u2465\u653e\u98ce\u7b5d\u3002\u9888\u690e\u75c5\u81ea\u6d4b\uff1a\u2460\u5bb9\u6613\u53d1\u751f\u843d\u6795 \u2461\u5de6\u53f3\u8f6c\u5934\u65e0\u6cd5\u770b\u5230\u80a9\u8180 \u2462\u5411\u4e0a\u62ac\u5934\u65e0\u6cd5\u770b\u5230\u5929\u82b1\u677f \u2463\u8f6c\u5934\u9888\u90e8\u4f1a\u201c\u5580\u62c9\u5580\u62c9\u201d\u54cd \u2464\u80a9\u9888\u75bc"},{"title":"\u53e4\u4ee3&\u540d\u5e16","questionTitle":"\u4e2d\u56fd\u53e4\u4ee3\u5341\u5927\u4f20\u4e16\u540d\u5e16\u6709\u54ea\u4e9b\uff1f","url":"http:\/\/zhidao.baidu.com\/question\/10262563.html","answer":"\u2460\u738b\u7fb2\u4e4b\u5bb6\u65cf\u300a\u4e09\u5e0c\u5b9d\u5e16\u300b \u2461\u738b\u7fb2\u4e4b\u300a\u5170\u4ead\u5e8f\u300b \u2462\u989c\u771f\u537f\u300a\u796d\u4f84\u6587\u7a3f\u300b \u2463\u82cf\u8f7c\u300a\u9ec4\u5dde\u5bd2\u98df\u5e16\u300b \u2464\u6b27\u9633\u8be2\u300a\u4ef2\u5c3c\u68a6\u5960\u5e16\u300b \u2465\u6000\u7d20\u300a\u81ea\u53d9\u5e16\u300b \u2466\u7c73\u82be\u300a\u8700\u7d20\u5e16\u300b \u2467\u8d75\u4f76\u300a\u8349\u4e66\u5343\u5b57\u6587\u300b \u2468\u8d75\u5b5f\u982b\u6977\u4e66\u300a\u524d\u540e\u8d64\u58c1\u8d4b\u300b \u2469\u795d\u5141\u660e\u300a\u8349\u4e66\u8bd7\u5e16\u300b"},{"title":"\u677f\u84dd\u6839&\u9632\u6d41\u611f","questionTitle":"\u677f\u84dd\u6839\u80fd\u6e05\u70ed\u89e3\u6bd2\u3001\u9632\u6d41\u611f\u5417\uff1f","url":"http:\/\/zhidao.baidu.com\/s\/daily\/2013-10-16\/1388250661.html","answer":"\u677f\u84dd\u6839\u4f5c\u4e3a\u4e07\u80fd\u795e\u836f\uff0c\u88ab\u8d4b\u4e88\u6e05\u70ed\u89e3\u6bd2\u3001\u9632\u6b62\u6d41\u611f\u7684\u529f\u6548\u3002\u4f46\u5bf9\u4e8e\u677f\u84dd\u6839\u7684\u836f\u7528\u4ef7\u503c\u4e00\u76f4\u5b58\u5728\u4e24\u6d3e\u622a\u7136\u4e0d\u540c\u7684\u58f0\u97f3\uff0c"},{"title":"\u6d77\u5e26&\u767d\u7c89","questionTitle":"\u6d77\u5e26\u4e0a\u7684\u767d\u7c89\u662f\u4ec0\u4e48\uff1f","url":"http:\/\/zhidao.baidu.com\/question\/29898787.html","answer":"\u5e72\u6d77\u5e26\u8868\u9762\u4f1a\u6709\u4e00\u5c42\u767d\u7c89\uff0c\u5165\u6c34\u540e\u4f1a\u5f62\u6210\u4e00\u5c42\u7c98\u6db2\uff0c\u5f88\u591a\u4eba\u4f1a\u5f88\u8d39\u529b\u5730\u5c06\u5176\u6d17\u6389\u3002\u5176\u5b9e\u8fd9\u662f\u4e00\u79cd\u8d35\u91cd\u7684\u836f\u7528\u7269\u8d28\u201c\u7518\u9732\u9187\u201d\uff0c\u5177\u6709\u964d\u538b\u3001\u5229\u5c3f\u548c\u6d88\u80bf\u7684\u4f5c\u7528\u3002"},{"title":"\u5927\u6d77&\u84dd\u8272","questionTitle":"\u4e3a\u4ec0\u4e48\u5927\u6d77\u662f\u84dd\u8272\u7684\uff1f","url":"http:\/\/zhidao.baidu.com\/question\/216750752.html","answer":"\u4eba\u4eec\u5e38\u559c\u6b22\u7528\u84dd\u8272\u6765\u5f62\u5bb9\u6d77\u6d0b\u3002\u5176\u5b9e\u6d77\u6c34\u7684\u989c\u8272\uff0c\u4ece\u6df1\u84dd\u5230\u78a7\u7eff\uff0c\u4ece\u5fae\u9ec4\u5230\u68d5\u7ea2\uff0c\u751a\u81f3\u8fd8\u6709\u767d\u8272\u7684\uff0c\u9ed1\u8272\u7684\uff0c\u5e76\u975e\u53ea\u662f\u84dd\u8272\u3002\u5176\u5b9e\uff0c\u6d77\u6c34\u548c\u666e\u901a\u6c34\u4e00\u6837\uff0c\u90fd\u662f\u65e0\u8272\u900f\u660e\u7684\uff0c\u6d77\u6d0b\u8272\u5f69\u662f\u7531\u6d77\u6c34\u7684\u5149\u5b66\u6027\u8d28\u548c\u6d77\u6c34\u4e2d\u6240\u542b\u7684\u60ac\u6d6e\u7269\u8d28\u3001\u6d77\u6c34\u7684\u6df1\u5ea6\u3001\u4e91\u5c42\u7684\u7279\u70b9\u53ca\u5176\u4ed6\u56e0\u7d20\u51b3\u5b9a\u7684\u2026\u2026"},{"title":"\u5403\u836f&\u65f6\u95f4","questionTitle":"\u996d\u524d\u5403\u836f\u597d\u8fd8\u662f\u996d\u540e\u5403\u836f\u597d\uff1f","url":"http:\/\/zhidao.baidu.com\/question\/6544973.html","answer":"\u836f\u7269\u7684\u5e94\u7528\u5fc5\u987b\u4e0e\u4eba\u7684\u996e\u98df\u76f8\u9002\u5e94\uff0c\u624d\u80fd\u66f4\u597d\u5730\u53d1\u6325\u4f5c\u7528\u30021\uff0e\u7a7a\u8179\uff1a\u9a71\u80a0\u866b\u836f\u5982\u9a71\u86d4\u7075\u3001\u69df\u6994\u3001\u76d0\u7c7b\u6cfb\u836f\u7b49\u30022\uff0e\u996d\u524d\uff1a\u5bf9\u6d88\u5316\u7cfb\u7edf\u523a\u6fc0\u4e0d\u5927\u7684\u80a0\u9053\u6297\u611f\u67d3\u836f\u5b9c\u5728\u996d\u524d\u670d\u3002"},{"title":"\u7c73\u8001\u9f20&\u6765\u5386","questionTitle":"\u7c73\u8001\u9f20\u662f\u600e\u4e48\u8bde\u751f\u7684\uff1f","url":"http:\/\/zhidao.baidu.com\/question\/344098527.html","answer":"\u6709\u4e00\u5929\uff0c\u5f53\u6c83\u5c14\u7279\u00b7\u8fea\u65af\u5c3c\u8f9b\u82e6\u4f0f\u6848\u753b\u753b\u7684\u65f6\u5019\uff0c\u6709\u4e00\u53ea\u5c0f\u8001\u9f20\u745f\u745f\u7f29\u7f29\u5730\u722c\u5230\u684c\u5b50\u4e0a\u5077\u98df\u9762\u5305\u5c51\u3002\u5f53\u5c0f\u8001\u9f20\u53d1\u73b0\u6c83\u5c14\u7279\u00b7\u8fea\u65af\u5c3c\u6ca1\u6709\u8d76\u5b83\u8d70\u6216\u7f6e\u5b83\u4e8e\u6b7b\u5730\uff0c\u5c31\u5927\u80c6\u5730\u4e0e\u4ed6\u9017\u4e50\uff0c\u751a\u81f3\u6dd8\u6c14\u5730\u722c\u4e0a\u4ed6\u7684\u4e66\u684c\uff0c\u4eff\u4f5b\u5728\u770b\u4ed6\u753b\u753b\u4f3c\u7684\u3002 "},{"title":"\u98de\u673a&\u7caa\u4fbf\u5904\u7406","questionTitle":"\u98de\u673a\u4e0a\u7684\u7caa\u4fbf\u5982\u4f55\u5904\u7406\uff1f","url":"http:\/\/zhidao.baidu.com\/question\/84881113.html","answer":"\u5927\u578b\u6c11\u822a\u98de\u673a\u7684\u6807\u51c6\u536b\u751f\u95f4\u5185\uff0c\u65c5\u5ba2\u201c\u65b9\u4fbf\u201d\u540e\uff0c\u6309\u4e0b\u6309\u94ae\uff0c\u9a6c\u6876\u58c1\u5c31\u4f1a\u6d41\u51fa\u5c11\u91cf\u7684\u6e05\u6c34\uff0c\u6709\u7684\u8fd8\u52a0\u5165\u5316\u7caa\u5242\uff0c\u8d77\u7a00\u91ca\u548c\u51b2\u5237\u4f5c\u7528\uff0c\u540c\u65f6\u5de8\u5927\u7684\u771f\u7a7a\u5438\u529b\u5c06\u7caa\u4fbf\u62bd\u5438\u8fdb\u98de\u673a\u643a\u5e26\u7684\u4e24\u5c42\u7ed3\u6784\u7684\u201c\u7caa\u7f50\u201d\u4e2d\uff0c\u5230\u8fbe\u5730\u9762\u540e\uff0c\u518d\u7531\u4e13\u7528\u7684\u7caa\u4fbf\u6536\u7eb3\u8f66\u8f86\u5c06\u7caa\u4fbf\u96c6\u4e2d\u6536\u7eb3\u3001\u5904\u7406\u3002 "},{"title":"\u836f\u54c1&\u771f\u5047","questionTitle":"\u5982\u4f55\u8fa8\u522b\u836f\u54c1\u7684\u771f\u5047\uff1f","url":"http:\/\/zhidao.baidu.com\/s\/daily\/2013-11-09\/1387257338.html","answer":"\u662f\u4e0d\u662f\u836f\u54c1\uff1f\u662f\u897f\u836f\u8fd8\u662f\u4e2d\u836f\uff1f\u662f\u4fdd\u5065\u54c1\u8fd8\u662f\u98df\u54c1\uff1f\u662f\u771f\u3001\u662f\u52a3\u3001\u662f\u5047\uff1f\u53ef\u4ee5\u5148\u4ece\u5916\u5305\u88c5\u4e0a\u7684\u6279\u51c6\u6587\u53f7\u548c\u6807\u8bc6\u53bb\u8bc6\u522b\u771f\u5047\uff0c\u5176\u6b21\u662f\u767b\u9646\u56fd\u5bb6\u836f\u76d1\u5c40\u7f51\u7ad9\uff0c\u6570\u636e\u67e5\u8be2\u3002"},{"title":"\u8170\u7a9d&\u597d\u8eab\u6750","questionTitle":"\u8eab\u6750\u597d\u7684\u4eba\u624d\u4f1a\u6709\u8170\u7a9d\u5417\uff1f","url":"http:\/\/zhidao.baidu.com\/s\/daily\/2013-11-10\/1387513611.html","answer":"\u89e3\u5256\u5b66\u8bfe\u672c\u4ee5\u53ca\u5b66\u672f\u8d44\u6599\u4e2d\uff0c\u5e76\u6ca1\u6709\u201c\u8170\u7a9d\u201d\u8fd9\u4e2a\u8bcd\uff0c\u53ef\u89c1\u201c\u8170\u7a9d\u201d\u5e76\u975e\u5b66\u540d\uff0c\u4e5f\u6ca1\u6709\u592a\u5927\u7684\u533b\u5b66\u610f\u4e49\u3002\u751a\u81f3\uff0c\u201c\u8170\u7a9d\u201d\u5728\u4e2d\u6587\u4e16\u754c\u4e5f\u4e0d\u662f\u4e00\u4e2a\u6709\u5386\u53f2\u7684\u4fd7\u540d\u3002"},{"title":"\u6d77\u9c9c&\u5bc4\u751f\u866b","questionTitle":"\u7231\u5403\u751f\u6d77\u9c9c\uff1f\u5c0f\u5fc3\u5bc4\u751f\u866b","url":"http:\/\/zhidao.baidu.com\/s\/daily\/2013-11-10\/1384596323.html","answer":"\u5728\u6211\u56fd\u548c\u65e5\u672c\uff0c\u5f88\u591a\u4eba\u90fd\u559c\u6b22\u751f\u731b\u6d77\u9c9c\uff0c\u5176\u7ed3\u679c\u5c31\u662f\u8bb8\u591a\u4eba\u56e0\u6b64\u60a3\u4e0a\u5bc4\u751f\u866b\u75c5\u3002\u56e0\u4e3a\u5bf9\u4e8e\u6c34\u4ea7\u54c1\u6765\u8bf4\uff0c\u50cf\u798f\u5bff\u87ba\u3001\u867e\u3001\u87f9\u7b49\uff0c\u5927\u591a\u6570\u662f\u5bc4\u751f\u866b\u6216\u75c5\u83cc\u7684\u5bbf\u4e3b\uff0c\u672a\u5f7b\u5e95\u52a0\u70ed\u6216\u8005\u708a\u5177\u3001\u5bb9\u5668\u751f\u719f\u4e0d\u5206\uff0c\u8fd9\u6837\u7684\u996e\u98df\u65b9\u6cd5\u5f88\u5bb9\u6613\u98df\u5165\u5bc4\u751f\u866b\u3002"},{"title":"\u732e\u8840&\u5065\u5eb7","questionTitle":"\u732e\u8840\u90a3\u70b9\u4e8b\uff0c\u4f60\u4e86\u89e3\u591a\u5c11\uff1f","url":"http:\/\/zhidao.baidu.com\/s\/daily\/2013-11-11\/1384701205.html","answer":"\u901a\u5e38\u4e00\u6b21\u732e\u8840200\u6beb\u5347\uff0c200\u6beb\u5347\u53730.2\u5347\uff0c\u800c\u6210\u5e74\u4eba\u7684\u8840\u6db2\u603b\u91cf\u7ea6\u4e3a4.2~4.8\u5347\uff0c\u732e\u8840\u91cf\u4ec5\u5360\u5168\u8eab\u8840\u6db2\u76845%\u5de6\u53f3\uff0c\u5bf9\u5065\u5eb7\u4eba\u6765\u8bf4\u4e0d\u662f\u4e2a\u5927\u6570\u76ee\uff0c\u4e0d\u4f1a\u5bf9\u8eab\u4f53\u9020\u6210\u4ec0\u4e48\u4f24\u5bb3\u3002"},{"title":"\u4ed9\u4eba\u638c&\u5438\u6536\u8f90\u5c04","questionTitle":"\u4ed9\u4eba\u638c\u53ef\u4ee5\u5438\u8f90\u5c04\u5417\uff1f","url":"http:\/\/zhidao.baidu.com\/question\/345434404.html","answer":"\u7814\u7a76\u690d\u7269\u7684\u56ed\u827a\u4e13\u5bb6\u8868\u793a\uff0c\u672a\u66fe\u6709\u4efb\u4f55\u7814\u7a76\u5b9e\u9a8c\u62a5\u544a\u53ef\u8bc1\u660e\uff0c\u4ed9\u4eba\u638c\u5438\u6536\u8f90\u5c04\u7684\u80fd\u529b\u6bd4\u5176\u5b83\u7269\u79cd\u4f18\u5f02\u3002\u4efb\u4f55\u52a8\u690d\u7269\u53ca\u4eba\u4f53\uff0c\u90fd\u6709\u5438\u6536\u8f90\u5c04\u7684\u81ea\u7136\u80fd\u529b\uff0c\u4f46\u76ee\u524d\u5e76\u6ca1\u6709\u4efb\u4f55\u7814\u7a76\u8bc1\u660e\uff0c\u67d0\u4e00\u7269\u79cd\u5438\u6536\u8f90\u5c04\u7684\u80fd\u529b\u7279\u522b\u5f3a\u3002"},{"title":"\u732b\u7684\u773c\u775b&\u53d1\u5149","questionTitle":"\u732b\u7684\u773c\u775b\u4e3a\u4ec0\u4e48\u5728\u665a\u4e0a\u4f1a\u53d1\u5149\uff1f","url":"http:\/\/zhidao.baidu.com\/question\/104723894.html","answer":"\u732b\u7684\u773c\u775b\u53d1\u5149\u662f\u56e0\u4e3a\u5b83\u80fd\u53cd\u5c04\u5149\u7ebf\u3002\u732b\u7684\u773c\u775b\u91cc\u6709\u4e00\u79cd\u8c61\u955c\u5b50\u4e00\u6837\u7684\u7279\u6b8a\u8986\u76d6\u5c42\uff0c\u5b83\u4f7f\u5f97\u732b\u5728\u9ed1\u6697\u4e2d\u80fd\u770b\u6e05\u4e1c\u897f\u3002\u8fd9\u79cd\u95ea\u5149\u7269\u8d28\u80fd\u53cd\u5c04\u51fa\u8c61\u624b\u7535\u7b52\u7684\u5149\u6216\u8c61\u6c7d\u8f66\u524d\u706f\u7684\u5149\uff0c\u4ece\u800c\u4f7f\u732b\u7684\u773c\u775b\u95ea\u95ea\u53d1\u5149\u3002 "},{"title":"\u98df\u54c1&\u6027\u65e9\u719f","questionTitle":"\u6709\u4e9b\u98df\u54c1\u4e3a\u4ec0\u4e48\u4f1a\u5bfc\u81f4\u6027\u65e9\u719f\uff1f","url":"http:\/\/zhidao.baidu.com\/question\/1429962897088255619.html","answer":"\u6027\u65e9\u719f\u662f\u513f\u7ae5\u6210\u957f\u53d1\u80b2\u5f02\u5e38\u5f15\u8d77\u7684\u4e00\u79cd\u75be\u75c5\uff0c\u5176\u53d1\u75c5\u7387\u4e3a0.6%\uff0c\u5973\u5b69\u53d1\u75c5\u9ad8\u4e8e\u7537\u5b69\u3002\u8fd1\u5e74\u6765\u7684\u7edf\u8ba1\u6570\u636e\u663e\u793a\uff0c\u6027\u65e9\u719f\u7684\u53d1\u75c5\u7387\u6b63\u5728\u9010\u5e74\u5347\u9ad8\u3002\u8fd9\u4e0e\u513f\u7ae5\u7684\u996e\u98df\u5bc6\u4e0d\u53ef\u5206\uff0c\u5f88\u591a\u98df\u7269\u90fd\u4f1a\u5bfc\u81f4\u5b69\u5b50\u6027\u65e9\u719f\uff0c\u4f46\u662f\u5bb6\u957f\u7531\u4e8e\u5bf9\u513f\u7ae5\u6027\u65e9\u719f\u4e0d\u4e86\u89e3\uff0c\u4ee5\u81f4\u6ca1\u6709\u5f15\u8d77\u91cd\u89c6\u6216\u8005\u4ea7\u751f\u9519\u8bef\u7684\u8ba4\u8bc6\u3002"},{"title":"\u80f6\u56ca&\u5265\u5f00\u5403","questionTitle":"\u80f6\u56ca\u53ef\u4ee5\u5265\u5f00\u5403\u5417\uff1f","url":"http:\/\/zhidao.baidu.com\/question\/1881806254392066708.html","answer":"\u80f6\u56ca\u5236\u5242\u4e00\u822c\u4e0d\u5efa\u8bae\u5265\u5f00\u76f4\u63a5\u5403\u836f\u7c89\uff0c\u7279\u522b\u662f\u63a7\u7f13\u91ca\u80f6\u56ca\u3001\u80a0\u6eb6\u80f6\u56ca\u66f4\u4e0d\u80fd\u5265\u5f00\u5403\uff0c\u5426\u5219\u53ef\u80fd\u4f1a\u4ea7\u751f\u836f\u7269\u8fc7\u91cf\u7b49\u4e0d\u826f\u53cd\u5e94\u6216\u4e0d\u80fd\u8fbe\u5230\u5728\u5c0f\u80a0\u5438\u6536\u7684\u76ee\u7684\u3002"},{"title":"\u571f\u661f\u6728\u661f&\u94bb\u77f3\u96e8","questionTitle":"\u571f\u661f\u6728\u661f\u4e0a\u771f\u7684\u4f1a\u4e0b\u201c\u94bb\u77f3\u96e8\u201d\u5417\uff1f","url":"http:\/\/zhidao.baidu.com\/question\/1110089579068467939.html","answer":"\u571f\u661f\u548c\u6728\u661f\u4f1a\u4e0b\u201c\u94bb\u77f3\u96e8\u201d\uff0c\u571f\u661f\u4e0a\u6bcf\u5e74\u901a\u8fc7\u8fd9\u6837\u7684\u8fc7\u7a0b\uff0c\u4ea7\u751f\u5927\u7ea6\u4e00\u5343\u5428\u201c\u94bb\u77f3\u201d\uff0c\u90e8\u5206\u201c\u94bb\u77f3\u201d\u76f4\u5f84\u6216\u53ef\u4ee5\u8fbe\u4e00\u5398\u7c73\u3002\u7136\u800c\uff0c\u571f\u661f\u548c\u6728\u661f\u7684\u6838\u5fc3\u6e29\u5ea6\u592a\u9ad8\uff0c\u201c\u94bb\u77f3\u201d\u843d\u4e0b\u4e4b\u540e\uff0c\u4f1a\u88ab\u7194\u5316\u6210\u6db2\u4f53\u3002"},{"title":"\u6cd5\u56fd&\u7279\u522b\u5bcc\u4eba\u7a0e","questionTitle":"\u6cd5\u56fd\u6216\u5f81\u6536\u201c\u7279\u522b\u5bcc\u4eba\u7a0e\u201d\uff0c\u8fd9\u662f\u600e\u4e48\u56de\u4e8b\uff1f","url":"http:\/\/zhidao.baidu.com\/question\/1881806190774694228.html","answer":"\u6cd5\u56fd\u56fd\u6c11\u8bae\u4f1a(\u8bae\u4f1a\u4e0b\u9662)18\u65e5\u665a\u6295\u7968\u6279\u51c6\u5728\u4eca\u660e\u4e24\u5e74\u5185\u9488\u5bf9\u5e74\u85aa\u8d85\u8fc7100\u4e07\u6b27\u5143\u7684\u4e2a\u4eba\u5f81\u6536\u9ad8\u7a0e\u7387\u7684\u201c\u7279\u522b\u5bcc\u4eba\u7a0e\u201d\u3002\u8fd9\u5177\u4f53\u662f\u600e\u4e48\u56de\u4e8b\u513f\uff1f"},{"title":"\u5927\u6c14\u6c61\u67d3&\u81f4\u764c","questionTitle":"\u5927\u6c14\u6c61\u67d3\u81f4\u764c\u98ce\u9669\u6709\u591a\u9ad8\uff1f","url":"http:\/\/zhidao.baidu.com\/question\/1830038666226534900.html","answer":"\u4e16\u754c\u536b\u751f\u7ec4\u7ec7\u4e0b\u5c5e\u56fd\u9645\u764c\u75c7\u7814\u7a76\u673a\u678417\u65e5\u53d1\u5e03\u62a5\u544a\uff0c\u9996\u6b21\u6307\u8ba4\u5927\u6c14\u6c61\u67d3\u201c\u5bf9\u4eba\u7c7b\u81f4\u764c\u201d\uff0c\u5e76\u89c6\u5176\u4e3a\u666e\u904d\u548c\u4e3b\u8981\u7684\u73af\u5883\u81f4\u764c\u7269\u3002"},{"title":"\u6d77\u8c5a&\u6551\u4eba","questionTitle":"\u6d77\u8c5a\u662f\u6709\u610f\u8bc6\u7684\u6551\u4eba\u4e48\uff1f","url":"http:\/\/zhidao.baidu.com\/question\/191690308.html","answer":"\u6d77\u8c5a\u6551\u4eba\u4e0d\u662f\u4e00\u79cd\u6709\u610f\u8bc6\u7684\u884c\u4e3a\uff0c\u800c\u662f\u7531\u6cc5\u6c34\u53cd\u5c04\u5f15\u8d77\u7684\u4e00\u79cd\u672c\u80fd\u3002\u4e5f\u5c31\u662f\u8bf4\uff0c\u6d77\u8c5a\u53d1\u73b0\u540c\u4f34\u5728\u6c34\u4e0b\u53d7\u5230\u7a92\u606f\u548c\u6b7b\u4ea1\u7684\u5a01\u80c1\u65f6\uff0c\u5c31\u4f1a\u8d76\u53bb\u8425\u6551\uff0c\u628a\u53d7\u96be\u8005\u6258\u51fa\u6c34\u9762\u3002"},{"title":"\u5f3a\u8feb\u75c7&\u8868\u73b0","questionTitle":"\u5f3a\u8feb\u75c7\u6709\u54ea\u4e9b\u8868\u73b0\uff1f","url":"http:\/\/zhidao.baidu.com\/question\/445740128.html","answer":"\u5f3a\u8feb\u89c2\u5ff5\u8868\u73b0\u4e3a\u53cd\u590d\u51fa\u73b0\u5404\u79cd\u65e0\u610f\u4e49\u7684\u89c2\u5ff5\uff0c\u601d\u60f3\u53ca\u51b2\u52a8\u3002\u9752\u5c11\u5e74\u5f3a\u8feb\u75c7\u5927\u591a\u6e90\u81ea\u513f\u7ae5\u65f6\u671f\uff0c\u4e0e\u81ea\u5e7c\u517b\u6210\u7684\u4e2a\u6027\u7279\u5f81\u6709\u5173\u3002"},{"title":"\u9171\u6cb9&\u540d\u5b57\u8d77\u6e90","questionTitle":"\u4e3a\u4ec0\u4e48\u9171\u6cb9\u53eb\u505a\u9171\u201c\u6cb9\u201d\u5462\uff1f","url":"http:\/\/zhidao.baidu.com\/question\/37892548.html","answer":"\u4ece\u4e2d\u56fd\u7684\u4f20\u7edf\u6587\u5316\u89c2\u5ff5\u6765\u770b\u3002\u56fd\u4eba\u4e00\u76f4\u8ba4\u4e3a\u6cb9\u662f\u6d6e\u5728\u9762\u4e0a\u7684\uff0c\u6240\u4ee5\u4e2d\u56fd\u4e00\u76f4\u6709\u201c\u6487\u6cb9\u201d\u7684\u8bf4\u6cd5\u3002\u9171\u6cb9\u662f\u4ece\u6bd4\u8f83\u7a20\u7684\u9171\u91cc\u201c\u6487\u201d\u51fa\u6765\u7684\uff0c\u4e5f\u5c31\u79f0\u4e3a\u9171\u6cb9\u4e86\u3002"},{"title":"\u871c\u8702\u86f0\u4eba&\u6b7b\u4ea1","questionTitle":"\u871c\u8702\u4e3a\u4ec0\u4e48\u86f0\u4eba\u540e\u6b7b\u4ea1\uff1f","url":"http:\/\/zhidao.baidu.com\/question\/14488866.html","answer":"\u4e3a\u4ec0\u4e48\u871c\u8702\u8707\u4eba\u540e\u81ea\u5df1\u4f1a\u6b7b\u53bb\u5462\uff1f\u539f\u6765\u871c\u8702\u8179\u90e8\u672b\u7aef\u7684\u6bd2\u9488\u662f\u7531\u4e00\u6839\u80cc\u523a\u9488\u548c\u4e24\u6839\u8179\u523a\u9488\u7ec4\u6210\uff0c\u9488\u540e\u9762\u8fde\u63a5\u7740\u6bd2\u817a\u548c\u5185\u810f\u5668\u5b98\u3002"},{"title":"\u201c\u539f\u6c64\u5316\u539f\u98df\u201d&\u79d1\u5b66\u4f9d\u636e","questionTitle":"\u201c\u539f\u6c64\u5316\u539f\u98df\u201d\u6709\u79d1\u5b66\u4f9d\u636e\u5417\uff1f","url":"http:\/\/zhidao.baidu.com\/question\/51297793.html","answer":"\u6709\u4eba\u5403\u4e86\u9762\u6761\uff0c\u7136\u540e\u5fc5\u7136\u559d\u7897\u9762\u6c64\u3002\u8fd9\u5c31\u662f\u6211\u4eec\u56fd\u5bb6\u996e\u98df\u4f20\u7edf\u4e2d\u7684\u201c\u539f\u6c64\u5316\u539f\u98df\u201d\u7684\u8bf4\u6cd5\u3002\u4eba\u4eec\u5728\u5403\u5b8c\u635e\u9762\u3001\u6c34\u997a\u6216\u5143\u5bb5\uff0c\u90fd\u8981\u559d\u70b9\u539f\u6c64\u3002"},{"title":"Lifi&\u53ef\u89c1\u5149\u901a\u8baf","questionTitle":"\u53ef\u89c1\u5149\u901a\u8baf\u201cLifi\u201d\u662f\u600e\u4e48\u56de\u4e8b\uff1f","url":"http:\/\/zhidao.baidu.com\/question\/1381973871041772060.html","answer":"\u65e0\u9700WiFi\u4fe1\u53f7\uff0c\u70b9\u4e00\u76cfLED\u706f\u5c31\u80fd\u4e0a\u7f51\u3002\u8fd1\u65e5\uff0c\u4e00\u79cd\u5229\u7528\u5c4b\u5185\u53ef\u89c1\u5149\u4f20\u8f93\u7f51\u7edc\u4fe1\u53f7\u7684\u56fd\u9645\u524d\u6cbf\u901a\u8baf\u6280\u672f\u5728\u590d\u65e6\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u6280\u672f\u5b66\u9662\u7684\u5b9e\u9a8c\u5ba4\u6210\u529f\u5b9e\u73b0\u3002"},{"title":"\u7687\u5e26\u9c7c&\u5730\u9707\u9c7c","questionTitle":"\u7687\u5e26\u9c7c\u662f\u201c\u5730\u9707\u9c7c\u201d\u5417\uff1f","url":"http:\/\/zhidao.baidu.com\/question\/134768661280713205.html","answer":"10\u670816\u65e5\u5a92\u4f53\u62a5\u9053\uff0c\u5728\u7f8e\u56fd\u5357\u52a0\u5dde\u5361\u5854\u5229\u90a3\u5c9b\u9644\u8fd1\uff0c\u65e5\u524d\u53d1\u73b0\u4e86\u4e00\u6761\u957f\u8fbe18\u82f1\u5c3a(\u7ea65.49\u7c73)\u7684\u7687\u5e26\u9c7c\u3002\u5361\u5854\u5229\u90a3\u5c9b\u6d77\u4e8b\u7814\u7a76\u6240\u8bf4\uff0c\u8fd9\u662f\u4e00\u751f\u96be\u89c1\u7684\u91cd\u5927\u53d1\u73b0\u3002"}]},"recommendUser":{"famousUser":{"picUrl":"http:\/\/img.baidu.com\/img\/iknow\/yizhenliu.jpg?t=1421300684","title":"\u6d88\u5316\u7cfb\u7edf\u75be\u75c5\u9632\u4e0e\u6cbb","userName":"\u5218\u5ca9\u526f\u4e3b\u4efb\u533b\u5e08","url":"http:\/\/zhidao.baidu.com\/doctor\/activity\/index?activity_id=2","questionTitle":"\u4e2d\u5348\u6ca1\u5403\u996d\u73b0\u5728\u809a\u5b50\u9635\u9635\u75bc\u662f\u600e\u4e48\u56de\u4e8b\uff1f","questionUrl":"http:\/\/zhidao.baidu.com\/question\/1111097658302454499","reply":"\u7531\u4e8e\u672a\u5403\u996d\u5bfc\u81f4\u7684\u8179\u75db\u591a\u89c1\u4e8e\u5341\u4e8c\u6307\u80a0\u6e83\u75a1\u5bfc\u81f4\u7684\u3002\u996e\u98df\u8981\u6709\u89c4\u5f8b\u3001\u907f\u514d\u559d\u9152\u5403\u8fa3\u6912\u7b49\u523a\u6fc0\u6027\u6bd4\u8f83\u5927\u7684\u98df\u7269\uff0c\u7136\u540e\u5c31\u662f\u670d\u7528\u836f\u7269\u8c03\u7406 \u8fd9\u4e2a\u75be\u75c5\u7684\u6cbb\u7597\u4e3b\u8981\u662f\u6291\u5236\u80c3\u9178\u5206\u6ccc\u3001\u4fdd\u62a4\u5c40\u90e8\u9ecf\u819c\u7b49\u6cbb\u7597\u3002\u4f46\u662f\u5efa\u8bae\u8fd8\u662f\u5148\u53bb\u533b\u9662\u660e\u786e\u75c5\u56e0\u540e\u5728\u5bf9\u75c7\u6cbb\u7597\u3002","valueNum":"566","content":["\u56de\u7b54\u6570<b>25<\/b><span class=\"split\"><\/span>\u5e2e\u52a9\u4e86<b>578<\/b>\u4eba","\u519b\u4e8b\u533b\u5b66\u79d1\u5b66\u9662\u9644\u5c5e307\u533b\u9662"],"others":[{"title":"\u519b\u533a\u603b\u533b\u9662\u5468\u8363\u658c","url":"http:\/\/zhidao.baidu.com\/doctor\/home\/d5c4b52b68dce78a570dc50a"},{"title":"\u822a\u5929\u4e2d\u5fc3\u533b\u9662\u9676\u7428","url":"http:\/\/zhidao.baidu.com\/doctor\/home\/1612d50023b50be50e1eeeb3"},{"title":"\u4e2d\u534e\u53e3\u8154\u533b\u5b66\u4f1a\u97e9\u4eae","url":"http:\/\/zhidao.baidu.com\/doctor\/home\/90bc8fc8870977cc53640cd2"}]},"masterUser":{"picUrl":"http:\/\/img.baidu.com\/img\/iknow\/%E7%AC%AC330%E5%B1%8A%E7%9F%A5%E9%81%93%E4%B9%8B%E6%98%9F%E5%A4%B4%E5%83%8F.jpg?t=1421300685","title":"18910199239\uff1a\u77e5\u9053\u4e4b\u661f","userName":"18910199239","url":"http:\/\/passport.baidu.com\/?business&un=18910199239&from=prin#2","questionTitle":"\u5317\u4eac\u3001\u6bcd\u5b50\u4e4b\u95f4\u623f\u5c4b\u8fc7\u6237\uff0c\u8bf7\u95ee\u73b0\u5728\u600e\u4e48\u529e\u6700\u5408\u9002\uff1f","questionUrl":"http:\/\/zhidao.baidu.com\/question\/392239752958081685.html","reply":"\u8fc7\u6237\uff1a\u9700\u4ea43%\u5951\u7a0e\uff0c\u5dee\u989d20%\u4e2a\u4eba\u6240\u5f97\u7a0e\uff08\u7f51\u7b7e\u4ef7\u51cf\u53bb\u539f\u8d2d\u4ef7\u768420%\uff09\uff0c\u8d85\u8fc7140\u5e73\u7c73\uff0c\u5373\u4f7f\u6ee1\u4e94\u5e74\uff0c\u8fd8\u8981\u4ea4\u5dee\u989d\u8425\u4e1a\u7a0e5.6%\uff0c\u623f\u672c\u5de5\u672c\u8d3985\u5143\r\n\u8d60\u4e0e\uff1a\u9700\u4ea4\u516c\u8bc1\u8d39\u6216\u53eb\u8d60\u4e0e\u7a0e2%\uff0c\u6211\u5fd8\u4e86\uff0c\u5951\u7a0e3%\uff0c\u623f\u672c\u5de5\u672c\u8d3985\u5143\u3002\u6700\u5173\u952e\u7684\u662f\uff0c\u9009\u62e9\u8d60\u4e0e\uff0c\u5c06\u6765\u4f60\u51fa\u552e\u8be5\u623f\u65f6\uff0c\u4f1a\u5f3a\u5f81\u5168\u989d20%\u7684\u4e2a\u4eba\u6240\u5f97\u7a0e\uff0c\u8fd9\u4e00\u70b9\u6700\u72e0\u4e86\uff0c\u4f60\u4e0d\u80fd\u4fdd\u8bc1\u4e00\u8f88\u5b50\u4e0d\u5356\u623f\u5440\u3002\r\n\u6211\u4e0d\u77e5\u9053\u4f60\u4eec\u8fc7\u6237\u7684\u76ee\u7684\u662f\u4ec0\u4e48\uff0c\u8fc7\u6237\u6bd4\u8d60\u4e0e\u8981\u4fbf\u5b9c\uff0c\u8d77\u7801\u5c06\u6765\u4e0d\u7528\u4ea420%\u4e2a\u7a0e\u5440\u3002\r\n\u8fd8\u6709\u4e00\u62db\uff0c\u505a\u516c\u8bc1\u3002\u4f60\u4eec\u6bcd\u5b50\u4fe9\u5230\u516c\u8bc1\u5904\u505a\u4e2a\u5168\u6743\u59d4\u6258\u516c\u8bc1\u3002\u6bcd\u4eb2\u5c06\u4e00\u5957\u623f\u5b50\u5168\u6743\u59d4\u6258\u7ed9\u4f60\uff0c\u628a\u59d4\u6258\u4e8b\u9879\u5199\u7684\u5168\u4e00\u4e9b\uff0c\u80fd\u5199\u7684\u90fd\u5199\u4e0a\u3002\u5c06\u6765\u5373\u4f7f\u4f60\u51fa\u552e\u6b64\u623f\uff0c\u4e5f\u4e0d\u7528\u4f60\u6bcd\u4eb2\u51fa\u9762\u4e86\uff0c\u4f60\u6709\u59d4\u6258\u4e66\u5c31\u5168\u529e\u4e86\uff0c\u8fd8\u4e0d\u5b58\u5728\u8d60\u4e0e\u4ea7\u751f\u768420%\u7684\u4e2a\u7a0e\u95ee\u9898\uff0c\u8fc7\u6237\u65f6\u7684\u8d39\u7528\u5168\u662f\u4e70\u5bb6\u51fa\u3002","valueNum":"33","content":["\u88ab\u8d5e\u540c\u6570:<b>18091<\/b><span class=\"split\"><\/span>\u56de\u7b54\u6570:<b>49823<\/b>","<span class=\"split\"><\/span><a href=\"http:\/\/hi.baidu.com\/zhishibole\/item\/cc62eee1982f88d1ea34c907\" style=\"display:none\" class=\"interview\" target=\"_blank\">\u8fbe\u4eba\u8bbf\u8c08<\/a>"],"others":[{"title":"yq_whut\uff1a\u77e5\u9053\u4e4b\u661f","url":"http:\/\/passport.baidu.com\/?business&un=yq_whut&from=prin#2"},{"title":"\u4e00\u523b\u6c38\u8fdc523 \uff1a\u77e5\u9053\u4e4b\u661f","url":"http:\/\/passport.baidu.com\/?business&un=%D2%BB%BF%CC%D3%C0%D4%B6523&from=prin#2"},{"title":"\u4e0d\u968f\u610f123456\uff1a\u77e5\u9053\u4e4b\u661f","url":"http:\/\/passport.baidu.com\/?business&un=%B2%BB%CB%E6%D2%E2123456&from=prin#2"}]}},"simpleData":{"wendaji":[{"title":"\u53e3\u9999\u7cd6\u53ef\u4ee5\u4ee3\u66ff\u5237\u7259\u6e05\u6d01\u53e3\u8154","id":"5860","img":"http:\/\/img.iknow.bdimg.com\/2015zx\/sc\/20150603shouye.jpg","url":"http:\/\/zhidao.baidu.com\/liuyan\/detail?id=5860","subTitle":"\u4e0d\u5c11\u4eba\u5bf9\u53e3\u9999\u7cd6\u5f88\u4f9d\u8d56\uff0c\u89c9\u5f97\u65e2\u80fd\u6e05\u6d01\u53e3\u8154\uff0c\u53c8\u65b9\u4fbf\u5feb\u6377\u3002\u7528\u53e3\u9999\u7cd6\u4ee3\u66ff\u5237\u7259\u6765\u6e05\u6d01\u53e3\u8154\uff0c\u771f\u7684\u53ef\u884c\u5417\uff1f"},{"title":"\u5927\u91cf\u51fa\u6c57\u80fd\u6392\u6bd2","id":"5858","img":"http:\/\/img.iknow.bdimg.com\/2015zx\/sc\/20150601shouye.jpg","url":"http:\/\/zhidao.baidu.com\/liuyan\/detail?id=5858","subTitle":"\u6709\u4eba\u523b\u610f\u5728\u9ad8\u6e29\u9ad8\u6e7f\u5ea6\u73af\u5883\u8fdb\u884c\u5267\u70c8\u8fd0\u52a8\u6216\u8005\u53bb\u84b8\u6851\u62ff\uff0c\u4eba\u4e3a\u5236\u9020\u5927\u91cf\u51fa\u6c57\uff0c\u7406\u7531\u662f\u201c\u5927\u91cf\u51fa\u6c57\u80fd\u6392\u6bd2\u201d\u3002\u771f\u7684\u5417\uff1f"},{"title":"\u6237\u5916\u5934\u53d1\u7ad6\u7acb\u662f\u906d\u96f7\u51fb\u7684\u5148\u5146","id":"5857","img":"http:\/\/img.iknow.bdimg.com\/2015zx\/sc\/20150530shouye.jpg","url":"http:\/\/zhidao.baidu.com\/liuyan\/detail?id=5857","subTitle":"\u7f51\u4e0a\u4f20\u8a00\uff0c\u5728\u6237\u5916\uff0c\u5982\u679c\u5934\u53d1\u7a81\u7136\u7ad6\u7acb\u8d77\u6765\uff0c\u90a3\u4e48\u8fd9\u9884\u793a\u7740\u53ef\u80fd\u5373\u5c06\u906d\u5230\u96f7\u51fb\uff0c\u8fd9\u662f\u771f\u7684\u5417\uff1f"},{"title":"\u542c\u97f3\u4e50\u80fd\u8ba9\u4f5c\u7269\u589e\u4ea7","id":"5855","img":"http:\/\/img.iknow.bdimg.com\/2015zx\/sc\/20150528shouye.jpg","url":"http:\/\/zhidao.baidu.com\/liuyan\/detail?id=5855","subTitle":"\u97f3\u4e50\u80fd\u5f71\u54cd\u4eba\u7c7b\u60c5\u7eea\uff0c\u66fe\u7ecf\u6709\u4e0d\u5c11\u5173\u4e8e\u7ed9\u519c\u4f5c\u7269\u542c\u97f3\u4e50\u589e\u4ea7\u7684\u201c\u65b0\u95fb\u201d\uff0c\u7ed9\u690d\u7269\u542c\u97f3\u4e50\u771f\u7684\u6709\u8fd9\u4e48\u795e\u5947\u5417\uff1f"},{"title":"\u9a71\u868a\u82b1\u9732\u6c34\u80fd\u9a71\u868a","id":"5854","img":"http:\/\/img.iknow.bdimg.com\/2015zx\/sc\/20150526shouye.jpg","url":"http:\/\/zhidao.baidu.com\/liuyan\/detail?id=5854","subTitle":"\u868a\u5b50\u53ee\u54ac\u662f\u4eba\u4eec\u5728\u590f\u5b63\u7684\u4e00\u5927\u56f0\u6270\uff0c\u76f8\u5173\u7684\u9a71\u868a\u4ea7\u54c1\u4e0d\u5c11\uff0c\u5176\u4e2d\uff0c\u6807\u6ce8\u6709\u201c\u9a71\u868a\u82b1\u9732\u6c34\u201d\u7684\u82b1\u9732\u6c34\u771f\u80fd\u201c\u9a71\u868a\u201d\u5417\uff1f"},{"title":"\u7b14\u8bb0\u672c\u5916\u63a5\u7535\u6e90\u548c\u7535\u6c60\u4e0d\u8981\u540c\u65f6\u4f7f\u7528","id":"5853","img":"http:\/\/img.iknow.bdimg.com\/2015zx\/sc\/20150524shouye.jpg","url":"http:\/\/zhidao.baidu.com\/liuyan\/detail?id=5853","subTitle":"\u6709\u4eba\u8bf4\u5982\u679c\u4f7f\u7528\u5916\u63a5\u7535\u6e90\uff0c\u6700\u597d\u628a\u7b14\u8bb0\u672c\u7684\u7535\u6c60\u5378\u4e0b\uff0c\u5426\u5219\u5bf9\u7535\u6c60\u4f1a\u6709\u635f\u5bb3\uff0c\u8fd9\u662f\u771f\u7684\u5417\uff1f"},{"title":"\u72d7\u4f1a\u7b11","id":"5846","img":"http:\/\/img.iknow.bdimg.com\/2015zx\/sc\/20150510shouye.jpg","url":"http:\/\/zhidao.baidu.com\/liuyan\/detail?id=5846","subTitle":"\u6709\u7684\u65f6\u5019\u72d7\u72d7\u4f1a\u5634\u89d2\u4e0a\u7fd8\uff0c\u9732\u51fa\u4e00\u4e2a\u201c\u7b11\u8138\u201d\uff0c\u5b83\u662f\u4e0d\u662f\u771f\u7684\u5728\u7b11\uff1f"},{"title":"\u5929\u751f\u804b\u76f2\uff0c\u4e0d\u4f1a\u505a\u68a6","id":"5852","img":"http:\/\/img.iknow.bdimg.com\/2015zx\/sc\/20150520shouye.jpg","url":"http:\/\/zhidao.baidu.com\/liuyan\/detail?id=5852","subTitle":"\u68a6\u7684\u6750\u6599\u662f\u505a\u68a6\u8005\u901a\u8fc7\u611f\u5b98\u6536\u96c6\u5b66\u4e60\u5f97\u6765\u7684\uff0c\u6240\u4ee5\u5929\u751f\u5931\u806a\u5931\u660e\u7684\u4eba\u4e5f\u5c31\u65e0\u6cd5\u505a\u68a6\uff0c\u771f\u7684\u662f\u8fd9\u6837\u5417\uff1f"},{"title":"\u7ec6\u56bc\u6162\u54bd\uff0c\u66f4\u6709\u5229\u4e8e\u4fdd\u6301\u8eab\u6750","id":"5851","img":"http:\/\/img.iknow.bdimg.com\/2015zx\/sc\/20150518shouye.jpg","url":"http:\/\/zhidao.baidu.com\/liuyan\/detail?id=5851","subTitle":"\u4ece\u5c0f\u5230\u5927\uff0c\u7ecf\u5e38\u5728\u9910\u684c\u4e0a\u542c\u8bf4\uff1a\u201c\u7ec6\u56bc\u6162\u54bd\uff0c\u5bf9\u8eab\u4f53\u597d\u201d\u3002\u7ec6\u56bc\u6162\u54bd\u4e5f\u66f4\u5bb9\u6613\u4fdd\u6301\u8eab\u6750\uff0c\u771f\u7684\u662f\u8fd9\u6837\u5417\uff1f"},{"title":"\u624b\u6307\u88ab\u70eb\u540e\uff0c\u6478\u8033\u6735\u53ef\u7f13\u89e3","id":"5843","img":"http:\/\/img.iknow.bdimg.com\/2015zx\/sc\/20150516shouye.jpg","url":"http:\/\/zhidao.baidu.com\/liuyan\/detail?id=5843","subTitle":"\u751f\u6d3b\u4e2d\uff0c\u5f71\u89c6\u5267\u91cc\u7ecf\u5e38\u770b\u5230\u6709\u4eba\u5728\u70eb\u5230\u624b\u6307\u540e\u8fc5\u901f\u634f\u4f4f\u8033\u5782\uff0c\u8fd9\u6837\u505a\u771f\u7684\u6709\u6548\u5417\uff1f"}]},"subMenu":{"menu":[{"title":"\u77e5\u9053\u56e2\u961f","url":"http:\/\/zhidao.baidu.com\/team","newTab":"0"},{"title":"\u77e5\u9053\u6d3b\u52a8","url":"http:\/\/zhidao.baidu.com\/s\/activity\/index.html","newTab":"0"},{"title":"\u8d22\u5bcc\u5546\u57ce","url":"http:\/\/zhidao.baidu.com\/shop","newTab":"0"},{"title":"\u516c\u76ca\u5c0f\u6854\u706f","url":"http:\/\/light.baidu.com\/","newTab":"1"},{"title":"\u667a\u80fd\u95ee\u8bca","url":"http:\/\/zhidao.baidu.com\/search?lm=0&rn=10&pn=0&fr=search&ie=gbk&word=%B7%A2%C9%D5%CD%B7%CC%DB%D4%F5%C3%B4%B0%EC","newTab":"1"},{"title":"\u624b\u673a\u77e5\u9053","url":"http:\/\/zhidao.baidu.com\/s\/2011wapadv\/index.html?fr=menu","newTab":"1"}],"ad":{"text":"\u5feb\u6765\u56f4\u89c22013\u6691\u5047\u4f5c\u4e1a\u5927\u76d8\u70b9","url":"http:\/\/zhidao.baidu.com\/topic\/shujiazuoyepandian\/index.html"}},"topImg":{"img":{"flag":"1","bgImg":"http:\/\/img.baidu.com\/img\/iknow\/sula201506\/zhangjialintuanduitoutu.png","url":"http:\/\/zhidao.baidu.com\/activity\/commAct?name=weituanerzhan&fr=sytt","onlineTime":"2014-03-06 12:00:00","offlineTime":"2015-06-31 23:59:59","title":""}},"zduser":{"zhima":[{"uid":"288963898"},{"uid":"1149155364"},{"uid":"167933365"},{"uid":"27083551"},{"uid":"159672680"},{"uid":"705024822"}],"team":[{"teamid":"72545"},{"teamid":"73950"},{"teamid":"53035"},{"teamid":"28973"},{"teamid":"85599"},{"teamid":"82083"}],"uadmin":[{"uid":"373110053"},{"uid":"27648762"},{"uid":"948498440"},{"uid":"1255324836"},{"uid":"1305149872"},{"uid":"66707400"}]}});
+	F.context('homeBannerUrl',"http:\/\/zhidao.baidu.com\/daily");
+
+	require.async('home:widget/banner/banner.js',function(banner){
+		
+	});
+}();
+!function(){
+    require.async('home:widget/wendaji/wendaji.js',function(wendaji){
+		
+	});
+}();
+!function(){	F.context('asking',{"list":[{"qid":"1756072627269132428","title":"\u6211\u4e00\u4e2a\u5927\u5b66\u5973\u540c\u5b66\u548c\u6211\u8bf4\u5979\u7236\u6bcd\u4e0d\u540c\u610f\u5979\u548c\u5979\u7537\u670b\u53cb\uff0c\u79c1\u4e0b\u91cc\u5df2\u7ecf\u7ed9\u5979\u8ba2\u4e86\uff0c\u5979\u5f88\u96be\u8fc7\uff0c\u627e\u6211\u503e\u8bc9\uff0c\u6211\u600e\u4e48\u5e2e\u5979","uid":"1718060873","uname":"cn#BppLVufuVk","score":"0","cid":"74","deleted":"0","encode_qid":"1756072627269132428","createTime":"1 \u5206\u949f\u524d","isFromWap":"1","answerNum":"2","hasZhimaTag":"0"},{"qid":"1606136972360921227","title":"\u4e3a\u4ec0\u4e48\u6211\u603b\u662f\u957f\u4e0d\u9ad8\uff0c\u4e3a\u4ec0\u4e48\u6211\u603b\u662f\u7626\u4e0d\u4e86\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01","uid":"1214111327","uname":"\u5915\u9633\u897f\u4e0b\u6708\u513f\u5f2f","score":"5","cid":"147","deleted":"0","encode_qid":"1606136972360921227","createTime":"1 \u5206\u949f\u524d","isFromWap":"1","answerNum":"2","hasZhimaTag":"0"},{"qid":"200908683174426645","title":"\u9b45\u84ddnote\u600e\u6837\u83b7\u53d6root\u6743\u9650","uid":"522834931","uname":"\u97f3\u4e50457","score":"0","cid":"1078","deleted":"0","encode_qid":"200908683174426645","createTime":"2 \u5206\u949f\u524d","isFromWap":"0","answerNum":"2","hasZhimaTag":"0"},{"qid":"426398146169680332","title":"\u505a\u4ec0\u4e48\u8fd0\u52a8\u53ef\u4ee5\u957f\u4e2a","uid":"1212434372","uname":"\u7693\u6708\u8bcd\u8bed\u78e8","score":"0","cid":"134","deleted":"0","encode_qid":"426398146169680332","createTime":"2 \u5206\u949f\u524d","isFromWap":"1","answerNum":"1","hasZhimaTag":"0"},{"qid":"200908683045259285","title":"\u590d\u4ec7\u8005\u8054\u76df2\u7684\u767e\u5ea6\u4e91\u54ea\u4f4d\u5927\u795e\u7ed9\u4e00\u4e2a\u5427\uff0c\u8c22\u8c22\u554a","uid":"1472789815","uname":"\u4e0d\u5750\u8239\u5934","score":"0","cid":"1269","deleted":"0","encode_qid":"200908683045259285","createTime":"2 \u5206\u949f\u524d","isFromWap":"1","answerNum":"2","hasZhimaTag":"0"},{"qid":"426398145975755212","title":"\u4e00\u8f86\u9053\u8def\u6469\u6258\u8dd1\u8f66\u96c5\u9a6c\u54c8\u4ef7\u683c\u662f\u591a\u5c11\uff1f","uid":"1656484771","uname":"cn#BaaffaQQVV","score":"0","cid":"155","deleted":"0","encode_qid":"426398145975755212","createTime":"2 \u5206\u949f\u524d","isFromWap":"1","answerNum":"2","hasZhimaTag":"0"},{"qid":"426334722552327972","title":"\u7535\u8111\u600e\u6837\u8bbe\u7f6e\u5f00\u673a\u5bc6\u7801","uid":"532617970","uname":"E_\u5c0f\u4e36\u503d\u00b0","score":"0","cid":"1284","deleted":"0","encode_qid":"426334722552327972","createTime":"2 \u5206\u949f\u524d","isFromWap":"1","answerNum":"2","hasZhimaTag":"0"},{"qid":"241833474409682604","title":"\u73b0\u8d27\u6295\u8d44\u597d\u505a\u5417\uff1f","uid":"417819760","uname":"\u6674\u592987740","score":"0","cid":"182","deleted":"0","encode_qid":"241833474409682604","createTime":"3 \u5206\u949f\u524d","isFromWap":"1","answerNum":"1","hasZhimaTag":"0"},{"qid":"200845259426125445","title":"\u5317\u65b9\u4eba\u5403\u996d\u4e00\u822c\u5403\u4ec0\u4e48\uff1f\u5305\u5b50\uff1f","uid":"736379755","uname":"__\u4e3a\u4f60\u9501\u5fc3","score":"0","cid":"148","deleted":"0","encode_qid":"200845259426125445","createTime":"3 \u5206\u949f\u524d","isFromWap":"1","answerNum":"2","hasZhimaTag":"0"},{"qid":"984292655301847539","title":"\u6211\u8981\u53bb\u8df3\u697c\u4e86\uff0c\u8fd9\u8be5\u6b7b\u7684\u82f1\u8bed\u5bf9\u6211\u6765\u8bf4\u5b9e\u5728\u662f\u592a\u592a\u592a\u592a\u592a\u592a\u592a\u592a\u592a\u221e\u96be\u4e86\uff0c\u600e\u4e48\u5b66\u90fd\u5b66\u4e0d\u4f1a\uff0c\u4e00\u7bc7\u8bfe\u6587\u91cc\u768490","uid":"700381573","uname":"\u5fc3\u7ef4\u5929\u9645","score":"50","cid":"74","deleted":"0","encode_qid":"984292655301847539","createTime":"3 \u5206\u949f\u524d","isFromWap":"1","answerNum":"2","hasZhimaTag":"0"},{"qid":"241833474214631244","title":"\u90e8\u95e8\u7ecf\u7406\u6700\u8fd1\u4e00\u4e2a\u52b2\u513f\u5411\u529e\u516c\u5ba4\u91cc\u4e00\u4e2a\u8ddf\u6211\u6709\u7ade\u4e89\u5173\u7cfb\u7684\u540c\u4e8b\u8bf7\u6559\u8fd9\u8bf7\u6559\u90a3\uff0c\u770b\u8d77\u6765\u5f88\u91cd\u89c6\u90a3\u4e2a\u540c\u4e8b\uff0c\u800c\u5bf9\u6211\u5f88","uid":"1508588120","uname":"Ewereter","score":"5","cid":"74","deleted":"0","encode_qid":"241833474214631244","createTime":"3 \u5206\u949f\u524d","isFromWap":"1","answerNum":"2","hasZhimaTag":"0"},{"qid":"1606073548224954307","title":"\u6211\u8fd9\u4eba\u603b\u662f\u4e0d\u613f\u610f\u767b\u9646\u4efb\u4f55\u8d26\u53f7 \u4e5f\u7edd\u5bf9\u4e0d\u613f\u610f\u7533\u8bf7 \u624b\u673a \u7535\u8111\u4f7f\u7528\u4efb\u4f55\u8bb0\u5f55\u6bcf\u6b21\u5fc5\u987b\u6d88\u9664\u5f97\u5e72\u51c0","uid":"1728198660","uname":"cn#BpLLQpkBQQ","score":"10","cid":"74","deleted":"0","encode_qid":"1606073548224954307","createTime":"3 \u5206\u949f\u524d","isFromWap":"1","answerNum":"2","hasZhimaTag":"0"},{"qid":"1756009202875015228","title":"\u73b0\u5728\u7684\u6d41\u52a8\u5976\u8336\u5e97\u8981\u662f\u60f3\u52a0\u76df\uff0c\u53ef\u9009\u62e9\u4ec0\u4e48\u54c1\u724c\uff1f","uid":"1551340710","uname":"\u91ce\u5c9b\u7ad6\u611a","score":"0","cid":"182","deleted":"0","encode_qid":"1756009202875015228","createTime":"3 \u5206\u949f\u524d","isFromWap":"1","answerNum":"1","hasZhimaTag":"0"},{"qid":"1756009202873949748","title":"\u628awifi\u88c5\u5728\u623f\u95f4\u91cc \u4f1a\u6709\u8f90\u5c04\u5417\uff1f\u5c31\u8fd9\u4e24\u5929\u628awifi\u88c5\u5728\u623f\u91cc \u6211\u4eec\u4e09\u5144\u59b9\u90fd\u53d1\u70e7\u5934\u6655 \u600e","uid":"1706244030","uname":"cn#BpufpBQVGQ","score":"0","cid":"88","deleted":"0","encode_qid":"1756009202873949748","createTime":"4 \u5206\u949f\u524d","isFromWap":"1","answerNum":"2","hasZhimaTag":"0"},{"qid":"984292655108270499","title":"\u73b0\u8d27\u6295\u8d44\u6709\u6ca1\u6709\u4e00\u8d77\u7684\uff0c\u6c42\u5e26","uid":"1680742459","uname":"cn#BakuLBLafG","score":"0","cid":"182","deleted":"0","encode_qid":"984292655108270499","createTime":"4 \u5206\u949f\u524d","isFromWap":"1","answerNum":"2","hasZhimaTag":"0"},{"qid":"200845259039197725","title":"\u7279\u5c97\u6559\u5e08\u8003\u8bd5\u62a5\u540d\uff0c\u6bd4\u5982\u6211\u662f\u5b66\u7269\u7406\u4e13\u4e1a\u7684\uff0c\u53ef\u4e0d\u53ef\u4ee5\u7533\u8bf7\u6559\u751f\u7269\u5462\uff1f","uid":"1454135572","uname":"cn#BBakQkaLVf","score":"30","cid":"1093","deleted":"0","encode_qid":"200845259039197725","createTime":"4 \u5206\u949f\u524d","isFromWap":"1","answerNum":"2","hasZhimaTag":"0"},{"qid":"1606073548030292027","title":"\u600e\u6837\u624d\u80fd\u628a\u5a74\u513f\u7684\u7ca5\u7172\u7684\u597d\u5403\u4e00\u70b9\uff1f","uid":"1703588920","uname":"cn#BpuQuakkuQ","score":"20","cid":"160","deleted":"0","encode_qid":"1606073548030292027","createTime":"4 \u5206\u949f\u524d","isFromWap":"1","answerNum":"2","hasZhimaTag":"0"},{"qid":"426334721970409932","title":"\u6dd8\u5b9d\u5973\u88c5\u53ef\u4ee5\u62a5\u54ea\u4e9b\u6d3b\u52a8","uid":"997765230","uname":"\u505a\u81ea\u5df1\u5c31\u597d__","score":"0","cid":"149","deleted":"0","encode_qid":"426334721970409932","createTime":"4 \u5206\u949f\u524d","isFromWap":"0","answerNum":"2","hasZhimaTag":"0"},{"qid":"1756009202680086508","title":"\u5fae\u8f6f\u6709\u90a3\u4e48\u591a\u725b\u4eba\uff0c\u4e3a\u4ec0\u4e48 IE \u5374\u505a\u5f97\u4e0d\u591f\u597d","uid":"409695729","uname":"\u6211\u7231\u7231\u6211\u7684\u7537\u4eba","score":"0","cid":"1069","deleted":"0","encode_qid":"1756009202680086508","createTime":"4 \u5206\u949f\u524d","isFromWap":"0","answerNum":"2","hasZhimaTag":"0"}]});
+	require.async('home:widget/unlogin-push/unlogin-push.js', function(pushLogin){
+		
+	});
+}();
+!function(){	require.async('home:widget/product-show/product-show.js', function(show){
+		
+	});
+}();
+!function(){	require.async('home:widget/zd-user/zhima/zhima.js',function(zhima){
+		zhima.init();
+	});
+}();
+!function(){	require.async(['common:widget/lib/jquery/jquery.js', 'home:widget/zd-user/promotions/promotions.js', 'common:widget/js/util/log/log.js'],function($, pro, log) {
+		pro.init([{"imgUrl":"http:\/\/img.baidu.com\/img\/iknow\/sula201506\/zhangjialinshouyelunbotoutu.png","url":"http:\/\/zhidao.baidu.com\/activity\/commAct?name=weituanerzhan&fr=lb","title":""},{"imgUrl":"http:\/\/img.baidu.com\/img\/iknow\/jqyz280-120.jpg","url":"http:\/\/muzhi.baidu.com\/doctor\/activity\/index?activity_id=10","title":""},{"imgUrl":"http:\/\/img.baidu.com\/img\/iknow\/sula201504\/daibaobaoqulvxing280.jpg","url":"http:\/\/baobao.baidu.com\/papi\/active\/travelwallpc","title":""}]);
+		if($('.wgt-promotions').css('display') != 'none') {
+			log.addKey({
+				'right_promotions': 1
+			});
+		}
+	});
+}();
+!function(){	require.async("home:widget/zd-user/rank/rank.js");
+}();
+!function(){    require.async('home:widget/pgc/mavin/mavin.js', function(mavin) {
+		mavin.init({
+							mavinList: [{"title":"\u5357\u4eac\u516c\u79ef\u91d1\u63d0\u53d6\u6d41\u7a0b\uff1f","qid":"296249470","picUrl":"http:\/\/e.hiphotos.baidu.com\/zhidao\/wh%3D450%2C600\/sign=c1adeb7270f082022dc7993b7ecbd7db\/b2de9c82d158ccbf0067ba6b1ad8bc3eb0354183.jpg","name":"\u5cb3\u4e00\u65e0\u6cd5\u89e3\u91ca","field":"\u5e7f\u4e1c","uname":"\u5cb3\u4e00\u65e0\u6cd5\u89e3\u91ca"},{"title":"\u91cd\u4f24 \u516b\u7ea7\u4f24\u6b8b \u600e\u4e48\u5224?","qid":"533306973","picUrl":"http:\/\/c.hiphotos.baidu.com\/zhidao\/wh%3D450%2C600\/sign=15155af19e16fdfad839ceea81bfa062\/6a63f6246b600c3335be7f12194c510fd8f9a121.jpg","name":"huhaitian2014","field":"\u6cd5\u5f8b","uname":"huhaitian2014"},{"title":"\u7535\u91ce\u732a,\u4eba\u89e6\u7535\u6b7b\u4ea1\u5982\u4f55\u8d54\u507f?","qid":"119022949","picUrl":"http:\/\/a.hiphotos.baidu.com\/zhidao\/wh%3D450%2C600\/sign=aa4ee481abd3fd1f365caa3e057e0929\/902397dda144ad347147f028d3a20cf430ad85a0.jpg","name":"\u7f57\u7b19\u94ed","field":"\u5a5a\u59fb\u7ee7\u627f","uname":"\u4e0a\u6d77\u7b19\u94ed\u5f8b\u5e08"},{"title":"\u7ec6\u5c0f\u75c5\u6bd2\u5582\u4ec0\u4e48\u7ed9\u72d7\u72d7\u5403?","qid":"250296976","picUrl":"http:\/\/a.hiphotos.baidu.com\/zhidao\/wh%3D450%2C600\/sign=3107b81856fbb2fb347e50167a7a0c92\/d01373f082025aafcce6ce8ef8edab64024f1a9a.jpg","name":"\u8bb8\u6ed4","field":"\u5ba0\u7269","uname":"\u9f99\u7687XT"},{"title":"\u6cd5\u9662\u91cc\u7684\u884c\u653f\u5385\u662f\u7ba1\u4ec0\u4e48\u7684?","qid":"153294099","picUrl":"http:\/\/d.hiphotos.baidu.com\/zhidao\/wh%3D450%2C600\/sign=ddddf690f4246b607b5bba70dec8367a\/8326cffc1e178a82dad5d763f403738da877e80c.jpg","name":"sunlianxiang","field":"\u6cd5\u5f8b","uname":"sunlianxiang"},{"title":"360\u4e91\u76d8\u4e2d\u600e\u4e48\u53d6\u6d88\u201c\u9501\u5b9a\u4e91\u76d8\u201d?","qid":"1669169092425084507","picUrl":"http:\/\/a.hiphotos.baidu.com\/zhidao\/wh%3D450%2C600\/sign=516781fcb019ebc4c02d7e9db716e3ca\/fc1f4134970a304e0d491e63d2c8a786c9175c3b.jpg","name":"great\u4f6f\u88c5\u57cb\u5026","field":"\u7535\u8111","uname":"great\u4f6f\u88c5\u57cb\u5026"},{"title":"\u534e\u4e3aC8800\u624b\u673a\u7684MAC\u5730\u5740\uff1f","qid":"338976949","picUrl":"http:\/\/b.hiphotos.baidu.com\/zhidao\/wh%3D450%2C600\/sign=de6a2a77b78f8c54e386cd2b0f1901c3\/8644ebf81a4c510fa8c20e836359252dd42aa521.jpg","name":"\u5de7\u7c73\u4e50","field":"\u6570\u7801","uname":"\u5de7\u7c73\u4e50"},{"title":"\u9972\u517b\u4e03\u5f69\u6587\u9e1f\u56db\u5b63\u600e\u6837\u7ba1\u7406?","qid":"203260102","picUrl":"http:\/\/h.hiphotos.baidu.com\/zhidao\/wh%3D450%2C600\/sign=9a464f59f6deb48ffb3ca9dac52f161f\/0d338744ebf81a4c36b339f1d22a6059252da601.jpg","name":"\u738b\u4e00\u5e06","field":"\u751f\u6d3b","uname":"\u5a07\u5a07\u5a07\u5a07\u6c14\u5305"},{"title":"\u5728\u7528\u53cb\u56fa\u5b9a\u8d44\u4ea7\u4e2d\u600e\u6837\u589e\u52a0\u90e8\u95e8?","qid":"349910354","picUrl":"http:\/\/a.hiphotos.baidu.com\/zhidao\/wh%3D450%2C600\/sign=b8da4a71013b5bb5be8228fa03e3f90f\/377adab44aed2e731b3acdf68501a18b86d6fa1d.jpg","name":"\u9a6c\u5174\u6b66","field":"\u6570\u5b66","uname":"\u5357\u9738\u5929mxw"},{"title":"\u65b0\u8fdb\u4eba\u5458\u7684\u5e74\u4f11\u5047\u5230\u5e95\u600e\u4e48\u8ba1\u7b97\uff1f","qid":"79298799","picUrl":"http:\/\/f.hiphotos.baidu.com\/zhidao\/wh%3D450%2C600\/sign=e837222423a446237e9fad66ad125e38\/4afbfbedab64034ffde59a58acc379310a551d47.jpg","name":"\u6881\u8363\u4e1a","field":"\u6570\u5b66","uname":"\u6768\u67f3\u98ce83"},{"title":"\u5982\u4f55\u529e\u7406\u89e3\u9664\u52b3\u52a8\u5408\u540c\u624b\u7eed?","qid":"34692243","picUrl":"http:\/\/b.hiphotos.baidu.com\/zhidao\/wh%3D450%2C600\/sign=396c6ddfb8a1cd1105e37a248c22e4ca\/3801213fb80e7bec95578a0e2d2eb9389a506b54.jpg","name":"\u97e9\u98de","field":"\u52b3\u52a8\u4eba\u4e8b","uname":"\u4e13\u4e1a\u4ef2\u88c1\u5458"},{"title":"\u6d89\u5acc\u9632\u5bb3\u516c\u52a1\u7f6a\u5224\u591a\u5c11\u5e74?","qid":"2074496816311574748","picUrl":"http:\/\/f.hiphotos.baidu.com\/zhidao\/wh%3D450%2C600\/sign=7f4d2111e2fe9925cb596154019872e9\/6159252dd42a283471ff0fdf59b5c9ea14cebf8c.jpg","name":"amidaya","field":"\u6cd5\u5f8b","uname":"amidaya"}]
+					});
+    });
+}();
+!function(){	!function(){
+		var helpNum = '3863428';
+		var $ = require('common:widget/lib/jquery/jquery.js');
+		var $helpNum = $('.doctor-help-num');
+		if(helpNum < 10000){
+			$helpNum.html(helpNum);
+		} else if (helpNum < 100000000) {
+			$helpNum.html((helpNum / 10000).toFixed(1) + '万');
+		} else {
+			$helpNum.html((helpNum / 100000000).toFixed(1) + '亿');
+		}
+	}()
+}();
+!function(){    require.async('home:widget/class/class.js', function(wClass) {
+		wClass.init({
+							classList: [{"id":"74","src":"http:\/\/img.baidu.com\/img\/iknow\/%E4%B8%8B%E9%9D%A2%E9%85%8D%E5%9B%BE_03.png","name":"\u7535\u8111\u7f51\u7edc","fields":[{"id":"88","name":"\u4e92\u8054\u7f51"},{"id":"1237","name":"\u8f6f\u4ef6\u5f00\u53d1"},{"id":"1073","name":"\u7f16\u7a0b\u8bed\u8a00"},{"id":"86","name":"\u786c\u4ef6"},{"id":"1063","name":"\u7535\u8111\u88c5\u673a"},{"id":"89","name":"\u64cd\u4f5c\u7cfb\u7edf"},{"id":"1069","name":"\u5e38\u7528\u8f6f\u4ef6"},{"id":"1075","name":"\u767e\u5ea6\u4ea7\u54c1"}]},{"id":"79","src":"http:\/\/img.baidu.com\/img\/iknow\/%E4%B8%8B%E9%9D%A2%E9%85%8D%E5%9B%BE_05.png","name":"\u533b\u7597\u5065\u5eb7","fields":[{"id":"790","name":"\u5185\u79d1"},{"id":"791","name":"\u5916\u79d1"},{"id":"792","name":"\u5987\u4ea7\u79d1"},{"id":"793","name":"\u513f\u79d1"},{"id":"140","name":"\u4e2d\u533b"},{"id":"143","name":"\u7cbe\u795e\u5fc3\u7406\u79d1"},{"id":"794","name":"\u76ae\u80a4\u79d1"},{"id":"146","name":"\u4eba\u4f53\u5e38\u8bc6"}]},{"id":"78","src":"http:\/\/img.baidu.com\/img\/iknow\/%E4%B8%8B%E9%9D%A2%E9%85%8D%E5%9B%BE_07.png","name":"\u4f53\u80b2\u8fd0\u52a8","fields":[{"id":"778","name":"\u5c0f\u7403\u8fd0\u52a8"},{"id":"124","name":"\u7bee\u7403"},{"id":"127","name":"\u7530\u5f84"},{"id":"123","name":"\u8db3\u7403"},{"id":"132","name":"\u68cb\u724c\u9ebb\u5c06"},{"id":"134","name":"\u5065\u8eab"},{"id":"131","name":"\u6b66\u672f\u640f\u51fb"},{"id":"109","name":"\u4f53\u80b2\u540d\u4eba"}]},{"id":"80","src":"http:\/\/img.baidu.com\/img\/iknow\/%E4%B8%8B%E9%9D%A2%E9%85%8D%E5%9B%BE_09.png","name":"\u751f\u6d3b","fields":[{"id":"149","name":"\u670d\u88c5\u9996\u9970"},{"id":"147","name":"\u7f8e\u5bb9\u5851\u8eab"},{"id":"148","name":"\u7f8e\u98df\u70f9\u996a"},{"id":"874","name":"\u5bb6\u7535"},{"id":"928","name":"\u4fdd\u5065\u517b\u751f"},{"id":"163","name":"\u751f\u6d3b\u5e38\u8bc6"},{"id":"155","name":"\u8d2d\u8f66\u517b\u8f66"},{"id":"166","name":"\u793c\u8282\u793c\u4eea"}]},{"id":"85","src":"http:\/\/img.baidu.com\/img\/iknow\/%E4%B8%8B%E9%9D%A2%E9%85%8D%E5%9B%BE_24.png","name":"\u6587\u5316\u827a\u672f","fields":[{"id":"213","name":"\u4e66\u753b\u7f8e\u672f"},{"id":"1097","name":"\u6587\u5b66"},{"id":"761","name":"\u5386\u53f2\u8bdd\u9898"},{"id":"206","name":"\u6c11\u4fd7\u4f20\u7edf"},{"id":"1096","name":"\u5730\u7406"},{"id":"212","name":"\u821e\u8e48"},{"id":"214","name":"\u5668\u4e50\u58f0\u4e50"},{"id":"216","name":"\u620f\u5267"}]},{"id":"1031","src":"http:\/\/img.baidu.com\/img\/iknow\/%E4%B8%8B%E9%9D%A2%E9%85%8D%E5%9B%BE_25.png","name":"\u5a31\u4e50\u4f11\u95f2","fields":[{"id":"99","name":"\u97f3\u4e50"},{"id":"105","name":"\u535a\u5f69"},{"id":"168","name":"\u6536\u85cf"},{"id":"965","name":"\u5ea6\u5047\u65c5\u6e38"},{"id":"101","name":"\u661f\u5ea7\u8fd0\u52bf"},{"id":"100","name":"\u52a8\u6f2b"},{"id":"96","name":"\u7535\u5f71"},{"id":"151","name":"\u5ba0\u7269"}]},{"id":"83","src":"http:\/\/img.baidu.com\/img\/iknow\/%E4%B8%8B%E9%9D%A2%E9%85%8D%E5%9B%BE_26.png","name":"\u6559\u80b2\u79d1\u5b66","fields":[{"id":"1092","name":"\u5347\u5b66\u5165\u5b66"},{"id":"192","name":"\u9662\u6821\u4fe1\u606f"},{"id":"197","name":"\u5b66\u4e60\u5e2e\u52a9"},{"id":"1093","name":"\u804c\u4e1a\u6559\u80b2"},{"id":"187","name":"\u5916\u8bed\u5b66\u4e60"},{"id":"189","name":"\u51fa\u56fd\u7559\u5b66"},{"id":"202","name":"\u7406\u5de5\u5b66\u79d1"},{"id":"1223","name":"\u4eba\u6587\u5b66\u79d1"}]},{"id":"77","src":"http:\/\/img.baidu.com\/img\/iknow\/%E4%B8%8B%E9%9D%A2%E9%85%8D%E5%9B%BE_31.png","name":"\u6e38\u620f","fields":[{"id":"1113","name":"\u817e\u8baf\u6e38\u620f"},{"id":"1116","name":"\u7f51\u6613\u6e38\u620f"},{"id":"1114","name":"\u76db\u5927\u6e38\u620f"},{"id":"1224","name":"\u641c\u72d0\u7545\u6e38"},{"id":"111","name":"\u7f51\u7edc\u6e38\u620f"},{"id":"112","name":"\u5355\u673a\u6e38\u620f"},{"id":"114","name":"\u624b\u673a\u6e38\u620f"},{"id":"118","name":"\u5c0f\u6e38\u620f"}]},{"id":"82","src":"http:\/\/img.baidu.com\/img\/iknow\/%E4%B8%8B%E9%9D%A2%E9%85%8D%E5%9B%BE_15.png","name":"\u5546\u4e1a\u7406\u8d22","fields":[{"id":"772","name":"\u80a1\u7968"},{"id":"862","name":"\u57fa\u91d1"},{"id":"1079","name":"\u5916\u6c47"},{"id":"184","name":"\u8d22\u52a1\u7a0e\u52a1"},{"id":"774","name":"\u4f01\u4e1a\u7ba1\u7406"},{"id":"923","name":"\u7ecf\u6d4e\u7814\u7a76"},{"id":"182","name":"\u521b\u4e1a\u6295\u8d44"},{"id":"164","name":"\u4e2a\u4eba\u7406\u8d22"}]},{"id":"95","src":"http:\/\/img.baidu.com\/img\/iknow\/%E4%B8%8B%E9%9D%A2%E9%85%8D%E5%9B%BE_16.png","name":"\u7535\u5b50\u6570\u7801","fields":[{"id":"839","name":"\u624b\u673a\u8d2d\u4e70"},{"id":"1040","name":"\u624b\u673a\u4f7f\u7528"},{"id":"1105","name":"\u901a\u8baf\u670d\u52a1"},{"id":"843","name":"\u7167\u76f8\u673a"},{"id":"1063","name":"\u7535\u8111\u9009\u8d2d"},{"id":"872","name":"\u7b14\u8bb0\u672c\u7535\u8111"},{"id":"1238","name":"\u5e73\u677f\u7535\u8111"},{"id":"879","name":"MP4"}]},{"id":"84","src":"http:\/\/img.baidu.com\/img\/iknow\/%E4%B8%8B%E9%9D%A2%E9%85%8D%E5%9B%BE_17.png","name":"\u793e\u4f1a\u6c11\u751f","fields":[{"id":"209","name":"\u6cd5\u5f8b"},{"id":"158","name":"\u4ea4\u901a\u51fa\u884c"},{"id":"177","name":"\u6c42\u804c\u5c31\u4e1a"},{"id":"1095","name":"\u516c\u52a1\u529e\u7406"},{"id":"153","name":"\u8d2d\u623f\u7f6e\u4e1a"},{"id":"211","name":"\u519b\u4e8b"},{"id":"973","name":"\u65f6\u4e8b\u653f\u6cbb"},{"id":"208","name":"\u5b97\u6559"}]},{"id":"1","src":"http:\/\/img.baidu.com\/img\/iknow\/%E4%B8%8B%E9%9D%A2%E9%85%8D%E5%9B%BE_18.png","name":"\u5730\u533a","fields":[{"id":"220","name":"\u5317\u4eac"},{"id":"240","name":"\u4e0a\u6d77"},{"id":"259","name":"\u4e91\u5357"},{"id":"267","name":"\u897f\u85cf"},{"id":"258","name":"\u56db\u5ddd"},{"id":"261","name":"\u9655\u897f"},{"id":"254","name":"\u6d77\u5357"},{"id":"252","name":"\u5e7f\u4e1c"}]},{"id":"81","src":"http:\/\/img.baidu.com\/img\/iknow\/%E4%B8%8B%E9%9D%A2%E9%85%8D%E5%9B%BE_23.png","name":"\u70e6\u607c","fields":[{"id":"171","name":"\u604b\u7231"},{"id":"172","name":"\u592b\u59bb"},{"id":"173","name":"\u5bb6\u5ead\u5173\u7cfb"},{"id":"174","name":"\u4e24\u6027\u95ee\u9898"},{"id":"175","name":"\u9752\u6625\u671f"},{"id":"176","name":"\u6821\u56ed\u751f\u6d3b"},{"id":"180","name":"\u60c5\u611f\u60c5\u7eea"},{"id":"167","name":"\u4ea4\u53cb\u6280\u5de7"}]}]
+					});
+    });
+}();
+!function(){                    require.async(['home:widget/ads/union/union.js', 'home:widget/js/lazyload/lazyload.js'], function(union, lazyload){
+                lazyload.add('#union-home_bottom', function(){
+                    union.init('615519', 'union-home_bottom');
+                }, {method: 'callback'});
+            });
+            }();
+!function(){		require.async(['common:widget/lib/jquery/jquery.js', 'home:widget/js/lazyload/lazyload.js', 'common:widget/js/util/log/log.js'], function($, lazyload, log){
+		    lazyload.add('.wgt-promotion', '.wgt-promotion a');
+		    var container = $('.wgt-promotion');
+		    if(container.css('display') != 'none') {
+		    	log.addKey({
+			    	'bottom_promotion': 1
+				});
+			}	
+		});		
+	}();
+!function(){    require('common:widget/js/logic/ie-prompt/ie-prompt.js');
+}();
+!function(){        require.async(['common:widget/lib/jquery/jquery.js', 'common:widget/js/util/log/log.js'], function($, log) {
+            $(function() {
+                log.init({key:2058, query:'body', action:'click'});
+
+                if($('#bottom-ad table').length > 0) {
+                    log.send({'type':2058, 'params':'home'});
+                }
+
+                $('.nav-menu-container  a').click(function(e){
+                    log.send({ 'pos': 'new_menu_link_pv', 'evtType': 'click', 'href': this.href, 'fr': 'new_home_page' });
+                });
+
+                var adTopImg = $('.adTopImg');
+                if(adTopImg.length && adTopImg.css('display') != 'none') {
+                    log.addKey({
+                        adTopImg: 1
+                    });
+                    adTopImg.on('click', function() {
+                        log.send({
+                            page: 'home',
+                            pos: 'adTopImg',
+                            action: 'click',
+                            type: 2058
+                        });
+                    });
+                }
+
+                // pv统计
+                log.send({
+                    page: 'home',
+                    action: 'pv',
+                    type: 2058
+                });
+            });
+        });
+        window.Hunter = window.Hunter || {};
+        Hunter.userConfig = Hunter.userConfig || [];
+        Hunter.userConfig.push({ 
+            hid: 62763
+        });
+     }();
+!function(){																require.async('common:widget/js/logic/dom-ready/dom-ready.js', function(D){ D.init([]) });
+            }();
+</script>
+    
+<script type="text/javascript">
+(function (){
+	(function(e){e=e||{};var a="http://img.baidu.com/hunter/alog/",t="http://nsclick.baidu.com/u.gif",p="http://static.tieba.baidu.com/tb/pms/img/st.gif";alog("set","alias",{monkey:a+"monkey.min.js",element:a+"element.min.js",speed:"http://static.tieba.baidu.com/tb/pms/wpo_alog_speed.js",feature:a+"feature.min.js"}),e.page&&(alog("require",["monkey","element"],function(a){var p={page:e.page,pid:"241",p:"102",hid:"2680",postUrl:t,pageflag:e.pageflag||"",reports:{refer:1,staytime:1}};if(e.params)for(var i in e.params)p[i]=e.params[i];a.create(p)}),alog("monkey.send","pageview",{now:+new Date}),e.err&&parseFloat(e.err.sample)>=Math.random()&&alog("exception.create",{postUrl:t,page:e.page,pid:"170",p:"102"}),e.feature&&parseFloat(e.feature.sample)>=Math.random()&&alog("require","feature",function(a){a.create({dv:4,postUrl:p,page:e.page,p:"102"}),a.fire("commit")})),e.wpd&&alog("speed.set","options",{is_login:F.context("user").isLogin?1:0,sample:parseFloat(e.wpd.sample),product_id:"102",page_id:e.wpd.pageid})}).apply(window,"undefined"!=typeof arguments&&arguments);;
+})({"page":"zhidao-home","pageflag":"0","wpd":{"sample":"0.1","pageid":"4"}});
+
+void function(g,a){function i(m,n,l){l=l||15;var o=new Date();o.setTime(new Date().getTime()+l*1000);a.cookie=m+"="+escape(n)+";path=/;expires="+o.toGMTString()}function h(m){var l=a.cookie.match(new RegExp("(^| )"+m+"=([^;]*)(;|$)"));if(l!=null){return unescape(l[2])}return null}function c(l){if(g.attachEvent){g.attachEvent("onload",l,false)}else{if(g.addEventListener){g.addEventListener("load",l)}}}function e(){var m=alog.tracker&&alog.tracker("speed").get("options")||{};var q=m.random=Math.random();var p=m.special_pages||[];var l=[];for(var n=0;n < p.length;n++){var o=p[n];if(q < o.sample){l.push(o.id)}}if(l.length){alog("speed.set","special_id","["+l+"]")}if(q<=m.sample||l.length){alog("speed.set","send",true);if(m.product_id&&m.page_id){alog("require","speed")}}}function b(){var l=h("PMS_JT");if(l){i("PMS_JT","",-1);try{l=eval(l);}catch(e){l={};}if(!l.r||a.referrer.replace(/#.*/,"")==l.r){alog("speed.set","wt",l.s)}}}b();var f=false;
+function d(){alog.on&&alog.on("mark",function(p){var n=alog.tracker&&alog.tracker("speed").get("options")||{};f=true;if(n&&n.custom_metrics&&n.custom_metrics.constructor==Array){var m=n.custom_metrics;var l=alog.tracker("speed").fields;for(var o=0;o < m.length;o++){if(!l||!l.hasOwnProperty(m[o])){f=false;break}}}f&&e()})}c(function(){d();alog("speed.set","lt",+new Date);alog.fire&&alog.fire("mark")});function k(n,m){var l=0;if((m.nodeName||m.tagName).toLowerCase()===n.toLowerCase()){return m}while(m=m.parentNode){l++;if((m.nodeName||m.tagName).toLowerCase()===n.toLowerCase()){return m}if(l>=4){return null}}return null}function j(l){if(a.attachEvent){a.attachEvent("onclick",l)}else{a.addEventListener("click",l,false)}}j(function(n){var n=n||window.event;var m=n.target||n.srcElement;var o=k("a",m);if(o){var l=o.getAttribute("href");if(!/^#|javascript:/.test(l)){i("PMS_JT",'({"s":'+(+new Date)+',"r":"'+document.URL.replace(/#.*/,"")+'"})')}}})}(window,document);
+//
+with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://img.baidu.com/hunter/zhidao.js?cdnversion='+~(new Date()/864e5)];
+require.async('common:widget/lib/jquery/jquery.js', function($){ 
+	$(function(){
+		alog && alog('speed.set', 'drt', new Date);
+			});
+});
+</script>
+
+    
+<script type="text/javascript">
+    require.async('common:widget/lib/jquery/jquery.js', function ($) {
+        //  var ie = /msie (\d+\.\d+)/i.test(navigator.userAgent) ? (document.documentMode || +RegExp['$1']) : undefined;
+        if (!/chrome|firefox|safari|msie 10|rsv:11|msie [89]/i.test(navigator.userAgent)) {
+            return;
+        }
+
+        window.BaiduHttps = window.BaiduHttps || {};
+        window.BaiduHttps.callbacks = function (data) {
+            if (data && data.s === 0) {
+                window.supportHttps = 1;
+                setTimeout(function () {
+                    $('a[href^="http://www.baidu.com/s?"]').each(function (index, item) {
+                        var link = $(item).attr('href');
+                        if (~link.indexOf('?wd=') || ~link.indexOf('&wd=')) {
+                            link = link.replace(/^http/, 'https');
+                            $(item).attr('href', link);
+                        }
+                    });
+                }, 2000);
+            }
+        };
+
+        var script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.src = 'https://www.baidu.com/con?from=zhidao';
+        document.body.appendChild(script);
+    });
+</script>
+</html>

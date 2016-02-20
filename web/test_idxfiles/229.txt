@@ -1,0 +1,1048 @@
+Connection: close
+Set-cookie: RMID=d0771c99099f4ed913320dcb; expires=Saturday, 01-Dec-2012 18:04:34 GMT; path=/; domain=.nytimes.com
+
+
+ 
+                         
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    <title>‘Bonnie & Clyde,’ With Laura Osnes and Jeremy Jordan - Review - NYTimes.com</title>
+
+    	
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="description" content="Frank Wildohorn’s “Bonnie &amp; Clyde” is a modest, mildly tuneful musical biography of Clyde Barrow and Bonnie Parker.">
+    <meta name="keywords" content="Theater,Wildhorn  Frank,Osnes  Laura,Ost  Tobin,Jordan  Jeremy,Menchell  Ivan,Black  Don,Bonnie &amp; Clyde (Play)">
+    <meta name="ROBOTS" content="NOARCHIVE">
+    <meta name="DISPLAYDATE" content="December 1, 2011">
+    <meta name="hdl" content="‘Bonnie &amp; Clyde,’ With Laura Osnes and Jeremy Jordan - Review">
+    <meta name="hdl_p" content="Armed And Amorous, Committing Cold-Blooded Musical">
+    <meta name="byl" content="By BEN BRANTLEY">
+    <meta name="lp" content="Frank Wildohorn’s “Bonnie &amp; Clyde” is a modest, mildly tuneful musical biography of Clyde Barrow and Bonnie Parker.">
+    <meta name="cre" content="The New York Times">
+    <meta name="edt" content="NewYork">
+    <meta name="pdate" content="20111201">
+    <meta name="ttl" content="Bonnie &amp; Clyde (Play)">
+    <meta name="virtloc" content="">
+    <meta name="des" content="Theater">
+    <meta name="per" content="Wildhorn, Frank;Osnes, Laura;Ost, Tobin;Jordan, Jeremy">
+    <meta name="org" content="">
+    <meta name="geo" content="">
+    <meta name="misspelling" content="">
+    <meta name="dat" content="December 1, 2011">
+    <meta name="tom" content="Review">
+    <meta name="cat" content="">
+    <meta name="col" content="Theater Review | &#039;Bonnie &amp; Clyde&#039;">
+    <meta name="dsk" content="Theater / Theater Reviews">
+    <meta name="articleid" content="100000001202352">
+    <meta name="ARTICLE_TEMPLATE_VERSION" CONTENT="700">
+    <meta name="hdr_img" content="/images/article/header/sect_theater.gif">
+    <meta name="thumbnail" content="images/2011/12/02/arts/02BONNIE/02BONNIE-thumbStandard.jpg">
+    <meta name="thumbnail_height" content="75">
+    <meta name="thumbnail_width" content="75">
+    <meta name="xlarge" content="images/2011/12/02/arts/02BONNIE/02BONNIE-articleLarge.jpg">
+    <meta name="xlarge_height" content="380">
+    <meta name="xlarge_width" content="600">
+    <meta name="sectionfront_jsonp" content="http://json8.nytimes.com/pages/theater/index.jsonp">
+    <meta name="CG" content="theater">
+    <meta name="SCG" content="reviews">
+    <meta name="PT" content="Article">
+    <meta name="PST" content="Review">
+    <meta name="msapplication-starturl" content="http://www.nytimes.com/">
+    <link rel="canonical" href="http://theater.nytimes.com/2011/12/02/theater/reviews/bonnie-clyde-with-laura-osnes-and-jeremy-jordan-review.html">
+    <meta property="og:url" content="http://theater.nytimes.com/2011/12/02/theater/reviews/bonnie-clyde-with-laura-osnes-and-jeremy-jordan-review.html"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:title" content="‘Bonnie &amp; Clyde,’ With Laura Osnes and Jeremy Jordan - Review"/>
+    <meta property="og:image" content="http://graphics8.nytimes.com/images/2011/12/02/arts/02BONNIE/02BONNIE-thumbStandard.jpg"/>
+    <link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/build/article/2.0/theater/reviews/styles.css?v=20111130"><!--[if IE]>
+    <style type="text/css">
+        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie.css);
+    </style>
+<![endif]-->
+<!--[if IE 6]>
+    <style type="text/css">
+        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie6.css);
+    </style>
+<![endif]-->
+
+    <script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script>
+    <script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/DropDown.js"></script>
+    <script type="text/javascript" src="http://graphics8.nytimes.com/js/util/tooltip.js"></script>
+    <script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/altClickToSearch.js"></script>
+    <script type="text/javascript" src="http://graphics8.nytimes.com/js/app/article/upNext.js"></script>
+    <script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences_all.js"></script>
+    <script type="text/javascript" src="http://objects.tremormedia.com/embed/js/banners.js"></script>
+    <script type="text/javascript" src="http://graphics8.nytimes.com/js2/build/video/2.0/videomanager.js"></script>
+    <script type="text/javascript" src="http://graphics8.nytimes.com/js/app/article/articleAssets/abstractAsset.js"></script>
+    <script type="text/javascript" src="http://graphics8.nytimes.com/js/app/article/articleAssets/videoAsset.js"></script>
+    <script type="text/javascript" src="http://graphics8.nytimes.com/js/app/article/expandableAsset.js"></script>
+    <script type="text/javascript" src="http://graphics8.nytimes.com/js/article/articleShare.js"></script>
+</head>
+<body class="wideAd">
+    	<script type="text/javascript">
+function getMetaValue(name) {
+  var els = document.getElementsByName(name);
+  if (els && els[0]) { return els[0].content; }
+  return "";
+}
+
+<!-- Begin KRUX Digital Control Tag for New York Times -->
+
+KRUXSetup = {
+   pubid: "79816aa8-435a-471a-be83-4b3e0946daf2",
+   site: "NYTimes",
+   section: getMetaValue('CG'),
+   subSection: getMetaValue('SCG'),
+   pageAttributes: {
+      page_type: getMetaValue('PT')
+   }
+};
+</script>
+<script type="text/javascript" src="http://cdn.krxd.net/kruxcontent/releases/krux-4.7.2.js"></script>
+<!-- End KRUX Digital Control Tag for New York Times -->
+    <a name="top"></a>
+    <div id="shell">
+        <ul id="memberTools">
+    
+                        <!-- start text link -->
+<li class="cColumn-TextAdsHeader">Subscribe:
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/theater&pos=Bar1&sn2=17fcc51d/aa68a62e&sn1=b40a0f68/25a41e6a&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-hd-digi-h3847Q-d3847R&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DW47AF%26CMP%3D3847Q" target="_blank">
+Home Delivery</a> / <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/theater&pos=Bar1&sn2=17fcc51d/aa68a62e&sn1=baec058e/381f84b2&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-hd-digi-h3847Q-d3847R&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fsubscriptions%2FMultiproduct%2Flp5558%2Ehtml%3Fadxc%3D162578%26adxa%3D267522%26page%3Dwww.nytimes.com/yr/mo/day/theater/reviews/bonnie-clyde-with-laura-osnes-and-jeremy-jordan-review.html%26pos%3DBar1%26campaignId%3D3847R" target="_blank">Digital</a>
+</li>
+<!-- end text link -->                
+                                                                            <li><a id="memberToolsLogin" href="https://myaccount.nytimes.com/auth/login">Log In</a></li>
+            <li><a href="https://myaccount.nytimes.com/gst/regi.html">Register Now</a></li>
+                                                                    
+                                                                
+    <li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+
+</ul>
+
+    <div class="tabsContainer">
+        <ul id="mainTabs" class="tabs">
+            <li class="first mainTabHome"><a href="http://www.nytimes.com">Home Page</a></li>
+            
+            <li class="mainTabTodaysPaper"><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+            
+            <li class="mainTabVideo"><a href="http://www.nytimes.com/video">Video</a></li>
+            
+            <li class="mainTabMostPopular"><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+            
+            <li class="mainTabTimesTopics"><a href="http://topics.nytimes.com/top/reference/timestopics">Times Topics</a></li>
+        </ul>
+    </div>
+
+<script type="text/javascript">
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+</script>        <div id="page" class="tabContent active">
+            
+
+            <div class="clearfix" id="masthead">
+            		    			<div class="singleAd"  id="Middle1C">
+			<div class="clearfix">
+			<!-- ADXINFO classification="button" campaign="ING_DirectSiteSearchQ111_1694929-nyt1"--><A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/theater&pos=Middle1C&sn2=50ccd885/9f2fea31&sn1=59756299/46b02203&camp=ING_DirectSiteSearchQ111_1694929-nyt1&ad=NEW.88x31.SiteSearch.Wizard&goto=http://ad.doubleclick.net/jump/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.34" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.34"
+ BORDER=0 WIDTH=88 HEIGHT=31
+ ALT="Click Here"></A>			</div>
+			</div>
+					            
+                                        
+            <div id="searchWidget">
+                <div class="inlineSearchControl">
+                    <form enctype="application/x-www-form-urlencoded" action="http://query.nytimes.com/search/sitesearch" method="get" name="searchForm" id="searchForm">
+                        <input type="hidden" value="full" name="date_select"/>
+                        <label for="searchQuery">Search All NYTimes.com</label>
+                        <input type="text" class="text" value="" size="" name="query" id="searchQuery"/>
+                        <input type="hidden" id="searchAll" name="type" value="nyt"/>
+                        <input type="image" id="searchSubmit" title="Search" alt="Search" width="22" height="19" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"/>
+                    </form>
+                </div>
+            </div>
+            
+        
+        <div id="branding" >
+        
+                                                <a href="http://www.nytimes.com"><img src="http://graphics8.nytimes.com/images/misc/nytlogo152x23.gif" alt="New York Times" id="NYTLogo"/></a>
+                            
+
+                </div>
+
+        
+        
+                            
+                    <h2>
+        
+                
+                            
+
+            
+			
+                            <a href="http://www.nytimes.com/pages/theater/index.html">Theater Reviews</a>
+            
+                        </h2>
+
+
+                            
+        </div>
+                    		     
+ 
+<div class="navigation tabsContainer">
+<ul class="tabs">
+	<li id="navWorld" class="first ">
+		<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+		</li>	<li id="navUs" >
+		<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+		</li>	<li id="navNyregion" >
+		<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+		</li>	<li id="navBusiness" >
+		<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+		</li>	<li id="navTechnology" >
+		<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+		</li>	<li id="navScience" >
+		<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+		</li>	<li id="navHealth" >
+		<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+		</li>	<li id="navSports" >
+		<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+		</li>	<li id="navOpinion" >
+		<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+		</li>	<li id="navArts" class="selected">
+		<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+		</li>	<li id="navStyle" >
+		<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+		</li>	<li id="navTravel" >
+		<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+		</li>	<li id="navJobs" >
+		<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+		</li>	<li id="navRealestate" >
+		<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+		</li>	<li id="navAutomobiles" >
+		<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+		</li></ul>
+</div>
+
+<div class="subNavigation tabContent active">
+	<div class="column first">
+		<div class="columnGroup">
+			<div class="inlineSearchControl">
+				<form method="get" action="http://query.nytimes.com/search/theater">
+					<label for="theaterSearchQuery">Find a Show</label>
+					<input type="text" autocomplete="off" name="query" class="text">
+					<div style="display: none;" class="querySuggestions">
+					</div>
+					<input type="image" src="http://graphics8.nytimes.com/images/global/buttons/go.gif" alt="Search" title="Search">
+				</form>
+			</div>
+		</div>
+	</div>
+	<div class="column two">
+		<div class="columnGroup">
+			<ul>
+				<li class="first">
+				<a onmousedown="dcsMultiTrack('DCS.dcssip','theater.nytimes.com','DCS.dcsuri','/subnav','WT.ti','Theater Subnav','WT.cg_n','Theater','WT.z_dcsm','1','WT.z_thsubnav','Broadway')" href="http://theater.nytimes.com/venues/broadway.html">Broadway</a><br/>&nbsp;
+				</li>
+				<li class="second">
+				<a onmousedown="dcsMultiTrack('DCS.dcssip','theater.nytimes.com','DCS.dcsuri','/subnav','WT.ti','Theater Subnav','WT.cg_n','Theater','WT.z_dcsm','1','WT.z_thsubnav','Off Broadway')" href="http://theater.nytimes.com/venues/off-broadway.html">Off&nbsp;&amp;&nbsp;Off Off<br/>Broadway</a>
+				</li>
+				<li class="third">
+				<a onmousedown="dcsMultiTrack('DCS.dcssip','theater.nytimes.com','DCS.dcsuri','/subnav','WT.ti','Theater Subnav','WT.cg_n','Theater','WT.z_dcsm','1','WT.z_thsubnav','Plays')" href="http://theater.nytimes.com/shows/plays.html">Plays</a><br/>&nbsp;
+				</li>
+				<li class="fourth">
+				<a onmousedown="dcsMultiTrack('DCS.dcssip','theater.nytimes.com','DCS.dcsuri','/subnav','WT.ti','Theater Subnav','WT.cg_n','Theater','WT.z_dcsm','1','WT.z_thsubnav','Musicals')" href="http://theater.nytimes.com/shows/musicals.html">Musicals</a><br/>&nbsp;
+				</li>
+				<li class="fifth">
+				<a onmousedown="dcsMultiTrack('DCS.dcssip','theater.nytimes.com','DCS.dcsuri','/subnav','WT.ti','Theater Subnav','WT.cg_n','Theater','WT.z_dcsm','1','WT.z_thsubnav','Family Friendly')" href="http://theater.nytimes.com/shows/family-friendly.html">Family<br/>Friendly</a>
+				</li>
+				<li class="sixth">
+				<a onmousedown="dcsMultiTrack('DCS.dcssip','theater.nytimes.com','DCS.dcsuri','/subnav','WT.ti','Theater Subnav','WT.cg_n','Theater','WT.z_dcsm','1','WT.z_thsubnav','Recently Opened')" href="http://theater.nytimes.com/shows/recently-opened.html">Recently<br/>Opened</a>
+				</li>
+				<li class="seventh">
+				<a onmousedown="dcsMultiTrack('DCS.dcssip','theater.nytimes.com','DCS.dcsuri','/subnav','WT.ti','Theater Subnav','WT.cg_n','Theater','WT.z_dcsm','1','WT.z_thsubnav','Last Chance')" href="http://theater.nytimes.com/shows/last-chance.html">Last<br/>Chance</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<div class="column three last">
+		<div class="columnGroup">
+			<h5><a onmousedown="dcsMultiTrack('DCS.dcssip','theater.nytimes.com','DCS.dcsuri','/subnav','WT.ti','Theater Subnav','WT.cg_n','Theater','WT.z_dcsm','1','WT.z_thsubnav','Buy Tickets')" href="http://theater.nytimes.com/show/buy-ticket.html">Find Tickets &raquo;</a></h5>
+			<ul class="verticalMenu flush">
+				<li><a onmousedown="dcsMultiTrack('DCS.dcssip','theater.nytimes.com','DCS.dcsuri','/subnav','WT.ti','Theater Subnav','WT.cg_n','Theater','WT.z_dcsm','1','WT.z_thsubnav','Special Offers')" href="http://theater.nytimes.com/gst/theater/specialoffers.html">Ticketwatch<br/>Offers</a></li>
+			</ul>
+		</div>
+	</div>
+</div>	
+		    	            <div id="main">
+                <div class="spanAB wrap closing">
+                    <div id="abColumn" class="abColumn"><!-- open abColumn -->
+                       <div id="article">
+                        
+		<!--cur: prev:-->
+	<div class="columnGroup first">				
+			<h6 class="kicker">Theater Review | 'Bonnie & Clyde'</h6>
+
+<h1 class="articleHeadline">Armed and Amorous, Committing Cold-Blooded Musical</h1>
+	<NYT_SPAN_IMAGE><div class="articleSpanImage"><img src="http://graphics8.nytimes.com/images/2011/12/02/arts/02BONNIE/02BONNIE-articleLarge.jpg" width="468" height="296" alt="" border="0">
+<div class="credit">Sara Krulwich/The New York Times</div>
+<p class="caption">"Bonnie & Clyde," with Laura Osnes and Jeremy Jordan as the infamous outlaw couple, in the musical directed by Jeff Calhoun at the Gerald Schoenfeld Theater. <a href="http://www.nytimes.com/slideshow/2011/12/02/theater/20111202-bonnie.html" onClick="javascript:s_code_linktrack('Article-MorePhotos');">More Photos &#x00bb;</a></p>
+</div></NYT_SPAN_IMAGE><!--[if lt IE 8]>
+	<script type="text/javascript">
+		if($$('div.articleSpanImage') != null) {
+			var articleSpanImage = $$('div.articleSpanImage')[0].getElementsByTagName("img")[0];
+			var articleSpanImageSrc = articleSpanImage.getAttribute('src');
+			articleSpanImage.setAttribute('src',"http://graphics8.nytimes.com/images/global/backgrounds/transparentBG.gif");
+			var filter = "progId:DXImageTransform.Microsoft.AlphaImageLoader(src='"+articleSpanImageSrc+"', sizingMethod='scale' )";
+			articleSpanImage.style.filter = filter;
+		}
+	</script>
+<![endif]--> 
+	<h6 class="byline">By <a rel="author" href="http://topics.nytimes.com/top/reference/timestopics/people/b/ben_brantley/index.html?inline=nyt-per" title="More Articles by Ben Brantley" class="meta-per">BEN BRANTLEY</a></h6>
+	<h6 class="dateline">Published: December 1, 2011</h6>
+<script type="text/javascript">
+var articleToolsShareData = {"url":"http:\/\/theater.nytimes.com\/2011\/12\/02\/theater\/reviews\/bonnie-clyde-with-laura-osnes-and-jeremy-jordan-review.html","headline":"Armed and Amorous, Committing Cold-Blooded Musical","description":"Frank Wildohorn\u2019s \u201cBonnie & Clyde\u201d is a modest, mildly tuneful musical biography of Clyde Barrow and Bonnie Parker.","keywords":"Theater,Wildhorn  Frank,Osnes  Laura,Ost  Tobin,Jordan  Jeremy","section":"theater","sub_section":"reviews","section_display":"Theater","sub_section_display":"Theater Reviews","byline":"By <a rel=\"author\" href=\"http:\/\/topics.nytimes.com\/top\/reference\/timestopics\/people\/b\/ben_brantley\/index.html?inline=nyt-per\" title=\"More Articles by Ben Brantley\" class=\"meta-per\">BEN BRANTLEY<\/a>","pubdate":"December 1, 2011","passkey":null};
+function getShareURL() {
+    return encodeURIComponent(articleToolsShareData.url);
+}
+function getShareHeadline() {
+    return encodeURIComponent(articleToolsShareData.headline);
+}
+function getShareDescription() {
+    return encodeURIComponent(articleToolsShareData.description);
+}
+function getShareKeywords() {
+    return encodeURIComponent(articleToolsShareData.keywords);
+}
+function getShareSection() {
+    return encodeURIComponent(articleToolsShareData.section);
+}
+function getShareSubSection() {
+	return encodeURIComponent(articleToolsShareData.sub_section);
+}
+function getShareSectionDisplay() {
+    return encodeURIComponent(articleToolsShareData.section_display);
+}
+function getShareSubSectionDisplay() {
+    return encodeURIComponent(articleToolsShareData.sub_section_display);
+}
+function getShareByline() {
+    return encodeURIComponent(articleToolsShareData.byline);
+}
+function getSharePubdate() {
+    return encodeURIComponent(articleToolsShareData.pubdate);
+}
+function getSharePasskey() {
+    return encodeURIComponent(articleToolsShareData.passkey);
+}
+</script>
+
+
+<div id="articleToolsTop" class="articleTools">
+	<div class="box">
+		<div class="inset">
+			<ul id="toolsList" class="toolsList wrap">
+			    
+	                <li class="email">
+                                        		                         		         	                		         		                		         	                                                                                  		         	                		         		                		         	                                        <a id="emailThis" href="http://www.nytimes.com/auth/login?URI=http://theater.nytimes.com/2011/12/02/theater/reviews/bonnie-clyde-with-laura-osnes-and-jeremy-jordan-review.html" onclick="s_code_linktrack('Article-Tool-EmailSignIn');">Sign In to E-Mail</a>
+                		         	                		         		                		         	                                                                           </li>
+
+                                    <li class="print">
+                                                                                    <a href="http://theater.nytimes.com/2011/12/02/theater/reviews/bonnie-clyde-with-laura-osnes-and-jeremy-jordan-review.html?pagewanted=print">Print</a>
+                                                                        </li>
+                                                                                                                                                                                        <li class="singlePage">
+                                <a href="/2011/12/02/theater/reviews/bonnie-clyde-with-laura-osnes-and-jeremy-jordan-review.html?pagewanted=all">Single-Page</a>
+                            </li>
+                                                                                                                                                                	<script name="javascript">
+	function submitCCCForm(){
+		var PopUp = window.open('', '_Icon','location=no,toolbar=no,status=no,width=650,height=550,scrollbars=yes,resizable=yes');
+		var form = document.forms["cccform"];
+		// ensure that we are operating on the Form, not a NodeList
+		if (form.nodeName == "FORM") {
+			form.submit();
+		} else if (form[0] && form[0].nodeName == "FORM") {
+			form[0].submit();
+		}
+	}
+	</script>
+	<li class="reprints">			<form name="cccform" action="https://s100.copyright.com/CommonApp/LoadingApplication.jsp" target="_Icon">
+			<input type="hidden" name="Title" value="Armed and Amorous, Committing Cold-Blooded Musical">
+			<input type="hidden" name="Author" value="By BEN BRANTLEY ">
+			<input type="hidden" name="ContentID" value="http://www.nytimes.com/2011/12/02/theater/reviews/bonnie-clyde-with-laura-osnes-and-jeremy-jordan-review.html">
+			<input type="hidden" name="FormatType" value="default">
+			<input type="hidden" name="PublicationDate" value="December 2, 2011">
+			<input type="hidden" name="PublisherName" value="The New York Times">
+			<input type="hidden" name="Publication" value="nytimes.com">
+			<input type="hidden" name="wordCount" value="12">
+		</form>
+			<a href="#" onClick="submitCCCForm()">Reprints</a>
+	</li>						
+	        </ul>
+
+	<div class="articleToolsSponsor" id="Frame4A"><div class="clearfix"><!-- ADXINFO classification="Button120x60" campaign="FSL2011_articletools_120x60_1629908c_nyt5"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/theater&pos=Frame4A&sn2=570944d5/55c34dd3&sn1=36dd48d5/33ce2b3b&camp=FSL2011_articletools_120x60_1629908c_nyt5&ad=120x60_descendents_NOW&goto=http%3A%2F%2Fwww%2Efoxsearchlight%2Ecom%2Fthedescendants" target="_blank">
+<img src="http://graphics.nytimes.com/adx/images/ADS/28/40/ad.284087/Descendants120x60layered.gif" width="120" height="60" border="0"></a>
+</div></div>        </div>
+    </div>
+</div>
+
+
+
+<div class="articleBody">
+        
+    
+                                                                                            <p>
+                            That Clyde Barrow is such a cutup. Why, the boy will do most anything to stir up his sluggish fellow Americans: slap at them, tickle them, shoot them in cold blood. He&rsquo;ll even punch his fist clean through a wall and drive a big old car right onto the stage, just to try to get a rise out of somebody. But Clyde, honey, t&rsquo;ain&rsquo;t nothing you can do to raise the pulse of something that&rsquo;s as near to dead as the show you&rsquo;re in.        </p>
+                                                </div>
+<div class="articleInline runaroundLeft">
+    	<ul id="leftNav" class="flush">
+    <li class="first"><a href="http://theater.nytimes.com/show/28429/Bonnie-and-Clyde/overview">Overview</a></li>
+    <li class=""><a href="http://theater.nytimes.com/show/28429/Bonnie-and-Clyde/showtimes">Tickets &amp; Showtimes</a></li>
+    <li class="selected"><a href="http://theater.nytimes.com/2011/12/02/theater/reviews/bonnie-clyde-with-laura-osnes-and-jeremy-jordan-review.html">New York Times Review</a></li>
+    <li class=""><a href="http://community.nytimes.com/rate-review/theater.nytimes.com/show/28429/Bonnie-and-Clyde/overview">Readers' Reviews <span id="readerReviewsCount"></span></a></li>
+</ul>
+		
+
+		        		    <div class="columnGroup doubleRule">    </div></div>            <script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+                        <div class="articleInline runaroundLeft" style="margin-top: -11px">        <h6 class="sectionHeader flushBottom">Multimedia</h6>
+        </div>                                                  
+              
+        	<div class="articleInline runaroundLeft firstArticleInline">
+        		<div class="story">  
+	        <div class="wideThumb">
+            <a href="http://www.nytimes.com/slideshow/2011/12/02/theater/20111202-bonnie.html?ref=reviews">
+                <img src="http://graphics8.nytimes.com/images/2011/12/02/theater/20111202-bonnie-slide-9ESN/20111202-bonnie-slide-9ESN-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+                                    <span class="mediaOverlay slideshow">Slide Show</span>
+                            </a>
+        </div>
+        
+        
+    <h6><a href="http://www.nytimes.com/slideshow/2011/12/02/theater/20111202-bonnie.html?ref=reviews">
+            ‘Bonnie & Clyde’</a></h6>
+    
+    <h6 class="byline">
+                    </h6>
+    
+      </div>
+        	</div>
+        	                                          
+              
+        	<div class="articleInline runaroundLeft  lastArticleInline">
+        		
+<div class="story expandAssetContainer" style="z-index: 1; background: transparent;">
+    <div class="thumbnailContainer">
+	        <div class="wideThumb">
+            <img src="http://graphics8.nytimes.com/images/2011/11/30/arts/video-bonnie-clyde/video-bonnie-clyde-thumbWide.jpg" width="190" height="126" alt="" border="0" />
+            <a href="javascript:void;" class="playOverlay"></a>
+        </div>
+        
+        
+    <h6><a href="javascript:void;" class="video">Excerpt: 'Bonnie & Clyde'</a></h6>
+    
+        
+         </div>
+   
+    <div class="assetContainer">
+        <div class="assetWrapper" style="display:none">
+            <div class="videoHeader">Excerpt: 'Bonnie & Clyde'</div>
+            <div id="100000001201601" class="articleInlineVideoHolder">
+            <script type="text/javascript">
+                Event.observe(window, 'load', function() { 
+                    NYTD.ArticleInline.addToVideoArray("100000001201601", "theater", "http://video.nytimes.com/video/2011/12/01/theater/100000001201601/excerpt-bonnie--clyde.html?ref=reviews");
+                });
+            </script>
+	       </div>
+	   </div>
+    </div>
+	<div class="assetCompanionAd" style="position:abosulte;display:none;">
+	    <div class="adContainer" style="display:none;">
+	        <div class="adClose"><a href="javascript:return false;" class="dialogBoxClose">Close Video</a></div>
+	        <div class="adContent"></div>
+	        <div class="assetAdSectionLink">
+	           <div class="singleRuleDivider"></div>
+	           <a href="http://video.nytimes.com/video/playlist/theater">See More Videos &#187;</a>
+	        </div>
+	   </div>
+    </div> 
+</div>        	</div>
+        	                <div class="articleInline runaroundLeft"><div class="articleInline runaroundLeft"></div>
+                		    <div class="columnGroup doubleRule">     
+    	<h3 class="sectionHeader">Related</h3>
+        
+    <ul class="headlinesOnly multiline flush">
+                    <li>
+    <h6><a href="http://www.nytimes.com/2011/11/24/theater/frank-wildhorn-composer-of-bonnie-clyde.html?ref=reviews">
+                                    Standing by Their New Musical, Fingers Crossed</a>
+        				(November 24, 2011)
+	             </h6>
+</li>
+                    <li>
+    <h6><a href="http://www.nytimes.com/2011/09/18/theater/jeremy-jordan-in-newsies-and-bonnie-clyde.html?ref=reviews">
+                                    Just a Little Moonlighting on Broadway</a>
+        				(September 18, 2011)
+	             </h6>
+</li>
+            </ul>
+</div>
+        	<div class="doubleRule"><div class="story"> 
+
+<div class="runaroundRight"><a href="http://twitter.com/#!/nytimestheater/"><img src="http://a2.twimg.com/profile_images/278432404/theater_75_twitter_reasonably_small.gif" height="75" width="75" alt="" /></a></div>
+  <h4><a href="http://twitter.com/#!/nytimestheater/">Connect With Us on Twitter</a></h4>
+  <p class="summary">Follow <a href="http://twitter.com/#!/nytimestheater/">@NYTimestheater</a> for theater news and reviews from Broadway and beyond.</p>
+
+</div></div>						<div class="inlineImage module">
+	<div class="image">
+					<div class="icon enlargeThis"><a href="javascript:pop_me_up2('http://www.nytimes.com/imagepages/2011/12/02/arts/JPBONNIE2.html','JPBONNIE2_html','width=535,height=630,scrollbars=yes,toolbars=no,resizable=yes')">Enlarge This Image</a></div>
+			<a href="javascript:pop_me_up2('http://www.nytimes.com/imagepages/2011/12/02/arts/JPBONNIE2.html','JPBONNIE2_html','width=535,height=630,scrollbars=yes,toolbars=no,resizable=yes')">
+				<img src="http://graphics8.nytimes.com/images/2011/12/02/arts/JPBONNIE2/JPBONNIE2-articleInline.jpg" width="190" height="204" alt="">
+					</a>
+			</div>
+			<h6 class="credit">Sara Krulwich/The New York Times</h6>
+				            <p class="caption">Laura Osnes as Bonnie Parker and Jeremy Jordan as Clyde Barrow in the musical biography at the Schoenfeld Theater.                            <a href="/slideshow/2011/12/02/theater/20111202-bonnie.html" onClick="javascript:s_code_linktrack('Article-MorePhotos');">More Photos &#x00bb;</a>
+                    </p>
+</div>
+			</div>
+    
+<div class="articleBody">
+                                                                        <p>
+                            &ldquo;Bonnie & Clyde,&rdquo; which opened on Thursday night at the Gerald Schoenfeld Theater, is a modest, mildly tuneful musical biography of Clyde Barrow and Bonnie Parker, the kissin&rsquo; outlaws from Texas who hijacked the American imagination during <a href="http://topics.nytimes.com/top/reference/timestopics/subjects/g/great_depression_1930s/index.html?inline=nyt-classifier" title="Recent and archival news about the Great Depression." class="meta-classifier">the Great Depression</a>. It portrays its title characters (played by Laura Osnes and Jeremy Jordan) as restless, libido-charged young &rsquo;uns who are about to suffocate from the grayness of their dreary lives.        </p>
+                                                                                <p>
+                            So they quarrel a lot (their favorite form of foreplay) and then have sex (offstage, just in case you want to bring the children). They stick up banks, leave a trail of dead bodies and drive real fast (also offstage, since a $6 million budget can only stretch so far). But they just can&rsquo;t seem to shake the torpor that makes every day in their lives &mdash; and every scene in this production from the composer <a href="http://topics.nytimes.com/top/reference/timestopics/people/w/frank_wildhorn/index.html?inline=nyt-per" title="More articles about Frank Wildhorn." class="meta-per">Frank Wildhorn</a>, with a book by Ivan Menchell and lyrics by Don Black &mdash; feel like the one that came before it.        </p>
+                                                                                <p>
+                            Remember the advertising tag line from the much acclaimed, much-reviled 1967 movie that was also called &ldquo;Bonnie and Clyde&rdquo; and starred Faye Dunaway and Warren Beatty? It went, &ldquo;<a title="trailer for movie" href="http://www.youtube.com/watch?v=YNrSGutBOlE">They&rsquo;re young, they&rsquo;re in love, they kill people</a>.&rdquo; That pretty much sums up what goes on in this show too. There&rsquo;s even a fair amount of onstage bloodletting, as there was in Arthur Penn&rsquo;s film.        </p>
+                                                                                <p>
+                            That movie&rsquo;s carnage factor &mdash; and especially the visual poetry it brought to such violence &mdash; was what most raised the hackles of old-guard critics. Somehow, though, when blood geysers out of a body in this version, all you&rsquo;re likely to think is, &ldquo;Well, who&rsquo;s going to clean up that mess?&rdquo; Directed and (sort of) choreographed by Jeff Calhoun, &ldquo;Bonnie & Clyde&rdquo; manages to make that triple-threat lure of sex, youth and violence seem about as glamorous as &mdash; and a lot less dangerous than &mdash; <a href="http://topics.nytimes.com/top/reference/timestopics/subjects/r/retail_stores_and_trade/black_friday/index.html?inline=nyt-classifier" title="More articles about Black Friday." class="meta-classifier">Black Friday</a> at Wal-Mart.        </p>
+                                                                                <p>
+                            Making multiple murders feel like just another manifestation of mortal ennui can be a conscious artistic choice of course. (Think of &ldquo;<a title=""Badlands" trailer" href="http://www.youtube.com/watch?v=lcFx06cBmbk">Badlands</a>,&rdquo; Terrence Malick&rsquo;s 1973 movie about a numbed-out serial killer.) I doubt that&rsquo;s what the creative team here is going for, though Clyde does make some grim existential statements about the randomness of life and death.        </p>
+                                                                                <p>
+                            Instead, this show has repackaged the tale of Bonnie and Clyde as a Story for Our Time, with implicit parallels between the lost ideals of one American era of privation and unemployment and our own. &ldquo;This country&rsquo;s had its day,&rdquo; Clyde snarls. That pronouncement is reflected in Tobin Ost&rsquo;s weathered wooden sets, overlaid with Aaron Rhyne&rsquo;s video projections, which summon the Dust Bowl images of photographers like Dorothea Lange. There is even &mdash; heaven help us &mdash; a breadline tableau, in silhouette, somewhere along the way. (There are also projected pictures of <a title="photographs of the real Bonnie and Clyde" href="http://www.life.com/gallery/23297/image/50608628/bonnie-and-clyde">the real Bonnie and Clyde</a>, a bad idea, since they bristle with a gritty individuality that no one onstage possesses.)        </p>
+                                                                                <p>
+                            You can understand then why Clyde, the son of a sharecropper, and Bonnie, a two-bit waitress with movie-star fantasies, might want to break away and go wild. (We meet their childhood selves, played by Kelsey Fowler and Talon Ackerman, who show up to remind them of the dreams they once dreamed.) And it makes sense that members of a down-and-out public would see Bonnie and Clyde as radiant and exciting creatures.        </p>
+                                                                                <p>
+                            Whether theatergoers will share that vision is another question. <a title="New York Times profile of Jeremy Jordan" href="http://www.nytimes.com/2011/09/18/theater/jeremy-jordan-in-newsies-and-bonnie-clyde.html?_r=1&scp=1&sq=jeremy%20jordan&st=cse">Mr. Jordan, a rising musical star</a> who won terrific notices for the Broadway-bound Disney musical <a title="New York Times review of "Newsies" " href="http://theater.nytimes.com/2011/09/28/theater/reviews/newsies-the-musical-review.html?scp=2&sq=jeremy%20jordan%20newsies&st=cse">&ldquo;Newsies,&rdquo;</a> has a great baby-gangster face that brings to mind a dewier John Garfield or perhaps all the Dead End Kids rolled into one. He exudes a naturally intense presence, and he works hard at making Clyde seem both wholesome and menacing.        </p>
+                                                                                <p>
+                            But for all their semiclad spooning and sparking and aspiringly fiery fights, this Bonnie and Clyde don&rsquo;t seem convincingly hot for each other or for the thrill of being on the run. Ms. Osnes is a lovely young woman of fashion-model proportions and an instinctive, accessible elegance that reads Ing&eacute;nue. (She was perfect as the romantic lead in the current revival of &ldquo;Anything Goes.&rdquo;)        </p>
+                                                                                <p>
+                            I don&rsquo;t think ing&eacute;nue was what Bonnie Parker was about. Ms. Osnes brings to mind a Bennington girl slumming with rough trade on her semester off. And while she has in past performances proved herself an incisive and expressive <a title="video of "Anything Goes" highlights, with Osnes dancing" href="http://www.youtube.com/watch?v=JWbhuY5lMQs">dancer</a> (it&rsquo;s her foremost tool in defining character), here she&rsquo;s allowed nary a step.        </p>
+                                                                                                                        </div>	</div>
+			<!--cur: prev:-->
+	<div class="columnGroup ">				
+		<div class="articleFooter">
+	      
+    	   
+	<div id="pageLinks">
+									<ul id="pageNumbers">	
+												
+						<li >1</li>				
+										<li class="lastListItem">
+					<a onclick="s_code_linktrack('Article-MultiPagepageNum2');" title="Page 2" href="/2011/12/02/theater/reviews/bonnie-clyde-with-laura-osnes-and-jeremy-jordan-review.html?pagewanted=2">2</a>
+				</li>
+								</ul>
+								<a class="next" onclick="s_code_linktrack('Article-MultiPage-Next');" title="Next Page" href="/2011/12/02/theater/reviews/bonnie-clyde-with-laura-osnes-and-jeremy-jordan-review.html?pagewanted=2">Next Page &gt;</a>
+					</div>
+	
+        	
+	
+
+	<div class="articleCorrection">
+
+	
+	
+	
+	</div>
+
+	
+	<div class="articleMeta">
+		<div class="opposingFloatControl wrap">
+		    				<div class="element1">
+					<h6 class="metaFootnote">A version of this review appeared in print on December 2, 2011, on page C1 of the New York edition with the headline: Armed And Amorous, Committing Cold-Blooded Musical.</h6>
+				</div>
+								</div>
+	</div>
+</div>	</div>
+			<!--cur: prev:-->
+	<div class="columnGroup ">				
+		<div id="articleExtras">
+<div class="expandedToolsRight">
+<div class="articleTools">
+    <div class="box">
+        <div class="inset">
+            <ul id="toolsList" class="toolsList wrap">
+                
+                    <li class="email">
+                                                                         		         	                		         		                		         	                                                                                  		         	                		         		                		         	
+                                        <a id="emailThis" href="http://www.nytimes.com/auth/login?URI=http://theater.nytimes.com/2011/12/02/theater/reviews/bonnie-clyde-with-laura-osnes-and-jeremy-jordan-review.html" onclick="s_code_linktrack('Article-Tool-EmailSignIn');">Sign In to E-Mail</a>
+                		         	                		         		                		         	
+                                                                           </li>
+
+                                    <li class="print">
+                                                                                    <a href="http://theater.nytimes.com/2011/12/02/theater/reviews/bonnie-clyde-with-laura-osnes-and-jeremy-jordan-review.html?pagewanted=print">Print</a>
+                                                                        </li>
+                                                    					  					    					                          <li class="singlePage">
+							<a href="/2011/12/02/theater/reviews/bonnie-clyde-with-laura-osnes-and-jeremy-jordan-review.html?pagewanted=all">Single-Page</a>
+                        </li>
+					  					    					                                                          	<script name="javascript">
+	function submitCCCForm(){
+		var PopUp = window.open('', '_Icon','location=no,toolbar=no,status=no,width=650,height=550,scrollbars=yes,resizable=yes');
+		var form = document.forms["cccform"];
+		// ensure that we are operating on the Form, not a NodeList
+		if (form.nodeName == "FORM") {
+			form.submit();
+		} else if (form[0] && form[0].nodeName == "FORM") {
+			form[0].submit();
+		}
+	}
+	</script>
+	<li class="reprints">			<form name="cccform" action="https://s100.copyright.com/CommonApp/LoadingApplication.jsp" target="_Icon">
+			<input type="hidden" name="Title" value="Armed and Amorous, Committing Cold-Blooded Musical">
+			<input type="hidden" name="Author" value="By BEN BRANTLEY ">
+			<input type="hidden" name="ContentID" value="http://www.nytimes.com/2011/12/02/theater/reviews/bonnie-clyde-with-laura-osnes-and-jeremy-jordan-review.html">
+			<input type="hidden" name="FormatType" value="default">
+			<input type="hidden" name="PublicationDate" value="December 2, 2011">
+			<input type="hidden" name="PublisherName" value="The New York Times">
+			<input type="hidden" name="Publication" value="nytimes.com">
+			<input type="hidden" name="wordCount" value="12">
+		</form>
+			<a href="#" onClick="submitCCCForm()">Reprints</a>
+	</li>						
+            </ul>
+                    </div>
+    </div>
+</div>
+<script type="text/javascript">
+writePost();
+</script>
+</div>
+</div>
+		    			<div class="singleAd"  id="Bottom1">
+			<div class="clearfix">
+			<!-- ADXINFO classification="text_ad" campaign="NYT2011-Mktg-SocialMedia-ROS-Footer"--><p><A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/theater&pos=Bottom1&sn2=2e60f68e/ccf33b7a&sn1=a2fa3e78/7a63ac1d&camp=NYT2011-Mktg-SocialMedia-ROS-Footer&ad=nyt_footer_socialmedia_ros&goto=http%3A%2F%2Fwww%2Efacebook%2Ecom%2Fnytimes" target="_blank">Connect with The New York Times on Facebook.
+
+</a></p>
+			</div>
+			</div>
+						</div>
+			<!--cur: prev:-->
+	<div class="columnGroup ">				
+		
+
+	</div>
+			<!--cur: prev:-->
+	<div class="columnGroup ">				
+		<div class="singleRuleDivider"></div>
+<div class="articleBottomExtra subColumns">
+    <div class="column">
+        
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/app/article/outbrain.js"></script>    </div>                
+    <div class="column lastColumn">
+            <div class="emailAlertModule module">
+    <h5 class="sectionHeaderSm">Get Free E-mail Alerts on These Topics</h5>
+    <form action="https://myaccount.nytimes.com/mem/tnt.html" method="GET" enctype="application/x-www-form-urlencoded">
+        <input type="hidden" name="retA" value="http://www.nytimes.com//2011/12/02/theater/reviews/bonnie-clyde-with-laura-osnes-and-jeremy-jordan-review.html" >
+        <input type="hidden" name="retT" value="Armed and Amorous, Committing Cold-Blooded Musical">
+        <input type="hidden" name="module" value="call">
+        <input type="hidden" name="alert_context" value="1">
+        <ul class="flush">
+        <li>
+            <input type="hidden" name="topic1" value="Theater">
+            <input type="hidden" name="topic_field1" value="des">
+                            <a class="inTextReferEmail" href="https://myaccount.nytimes.com/mem/tnt.html?module=call&alert_context=1&topic1=Theater&topic_field1=des&topic1_check=y&retA=&retT=&cskey=" onClick="javascript:s_code_linktrack('Article-RelatedTopics'); dcsMultiTrack('DCS.dcssip','www.nytimes.com','DCS.dcsuri','/newstracker/add.html','WT.ti','Newstracker Add','WT.z_nta','Add','WT.pers','Per','WT.z_dcsm','1');" onmousedown="NYTD.relatedSearches.clickHandler(event);"  >Theater</a>
+             
+        </li>
+        <li>
+            <input type="hidden" name="topic1" value="Wildhorn%2C+Frank">
+            <input type="hidden" name="topic_field1" value="per">
+                            <a class="inTextReferEmail" href="https://myaccount.nytimes.com/mem/tnt.html?module=call&alert_context=1&topic1=Wildhorn%2C+Frank&topic_field1=per&topic1_check=y&retA=&retT=&cskey=" onClick="javascript:s_code_linktrack('Article-RelatedTopics'); dcsMultiTrack('DCS.dcssip','www.nytimes.com','DCS.dcsuri','/newstracker/add.html','WT.ti','Newstracker Add','WT.z_nta','Add','WT.pers','Per','WT.z_dcsm','1');" onmousedown="NYTD.relatedSearches.clickHandler(event);"  >Wildhorn, Frank</a>
+             
+        </li>
+        <li>
+            <input type="hidden" name="topic1" value="Osnes%2C+Laura">
+            <input type="hidden" name="topic_field1" value="per">
+                            <a class="inTextReferEmail" href="https://myaccount.nytimes.com/mem/tnt.html?module=call&alert_context=1&topic1=Osnes%2C+Laura&topic_field1=per&topic1_check=y&retA=&retT=&cskey=" onClick="javascript:s_code_linktrack('Article-RelatedTopics'); dcsMultiTrack('DCS.dcssip','www.nytimes.com','DCS.dcsuri','/newstracker/add.html','WT.ti','Newstracker Add','WT.z_nta','Add','WT.pers','Per','WT.z_dcsm','1');" onmousedown="NYTD.relatedSearches.clickHandler(event);"  >Osnes, Laura</a>
+             
+        </li>
+        <li>
+            <input type="hidden" name="topic1" value="Ost%2C+Tobin">
+            <input type="hidden" name="topic_field1" value="per">
+                            <a class="inTextReferEmail" href="https://myaccount.nytimes.com/mem/tnt.html?module=call&alert_context=1&topic1=Ost%2C+Tobin&topic_field1=per&topic1_check=y&retA=&retT=&cskey=" onClick="javascript:s_code_linktrack('Article-RelatedTopics'); dcsMultiTrack('DCS.dcssip','www.nytimes.com','DCS.dcsuri','/newstracker/add.html','WT.ti','Newstracker Add','WT.z_nta','Add','WT.pers','Per','WT.z_dcsm','1');" onmousedown="NYTD.relatedSearches.clickHandler(event);"  >Ost, Tobin</a>
+             
+        </li>
+
+    </ul>
+    </form>
+    </div>
+
+
+    </div>
+</div>	</div>
+			<!--cur: prev:-->
+	<div class="columnGroup last">				
+		
+
+<script type="text/javascript">
+// Readers Reviews and Ratings variables
+NYTD.CRNR                        = window.NYTD.CRNR || {};
+NYTD.CRNR.communityHost          = 'http://community.nytimes.com';
+NYTD.CRNR.assetName              = "Bonnie and Clyde";
+NYTD.CRNR.pageType               = 'rate-review';
+NYTD.CRNR.vertical               = 'theater';
+NYTD.CRNR.countLocation          = 'readerReviewsCount';
+NYTD.CRNR.commentElement         = 'submitReview';
+NYTD.CRNR.communityAssetLabels   = 'NYT_Theater';
+NYTD.CRNR.communityAssetTaxonomy = 'theater/2011/Bonnie-and-Clyde';
+NYTD.CRNR.communityAssetURL      = 'http://theater.nytimes.com/show/28429/Bonnie-and-Clyde/overview';
+NYTD.CRNR.communityMD5           = 'vMjXgg4vXGnSgSwhrKoS+g';
+NYTD.CRNR.javascriptHost         = 'http://theater.nytimes.com';
+// variables defined for the pagination
+NYTD.CRNR.currentPageNum         = 1;
+NYTD.CRNR.basePage               = 'http://community.nytimes.com/rate-review/theater.nytimes.com/show/28429/Bonnie-and-Clyde/overview';
+NYTD.CRNR.pageSort               = 'newest';
+NYTD.CRNR.reviewCount            = '25';
+</script>
+
+<div class="singleRuleDivider"></div>
+<div id="readerRating" class="readerRating wrap"></div>
+<div class="columnGroup doubleRule">
+    <div id="readerReviews">
+        <div id="commentsWell">
+            <div id="readerComments">
+                <div id="rnrShowComments"></div>
+                <div id="readerRatingClone" class="readerRating ratingsWell"></div>
+                <div id="rnrPostComments"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="singleRuleDivider"></div>
+	</div>
+	                       </div>
+                    </div><!-- close abColumn -->
+
+                    <div id="cColumn" class="cColumn">
+                        
+
+
+
+			<!--   -->                    <div class="columnGroup first">
+        		        	</div>
+        				<!--   -->                    <div class="columnGroup ">
+        		        	</div>
+        				<!--   -->                    <div class="columnGroup ">
+        				    			<div class="singleAd"  id="XXL">
+			<div class="clearfix">
+			<!-- Unicast Ad Platform V3.8.106 Delivery V3.0 Start: In-Page Script (Script) ad tag for
+Agency: [ New York Times ]
+Advertiser: [ Shell - NYTimes ]
+Campaign: [ Shell XXL 2011 ]
+Publisher: [ NYTimes.com ]
+Placement: [ NYT - Shell XXL_468x648 ]
+Format/Size: [ In-Page - 468 x 648 ]
+Start: [ 06/20/11 ]
+End: [ 07/20/11 ] -->
+<div id="VwP75145Div" name="VwP75145Div" style="display:block;border:0;margin:0;padding:0;"></div>
+<script language="javascript">
+VwP75145PubClickthruURL="none";
+VwP75145PubImpressionURL="none";
+VwP75145Random=Math.random();
+VwP75145D=false;if(document.location.search.indexOf("P75145D")!=-1){VwP75145D=true;}
+document.write('<scr'+'ipt language="javascript" src="http://creativeby1.unicast.com/assets/A14/N18917/M14400/P17/Q75145/script_468_648.js?'+VwP75145Random+'"></scr'+'ipt>');
+</script>
+<noscript>
+<A HREF="http://www.shell.com/home/content/ecomarathon/americas/" TARGET="unicastTarget"><img src="http://creativeby1.unicast.com/assets/A14/N18917/M14400/C454768/backup_image.jpg" width="468" height="648" border="0"></A>
+</noscript>
+<!-- Unicast Ad Platform V3.8.106 Delivery V3.0 End: Script ad tag for
+Campaign: [ Shell XXL 2011 ] Publisher: [ NYTimes.com ] Placement: [ NYT - Shell XXL_468x648 ] Generated:  06/21/2011 14:16:34 -0400  -->
+<img src="http://t.mookie1.com/t/v1/imp?migAgencyId=455&migSource=adsrv2&migTrackDataExt=2717285;72262932;246988891;44311496&migTrackFmtExt=client;io;ad;crtv&migUnencodedDest=http://ad.doubleclick.net/imp;v1;f;246988891;0-0;0;72262932;1|1;44311496|44329283|1;;cs=g;%3fhttp://ad.doubleclick.net/dot.gif?2011.12.02.18.04.34" width=1 height=1 border=0>			</div>
+			</div>
+					        	</div>
+        					<!--   -->                    <div class="columnGroup ">
+        		             
+                                                 <script type="text/javascript">
+                 NYTD.ArticleShareAd(AdShareData, {"type":"1","url":"","title":"","description":"","asset_id":"","pub_date":"","author":"","col_name":"","kicker":"","source":"Advertisement","section":"Advertisement","adx_setup_tag":"www.nytimes.com\/yr\/mo\/day\/theater\/reviews\/bonnie-clyde-with-laura-osnes-and-jeremy-jordan-review.html","adx_keywords":"","nytdsection":"","nytdsubsection":"","encrypted_key":"l2vciKWXVnTeOrSr1ck5Xg"});
+            </script> 
+        
+                	</div>
+        				<!--   -->                    <div class="columnGroup last">
+        		
+<div id="mostPopWidget" class="doubleRule"></div>
+<script src="http://graphics8.nytimes.com/js/app/recommendations/recommendationsModule.js" type="text/javascript" charset="utf-8"></script>
+
+        	</div>
+        	
+
+
+
+<div class="columnGroup">
+    
+</div>
+                    </div>
+
+                </div><!-- close spanAB -->
+                	
+  <!-- start MOTH -->
+  	<div id="insideNYTimes" class="doubleRule">
+            <script type="text/javascript" src="http://js.nyt.com/js/app/moth/moth.js"></script>
+        <div id="insideNYTimesHeader">
+                    <div class="navigation"><span id="leftArrow"><img id="mothReverse" src="http://i1.nyt.com/images/global/buttons/moth_reverse.gif" /></span>&nbsp;<span id="rightArrow"><img id="mothForward" src="http://i1.nyt.com/images/global/buttons/moth_forward.gif" /></span></div>
+                <h4>
+            Inside NYTimes.com        </h4>
+    </div>
+    
+        
+    <div id="insideNYTimesScrollWrapper">
+        <table id="insideNYTimesBrowser" cellspacing="0">
+            <tbody>
+                <tr>
+                                                <td class="first">
+        <div class="story">
+            <h6 class="kicker">
+                                    <a href="http://theater.nytimes.com/pages/theater/index.html">Theater &raquo;</a>
+                            </h6>
+            <div class="mothImage">
+                <a href="http://theater.nytimes.com/2011/12/02/theater/reviews/bonnie-clyde-with-laura-osnes-and-jeremy-jordan-review.html"><img src="http://i1.nyt.com/images/2011/12/02/theater/02MOTH_BONNIE/02MOTH_BONNIE-moth.jpg" alt="Armed and Amorous: A Cold-Blooded Musical" width="151" height="151" /></a>
+            </div>
+            <h6 class="headline"><a href="http://theater.nytimes.com/2011/12/02/theater/reviews/bonnie-clyde-with-laura-osnes-and-jeremy-jordan-review.html">Armed and Amorous: A Cold-Blooded Musical</a></h6>
+        </div>
+    </td>
+                                                <td>
+        <div class="story">
+            <h6 class="kicker">
+                                    <a href="http://www.nytimes.com/pages/national/index.html">U.S. &raquo;</a>
+                            </h6>
+            <div class="mothImage">
+                <a href="http://www.nytimes.com/2011/12/02/us/more-military-dogs-show-signs-of-combat-stress.html"><img src="http://i1.nyt.com/images/2011/12/02/us/02moth_canine/02moth_canine-moth.jpg" alt="After Duty, Dogs Suffer Like Soldiers" width="151" height="151" /></a>
+            </div>
+            <h6 class="headline"><a href="http://www.nytimes.com/2011/12/02/us/more-military-dogs-show-signs-of-combat-stress.html">After Duty, Dogs Suffer Like Soldiers</a></h6>
+        </div>
+    </td>
+                                                <td>
+        <div class="story">
+            <h6 class="kicker">
+                                    <a href="http://www.nytimes.com/pages/sports/index.html">Sports &raquo;</a>
+                            </h6>
+            <div class="mothImage">
+                <a href="http://www.nytimes.com/2011/12/02/sports/kelly-cobb-leads-duke-to-womens-national-semifinals.html"><img src="http://i1.nyt.com/images/2011/12/02/sports/02moth_duke/02moth_duke-moth.jpg" alt="Duke Freshman Bloomed in Unlikely Place" width="151" height="151" /></a>
+            </div>
+            <h6 class="headline"><a href="http://www.nytimes.com/2011/12/02/sports/kelly-cobb-leads-duke-to-womens-national-semifinals.html">Duke Freshman Bloomed in Unlikely Place</a></h6>
+        </div>
+    </td>
+                                                    <td>
+            <div class="story">
+                <h6 class="kicker"><a href="http://www.nytimes.com/pages/opinion/index.html">Opinion &raquo;</a></h6>
+                <h3><a href="http://opinionator.blogs.nytimes.com/2011/12/01/health-care-for-a-changing-work-force/">Fixes: Health Care for a New Workforce</a></h3>
+                <p class="summary">With 42 million independent workers in the United States, the Freelancers Union&rsquo;s health plan may be a model for the future.</p>
+            </div>
+        </td>
+                                                <td>
+        <div class="story">
+            <h6 class="kicker">
+                                    <a href="http://www.nytimes.com/pages/arts/design/index.html">Arts and Design &raquo;</a>                            </h6>
+            <div class="mothImage">
+                <a href="http://www.nytimes.com/2011/12/02/arts/design/luminous-modernism-at-scandinavia-house-review.html"><img src="http://i1.nyt.com/images/2011/12/02/arts/02MOTH_LUMINOUS/02MOTH_LUMINOUS-moth.jpg" alt="&lsquo;Luminous Modernism&rsquo; at Scandinavia House" width="151" height="151" /></a>
+            </div>
+            <h6 class="headline"><a href="http://www.nytimes.com/2011/12/02/arts/design/luminous-modernism-at-scandinavia-house-review.html">&lsquo;Luminous Modernism&rsquo; at Scandinavia House</a></h6>
+        </div>
+    </td>
+                                                <td>
+        <div class="story">
+            <h6 class="kicker">
+                                    <a href="http://www.nytimes.com/pages/opinion/index.html">Opinion &raquo;</a>
+                            </h6>
+            <div class="mothImage">
+                <a href="http://www.nytimes.com/2011/12/02/opinion/can-russia-help-us-withdraw-from-afghanistan.html"><img src="http://i1.nyt.com/images/2011/12/02/opinion/02moth_opart/02moth_opart-moth.jpg" alt="Op-Ed: Can Russia Help Us in Afghanistan?" width="151" height="151" /></a>
+            </div>
+            <h6 class="headline"><a href="http://www.nytimes.com/2011/12/02/opinion/can-russia-help-us-withdraw-from-afghanistan.html">Op-Ed: Can Russia Help Us in Afghanistan?</a></h6>
+        </div>
+    </td>
+                                                <td class="hidden">
+        <div class="story">
+            <h6 class="kicker">
+                                    <a href="http://www.nytimes.com/pages/arts/design/index.html">Arts and Design &raquo;</a>                            </h6>
+            <div class="mothImage">
+                <a href="http://www.nytimes.com/2011/12/02/arts/design/storytelling-in-japanese-art-at-the-met-review.html"><span class="img" src="http://i1.nyt.com/images/2011/12/02/arts/02MOTH_STORY/02MOTH_STORY-moth.jpg" alt="A Thousand Years of Gods, Demons and Romance" width="151" height="151" /></a>
+            </div>
+            <h6 class="headline"><a href="http://www.nytimes.com/2011/12/02/arts/design/storytelling-in-japanese-art-at-the-met-review.html">A Thousand Years of Gods, Demons and Romance</a></h6>
+        </div>
+    </td>
+                                                <td class="hidden">
+        <div class="story">
+            <h6 class="kicker">
+                                    <a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate &raquo;</a>
+                            </h6>
+            <div class="mothImage">
+                <a href="http://www.nytimes.com/2011/12/04/realestate/the-hunt-upper-east-side-the-time-is-now-apartment.html"><span class="img" src="http://i1.nyt.com/images/2011/12/04/realestate/04MOTH_SUBHUNT/04MOTH_SUBHUNT-moth.jpg" alt="The Time-Is-Now Apartment" width="151" height="151" /></a>
+            </div>
+            <h6 class="headline"><a href="http://www.nytimes.com/2011/12/04/realestate/the-hunt-upper-east-side-the-time-is-now-apartment.html">The Time-Is-Now Apartment</a></h6>
+        </div>
+    </td>
+                                                    <td class="hidden">
+            <div class="story">
+                <h6 class="kicker"><a href="http://www.nytimes.com/pages/opinion/index.html">Opinion &raquo;</a></h6>
+                <h3><a href="http://www.nytimes.com/roomfordebate/2011/12/01/save-america-shop-at-work/">Shop at Work, and Save America</a></h3>
+                <p class="summary">Room for Debate asks: Should employers be worried about lost productivity, or grateful to workers who are always online?</p>
+            </div>
+        </td>
+                                                <td class="hidden">
+        <div class="story">
+            <h6 class="kicker">
+                                    <a href="http://www.nytimes.com/pages/movies/index.html"> Movies &raquo;</a>                            </h6>
+            <div class="mothImage">
+                <a href="http://movies.nytimes.com/2011/12/02/movies/shame-directed-by-steve-mcqueen-review.html"><span class="img" src="http://i1.nyt.com/images/2011/12/02/movies/02MOTH_SHAME/02MOTH_SHAME-moth.jpg" alt="Only One Thing on His Mind" width="151" height="151" /></a>
+            </div>
+            <h6 class="headline"><a href="http://movies.nytimes.com/2011/12/02/movies/shame-directed-by-steve-mcqueen-review.html">Only One Thing on His Mind</a></h6>
+        </div>
+    </td>
+                                                    <td class="hidden">
+            <div class="story">
+                <h6 class="kicker"><a href="http://www.nytimes.com/pages/opinion/index.html">Opinion &raquo;</a></h6>
+                <h3><a href="http://www.nytimes.com/2011/12/02/opinion/forensic-analysts-should-defend-reports-in-court.html">Op-Ed: The Price of the Bill of Rights</a></h3>
+                <p class="summary">Should an analyst who produced a fingerprint report have to show up at trial to face questions about the report?</p>
+            </div>
+        </td>
+                                                <td class="hidden">
+        <div class="story">
+            <h6 class="kicker">
+                                    <a href="http://www.nytimes.com/pages/travel/index.html">Travel &raquo;</a>
+                            </h6>
+            <div class="mothImage">
+                <a href="http://travel.nytimes.com/2011/12/04/travel/as-airlines-cut-back-hotels-step-in.html"><span class="img" src="http://i1.nyt.com/images/2011/12/04/travel/04MOTH_PRAC/04MOTH_PRAC-moth.jpg" alt="Airlines Cut Back, Hotels Step In" width="151" height="151" /></a>
+            </div>
+            <h6 class="headline"><a href="http://travel.nytimes.com/2011/12/04/travel/as-airlines-cut-back-hotels-step-in.html">Airlines Cut Back, Hotels Step In</a></h6>
+        </div>
+    </td>
+                                    </tr>
+            </tbody>
+        </table>
+    </div>
+    
+    </div><!-- end #insideNYTimes -->
+
+            </div><!-- close main -->
+                <div id="footer">
+<ul class="first">
+	<li class="first"><a href="http://www.nytimes.com">Home</a></li>
+		<li >
+		<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+	</li>
+		<li >
+		<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+	</li>
+		<li >
+		<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+	</li>
+		<li >
+		<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+	</li>
+		<li >
+		<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+	</li>
+		<li >
+		<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+	</li>
+		<li >
+		<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+	</li>
+		<li >
+		<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+	</li>
+		<li >
+		<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+	</li>
+		<li >
+		<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+	</li>
+		<li >
+		<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+	</li>
+		<li >
+		<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+	</li>
+		<li >
+		<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+	</li>
+		<li >
+		<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+	</li>
+		<li >
+		<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+	</li>
+		<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+</ul>    <ul>
+        <li class="first"><a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&copy; 2011</a> <a href="http://www.nytco.com/">The New York Times Company</a></li>
+        <li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+        <li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>
+        <li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Terms of Service</a></li>
+        <li class="termsOfSale"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+        <li><a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a></li>
+        <li><a class="rssButton" href="http://www.nytimes.com/rss">RSS</a></li>
+        <li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+        <li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+        <li><a href="http://www.nytco.com/careers">Work for Us</a></li>
+        <li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+    </ul>
+</div>
+        </div><!-- close page -->
+    </div><!-- close shell -->
+
+    <script type="text/javascript" src="http://graphics8.nytimes.com/js/app/community/V3/createHtmlMetaTags.js"></script>
+    <script type="text/javascript" src="http://graphics8.nytimes.com/js/app/community/V3/getCRNRFiles.js"></script>
+    <script type="text/javascript" src="http://graphics8.nytimes.com/js/app/community/V3/turnkey.js"></script>
+    	
+<script type="text/javascript">
+var dcsvid = "34844141";
+var regstatus = "registered";
+</script>
+
+<script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script><noscript><div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div></noscript>
+
+<!-- Start UPT call --><img height="1" width="3" border="0" src="http://up.nytimes.com/?d=0//&amp;t=&amp;s=0&amp;ui=34844141&amp;r=http%3A%2F%2Ftheater.nytimes.com%2F2011%2F11%2F11%2Ftheater%2Freviews%2Fhugh-jackman-back-on-broadway-at-broadhurst-review.html%3Femc%3Deta1&amp;u=theater.nytimes.com%2F2011%2F12%2F02%2Ftheater%2Freviews%2Fbonnie-clyde-with-laura-osnes-and-jeremy-jordan-review.html"><!-- End UPT call -->
+	<IMG SRC="/adx/bin/clientside/7cb2f2afQ2FQ7E6OB6Q26Q22Q5CBQ226LB6kQ5CG6Q5CggggQ7B1Q516,eQ26Q26Q26OggQ2FLQ51Q7B1Q3De" height="1" width="3">
+	<script type="text/javascript" src="http://js.nyt.com/js/app/lib/jquery/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/app/analytics/multitrackQueue.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/app/theater/SliderToolTemplates.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/app/theater/SliderTool.js"></script>
+</body>
+	<div align="center">
+<!-- Audience Incite 300x250 Survey Banner Tag for NYTimes:
+Start Vizu Audience Incite Tag / 300x250 Survey Banner / NYTimes -->
+<iframe src="http://puma.vizu.com/cdn/00/00/29/73/incite_300x250.html?wc=NYTimes;" width="300" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+<!-- End Vizu Audience Incite Tag / 300x250 Survey Banner / NYTimes -->
+</div>
+</html>
+	
+<!--It took 0.216 ms to render.//-->

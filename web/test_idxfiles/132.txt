@@ -1,0 +1,3 @@
+Location: http://video.nytimes.com
+Connection: keep-alive
+

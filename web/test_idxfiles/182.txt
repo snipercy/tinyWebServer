@@ -1,0 +1,3 @@
+Location: http://www.nytimes.com/glogin?URI=http://www.nytimes.com/2011/11/27/automobiles/tintin-film-casts-cars-among-star-performers.html&OQ=_rQ3D1Q26hp&OP=55bfa098Q2FQ25JhEQ25Q3E!Q51px!!lQ60Q25Q60,eeQ25eeQ25Q60Q2FQ25dql!o!ETthpQ25lTslTsQ2B.TtoQ2BQ51dplpQ2BQ51dxpQ2Bdo!sZQ2BpldxQ2BQ7Bhx.!xohxpVQ7Dlot
+Connection: keep-alive
+

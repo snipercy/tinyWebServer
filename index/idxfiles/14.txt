@@ -1,0 +1,980 @@
+Expires: Wed, 03 Jun 2015 08:00:09 GMT
+Cache-Control: max-age=0
+Connection: close
+Date: Wed, 03 Jun 2015 08:00:09 GMT
+Server: BWS/1.0
+
+<!doctype html>
+<html>
+<head>
+<meta charset="gbk">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+                <title>hao123上网导航</title>
+<link rel="shortcut icon" href="http://www.hao123.com/favicon.ico" />
+<link href="/resource/erji/shouji/css/index.css?v=1365671793" rel="stylesheet" />
+</head>
+<body>
+    <div id="hd" class="clearfix">
+        <h1 class="logo"><a class="logo-link" href="http://www.hao123.com"><img alt="hao123上网导航" src="/resource/erji/shouji/img/logo1202.gif" class="logo-image"></a><s class="logo-split"></s><a class="logo-link sublogo" href="/shouji">手机版</a></h1>
+        <span class="nav-item nav-cur">首页</span>
+        <span class="wb_follow_btn">手机访问m.hao123.com</span>
+    </div>
+    <div id="bd" >
+        <div class="bdc">
+            <div class="center clearfix">
+                <div style="position:relative;">
+                    <div style="position:absolute;width:500px;">      
+                        <h1 style="width:482px;height:165px;margin-top:70px;background:url(/resource/erji/shouji/img/title.png) 0 0 no-repeat;_background:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/resource/erji/shouji/img/title.png',sizingMethod='crop');">主页</h1>
+                        <ul id="btn-detail" class="clearfix">
+                            <li>
+                                <a data="wap" class="btn btn-red wap" href="http://m.hao123.com/static/intro/mobile_index.html">
+                                    <span class="btnicon"></span>
+                                    <em class="btntitle">手机网页版</em>
+                                    <span class="btndesc">m.hao123.com</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a data="android" class="btn android" href="http://m.hao123.com/static/intro/android.html">
+                                    <span class="btnicon"></span>
+                                    <em class="btntitle">安卓下载</em>
+                                    <span class="btndesc">更新时间：2015.3.27</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a data="iphone" class="btn iphone" href="http://m.hao123.com/static/intro/iphone.html">
+                                    <span class="btnicon"></span>
+                                    <em class="btntitle">iPhone下载</em>
+                                    <span class="btndesc">更新时间：2015.2.10</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a data="ipad" class="btn ipad" href="http://m.hao123.com/static/intro/ipad.html">
+                                    <span class="btnicon"></span>
+                                    <em class="btntitle">iPad下载</em>
+                                    <span class="btndesc">更新时间：2014.12.21</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div style="position:absolute;left:500px;top:36px;width:512px;height:512px;background:url(http://s0.hao123img.com/res/img/shouji/show_index4_1203.png) 0 20px no-repeat;_background:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://s0.hao123img.com/res/img/shouji/show_index4_1203.png',sizingMethod='crop');"></div>
+                </div>
+            </div>
+        </div>
+        <div class="banner center">
+                        <div class="hr"></div>
+                    </div>
+
+        <div class="content center clearfix">
+            <dl class="wzdq">
+                <dd class="dlicon"></dd>
+                <dt>网址大全</dt>
+                <dd class="dldesc">网址导航第一品牌，收录最优质网站。</dd>
+            </dl>
+            <dl class="yytj">
+                <dd class="dlicon"></dd>
+                <dt>应用推荐</dt>
+                <dd class="dldesc">推荐最热手机应用，将应用智能分类。</dd>
+            </dl>
+            <dl class="yyss">
+                <dd class="dlicon"></dd>
+                <dt>语音操控</dt>
+                <dd class="dldesc">上网动口不动手，无需打字更人性化。</dd>
+            </dl>
+            <dl class="rdxw">
+                <dd class="dlicon"></dd>
+                <dt>热点新闻</dt>
+                <dd class="dldesc">聚合热点新闻，精彩资讯不容错过。</dd>
+            </dl>
+            <dl class="shzs">
+                <dd class="dlicon"></dd>
+                <dt>生活助手</dt>
+                <dd class="dldesc">多种实用工具，生活百事通、好帮手。</dd>
+            </dl>
+        </div>
+    </div>
+    <div id="ft">
+        <p class="links"><a href="http://www.hao123.com/abouthao123.htm">关于本站</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://e.weibo.com/u/3215233605" target="_blank" class="g-icon link-weibo">官方微博</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.hao123.com/shouji/" class="link-phone g-icon">手机版</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://feedback.hao123.com/?catalog_id=3">反馈</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://feedback.hao123.com/?catalog_id=11">挑错有礼</a>&nbsp;&nbsp;|&nbsp;&nbsp;官方QQ群：140085498&nbsp;&nbsp;|&nbsp;&nbsp;反馈邮箱：hao123feedback@baidu.com</p>
+        <p class="copyright">hao123.com&nbsp;&nbsp;&nbsp;&nbsp;上网导航第一品牌<span class="gray">&nbsp;&nbsp;-&nbsp;&nbsp;</span><a href="http://www.miibeian.gov.cn/">京ICP证030173号<i class="i-papers g-icon"></i></a></p>
+    </div>
+    <div id="frame" class="frame" style="display:none;">
+        <div class="frame-bg"></div>
+        <div class="frame-container">
+            <div id="frame-content" class="frame-content">
+                <div class="frame-head clearfix">
+                    <p id="frame-title"></p>
+                    <span id="frame-close" class="frame-close"></span>
+                </div>
+                <div id="frame-iphone" style="display:none;" class="frame-main frame-iphone">
+                    <table>
+                        <tr>
+                            <td class="frame-sec frame-sec-1">
+                                <p><em class="frame-fc-red">方式一：</em><span class="frame-fc-black">苹果官方下载</span></p>
+                                <p><a class="frame-btn" href="http://itunes.apple.com/cn/app/id506298503" target="_blank"><span>AppStore下载</span><s></s></a></p>
+                                <p>版本：5.1 更新时间：2015.2.10</p>
+                            </td>
+                            <td class="frame-sec frame-sec-2">
+                                <p><em class="frame-fc-red">方式二：</em><span class="frame-fc-black">其他安装方式</span></p>
+                                <p><a class="frame-btn frame-btn-red" href="javascript:;" lurl="http://dl.hao123.com/waphao123/update_pkg/hao123V1.0_baidu.ipa" onclick="return tbapi_autodl(this);" title="一键安装(仅适用于已越狱IOS设备)" hidefocus='true'><span style="width:100px;text-align:center;">一键安装</span><s></s></a></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="frame-sec frame-sec-3">
+                                <p style="padding:25px 0 15px 92px;"><img width="110" height="110" src="/resource/erji/shouji/img/qrcode_iphone.png" /></p>
+                                <p style="padding:0 60px 0 96px;"><em class="frame-fc-red">方式三：</em><span>使用二维码软件扫描图片，获取下载地址。</span></p>
+                            </td>
+                            <td class="frame-sec frame-sec-4">
+                                <p style="padding:0 0 0 62px;"><em class="frame-fc-red">方式四：</em>在iPhone上的<span class="frame-fc-black">App Store中搜索</span>“hao123”，点击进行安装。</p>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <div id="frame-android" style="display:none;" class="frame-main frame-android">
+                    <table>
+                        <tr>
+                            <td class="frame-sec frame-sec-1">
+                                <p><em class="frame-fc-red">方式一：</em><span class="frame-fc-black">下载到电脑</span></p>
+                                <p><a href="http://dl.hao123.com/waphao123/update_pkg/hao123_baidu.apk" class="frame-btn"><span style="width:100px;text-align:center;">立即下载</span><s></s></a></p>
+                                <p>版本：5.7更新时间：2015.3.27</p>
+                            </td>
+                            <td class="frame-sec frame-sec-2">
+                                <p><em class="frame-fc-red">方式二：</em><span class="frame-fc-black">其他安装方式</span></p>
+                                <p><a class="frame-btn frame-btn-red" href="http://dl.hao123.com/waphao123/update_pkg/hao123_baidu.apk" onclick="return wdapi_apkdl_m(this, 'source');"><span>豌豆荚一键安装</span><s></s></a></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="frame-sec frame-sec-3">
+                                <p style="padding:25px 0 15px 92px;"><img width="110" height="110" src="http://s0.hao123img.com/res/img/shouji/android_1.png" /></p>
+                                <p style="padding:0 60px 0 96px;"><em class="frame-fc-red">方式三：</em><span>使用二维码软件扫描图片，获取下载地址。</span></p>
+                            </td>
+                            <td class="frame-sec frame-sec-4">
+                                <p style="padding:10px 0 0 62px;"><em class="frame-fc-red">方式四：</em>在各大<span class="frame-fc-black">手机市场中搜索</span>“hao123”，下载进行安装。</p>
+                                <p style="padding: 10px 0 0 62px;"><img width="110" height="110" src="http://s0.hao123img.com/res/img/shouji/android_2.png"></p>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <div id="frame-ipad" style="display:none;" class="frame-main frame-ipad">
+                    <table>
+                        <tr>
+                            <td class="frame-sec frame-sec-1">
+                                <p><em class="frame-fc-red">版本一：</em>hao123 HD iPad客户端</p>
+                                <p><a class="frame-btn" href="https://itunes.apple.com/app/id597340105" target="_blank" hidefocus="true"><span>AppStore下载</span><s></s></a></p>
+                                <p>版本：2.2 更新时间：2014.12.21</p>
+                                <p style="padding:10px 25px 10px 66px">在iPad上的<em class="frame-fc-black">App Store中搜索 </em>“hao123”，点击进行安装。</p>
+                            </td>
+                            <td class="frame-sec frame-sec-2">
+                                <p><em class="frame-fc-red">版本二：</em>iPad网页版</p>
+                                <p style="padding:3px 0 13px 62px;background:url(/resource/erji/shouji/img/llq.gif) center 0 no-repeat;"><em class="frame-fc-red" style="margin-left:33px;">ipad.hao123.com</em></p>
+                                <p>iPad浏览器输入网址：ipad.hao123.com</p>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <div id="frame-wap" style="display:none;" class="frame-main frame-wap">
+                    <table>
+                        <tr>
+                            <td class="frame-sec frame-sec-1">
+                                <p><span class="frame-fc-black"><em class="frame-fc-red">方式一：</em>手机浏览器访问</p>
+                                <p style="padding:5px 0;background:url(/resource/erji/shouji/img/llq.gif) 0 center no-repeat;"><em class="frame-fc-red" style="margin-left:33px;">m.hao123.com</em></p>
+                                <p style="padding:7px 0 25px 0;">手机浏览器输入网址：m.hao123.com</p>
+                                <p><span class="frame-fc-black"><em class="frame-fc-red">方式二：</em>免费发送短信到手机</p>
+                                <p>手机号：<input id="frame-mobile" maxlength="11" name="mobile" placeholder="请输入手机号" style="width:240px;"></p>
+                                <p>验证码：<input id="frame-icode" autocomplete="off" maxlength="4" name="icode" placeholder="验证码" style="width:100px;margin-right:5px;"><img id='frame-icodeimg' alt="验证码" width="83" height="33" /><span id="frame-switch" style="margin-left:5px;color:#59af0d;text-decoration:underline;">看不清</span></p>
+                                <p style="padding-left:55px;"><a id="frame-sendMsg" class="frame-btn-s" href="javascript:;"><span>点击发送</span><s></s></a></p>
+                            </td>
+                            <td class="frame-sec frame-sec-2">
+                                <p style="padding:25px 0 15px 132px;"><img src="/resource/erji/shouji/img/qrcode_mhao123.png" /></p>
+                                <p style="padding:0 60px 0 96px;"><em class="frame-fc-red">方式三：</em><span>使用二维码软件扫描图片，获取访问地址。</span></p>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="http://www.hao123.com/js/common/jQuery.1.8.2.min.js"></script>
+    <!--外链豌豆荚一键安装js    -->
+    <script src="http://wandoujia.com/api/wdapi.js" type="text/javascript"></script>
+    <!-- 同步推一键安装 -->
+    <script src="http://www.tongbu.com/api/tbapi.js" type="text/javascript"></script>
+    <script type="text/javascript">
+    (function(){
+
+        var framedata = {
+            'iphone' : {
+                'head' : 'hao123 iPhone 苹果版'
+            },
+            'android' : {
+                'head' : 'hao123 Android 安卓版'
+            },
+            'ipad' : {
+                'head' : 'hao123 iPad版'
+            },
+            'wap' : {
+                'head' : 'hao123手机网页<a style="font-weight:normal;margin-left:10px;" href="http://m.hao123.com/static/intro/sms/view.html" target="_blank">m.hao123.com</a>'
+            }
+
+        };
+
+        var showIcode = function(){
+            $('#frame-icodeimg').attr('src','http://m.hao123.com/a/captcha/show?' + new Date().getTime());
+        }
+
+        var showDetailFrame = function(type){
+
+            if(!!type && !(type in framedata) ){
+                return
+            }
+
+
+            $('#frame').css({
+                'display' : 'block',
+                'height'  : $(document).height()
+            });
+
+            $('#frame-title').html(framedata[type]['head']);
+            $('#frame-'+type).css({'display' : 'block'});
+            showIcode();
+            $('#frame-content').css({
+                'left' : ($(window).width()-$('#frame-content').width())/2,
+                'top' : parseInt($(window).height()-$('#frame-content').height())/2
+            });
+
+        };
+
+        
+
+
+
+        $('#frame-switch').click(function(){
+            showIcode();
+        });
+
+        $('#btn-detail a').click(function(e){
+            var type = $(this).attr('data');
+            showDetailFrame(type);
+            return false;
+        });
+
+        $('#frame-close').click(function(e){
+            $('#frame').add('.frame-main').css('display','none');
+        });
+
+        $('#frame-sendMsg').click(function(){
+
+            var $mobile = $('#frame-mobile'),
+                $icode = $('#frame-icode');
+
+            if (!/1\d{10}/.test($mobile.val())) {
+                alert('手机号码不正确。');
+                return false;
+            }
+            if (!/[a-zA-Z0-9]{4}/.test($icode.val())) {
+                alert('验证码不正确。');
+                return false;
+            }
+
+            //console.log($icode.val());
+            $.ajax({
+              type:'GET',
+                url: "http://m.hao123.com/a/postsms?tn=pc&smsid=recapp40",
+              //url: "http://m.hao123.com/a/postsms?tn=pc&smsid=recapp40",
+              dataType: "jsonp",
+              jsonpCallback : 'cb',
+              data: 'mobile='+$mobile.val()+'&input_code='+$icode.val(),
+              success:function(o){
+                var errCode = o.errCode;
+                if ((errCode == 1) || (errCode == 2) || (errCode == 3) || (errCode == 4) || (errCode == 5) || (errCode == 6) || (errCode == 11)) {
+                   //showIcode();
+                    alert(o.errMsg);
+                } else if ((errCode == 7) || (errCode == 8) || (errCode == 9) || (errCode == 10)) {
+                    alert('提示：' + o.errMsg);
+                } else if (errCode == 12) {
+                    //showIcode();
+                    $mobile.val('');
+                    $icode.val('');
+                    alert(o.errMsg);
+                }
+              }
+            });
+        });
+
+    })();
+    </script>
+</body>
+</html>
+Date: Wed, 03 Jun 2015 08:12:53 GMT
+P3p: CP=" OTI DSP COR IVA OUR IND COM "
+Server: Apache
+Set-Cookie: userid=deleted; expires=Tue, 03-Jun-2014 08:12:52 GMT; path=/
+Set-Cookie: BAIDUID=FDFC44F3BCE16A8F73156674F7B7C029:FG=1; expires=Thu, 02-Jun-16 08:12:53 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+Tracecode: 07736091450763714570060316
+Vary: Accept-Encoding
+
+<!DOCTYPE html>
+
+
+
+<!--[if lt IE 7 ]><html class="ie6"><![endif]-->
+<!--[if IE 7 ]><html class="ie7"><![endif]-->
+<!--[if IE 8 ]><html class="ie8"><![endif]-->
+<!--[if IE 9 ]><html class="ie9"><![endif]-->
+<!--[if (gt IE 9)]><html class="ie10plus"><![endif]-->
+<!--[if (!IE )]><!--><html class="not-ie"><!--<![endif]-->
+<!--STATUS OK-->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="baidu-site-verification" content="6dab5779bd511c4aadce3fae9a8eb97d"/>
+<title>
+鐧惧害鍥剧墖鈥斿叏鐞冩渶澶т腑鏂囧浘鐗囧簱</title>
+
+<link rel='dns-prefetch' href="http://imgt6.bdstatic.com" />
+<link rel='dns-prefetch' href="http://imgt7.bdstatic.com" />
+<link rel='dns-prefetch' href="http://imgt8.bdstatic.com" />
+<link rel='dns-prefetch' href="http://imgt9.bdstatic.com" />
+<link rel='dns-prefetch' href="http://a.hiphotos.baidu.com" />
+<link rel='dns-prefetch' href="http://b.hiphotos.baidu.com" />
+<link rel='dns-prefetch' href="http://c.hiphotos.baidu.com" />
+<link rel='dns-prefetch' href="http://d.hiphotos.baidu.com" />
+<link rel='dns-prefetch' href="http://e.hiphotos.baidu.com" />
+<link rel='dns-prefetch' href="http://f.hiphotos.baidu.com" />
+<link rel='dns-prefetch' href="http://g.hiphotos.baidu.com" />
+<link rel='dns-prefetch' href="http://h.hiphotos.baidu.com" />
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<script>(function(){window.PDC={_timing:{},_opt:{sample:0.01},_analyzer:{loaded:false,url:"http://static.tieba.baidu.com/tb/pms/wpo.pda.js?v=2.9",callbacks:[]},_render_start:+new Date,extend:function(b,a){for(property in b){a[property]=b[property]}return a},metadata:function(){var c=this._opt;var e={env:{user:(c.is_login==true?1:0),product_id:c.product_id,page_id:PDC._is_sample(c.sample)?c.page_id:0},render_start:this._render_start,timing:this._timing};var a=[];var d=c.special_pages||[];
+for(var b=0;b<d.length;b++){if(PDC._is_sample(d[b]["sample"])){a.push(d[b]["id"])}}if(a.length>0){e.env["special_id"]="["+a.join(",")+"]"}return e},init:function(a){this.extend(a,this._opt)},mark:function(a,b){this._timing[a]=b||+new Date},view_start:function(){this.mark("vt")},tti:function(){this.mark("tti")},page_ready:function(){this.mark("fvt")},
+first_screen:function(){var b=document.getElementsByTagName("img"),g=document.getElementsByTagName("IFRAME"),c=+new Date;var j=[],e=this;function f(i){var l=0;l=window.pageYOffset?window.pageYOffset:document.documentElement.scrollTop;
+try{l+=i.getBoundingClientRect().top}catch(k){}finally{return l}}this._setFS=function(){var m=e._opt["fsHeight"]||document.documentElement.clientHeight;for(var l=0;l<j.length;l++){var n=j[l],k=n.img,p=n.time,o=f(k);if(o>0&&o<m){c=p>c?p:c}}e._timing.fs=c};var h=function(){if(this.removeEventListener){this.removeEventListener("load",h,false)}j.push({img:this,time:+new Date})};for(var a=0;a<b.length;a++){
+(function(){var i=b[a];if(i.addEventListener){!i.complete&&i.addEventListener("load",h,false)}else{if(i.attachEvent){i.attachEvent("onreadystatechange",function(){if(i.readyState=="complete"){h.call(i,h)}})}}})()}for(var a=0,d=g.length;a<d;a++){(function(){var i=g[a];if(i.attachEvent){i.attachEvent("onload",function(){h.call(i,h)})}else{i.addEventListener("load",h,false)}})()}}};
+if(document.attachEvent){window.attachEvent("onload",function(){PDC.mark("let");PDC._setFS&&PDC._setFS();PDC._opt.ready!==false&&PDC._load_analyzer()})}else{window.addEventListener("load",function(){PDC.mark("lt")},false)}})();</script>
+<!--[if IE]><script type="text/javascript">(function(){var a="abbr,article,aside,audio,canvas,datalist,details,dialog,eventsource,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(","),b=a.length;while(b--)document.createElement(a[b])})();</script><![endif]-->
+<script type="text/javascript" src="http://img0.bdstatic.com/static/common/fw_ff73dfc.js"></script><style type="text/css">#stcontent{display:block;}.mod-channel-nav{height:38px;padding-top:15px;}.mod-channel-nav .box-main{min-width:980px;height:39px;-webkit-user-select:none;-moz-user-select:none;user-select:none;z-index:1000;zoom:1;}.mod-channel-nav .box-main .box-wrapper{position:relative;margin:0 auto;z-index:1000;}.mod-channel-nav .box-main .box-wrapper .box-normal{background:url('http://img1.bdstatic.com/static/widget/common/channel_nav/img/bg-wpr-trans_a4206e4507.png') 0 0 repeat-x;-webkit-border-radius:2px 2px 3px 3px;-moz-border-radius:2px 2px 3px 3px;-o-border-radius:2px 2px 3px 3px;-ms-border-radius:2px 2px 3px 3px;border-radius:2px 2px 3px 3px;}.mod-channel-nav .box-main .box-wrapper .x-item{list-style:none;float:left;height:38px;position:relative;}.mod-channel-nav .box-main .box-wrapper .x-item a{display:inline-block;height:100%;padding:0 15px;line-height:38px;font-size:15px;color:#fff;font-family:"microsoft yahei","瀹嬩綋","arial";}.mod-channel-nav .box-main .box-wrapper .x-item a:hover{background:url('http://img1.bdstatic.com/static/widget/common/channel_nav/img/bg-wpr-h_49c21d0125.png') 0 0 repeat-x;}.mod-channel-nav .box-main .box-wrapper .x-item a.x-focus{background:url('http://img2.bdstatic.com/static/widget/common/channel_nav/img/bg-wpr-f_86760c57f8.png') 0 0 repeat-x;}.mod-channel-nav .box-main .box-wrapper .x-item .ext-tag{position:absolute;width:23px;height:9px;right:-8px;top:6px;}.mod-channel-nav .box-main .box-wrapper .x-item .ford-tag{position:absolute;width:55px;height:20px;right:3px;top:-10px;}.mod-channel-nav .box-main .box-wrapper .x-item .dress-tag{display:none;height:47px;width:53px;position:absolute;top:-19px;left:22px;}.mod-channel-nav .box-main .box-wrapper .collect-upload{list-style:none;float:left;height:39px;_height:32px;_overflow:hidden;_padding-top:5px;position:absolute;right:4px;}.mod-channel-nav .box-main .box-wrapper .collect-upload.x-fav a{display:inline-block;_display:block;_float:left;height:100%;padding:0;line-height:37px;font-size:15px;color:#fff;font-family:"microsoft yahei","瀹嬩綋","arial";}.mod-channel-nav .box-main .box-wrapper .collect-upload.x-fav a .x-wpr{background:url(http://img1.bdstatic.com/static/widget/common/channel_nav/img/upload_collect_button_71f47f2cf6.png) -448px 0 no-repeat;display:inline-block;line-height:31px;width:88px;height:34px;_height:36px;padding:0;}.mod-channel-nav .box-main .box-wrapper .collect-upload.x-fav a .x-upload{background:url(http://img1.bdstatic.com/static/widget/common/channel_nav/img/upload_collect_button_71f47f2cf6.png) -536px 0 no-repeat;cursor:pointer;display:inline-block;margin-left:-4px;margin-right:4px;_margin-left:0;line-height:30px;width:58px;height:34px;_height:36px;}.mod-channel-nav .box-main .box-wrapper .collect-upload.x-fav a .x-wpr-longer{background:url(http://img1.bdstatic.com/static/widget/common/channel_nav/img/upload_collect_button_71f47f2cf6.png) -110px 0 no-repeat;width:97px;height:34px;cursor:pointer;display:inline-block;margin-left:-4px;line-height:2.5;_line-height:3;}.mod-channel-nav .box-main .box-wrapper .collect-upload.x-fav a .x-wpr-longer-hover,.mod-channel-nav .box-main .box-wrapper .collect-upload.x-fav a .x-wpr-longer:hover{width:97px;background-position:0 0;}.mod-channel-nav .box-main .box-wrapper .collect-upload.x-fav a .x-wpr-hover,.mod-channel-nav .box-main .box-wrapper .collect-upload.x-fav a .x-wpr:hover{background:url(http://img1.bdstatic.com/static/widget/common/channel_nav/img/upload_collect_button_71f47f2cf6.png) -274px 0 no-repeat;}.mod-channel-nav .box-main .box-wrapper .collect-upload.x-fav a .x-upload-hover,.mod-channel-nav .box-main .box-wrapper .collect-upload.x-fav a .x-upload:hover{background:url(http://img1.bdstatic.com/static/widget/common/channel_nav/img/upload_collect_button_71f47f2cf6.png) -362px 0 no-repeat;}.mod-channel-nav .box-main .box-wrapper .collect-upload.x-fav .x-count{display:none;font-size:14px;background:url(http://img0.bdstatic.com/static/widget/common/channel_nav/img/new_613b71246e.png) 0 0 no-repeat;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=noscale,src="http://tb1.bdstatic.com/xiangce/webroot/wantu/new.png") _background:none;text-indent:-999em;position:absolute;right:0;top:11px;_top:10px;height:14px;width:20px;}.mod-channel-nav .box-main .box-wrapper .collect-upload.x-fav .x-last.x-show .x-count{display:block;}.mod-channel-nav .box-main .box-wrapper .chezhan{width:139px;}.mod-channel-nav .box-main .box-wrapper .chezhan a{width:110px;background:url("http://img0.bdstatic.com/img/image/chezhan/nav-car.gif") -4px -7px no-repeat;}.mod-channel-nav .box-main .box-wrapper .chezhan a:hover{background:url("http://img0.bdstatic.com/img/image/chezhan/nav-car.gif") -4px -50px no-repeat;}.mod-channel-nav .box-main .box-wrapper .x-more{position:relative;}.mod-channel-nav .box-main .box-wrapper .x-more .btn-more{padding:0 10px;}.mod-channel-nav .box-main .box-wrapper .x-more .btn-more .x-icon{padding:5px;background:url(http://img0.bdstatic.com/static/widget/common/channel_nav/img/allow-more_372d3fd83d.png) right 6px no-repeat;_background:url(http://img1.bdstatic.com/static/widget/common/channel_nav/img/allow-more-ie6_ab5b380d34.png) -6px -3px no-repeat;margin-left:1px;}.mod-channel-nav .box-main .box-wrapper .x-more .btn-more:hover{background:#3b3e47;}.mod-channel-nav .box-main .box-wrapper .x-more.m-open .btn-more,.mod-channel-nav .box-main .box-wrapper .x-more.x-selected .btn-more{background:#3b3e47;}.mod-channel-nav .box-main .box-wrapper .x-more.m-open .box-more,.mod-channel-nav .box-main .box-wrapper .x-more.x-selected .box-more{display:block;}.mod-channel-nav .box-main .box-wrapper .box-more{position:absolute;top:38px;left:-10000px;z-index:1000;display:block;width:204px;background:#3b3e47;border:1px solid #333;border-top:0;border-bottom:2px solid #333;padding:11px 9px 10px;-webkit-border-radius:0 0 2px 2px;-moz-border-radius:0 0 2px 2px;-ms-border-radius:0 0 2px 2px;-o-border-radius:0 0 2px 2px;border-radius:0 0 2px 2px;overflow:hidden;zoom:1;}.mod-channel-nav .box-main .box-wrapper .box-more .m-item{list-style:none;float:left;display:inline-block;height:30px;width:68px;text-align:center;zoom:1;}.mod-channel-nav .box-main .box-wrapper .box-more .m-item a{line-height:22px;height:22px;font-size:14px;text-align:center;padding:2px 0 3px 0;width:58px;display:block;margin:0 auto;zoom:1;color:#fff;background:#3b3e47;font-family:"microsoft yahei","瀹嬩綋","arial";}.mod-channel-nav .box-main .box-wrapper .box-more .m-item a:hover{background:#414655;}.mod-channel-nav .box-main .box-wrapper .box-more .m-item a.x-focus{background:#e74939;-webkit-border-radius:2px;-moz-border-radius:2px;-ms-border-radius:2px;-o-border-radius:2px;border-radius:2px;}.resp-body .resp-channel-nav .box-main .box-wrapper{width:auto;}.mod-channel-nav .box-main .box-wrapper .x-item a.x-minutemaid{width:70px;background:url('http://img0.bdstatic.com/img/image/advertise/minutemaid.jpg') 5px 0 no-repeat;text-indent:-9999999px;display:block;_background:none;_text-indent:0;}.mod-channel-nav .box-main .box-wrapper .x-item a.x-minutemaid:hover{width:70px;background:url('http://img0.bdstatic.com/img/image/advertise/minutemaid.jpg') 5px 0 no-repeat;text-indent:-9999999px;cursor:pointer;_display:block;_background:none;_text-indent:0;}.mod-channel-nav .box-main .box-wrapper .x-item a.x-common-ad{background-repeat:no-repeat;zoom:1;}.nav-tag-hot{background:url(http://img1.bdstatic.com/static/widget/common/channel_nav/img/nav-tag-hot_16dacf8328.png) no-repeat;_background-image:url(http://img1.bdstatic.com/static/widget/common/channel_nav/img/nav-tag-hot-8_7e5359b5b4.png);z-index:99;}.nav-tag-new{background:url(http://img2.bdstatic.com/static/widget/common/channel_nav/img/nav-tag-new_5d1a6a5723.png) no-repeat;_background-image:url(http://img2.bdstatic.com/static/widget/common/channel_nav/img/nav-tag-new-8_23b7c56e39.png);}.nav-tag-dress{background:url(http://img0.bdstatic.com/img/image/dress-nav.png) no-repeat;_background:url(http://img0.bdstatic.com/img/image/dress-nav-8.png) no-repeat;}.nav-tag-ford{background:url(http://img0.bdstatic.com/img/image/nav_tag_ford.png) no-repeat;_background:url(http://img0.bdstatic.com/img/image/nav_tag_ford_8.png) no-repeat;z-index:99;}.bear-head{position:absolute;top:-17px;left:9px;background:url('http://img0.bdstatic.com/img/image/bear-head.png') 0 0 no-repeat;width:41px;height:29px;z-index:999;_display:none;}.bear-foot{position:absolute;bottom:-9px;left:22px;width:18px;height:9px;background:url('http://img0.bdstatic.com/img/image/bear-foot.png') 0 0 no-repeat;_display:none;}div#adsearch{height:0;padding:0;visibility:hidden;margin:0;display:none;}div#lualu{height:0;padding:0;visibility:hidden;margin:0;display:none;}.right-banner-area .wm-hongmeiti-con{height:0;padding:0;visibility:hidden;margin:0;display:none;}div#pullSearch{z-index:1002;}</style>
+<script type="text/javascript">
+    var ref = ''.match(/\/(\w+)([\?|\/]|$)/);
+    try{
+        if (!ref || !ref.length) {
+            ref = 'index';
+        }
+        else{
+            ref = ref[1];
+        }
+    }
+    catch(e) {
+
+    }
+    window.uicore = {
+        "user" : {
+            "uid" : "0",
+            "user_sign" : "282335",
+            "user_name" : "",
+            "bdstoken"  : "",
+            "isSpecial" : 0,
+            "is_login"  : false,
+            "cookieSign": "0",
+            "character" : ""
+        },
+        "owner" : {
+            "user_name" : "",
+            "user_sign" : "",
+            "uid"       : "",
+            "portrait" : "",
+            "character" : ""
+        },
+        "favpic_local_key":"_favpic_local_key",
+        "pageInfo" : {
+            "tn" : "index",
+            "ref": ref
+        },
+        "diu" : ""
+    };
+</script>
+<link rel="stylesheet" type="text/css" href="http://img1.bdstatic.com/static/common/pkg/base_b1e571e.css"/><link rel="stylesheet" type="text/css" href="http://img2.bdstatic.com/static/common/pkg/page_a8fc491.css"/><link rel="stylesheet" type="text/css" href="http://img0.bdstatic.com/static/home/pkg/default_b1c6a1a.css"/></head>
+<script>PDC.mark("ht");</script>
+<body class="">
+
+<script>
+        var IMG_HASDATA = true;
+    </script>
+
+
+
+
+<div class="bd_home_wrapper">
+<div class="wrapper_main_box">
+<div class="wrapper_userinfo_box">
+<div id="newUserInfo" class="bidu_top_user_info"><a data-nsclick="p=index&m=userinfo" target="_blank" href="http://www.baidu.com/">鐧惧害棣栭〉</a></div>
+</div>
+<div class="wrapper_skin_box"></div>
+<div class="wrapper_dot_box" data-width="40" data-height="39">
+<div class="dot_left_top"></div>
+<div class="dot_left_bottom"></div>
+<div class="dot_right_top"></div>
+<div class="dot_right_bottom"></div>
+<div class="dot_center_circle"></div>
+<div class="dot_center_info">
+<a class="dot_info_link" hidefocus="true" href="" target="_blank" data-nsclick="p=index&event_type=shitu.click"></a>
+</div>
+</div><div class="wrapper_content_box">
+<div class="wrapper_head_box">
+<div class="mod-header">
+<div class="wapper-header">
+<div class="box-top clearfix">
+<div class="home_search"><div class="s_nav">
+<a href="javascript:void(0);" class="s_home_logo" hidefocus="true" title="">
+<img src="http://img1.bdstatic.com/static/common/widget/search_box_home/logo/home_white_logo_0ddf152.png" />
+</a>
+</div><div id="search">
+<form id="homeSearchForm" action="/search/index" name="f1" onsubmit="return f_submit(this,true)">
+<input type="hidden" name="tn" value="baiduimage">
+<input type="hidden" name="ipn" value="r">
+<input name="ct" type="hidden" value="201326592">
+<input name="cl" type="hidden" value="2">
+<input name="lm" type="hidden" value="-1">
+<input name="st" type="hidden" value="-1">
+<input name="fm" type="hidden" value="index">
+<input name="fr" type="hidden" value="">
+<input name="sf" type="hidden" value="1">
+<input name="fmq" type="hidden" value="">
+<input name="pv" type="hidden" value="">
+<input name="ic" type="hidden" value="0">
+<input name="nc" type="hidden" value="1">
+<input name="z" type="hidden" value="">
+<input name="se" type="hidden" value="">
+<input name="showtab" type="hidden" value="0">
+<input name="fb" type="hidden" value="0">
+<input name="width" type="hidden" value="">
+<input name="height" type="hidden" value="">
+<input name="face" type="hidden" value="0">
+<input name="istype" type="hidden" value="2">
+<input name="ie" type="hidden" value="utf-8">
+<span class="s_ipt_wr"><input id="kw" name="word" class="s_ipt" style="width:486px; line-height:18px;" value="" autocomplete="off" /></span><span class="s_btn_wr"><input type="submit" class="s_btn" onmousedown="this.className='s_btn s_btn_down'" onmouseout="this.className='s_btn'" onmouseover="this.className='s_btn s_btn_on'" value="鐧惧害涓�涓�" /></span>
+</form>
+<div id="stcontent">
+<a class="sttb" hidefocus="true" id="sttb" href="javascript:void(0)" style="display:none">stu<img class="st_camera" src="http://img2.bdstatic.com/static/common/widget/search_box_home/shitu/images/camera_b659d28.png" width="21" height="20"/><img class="st_camera_on" src="http://img0.bdstatic.com/static/common/widget/search_box_home/shitu/images/camera_on_5d123b7.png" width="21" height="20"/><div class="st_tips">涓婁紶鍥剧墖锛屾悳绱㈢浉鍏充俊鎭�</div><div class="st_tips_arrow_in"></div><div class="st_tips_arrow_out"></div></a>
+<div id="stsug" class="stsug" style="display:none">
+<div id="sthead">鎼滅储鍥剧墖淇℃伅</div>
+<form id="form1" target="_self" enctype="multipart/form-data" action="/pictureup/uploadshitu" method="get" name="form1">
+<div id="sturl">
+<span class="stuwr"><input type="text" id="stuurl" value="" autocomplete="off"  class="stuurl"   name="objurl" /></span><span class="stsb"><input type="submit" id="sbobj" class="stsb2" onmousedown="this.className='stsb2 stsb3'" onmouseout="this.className='stsb2'" onmouseover="this.className='stsb2 stsb4'" value="鐧惧害涓�涓�" /></span>
+</div>
+<input name="filename" id="filename" value="" type="hidden">
+<input name="rt" value="0" type="hidden">
+<input name="rn" value="10" type="hidden">
+<input id="stftn" name="ftn" value="wantu" type="hidden">
+<input name="ct" value="1" type="hidden">
+<input name="stt" value="0" type="hidden">
+<input name="tn" value="shituresultpc" type="hidden">
+<input id="shitu1" name="pos" value="" type="hidden">
+<input id="shitu-fm1" name="fm" value="index" type="hidden"></form>
+<div class="stf">
+<form id="form2" target="_self" enctype="multipart/form-data" action="/pictureup/uploadshitu" method="post" name="form2">
+<a id="uploadImg" href="javascript:void(0)" data-nsclick="p=index&event_type=shitu.search.click&pos=upload">浠庢湰鍦颁笂浼�<input type="file" name="image" id="stfile" size="2"><span id="flashcontent"></span></a>
+<span class="st_paste_url">绮樿创鍥剧墖缃戝潃</span><img id="sthelp" width="13" height="13" src="http://img2.bdstatic.com/static/common/widget/search_box_home/shitu/images/mark_b68ff2e.png" />
+<div class="st_dragtg" id="dragtg" style="display:none;">鎻愮ず锛氭偍涔熷彲浠ユ妸鍥剧墖鎷栧埌杩欓噷</div>
+<input id="shitu2" name="pos" value="" type="hidden">
+<input id="shitu-fm2" name="fm" value="index" type="hidden">
+</form>
+</div>
+<div class="stmore" id="stmore" style="display:none;">
+<b>濡備綍绮樿创鍥剧墖缃戝潃</b>
+<ul>
+<li>鍙抽敭鐐瑰嚮缃戦〉涓婄殑鍥剧墖锛岄�夋嫨鈥滃鍒跺浘鐗囩綉鍧�鈥濓紱</li>
+<li>鍦ㄦ悳绱㈡涓紝绮樿创璇ョ綉鍧�(Ctrl+V)锛岀偣鍑烩�滅櫨搴︿竴涓嬧��</li>
+</ul>
+<div class="stmore_arrow_in"></div>
+<div class="stmore_arrow_out"></div>
+</div>
+<a class="closest" href="javascript:void(0)" id="closest" title="鍏抽棴">鍏抽棴</a>
+<div id="point" style="display:none;">
+<img src="http://img1.bdstatic.com/img/image/shitu/feimg/uploading.gif" /><span>涓婁紶涓紝璇风◢鍊�...</span>
+</div>
+<div id="dragtip" style="display:none;">
+<div>鎼滅储鍥剧墖淇℃伅</div>
+<span>灏嗗浘鐗囨嫋鍒版澶�</span>
+<div class="drag_dot_area drag_dot_left_top"></div>
+<div class="drag_dot_area drag_dot_left_bottom"></div>
+<div class="drag_dot_area drag_dot_right_top"></div>
+<div class="drag_dot_area drag_dot_right_bottom"></div>
+</div>
+<div class="left-border"></div>
+<div class="right-border"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="wrapper_detail_box">
+<div class="img_area_container_box" act-id="">
+<div class="img_area_inner">
+<div class="img_single_box"><a class="img_link_layer" href="http://image.baidu.com/channel?c=%E6%91%84%E5%BD%B1&amp;t=%E5%85%A8%E9%83%A8&amp;s=0" target="_blank" data-nsclick="event_type=column.click&col=%E6%91%84%E5%BD%B1&p=index">
+<div class="img_instr_layer">鎽勫奖</div>
+<div class="img_mask_layer" style="background-image: -webkit-linear-gradient(rgba(152,118,95, 0) 0, rgba(152,118,95, 1) 100%); background-image: -moz-linear-gradient(rgba(152,118,95, 0) 0, rgba(152,118,95, 1) 100%); background-image: -o-linear-gradient(rgba(152,118,95, 0) 0, rgba(152,118,95, 1) 100%); background-image: -ms-linear-gradient(rgba(152,118,95, 0) 0, rgba(152,118,95, 1) 100%);"></div>
+<div class="img_cover_layer"></div>
+<img src="http://img0.bdstatic.com/img/image/shouye/sheying0601.jpg" class="img_pic_layer" />
+</a></div>
+<div class="img_single_box"><a class="img_link_layer" href="http://image.baidu.com/channel/wallpaper" target="_blank" data-nsclick="event_type=column.click&col=%E5%A3%81%E7%BA%B8&p=index">
+<div class="img_instr_layer">澹佺焊</div>
+<div class="img_mask_layer" style="background-image: -webkit-linear-gradient(rgba(157,213,226, 0) 0, rgba(157,213,226, 1) 100%); background-image: -moz-linear-gradient(rgba(157,213,226, 0) 0, rgba(157,213,226, 1) 100%); background-image: -o-linear-gradient(rgba(157,213,226, 0) 0, rgba(157,213,226, 1) 100%); background-image: -ms-linear-gradient(rgba(157,213,226, 0) 0, rgba(157,213,226, 1) 100%);"></div>
+<div class="img_cover_layer"></div>
+<img src="http://img0.bdstatic.com/img/image/shouye/bizhi0302.jpg" class="img_pic_layer" />
+</a></div>
+<div class="img_single_box"><a class="img_link_layer" href="http://image.baidu.com/channel/star" target="_blank" data-nsclick="event_type=column.click&col=%E6%98%8E%E6%98%9F&p=index">
+<div class="img_instr_layer">鏄庢槦</div>
+<div class="img_mask_layer" style="background-image: -webkit-linear-gradient(rgba(230,98,4, 0) 0, rgba(230,98,4, 1) 100%); background-image: -moz-linear-gradient(rgba(230,98,4, 0) 0, rgba(230,98,4, 1) 100%); background-image: -o-linear-gradient(rgba(230,98,4, 0) 0, rgba(230,98,4, 1) 100%); background-image: -ms-linear-gradient(rgba(230,98,4, 0) 0, rgba(230,98,4, 1) 100%);"></div>
+<div class="img_cover_layer"></div>
+<img src="http://img0.bdstatic.com/img/image/shouye/mingxing0601.jpg" class="img_pic_layer" />
+</a></div>
+<div class="img_single_box"><a class="img_link_layer" href="http://image.baidu.com/channel?c=%E5%AE%A0%E7%89%A9#%E5%AE%A0%E7%89%A9" target="_blank" data-nsclick="event_type=column.click&col=%E5%AE%A0%E7%89%A9&p=index">
+<div class="img_instr_layer">瀹犵墿</div>
+<div class="img_mask_layer" style="background-image: -webkit-linear-gradient(rgba(177,153,122, 0) 0, rgba(177,153,122, 1) 100%); background-image: -moz-linear-gradient(rgba(177,153,122, 0) 0, rgba(177,153,122, 1) 100%); background-image: -o-linear-gradient(rgba(177,153,122, 0) 0, rgba(177,153,122, 1) 100%); background-image: -ms-linear-gradient(rgba(177,153,122, 0) 0, rgba(177,153,122, 1) 100%);"></div>
+<div class="img_cover_layer"></div>
+<img src="http://img0.bdstatic.com/img/image/shouye/chongwu0128.jpg" class="img_pic_layer" />
+</a></div>
+<div class="img_single_box"><a class="img_link_layer" href="http://image.baidu.com/channel?c=%E5%8A%A8%E6%BC%AB&amp;t=%E5%85%A8%E9%83%A8&amp;s=1" target="_blank" data-nsclick="event_type=column.click&col=%E5%8A%A8%E6%BC%AB&p=index">
+<div class="img_instr_layer">鍔ㄦ极</div>
+<div class="img_mask_layer" style="background-image: -webkit-linear-gradient(rgba(130,211,241, 0) 0, rgba(130,211,241, 1) 100%); background-image: -moz-linear-gradient(rgba(130,211,241, 0) 0, rgba(130,211,241, 1) 100%); background-image: -o-linear-gradient(rgba(130,211,241, 0) 0, rgba(130,211,241, 1) 100%); background-image: -ms-linear-gradient(rgba(130,211,241, 0) 0, rgba(130,211,241, 1) 100%);"></div>
+<div class="img_cover_layer"></div>
+<img src="http://img0.bdstatic.com/img/image/shouye/dongman0309.jpg" class="img_pic_layer" />
+</a></div>
+<div class="img_single_box"><a class="img_link_layer" href="http://image.baidu.com/i?tn=baiduimage&amp;ipn=r&amp;ct=201326592&amp;cl=2&amp;lm=-1&amp;st=-1&amp;fm=result&amp;fr=&amp;sf=1&amp;fmq=1431504964782_R&amp;pv=&amp;ic=0&amp;nc=1&amp;z=&amp;se=1&amp;showtab=0&amp;fb=0&amp;width=&amp;height=&amp;face=0&amp;istype=2&amp;itg=0&amp;ie=utf-8&amp;word=%E5%A4%B4%E5%83%8F#z=0&amp;pn=&amp;ic=0&amp;st=-1&amp;face=0&amp;s=0&amp;lm=-1" target="_blank" data-nsclick="event_type=column.click&col=%E5%A4%B4%E5%83%8F&p=index">
+<div class="img_instr_layer">澶村儚</div>
+<div class="img_mask_layer" style="background-image: -webkit-linear-gradient(rgba(114,114,114, 0) 0, rgba(114,114,114, 1) 100%); background-image: -moz-linear-gradient(rgba(114,114,114, 0) 0, rgba(114,114,114, 1) 100%); background-image: -o-linear-gradient(rgba(114,114,114, 0) 0, rgba(114,114,114, 1) 100%); background-image: -ms-linear-gradient(rgba(114,114,114, 0) 0, rgba(114,114,114, 1) 100%);"></div>
+<div class="img_cover_layer"></div>
+<img src="http://img0.bdstatic.com/img/image/shouye/touxiang0601.jpg" class="img_pic_layer" />
+</a></div>
+<div class="img_single_box"><a class="img_link_layer" href="http://image.baidu.com/i?tn=baiduimage&amp;ipn=r&amp;ct=201326592&amp;nc=1&amp;lm=-1&amp;cl=2&amp;ie=utf-8&amp;word=%E7%AE%80%E7%AC%94%E7%94%BB%E5%A4%A7%E5%85%A8&amp;ie=utf-8&amp;istype=2&amp;fm=se0#z=0&amp;pn=&amp;ic=0&amp;st=-1&amp;face=0&amp;s=0&amp;lm=-1" target="_blank" data-nsclick="event_type=column.click&col=%E7%AE%80%E7%AC%94%E7%94%BB&p=index">
+<div class="img_instr_layer">绠�绗旂敾</div>
+<div class="img_mask_layer" style="background-image: -webkit-linear-gradient(rgba(240,192,130, 0) 0, rgba(240,192,130, 1) 100%); background-image: -moz-linear-gradient(rgba(240,192,130, 0) 0, rgba(240,192,130, 1) 100%); background-image: -o-linear-gradient(rgba(240,192,130, 0) 0, rgba(240,192,130, 1) 100%); background-image: -ms-linear-gradient(rgba(240,192,130, 0) 0, rgba(240,192,130, 1) 100%);"></div>
+<div class="img_cover_layer"></div>
+<img src="http://img0.bdstatic.com/img/image/shouye/jianbihua0601.jpg" class="img_pic_layer" />
+</a></div>
+<div class="img_single_box"><a class="img_link_layer" href="http://image.baidu.com/i?tn=baiduimage&amp;ipn=r&amp;ct=201326592&amp;cl=2&amp;lm=-1&amp;st=-1&amp;fm=result&amp;fr=&amp;sf=1&amp;fmq=1431504824504_R&amp;pv=&amp;ic=0&amp;nc=1&amp;z=&amp;se=1&amp;showtab=0&amp;fb=0&amp;width=&amp;height=&amp;face=0&amp;istype=2&amp;ie=utf-8&amp;word=%E8%B7%91%E8%BD%A6" target="_blank" data-nsclick="event_type=column.click&col=%E8%B7%91%E8%BD%A6&p=index">
+<div class="img_instr_layer">璺戣溅</div>
+<div class="img_mask_layer" style="background-image: -webkit-linear-gradient(rgba(114,114,114, 0) 0, rgba(114,114,114, 1) 100%); background-image: -moz-linear-gradient(rgba(114,114,114, 0) 0, rgba(114,114,114, 1) 100%); background-image: -o-linear-gradient(rgba(114,114,114, 0) 0, rgba(114,114,114, 1) 100%); background-image: -ms-linear-gradient(rgba(114,114,114, 0) 0, rgba(114,114,114, 1) 100%);"></div>
+<div class="img_cover_layer"></div>
+<img src="http://img0.bdstatic.com/img/image/shouye/qiche0313.jpg" class="img_pic_layer" />
+</a></div>
+<div class="img_single_box"><a class="img_link_layer" href="http://image.baidu.com/i?tn=baiduimage&amp;ipn=r&amp;ct=201326592&amp;cl=2&amp;lm=-1&amp;st=-1&amp;fm=result&amp;fr=&amp;sf=1&amp;fmq=1433145776830_R&amp;pv=&amp;ic=0&amp;nc=1&amp;z=&amp;se=1&amp;showtab=0&amp;fb=0&amp;width=&amp;height=&amp;face=0&amp;istype=2&amp;ie=utf-8&amp;word=qq%E7%9A%AE%E8%82%A4" target="_blank" data-nsclick="event_type=column.click&col=QQ%E7%9A%AE%E8%82%A4&p=index">
+<div class="img_instr_layer">QQ鐨偆</div>
+<div class="img_mask_layer" style="background-image: -webkit-linear-gradient(rgba(0,22,35, 0) 0, rgba(0,22,35, 1) 100%); background-image: -moz-linear-gradient(rgba(0,22,35, 0) 0, rgba(0,22,35, 1) 100%); background-image: -o-linear-gradient(rgba(0,22,35, 0) 0, rgba(0,22,35, 1) 100%); background-image: -ms-linear-gradient(rgba(0,22,35, 0) 0, rgba(0,22,35, 1) 100%);"></div>
+<div class="img_cover_layer"></div>
+<img src="http://img0.bdstatic.com/img/image/shouye/qqpifu0601.jpg" class="img_pic_layer" />
+</a></div>
+<div class="img_single_box"><a class="img_link_layer" href="http://image.baidu.com/i?tn=baiduimage&amp;ipn=r&amp;ct=201326592&amp;cl=2&amp;lm=-1&amp;st=-1&amp;fm=index&amp;fr=&amp;sf=1&amp;fmq=&amp;pv=&amp;ic=0&amp;nc=1&amp;z=&amp;se=1&amp;showtab=0&amp;fb=0&amp;width=&amp;height=&amp;face=0&amp;istype=2&amp;ie=utf-8&amp;word=%E5%A4%9A%E8%82%89%E6%A4%8D%E7%89%A9&amp;oq=%E5%A4%9A%E8%82%89%E6%A4%8D%E7%89%A9&amp;rsp=-1" target="_blank" data-nsclick="event_type=column.click&col=%E5%A4%9A%E8%82%89%E6%A4%8D%E7%89%A9&p=index">
+<div class="img_instr_layer">澶氳倝妞嶇墿</div>
+<div class="img_mask_layer" style="background-image: -webkit-linear-gradient(rgba(114,114,114, 0) 0, rgba(114,114,114, 1) 100%); background-image: -moz-linear-gradient(rgba(114,114,114, 0) 0, rgba(114,114,114, 1) 100%); background-image: -o-linear-gradient(rgba(114,114,114, 0) 0, rgba(114,114,114, 1) 100%); background-image: -ms-linear-gradient(rgba(114,114,114, 0) 0, rgba(114,114,114, 1) 100%);"></div>
+<div class="img_cover_layer"></div>
+<img src="http://img0.bdstatic.com/img/image/shouye/duorou0601.jpg" class="img_pic_layer" />
+</a></div>
+</div>
+</div><div class="img_area_background_box"></div></div>
+<div class="wrapper_footer_box">
+<footer class="mod-footer clearfix" id="bdPageFooterModBox">
+<script type="text/javascript">
+        var _h_set_home_page = function h(obj,url) {
+            try {
+                obj.style.behavior='url(#default#homepage)';
+                obj.setHomePage(url);
+            }catch(e){
+                window.location.href="http://www.baidu.com/cache/sethelp/index.html";
+            }
+        };
+    </script>
+<div id="ft">&copy;2015&nbsp;Baidu&nbsp;<a href="http://www.baidu.com/duty/">浣跨敤鐧惧害鍓嶅繀璇�</a>&nbsp;|&nbsp;<a href="/agency" target = '_blank'>鐧惧害鍥剧墖鑱旂洘</a>&nbsp;|&nbsp;<a href="http://image.baidu.com/static/html/advanced.html">楂樼骇鎼滅储</a>&nbsp;|&nbsp;<a href="http://www.baidu.com/search/image_help.html">甯姪</a></div>
+</footer></div>
+<div class="wrapper_share_site_box">
+<div class="share_kinds_site">
+<a href="javascript:;" class="share_to_weibo share_to_site" act-type="weibo" data-nsclick="event_type=share.btn.click&p=index&col=weibo"></a>
+<a  href="javascript:;"  class="share_to_qqzone share_to_site" act-type="qqzone" data-nsclick="event_type=share.btn.click&p=index&col=qqzone"></a>
+<a  href="javascript:;"  class="share_to_renren share_to_site" act-type="renren" data-nsclick="event_type=share.btn.click&p=index&col=renren"></a>
+<a  href="javascript:;"  class="share_to_douban share_to_site" act-type="douban" data-nsclick="event_type=share.btn.click&p=index&col=douban"></a>
+<span class="split"></span>
+</div>
+</div>
+<div class="wrapper_imgfrom_box" id="wrapperImgFromBox"></div>
+</div>
+</div>
+</div><script>window.PDC && PDC.first_screen && PDC.first_screen();</script>
+
+<div class="" id="medal-info-layer">
+<div class="bg level-1" data-bind="bg@level_flag::replaceClass">
+<a href="#close" class="btn-close" hidefocus="hidefocus" data-bind="close@(click):close">X</a>
+<div class="medal-icon level-1" data-bind="bg@level_flag::replaceClass"></div>
+<p class="extra-info ex-0" data-bind="ex_info_first@">宸叉湁<em data-bind="owned@medal_user_num::text"></em>浜鸿幏寰�<span class="medal-name">鈥�<strong data-bind="medal_name@medal_name::text"></strong>鈥�</span></p>
+<p class="extra-info ex-n" data-bind="ex_info@">宸叉湁浼樿川鍥剧墖<em data-bind="picnum@picnum::text"></em>寮�</p>
+<span class="level-num level-num-small" data-bind="ln@level::text"></span>
+<span class="level-num level-num-big"></span>
+</div>
+</div>
+<div class="msg-tip">
+<div class="msg-con" data-bind="msg_con@">
+<p widget="msg_item" data-bind="newMsg:null,msg:html"></p>
+</div>
+<a class="x" href="#close" data-bind="close@(click):close">
+<div class="r r-top"></div>
+<div class="r r-right"></div>
+<div class="r r-bottom"></div>
+<div class="r r-left"></div>
+</a>
+<div class="arrow" data-bind="arrow@">
+<div class="arrow-border">鈻�</div>
+<div class="arrow-bg">鈻�</div>
+</div>
+</div>
+
+
+
+<script>
+    var doc = document,
+            client = doc.compatMode == 'BackCompat' ? doc.body : doc.documentElement;
+    var winHeight = client.clientHeight;
+    var orginWinHeight = winHeight;
+    if(winHeight>=650){
+        document.body.className ="mar95";
+    }else {
+        document.body.className = "mar75";
+    } 
+    var skinData = {"inuse":[{"src":"http:\/\/img0.bdstatic.com\/img\/image\/shouye\/xinshouye\/east-ep-a51-3670409-PC.jpg","bgColor":"","from":{"url":"http:\/\/www.quanjing.com\/","title":"\u80cc\u666f\u56fe\u7247\u6765\u6e90\uff1a","name":"\u5168\u666f\u7f51"},"endtime":"2015-06-04 07:00:00","dot":{"url":"http:\/\/image.baidu.com\/i?tn=baiduimage&ipn=r&ct=201326592&cl=2&lm=-1&st=-1&fm=index&fr=&sf=1&fmq=&pv=&ic=0&nc=1&z=&se=1&showtab=0&fb=0&width=&height=&face=0&istype=2&ie=utf-8&word=%E6%A2%85%E9%87%8C%E9%9B%AA%E5%B1%B1&oq=%E6%A2%85%E9%87%8C%E9%9B%AA%E5%B1%B1&rsp=-1#z=0&pn=&ic=0&st=-1&face=0&s=0&lm=-1","desc":"\u6885\u91cc\u96ea\u5c71\uff0c\u6d77\u62d46740\u7c73\uff0c\u662f\u6a2a\u65ad\u5c71\u7cfb\u4e2d\u4e00\u5ea7\u666f\u8272\u79c0\u4e3d\u7684\u96ea\u5cf0\u3002\u96ea\u5cf0\u76f4\u6307\u84dd\u5929\uff0c\u78a7\u6c34\u6df1\u5207\u5ce1\u8c37\u3002\u56db\u5468\u6d53\u90c1\u7684\u539f\u59cb\u68ee\u6797\uff0c\u6797\u5916\u7eff\u8335\u4e0a\u7684\u7f8a\u7fa4\u5982\u767d\u4e91\u70b9\u7f00\u3002\u5f53\u5730\u85cf\u6c11\u79f0\u5b83\u662f\u201c\u96ea\u5c71\u4e4b\u795e\u201d\u3002\u76db\u4ea7\u866b\u8349\u3001\u96ea\u83b2\u3001\u8d1d\u6bcd\u7b49\uff0c\u786e\u6709\u51e0\u5206\u795e\u5947\u3002","left":"15%","top":"20%","style":0,"fcolor":"#0a0b0c"},"share":{"title":"\u767e\u5ea6\u56fe\u7247","content":"#\u767e\u5ea6\u56fe\u7247\u9ad8\u6e05\u7f8e\u56fe# \u6885\u91cc\u96ea\u5c71\uff0c\u6d77\u62d46740\u7c73\uff0c\u662f\u6a2a\u65ad\u5c71\u7cfb\u4e2d\u4e00\u5ea7\u666f\u8272\u79c0\u4e3d\u7684\u96ea\u5cf0\u3002\u96ea\u5cf0\u76f4\u6307\u84dd\u5929\uff0c\u78a7\u6c34\u6df1\u5207\u5ce1\u8c37\u3002\u56db\u5468\u6d53\u90c1\u7684\u539f\u59cb\u68ee\u6797\uff0c\u6797\u5916\u7eff\u8335\u4e0a\u7684\u7f8a\u7fa4\u5982\u767d\u4e91\u70b9\u7f00\u3002\u5f53\u5730\u85cf\u6c11\u79f0\u5b83\u662f\u201c\u96ea\u5c71\u4e4b\u795e\u201d\u3002\u76db\u4ea7\u866b\u8349\u3001\u96ea\u83b2\u3001\u8d1d\u6bcd\u7b49\uff0c\u786e\u6709\u51e0\u5206\u795e\u5947\u3002\uff08\u5206\u4eab\u81ea@\u767e\u5ea6\u56fe\u7247\uff09","picSrc":"http:\/\/img0.bdstatic.com\/img\/image\/shouye\/xinshouye\/meilifx529.jpg","fromUrl":"http:\/\/image.baidu.com"}},{"src":"http:\/\/img0.bdstatic.com\/img\/image\/shouye\/xinshouye\/east-ep-a71-4579125-PC.jpg","bgColor":"","icon":"dark","from":{"url":"http:\/\/www.quanjing.com\/","title":"\u80cc\u666f\u56fe\u7247\u6765\u6e90\uff1a","name":"\u5168\u666f\u7f51"},"endtime":"2015-05-29 07:00:00","dot":{"url":"http:\/\/image.baidu.com\/i?tn=baiduimage&ipn=r&ct=201326592&cl=2&lm=-1&st=-1&fm=index&fr=&sf=1&fmq=&pv=&ic=0&nc=1&z=&se=1&showtab=0&fb=0&width=&height=&face=0&istype=2&ie=utf-8&word=%E9%95%BF%E6%BB%A9%E5%B2%9B#z=0&pn=&ic=0&st=-1&face=0&s=0&lm=-1","desc":"\u957f\u6ee9\u5c9b\uff08Boracay\uff09\uff0c\u4f4d\u4e8e\u83f2\u5f8b\u5bbe\u4e2d\u90e8\uff0c\u5f62\u72b6\u5982\u540c\u4e00\u4e2a\u54d1\u94c3\uff0c\u6574\u5ea7\u5c9b\u4e0d\u8fc77\u516c\u91cc\u957f\uff0c\u5374\u6709\u4e00\u7247\u957f\u8fbe4\u516c\u91cc\u7684\u767d\u8272\u6c99\u6ee9\uff0c\u88ab\u8a89\u4e3a\u201c\u4e16\u754c\u4e0a\u6700\u7ec6\u7684\u6c99\u6ee9\u201d\u3002\u96ea\u767d\u7684\u6c99\u6ee9\u3001\u78a7\u84dd\u7684\u6d77\u6c34\u3001\u548c\u7166\u7684\u9633\u5149\u4f7f\u957f\u6ee9\u5c9b\u6210\u4e3a\u8457\u540d\u7684\u5ea6\u5047\u80dc\u5730\u3002","left":"15%","top":"18%","style":0,"fcolor":"#090909"},"share":{"title":"\u767e\u5ea6\u56fe\u7247","content":"#\u767e\u5ea6\u56fe\u7247\u9ad8\u6e05\u7f8e\u56fe# \u957f\u6ee9\u5c9b\uff08Boracay\uff09\uff0c\u4f4d\u4e8e\u83f2\u5f8b\u5bbe\u4e2d\u90e8\uff0c\u5f62\u72b6\u5982\u540c\u4e00\u4e2a\u54d1\u94c3\uff0c\u6574\u5ea7\u5c9b\u4e0d\u8fc77\u516c\u91cc\u957f\uff0c\u5374\u6709\u4e00\u7247\u957f\u8fbe4\u516c\u91cc\u7684\u767d\u8272\u6c99\u6ee9\uff0c\u88ab\u8a89\u4e3a\u201c\u4e16\u754c\u4e0a\u6700\u7ec6\u7684\u6c99\u6ee9\u201d\u3002\u96ea\u767d\u7684\u6c99\u6ee9\u3001\u78a7\u84dd\u7684\u6d77\u6c34\u3001\u548c\u7166\u7684\u9633\u5149\u4f7f\u957f\u6ee9\u5c9b\u6210\u4e3a\u8457\u540d\u7684\u5ea6\u5047\u80dc\u5730\u3002\uff08\u5206\u4eab\u81ea@\u767e\u5ea6\u56fe\u7247\uff09","picSrc":"http:\/\/img0.bdstatic.com\/img\/image\/shouye\/xinshouye\/fanchuanfx526.jpg","fromUrl":"http:\/\/image.baidu.com"}},{"src":"http:\/\/img0.bdstatic.com\/img\/image\/shouye\/xinshouye\/is099s8ky-PC.jpg","bgColor":"","from":{"url":"http:\/\/www.quanjing.com\/","title":"\u80cc\u666f\u56fe\u7247\u6765\u6e90\uff1a","name":"\u5168\u666f\u7f51"},"endtime":"2015-05-22 07:00:00","dot":{"url":"http:\/\/image.baidu.com\/i?tn=baiduimage&ipn=r&ct=201326592&cl=2&lm=-1&st=-1&fm=index&fr=&sf=1&fmq=&pv=&ic=0&nc=1&z=&se=1&showtab=0&fb=0&width=&height=&face=0&istype=2&ie=utf-8&word=%E7%81%AB%E7%83%88%E9%B8%9F&oq=%E7%81%AB%E7%83%88%E9%B8%9F&rsp=-1","desc":"\u706b\u70c8\u9e1f\uff0c\u56e0\u5168\u8eab\u4e3a\u706b\u7ea2\u8272\u800c\u5f97\u540d\u3002 \u8fd9\u79cd\u5916\u5f62\u5e9e\u5927\u800c\u7f8e\u4e3d\u7684\u9e1f\u7c7b\u80fd\u591f\u98de\u884c\uff0c\u4f46\u9700\u63d0\u524d\u72c2\u5954\u4e00\u9635\u4ee5\u83b7\u5f97\u8d77\u98de\u65f6\u6240\u9700\u52a8\u529b\u3002\u706b\u70c8\u9e1f\u53c8\u56e0\u7fbd\u8272\u9c9c\u4e3d\uff0c\u88ab\u4eba\u89c6\u4e3a\u89c2\u8d4f\u9e1f\u3002","left":"15%","top":"18%","style":0,"fcolor":"#404143"},"share":{"title":"\u767e\u5ea6\u56fe\u7247","content":"#\u767e\u5ea6\u56fe\u7247\u9ad8\u6e05\u7f8e\u56fe# \u706b\u70c8\u9e1f\uff0c\u56e0\u5168\u8eab\u4e3a\u706b\u7ea2\u8272\u800c\u5f97\u540d\u3002 \u8fd9\u79cd\u5916\u5f62\u5e9e\u5927\u800c\u7f8e\u4e3d\u7684\u9e1f\u7c7b\u80fd\u591f\u98de\u884c\uff0c\u4f46\u9700\u63d0\u524d\u72c2\u5954\u4e00\u9635\u4ee5\u83b7\u5f97\u8d77\u98de\u65f6\u6240\u9700\u52a8\u529b\u3002\u706b\u70c8\u9e1f\u53c8\u56e0\u7fbd\u8272\u9c9c\u4e3d\uff0c\u88ab\u4eba\u89c6\u4e3a\u89c2\u8d4f\u9e1f\u3002\uff08\u5206\u4eab\u81ea@\u767e\u5ea6\u56fe\u7247\uff09","picSrc":"http:\/\/img0.bdstatic.com\/img\/image\/shouye\/xinshouye\/huolieniaofx.jpg","fromUrl":"http:\/\/image.baidu.com"}},{"src":"http:\/\/img0.bdstatic.com\/img\/image\/shouye\/xinshouye\/mhrf-dspd45209f30-PC.jpg","bgColor":"","from":{"url":"http:\/\/www.quanjing.com\/","title":"\u80cc\u666f\u56fe\u7247\u6765\u6e90\uff1a","name":"\u5168\u666f\u7f51"},"endtime":"2015-05-27 07:00:00","dot":{"url":"http:\/\/image.baidu.com\/i?tn=baiduimage&ipn=r&ct=201326592&cl=2&lm=-1&st=-1&fm=result&fr=&sf=1&fmq=1432191019749_R&pv=&ic=0&nc=1&z=&se=1&showtab=0&fb=0&width=&height=&face=0&istype=2&ie=utf-8&word=%E8%8D%B7%E8%8A%B1+%E5%90%AB%E8%8B%9E%E5%BE%85%E6%94%BE","desc":"\u8377\u98ce\u9001\u9999\u6c14\uff0c\u7af9\u9732\u6ef4\u6e05\u54cd\u3002\u6d53\u6d53\u590f\u65e5\uff0c\u6709\u6e05\u65b0\u4f18\u7f8e\u7684\u8377\u82b1\u53ef\u6b23\u8d4f\uff0c\u8ba9\u6574\u4e2a\u590f\u65e5\u591a\u4e86\u51e0\u5206\u6e05\u51c9\u3002","left":"16%","top":"16%","style":0,"fcolor":"#010101"},"share":{"title":"\u767e\u5ea6\u56fe\u7247","content":"#\u767e\u5ea6\u56fe\u7247\u9ad8\u6e05\u7f8e\u56fe# \u8377\u98ce\u9001\u9999\u6c14\uff0c\u7af9\u9732\u6ef4\u6e05\u54cd\u3002\u6d53\u6d53\u590f\u65e5\uff0c\u6709\u6e05\u65b0\u4f18\u7f8e\u7684\u8377\u82b1\u53ef\u6b23\u8d4f\uff0c\u8ba9\u6574\u4e2a\u590f\u65e5\u591a\u4e86\u4e00\u4efd\u6e05\u51c9\u3002\uff08\u5206\u4eab\u81ea@\u767e\u5ea6\u56fe\u7247\uff09","picSrc":"http:\/\/img0.bdstatic.com\/img\/image\/shouye\/xinshouye\/hehuafx521.jpg","fromUrl":"http:\/\/image.baidu.com"}},{"src":"http:\/\/img0.bdstatic.com\/img\/image\/shouye\/xinshouye\/east-ep-a81-1686011-PC.jpg","bgColor":"","from":{"url":"http:\/\/www.quanjing.com\/","title":"\u80cc\u666f\u56fe\u7247\u6765\u6e90\uff1a","name":"\u5168\u666f\u7f51"},"endtime":"2015-05-25 07:00:00","dot":{"url":"http:\/\/image.baidu.com\/i?tn=baiduimage&ipn=r&ct=201326592&cl=2&lm=-1&st=-1&fm=index&fr=&sf=1&fmq=&pv=&ic=0&nc=1&z=&se=1&showtab=0&fb=0&width=&height=&face=0&istype=2&ie=utf-8&word=%E8%9D%B6%E6%81%8B%E8%8A%B1","desc":"\u8776\u604b\u82b1\uff0c\u662f\u4e00\u79cd\u81ea\u7136\u73b0\u8c61\u3002\u5728\u53e4\u4ee3\uff0c\u8776\u604b\u82b1\u4e5f\u662f\u8bcd\u724c\u540d\uff0c\u51fa\u81ea\u5510\u6559\u574a\u66f2\u3002\u5206\u4e0a\u4e0b\u4e24\u9615\uff0c\u5171\u516d\u5341\u4e2a\u5b57\uff0c\u4e00\u822c\u7528\u6765\u586b\u5199\u591a\u6101\u5584\u611f\u548c\u7f20\u7ef5\u60b1\u607b\u7684\u5185\u5bb9\u3002\u81ea\u5b8b\u4ee3\u4ee5\u6765\uff0c\u4ea7\u751f\u4e86\u4e0d\u5c11\u4ee5\u300a\u8776\u604b\u82b1\u300b\u4e3a\u8bcd\u724c\u7684\u4f18\u7f8e\u8bcd\u7ae0\uff0c\u6709\u4e9b\u5df2\u6210\u4e3a\u7ecf\u4e45\u4e0d\u8870\u7684\u7edd\u5531\u3002","left":"15%","top":"20%","style":0,"fcolor":"#010101"},"share":{"title":"\u767e\u5ea6\u56fe\u7247","content":"#\u767e\u5ea6\u56fe\u7247\u9ad8\u6e05\u7f8e\u56fe# \u8776\u604b\u82b1\uff0c\u662f\u4e00\u79cd\u81ea\u7136\u73b0\u8c61\u3002\u5728\u53e4\u4ee3\uff0c\u8776\u604b\u82b1\u4e5f\u662f\u8bcd\u724c\u540d\uff0c\u51fa\u81ea\u5510\u6559\u574a\u66f2\u3002\u5206\u4e0a\u4e0b\u4e24\u9615\uff0c\u5171\u516d\u5341\u4e2a\u5b57\uff0c\u4e00\u822c\u7528\u6765\u586b\u5199\u591a\u6101\u5584\u611f\u548c\u7f20\u7ef5\u60b1\u607b\u7684\u5185\u5bb9\u3002\u81ea\u5b8b\u4ee3\u4ee5\u6765\uff0c\u4ea7\u751f\u4e86\u4e0d\u5c11\u4ee5\u300a\u8776\u604b\u82b1\u300b\u4e3a\u8bcd\u724c\u7684\u4f18\u7f8e\u8bcd\u7ae0\uff0c\u6709\u4e9b\u5df2\u6210\u4e3a\u7ecf\u4e45\u4e0d\u8870\u7684\u7edd\u5531\u3002\uff08\u5206\u4eab\u81ea@\u767e\u5ea6\u56fe\u7247\uff09","picSrc":"http:\/\/img0.bdstatic.com\/img\/image\/shouye\/xinshouye\/hudiefx.jpg","fromUrl":"http:\/\/image.baidu.com"}},{"src":"http:\/\/img0.bdstatic.com\/img\/image\/shouye\/xinshouye\/61-PC.jpg","bgColor":"","from":{"url":"http:\/\/www.quanjing.com\/","title":"\u80cc\u666f\u56fe\u7247\u6765\u6e90\uff1a","name":"\u5168\u666f\u7f51"},"endtime":"2015-06-02 07:00:00","dot":{"url":"http:\/\/image.baidu.com\/i?tn=baiduimage&ipn=r&ct=201326592&cl=2&lm=-1&st=-1&fm=index&fr=&sf=1&fmq=&pv=&ic=0&nc=1&z=&se=1&showtab=0&fb=0&width=&height=&face=0&istype=2&ie=utf-8&word=%E5%85%AD%E4%B8%80%E5%84%BF%E7%AB%A5%E8%8A%82&oq=%E5%85%AD%E4%B8%80%E5%84%BF%E7%AB%A5%E8%8A%82&rsp=-1","desc":"\u5145\u6ee1\u6b22\u4e50\u7684\u201c\u516d\u4e00\u201d\u7ec8\u4e8e\u6765\u4e34\u4e86\uff0c\u8fd9\u662f\u5c5e\u4e8e\u6211\u4eec\u7684\u8282\u65e5\u3002\u795d\u5168\u4e16\u754c\u7684\u513f\u7ae5\u5065\u5eb7\u6210\u957f\uff0c\u5feb\u4e50\u5730\u5ea6\u8fc7\u6bcf\u4e00\u5929\uff01","left":"10%","top":"20%","style":0,"fcolor":"#404143"},"share":{"title":"\u767e\u5ea6\u56fe\u7247","content":"#\u767e\u5ea6\u56fe\u7247\u9ad8\u6e05\u7f8e\u56fe# \u5145\u6ee1\u6b22\u4e50\u7684\u201c\u516d\u4e00\u201d\u7ec8\u4e8e\u6765\u4e34\u4e86\uff0c\u8fd9\u662f\u5c5e\u4e8e\u6211\u4eec\u7684\u8282\u65e5\u3002\u795d\u5168\u4e16\u754c\u7684\u513f\u7ae5\u5065\u5eb7\u6210\u957f\uff0c\u5feb\u4e50\u5730\u5ea6\u8fc7\u6bcf\u4e00\u5929\uff01\uff08\u5206\u4eab\u81ea@\u767e\u5ea6\u56fe\u7247\uff09","picSrc":"http:\/\/img0.bdstatic.com\/img\/image\/shouye\/xinshouye\/61-PCfx.jpg","fromUrl":"http:\/\/image.baidu.com"}}],"inbak":[{"src":"http:\/\/img0.bdstatic.com\/img\/image\/%E5%9B%BE%E7%89%87%E9%A6%96%E9%A1%B5-%E9%BB%912.jpg","bgColor":"","from":{"url":"http:\/\/www.quanjing.com\/","title":"\u80cc\u666f\u56fe\u7247\u6765\u6e90\uff1a","name":"\u5168\u666f\u7f51"},"endtime":"","dot":{"url":"http:\/\/image.baidu.com\/i?tn=baiduimage&ps=1&ct=201326592&lm=-1&cl=2&nc=1&word=%E9%A9%AC%E7%89%B9%E6%B4%AA%E5%B3%B0&ie=utf-8&ie=utf-8","desc":"\u9a6c\u7279\u6d2a\u5cf0\u662f\u963f\u5c14\u5351\u65af\u5c71\u6700\u7f8e\u4e3d\u7684\u5c71\u5cf0\uff0c\u4e5f\u662f\u745e\u58eb\u5f15\u4ee5\u4e3a\u9a84\u50b2\u7684\u8c61\u5f81","left":"15%","top":"15%","style":0,"fcolor":"#404143"},"share":{"title":"\u767e\u5ea6\u56fe\u7247","content":"#\u767e\u5ea6\u56fe\u7247\u9ad8\u6e05\u7f8e\u56fe#\u9a6c\u7279\u6d2a\u5cf0\u662f\u963f\u5c14\u5351\u65af\u5c71\u6700\u7f8e\u4e3d\u7684\u5c71\u5cf0\uff0c\u4e5f\u662f\u745e\u58eb\u5f15\u4ee5\u4e3a\u9a84\u50b2\u7684\u8c61\u5f81\u3002\uff08\u5206\u4eab\u81ea@\u767e\u5ea6\u56fe\u7247\uff09","picSrc":"http:\/\/img0.bdstatic.com\/img\/image\/%E5%9B%BE%E7%89%87%E9%A6%96%E9%A1%B5-%E9%BB%912.jpg","fromUrl":"http:\/\/image.baidu.com"}},{"src":"http:\/\/img0.bdstatic.com\/img\/image\/%E5%9B%BE%E7%89%87%E9%A6%96%E9%A1%B5-%E7%99%BD%E5%A4%A91.jpg","bgColor":"","from":{"url":"http:\/\/www.quanjing.com\/","title":"\u80cc\u666f\u56fe\u7247\u6765\u6e90\uff1a","name":"\u5168\u666f\u7f51"},"endtime":"","dot":{"url":"http:\/\/image.baidu.com\/i?tn=baiduimage&ct=201326592&lm=-1&cl=2&word=%BB%F9%C0%AD%C4%E1%B9%FA%BC%D2%B9%AB%D4%B0&fr=ala1","desc":"\u7231\u5c14\u5170\u7b2c\u4e00\u4e2a\u56fd\u5bb6\u516c\u56ed\uff0c\u57fa\u62c9\u5c3c\u56fd\u5bb6\u516c\u56ed","left":"15%","top":"15%","style":0,"fcolor":"#404143"},"share":{"title":"\u767e\u5ea6\u56fe\u7247","content":"#\u767e\u5ea6\u56fe\u7247\u9ad8\u6e05\u7f8e\u56fe#\u7231\u5c14\u5170\u7b2c\u4e00\u4e2a\u56fd\u5bb6\u516c\u56ed\uff0c\u57fa\u62c9\u5c3c\u56fd\u5bb6\u516c\u56ed\u3002\uff08\u5206\u4eab\u81ea@\u767e\u5ea6\u56fe\u7247\uff09","picSrc":"http:\/\/img0.bdstatic.com\/img\/image\/%E5%9B%BE%E7%89%87%E9%A6%96%E9%A1%B5-%E7%99%BD%E5%A4%A91.jpg","fromUrl":"http:\/\/image.baidu.com"}}]}; 
+    var nowServerTime="2015-06-03 16:12:53";   
+</script>
+<script type="text/javascript">
+    if(typeof PDC != 'undefined'){
+        PDC.init( {
+            //鏄惁鐧诲綍锛岀敱浜у搧绾垮垽鏂繑鍥�0鎴�1锛屾棤娉曞垽鏂鍐�0
+            is_login    : 0,
+
+            //閲囨牱鐜囷紝鑼冨洿0-1銆傝绠楁柟娉曪細100涓�/椤甸潰pv銆�
+            sample      : 0.4,
+
+            //浜у搧绾縄D锛�0-255鏁板瓧锛�
+            product_id  : 11,
+
+            // 椤甸潰ID锛�0-255鏁板瓧
+            page_id     : 1,
+
+            ready       :1
+        });
+    }
+</script>
+<script>with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://img.baidu.com/hunter/image.js?st='+~(new Date()/864e5)];</script>
+
+<script type="text/javascript">
+    var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src=_bdhmProtocol + 'hm.baidu.com/h.js?737dbb498415dd39d8abf5bc2404b290'];
+</script>
+
+<script>(function(){PDC.extend({_navTiming:window.performance&&performance.timing,ready:(function(callback){var readyBound=false,readyList=[],DOMContentLoaded,isReady=false;if(document.addEventListener){DOMContentLoaded=function(){document.removeEventListener("DOMContentLoaded",DOMContentLoaded,false);ready()}}
+    else{if(document.attachEvent){DOMContentLoaded=function(){if(document.readyState==="complete"){document.detachEvent("onreadystatechange",DOMContentLoaded);ready()}}}}function ready(){if(!isReady){isReady=true;for(var i=0,j=readyList.length;i<j;i++){readyList[i]()}}}function doScrollCheck(){
+        try{document.documentElement.doScroll("left")}catch(e){setTimeout(doScrollCheck,1);return}ready()}function bindReady(){if(readyBound){return}readyBound=true;if(document.addEventListener){document.addEventListener("DOMContentLoaded",DOMContentLoaded,false);
+        window.addEventListener("load",ready,false)}else{if(document.attachEvent){document.attachEvent("onreadystatechange",DOMContentLoaded);window.attachEvent("onload",ready);var toplevel=false;try{toplevel=window.frameElement==null}catch(e){}if(document.documentElement.doScroll&&toplevel){doScrollCheck()}}}}bindReady();return function(callback){isReady?callback():readyList.push(callback)}})(),Cookie:{set:function(name,value,max_age){max_age=max_age||10;
+            var exp=new Date();exp.setTime(new Date().getTime()+max_age*1000);document.cookie=name+"="+escape(value)+";path=/;expires="+exp.toGMTString()},get:function(name){
+                var arr=document.cookie.match(new RegExp("(^| )"+name+"=([^;]*)(;|$)"));if(arr!=null){return unescape(arr[2])}return null},remove:function(name){this.set(name,"",-1)}},_is_sample:function(ratio){if(!PDC._random){PDC._random=Math.random()}return PDC._random<=ratio},_load_analyzer:function(){var special_pages=this._opt.special_pages||[];
+                    var radios=[this._opt.sample];for(var i=0;i<special_pages.length;i++){radios.push(special_pages[i]["sample"])}var radio=Math.max.apply(null,radios);if(PDC._is_sample(radio)==false){return}PDC._analyzer.loaded=true;PDC._load_js(PDC._analyzer.url,function(){var callbacks=PDC._analyzer.callbacks;for(var i=0,l=callbacks.length;i<l;i++){callbacks[i]()}})},_load_js:function(url,callback){var script=document.createElement("script");script.setAttribute("type","text/javascript");
+                    script.setAttribute("src",url);script.onload=script.onreadystatechange=function(){if(!this.readyState||this.readyState=="loaded"||this.readyState=="complete"){script.onload=script.onreadystatechange=null;if(typeof callback==="function"){callback(url,true)}}};script.onerror=function(e){if(typeof callback==="function"){
+                        callback(url,false)}};document.getElementsByTagName("head")[0].appendChild(script)},send:function(){if(PDC._analyzer.loaded==true){WPO_PDA.send()}else{PDC._load_analyzer();PDC._analyzer.callbacks.push(function(){
+                            WPO_PDA.send()})}}},PDC);!function(){var Cookie=PDC.Cookie,jt=Cookie.get("PMS_JT"),isset=false;if(jt){Cookie.remove("PMS_JT");jt=eval(jt);if(!jt.r||document.referrer.replace(/#.*/,"")==jt.r){(PDC._render_start-jt.s)>100&&PDC.mark("wt",(PDC._render_start-jt.s))}}
+function findParent(tagname,el){var flag=0;if((el.nodeName||el.tagName).toLowerCase()===tagname.toLowerCase()){return el}while(el=el.parentNode){flag++;if((el.nodeName||el.tagName).toLowerCase()===tagname.toLowerCase()){return el}if(flag>=4){return null}}return null}
+function clickHandle(e){var e=e||window.event;var target=e.target||e.srcElement;var from=findParent("a",target);if(from){var url=from.getAttribute("href");if(!/^#|javascript:/.test(url)){Cookie.set("PMS_JT",'({"s":'+(+new Date)+',"r":"'+document.URL.replace(/#.*/,"")+'"})');isset=true}}}
+if(document.attachEvent){document.attachEvent("onclick",clickHandle)}else{document.addEventListener("click",clickHandle,false)}}();PDC.ready(function(){PDC.mark("drt")});if(document.attachEvent){window.attachEvent("onload",function(){PDC.mark("lt")},false)}
+else{window.addEventListener("load",function(){PDC.mark("let");PDC._setFS&&PDC._setFS();PDC._opt.ready!==false&&PDC._load_analyzer()})}})();</script>
+
+</body><script type="text/javascript">require.resourceMap({"res":{"common:widget/ui/base/base.js":{"url":"http://img0.bdstatic.com/static/common/widget/ui/base/base_9584ab6.js","pkg":"common:p0"},"common:widget/user_msg/common_msg.js":{"url":"http://img0.bdstatic.com/static/common/widget/user_msg/common_msg_2a81045.js","pkg":"common:p3","deps":["common:widget/ui/arch/arch.js","common:widget/ui/config/config.js"]},"common:widget/user_msg/medal_msg.js":{"url":"http://img1.bdstatic.com/static/common/widget/user_msg/medal_msg_0de490b.js","pkg":"common:p3","deps":["common:widget/ui/arch/arch.js"]},"common:widget/user_msg/run.js":{"url":"http://img0.bdstatic.com/static/common/widget/user_msg/run_026f533.js","pkg":"common:p3","deps":["common:widget/ui/arch/arch.js","common:widget/ui/usrMsg/usrMsg.js","common:widget/ui/config/config.js","common:widget/user_msg/common_msg.js","common:widget/user_msg/medal_msg.js"]},"common:widget/ui/animation/animation.js":{"url":"http://img2.bdstatic.com/static/common/widget/ui/animation/animation_05c20a3.js","pkg":"common:p3"},"common:widget/ui/message/message.js":{"url":"http://img1.bdstatic.com/static/common/widget/ui/message/message_556e180.js","pkg":"common:p3","deps":["common:widget/ui/base/base.js"]},"common:widget/ui/tip/tip.js":{"url":"http://img0.bdstatic.com/static/common/widget/ui/tip/tip_14967da.js","pkg":"common:p3","deps":["common:widget/ui/arch/arch.js"]},"common:widget/ui/browser-storage/browser-storage.js":{"url":"http://img1.bdstatic.com/static/common/widget/ui/browser-storage/browser-storage_f24c5c1.js","pkg":"common:p3"},"common:widget/ui/dropdownlist/dropdownlist.js":{"url":"http://img2.bdstatic.com/static/common/widget/ui/dropdownlist/dropdownlist_8c4bb4a.js","pkg":"common:p3","deps":["common:widget/ui/base/base.js"]},"common:widget/ui/fav-num-remind/fav-num-remind.js":{"url":"http://img2.bdstatic.com/static/common/widget/ui/fav-num-remind/fav-num-remind_c0265d6.js","pkg":"common:p3","deps":["common:widget/ui/base/base.js","common:widget/ui/jDialog/jDialog.js"]},"common:widget/ui/fav-picture/fav-picture.js":{"url":"http://img2.bdstatic.com/static/common/widget/ui/fav-picture/fav-picture_8882be3.js","pkg":"common:p3","deps":["common:widget/ui/base/base.js","common:widget/ui/utils/utils.js","common:widget/ui/dropdownlist/dropdownlist.js","common:widget/ui/browser-storage/browser-storage.js","common:widget/ui/jDialog/jDialog.js","common:widget/ui/fav-num-remind/fav-num-remind.js","common:widget/ui/message/message.js"]},"common:widget/ui/jDialog/jquery.drag.js":{"url":"http://img0.bdstatic.com/static/common/widget/ui/jDialog/jquery.drag_3c50493.js","pkg":"common:p3","deps":["common:widget/ui/base/base.js"]},"common:widget/ui/jDialog/jquery.mask.js":{"url":"http://img0.bdstatic.com/static/common/widget/ui/jDialog/jquery.mask_03d5b9b.js","pkg":"common:p3","deps":["common:widget/ui/base/base.js"]},"common:widget/ui/jDialog/jquery.dialog.js":{"url":"http://img2.bdstatic.com/static/common/widget/ui/jDialog/jquery.dialog_e6ec630.js","pkg":"common:p3","deps":["common:widget/ui/jDialog/jquery.drag.js","common:widget/ui/jDialog/jquery.mask.js","common:widget/ui/base/base.js"]},"common:widget/ui/jDialog/jDialog.js":{"url":"http://img1.bdstatic.com/static/common/widget/ui/jDialog/jDialog_d0f2678.js","pkg":"common:p3","deps":["common:widget/ui/jDialog/jquery.dialog.js"]},"common:widget/ui/jquery-dialog/jquery-dialog.js":{"url":"http://img0.bdstatic.com/static/common/widget/ui/jquery-dialog/jquery-dialog_85ca252.js","pkg":"common:p3","deps":["common:widget/ui/base/base.js"]},"common:widget/ui/jquery.jscrollpane/jquery.jscrollpane.js":{"url":"http://img2.bdstatic.com/static/common/widget/ui/jquery.jscrollpane/jquery.jscrollpane_6d7c3d2.js","pkg":"common:p3","deps":["common:widget/ui/base/base.js"]},"common:widget/ui/jquery.mousewheel/jquery.mousewheel.js":{"url":"http://img2.bdstatic.com/static/common/widget/ui/jquery.mousewheel/jquery.mousewheel_df68431.js","pkg":"common:p3","deps":["common:widget/ui/base/base.js"]},"common:widget/ui/loginBox/loginBox.js":{"url":"http://img0.bdstatic.com/static/common/widget/ui/loginBox/loginBox_92deef8.js","pkg":"common:p3","deps":["common:widget/ui/base/base.js"]},"common:widget/ui/pic-comment/Data.js":{"url":"http://img2.bdstatic.com/static/common/widget/ui/pic-comment/Data_81ac97c.js","pkg":"common:p3","deps":["common:widget/ui/base/base.js"]},"common:widget/ui/pic-comment/Form.js":{"url":"http://img0.bdstatic.com/static/common/widget/ui/pic-comment/Form_ce67677.js","pkg":"common:p3","deps":["common:widget/ui/arch/arch.js","common:widget/ui/nsclick/nsclick.js"]},"common:widget/ui/pic-comment/Item.js":{"url":"http://img0.bdstatic.com/static/common/widget/ui/pic-comment/Item_d8e2edd.js","pkg":"common:p3","deps":["common:widget/ui/arch/arch.js"]},"common:widget/ui/pic-comment/View.js":{"url":"http://img1.bdstatic.com/static/common/widget/ui/pic-comment/View_438f71f.js","pkg":"common:p3","deps":["common:widget/ui/arch/arch.js","common:widget/ui/pic-comment/Data.js","common:widget/ui/pic-comment/Form.js","common:widget/ui/pic-comment/Item.js","common:widget/ui/tip/tip.js"]},"common:widget/ui/pic-comment/pic-comment.js":{"url":"http://img1.bdstatic.com/static/common/widget/ui/pic-comment/pic-comment_8c7dd1f.js","pkg":"common:p3","deps":["common:widget/ui/arch/arch.js","common:widget/ui/loginBox/loginBox.js","common:widget/ui/pic-comment/View.js","common:widget/ui/pic-comment/Data.js"]},"common:widget/ui/select/select.js":{"url":"http://img1.bdstatic.com/static/common/widget/ui/select/select_3efe439.js","pkg":"common:p3","deps":["common:widget/ui/base/base.js","common:widget/ui/jquery.jscrollpane/jquery.jscrollpane.js","common:widget/ui/jquery.mousewheel/jquery.mousewheel.js"]},"common:widget/ui/usrMsg/usrMsg.js":{"url":"http://img2.bdstatic.com/static/common/widget/ui/usrMsg/usrMsg_330aa81.js","pkg":"common:p3","deps":["common:widget/ui/arch/arch.js","common:widget/ui/config/config.js"]},"common:widget/ui/zoomdetector/detector.js":{"url":"http://img2.bdstatic.com/static/common/widget/ui/zoomdetector/detector_3159188.js","pkg":"common:p3","deps":["common:widget/ui/base/base.js","common:widget/ui/events/events.js"]},"common:widget/ui/arch/EventDispatcher/EventDispatcher.js":{"url":"http://img0.bdstatic.com/static/common/widget/ui/arch/EventDispatcher/EventDispatcher_3163bd8.js","pkg":"common:p1"},"common:widget/ui/arch/base/base.js":{"url":"http://img2.bdstatic.com/static/common/widget/ui/arch/base/base_3b29fac.js","pkg":"common:p1","deps":["common:widget/ui/base/base.js"]},"common:widget/ui/arch/Component/Component.js":{"url":"http://img2.bdstatic.com/static/common/widget/ui/arch/Component/Component_b7574f8.js","pkg":"common:p1","deps":["common:widget/ui/arch/base/base.js","common:widget/ui/arch/EventDispatcher/EventDispatcher.js"]},"common:widget/ui/arch/Model/Model.js":{"url":"http://img2.bdstatic.com/static/common/widget/ui/arch/Model/Model_95c0c89.js","pkg":"common:p1","deps":["common:widget/ui/arch/base/base.js","common:widget/ui/arch/Component/Component.js"]},"common:widget/ui/arch/utils/utils.js":{"url":"http://img2.bdstatic.com/static/common/widget/ui/arch/utils/utils_23d4afc.js","pkg":"common:p1"},"common:widget/ui/arch/View/magic/magic.js":{"url":"http://img1.bdstatic.com/static/common/widget/ui/arch/View/magic/magic_1ae00d2.js","pkg":"common:p1"},"common:widget/ui/arch/events/keymap.js":{"url":"http://img0.bdstatic.com/static/common/widget/ui/arch/events/keymap_ca93941.js","pkg":"common:p1"},"common:widget/ui/arch/events/hover.js":{"url":"http://img1.bdstatic.com/static/common/widget/ui/arch/events/hover_dac768d.js","pkg":"common:p1","deps":["common:widget/ui/arch/base/base.js"]},"common:widget/ui/arch/events/events.js":{"url":"http://img0.bdstatic.com/static/common/widget/ui/arch/events/events_ea357ae.js","pkg":"common:p1","deps":["common:widget/ui/arch/events/keymap.js","common:widget/ui/arch/events/hover.js"]},"common:widget/ui/arch/View/View.js":{"url":"http://img1.bdstatic.com/static/common/widget/ui/arch/View/View_1c1c2f8.js","pkg":"common:p1","deps":["common:widget/ui/arch/base/base.js","common:widget/ui/arch/Component/Component.js","common:widget/ui/arch/Model/Model.js","common:widget/ui/arch/utils/utils.js","common:widget/ui/arch/View/magic/magic.js","common:widget/ui/arch/events/events.js"]},"common:widget/ui/arch/ViewPool/ViewPool.js":{"url":"http://img2.bdstatic.com/static/common/widget/ui/arch/ViewPool/ViewPool_c679cff.js","pkg":"common:p1","deps":["common:widget/ui/arch/base/base.js","common:widget/ui/arch/Component/Component.js"]},"common:widget/ui/arch/debug/debug.js":{"url":"http://img1.bdstatic.com/static/common/widget/ui/arch/debug/debug_3d8248d.js","pkg":"common:p1"},"common:widget/ui/arch/arch.js":{"url":"http://img1.bdstatic.com/static/common/widget/ui/arch/arch_fc1878f.js","pkg":"common:p1","deps":["common:widget/ui/arch/base/base.js","common:widget/ui/arch/EventDispatcher/EventDispatcher.js","common:widget/ui/arch/Component/Component.js","common:widget/ui/arch/View/View.js","common:widget/ui/arch/Model/Model.js","common:widget/ui/arch/ViewPool/ViewPool.js","common:widget/ui/arch/debug/debug.js","common:widget/ui/arch/utils/utils.js","common:widget/ui/arch/View/magic/magic.js"]},"common:widget/ui/arch/router/router.js":{"url":"http://img1.bdstatic.com/static/common/widget/ui/arch/router/router_132a7ac.js","pkg":"common:p1","deps":["common:widget/ui/arch/base/base.js","common:widget/ui/arch/Component/Component.js"]},"common:widget/ui/sug/InputWatcher.js":{"url":"http://img2.bdstatic.com/static/common/widget/ui/sug/InputWatcher_2f6ed62.js","pkg":"common:p1","deps":["common:widget/ui/arch/arch.js"]},"common:widget/ui/sug/Model.js":{"url":"http://img0.bdstatic.com/static/common/widget/ui/sug/Model_fbe3f50.js","pkg":"common:p1","deps":["common:widget/ui/arch/arch.js","common:widget/ui/utils/utils.js"]},"common:widget/ui/sug/SugList.js":{"url":"http://img0.bdstatic.com/static/common/widget/ui/sug/SugList_ba9a189.js","pkg":"common:p1","deps":["common:widget/ui/arch/arch.js"]},"common:widget/ui/sug/sug.js":{"url":"http://img0.bdstatic.com/static/common/widget/ui/sug/sug_3daa9b5.js","pkg":"common:p1","deps":["common:widget/ui/arch/arch.js","common:widget/ui/sug/Model.js","common:widget/ui/sug/SugList.js","common:widget/ui/sug/InputWatcher.js"]},"common:widget/ui/controller/base.js":{"url":"http://img1.bdstatic.com/static/common/widget/ui/controller/base_6728d50.js","pkg":"common:p1","deps":["common:widget/ui/base/base.js","common:widget/ui/events/events.js","common:widget/ui/utils/utils.js"]},"common:widget/ui/controller/cellcontroller.js":{"url":"http://img2.bdstatic.com/static/common/widget/ui/controller/cellcontroller_1fff989.js","pkg":"common:p1","deps":["common:widget/ui/base/base.js","common:widget/ui/events/events.js"]},"common:widget/ui/controller/commentcontroller.js":{"url":"http://img1.bdstatic.com/static/common/widget/ui/controller/commentcontroller_99f9b9c.js","pkg":"common:p1","deps":["common:widget/ui/base/base.js","common:widget/ui/events/events.js"]},"common:widget/ui/controller/controller.js":{"url":"http://img0.bdstatic.com/static/common/widget/ui/controller/controller_819f299.js","pkg":"common:p1","deps":["common:widget/ui/controller/base.js"]},"common:widget/ui/controller/gridcontroller.js":{"url":"http://img0.bdstatic.com/static/common/widget/ui/controller/gridcontroller_bec604e.js","pkg":"common:p1","deps":["common:widget/ui/base/base.js","common:widget/ui/events/events.js"]},"common:widget/ui/controller/imagecontroller.js":{"url":"http://img0.bdstatic.com/static/common/widget/ui/controller/imagecontroller_2b10f2a.js","pkg":"common:p1","deps":["common:widget/ui/base/base.js","common:widget/ui/events/events.js"]},"common:widget/ui/databind/databind.js":{"url":"http://img1.bdstatic.com/static/common/widget/ui/databind/databind_bfa4b58.js","pkg":"common:p1","deps":["common:widget/ui/base/base.js","common:widget/ui/events/events.js"]},"common:widget/ui/events/events.js":{"url":"http://img2.bdstatic.com/static/common/widget/ui/events/events_e25ba2b.js","pkg":"common:p1","deps":["common:widget/ui/base/base.js","common:widget/ui/arch/EventDispatcher/EventDispatcher.js"]},"common:widget/ui/slider/slider.js":{"url":"http://img1.bdstatic.com/static/common/widget/ui/slider/slider_c39d86f.js","pkg":"common:p1","deps":["common:widget/ui/base/base.js","common:widget/ui/events/events.js"]},"common:widget/ui/model/cellmodel.js":{"url":"http://img1.bdstatic.com/static/common/widget/ui/model/cellmodel_0e46946.js","pkg":"common:p1","deps":["common:widget/ui/base/base.js","common:widget/ui/events/events.js"]},"common:widget/ui/model/gridmodel.js":{"url":"http://img1.bdstatic.com/static/common/widget/ui/model/gridmodel_86c3d00.js","pkg":"common:p1","deps":["common:widget/ui/base/base.js","common:widget/ui/events/events.js"]},"common:widget/ui/model/imagemodel.js":{"url":"http://img2.bdstatic.com/static/common/widget/ui/model/imagemodel_c331465.js","pkg":"common:p1","deps":["common:widget/ui/base/base.js","common:widget/ui/events/events.js"]},"common:widget/ui/model/model.js":{"url":"http://img0.bdstatic.com/static/common/widget/ui/model/model_992c5e5.js","pkg":"common:p1"},"common:widget/ui/nsclick/nsclick.js":{"url":"http://img0.bdstatic.com/static/common/widget/ui/nsclick/nsclick_aaf885f.js","pkg":"common:p1","deps":["common:widget/ui/base/base.js","common:widget/ui/utils/utils.js"]},"common:widget/ui/config/config.js":{"url":"http://img0.bdstatic.com/static/common/widget/ui/config/config_946986f.js","pkg":"common:p1","deps":["common:widget/ui/base/base.js"]},"common:widget/ui/utils/scroller.js":{"url":"http://img0.bdstatic.com/static/common/widget/ui/utils/scroller_2a69c45.js","pkg":"common:p1","deps":["common:widget/ui/base/base.js","common:widget/ui/events/events.js"]},"common:widget/ui/utils/pageresizer.js":{"url":"http://img1.bdstatic.com/static/common/widget/ui/utils/pageresizer_5c6bebf.js","pkg":"common:p1","deps":["common:widget/ui/base/base.js","common:widget/ui/events/events.js"]},"common:widget/ui/utils/utils.js":{"url":"http://img0.bdstatic.com/static/common/widget/ui/utils/utils_e13ef7a.js","pkg":"common:p1","deps":["common:widget/ui/utils/scroller.js","common:widget/ui/utils/pageresizer.js"]},"common:widget/ui/utils/scrollpagepv.js":{"url":"http://img1.bdstatic.com/static/common/widget/ui/utils/scrollpagepv_c812d9c.js","pkg":"common:p1","deps":["common:widget/ui/base/base.js","common:widget/ui/nsclick/nsclick.js","common:widget/ui/utils/utils.js"]},"common:widget/ui/apparch/pagemodel.js":{"url":"http://img2.bdstatic.com/static/common/widget/ui/apparch/pagemodel_9f6ebfb.js","pkg":"common:p1","deps":["common:widget/ui/base/base.js","common:widget/ui/events/events.js"]},"common:widget/activetime_monitor/run.js":{"url":"http://img0.bdstatic.com/static/common/widget/activetime_monitor/run_c4841c4.js","pkg":"common:p1","deps":["common:widget/ui/base/base.js","common:widget/ui/nsclick/nsclick.js","common:widget/ui/arch/arch.js","common:widget/ui/utils/utils.js"]},"common:widget/channel_nav/run.js":{"url":"http://img0.bdstatic.com/static/common/widget/channel_nav/run_2088c4b.js","pkg":"common:p1","deps":["common:widget/ui/base/base.js"]},"common:widget/header/run.js":{"url":"http://img2.bdstatic.com/static/common/widget/header/run_4d9768a.js","pkg":"common:p1","deps":["common:widget/ui/base/base.js"]},"common:widget/search_box_search/run.js":{"url":"http://img0.bdstatic.com/static/common/widget/search_box_search/run_342ba59.js","pkg":"common:p1","deps":["common:widget/ui/base/base.js"]},"common:widget/search_box_search/searchBox/utils.js":{"url":"http://img0.bdstatic.com/static/common/widget/search_box_search/searchBox/utils_2485f2a.js","pkg":"common:p1"},"common:widget/search_box_search/shitu/swf.js":{"url":"http://img2.bdstatic.com/static/common/widget/search_box_search/shitu/swf_2ea1528.js","pkg":"common:p1"},"common:widget/search_box_search/shitu/run.js":{"url":"http://img0.bdstatic.com/static/common/widget/search_box_search/shitu/run_d6a8d4f.js","pkg":"common:p1","deps":["common:widget/search_box_search/shitu/swf.js"]},"common:widget/shitu/swf.js":{"url":"http://img1.bdstatic.com/static/common/widget/shitu/swf_30c9fe5.js","pkg":"common:p1"},"common:widget/shitu/run.js":{"url":"http://img0.bdstatic.com/static/common/widget/shitu/run_ae8e39f.js","pkg":"common:p1","deps":["common:widget/shitu/swf.js"]},"common:widget/search_userinfo/run.js":{"url":"http://img2.bdstatic.com/static/common/widget/search_userinfo/run_3877e09.js","pkg":"common:p1","deps":["common:widget/ui/base/base.js"]},"common:widget/top/run.js":{"url":"http://img2.bdstatic.com/static/common/widget/top/run_db8db3d.js","pkg":"common:p1","deps":["common:widget/ui/base/base.js"]},"common:widget/lib/fis/template/template.js":{"url":"http://img2.bdstatic.com/static/common/widget/lib/fis/template/template_af6eccf.js","pkg":"common:p4"},"common:widget/no_result_more/no_result_more.js":{"url":"http://img2.bdstatic.com/static/common/widget/no_result_more/no_result_more_2d724e4.js","pkg":"common:p4","deps":["common:widget/ui/arch/arch.js"]},"common:widget/search_box/search_box.js":{"url":"http://img0.bdstatic.com/static/common/widget/search_box/search_box_90c0a62.js","pkg":"common:p4","deps":["common:widget/ui/base/base.js"]},"common:widget/search_box_home/run.js":{"url":"http://img0.bdstatic.com/static/common/widget/search_box_home/run_59e3f7c.js","pkg":"common:p4","deps":["common:widget/ui/base/base.js"]},"common:widget/search_box_home/searchBox/utils.js":{"url":"http://img2.bdstatic.com/static/common/widget/search_box_home/searchBox/utils_25f684a.js","pkg":"common:p4"},"common:widget/search_box_home/shitu/swf.js":{"url":"http://img1.bdstatic.com/static/common/widget/search_box_home/shitu/swf_6008695.js","pkg":"common:p4"},"common:widget/search_box_home/shitu/run.js":{"url":"http://img1.bdstatic.com/static/common/widget/search_box_home/shitu/run_e7e6215.js","pkg":"common:p4","deps":["common:widget/search_box_home/shitu/swf.js"]},"common:widget/search_box_mini/search_box_mini.js":{"url":"http://img1.bdstatic.com/static/common/widget/search_box_mini/search_box_mini_9427213.js","pkg":"common:p4","deps":["common:widget/ui/base/base.js"]},"common:widget/search_home_userinfo/run.js":{"url":"http://img1.bdstatic.com/static/common/widget/search_home_userinfo/run_264c78d.js","pkg":"common:p4","deps":["common:widget/ui/base/base.js"]},"common:widget/ui/archWidgets/Menu/Menu.js":{"url":"http://img1.bdstatic.com/static/common/widget/ui/archWidgets/Menu/Menu_2bca2be.js","pkg":"common:p4","deps":["common:widget/ui/arch/arch.js"]},"common:widget/ui/archWidgets/MenuItem/MenuItem.js":{"url":"http://img2.bdstatic.com/static/common/widget/ui/archWidgets/MenuItem/MenuItem_d1fef58.js","pkg":"common:p4","deps":["common:widget/ui/arch/arch.js"]},"common:widget/ui/archWidgets/SliderShow/config.js":{"url":"http://img0.bdstatic.com/static/common/widget/ui/archWidgets/SliderShow/config_5c539b6.js","pkg":"common:p4","deps":["common:widget/ui/arch/arch.js"]},"common:widget/ui/archWidgets/SliderShow/ImageModel.js":{"url":"http://img2.bdstatic.com/static/common/widget/ui/archWidgets/SliderShow/ImageModel_8a7ac2c.js","pkg":"common:p4","deps":["common:widget/ui/arch/arch.js","common:widget/ui/archWidgets/SliderShow/config.js"]},"common:widget/ui/archWidgets/SliderShow/SliderModel.js":{"url":"http://img0.bdstatic.com/static/common/widget/ui/archWidgets/SliderShow/SliderModel_2d3e56d.js","pkg":"common:p4","deps":["common:widget/ui/arch/arch.js","common:widget/ui/archWidgets/SliderShow/config.js","common:widget/ui/archWidgets/SliderShow/ImageModel.js"]},"common:widget/ui/archWidgets/SliderShow/transitions/alphaTrans.js":{"url":"http://img1.bdstatic.com/static/common/widget/ui/archWidgets/SliderShow/transitions/alphaTrans_1eb3c31.js","pkg":"common:p4","deps":["common:widget/ui/arch/arch.js"]},"common:widget/ui/archWidgets/SliderShow/transitions/fadeUpTrans.js":{"url":"http://img1.bdstatic.com/static/common/widget/ui/archWidgets/SliderShow/transitions/fadeUpTrans_28bbcc7.js","pkg":"common:p4","deps":["common:widget/ui/arch/arch.js"]},"common:widget/ui/archWidgets/SliderShow/transitions/scrollTrans.js":{"url":"http://img2.bdstatic.com/static/common/widget/ui/archWidgets/SliderShow/transitions/scrollTrans_ac1214d.js","pkg":"common:p4","deps":["common:widget/ui/arch/arch.js"]},"common:widget/ui/archWidgets/SliderShow/transitions/transitions.js":{"url":"http://img2.bdstatic.com/static/common/widget/ui/archWidgets/SliderShow/transitions/transitions_e688130.js","pkg":"common:p4","deps":["common:widget/ui/arch/arch.js","common:widget/ui/archWidgets/SliderShow/transitions/alphaTrans.js","common:widget/ui/archWidgets/SliderShow/transitions/fadeUpTrans.js","common:widget/ui/archWidgets/SliderShow/transitions/scrollTrans.js"]},"common:widget/ui/archWidgets/SliderShow/magic/zoom.js":{"url":"http://img1.bdstatic.com/static/common/widget/ui/archWidgets/SliderShow/magic/zoom_8b082ba.js","pkg":"common:p4","deps":["common:widget/ui/arch/arch.js"]},"common:widget/ui/archWidgets/SliderShow/SliderShow.js":{"url":"http://img0.bdstatic.com/static/common/widget/ui/archWidgets/SliderShow/SliderShow_38a4db8.js","pkg":"common:p4","deps":["common:widget/ui/arch/arch.js","common:widget/ui/archWidgets/SliderShow/SliderModel.js","common:widget/ui/archWidgets/SliderShow/transitions/transitions.js","common:widget/ui/archWidgets/SliderShow/magic/zoom.js"]},"common:widget/ui/archWidgets/tip/Close/Close.js":{"url":"http://img0.bdstatic.com/static/common/widget/ui/archWidgets/tip/Close/Close_0966e9f.js","pkg":"common:p4","deps":["common:widget/ui/arch/arch.js"]},"common:widget/ui/archWidgets/tip/Pointer/Pointer.js":{"url":"http://img1.bdstatic.com/static/common/widget/ui/archWidgets/tip/Pointer/Pointer_3f8973a.js","pkg":"common:p4","deps":["common:widget/ui/arch/arch.js"]},"common:widget/ui/archWidgets/tip/Tip/Tip.js":{"url":"http://img0.bdstatic.com/static/common/widget/ui/archWidgets/tip/Tip/Tip_07a0368.js","pkg":"common:p4","deps":["common:widget/ui/arch/arch.js"]},"common:widget/ui/archWidgets/tip/positionCtrl.js":{"url":"http://img0.bdstatic.com/static/common/widget/ui/archWidgets/tip/positionCtrl_4da5ccc.js","pkg":"common:p4","deps":["common:widget/ui/arch/arch.js"]},"common:widget/ui/archWidgets/tip/tip.js":{"url":"http://img0.bdstatic.com/static/common/widget/ui/archWidgets/tip/tip_b332bc9.js","pkg":"common:p4","deps":["common:widget/ui/arch/arch.js","common:widget/ui/archWidgets/tip/Tip/Tip.js","common:widget/ui/archWidgets/tip/Close/Close.js","common:widget/ui/archWidgets/tip/Pointer/Pointer.js","common:widget/ui/archWidgets/tip/positionCtrl.js"]},"common:widget/ui/autoCloseDialog/autoCloseDialog.js":{"url":"http://img0.bdstatic.com/static/common/widget/ui/autoCloseDialog/autoCloseDialog_2643e2b.js","pkg":"common:p4","deps":["common:widget/ui/base/base.js"]},"common:widget/ui/hotalbum/hotalbum.js":{"url":"http://img2.bdstatic.com/static/common/widget/ui/hotalbum/hotalbum_286272d.js","pkg":"common:p4","deps":["common:widget/ui/base/base.js","common:widget/ui/arch/arch.js"]},"common:widget/ui/hottags/tag/tag.js":{"url":"http://img2.bdstatic.com/static/common/widget/ui/hottags/tag/tag_2f17237.js","pkg":"common:p4","deps":["common:widget/ui/base/base.js","common:widget/ui/archWidgets/MenuItem/MenuItem.js"]},"common:widget/ui/hottags/tagMenu/tagMenu.js":{"url":"http://img0.bdstatic.com/static/common/widget/ui/hottags/tagMenu/tagMenu_9de8362.js","pkg":"common:p4","deps":["common:widget/ui/base/base.js","common:widget/ui/arch/arch.js","common:widget/ui/hottags/tag/tag.js","common:widget/ui/archWidgets/Menu/Menu.js"]},"common:widget/ui/hottags/hottags.js":{"url":"http://img2.bdstatic.com/static/common/widget/ui/hottags/hottags_6e64efb.js","pkg":"common:p4","deps":["common:widget/ui/base/base.js","common:widget/ui/arch/arch.js","common:widget/ui/hottags/tagMenu/tagMenu.js"]},"common:widget/ui/mask/mask.js":{"url":"http://img1.bdstatic.com/static/common/widget/ui/mask/mask_ba23a33.js","pkg":"common:p4","deps":["common:widget/ui/arch/arch.js"]},"common:widget/ui/otherChannel/otherChannel.js":{"url":"http://img1.bdstatic.com/static/common/widget/ui/otherChannel/otherChannel_33daa06.js","pkg":"common:p4","deps":["common:widget/ui/arch/arch.js"]},"common:widget/ui/simpleselect/simpleselect.js":{"url":"http://img2.bdstatic.com/static/common/widget/ui/simpleselect/simpleselect_2becfed.js","pkg":"common:p4","deps":["common:widget/ui/base/base.js"]},"common:widget/ui/statistic/monitorrequest/monitorrequest.js":{"url":"http://img1.bdstatic.com/static/common/widget/ui/statistic/monitorrequest/monitorrequest_ab4609a.js","pkg":"common:p4"},"common:widget/ui/statistic/statistic.js":{"url":"http://img2.bdstatic.com/static/common/widget/ui/statistic/statistic_4f2db71.js","pkg":"common:p4","deps":["common:widget/ui/arch/arch.js","common:widget/ui/statistic/monitorrequest/monitorrequest.js"]},"common:widget/ui/uploadDialog/uploadDialog.js":{"url":"http://img2.bdstatic.com/static/common/widget/ui/uploadDialog/uploadDialog_b43c3e2.js","pkg":"common:p4","deps":["common:widget/ui/base/base.js","common:widget/ui/jDialog/jDialog.js"]},"common:widget/ui/view/view.js":{"url":"http://img0.bdstatic.com/static/common/widget/ui/view/view_9787e9c.js","pkg":"common:p4"},"common:widget/userinfo/userinfo.js":{"url":"http://img0.bdstatic.com/static/common/widget/userinfo/userinfo_83aa094.js","pkg":"common:p4","deps":["common:widget/ui/base/base.js"]},"home:widget/ui/mask/mask.js":{"url":"http://img1.bdstatic.com/static/home/widget/ui/mask/mask_2efb041.js","pkg":"home:p0"},"home:widget/ui/festival/newyear/newyear.js":{"url":"http://img0.bdstatic.com/static/home/widget/ui/festival/newyear/newyear_238b851.js","pkg":"home:p0","deps":["home:widget/ui/mask/mask.js"]},"home:widget/ui/festival/festival.js":{"url":"http://img0.bdstatic.com/static/home/widget/ui/festival/festival_f237fb7.js","pkg":"home:p0","deps":["home:widget/ui/festival/newyear/newyear.js"]},"home:widget/ui/imgarea/imgarea.js":{"url":"http://img0.bdstatic.com/static/home/widget/ui/imgarea/imgarea_a916e6b.js","pkg":"home:p0","deps":["common:widget/ui/base/base.js"]},"home:widget/ui/share/share.js":{"url":"http://img1.bdstatic.com/static/home/widget/ui/share/share_e1b8743.js","pkg":"home:p0"},"home:widget/ui/dot/dot.js":{"url":"http://img2.bdstatic.com/static/home/widget/ui/dot/dot_75e6702.js","pkg":"home:p0"},"home:widget/ui/skin/skin.js":{"url":"http://img1.bdstatic.com/static/home/widget/ui/skin/skin_77e8449.js","pkg":"home:p0"},"home:widget/ui/app/app.js":{"url":"http://img1.bdstatic.com/static/home/widget/ui/app/app_dad141e.js","pkg":"home:p0","deps":["common:widget/ui/base/base.js","home:widget/ui/dot/dot.js","home:widget/ui/skin/skin.js","home:widget/ui/imgarea/imgarea.js","home:widget/ui/share/share.js"]},"home:static/index/index.js":{"url":"http://img1.bdstatic.com/static/home/index/index_d2da17b.js","pkg":"home:p0"}},"pkg":{"common:p0":{"url":"http://img0.bdstatic.com/static/common/pkg/base_9584ab6.js"},"common:p3":{"url":"http://img1.bdstatic.com/static/common/pkg/onload_e5e13f7.js"},"common:p1":{"url":"http://img2.bdstatic.com/static/common/pkg/com_adad11b.js"},"common:p4":{"url":"http://img2.bdstatic.com/static/common/pkg/other_022983d.js"},"home:p0":{"url":"http://img2.bdstatic.com/static/home/pkg/default_cff8c08.js"}}});</script><script type="text/javascript">!function(){require.async('common:widget/ui/config/config.js', function(config) {
+	config.init((function() {
+    //淇グcommon msg
+    function commonMsgFormat(data) {
+
+        return data.content;
+    }
+    function needCmt(column,tag){
+        //鍒ゆ柇澶у浘椤垫槸鍚﹂渶瑕佸睍绀鸿瘎璁哄姛鑳絘dd by dongmei
+        if(column=="鎼炵瑧"||column=="鏈嶉グ"){
+            return true;
+        }else if(column=="娲诲姩"){
+            if(tag=="鐐瘜or绌烽�煎ぇ璧�"){
+                return true;
+            }else{
+                return false;
+            }
+        }else{
+            return false;
+        }
+    }
+    //闈欐�佹秷鎭�
+    var staticMsg = [
+        {
+            /*type: 'Common',
+             data: {
+             content: '<a href="/channel/activity?actid=xunzhang1" target="_blank">浼犲浘鐗� 鑾峰媼绔� 璧㈠ソ绀硷紒</a>',
+             id: 'c1',
+             once: true
+             }*/
+        }
+    ];
+
+    /**
+     * 璋冩暣tip鐨勪綅缃瓑
+     * @param {Object} tip
+     */
+    function adjMsgTip(tip) {
+        if(!tip) return;
+        tip.$arrow.animate({
+            right: 25
+        });
+    }
+
+    //璧勮澶у浘椤电缉鍥惧尯鏀惰捣寤舵椂鏃堕棿
+    var _ndct = 4000;
+
+    return {
+        commonMsgFormat: commonMsgFormat,
+        newsDetailCollapseTime: _ndct,
+        needCmt:needCmt,
+        staticMsg: staticMsg,
+        adjMsgTip: adjMsgTip
+    };
+
+})());
+});
+}();
+!function(){(function(){
+    var uid = "282335"
+    var userid = "";
+    var spaceUrl = "";
+    var backURL = '';
+    require.async(["common:widget/search_home_userinfo/run.js"],function(userInfo){
+            userInfo.ini({
+                "logID" : "passLog",
+                "regID" : "",
+                "jumpPage" : location.protocol+"//"+location.host+"/static/imgsearch/html/v2Jump.html",
+                "tpl" : "im",
+                "userid" : userid||"",
+                "uid" : uid || "",
+                "hasUserName" : ('' === '0'),
+                "spaceUrl" : spaceUrl||"",
+                "backURL" : backURL,
+                "thirdLogo" : '0'    //绗笁鏂圭綉绔欑櫥褰曠殑logo锛屼负绌哄垯涓嶆樉绀�
+            });
+    });
+})();
+}();
+!function(){/**
+ * isRefresh 鐢ㄦ潵鍒ゆ柇绂佹se鎴栨煡璇㈢殑鍙傛暟鏄惁鐢熸晥,false琛ㄧず鏃犻』娓呴浂锛宼rue琛ㄧず闇�瑕佹竻闆�
+ */
+require.async(["common:widget/ui/base/base.js", "common:widget/search_box_home/searchBox/utils.js"],function(utils){
+window.getSam = function($baiduid) {
+    var $sum = 0;
+    $baiduid = $baiduid.replace(":FG=1","");
+
+    $baiduid = $baiduid + ":FG=1";
+
+    for (var $i = 0; $i < $baiduid.length; $i++) {
+
+        $sum = $sum * 31 + $baiduid.charCodeAt($i);
+
+        $sum %= 0x100000000;
+
+    }
+
+    var $sample = $sum % 101;
+    return $sample;
+}
+window.f_submit = function(form,isRefresh){
+
+//鍥剧墖url妫�绱㈣烦杞�
+var keyword = form.word.value;
+var tiaoma = /^http[s]*\:\/\/[\s\S]*\.[jpg|gif|png|bmp|jpeg]*$/.test(keyword) ||/img5\.imgtn\.bdimg\.com/.test(keyword) || /mt1\.baidu\.com\/timg/.test(keyword);
+var jumpURL = 'http://image.baidu.com/n/pc_search?queryImageUrl='+encodeURIComponent(keyword)+'&fm=searchresult&pos=urlsearch';
+var sam = window.getSam($.cookie.get("BAIDUID"));
+if(tiaoma){
+   location.href = jumpURL;
+   return false;
+}
+
+    form.tn.value = "baiduimage";
+    form.ct.value = "201326592";
+    form.cl.value = "2";
+    form.lm.value = "-1";
+    form.pv.value = "";
+    if(sam >= 71 && sam <= 100){
+        form.action = "/search/index";
+    }else{
+        form.action = "/i";
+    }
+
+    if(isRefresh == true){
+    	//submit鐩存帴鎻愪氦鏂皅uery
+    	form.se.value = "1";
+    }
+    return true;
+}
+
+
+})
+
+}();
+!function(){    window.ss = function(){
+        var URL = 'http://imgstat.baidu.com/9.gif?rainbow=1&';
+        function request(url){
+            var seed = Math.random();
+            var img = window[seed] = new Image;
+            img.onload = img.onerror = function(){
+                window[seed] = null;
+                img.onload = img.onerror = null;
+                img = null;
+            };
+            img.src = url;
+        }
+
+        /* p = 0, 棣栭〉鍏紶demo鍥剧墖鐐瑰嚮缁熻
+         * p = 1, 缁撴灉椤祎ab鐩稿叧锛� name=stu鐩稿悓tab鏄剧ず锛沶ame=face 浜鸿劯鎼滅储tab鏄剧ず; type=show灞曠幇锛泃ype=click鐐瑰嚮
+         * p = pv, 缁撴灉椤礟V缁熻锛歞ata=1锛屾湁缁撴灉锛沝ata=0鏃犵粨鏋滐紱data=-1锛宒own椤甸潰
+         **/
+
+        return function(arg, url, e){
+            var s = URL + json2Query(arg) + '&' + Math.random();
+            request(s);
+            if(url){
+                setTimeout(function(){
+                    location.href = url;
+                }, 300);
+                e = e || window.event;
+                if(e){
+                    if(e.preventDefault){
+                        e.preventDefault();
+                    }else{
+                        e.returnValue = false;
+                    }
+                }
+
+            }
+        };
+
+    }();
+    window.__originTitle = document.title;
+    function json2Query(json){
+        if(json == null || typeof json !="object") return json;
+        var query = [];
+        for(var i in json){
+            if(i!="")
+                query[query.length]=i+"="+json[i];
+        }
+        return query.join("&");
+    }
+    /**
+     * flash鍒濆鍖栧畬鎴�
+     */
+    function flashInitCallback(){
+        setTimeout(function(){
+            document.title = window.__originTitle;
+        }, 1000);
+
+        window.useFlashUp = true;
+    };
+    /**
+     * 閫夋嫨濂芥枃浠堕�氱煡flash涓婄嚎
+     */
+    function notiUpload(){
+        var logStr = "p=index&event_type=shitu.upload.click&pos=fileupload";
+        nsclick.stat(logStr);
+
+        document.title = window.__originTitle;
+        stInstance.showLoading();
+    }
+    /**
+     * 鏁翠釜涓婁紶鏄惁鎴愬姛
+     */
+    function returnState(boo,result){
+        document.title = window.__originTitle;
+        if(!boo){
+            stInstance.hideLoading();
+            alert("瀵逛笉璧凤紝涓婁紶澶辫触锛岃閲嶆柊涓婁紶.");
+            return false;
+        }else if(boo){
+            window.ss&window.ss({type:'searchNum',p:'uploadSearch',form:'wantu',flash:'1'});
+            window.location.href=result;
+        };
+    }
+
+    /*鐢ㄦ埛鍏抽棴flash鏂囦欢閫夋嫨妗�*/
+    function filePickerEnd(){
+        document.title = window.__originTitle;
+    }
+    window.returnState = returnState;
+    window.flashInitCallback = flashInitCallback;
+    window.notiUpload = notiUpload;
+    window.filePickerEnd = filePickerEnd;
+require.async(["common:widget/ui/base/base.js", "common:widget/search_box_home/shitu/swf.js", "common:widget/search_box_home/shitu/run.js", "common:widget/ui/nsclick/nsclick.js"],function($, swf, shitu,nsclick){
+
+    window.nsclick = nsclick;
+    $(document).ready(function() {
+        var st = new shitu();
+        st.init();
+        window.stInstance = st;
+        var flashCon = document.getElementById('flashcontent');
+        if(((parseInt(swf.version, 10) || 0) < 10) || !flashCon){
+            flashCon.style.display = 'none';
+        }else{
+            try{
+                swf.create({id:"STUUpload",url:"http://img.baidu.com/img/image/stu/STUpload2.swf?v=0108",width:"103",height:"28", align : "top", wmode:"transparent", allowscriptaccess : "always",errorMessage:"杞藉叆FLASH鍑洪敊",vars:{uploadurl:"/pictureup/uploadshitu?fr=flash&fm=index&pos=upload",logurl:"http://imgstat.baidu.com/9.gif?rainbow=1&type=searchNum&p=uploadSearch&form=wantu&flash=1&t=",compress:"1"},ver:"10.1.0"},"flashcontent");
+            }catch(e){
+                flashCon.style.display = 'none';
+            }
+
+        }
+    });
+});
+}();
+!function(){        require.async('common:widget/search_box_home/run.js',function(searchbox){
+            searchbox.init();
+        });
+    }();
+!function(){require.async('common:widget/ui/base/base.js', function($){
+    $(window).bind('load', function () {
+        $(window).unbind('load', arguments.callee);
+
+        require.async('common:widget/user_msg/run.js', function (me) {
+                me.init();
+                window.mil = me;
+        });
+    });
+});
+}();
+!function(){   
+    require.async("home:static/index/index.js");
+}();
+!function(){            require.async(['common:widget/ui/base/base.js'], function($) {
+                $(function(){
+                    var sample = "",
+                        refer = "",
+                        logId = "36c9296859dd3243b3ac702f8d362847";
+                    require.async('common:widget/ui/nsclick/nsclick.js',function(nsclick){
+                        nsclick.setRefer(refer);
+                        nsclick.setLogId(logId);
+                        nsclick.setSample(sample);
+                        nsclick.proxy();
+                    });
+                });
+            });
+        }();
+!function(){        require.async(["common:widget/activetime_monitor/run.js"],function(Activetime){
+            var tn = 'index';
+            var col = '';
+            var sort = '';
+            col = decodeURIComponent(col);
+            Activetime({
+                tn:tn,
+                col:col,
+                sort:sort
+                
+            });
+        });
+    }();
+!function(){		require.async(["common:widget/ui/nsclick/nsclick.js"], function(nsclick){nsclick.setSample("");nsclick.stat("p=index&event_type=pv&uid=0&referer=&path=&logid=36c9296859dd3243b3ac702f8d362847&1433319173");});
+	}();</script></html>
+

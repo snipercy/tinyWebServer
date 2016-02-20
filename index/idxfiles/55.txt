@@ -1,0 +1,2822 @@
+Connection: close
+LFY: st01.i4
+Set-Cookie: BAIDUID=64B88EF90E7863B807AD5BDE0786618A:FG=1; max-age=31536000; expires=Thu, 02-Jun-16 08:00:10 GMT; domain=.hao123.com; path=/; version=1
+P3P: CP=" OTI DSP COR IVA OUR IND COM "
+SFY: st01.4
+
+
+<!doctype html>
+
+
+
+
+
+
+
+<html lang="zh_CN">
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+<meta name="keywords" content="彩票，彩票开奖，福利彩票，体育彩票，双色球，双色球开奖结果，3D，3D开奖结果" />
+<meta name="description" content="hao123彩票频道为您提供福彩、体彩信息，彩票开奖结果，在线投注等服务。买彩票，中大奖，请上hao123彩票。" />
+
+<title>【彩票】_彩票开奖，福利彩票，体育彩票 _hao123彩票</title>
+
+<!--[if lte ie 8]>
+<script>
+eval(function(ps, w) {
+  var ca=[],c=w._IE_UPG={},i,l,p;
+  for(i=0,l=ps.length;i<l;i++){
+    p=ps[i];
+    c['_'+p]=w[p];
+    ca.push(p+'=_IE_UPG._'+p)
+  }
+  return 'var '+ca.join(',');
+}('document self top parent alert setInterval clearInterval setTimeout clearTimeout'.split(' '), window));
+</script>
+<![endif]-->
+<link rel="shortcut icon" href="http://www.hao123.com/favicon.ico" />
+
+
+
+
+
+
+
+
+
+<base target="_blank">
+<!--[if lte IE 6]></base><![endif]-->
+
+<link rel="stylesheet" type="text/css" href="http://s1.hao123img.com/resource/common/pkg/aio_e3dd3cc.css"/><link rel="stylesheet" type="text/css" href="http://s2.hao123img.com/resource/caipiao/pkg/aio_css_231c3f9.css"/><link rel="stylesheet" type="text/css" href="http://s0.hao123img.com/resource/caipiao/widget/lottery-quick/lottery-quick_6e7039f.css"/>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+    var hm = document.createElement("script");
+    hm.src = "//hm.baidu.com/hm.js?22661fc940aadd927d385f4a67892bc3";
+    var s = document.getElementsByTagName("script")[0]; 
+    s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<!--[FIS_CSS_LINKS_HOOK]--></head>
+
+<body >
+<div  id="doc">
+<div id="hd">
+
+<div id="page-header">
+<div class="top-bar">
+<div class="wrapper page-width">
+<p class="list links">
+<a tabindex="1" class="item hilight" target="_blank" href="http://www.hao123.com/">
+上网首页
+</a>
+<a tabindex="1" class="item" target="_blank" href="http://v.hao123.com/">
+影视
+</a>
+<a tabindex="1" class="item" target="_blank" href="http://game.hao123.com/">
+游戏	 
+</a>
+<a tabindex="1" class="item" target="_blank" href="http://news.hao123.com/">
+新闻
+</a>
+<a tabindex="1" class="item" target="_blank" href="http://book.hao123.com/">
+小说
+</a>
+<a tabindex="1" class="item" target="_blank" href="http://caipiao.hao123.com/">
+彩票	 
+</a>
+<a tabindex="1" class="item" target="_blank" href="http://www.hao123.com/gaoxiao">
+搞笑
+</a>
+<a tabindex="1" class="item" target="_blank" href="http://life.hao123.com/">
+查询
+</a>
+<b tabindex="1" class="item more"><u>导航</u><i class="icon"></i></b>
+<u class="layer sites-as-type-layer">
+<iframe class="layer-mask" frameborder="0" src="about:blank"></iframe>
+<b class="more exp more-exp"><u>导航</u><i class="icon"></i></b>
+<i class="more-site-type odd clearfix">
+<s class="type">娱乐休闲</s>
+<a class="link-item" href="http://video.hao123.com/dianying/" target="_blank">
+电影
+</a>
+<a class="link-item hilight" href="http://v.hao123.com/tv/" target="_blank">
+电视剧
+</a>
+<a class="link-item" href="http://dongman.hao123.com/" target="_blank">
+动漫
+</a>
+<a class="link-item" href="http://video.hao123.com/zongyi/" target="_blank">
+综艺
+</a>
+<a class="link-item hilight" href="http://v.hao123.com/live" target="_blank">
+直播
+</a>
+<a class="link-item" href="http://www.hao123.com/video" target="_blank">
+视频
+</a>
+<a class="link-item hilight" href="http://xyx.hao123.com/" target="_blank">
+小游戏
+</a>
+<a class="link-item" href="http://wyyx.hao123.com/" target="_blank">
+页游
+</a>
+<a class="link-item" href="http://game.hao123.com/wangyou" target="_blank">
+网游
+</a>
+<a class="link-item" href="http://www.hao123.com/sport" target="_blank">
+体育
+</a>
+<a class="link-item" href="http://www.hao123.com/nba" target="_blank">
+NBA
+</a>
+<a class="link-item" href="http://news.hao123.com/soccer" target="_blank">
+足球
+</a>
+<a class="link-item" href="http://www.hao123.com/xingzuonew.html" target="_blank">
+星座
+</a>
+<a class="link-item" href="http://www.hao123.com/love" target="_blank">
+交友
+</a>
+<a class="link-item" href="http://www.hao123.com/star" target="_blank">
+明星
+</a>
+<a class="link-item" href="http://pic.hao123.com/" target="_blank">
+图片
+</a>
+<a class="link-item" href="http://music.hao123.com/" target="_blank">
+音乐
+</a>
+</i>
+<i class="more-site-type even clearfix">
+<s class="type">生活服务</s>
+<a class="link-item hilight" href="http://tuan.baidu.com/" target="_blank">
+团购
+</a>
+<a class="link-item" href="http://www.hao123.com/bank" target="_blank">
+银行 
+</a>
+<a class="link-item hilight" href="http://www.hao123.com/junshi" target="_blank">
+军事
+</a>
+<a class="link-item" href="http://www.hao123.com/fangchan" target="_blank">
+房产 
+</a>
+<a class="link-item" href="http://www.hao123.com/stocknew" target="_blank">
+股票 
+</a>
+<a class="link-item" href="http://www.hao123.com/stock" target="_blank">
+基金 
+</a>
+<a class="link-item hilight" href="http://www.hao123.com/tianqi" target="_blank">
+天气 
+</a>
+<a class="link-item hilight" href="http://www.hao123.com/menu" target="_blank">
+菜谱 
+</a>
+<a class="link-item" href="http://www.hao123.com/auto" target="_blank">
+汽车
+</a>
+<a class="link-item" href="http://www.hao123.com/map" target="_blank">
+地图
+</a>
+<a class="link-item" href="http://www.hao123.com/zhaopin" target="_blank">
+招聘 
+</a>
+<a class="link-item hilight" href="http://www.hao123.com/child" target="_blank">
+儿童
+</a>
+<a class="link-item" href="http://www.hao123.com/muying" target="_blank">
+母婴 
+</a>
+<a class="link-item" href="http://www.hao123.com/health" target="_blank">
+健康 
+</a>
+<a class="link-item" href="http://www.hao123.com/edu" target="_blank">
+大学 
+</a>
+<a class="link-item" href="http://www.hao123.com/mobile" target="_blank">
+手机
+</a>
+<a class="link-item" href="http://lady.hao123.com/" target="_blank">
+女性
+</a>
+<a class="link-item" href="http://lvyou.hao123.com/" target="_blank">
+旅游
+</a>
+<a class="link-item" href="http://gouwu.hao123.com/" target="_blank">
+购物
+</a>
+</i>
+<i class="more-site-type odd clearfix">
+<s class="type">其他网站</s>
+<a class="link-item hilight" href="http://soft.hao123.com" target="_blank">
+软件
+</a>
+<a class="link-item" href="http://www.hao123.com/mail" target="_blank">
+邮箱 
+</a>
+<a class="link-item" href="http://www.hao123.com/weibo" target="_blank">
+微博 
+</a>
+<a class="link-item hilight" href="http://www.hao123.com/xiaoqingxin" target="_blank">
+小清新 
+</a>
+<a class="link-item" href="http://www.hao123.com/chongwu" target="_blank">
+宠物
+</a>
+<a class="link-item" href="http://www.hao123.com/harcksafe" target="_blank">
+杀毒 
+</a>
+<a class="link-item" href="http://www.hao123.com/sheji" target="_blank">
+设计 
+</a>
+<a class="link-item" href="http://www.hao123.com/hardware" target="_blank">
+电脑
+</a>
+<a class="link-item" href="http://www.hao123.com/desktop" target="_blank">
+桌面 
+</a>
+<a class="link-item" href="http://www.hao123.com/zhiye" target="_blank">
+行业 
+</a>
+<a class="link-item" href="http://www.hao123.com/sheying" target="_blank">
+摄影
+</a>
+<a class="link-item" href="http://www.hao123.com/english" target="_blank">
+英语
+</a>
+<a class="link-item" href="http://www.hao123.com/exam" target="_blank">
+考试 
+</a>
+<a class="link-item" href="http://www.hao123.com/liuxue" target="_blank">
+留学
+</a>
+<a class="link-item" href="http://www.hao123.com/xuexi" target="_blank">
+学习 
+</a>
+<a class="link-item" href="http://www.hao123.com/gongyi" target="_blank">
+公益
+</a>
+</i>
+</u>
+</p>
+<p class="list user-tools">
+<a class="item item-sethome" action="page-header-sethome" href="http://www.hao123.com/redian/sheshouyef.htm" target="_blank">
+<i class="icon"><u>.</u></i>把hao123设为主页</a>
+<s>|</s>
+<a class="item hilight" action="page-header-feedback" href="http://feedback.hao123.com/?catalog_id=21" target="_blank">反馈</a>
+<s>|</s>
+<a class="item" action="page-header-mobile" href="http://www.hao123.com/shouji/" target="_blank">手机版</a>
+<s>|</s>
+<a class="item" action="page-header-desktop" href="http://www.hao123.com/desk.html" target="_blank">桌面版</a>
+<s>|</s>
+<a class="item" href="http://dl.123juzi.net/hao123JuziBrowser_1.1.3.8_h8.exe" target="_blank">浏览器</a>
+</p>
+
+</div>
+</div>
+
+
+
+</div>
+
+</div>
+<div  id="bd" >
+
+<div class="top-banner-bg">
+<div class="top-banner-fg">
+<div class="top-banner-content">
+<div class="logo">
+</div>
+<a class="link-index" href="http://www.hao123.com/"></a>
+<a class="link-caipiao" href="http://caipiao.hao123.com/"></a>
+</div>
+</div>
+</div>
+<div id="bd_content">
+<div>
+<div class="hao123-caipiao-nav">
+<span class="goto-index">彩票首页</span>
+<ul>
+<li><a href="http://hao123.lecai.com/?agentId=5504">在线投注</a></li>
+<li><a href="http://hao123.lecai.com/lottery/">购彩大厅</a></li>
+<li><a href="http://hao123.lecai.com/lottery/jump/50/">购买双色球</a></li>
+<li><a href="http://hao123.lecai.com/lottery/jczq/">足球彩票</a></li>
+<li><a href="http://hao123.lecai.com/lottery/draw/">全国开奖</a></li>
+<li><a href="http://trend.hao123.lecai.com/">图表走势</a></li>
+<li><a href="http://hao123.lecai.com/mobile/">手机购彩</a></li>
+<li><a href="http://hao123.lecai.com/cms/ssq/?agentId=5508">双色球资讯</a></li>
+<li class="last"><a href="http://hao123.lecai.com/user/mylottery/">我的彩票</a></li>
+</ul>
+</div>
+<div id="caipiao_nav_list" monkey="caipiao_index_caipiaomingzhan">
+<label>[彩票名站]</label>
+<ul>
+<li><a href='http://www.zhcw.com/'>中彩网</a></li>
+<li><a href='http://www.lottery.gov.cn/'>中国体彩网</a></li>
+<li><a href='http://hao123.lecai.com/?agentId=5507'>百度彩票</a></li>
+<li><a href='http://lottery.sina.com.cn/'>新浪彩票</a></li>
+<li><a href='http://caipiao.sohu.com/'>搜狐彩票</a></li>
+<li><a href='http://www.sporttery.cn/'>中国竞彩网</a></li>
+<li><a href='http://caipiao.jd.com/'>京东彩票</a></li>
+<li><a href='http://caipiao.taobao.com/'>淘宝彩票</a></li>
+<li><a href='http://cp.ifeng.com/'>凤凰彩票</a></li>
+<li><a href='http://www.cpdyj.com/'>彩票大赢家</a></li>
+<li><a href='http://caipiao.163.com/'>网易彩票</a></li>
+<li><a href='http://www.500.com/'>500彩票网</a></li>
+<li><a href='http://www.310win.com/'>彩客网</a></li>
+<li><a href='http://cp.qq.com/'>腾讯彩票</a></li>
+<li><a href='http://www.okooo.com/'>澳客网</a></li>
+<li><a href='http://www.zgzcw.com/'>中国足彩网</a></li>
+</ul>
+<a class="more" href="javascript:void(0);">更多<i></i></a>
+</div>
+</div>
+<div class="mt10 clearfix">
+<div class="area680 mr10">
+<div class="area-box area-caipiao-info">
+<div class="area-bar">
+<span class="area-bar-caption"></span>
+<span id="today_draw" class="area-bar-content" monkey="caipiao_index_kaijiang"></span>
+</div>
+<div class="area-content">
+<div monkey="caipiao_index_kaijianggonggao">
+<div class="red-skin-tabs js-tabs">
+<ul class="ui-tabs-nav clearfix">
+<li><a href="#panel_remen">热门彩种</a></li>
+<li><a href="#panel_shuzi">全国数字彩</a></li>
+<li><a href="#panel_jingji">竞技体彩</a></li>
+<li><a href="#panel_gaopin">高频彩票</a></li>
+</ul>
+<div monkey="remen" class="ui-tabs-panel" id="panel_remen"></div>
+<div monkey="shuzi" class="ui-tabs-panel" style="display: none;" id="panel_shuzi"></div>
+<div monkey="jingji" class="ui-tabs-panel" style="display: none;" id="panel_jingji"></div>
+<div monkey="gaopin" class="ui-tabs-panel" style="display: none;" id="panel_gaopin"></div>
+<div id="panal_container" style="display: none;"></div>
+<div id="panel_var" style="display: none;">
+<input type="hidden" value="0" id="open_index"/>
+<table id="js-shuangseqiu" style="display: none;">
+<tr class="bat-now" data-kind="shuangseqiu" style="display: none;"><td style="width: 100px; height: 72px;">
+<div class="title-cell">
+<p>快速购彩</p>
+<p><span>双色球</span></p>
+<p><span class="js-phase">201404021</span><span>期</span></p>
+</div>
+</td><td style="width:403px;">
+<p class="hint"><span>每注<em class="num">2元</em>&nbsp;最高奖金<em class="num">1000万</em></span></p>
+<ul class="bat-ball js-bat-ball">
+<li class=""><input type="text" maxlength='2' class="multiple" data-color="red" data-kind="shuangseqiu"/></li>
+<li class=""><input type="text" maxlength='2' class="multiple" data-color="red" data-kind="shuangseqiu"/></li>
+<li class=""><input type="text" maxlength='2' class="multiple" data-color="red" data-kind="shuangseqiu"/></li>
+<li class=""><input type="text" maxlength='2' class="multiple" data-color="red" data-kind="shuangseqiu"/></li>
+<li class=""><input type="text" maxlength='2' class="multiple" data-color="red" data-kind="shuangseqiu"/></li>
+<li class=""><input type="text" maxlength='2' class="multiple" data-color="red" data-kind="shuangseqiu"/></li>
+<li class="blue-ball"><input type="text" maxlength='2' class="multiple" data-color="blue" data-kind="shuangseqiu"/></li>
+</ul>
+</td>
+<td style="width:175px;">
+<div class="btn-cell">
+<p>
+<a href="http://hao123.lecai.com/lottery/ssq/" class="text-color" style="margin-left:0;">自主选号</a>
+<a href="http://hao123.lecai.com/lottery/ssq/#type=choose|play=lucky" class="text-color">幸运选号</a>
+<a href="http://hao123.lecai.com/lottery/ssq/#type=combo" class="text-color">购买套餐</a>
+</p>
+<div>
+<a href="#" class="btn-bat js-bet" data-kind="shuangseqiu">立即投注</a>
+<a href="javascript:void(0);" class="change js-change" data-kind="shuangseqiu">换一注</a>
+</div>
+</div>
+</td></tr>
+</table>
+<table id="js-daletou">
+<tr class="bat-now" data-kind="daletou" style="display: none;"><td style="width: 100px; height: 72px">
+<div class="title-cell">
+<p>快速购彩</p>
+<p><span>大乐透</span></p>
+<p><span class="js-phase">201404021</span><span>期</span></p>
+</div>
+</td><td style="width:403px;">
+<p class="hint"><span>每注<em class="num">2元</em>&nbsp;最高奖金<em class="num">1600万</em></span></p>
+<ul class="bat-ball js-bat-ball-daletou">
+<li class=""><input type="text" maxlength='2' class="multiple" data-kind="daletou" data-color="red"/></li>
+<li class=""><input type="text" maxlength='2' class="multiple" data-kind="daletou" data-color="red"/></li>
+<li class=""><input type="text" maxlength='2' class="multiple" data-kind="daletou" data-color="red"/></li>
+<li class=""><input type="text" maxlength='2' class="multiple" data-kind="daletou" data-color="red"/></li>
+<li class=""><input type="text" maxlength='2' class="multiple" data-kind="daletou" data-color="red"/></li>
+<li class="blue-ball"><input type="text" maxlength='2' class="multiple" data-kind="daletou" data-color="blue"/></li>
+<li class="blue-ball"><input type="text" maxlength='2' class="multiple" data-kind="daletou" data-color="blue"/></li>
+</ul>
+</td>
+<td style="width:175px;">
+<div class="btn-cell">
+<p>
+<a href="http://hao123.lecai.com/lottery/dlt/" class="text-color" style="margin-left:0;">自主选号</a>
+<a href="http://hao123.lecai.com/lottery/dlt/#type=choose|play=lucky" class="text-color">幸运选号</a>
+<a href="http://hao123.lecai.com/lottery/dlt/#type=combo" class="text-color">购买套餐</a>
+</p>
+<div>
+<a href="#" class="btn-bat js-bet" data-kind="daletou">立即投注</a>
+<a href="javascript:void(0);" class="change js-change" data-kind="daletou">换一注</a>
+</div>
+</div>
+</td></tr>
+</table>
+<table id="js-f3d">
+<tr class="bat-now" data-kind="f3d" style="display: none;"><td style="width: 100px; height: 72px">
+<div class="title-cell">
+<p>快速购彩</p>
+<p><span>福彩3D</span></p>
+<p><span class="js-phase">201404021</span><span>期</span></p>
+</div>
+</td><td style="width:403px;">
+<p class="hint"><span>每注<em class="num">2元</em>&nbsp;单注奖金<em class="num">1000元</em>(直选)</span></p>
+<ul class="bat-ball js-bat-ball-3d">
+<li class=""><input type="text" maxlength='2' class="multiple" data-kind="f3d" data-color="red"/></li>
+<li class=""><input type="text" maxlength='2' class="multiple" data-kind="f3d" data-color="red"/></li>
+<li class=""><input type="text" maxlength='2' class="multiple" data-kind="f3d" data-color="red"/></li>
+</ul>
+</td>
+<td style="width:175px;">
+<div class="btn-cell">
+<p>
+<a href="http://hao123.lecai.com/lottery/fc3d/" class="text-color" style="margin-left:0;">自主选号</a>
+<a href="http://hao123.lecai.com/lottery/fc3d/#play=zs_standard" class="text-color">投注组三</a>
+<a href="http://hao123.lecai.com/lottery/fc3d/#play=zl_standard" class="text-color">投注组六</a>
+</p>
+<div>
+<a href="#" class="btn-bat js-bet" data-kind="f3d">立即投注</a>
+<a href="javascript:void(0);" class="change js-change" data-kind="f3d">换一注</a>
+</div>
+</div>
+</td></tr>
+</table>
+<table id="js-qile">
+<tr class="bat-now" data-kind="qile" style="display: none;"><td style="width: 100px; height: 72px">
+<div class="title-cell">
+<p>快速购彩</p>
+<p><span>七乐彩</span></p>
+<p><span class="js-phase">201404021</span><span>期</span></p>
+</div>
+</td><td style="width:403px;">
+<p class="hint"><span>每注<em class="num">2</em>元&nbsp;最高奖金<em class="num">1000万</em></span></p>
+<ul class="bat-ball js-bat-ball-qile">
+<li class=""><input type="text" maxlength='2' class="multiple" data-kind="qile" data-color="red"/></li>
+<li class=""><input type="text" maxlength='2' class="multiple" data-kind="qile" data-color="red"/></li>
+<li class=""><input type="text" maxlength='2' class="multiple" data-kind="qile" data-color="red"/></li>
+<li class=""><input type="text" maxlength='2' class="multiple" data-kind="qile" data-color="red"/></li>
+<li class=""><input type="text" maxlength='2' class="multiple" data-kind="qile" data-color="red"/></li>
+<li class=""><input type="text" maxlength='2' class="multiple" data-kind="qile" data-color="red"/></li>
+<li class=""><input type="text" maxlength='2' class="multiple" data-kind="qile" data-color="red"/></li>
+</ul>
+</td>
+<td style="width:175px;">
+<div class="btn-cell">
+<p>
+<a href="" class="text-color">幸运选号</a>
+<a href="" class="text-color">自主选号</a>
+</p>
+<div>
+<a href="#" class="btn-bat js-bet" data-kind="qile">立即投注</a>
+<a href="javascript:void(0);" class="change js-change" data-kind="qile">换一注</a>
+</div>
+</div>
+</td></tr>
+</table>
+<table id="js-qixing">
+<tr class="bat-now" data-kind="qixing" style="display: none;"><td style="width: 100px; height: 72px">
+<div class="title-cell">
+<p>快速购彩</p>
+<p><span>七星彩</span></p>
+<p><span class="js-phase">201404021</span><span>期</span></p>
+</div>
+</td><td style="width:403px;">
+<p class="hint"><span>每注<em class="num">2</em>元&nbsp;最高奖金<em class="num">1000万</em></span></p>
+<ul class="bat-ball js-bat-ball-qixing">
+<li class=""><input type="text" maxlength='2' class="multiple" data-kind="qixing" data-color="red"/></li>
+<li class=""><input type="text" maxlength='2' class="multiple" data-kind="qixing" data-color="red"/></li>
+<li class=""><input type="text" maxlength='2' class="multiple" data-kind="qixing" data-color="red"/></li>
+<li class=""><input type="text" maxlength='2' class="multiple" data-kind="qixing" data-color="red"/></li>
+<li class=""><input type="text" maxlength='2' class="multiple" data-kind="qixing" data-color="red"/></li>
+<li class=""><input type="text" maxlength='2' class="multiple" data-kind="qixing" data-color="red"/></li>
+<li class=""><input type="text" maxlength='2' class="multiple" data-kind="qixing" data-color="red"/></li>
+</ul>
+</td>
+<td style="width:175px;">
+<div class="btn-cell">
+<p>
+<a href="" class="text-color">幸运选号</a>
+<a href="" class="text-color">自主选号</a>
+</p>
+<div>
+<a href="#" class="btn-bat js-bet" data-kind="qixing">立即投注</a>
+<a href="javascript:void(0);" class="change js-change" data-kind="qixing">换一注</a>
+</div>
+</div>
+</td></tr>
+</table>
+<table id="js-old11">
+<tr class="bat-now" data-kind="old11" style="display: none;"><td style="width: 100px; height: 72px">
+<div class="title-cell">
+<p>快速购彩</p>
+<p><span>老11选5</span></p>
+<p><span class="js-phase">201404021</span><span>期</span></p>
+</div>
+</td><td style="width:403px;">
+<p class="hint"><span>每注<em class="num">2</em>元&nbsp;最高奖金<em class="num">1000万</em></span></p>
+<ul class="bat-ball js-bat-ball-old">
+<li class=""><input type="text" maxlength='2' class="multiple" data-kind="old11" data-color="red"/></li>
+<li class=""><input type="text" maxlength='2' class="multiple" data-kind="old11" data-color="red"/></li>
+<li class=""><input type="text" maxlength='2' class="multiple" data-kind="old11" data-color="red"/></li>
+<li class=""><input type="text" maxlength='2' class="multiple" data-kind="old11" data-color="red"/></li>
+<li class=""><input type="text" maxlength='2' class="multiple" data-kind="old11" data-color="red"/></li>
+</ul>
+</td>
+<td style="width:175px;">
+<div class="btn-cell">
+<p>
+<a href="" class="text-color">幸运选号</a>
+<a href="" class="text-color">自主选号</a>
+</p>
+<div>
+<a href="#" class="btn-bat js-bet" data-kind="old11">立即投注</a>
+<a href="javascript:void(0);" class="change js-change" data-kind="old11">换一注</a>
+</div>
+</div>
+</td></tr>
+</table>
+<table id="js-shishi">
+<tr class="bat-now" data-kind="shishi" style="display: none;"><td style="width: 100px; height: 72px">
+<div class="title-cell">
+<p>快速购彩</p>
+<p><span>新时时彩</span></p>
+<p><span class="js-phase">201404021</span><span>期</span></p>
+</div>
+</td><td style="width:403px;">
+<p class="hint"><span>每注<em class="num">2</em>元&nbsp;最高奖金<em class="num">1000万</em></span></p>
+<ul class="bat-ball js-bat-ball-new">
+<li class=""><input type="text" maxlength='2' class="multiple" data-kind="shishi" data-color="red"/></li>
+<li class=""><input type="text" maxlength='2' class="multiple" data-kind="shishi" data-color="red"/></li>
+<li class=""><input type="text" maxlength='2' class="multiple" data-kind="shishi" data-color="red"/></li>
+</ul>
+</td>
+<td style="width:175px;">
+<div class="btn-cell">
+<p>
+<a href="" class="text-color">幸运选号</a>
+<a href="" class="text-color">自主选号</a>
+</p>
+<div>
+<a href="#" class="btn-bat js-bet" data-kind="shishi">立即投注</a>
+<a href="javascript:void(0);" class="change js-change" data-kind="shishi">换一注</a>
+</div>
+</div>
+</td></tr>
+</table>
+</div>
+</div>
+<table class="more text-wrapper">
+<tr>
+<td>
+<ul class="ul-text-slider">
+<li><a class="cRed" href="http://hao123.lecai.com/page/static/2015/3/252780.shtml">网络彩票停售通知</a></li>
+<li><a class="cRed" href="http://hao123.lecai.com/mobile/">手机看彩票！大奖就在身边</a></li>
+</ul>
+</td>
+<td>
+&nbsp;|&nbsp;<a href="http://hao123.lecai.com/lottery/draw/">更多开奖信息</a>
+</td>
+</tr>
+</table>
+</div>
+<table id="caipiao_serarch" class="caipiao-search" monkey="caipiao_index_chaxun">
+<tr>
+<td>
+<label>更多开奖查询：</label>
+<select class="ddl-area">
+<option value="">选择地区</option>
+</select>
+<select class="ddl-category">
+<option value="">选择彩种</option>
+</select>
+<select class="ddl-phase">
+<option value="">选择期号</option>
+</select>
+<a class="btn-query white-button" href="javascript:void(0);"><span
+                                            class="button-inner">查询</span></a>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="area270">
+<div monkey="caipiao_index_dengluzhuce" id="area_users_info" class="area-users-info">
+<div class="clearfix">
+<a class="btn-login" href="http://hao123.lecai.com/user/login/" target="_self">用户登录</a>
+<a class="btn-register" href="http://hao123.lecai.com/user/register/">免费注册</a>
+</div>
+<div class="hao123-login">
+<span><i class="ileft"></i><a href="http://hao123.lecai.com/user/baidu/login?referer=http%3A%2F%2Fcaipiao.hao123.com">用百度hao123账号登录</a><i class="iright"></i></span>
+</div>
+</div>
+</div>
+<div class="area270">
+<div id="ads_focus" class="area-box js-tabs" monkey="caipiao_index_lunbo">
+<ul class="ui-tabs-nav">
+<li><a href="#panel_ad_0">1</a></li>
+<li><a href="#panel_ad_1">2</a></li>
+<li><a href="#panel_ad_2">3</a></li>
+<li><a href="#panel_ad_3">4</a></li>
+<li><a href="#panel_ad_4">5</a></li>
+<li><a href="#panel_ad_5">6</a></li>
+<li><a href="#panel_ad_6">7</a></li>
+</ul>
+<div id="panel_ad_0" class="ui-tabs-panel">
+<h3>3.6亿派奖风暴再度袭来</h3>
+<a href="http://hao123.lecai.com/page/static/2015/6/279185.shtml"><img width="268" height="198" alt="" src="http://img1.hao123.com/fetch_xk/752cb23fad73e580452981f031d73543"></a>
+</div>
+<div id="panel_ad_1" class="ui-tabs-panel">
+<h3>NBA总决赛即将打响</h3>
+<a href="http://hao123.lecai.com/page/static/2015/6/279089.shtml"><img width="268" height="198" alt="" src="http://img0.hao123.com/fetch_xk/e087ff2ccabe086a223a4efaae30ed40"></a>
+</div>
+<div id="panel_ad_2" class="ui-tabs-panel">
+<h3>免费猜号 疯抢4999</h3>
+<a href="http://bbs.hao123.lecai.com/thread-225744-1-1.html"><img width="268" height="198" alt="" src="http://img0.hao123.com/fetch_xk/231aa559b7a8241c3ebd063a7f25d3c2"></a>
+</div>
+<div id="panel_ad_3" class="ui-tabs-panel">
+<h3>女儿独吞620万大奖遭母亲起诉</h3>
+<a href="http://hao123.lecai.com/page/static/2015/6/279145.shtml"><img width="268" height="198" alt="" src="http://img3.hao123.com/fetch_xk/7019436f09eb83db04c289e2c5ad5670"></a>
+</div>
+<div id="panel_ad_4" class="ui-tabs-panel">
+<h3>西甲联赛赛季总结</h3>
+<a href="http://hao123.lecai.com/page/static/2015/6/279078.shtml"><img width="268" height="198" alt="" src="http://img6.hao123.com/fetch_xk/2516ea6d61a8f8403872230a3e36cfd5"></a>
+</div>
+<div id="panel_ad_5" class="ui-tabs-panel">
+<h3>小彩种 大窍门</h3>
+<a href="http://hao123.lecai.com/page/static/2015/5/277066.shtml"><img width="268" height="198" alt="" src="http://img4.hao123.com/fetch_xk/b49d26d378348799fc87bb48869790ec"></a>
+</div>
+<div id="panel_ad_6" class="ui-tabs-panel">
+<h3>NBA总决赛数据提醒</h3>
+<a href="http://redirect.lecai.com/page/static/2015/6/279077.shtml"><img width="268" height="198" alt="" src="http://img0.hao123.com/fetch_xk/aa3bd12aa6ff22244140fd861df3694f"></a>
+</div>
+<a href="#" class="btn-prev"></a><a href="#" class="btn-next"></a>
+</div>
+</div>
+<div class="area270 mt10">
+<div monkey="caipiao_index_caipiaoyaowen" class="area-xinwen area-box gray-skin-tabs js-tabs">
+<ul class="ui-tabs-nav">
+<li><a href="#panel_xinwen">彩票要闻</a></li>
+<li class="last"><a href="#panel_paihang">福彩新闻</a></li>
+</ul>
+<div id="panel_xinwen">
+<ul class="area-link-list">
+<li>
+<a title="[公告]关于hao123彩票暂停销售的通知" href="http://hao123.lecai.com/page/static/2015/4/263724.shtml">[公告]关于hao123彩票暂停销售的通知</a>
+</li>
+<li>
+<a title="[幸运]小伙第一次买大乐透就中1902万" href="http://hao123.lecai.com/page/static/2015/6/279149.shtml">[幸运]小伙第一次买大乐透就中1902万</a>
+</li>
+<li>
+<a title="[淡定]3318万元得主中奖1个月才现身" href="http://hao123.lecai.com/page/static/2015/6/279151.shtml">[淡定]3318万元得主中奖1个月才现身</a>
+</li>
+<li>
+<a title="[坚持]彩民买彩20年期期不落中726万" href="http://hao123.lecai.com/page/static/2015/6/279155.shtml">[坚持]彩民买彩20年期期不落中726万</a>
+</li>
+<li>
+<a title="[火了]男子仅8元中七星彩1628万大奖" href="http://hao123.lecai.com/page/static/2015/6/279153.shtml">[火了]男子仅8元中七星彩1628万大奖</a>
+</li>
+<li>
+<a title="[开奖]双色球15063期：一等7注 707万" href="http://hao123.lecai.com/page/static/2015/6/279103.shtml">[开奖]双色球15063期：一等7注 707万</a>
+</li>
+<li>
+<a title="[推荐]双色球15063期：蓝球看大奇码" href="http://hao123.lecai.com/page/static/2015/6/279106.shtml">[推荐]双色球15063期：蓝球看大奇码</a>
+</li>
+<li>
+<a title="[推荐]大乐透15063期：三大两小形态" href="http://hao123.lecai.com/page/static/2015/6/279079.shtml">[推荐]大乐透15063期：三大两小形态</a>
+</li>
+<li>
+<a style="color:#C00" title="[活动]竞猜双色球奖号 赢4999元彩金"
+                                       href="http://bbs.hao123.lecai.com/thread-225744-1-1.html">[活动]竞猜双色球奖号 赢4999元彩金</a>
+</li>
+</ul>
+</div>
+<div style="display: none" id="panel_paihang">
+<ul class="area-link-list">
+<li>
+<a title="鱼象征财运？&#32;男子梦见抓鱼中双色球四等奖" href="http://www.zhcw.com/xinwen/caimingushi/ssq/4167991.shtml">男子梦见抓鱼中双色球四等奖</a>
+</li>
+<li>
+<a title="中奖彩票被“冷落”47天&#32;打扫卫生后重见天日&#32;" href="http://www.zhcw.com/xinwen/caimingushi/ssq/4167984.shtml">重见天日&#32;&#32;中奖彩票被“冷落”47天</a>
+</li>
+<li>
+<a title="广西功勋彩站立功勋&#32;售出762万巨奖喜洋洋" href="http://www.zhcw.com/xinwen/caizhongxinwen-ssq/4167967.shtml">广西功勋彩站售出762万巨奖</a>
+</li>
+<li>
+<a title="新手初上路3D来相助&#32;得万元奖尝彩票“甜头”" href="http://www.zhcw.com/xinwen/caimingushi/3d/4167726.shtml">新手初得万元奖尝彩票“甜头”</a>
+</li>
+<li>
+<a title="技术型彩民各出“奇招”&#32;揽3D万元奖不费余力" href="http://www.zhcw.com/xinwen/caimingushi/3d/4167677.shtml">技术型彩民揽3D万元奖不费余力</a>
+</li>
+<li>
+<a title="机选也有春天&#32;新彩站中出“东方6+1”506万" href="http://www.zhcw.com/xinwen/caizhongxinwen-qt/4167511.shtml">新彩站中出“东方6+1”506万</a>
+</li>
+<li>
+<a title="母女中七乐彩334万大奖：不中兴奋&#32;中了平静" href="http://www.zhcw.com/xinwen/caimingushi/qlc/4167501.shtml">母女俩无心插柳中七乐彩334万</a>
+</li>
+<li class="video-links">
+<a href="http://www.zhcw.com/video/kaijiangshipin/index.shtml#ssq">双色球开奖视频</a>
+<a href="http://www.zhcw.com/video/kaijiangshipin/index.shtml#3D">3D视频</a>
+<a href="http://www.zhcw.com/video/kaijiangshipin/index.shtml#qlc">七乐彩视频</a>
+</li>
+<li>
+<a title="中国福利彩票17大亿元巨奖排行榜"
+                               href="http://www.zhcw.com/xinwen/caizhongxinwen-ssq/2677281.shtml">中国福利彩票17大亿元巨奖排行榜</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="mt10 clearfix">
+<div class="area680 mr10">
+<div class="area-box area-caipiao-info" id="panel_sport">
+<table width="100%">
+<tr class="today-match today-match-first">
+<td style="height: 62px;">
+<div class="wrapper">
+<a class="caipiao-name" href="http://hao123.lecai.com/lottery/jczq/">足球彩票</a>
+<div style="margin-left: 20px; line-height: 1.2;">有<span class="match-total">0</span>场可投注</div>
+</div>
+</td>
+<td colspan="2">
+<div class="match-container">今日暂无比赛</div>
+<a style="display: none; color: #3F3F3F; margin-right:10px;" class="white-button" href="http://hao123.lecai.com/lottery/jczq/">
+<span class="button-inner">投注竞彩</span>
+</a>
+<a class="btn-today-zucai-match white-button" style="display: none; color: #3F3F3F;" href="http://hao123.lecai.com/lottery/zqdc/">
+<span class="button-inner">单场足彩</span>
+</a>
+</td>
+</tr>
+<tr class="today-match">
+<td style="height: 62px; width:108px;">
+<div class="wrapper">
+<a class="caipiao-name" href="http://hao123.lecai.com/lottery/jclq/">篮球彩票</a>
+<div style="margin-left: 20px; line-height: 1.2;">有<span class="match-total">0</span>场可投注</div>
+</div>
+</td>
+<td colspan="2">
+<div class="match-container">今日暂无比赛</div>
+<a style="display: none; color: #3F3F3F; margin-right:10px;" class="white-button" href="http://hao123.lecai.com/lottery/jclq/">
+<span class="button-inner">投注篮彩</span>
+</a>
+<a style="display: none; color: #3F3F3F;" class="white-button" href="http://hao123.lecai.com/lottery/jclq/rfsf/">
+<span class="button-inner">让分胜负</span>
+</a>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="area270">
+<a href="http://hao123.lecai.com/page/zhuanti/nzzt_201502/index.shtml" title="夏季转会ing">
+<img src="http://s0.hao123img.com/res/r/image/2015-02-11/e4c3fbc0d35f29173246976dd8700bf8.jpg" width="270" height="125" alt="夏季转会ing"/>
+</a>
+</div>
+</div>
+<div class="lottery-quick mt10" monkey="lottery-quick" id="lottery-quick">
+<div class="section-head">
+<h3>单场足球购彩区</h3>
+<div class="lottery-link">
+<div class="ui-text-circle">
+<ul>
+<li>
+<a href="http://hao123.lecai.com/lottery/jczq/hhgg/dt?agentId=5525" target="_blank" title="点击成就大奖 单场猜对就赢钱">点击成就大奖 单场猜对就赢钱</a>
+</li>
+</ul>
+</div>
+<div class="lottery-link-right">
+<a href="http://hao123.lecai.com/lottery/jczq/bf?agentId=5525" target="_blank" title="猜比分赢大奖">猜比分赢大奖</a>
+<a href="http://hao123.lecai.com/lottery/jczq/hhgg/dt?agentId=5525" target="_blank" title="更多比赛">更多比赛</a>
+<a href="http://hao123.lecai.com/user/mylottery/" target="_blank" title="中奖记录">中奖记录</a>
+</div>
+</div>
+</div><div class="quick-main clearfix">
+<div class="lottery-team">
+<div class="lottery-team-nav" id="lottery-team-nav">
+<ul class="clearfix lottery-ul-now">
+<li class="lottery-nav-now">
+<p>巴西甲&nbsp;06-04 09:00</p>
+奥瓦<span>VS</span>米竞技
+<i></i>
+</li>
+<li >
+<p>巴西甲&nbsp;06-04 09:00</p>
+克鲁塞<span>VS</span>弗拉门
+<i></i>
+</li>
+<li >
+<p>巴西甲&nbsp;06-04 09:00</p>
+格雷米<span>VS</span>科林蒂
+<i></i>
+</li>
+</ul>
+<ul class="clearfix">
+<li class="lottery-nav-now">
+<p>挪杯&nbsp;06-05 00:00</p>
+特达伦<span>VS</span>博林特
+<i></i>
+</li>
+<li >
+<p>世青20&nbsp;06-04 15:00</p>
+匈牙利<span>VS</span>巴西
+<i></i>
+</li>
+<li >
+<p>世青20&nbsp;06-04 15:00</p>
+德国U20<span>VS</span>乌兹别克斯坦U20
+<i></i>
+</li>
+</ul>
+<ul class="clearfix">
+<li class="lottery-nav-now">
+<p>世青20&nbsp;06-04 12:00</p>
+尼日利<span>VS</span>朝鲜
+<i></i>
+</li>
+<li >
+<p>友谊赛&nbsp;06-03 17:00</p>
+布里斯班<span>VS</span>比利亚
+<i></i>
+</li>
+<li >
+<p>日职联&nbsp;06-03 18:00</p>
+大阪<span>VS</span>鹿岛
+<i></i>
+</li>
+</ul>
+<ul class="clearfix">
+<li class="lottery-nav-now">
+<p>日职联&nbsp;06-03 18:00</p>
+太阳神<span>VS</span>浦和
+<i></i>
+</li>
+<li >
+<p>日联杯&nbsp;06-03 18:00</p>
+松本<span>VS</span>天鹅
+<i></i>
+</li>
+<li >
+<p>日联杯&nbsp;06-03 18:00</p>
+广岛<span>VS</span>甲府
+<i></i>
+</li>
+</ul>
+<ul class="clearfix">
+<li class="lottery-nav-now">
+<p>日联杯&nbsp;06-03 18:00</p>
+湘南<span>VS</span>FC东京
+<i></i>
+</li>
+<li >
+<p>日联杯&nbsp;06-03 18:00</p>
+川崎<span>VS</span>仙台维加
+<i></i>
+</li>
+<li >
+<p>日联杯&nbsp;06-03 18:00</p>
+山形<span>VS</span>水手
+<i></i>
+</li>
+</ul>
+<ul class="clearfix">
+<li class="lottery-nav-now">
+<p>日联杯&nbsp;06-03 18:00</p>
+名古屋鲸<span>VS</span>神户
+<i></i>
+</li>
+<li >
+<p>俄超&nbsp;06-03 23:30</p>
+托斯诺<span>VS</span>罗斯托
+<i></i>
+</li>
+<li >
+<p>挪杯&nbsp;06-04 00:00</p>
+禾特<span>VS</span>奥勒松
+<i></i>
+</li>
+</ul>
+<ul class="clearfix">
+<li class="lottery-nav-now">
+<p>挪杯&nbsp;06-04 00:00</p>
+史托曼<span>VS</span>利勒斯特
+<i></i>
+</li>
+<li >
+<p>俄超&nbsp;06-03 21:00</p>
+托木斯<span>VS</span>乌拉尔
+<i></i>
+</li>
+<li >
+<p>瑞典超&nbsp;06-04 01:00</p>
+索尔纳<span>VS</span>法肯柏
+<i></i>
+</li>
+</ul>
+<ul class="clearfix">
+<li class="lottery-nav-now">
+<p>瑞典超&nbsp;06-04 01:00</p>
+哈尔姆斯<span>VS</span>松兹瓦
+<i></i>
+</li>
+<li >
+<p>瑞典超&nbsp;06-04 01:00</p>
+奥特维达<span>VS</span>赫根
+<i></i>
+</li>
+<li >
+<p>瑞典超&nbsp;06-04 01:00</p>
+厄勒布<span>VS</span>辛堡
+<i></i>
+</li>
+</ul>
+<ul class="clearfix">
+<li class="lottery-nav-now">
+<p>挪杯&nbsp;06-04 01:00</p>
+乐范格<span>VS</span>罗森博
+<i></i>
+</li>
+<li >
+<p>瑞典超&nbsp;06-04 01:05</p>
+耶夫勒<span>VS</span>马尔默
+<i></i>
+</li>
+<li >
+<p>巴西甲&nbsp;06-04 06:30</p>
+巴拉竞<span>VS</span>费古埃伦
+<i></i>
+</li>
+</ul>
+<ul class="clearfix">
+<li class="lottery-nav-now">
+<p>巴西甲&nbsp;06-04 06:30</p>
+沙佩科恩<span>VS</span>积安维
+<i></i>
+</li>
+<li >
+<p>巴西甲&nbsp;06-04 06:30</p>
+达伽马<span>VS</span>庞特普
+<i></i>
+</li>
+<li >
+<p>美职联&nbsp;06-04 07:00</p>
+费城联<span>VS</span>哥伦布
+<i></i>
+</li>
+</ul>
+<ul class="clearfix">
+<li class="lottery-nav-now">
+<p>美职联&nbsp;06-04 07:00</p>
+华盛顿<span>VS</span>芝加火焰
+<i></i>
+</li>
+<li >
+<p>巴西甲&nbsp;06-04 08:00</p>
+圣保罗<span>VS</span>桑托斯
+<i></i>
+</li>
+<li >
+<p>美职联&nbsp;06-04 08:00</p>
+蒙特利尔<span>VS</span>温哥白帽
+<i></i>
+</li>
+</ul>
+<ul class="clearfix">
+<li class="lottery-nav-now">
+<p>瑞典超&nbsp;06-05 01:00</p>
+佐加顿<span>VS</span>北雪平
+<i></i>
+</li>
+<li >
+<p>瑞典超&nbsp;06-05 01:00</p>
+卡尔马<span>VS</span>哈马比
+<i></i>
+</li>
+<li >
+<p>挪杯&nbsp;06-05 01:00</p>
+布莱尼<span>VS</span>布兰
+<i></i>
+</li>
+</ul>
+<ul class="clearfix">
+<li class="lottery-nav-now">
+<p>瑞典超&nbsp;06-05 01:05</p>
+哥德堡<span>VS</span>埃夫斯堡
+<i></i>
+</li>
+<li >
+<p>巴西甲&nbsp;06-05 03:00</p>
+弗鲁米<span>VS</span>科里蒂
+<i></i>
+</li>
+<li >
+<p>巴西甲&nbsp;06-05 08:00</p>
+利斯菲<span>VS</span>戈伊亚
+<i></i>
+</li>
+</ul>
+<ul class="clearfix">
+<li class="lottery-nav-now">
+<p>巴西甲&nbsp;06-05 08:00</p>
+帕尔梅拉<span>VS</span>巴国际
+<i></i>
+</li>
+<li >
+<p>欧冠联&nbsp;06-07 02:45</p>
+尤文图斯<span>VS</span>巴萨
+<i></i>
+</li>
+</ul>
+</div>
+<div class="clearfix lottery-div lottery-div-now">
+<div class="lottery-team-main lottery-team-now">
+<ul class="clearfix">
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301031?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">奥瓦胜</span>：<span class="resule-num">3.55</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>22%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301031?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">3.25</span></a>
+<p><i></i>支持率：<span>37%</span></p>
+</li>
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301031?spf[]=0&amp;agentId=5514"><span class="resule-text">米竞技胜</span>：<span class="resule-num">1.87</span></a>
+<p><i></i>支持率：<span>41%</span></p>
+</li>
+</ul>
+</div>
+<div class="lottery-team-main ">
+<ul class="clearfix">
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301032?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">克鲁塞胜</span>：<span class="resule-num">1.65</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>47%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301032?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">3.4</span></a>
+<p><i></i>支持率：<span>36%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301032?spf[]=0&amp;agentId=5514"><span class="resule-text">弗拉门胜</span>：<span class="resule-num">4.5</span></a>
+<p><i></i>支持率：<span>17%</span></p>
+</li>
+</ul>
+</div>
+<div class="lottery-team-main ">
+<ul class="clearfix">
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301033?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">格雷米胜</span>：<span class="resule-num">1.9</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>45%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301033?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">2.95</span></a>
+<p><i></i>支持率：<span>34%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301033?spf[]=0&amp;agentId=5514"><span class="resule-text">科林蒂胜</span>：<span class="resule-num">3.9</span></a>
+<p><i></i>支持率：<span>22%</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="clearfix lottery-div ">
+<div class="lottery-team-main lottery-team-now">
+<ul class="clearfix">
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060401005?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">特达伦胜</span>：<span class="resule-num">4.1</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>16%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060401005?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">4</span></a>
+<p><i></i>支持率：<span>41%</span></p>
+</li>
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060401005?spf[]=0&amp;agentId=5514"><span class="resule-text">博林特胜</span>：<span class="resule-num">1.59</span></a>
+<p><i></i>支持率：<span>42%</span></p>
+</li>
+</ul>
+</div>
+<div class="lottery-team-main ">
+<ul class="clearfix">
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060401004?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">匈牙利胜</span>：<span class="resule-num">8.5</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>8%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060401004?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">5.2</span></a>
+<p><i></i>支持率：<span>35%</span></p>
+</li>
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060401004?spf[]=0&amp;agentId=5514"><span class="resule-text">巴西胜</span>：<span class="resule-num">1.23</span></a>
+<p><i></i>支持率：<span>57%</span></p>
+</li>
+</ul>
+</div>
+<div class="lottery-team-main ">
+<ul class="clearfix">
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060401003?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">德国U20胜</span>：<span class="resule-num">1.2</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>59%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060401003?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">5.4</span></a>
+<p><i></i>支持率：<span>34%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060401003?spf[]=0&amp;agentId=5514"><span class="resule-text">乌兹别克斯坦U20胜</span>：<span class="resule-num">9.5</span></a>
+<p><i></i>支持率：<span>7%</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="clearfix lottery-div ">
+<div class="lottery-team-main lottery-team-now">
+<ul class="clearfix">
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060401001?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">尼日利胜</span>：<span class="resule-num">1.25</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>57%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060401001?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">4.95</span></a>
+<p><i></i>支持率：<span>34%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060401001?spf[]=0&amp;agentId=5514"><span class="resule-text">朝鲜胜</span>：<span class="resule-num">8.2</span></a>
+<p><i></i>支持率：<span>9%</span></p>
+</li>
+</ul>
+</div>
+<div class="lottery-team-main ">
+<ul class="clearfix">
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301005?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">布里斯班胜</span>：<span class="resule-num">6.5</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>11%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301005?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">4.7</span></a>
+<p><i></i>支持率：<span>38%</span></p>
+</li>
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301005?spf[]=0&amp;agentId=5514"><span class="resule-text">比利亚胜</span>：<span class="resule-num">1.32</span></a>
+<p><i></i>支持率：<span>52%</span></p>
+</li>
+</ul>
+</div>
+<div class="lottery-team-main ">
+<ul class="clearfix">
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301006?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">大阪胜</span>：<span class="resule-num">2.01</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>33%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301006?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">3.7</span></a>
+<p><i></i>支持率：<span>43%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301006?spf[]=0&amp;agentId=5514"><span class="resule-text">鹿岛胜</span>：<span class="resule-num">2.8</span></a>
+<p><i></i>支持率：<span>24%</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="clearfix lottery-div ">
+<div class="lottery-team-main lottery-team-now">
+<ul class="clearfix">
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301007?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">太阳神胜</span>：<span class="resule-num">3.15</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>22%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301007?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">3.6</span></a>
+<p><i></i>支持率：<span>42%</span></p>
+</li>
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301007?spf[]=0&amp;agentId=5514"><span class="resule-text">浦和胜</span>：<span class="resule-num">1.9</span></a>
+<p><i></i>支持率：<span>36%</span></p>
+</li>
+</ul>
+</div>
+<div class="lottery-team-main ">
+<ul class="clearfix">
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301008?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">松本胜</span>：<span class="resule-num">3.45</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>21%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301008?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">3.5</span></a>
+<p><i></i>支持率：<span>40%</span></p>
+</li>
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301008?spf[]=0&amp;agentId=5514"><span class="resule-text">天鹅胜</span>：<span class="resule-num">1.83</span></a>
+<p><i></i>支持率：<span>39%</span></p>
+</li>
+</ul>
+</div>
+<div class="lottery-team-main ">
+<ul class="clearfix">
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301009?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">广岛胜</span>：<span class="resule-num">1.47</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>52%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301009?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">3.8</span></a>
+<p><i></i>支持率：<span>35%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301009?spf[]=0&amp;agentId=5514"><span class="resule-text">甲府胜</span>：<span class="resule-num">5.6</span></a>
+<p><i></i>支持率：<span>14%</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="clearfix lottery-div ">
+<div class="lottery-team-main lottery-team-now">
+<ul class="clearfix">
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301010?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">湘南胜</span>：<span class="resule-num">2.45</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>30%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301010?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">3.25</span></a>
+<p><i></i>支持率：<span>40%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301010?spf[]=0&amp;agentId=5514"><span class="resule-text">FC东京胜</span>：<span class="resule-num">2.45</span></a>
+<p><i></i>支持率：<span>30%</span></p>
+</li>
+</ul>
+</div>
+<div class="lottery-team-main ">
+<ul class="clearfix">
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301011?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">川崎胜</span>：<span class="resule-num">1.36</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>51%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301011?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">4.5</span></a>
+<p><i></i>支持率：<span>38%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301011?spf[]=0&amp;agentId=5514"><span class="resule-text">仙台维加胜</span>：<span class="resule-num">6</span></a>
+<p><i></i>支持率：<span>11%</span></p>
+</li>
+</ul>
+</div>
+<div class="lottery-team-main ">
+<ul class="clearfix">
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301012?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">山形胜</span>：<span class="resule-num">2.78</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>27%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301012?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">3.25</span></a>
+<p><i></i>支持率：<span>39%</span></p>
+</li>
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301012?spf[]=0&amp;agentId=5514"><span class="resule-text">水手胜</span>：<span class="resule-num">2.2</span></a>
+<p><i></i>支持率：<span>34%</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="clearfix lottery-div ">
+<div class="lottery-team-main lottery-team-now">
+<ul class="clearfix">
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301013?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">名古屋鲸胜</span>：<span class="resule-num">2.35</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>30%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301013?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">3.45</span></a>
+<p><i></i>支持率：<span>42%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301013?spf[]=0&amp;agentId=5514"><span class="resule-text">神户胜</span>：<span class="resule-num">2.45</span></a>
+<p><i></i>支持率：<span>28%</span></p>
+</li>
+</ul>
+</div>
+<div class="lottery-team-main ">
+<ul class="clearfix">
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301014?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">托斯诺胜</span>：<span class="resule-num">3.9</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>21%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301014?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">3.1</span></a>
+<p><i></i>支持率：<span>35%</span></p>
+</li>
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301014?spf[]=0&amp;agentId=5514"><span class="resule-text">罗斯托胜</span>：<span class="resule-num">1.84</span></a>
+<p><i></i>支持率：<span>44%</span></p>
+</li>
+</ul>
+</div>
+<div class="lottery-team-main ">
+<ul class="clearfix">
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301015?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">禾特胜</span>：<span class="resule-num">2.85</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>24%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301015?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">3.55</span></a>
+<p><i></i>支持率：<span>42%</span></p>
+</li>
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301015?spf[]=0&amp;agentId=5514"><span class="resule-text">奥勒松胜</span>：<span class="resule-num">2.05</span></a>
+<p><i></i>支持率：<span>34%</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="clearfix lottery-div ">
+<div class="lottery-team-main lottery-team-now">
+<ul class="clearfix">
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301016?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">史托曼胜</span>：<span class="resule-num">3.8</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>18%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301016?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">3.75</span></a>
+<p><i></i>支持率：<span>41%</span></p>
+</li>
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301016?spf[]=0&amp;agentId=5514"><span class="resule-text">利勒斯特胜</span>：<span class="resule-num">1.69</span></a>
+<p><i></i>支持率：<span>41%</span></p>
+</li>
+</ul>
+</div>
+<div class="lottery-team-main ">
+<ul class="clearfix">
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301017?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">托木斯胜</span>：<span class="resule-num">2.9</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>27%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301017?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">3.05</span></a>
+<p><i></i>支持率：<span>37%</span></p>
+</li>
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301017?spf[]=0&amp;agentId=5514"><span class="resule-text">乌拉尔胜</span>：<span class="resule-num">2.22</span></a>
+<p><i></i>支持率：<span>35%</span></p>
+</li>
+</ul>
+</div>
+<div class="lottery-team-main ">
+<ul class="clearfix">
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301018?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">索尔纳胜</span>：<span class="resule-num">1.23</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>59%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301018?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">5.1</span></a>
+<p><i></i>支持率：<span>33%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301018?spf[]=0&amp;agentId=5514"><span class="resule-text">法肯柏胜</span>：<span class="resule-num">9</span></a>
+<p><i></i>支持率：<span>8%</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="clearfix lottery-div ">
+<div class="lottery-team-main lottery-team-now">
+<ul class="clearfix">
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301019?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">哈尔姆斯胜</span>：<span class="resule-num">2.23</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>33%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301019?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">3.3</span></a>
+<p><i></i>支持率：<span>40%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301019?spf[]=0&amp;agentId=5514"><span class="resule-text">松兹瓦胜</span>：<span class="resule-num">2.7</span></a>
+<p><i></i>支持率：<span>27%</span></p>
+</li>
+</ul>
+</div>
+<div class="lottery-team-main ">
+<ul class="clearfix">
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301020?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">奥特维达胜</span>：<span class="resule-num">3.55</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>21%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301020?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">3.45</span></a>
+<p><i></i>支持率：<span>39%</span></p>
+</li>
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301020?spf[]=0&amp;agentId=5514"><span class="resule-text">赫根胜</span>：<span class="resule-num">1.82</span></a>
+<p><i></i>支持率：<span>40%</span></p>
+</li>
+</ul>
+</div>
+<div class="lottery-team-main ">
+<ul class="clearfix">
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301021?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">厄勒布胜</span>：<span class="resule-num">1.87</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>39%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301021?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">3.4</span></a>
+<p><i></i>支持率：<span>39%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301021?spf[]=0&amp;agentId=5514"><span class="resule-text">辛堡胜</span>：<span class="resule-num">3.4</span></a>
+<p><i></i>支持率：<span>22%</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="clearfix lottery-div ">
+<div class="lottery-team-main lottery-team-now">
+<ul class="clearfix">
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301022?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">乐范格胜</span>：<span class="resule-num">11</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>6%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301022?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">6.5</span></a>
+<p><i></i>支持率：<span>35%</span></p>
+</li>
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301022?spf[]=0&amp;agentId=5514"><span class="resule-text">罗森博胜</span>：<span class="resule-num">1.14</span></a>
+<p><i></i>支持率：<span>59%</span></p>
+</li>
+</ul>
+</div>
+<div class="lottery-team-main ">
+<ul class="clearfix">
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301023?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">耶夫勒胜</span>：<span class="resule-num">5.3</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>14%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301023?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">3.9</span></a>
+<p><i></i>支持率：<span>37%</span></p>
+</li>
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301023?spf[]=0&amp;agentId=5514"><span class="resule-text">马尔默胜</span>：<span class="resule-num">1.48</span></a>
+<p><i></i>支持率：<span>50%</span></p>
+</li>
+</ul>
+</div>
+<div class="lottery-team-main ">
+<ul class="clearfix">
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301024?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">巴拉竞胜</span>：<span class="resule-num">1.62</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>50%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301024?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">3.3</span></a>
+<p><i></i>支持率：<span>33%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301024?spf[]=0&amp;agentId=5514"><span class="resule-text">费古埃伦胜</span>：<span class="resule-num">4.95</span></a>
+<p><i></i>支持率：<span>16%</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="clearfix lottery-div ">
+<div class="lottery-team-main lottery-team-now">
+<ul class="clearfix">
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301025?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">沙佩科恩胜</span>：<span class="resule-num">1.65</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>49%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301025?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">3.25</span></a>
+<p><i></i>支持率：<span>34%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301025?spf[]=0&amp;agentId=5514"><span class="resule-text">积安维胜</span>：<span class="resule-num">4.75</span></a>
+<p><i></i>支持率：<span>17%</span></p>
+</li>
+</ul>
+</div>
+<div class="lottery-team-main ">
+<ul class="clearfix">
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301026?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">达伽马胜</span>：<span class="resule-num">2.02</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>40%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301026?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">3.05</span></a>
+<p><i></i>支持率：<span>36%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301026?spf[]=0&amp;agentId=5514"><span class="resule-text">庞特普胜</span>：<span class="resule-num">3.35</span></a>
+<p><i></i>支持率：<span>24%</span></p>
+</li>
+</ul>
+</div>
+<div class="lottery-team-main ">
+<ul class="clearfix">
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301027?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">费城联胜</span>：<span class="resule-num">2.3</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>32%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301027?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">3.25</span></a>
+<p><i></i>支持率：<span>40%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301027?spf[]=0&amp;agentId=5514"><span class="resule-text">哥伦布胜</span>：<span class="resule-num">2.63</span></a>
+<p><i></i>支持率：<span>28%</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="clearfix lottery-div ">
+<div class="lottery-team-main lottery-team-now">
+<ul class="clearfix">
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301028?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">华盛顿胜</span>：<span class="resule-num">2.04</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>36%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301028?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">3.3</span></a>
+<p><i></i>支持率：<span>39%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301028?spf[]=0&amp;agentId=5514"><span class="resule-text">芝加火焰胜</span>：<span class="resule-num">3.05</span></a>
+<p><i></i>支持率：<span>24%</span></p>
+</li>
+</ul>
+</div>
+<div class="lottery-team-main ">
+<ul class="clearfix">
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301029?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">圣保罗胜</span>：<span class="resule-num">1.98</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>40%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301029?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">3.1</span></a>
+<p><i></i>支持率：<span>37%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301029?spf[]=0&amp;agentId=5514"><span class="resule-text">桑托斯胜</span>：<span class="resule-num">3.4</span></a>
+<p><i></i>支持率：<span>23%</span></p>
+</li>
+</ul>
+</div>
+<div class="lottery-team-main ">
+<ul class="clearfix">
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301030?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">蒙特利尔胜</span>：<span class="resule-num">2.3</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>33%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301030?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">3.2</span></a>
+<p><i></i>支持率：<span>39%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060301030?spf[]=0&amp;agentId=5514"><span class="resule-text">温哥白帽胜</span>：<span class="resule-num">2.67</span></a>
+<p><i></i>支持率：<span>28%</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="clearfix lottery-div ">
+<div class="lottery-team-main lottery-team-now">
+<ul class="clearfix">
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060401006?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">佐加顿胜</span>：<span class="resule-num">1.68</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>43%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060401006?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">3.65</span></a>
+<p><i></i>支持率：<span>39%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060401006?spf[]=0&amp;agentId=5514"><span class="resule-text">北雪平胜</span>：<span class="resule-num">3.95</span></a>
+<p><i></i>支持率：<span>18%</span></p>
+</li>
+</ul>
+</div>
+<div class="lottery-team-main ">
+<ul class="clearfix">
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060401007?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">卡尔马胜</span>：<span class="resule-num">2.01</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>37%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060401007?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">3.3</span></a>
+<p><i></i>支持率：<span>39%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060401007?spf[]=0&amp;agentId=5514"><span class="resule-text">哈马比胜</span>：<span class="resule-num">3.1</span></a>
+<p><i></i>支持率：<span>24%</span></p>
+</li>
+</ul>
+</div>
+<div class="lottery-team-main ">
+<ul class="clearfix">
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060401008?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">布莱尼胜</span>：<span class="resule-num">2.55</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>27%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060401008?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">3.55</span></a>
+<p><i></i>支持率：<span>43%</span></p>
+</li>
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060401008?spf[]=0&amp;agentId=5514"><span class="resule-text">布兰胜</span>：<span class="resule-num">2.23</span></a>
+<p><i></i>支持率：<span>31%</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="clearfix lottery-div ">
+<div class="lottery-team-main lottery-team-now">
+<ul class="clearfix">
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060401009?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">哥德堡胜</span>：<span class="resule-num">1.83</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>41%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060401009?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">3.35</span></a>
+<p><i></i>支持率：<span>38%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060401009?spf[]=0&amp;agentId=5514"><span class="resule-text">埃夫斯堡胜</span>：<span class="resule-num">3.6</span></a>
+<p><i></i>支持率：<span>21%</span></p>
+</li>
+</ul>
+</div>
+<div class="lottery-team-main ">
+<ul class="clearfix">
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060401010?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">弗鲁米胜</span>：<span class="resule-num">1.64</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>49%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060401010?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">3.35</span></a>
+<p><i></i>支持率：<span>35%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060401010?spf[]=0&amp;agentId=5514"><span class="resule-text">科里蒂胜</span>：<span class="resule-num">4.7</span></a>
+<p><i></i>支持率：<span>17%</span></p>
+</li>
+</ul>
+</div>
+<div class="lottery-team-main ">
+<ul class="clearfix">
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060401011?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">利斯菲胜</span>：<span class="resule-num">1.6</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>50%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060401011?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">3.35</span></a>
+<p><i></i>支持率：<span>34%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060401011?spf[]=0&amp;agentId=5514"><span class="resule-text">戈伊亚胜</span>：<span class="resule-num">5</span></a>
+<p><i></i>支持率：<span>16%</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="clearfix lottery-div ">
+<div class="lottery-team-main lottery-team-now">
+<ul class="clearfix">
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060401012?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">帕尔梅拉胜</span>：<span class="resule-num">1.78</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>45%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060401012?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">3.2</span></a>
+<p><i></i>支持率：<span>36%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060401012?spf[]=0&amp;agentId=5514"><span class="resule-text">巴国际胜</span>：<span class="resule-num">4</span></a>
+<p><i></i>支持率：<span>20%</span></p>
+</li>
+</ul>
+</div>
+<div class="lottery-team-main ">
+<ul class="clearfix">
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060601001?spf[]=3&amp;agentId=5514" style="margin-left:0;"><span class="resule-text">尤文图斯胜</span>：<span class="resule-num">5.35</span></a>
+<p style="margin-left:0;"><i></i>支持率：<span>14%</span></p>
+</li>
+<li >
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060601001?spf[]=1&amp;agentId=5514"><span class="resule-text">平局</span>：<span class="resule-num">3.65</span></a>
+<p><i></i>支持率：<span>35%</span></p>
+</li>
+<li  class="lottery-result">
+<a href="javascript:void(0)" data-href="http://hao123.lecai.com/lottery/jczq/2015060601001?spf[]=0&amp;agentId=5514"><span class="resule-text">巴萨胜</span>：<span class="resule-num">1.51</span></a>
+<p><i></i>支持率：<span>51%</span></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="lottery-plan clearfix"><em></em>
+<div class="lottery-plan-main">
+<p>投注方案：<span id="lottery-team-result">
+米竞技胜</span></p>
+<p>投注倍数：<span>10倍</span></p>
+<p>买：<span class="lottery-result-light">￥20</span></p>
+<p>中：<span id="lottery-win-result" class="lottery-result-light">约￥35.53
+</span><i>（以实际出票为准）</i></p>
+</div>
+<a id="lottery-resule-link" href="http://hao123.lecai.com/lottery/jczq/2015060301031?spf[]=0&agentId=5514" target="_blank">立即投注</a>
+</div>
+<a href="javascript:void(0)" id="quick-prev" class="quick-prev quick-button"></a>
+<a href="javascript:void(0)" id="quick-next" class="quick-next quick-button"></a>
+</div>
+</div></div>
+<div id="toolbox" monkey="caipiao_index_youcehuadong">
+<div class="toolbox-expanded">
+<a class="btn-close" href="javascript:void(0);"></a>
+<div class="user-links">
+<h3><a href="http://help.hao123.lecai.com/xinshou/">hao123网上购彩</a></h3>
+<ul>
+<li><a href="http://hao123.lecai.com/page/static/2013/1/108770.shtml" class="demo">演示</a><a
+                                href="http://hao123.lecai.com/user/login/" target="_self">1.注册登录</a></li>
+<li><a href="http://hao123.lecai.com/page/static/2013/1/108774.shtml" class="demo">演示</a><a
+                                href="http://hao123.lecai.com/user/recharge/">2.账户充值</a></li>
+<li><a href="http://hao123.lecai.com/page/static/2013/1/108775.shtml" class="demo">演示</a><a
+                                href="http://hao123.lecai.com/lottery/">3.购买彩票</a></li>
+<li><a href="http://hao123.lecai.com/page/static/2013/1/108778.shtml" class="demo">演示</a><a
+                                href="http://hao123.lecai.com/user/withdraw/">4.中奖提款</a></li>
+</ul>
+</div>
+<div class="nav-link"><a target="_self" href="#anchor_shuzicai">数字彩专区</a></div>
+<div class="nav-link"><a target="_self" href="#anchor_jingjicai">竞技彩专区</a></div>
+<div class="nav-link"><a target="_self" href="#anchor_gaopincai">高频彩专区</a></div>
+<div class="nav-link"><a target="_self" href="#hd">回顶部</a></div>
+<div class="qr-code">
+<div><a href="http://hao123.lecai.com/mobile/">手机买彩票更方便</a></div>
+<a class="hao123-code" href="http://hao123.lecai.com/mobile/"></a>
+<div><a href="http://hao123.lecai.com/mobile/">第一时间看开奖</a></div>
+</div>
+</div>
+<div class="toolbox-collapsed">在线购彩帮助</div>
+</div>
+<div class="popup-window" id="shuangseqiu_popup">
+<div class="popup-window-titlebar">
+<a href="javascript:void(0);" class="popup-window-close"></a>
+<span class="popup-window-title">双色球网友投注比例</span>
+</div>
+<div class="popup-window-content">
+<table>
+<tr>
+<td valign="top">
+<table style="border-right: 1px solid #CCC" class="small-balls">
+<tr>
+<th><em class="cRed">红球</em></th>
+<th><em>投注比例</em></th>
+<th><em><span class="label-omit">遗漏</span></em></th>
+</tr>
+</table>
+</td>
+<td valign="top">
+<table class="small-balls">
+<tr>
+<th><em class="cBlue">蓝球</em></th>
+<th><em>投注比例</em></th>
+<th><em><span class="label-omit">遗漏</span></em></th>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="popup-window" id="daletou_popup">
+<div class="popup-window-titlebar">
+<a href="javascript:void(0);" class="popup-window-close"></a>
+<span class="popup-window-title">大乐透网友投注比例</span>
+</div>
+<div class="popup-window-content">
+<table>
+<tr>
+<td valign="top">
+<table style="border-right: 1px solid #CCC" class="small-balls">
+<tr>
+<th><em class="cRed">前区</em></th>
+<th><em>投注比例</em></th>
+<th><em><span class="label-omit">遗漏</span></em></th>
+</tr>
+</table>
+</td>
+<td valign="top">
+<table class="small-balls">
+<tr>
+<th><em class="cBlue">后区</em></th>
+<th><em>投注比例</em></th>
+<th><em><span class="label-omit">遗漏</span></em></th>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div id="data_lottery_shuangseqiu"
+         data-orig-src="http://hao123.lecai.com/api/hao123/get_current.php?lottery=shuangseqiu"
+         src="http://resproxy.hao123.com/29cc4ae0bdc667b0464b5b1c71350bc2.html"></div>
+<div id="data_lottery_daletou" type="text/data-source"
+         data-orig-src="http://hao123.lecai.com/api/hao123/get_current.php?lottery=daletou"
+         src="http://resproxy.hao123.com/cf0115917c13391bc2b9e471307d1c05.html"></div>
+<div id="data_fucai3d" type="text/data-source"
+         data-orig-src="http://hao123.lecai.com/api/hao123/get_current.php?lottery=fucai3d"
+         src="http://resproxy.hao123.com/0c5ec5d05dd03ef7b2dc31353956ed25.html"></div>
+
+</div>
+<div id="ft">
+
+<p class="ft_link"><a target="_blank" href="http://www.hao123.com/abouthao123.htm">关于本站</a><b>|</b>
+<a target="_blank" href="http://weibo.com/hao123gf">官方微博</a><b>|</b><a
+                target="_blank" class="mobile" href="http://www.hao123.com/shouji/">手机版</a><b>|</b>
+<a target="_blank" style="color: red" href="http://feedback.hao123.com/?catalog_id=21">挑错有礼</a>
+</p>
+<p class="copyright"><span class="intro">hao123.com 上网导航第一品牌</span>
+<a href="http://www.miibeian.gov.cn/" target="_blank" class="beian">京ICP证030173号</a></p>
+<div style="zoom: 1;padding-top: 10px;text-align: left;clear:both;">提醒：购买彩票有风险，在线投注需谨慎，不向未满18周岁的青少年出售彩票！</div>
+<div class="footer-banner-wrapper" monkey="caipiao_index_dibutanchukuang">
+<div class="footer-banner">
+<div class="bannerbox clearfix">
+<div class="bannerbox-l">
+<div class="banner-logo sprite-bg">
+<span class="title">喊你网上买彩票</span><span class="event"><strong>优惠活动：</strong><a href="http://hao123.lecai.com/page/zhuanti/newcomer_201409/" target="_blank">充值40送158</a><a href="http://hao123.lecai.com/page/static/2014/10/216741.shtml" target="_blank">双色球5亿派奖</a></span>
+</div>
+<div class="liucheng">
+<span class="title sprite-bg"><a href="http://help.hao123.lecai.com/xinshou/?agentId=5503">购彩流程</a></span><span class="item1 sprite-bg"><i>1</i><a href="http://hao123.lecai.com/user/login/?agentId=5503">注册/登录</a></span><span class="item2 sprite-bg"><i>2</i><a href="http://hao123.lecai.com/user/recharge/?agentId=5503">账户充值</a></span><span class="item3 sprite-bg"><i>3</i><a href="http://hao123.lecai.com/lottery/?agentId=5503">购买彩票</a></span><span class="item4 sprite-bg"><i>4</i><a href="http://hao123.lecai.com/user/withdraw/?agentId=5503">中奖提款</a></span>
+</div>
+<div class="sloganbox">
+<div class="tags">
+<span class="tag">免费</span><span class="tag">安全</span><span class="tag">专业</span><span class="tag">便捷</span><span class="tag">足不出户赢大奖</span><span class="tag">永无弃奖有保障</span>
+</div>
+<div>
+<span><a href="http://help.lecai.com/xinshou/?agentId=5503">新手帮助</a><i class="help sprite-bg">&nbsp;</i></span>
+<span><a href="http://help.hao123.lecai.com/video.shtml?agentId=5503">视频演示</a><i class="video sprite-bg">&nbsp;</i></span>
+</div>
+</div>
+</div>
+<div class="bannerbox-r">
+<a href="http://hao123.lecai.com/mobile/" class="qrcode sprite-bg"></a>
+<div class="btn-wrp">
+<a href="http://hao123.lecai.com/mobile/" class="title sprite-bg">手机购彩大奖就在身边<span class="sprite-bg">!</span></a>
+<div class="btns"><a href="https://itunes.apple.com/cn/app/hao123cai-piao/id625113321?l=en&mt=8" class="sprite-bg"><span class="iphone sprite-bg">iPhone版下载</span></a><a href="http://static.lehecai.com/client/android/www/lecai_adr_4.3.0_05261_5084_hao123caipiao.apk" class="sprite-bg"><span class="android sprite-bg">安卓版下载</span></a></div>
+</div>
+</div>
+</div>
+</div>
+<a href="javascript:void(0)" class="close sprite-bg"></a>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+<script id="data_lottery_all" type="text/javascript"
+            data-orig-src="http://hao123.lecai.com/api/hao123/new_lottery_all_2nd.php"
+            src="http://resproxy.hao123.com/e6bffe7d07e519059faa9de32cc1975e.html"></script>
+<script id="data_lottery_jingcaizuqiu" type="text/javascript"
+            data-orig-src="http://hao123.lecai.com/api/hao123/get_sports_matches.php?lottery=jingcaizuqiu_spf&num=8"
+            src="http://resproxy.hao123.com/535e2e38dc3da739244e1a2b82955f13.html"></script>
+<script id="data_lottery_jingcailanqiu" type="text/javascript"
+            data-orig-src="http://hao123.lecai.com/api/hao123/get_current_jingcai.php?lottery=jingcailanqiu_sf&num=16"
+            src="http://resproxy.hao123.com/93835dd6af3a88902d16a0c976f07652.html"></script>
+<script type="text/javascript"
+            data-orig-src="http://hao123.lecai.com/api/hao123/get_sports_matches.php?lottery=jingcaizuqiu_hhgg&num=15"
+            src="http://resproxy.hao123.com/cdb483cbd5d0789731143a9fd5993b32.html"></script>
+<script type="text/javascript"
+            data-orig-src="http://hao123.lecai.com/api/hao123/get_sports_matches.php?lottery=jingcailanqiu_rfsf&num=10"
+            src="http://resproxy.hao123.com/e9b5c0310432ccc1e69547fe8aac5c42.html"></script>
+<script type="text/javascript"
+            data-orig-src="http://hao123.lecai.com/api/hao123/get_sports_matches.php?lottery=dc_spf&num=10"
+            src="http://resproxy.hao123.com/a5699b224c0aac104fce07cb4ea8b6c1.html"></script>
+<script type="text/x-template" id="panel_remen_template">
+    <table>
+        <tr>
+            <%
+            var key = 50,
+            caipiao = data[key],
+            color = caipiao.color,
+            date = new Date(caipiao.open * 1000),
+            detail = caipiao.detail;
+            %>
+            <td style="width: 100px; height: 68px">
+                <a class="caipiao-name"
+                   href="http://hao123.lecai.com/lottery/draw/view/<%=key%>/"><%=caipiao.name%></a>
+                <span class="caipiao-category category-fucai"><%=caipiao.official_sort%></span>
+            </td>
+
+            <td style="width:403px;">
+                <div>
+                    <span class="phase-num">第<em class="js-phase"><%=caipiao.phase%></em>期</span>
+                    <span class="open-day">日期：<%=CaipiaoUtils.strLeftPad(date.getMonth() + 1, 2, '0')%>-<%=CaipiaoUtils.strLeftPad(date.getDate(), 2, '0')%></span>
+                    <span>
+                        <em>奖号：</em>
+                        <a class="small-balls" href="http://hao123.lecai.com/lottery/draw/view/<%=key%>/">
+                            <%
+                            (function() {
+                            var len = detail.length;
+                            for(var i = 0; i < len; i++) {
+                            %><span class="<%=color[i] === 1 ? 'red-ball': 'blue-ball'%>"><%=detail[i]%></span><%
+                            }
+                            }());
+                            %>
+                        </a>
+                    </span>
+                </div>
+                <div style="position:relative;">
+                    <span>奖池金额：<em class="cRed"><%=CaipiaoUtils.formatMoney(caipiao.bonus)%></em>元</span>
+                    &nbsp;<span>开奖详情：一等奖<em class="cRed"><%=caipiao.bet%></em>注
+                        <em class="cRed"><%=CaipiaoUtils.formatMoney(caipiao.prize)%></em>元</span>
+                    &nbsp;[<a href="http:\/\/hao123.lecai.com\/page\/static\/2015\/3\/252780.shtml" style="color:#CC0000;">网络彩票停售通知</a>]
+                    <i class="red-arrow">&nbsp;</i>
+                </div>
+            </td>
+
+            <td style="width:175px; ">
+                <div><%=caipiao.fn%></div>
+                <div class="caipiao-links">
+                    <a href="<%=caipiao.trend%>">走势图</a>
+                    <a href="<%=caipiao.rule%>">规则</a>
+                    <a href="<%=caipiao.news_url%>">预测</a>
+                    <a class="link-buy" href="<%=caipiao.buy_url%>">购买</a>
+                </div>
+            </td>
+        </tr>
+
+        <tr>
+            <%
+            var key = 1,
+            caipiao = data[key],
+            color = caipiao.color,
+            date = new Date(caipiao.open * 1000),
+            detail = caipiao.detail;
+            %>
+            <td style="height: 68px">
+                <a class="caipiao-name" href="http://hao123.lecai.com/lottery/draw/view/<%=key%>/" style="position:relative;"><%=caipiao.name%>
+                <% if(key == 1) { %>
+                <a class="bonus" style="*position:absolute;*left:71px;" title="加奖" target="_blank" href="http://hao123.lecai.com/page/static/2014/4/188417.shtml">加奖</a>
+                </a>
+                <%}%>
+                <span class="caipiao-category category-ticai"><%=caipiao.official_sort%></span>
+            </td>
+
+            <td>
+                <div>
+                    <span class="phase-num">第<em class="js-phase"><%=caipiao.phase%></em>期</span>
+                    <span class="open-day">日期：<%=CaipiaoUtils.strLeftPad(date.getMonth() + 1, 2, '0')%>-<%=CaipiaoUtils.strLeftPad(date.getDate(), 2, '0')%></span>
+                    <span>
+                        <em>奖号：</em>
+                        <a class="small-balls" href="http://hao123.lecai.com/lottery/draw/view/<%=key%>/">
+                            <%
+                            (function() {
+                            var len = detail.length;
+                            for(var i = 0; i < len; i++) {
+                            %><span class="<%=color[i] === 1 ? 'red-ball': 'blue-ball'%>"><%=detail[i]%></span><%
+                            }
+                            }());
+                            %>
+                        </a>
+                    </span>
+                </div>
+                <div style="position:relative;">
+                    <span>奖池金额：<em class="cRed"><%=CaipiaoUtils.formatMoney(caipiao.bonus)%></em>元</span>
+                    &nbsp;<span>开奖详情：一等奖<em class="cRed"><%=caipiao.bet%></em>注
+                        <em class="cRed"><%=CaipiaoUtils.formatMoney(caipiao.prize)%></em>元</span>
+                    &nbsp;[<a href="http:\/\/map.baidu.com\/m?word=%E5%BD%A9%E7%A5%A8&fr=ps01000" style="color:#CC0000;">查询附近彩票站</a>]
+                    <i class="red-arrow">&nbsp;</i>
+                </div>
+            </td>
+
+            <td>
+                <div><%=caipiao.fn%></div>
+                <div class="caipiao-links">
+                    <a href="<%=caipiao.trend%>">走势图</a>
+                    <a href="<%=caipiao.rule%>">规则</a>
+                    <a href="<%=caipiao.news_url%>">预测</a>
+                    <a class="link-buy" href="<%=caipiao.buy_url%>">购买</a>
+                </div>
+            </td>
+        </tr>
+
+        <tr>
+            <%
+            var key = 52,
+            caipiao = data[key],
+            color = caipiao.color,
+            date = new Date(caipiao.open * 1000),
+            detail = caipiao.detail,
+            test_detail = caipiao['test'].detail;
+            %>
+            <td style="height: 68px">
+                <a class="caipiao-name"
+                   href="http://hao123.lecai.com/lottery/draw/view/<%=key%>/"><%=caipiao.name%></a>
+                <span class="caipiao-category category-fucai"><%=caipiao.official_sort%></span>
+            </td>
+
+            <td>
+                <div>
+                    <span class="phase-num">第<em class="js-phase"><%=caipiao.phase%></em>期</span>
+                    <span class="open-day">日期：<%=CaipiaoUtils.strLeftPad(date.getMonth() + 1, 2, '0')%>-<%=CaipiaoUtils.strLeftPad(date.getDate(), 2, '0')%></span>
+                    <span>
+                        <em>奖号：</em>
+                        <a class="small-balls" href="http://hao123.lecai.com/lottery/draw/view/<%=key%>/">
+                            <%
+                            (function() {
+                            var len = detail.length;
+                            for(var i = 0; i < len; i++) {
+                            %><span class="<%=color[i] === 1 ? 'red-ball': 'blue-ball'%>"><%=detail[i]%></span><%
+                            }
+                            }());
+                            %>
+                        </a>
+                    </span>
+                    <span>试机号：<%=test_detail[0]%> <%=test_detail[1]%> <%=test_detail[2]%></span>
+                </div>
+                <div style="position:relative;">
+                    <span>猜对3个号即中奖，头奖每注固定1000元</span>
+                    &nbsp;[<a href="http:\/\/hao123.lecai.com\/page\/zhuanti\/phoneNumber_201503\/"
+                                          style="color:#CC0000;">开售短信提醒</a>]&nbsp;<!--[<a
+                            href="http://hao123.lecai.com/page/zhuanti/kuaicai_201312/"
+                            style="color:#CC0000;">快彩接力派奖</a>]-->
+                    <i class="red-arrow">&nbsp;</i>
+                </div>
+            </td>
+
+            <td>
+                <div><%=caipiao.fn%></div>
+                <div class="caipiao-links">
+                    <a href="<%=caipiao.trend%>">走势图</a>
+                    <a href="<%=caipiao.rule%>">规则</a>
+                    <a href="<%=caipiao.news_url%>">预测</a>
+                    <a class="link-buy" href="<%=caipiao.buy_url%>">购买</a>
+                </div>
+            </td>
+        </tr>
+        <%
+        var config = [
+        {key: 51, height: 57},
+        {key: 2, height: 57},
+        /*{key: 200, height: 51},*/
+        {key: 20, height: 57},
+        {key: 202, height: 57}
+        ],
+        len = config.length;
+
+        for (var i = 0; i < len; i++) {
+        %>
+        <tr style="line-height: 20px;">
+            <%
+            var key = config[i].key,
+            caipiao = data[key],
+            color = caipiao.color,
+            date = new Date(caipiao.open * 1000),
+            detail = caipiao.detail,
+            test_detail = caipiao['test'] && caipiao['test'].detail;
+            %>
+            <td style="height: <%=config[i].height%>px">
+                <a class="caipiao-name" href="http://hao123.lecai.com/lottery/draw/view/<%=key%>/"><%=caipiao.name%></a>
+                <% if(key == 10086) { %>
+                <a class="bonus" title="加奖" target="_blank" href="http://hao123.lecai.com/page/static/2013/12/164988.shtml">加奖</a>
+                <%}%>
+                <div style="margin-left: 20px;"><%=caipiao.official_sort%></div>
+            </td>
+            <td>
+                <div>
+                    <span class="phase-num"<%=config[i].key===200||config[i].key===20||config[i].key===202?'style="width:110px"':''%>>第<em class="js-phase"><%=caipiao.phase%></em>期</span>
+                    <span class="open-day">日期：<%=CaipiaoUtils.strLeftPad(date.getMonth() + 1, 2, '0')%>-<%=CaipiaoUtils.strLeftPad(date.getDate(), 2, '0')%></span>
+                            <span>
+                                奖号：
+                                <a class="small-balls" href="http://hao123.lecai.com/lottery/draw/view/<%=key%>/">
+                                    <%
+                                    (function() {
+                                    var len = detail.length;
+                                    for(var i = 0; i < len; i++) {
+                                    %><span class="<%=color[i] === 1 ? 'red-ball': 'blue-ball'%>"><%=detail[i]%></span><%
+                                    }
+                                    }());
+                                    %>
+                                </a>
+                            </span>
+                    <%if(test_detail) { %>
+                    <span>试机号：<%=test_detail[0]%> <%=test_detail[1]%> <%=test_detail[2]%></span>
+                    <%}%>
+                </div>
+            </td>
+            <td>
+                <div><%=caipiao.fn%></div>
+                <div class="caipiao-links">
+                    <a href="<%=caipiao.trend%>">走势图</a>
+                    <a href="<%=caipiao.rule%>">规则</a>
+                    <a href="<%=caipiao.news_url%>">预测</a>
+                    <a class="link-buy" href="<%=caipiao.buy_url%>">购买</a>
+                </div>
+            </td>
+        </tr>
+        <%
+        }
+        %>
+    </table>
+</script>
+<script type="text/x-template" id="panel_shuzi_template">
+    <table>
+        <tr>
+            <%
+            var key = 50,
+            caipiao = data[key],
+            color = caipiao.color,
+            date = new Date(caipiao.open * 1000),
+            detail = caipiao.detail;
+            %>
+            <td style="width: 116px; height: 70px">
+                <a class="caipiao-name" href="http://hao123.lecai.com/lottery/draw/view/<%=key%>/"><%=caipiao.name%></a>
+                <span><%=caipiao.official_sort%></span>
+            </td>
+
+            <td style="width:402px;">
+                <div>
+                    <span class="phase-num">第<em><%=caipiao.phase%></em>期</span>
+                    <span class="open-day">日期：<%=CaipiaoUtils.strLeftPad(date.getMonth() + 1, 2, '0')%>-<%=CaipiaoUtils.strLeftPad(date.getDate(), 2, '0')%></span>
+                    <span>
+                        奖号：
+                        <a class="small-balls" href="http://hao123.lecai.com/lottery/draw/view/<%=key%>/">
+                            <%
+                            (function() {
+                            var len = detail.length;
+                            for(var i = 0; i < len; i++) {
+                            %><span class="<%=color[i] === 1 ? 'red-ball': 'blue-ball'%>"><%=detail[i]%></span><%
+                            }
+                            }());
+                            %>
+                        </a>
+                    </span>
+                </div>
+                <div>
+                    <span>奖池金额：<em class="cRed"><%=CaipiaoUtils.formatMoney(caipiao.bonus)%></em>元</span>
+                    &nbsp;<span>开奖详情：一等奖<em class="cRed"><%=caipiao.bet%></em>注
+                        <em class="cRed"><%=CaipiaoUtils.formatMoney(caipiao.prize)%></em>元</span>
+                </div>
+            </td>
+
+            <td style="width:160px; ">
+                <div><%=caipiao.fn%></div>
+                <div class="caipiao-links">
+                    <a href="<%=caipiao.trend%>">走势图</a>
+                    <a href="<%=caipiao.rule%>">规则</a>
+                    <a href="<%=caipiao.news_url%>">预测</a>
+                    <a class="link-buy" href="<%=caipiao.buy_url%>">购买</a>
+                </div>
+            </td>
+        </tr>
+
+        <tr>
+            <%
+            var key = 1,
+            caipiao = data[key],
+            color = caipiao.color,
+            date = new Date(caipiao.open * 1000),
+            detail = caipiao.detail;
+            %>
+            <td style="height: 70px">
+                <a class="caipiao-name" href="http://hao123.lecai.com/lottery/draw/view/<%=key%>/"><%=caipiao.name%></a>
+                <span><%=caipiao.official_sort%></span>
+            </td>
+            <td>
+                <div>
+                    <span class="phase-num">第<em><%=caipiao.phase%></em>期</span>
+                    <span class="open-day">日期：<%=CaipiaoUtils.strLeftPad(date.getMonth() + 1, 2, '0')%>-<%=CaipiaoUtils.strLeftPad(date.getDate(), 2, '0')%></span>
+                    <span>
+                        奖号：
+                        <a class="small-balls" href="http://hao123.lecai.com/lottery/draw/view/<%=key%>/">
+                            <%
+                            (function() {
+                            var len = detail.length;
+                            for(var i = 0; i < len; i++) {
+                            %><span class="<%=color[i] === 1 ? 'red-ball': 'blue-ball'%>"><%=detail[i]%></span><%
+                            }
+                            }());
+                            %>
+                        </a>
+                    </span>
+                </div>
+                <div>
+                    <span>奖池金额：<em class="cRed"><%=CaipiaoUtils.formatMoney(caipiao.bonus)%></em>元</span>
+                    &nbsp;<span>开奖详情：一等奖<em class="cRed"><%=caipiao.bet%></em>注
+                        <em class="cRed"><%=CaipiaoUtils.formatMoney(caipiao.prize)%></em>元</span>
+                </div>
+            </td>
+            <td>
+                <div><%=caipiao.fn%></div>
+                <div class="caipiao-links">
+                    <a href="<%=caipiao.trend%>">走势图</a>
+                    <a href="<%=caipiao.rule%>">规则</a>
+                    <a href="<%=caipiao.news_url%>">预测</a>
+                    <a class="link-buy" href="<%=caipiao.buy_url%>">购买</a>
+                </div>
+            </td>
+        </tr>
+
+        <%
+        var config = [
+        {key: 52, height: 51},
+        {key: 51, height: 51},
+        {key: 2, height: 51},
+        {key: 3, height: 51},
+        {key: 4, height: 51},
+        {key: 55, height: 51},
+        {key: 54, height: 51}
+        ],
+        len = config.length;
+
+        for (var i = 0; i < len; i++) {
+        %>
+        <tr style="line-height: 20px;">
+            <%
+            var key = config[i].key,
+            caipiao = data[key],
+            color = caipiao.color,
+            date = new Date(caipiao.open * 1000),
+            detail = caipiao.detail,
+            test_detail = caipiao['test'] && caipiao['test'].detail;
+            %>
+            <td style="height: <%=config[i].height%>px">
+                <a class="caipiao-name" href="http://hao123.lecai.com/lottery/draw/view/<%=key%>/"><%=caipiao.name%></a>
+                <span><%=caipiao.official_sort%></span>
+            </td>
+            <td>
+                <div>
+                    <span class="phase-num">第<em><%=caipiao.phase%></em>期</span>
+                    <span class="open-day">日期：<%=CaipiaoUtils.strLeftPad(date.getMonth() + 1, 2, '0')%>-<%=CaipiaoUtils.strLeftPad(date.getDate(), 2, '0')%></span>
+                    <span>
+                        奖号：
+                        <a class="small-balls" href="http://hao123.lecai.com/lottery/draw/view/<%=key%>/">
+                            <%
+                            (function() {
+                            var len = detail.length;
+                            for(var i = 0; i < len; i++) {
+                            %><span class="<%=color[i] === 1 ? 'red-ball': 'blue-ball'%>"><%=detail[i]%></span><%
+                            }
+                            }());
+                            %>
+                        </a>
+                    </span>
+                    <%if(test_detail) { %>
+                    <span>试机号：<%=test_detail[0]%> <%=test_detail[1]%> <%=test_detail[2]%></span>
+                    <%}%>
+                    <% if(key === 10086) { %>
+                    <a style="color:#CC0000;" title="加奖150万 不中也有奖" target="_blank" href="http://hao123.lecai.com/page/static/2013/8/145652.shtml?agentId=5526">加奖150万 不中也有奖</a>
+                    <%}%>
+                </div>
+            </td>
+            <td>
+                <div><%=caipiao.fn%></div>
+                <div class="caipiao-links">
+                    <a href="<%=caipiao.trend%>">走势图</a>
+                    <a href="<%=caipiao.rule%>">规则</a>
+                    <a href="<%=caipiao.news_url%>">预测</a>
+                    <a class="link-buy" href="<%=caipiao.buy_url%>">购买</a>
+                </div>
+            </td>
+        </tr>
+        <%
+        }
+        %>
+    </table>
+</script>
+<script type="text/x-template" id="panel_jingji_template">
+    <table>
+        <%
+        var config = [
+        {key: 7},
+        {key: 8}
+        ],
+        len = config.length;
+
+        for (var i = 0; i < len; i++) {
+        var key = config[i].key,
+        caipiao = data[key],
+        date = new Date(caipiao.open * 1000),
+        detail = caipiao.detail;
+        %>
+        <tr>
+            <td style="width: 116px; height: 80px">
+                <a class="caipiao-name" href="http://hao123.lecai.com/lottery/draw/view/<%=key%>/"><%=caipiao.name%></a>
+            </td>
+            <td style="width:402px;">
+                <div>
+                    <span class="phase-num">第<em><%=caipiao.phase%></em>期</span>
+                    <span class="open-day">开奖日期：<%=CaipiaoUtils.strLeftPad(date.getMonth() + 1, 2, '0')%>-<%=CaipiaoUtils.strLeftPad(date.getDate(), 2, '0')%></span>
+                    <span>兑奖截止日期 <%=caipiao.time_exchange%></span>
+                </div>
+                <div>
+                    <a href="http://hao123.lecai.com/lottery/draw/view/<%=key%>/" class="winning-numbers">
+                        <%
+                        (function() {
+                        var len = detail.length;
+                        for(var i = 0; i < len; i++) {
+                        %><span><%=detail[i]%></span><%
+                        }
+                        }());
+                        %>
+                    </a>
+                </div>
+                <div>
+                    <%if(key === 7) { %>
+                    <span>奖池金额：<em class="cRed"><%=CaipiaoUtils.formatMoney(caipiao.bonus)%></em>元</span>
+                    <%}%>
+                    &nbsp;<span>开奖详情：一等奖<em class="cRed"><%=caipiao.bet%></em>注
+                        <em class="cRed"><%=CaipiaoUtils.formatMoney(caipiao.prize)%></em>元</span>
+                    <%if(key === 7) { %>
+                    &nbsp;<span class=""><a href="http://hao123.lecai.com/live/sfc">比分直播</a></span>
+                    <%}%>
+                </div>
+            </td>
+            <td style="width:160px;">
+                <div class="caipiao-links">
+                    <a href="<%=caipiao.rule%>">规则</a>
+                    <a href="<%=caipiao.news_url%>">预测</a>
+                    <a class="link-buy" href="<%=caipiao.buy_url%>">购买</a>
+                    <a href="<%=caipiao.syndicate_url%>">合买</a>
+                </div>
+            </td>
+        </tr>
+        <%
+        }
+        var config = [
+        {key: 9},
+        {key: 10}
+        ],
+        len = config.length;
+
+        for (var i = 0; i < len; i++) {
+        var key = config[i].key,
+        caipiao = data[key],
+        date = new Date(caipiao.open * 1000),
+        detail = caipiao.detail;
+        %>
+        <tr>
+            <td style="height: 68px;">
+                <a class="caipiao-name" href="http://hao123.lecai.com/lottery/draw/view/<%=key%>/"><%=caipiao.name%></a>
+            </td>
+            <td>
+                <div>
+                    <span class="phase-num">第<em><%=caipiao.phase%></em>期</span>
+                    <span class="open-day">开奖日期：<%=CaipiaoUtils.strLeftPad(date.getMonth() + 1, 2, '0')%>-<%=CaipiaoUtils.strLeftPad(date.getDate(), 2, '0')%></span>
+                    <span>兑奖截止日期 <%=caipiao.time_exchange%></span>
+                </div>
+                <div>
+                    <a href="http://hao123.lecai.com/lottery/draw/view/<%=key%>/" class="winning-numbers">
+                        <%
+                        (function() {
+                        var len = detail.length;
+                        for(var i = 0; i < len; i++) {
+                        %><span><%=detail[i]%></span><%
+                        }
+                        }());
+                        %>
+                    </a>
+                </div>
+            </td>
+            <td>
+                <div class="caipiao-links">
+                    <a href="<%=caipiao.rule%>">规则</a>
+                    <a href="<%=caipiao.news_url%>">预测</a>
+                    <a class="link-buy" href="<%=caipiao.buy_url%>">购买</a>
+                    <a href="<%=caipiao.syndicate_url%>">合买</a>
+                </div>
+            </td>
+        </tr>
+        <%
+        }
+        %>
+        <tr>
+            <% var caipiao = data[80];%>
+            <td style="height: 51px;">
+                <a class="caipiao-name" href="http://hao123.lecai.com/lottery/jczq/">竞彩足球</a>
+            </td>
+            <td>
+                <% var date = new Date; %>
+                <span class="open-day">日期：<%=date.getFullYear()%>-<%=CaipiaoUtils.strLeftPad(date.getMonth() + 1, 2, '0')%>-<%=CaipiaoUtils.strLeftPad(date.getDate(), 2, '0')%></span>
+                <a href="http://hao123.lecai.com/lottery/jczq/spf">胜平负</a>&nbsp;
+                <a href="http://hao123.lecai.com/lottery/jczq/jqs">总进球数</a>&nbsp;
+                <a href="http://hao123.lecai.com/lottery/jczq/bf">比分</a>&nbsp;
+                <a href="http://hao123.lecai.com/lottery/jczq/bqc">半全场</a>&nbsp;
+                <a href="http://hao123.lecai.com/lottery/jczq/hhgg">混合过关</a>&nbsp;
+                <a href="http://hao123.lecai.com/lottery/jczq/hhgg/dt">单挑</a>
+            </td>
+            <td>
+                <div class="caipiao-links">
+                    <a href="<%=caipiao.rule%>">规则</a>
+                    <a href="<%=caipiao.news_url%>">预测</a>
+                    <a class="link-buy" href="<%=caipiao.buy_url%>">购买</a>
+                    <a href="<%=caipiao.syndicate_url%>">合买</a>
+                </div>
+            </td>
+        </tr>
+
+        <tr>
+            <% var caipiao = data[70];%>
+            <td style="height: 51px;">
+                <a class="caipiao-name" href="http://hao123.lecai.com/lottery/jclq/">竞彩篮球</a>
+            </td>
+            <td>
+                <% var date = new Date; %>
+                <span class="open-day">日期：<%=date.getFullYear()%>-<%=CaipiaoUtils.strLeftPad(date.getMonth() + 1, 2, '0')%>-<%=CaipiaoUtils.strLeftPad(date.getDate(), 2, '0')%></span>
+                <a href="http://hao123.lecai.com/lottery/jclq/sf">胜负</a>&nbsp;
+                <a href="http://hao123.lecai.com/lottery/jclq/rfsf">让分胜负</a>&nbsp;
+                <a href="http://hao123.lecai.com/lottery/jclq/sfc">胜分差</a>&nbsp;
+                <a href="http://hao123.lecai.com/lottery/jclq/dxf">大小分</a>&nbsp;
+                <a href="http://hao123.lecai.com/lottery/jclq/hhgg">混合过关</a>
+            </td>
+            <td>
+                <div class="caipiao-links">
+                    <a href="<%=caipiao.rule%>">规则</a>
+                    <a href="<%=caipiao.news_url%>">预测</a>
+                    <a class="link-buy" href="<%=caipiao.buy_url%>">购买</a>
+                    <a href="<%=caipiao.syndicate_url%>">合买</a>
+                </div>
+            </td>
+        </tr>
+
+        <tr>
+            <% var caipiao = data[30];%>
+            <td style="height: 51px;">
+                <a class="caipiao-name" href="http://hao123.lecai.com/lottery/zqdc/">单场足彩</a>
+            </td>
+            <td>
+                <% var date = new Date; %>
+                <span class="open-day">日期：<%=date.getFullYear()%>-<%=CaipiaoUtils.strLeftPad(date.getMonth() + 1, 2, '0')%>-<%=CaipiaoUtils.strLeftPad(date.getDate(), 2, '0')%></span>
+                <a href="http://hao123.lecai.com/lottery/zqdc/">胜平负</a>&nbsp;
+                <a href="http://hao123.lecai.com/lottery/zqdc/sxds">上下单双</a>&nbsp;
+                <a href="http://hao123.lecai.com/lottery/zqdc/jqs">总进球数</a>&nbsp;
+                <a href="http://hao123.lecai.com/lottery/zqdc/bf">全场比分</a>&nbsp;
+                <a href="http://hao123.lecai.com/lottery/zqdc/bqc">半全场</a>
+            </td>
+            <td>
+                <div class="caipiao-links">
+                    <a href="<%=caipiao.rule%>">规则</a>
+                    <a href="<%=caipiao.news_url%>">预测</a>
+                    <a class="link-buy" href="<%=caipiao.buy_url%>">购买</a>
+                    <a href="<%=caipiao.syndicate_url%>">合买</a>
+                </div>
+            </td>
+        </tr>
+
+        <tr class="today-match">
+            <td style="height: 51px;">
+                <a class="caipiao-name" href="http://hao123.lecai.com/lottery/jczq/spf">今日比赛</a>
+
+                <div style="margin-left: 20px; line-height: 1.2;">有<span class="match-total">0</span>场可投注</div>
+            </td>
+            <td colspan="2">
+                <div class="match-container">今日暂无比赛</div>
+                <a class="btn-today-zucai-match white-button" href="http://hao123.lecai.com/lottery/jczq/spf">
+                    <span class="button-inner">马上投注</span></a>
+            </td>
+        </tr>
+    </table>
+</script>
+<script type="text/x-template" id="panel_gaopin_template">
+    <table>
+        <tr>
+            <%
+            var key = 200,
+            caipiao = data[key],
+            color = caipiao.color,
+            date = new Date(caipiao.open * 1000),
+            detail = caipiao.detail;
+            %>
+            <td style="width: 136px; height: 65px">
+                <a class="caipiao-name" href="http://hao123.lecai.com/lottery/draw/view/<%=key%>/"><%=caipiao.name%></a>
+            </td>
+
+            <td style="width:500px;">
+                <div>
+                    <span class="phase-num">第<em><%=caipiao.phase%></em>期</span>
+                    <span class="open-day">日期：<%=CaipiaoUtils.strLeftPad(date.getMonth() + 1, 2, '0')%>-<%=CaipiaoUtils.strLeftPad(date.getDate(), 2, '0')%></span>
+                    <span><%=caipiao.fn%></span>
+                </div>
+                <div>
+                    <span>
+                        奖号：
+                        <a class="small-balls" href="http://hao123.lecai.com/lottery/draw/view/<%=key%>/">
+                            <%
+                            (function() {
+                            var len = detail.length;
+                            for(var i = 0; i < len; i++) {
+                            %><span class="<%=color[i] === 1 ? 'red-ball': 'blue-ball'%>"><%=detail[i]%></span><%
+                            }
+                            }());
+                            %>
+                        </a>
+                    </span>
+                </div>
+            </td>
+
+            <td style="">
+                <div class="caipiao-links">
+                    <a href="<%=caipiao.trend%>">走势图</a>
+                    <a href="<%=caipiao.rule%>">规则</a>
+                    <a class="link-buy" href="<%=caipiao.buy_url%>">购买</a>
+                </div>
+            </td>
+        </tr>
+
+        <%
+        var config = [
+        {key: 202, height: 62},
+        {key: 20, height: 62},
+        {key: 23, height: 62},
+        {key: 22, height: 62},
+        {key: 560, height: 62},
+        {key: 557, height: 62},
+        {key: 544, height: 62}
+        ],
+        len = config.length;
+
+        for (var i = 0; i < len; i++) {
+        var key = config[i].key,
+        caipiao = data[key],
+        color = caipiao.color,
+        date = new Date(caipiao.open * 1000),
+        detail = caipiao.detail,
+        test_detail = caipiao['test'] && caipiao['test'].detail;
+        %>
+        <tr style="line-height: 20px;">
+            <td style="height: <%=config[i].height%>px">
+                <a class="caipiao-name" href="http://hao123.lecai.com/lottery/draw/view/<%=key%>/"><%=caipiao.name%></a>
+            </td>
+
+            <td style="width:402px;">
+                <div>
+                    <span class="phase-num">第<em><%=caipiao.phase%></em>期</span>
+                    <span class="open-day">日期：<%=CaipiaoUtils.strLeftPad(date.getMonth() + 1, 2, '0')%>-<%=CaipiaoUtils.strLeftPad(date.getDate(), 2, '0')%></span>
+                    <span><%=caipiao.fn%></span>
+                </div>
+                <div>
+                    <span>
+                        奖号：
+                        <a class="small-balls" href="http://hao123.lecai.com/lottery/draw/view/<%=key%>/">
+                            <%
+                            (function() {
+                            var len = detail.length;
+                            for(var i = 0; i < len; i++) {
+                            %><span class="<%=color[i] === 1 ? 'red-ball': 'blue-ball'%>"><%=detail[i]%></span><%
+                            }
+                            }());
+                            %>
+                        </a>
+                    </span>
+                </div>
+            </td>
+
+            <td style="width:160px; ">
+                <div class="caipiao-links">
+                    <a href="<%=caipiao.trend%>">走势图</a>
+                    <a href="<%=caipiao.rule%>">规则</a>
+                    <a class="link-buy" href="<%=caipiao.buy_url%>">购买</a>
+                </div>
+            </td>
+        </tr>
+        <%
+        }
+        %>
+    </table>
+</script>
+<script type="text/x-template" id="shuzicai_info_template">
+    <%
+    var pool_amount_desc = data.latest_phase_info.pool_amount_desc,
+    result = data.latest_phase_info.result;
+    %>
+    <div class="last-period">第 <%=data.current_phase_info.phase%> 期 上期奖号：
+        <a class="small-balls"
+           href="http://hao123.lecai.com/lottery/draw/view/<%=data.current_phase_info.lottery_type%>/">
+            <%if(result){
+            var redBalls = data.latest_phase_info.result[0].data,
+            blueBalls = data.latest_phase_info.result[1] && data.latest_phase_info.result[1].data;
+
+            for(var i = 0, len = redBalls.length; i < len; i++) {
+            %><span class="red-ball"><%=redBalls[i]%></span><%
+            }
+            if(blueBalls) {
+            for(var i = 0, len = blueBalls.length; i < len; i++) {
+            %><span class="blue-ball"><%=blueBalls[i]%></span><%
+            }
+            }
+            %>
+            <%} else { %>
+            等待开奖
+            <%}%>
+        </a>
+    </div>
+    <%if(data.current_phase_info.lottery_type === 52) { %>
+    猜对3个号就中奖，直选头奖每注1000元，组三320元，组六160元
+    <%} else { %>
+    <div>
+    <%if(result){ %>
+    当前奖池奖金：<em class="cRed"><%=CaipiaoUtils.formatMoney(pool_amount_desc)%></em>元&nbsp;&nbsp;
+    可开出<em class="cRed"><%=Math.floor(pool_amount_desc/5000000)%></em>注<em class="cRed">500万</em>元
+    <%} else { %>
+    当前奖池奖金：等待开奖&nbsp;&nbsp;
+    可开出 - 注<em class="cRed">500万</em>元
+    <%}%>
+    </div>
+    <%}%>
+</script>
+<script type="text/x-template" id="tooltip_template">
+    <div class="map-tooltip">
+        <div><em><%=data.name%></em></div>
+        <%for(var i = 0, len = data.content.length; i < len; i++) {
+        var caipiao = data.content[i];
+        %>
+        <div class="caipiao-detail<%=i===len-1?' last':''%>">
+            <div><span class="caipiao-name"><%=caipiao.name%></span><span class="caipiao-phase">第<%=caipiao.phase%>期</span>
+            </div>
+            <div class="caipiao-number">
+                <%=caipiao.detail.join(' ')%>
+            </div>
+        </div>
+        <%}%>
+    </div>
+</script>
+<script type="text/x-template" id="today_draw_template">
+    <%var len = data.length;
+    if(len !== 0) { %>
+    <span>今日开奖：</span>
+    <%for(var i = 0; i < len; i++) {
+    var draw = data[i];
+    %>
+    <span><a href="<%=draw.url%>"><%=draw.name%></a></span>
+    <%}%>
+    <%}%>
+</script>
+<script type="text/x-template" id="shuzicai_popup_window_template">
+    <table>
+        <tr>
+            <td valign="top">
+                <table style="border-right: 1px solid #CCC" class="small-balls">
+                    <tr>
+                        <th><em class="cRed"><%=(data.type==='shuangseqiu')?'红球':'前区'%></em></th>
+                        <th><em>投注比例</em></th>
+                        <th><em>遗漏</em></th>
+                    </tr>
+                    <%
+                    for(var i = 0, len = data.red.length; i < len; i++) {
+                    var item = data.red[i];
+                    %>
+                    <tr class="<%=(i+1===len)?'last':''%>">
+                        <td><span class="red-ball"><%=item.number%></span></td>
+                        <td>
+                            <%if(i<3){ %>
+                            <em><%=item.percent%></em>%
+                            <%} else { %>
+                            <%=item.percent%>%
+                            <%}%>
+                            </td>
+                            <td><%=item.omit%>期</td>
+                            </tr>
+                            <%
+                            }
+                            %>
+                </table>
+            </td>
+            <td valign="top">
+                <table class="small-balls">
+                    <tr>
+                        <th><em class="cBlue"><%=(data.type==='shuangseqiu')?'蓝球':'后区'%></em></th>
+                        <th><em>投注比例</em></th>
+                        <th><em>遗漏</em></th>
+                    </tr>
+                    <%
+                    for(var i = 0, len = data.blue.length; i < len; i++) {
+                    var item = data.blue[i];
+                    %>
+                    <tr>
+                        <td><span class="blue-ball"><%=item.number%></span></td>
+                        <td>
+                            <%if(i<3){ %>
+                            <em><%=item.percent%></em>%
+                            <%} else { %>
+                            <%=item.percent%>%
+                            <%}%>
+                        </td>
+                        <td><%=item.omit%>期</td>
+                    </tr>
+                    <%
+                    }
+                    %>
+                </table>
+            </td>
+        </tr>
+    </table>
+</script>
+<script id="logined_user_template" type="text/x-template">
+    <h3><a href="http://hao123.lecai.com/user/mylottery/">我的彩票</a></h3>
+    <dl>
+        <dt>您好，<%=data.username%></dt>
+        <dd>余额：<i><%=data.balance%></i> 元</dd>
+    </dl>
+    <ul>
+        <li><a href="http://hao123.lecai.com/user/recharge/">账户充值</a></li>
+        <li><a href="http://hao123.lecai.com/user/withdraw/">提款到账</a></li>
+        <li><a href="http://hao123.lecai.com/user/order/">投注记录</a></li>
+        <li><a href="http://hao123.lecai.com/user/order/win/">中奖记录</a></li>
+    </ul>
+</script>
+<script id="logined_user_template_1" type="text/x-template">
+    <div class="user-info">
+        <span class="balance">余额：<i><%=data.balance%></i>&nbsp;元</span><span
+                class="username"><%=data.username%></span>&nbsp;&nbsp;[<a target="_self"
+                                                                          href="http://hao123.lecai.com/user/logout/">退出</a>]
+    </div>
+    <div class="user-links">
+        <a href="http://hao123.lecai.com/user/mylottery/">我的彩票</a>
+        <a href="http://hao123.lecai.com/user/recharge/">充值</a>
+        <a href="http://hao123.lecai.com/user/withdraw/">提款</a>
+        <a href="http://hao123.lecai.com/user/order/">投注记录</a>
+        <a href="http://hao123.lecai.com/user/order/win/">中奖记录</a>
+    </div>
+</script>
+<script id="today_zucai_match_template" type="text/x-template">
+    <ul>
+        <%
+        data = data.slice(0,3);
+        for(var i = 0, len = data.length; i < len; i++) {
+        var item = data[i];
+        %>
+        <li><a title="<%=item.home_team%> VS <%=item.away_team%>" href="<%=item.rmdc_url%>"><%=item.home_team.substr(0,
+                3)%> VS <%=item.away_team.substr(0, 3)%></a></li>
+        <%}%>
+    </ul>
+</script>
+<script id="today_lancai_match_template" type="text/x-template">
+    <ul>
+        <%
+        data = data.slice(0,3);
+        for(var i = 0, len = data.length; i < len; i++) {
+        var item = data[i];
+        %>
+        <li><a title="<%=item.away_team%> VS <%=item.home_team%>" href="<%=item.analysis_url%>"><%=item.away_team.substr(0,
+            3)%> VS <%=item.home_team.substr(0, 3)%></a></li>
+        <%}%>
+    </ul>
+</script>
+
+</body><script type="text/javascript" src="http://s1.hao123img.com/resource/common/pkg/aio_4e02d50.js"></script>
+<script type="text/javascript">require.resourceMap({"res":{"caipiao:widget/all/index_bottom.js":{"url":"http://s2.hao123img.com/resource/caipiao/widget/all/index_bottom_4ac76e7.js"},"common:resource/js/erji-jsonce.js":{"url":"http://s1.hao123img.com/resource/common/js/erji-jsonce_39624a1.js"}}});</script><script type="text/javascript" src="http://s2.hao123img.com/resource/caipiao/widget/lottery-quick/lottery-quick_89a0e93.js"></script>
+<script type="text/javascript" src="http://s1.hao123img.com/resource/caipiao/pkg/aio_f11c17c.js"></script>
+<script type="text/javascript">!function(){
+if(!window.pageId) {
+    window.pageId = "hao123-caipiao-index";
+}
+window.pageTrack = window.pageTrack || "";
+window.pageVP = window.pageVP || "";
+}();
+!function(){	
+    (function initTrack(o){
+        var d=document, x=d.createElement("script");
+        x.src = "http://s0.hao123img.com/res/js/track.js?"+~(new Date/36e5);
+        var a=[];
+        if(o){
+          for(i in o){
+            a.push(i + ":" + (o[i]))
+          }
+          var config = a.join(";");
+          x.setAttribute("data-log-config",config);
+          var s=d.getElementsByTagName("script")[0].parentNode;
+          var p= s||d.head;
+          if(p){
+            setTimeout(function(){
+              p.appendChild(x)
+            },0);
+          }
+        }
+      })({pageId:window.pageId,page:window.pageTrack||window.pageId,level:2,vp:window.pageVP||window.pageId});
+
+        
+      require.async("common:resource/js/erji-jsonce.js");
+}();
+!function(){        require('caipiao:widget/lottery-quick/lottery-quick.js');
+    }();</script></html>

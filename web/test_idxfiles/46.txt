@@ -1,0 +1,435 @@
+Set-cookie: RMID=2c24588640f34ed9132d50ed; expires=Saturday, 01-Dec-2012 18:04:29 GMT; path=/; domain=.nytimes.com
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Classifieds Marketplace - The New York Times</title>
+<!--Begin common meta tags--><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Expires" content="now">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta name="robots" content="noarchive">
+
+<!--End common meta tags--><!--Begin common script tags--><script type="text/javascript" src="http://www.nytimes.com/js/common.js"></script><script type="text/javascript" src="http://www.nytimes.com/js/browserSize.js"></script><script type="text/javascript" src="http://www.nytimes.com/js/Tacoda_AMS_DDC_Header.js"></script><script type="text/javascript" src="http://www.nytimes.com/js/common/screen/DropDown.js"></script><script type="text/javascript" src="http://www.nytimes.com/js/common/screen/modifyNavigationDisplay.js"></script><script type="text/javascript" language="JavaScript" src="http://www.nytimes.com/js/fileit.js"></script><script type="text/javascript" language="JavaScript" src="http://www.nytimes.com/js/todays_date.js"></script><script type="text/javascript" language="JavaScript">
+        function linkbox(url, winName) {
+                window.open(url, winName,
+                "location=yes,directories=yes,menubar=yes,toolbar=yes,status=yes,resizable=yes,scrollbars=yes");
+        }
+   </script><!--End common script tags--><!--Begin common css--><!--[if IE 7]>
+	   <style type="text/css">
+	       @import url(/css/common/screen/ie7.css);
+	   </style>
+	   <![endif]--><!--End common css-->
+<link rel="stylesheet" type="text/css" href="http://nytimes.com/css/common/global.css">
+<style type="text/css">
+@import url(classifieds.css);
+</style>
+<!--[if IE 7]>
+                <style type="text/css">
+			@import url(/css/section/jobmarket/screen/ie7.css); 
+                </style>
+		<![endif]-->
+</head>
+<body>
+<a name="top"></a><div id="shell">
+<div id="login">
+<ul id="memberTools">
+<li><iframe height="15" width="480" scrolling="no" frameborder="0"  src="http://www.nytimes.com/export_html/common/new_login_iframe.html">
+[Your user agent does not support frames or is currently configured
+not to display frames. However, you may visit
+<a href="http://www.nytimes.com/export_html/common/new_login_iframe.html">the related document.</a>]
+</iframe></li>
+</ul>
+<ul class="tabs">
+<li><a href="http://www.nytimes.com">Home Page</a></li>
+<li><a href="http://my.nytimes.com">My Times</a></li>
+<li><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+<li><a href="http://www.nytimes.com/video">Video</a></li>
+<li><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+<li><a href="http://topics.nytimes.com/top/reference/timestopics/">Times Topics</a></li>
+</ul>
+</div>
+<div id="page">
+<div id="masthead">
+<div id="Middle1">
+
+</div>
+<form id="searchForm" name="searchForm" method="GET" action="http://query.nytimes.com/gst/sitesearch_selector.html" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="date_select" value="full"><div id="searchWidget">
+<input id="searchQuery" type="text" name="query" size="20" value=""><div id="searchInputs">
+<input id="searchSubmit" title="Search" alt="Search" type="image" src="http://graphics8.nytimes.com/images/global/global_search/search_button40x19.gif"><span class="inputGroup"><input id="searchAll" type="hidden" name="type" value="nyt"></span>
+</div>
+</div>
+</form>
+<a href="http://www.nytimes.com"><img id="NYTLogo" alt="New York Times" title="New York Times" src="http://graphics8.nytimes.com/images/misc/nytlogo153x23.gif"></a><div id="date"><script language="JavaScript" type="text/javascript" src="http://www.nytimes.com/js/print_todays_date.js"></script></div>
+<h1><a href="./">Classifieds Marketplace</a></h1>
+</div>
+<div id="navigation" class=""><ul class="tabs">
+<li id="navWorld" ><a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>
+<li id="navUS" ><a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>
+<li id="navNYRegion" ><a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>
+<li id="navBusiness" ><a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>
+<li id="navTechnology" ><a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>
+<li id="navScience" ><a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>
+<li id="navHealth" ><a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>
+<li id="navSports" ><a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>
+<li id="navOpinion" ><a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>
+<li id="navArts" ><a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>
+<li id="navStyle" ><a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>
+<li id="navTravel" ><a href="http://travel.nytimes.com/pages/travel/index.html">Travel</a>
+</li>
+<li id="navJobs"><a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>
+<li id="navRealestate" ><a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>
+<li id="navAutos" ><a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li>
+</ul>
+<div id="subNavigation">
+<ul id="subnavJobs">
+<li class="selected children"><a href="http://www.nytimes.com/ref/classifieds/">Classifieds Marketplace</a>
+<ul>
+<li><a href="http://listings.nytimes.com/businessopportunities/">Business Directory</a></li>
+<li><a href="http://listings.nytimes.com/campsandschools/">Camps &amp; Schools</a></li>
+<li><a href="http://listings.nytimes.com/HomeandGarden/">Home &amp; Garden Directory</a></li>
+<li><a href="http://listings.nytimes.com/SmallInnsAndLodges/">Vacation Rentals &amp; Inns</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<script type="text/javascript">modifyNavigationDisplay();</script>
+<div id="main">
+<div id="abColumns">
+<div class="columnGroup">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<thead>
+<tr>
+<th colspan="4"><h2>Browse Classifieds Listings</h2>
+<p class="summary">See listings from each of the categories below.</p>
+</th>
+</tr>
+</thead>
+<tbody class="browseCells">
+<tr class="topCells">
+<td>
+<ul>
+<li><b><a href="http://www.nytimes.com/autos/">Autos</a></b></li>
+</ul>
+</td>
+<td colspan="2">
+<ul>
+<li><a href="http://listings.nytimes.com/HomeandGarden/">Home &amp; Garden Directory</a></li>
+</ul>
+</td>
+<td>
+<ul>
+<li><b><a href="http://www.nytimes.com/pages/realestate/">Residential Real Estate</a></b></li>
+</ul>
+</td>
+</tr><tr>
+<td>
+<ul>
+<li><a href="http://listings.nytimes.com/businessopportunities/">Business Directory</a></li>
+</ul>
+</td>
+<td colspan="2">
+<ul>
+<li><b><a href="http://www.nytimes.com/jobmarket/">Jobs</a></b></li>
+</ul>
+</td>
+<td>
+<ul>
+<li><a href="http://listings.nytimes.com/SmallInnsAndLodges/">Vacation Rentals &amp; Inns</a></li>
+</ul>
+</td>
+</tr><tr class="lastCells">
+<td>
+<ul>
+<li><a href="http://listings.nytimes.com/campsandschools/">Camps &amp; Schools</a></li>
+</ul>
+</td>
+<td colspan="2">
+<ul>
+<li><a href="http://www.legacy.com/NYTimes/DeathNotices.asp">Paid Death Notices</a></li>
+</ul>
+</td>
+<td>
+<ul>
+<li><a href="http://www.nytimes.com/pages/realestate/commercial/">Commercial Real Estate</a></li>
+</ul>
+</td>
+</tr>
+</tbody>
+<thead class="placeCells">
+<tr>
+<th><h2>Place a Classified Ad...</h2></th>
+<th colspan="2">
+<h3>On NYTimes.com</h3>
+<p>Ads placed in the online classifieds will not appear in the newspaper edition of The New York Times, except where noted.*</p>
+</th>
+<th>
+<h3>In the Newspaper</h3>
+<p>Call the appropriate number below or use the <a href="https://www.nytadvertising.com/was/ATWWeb/ProcessorAction.do?l1Id=7&l2Id=45">Ad Portal</a> to have your classified ad appear in the print edition of The New York Times.</p>
+</th>
+</tr>
+</thead>
+<tbody class="placeCells">
+<tr class="topCells">
+<td><h3><b>Jobs</b></h3></td>
+<td>Unlimited text<br>
+60 days online<br>
+*Print add-on option
+</td>
+<td class="firstRow placead">
+<a href="http://www.nytimes.com/marketing/jobmarket/employercentral/postjob.html" class="btnPlaceAd">Place Ad</a>
+from <b>$395</b>
+</td>
+<td>
+<b>800-AD-TIMES</b> (classified)<br>
+<b>212-556-8034</b> (display)<br>
+<b>800-421-4574</b> (display out of NY)
+</td>
+</tr>
+<tr>
+<td><h3><b>Residential Real Estate</b></h3></td>
+<td>45 lines of text 10<br>
+photos/floorplans<br>
+2 weeks<br>
+*Print add-on option
+</td>
+<td class="placead">
+<a href="http://realestateads.nytimes.com/" class="btnPlaceAd">Place Ad</a>
+from <b>$99</b>
+</td>
+<td>
+<b>800-AD-TIMES</b> (classified)<br>
+<b>212-556-1581</b> (display)<br>
+<b>800-843-3113</b> (display out of NY)
+</td>
+</tr>
+<tr>
+<td><h3><b>Autos</b></h3></td>
+<td>45 lines of text<br>
+Up to 5 photos<br>
+30 days
+</td>
+<td class="placead">
+<a href="https://placead.nytimes.com/default.asp?CategoryID=NYTCAR" class="btnPlaceAd">Place Ad</a>
+from <b>$50</b>
+</td>
+<td>
+<b>800-AD-TIMES</b>
+</td>
+</tr>
+<tr>
+<td><h3>Business Directory</h3></td>
+<td>45 lines of text<br>
+30 days online
+</td>
+<td class="placead">
+<a href="https://placead.nytimes.com/default.asp?CategoryID=BIZOPS" class="btnPlaceAd">Place Ad</a>
+from <b>$75</b>
+</td>
+<td>
+<b>800-AD-TIMES</b>
+</td>
+</tr>
+<tr>
+<td><h3>Camps &amp; Schools</h3></td>
+<td>45 lines of text<br>
+Up to 5 photos<br>
+30 days				
+</td>
+<td class="placead">
+<a href="https://placead.nytimes.com/default.asp?CategoryID=NYTSCH" class="btnPlaceAd">Place Ad</a>
+from <b>$25</b>
+</td>
+<td>
+<b>212-556-8081</b>
+</td>
+</tr>
+<tr>
+<td><h3>Commercial Real Estate</h3></td>
+<td>Unlimited text<br>
+Unlimited photos
+</td>
+<td class="placead">
+<a href="https://www.cityfeet.com/Advertise/Default.aspx?PartnerPath=nytimes/" class="btnPlaceAd">Place Ad</a>
+from <b>$79</b>
+</td>
+<td>
+<b>800-AD-TIMES</b> (classified)<br>
+<b>212-556-1581</b> (display)<br>
+<b>800-843-3113</b> (display out of NY)
+</td>
+</tr>
+<tr>
+<td><h3>Home &amp; Garden Directory</h3></td>
+<td>45 lines of text<br>
+Up to 5 photos<br>
+30 days
+</td>
+<td class="placead">
+<a href="https://placead.nytimes.com/default.asp?CategoryID=NYTHAG" class="btnPlaceAd">Place Ad</a>
+from <b>$25</b>
+</td>
+<td>
+<b>800-631-8275</b>
+</td>
+</tr>
+<tr>
+<td><h3>Paid Death Notices</h3></td>
+<td>500 words of text<br>
+Up to 1 photo<br>
+1 year
+</td>
+<td class="placead">
+<a href="http://www.legacy.com/NYTimes/deathnotices.asp?page=OnlineNotice" class="btnPlaceAd">Place Ad</a>
+from <b>$79</b>
+</td>
+<td>
+<b>800-AD-TIMES</b>
+</td>
+</tr>
+<tr>
+<td><h3>Vacation Rentals &amp; Inns</h3></td>
+<td>45 lines of text<br>
+Up to 5 photos<br>
+1 year
+</td>
+<td class="placead">
+<a href="https://placead.nytimes.com/default.asp?CategoryID=NYTWTS" class="btnPlaceAd">Place Ad</a>
+from <b>$75</b>
+</td>
+<td>
+<b>800-631-8275</b>
+</td>
+</tr>
+</tbody>
+</table>
+<br><br>
+</div>
+</div>
+<div class="cColumn">
+<div class="columnGroup firstColumnGroup">
+<a href="https://www.nytadvertising.com/was/ATWWeb/ProcessorAction.do?l1Id=7&l2Id=45"><img src="images/print_edition_ad.gif" width="336" height="183" vspace="0" hspace="0" border="0" alt="Your Ad Looks Good In Print - Place your classified ad in the print edition of the New York Times. Call 1-800-Ad-Times or use the online Ad Portal."></a>
+</div>
+<div class="doubleRule"></div>
+<div class="columnGroup">
+<iframe src="http://listings.nytimes.com/iFrame/NewOnNYTimes.asp" width="336" height="450" scrolling="no" frameborder="0"></iframe>
+</div>
+<!--calendar was here -->
+</div>
+</div>
+<div id="footer">
+<div class="footerRow">
+<a href="http://www.nytimes.com">Home</a><ul>
+<li><a href="http://www.nytimes.com/pages/world/index.html">World</a></li>
+<li><a href="http://www.nytimes.com/pages/national/index.html">U.S.</a></li>
+<li><a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a></li>
+<li><a href="http://www.nytimes.com/pages/business/index.html">Business</a></li>
+<li><a href="http://www.nytimes.com/pages/technology/index.html">Technology</a></li>
+<li><a href="http://www.nytimes.com/pages/science/index.html">Science</a></li>
+<li><a href="http://www.nytimes.com/pages/health/index.html">Health</a></li>
+<li><a href="http://www.nytimes.com/pages/sports/index.html">Sports</a></li>
+<li><a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a></li>
+<li><a href="http://www.nytimes.com/pages/arts/index.html">Arts</a></li>
+<li><a href="http://www.nytimes.com/pages/style/index.html">Style</a></li>
+<li><a href="http://travel.nytimes.com">Travel</a></li>
+<li><a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a></li>
+<li><a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a></li>
+<li><a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a></li>
+<li><a href="#top">Back to Top</a></li>
+</ul>
+</div>
+<a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">Copyright&nbsp;<script type="text/javascript">var date = new Date(); document.write(date.getFullYear());</script></a>&nbsp;<a href="http://www.nytco.com/">The New York Times Company</a>
+<ul>
+<li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+<li><a href="http://www.nytimes.com/search">Search</a></li>
+<li><a href="http://www.nytimes.com/corrections.html">Corrections</a></li>
+<li><a href="http://www.nytimes.com/rss" class="rssButton">RSS</a></li>
+<li><a href="http://firstlook.nytimes.com">First Look</a></li>
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+<li><a href="http://www.nytco.com/career.html">Work for Us</a></li>
+<li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!--SiteCatalyst code version: G.5.
+Copyright 1997-2003 Omniture, Inc. More info available at
+http://www.omniture.com --><script language="JavaScript"><!--
+var s_account="nytclassifieds,nytimesglobal"
+var s_pageName="classifiedsmarketplace/Default.asp"
+var s_server="listings.nytimes.com"
+var s_channel="classifieds"
+var s_pageType=""
+var s_prop1=""
+var s_prop2=""
+var s_prop3=""
+var s_prop4=""
+var s_prop5=""
+var s_prop6=""
+var s_prop7=""
+var s_prop8=""
+var s_prop9=""
+var s_prop10=""
+var s_prop12=""
+var s_prop13=""
+var s_prop14=""
+var s_prop15=""
+var s_prop16=""
+var s_prop17=""
+var s_prop18=""
+var s_prop19=""
+var s_prop20=""
+var s_campaign=""
+var s_state=""
+var s_zip=""
+var s_events=""
+var s_products=""
+var s_purchaseID=""
+var s_eVar1=""
+var s_eVar2=""
+var s_eVar3=""
+var s_eVar4=""
+var s_eVar5=""
+var s_eVar6=""
+var s_eVar7=""
+var s_eVar8=""
+var s_eVar9=""
+var s_eVar10=""
+//--></script><script language="JavaScript" src="http://graphics8.nytimes.com/js/s_code_combined.js"></script>
+<script language="JavaScript"><!--
+s_code=s_dc(s_account);if(s_code)s_d.write(s_code)
+//--></script>
+<!--End SiteCatalyst code version: G.5. -->
+
+
+
+
+
+</body>
+</html>
+

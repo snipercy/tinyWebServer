@@ -1,0 +1,13 @@
+Expires: Sun, 05-Jun-2005 22:00:00 GMT
+Location: http://ds.serving-sys.com/BurstingRes/Site-23294/Type-0/9cbb0a3b-a979-4ac3-8c13-5733484b545d.jpg
+Server: Microsoft-IIS/7.5
+Set-Cookie: A3=s7G0bTWM09eK00001; expires=Thu, 01-Mar-2012 13:04:32 GMT; domain=.serving-sys.com; path=/
+Set-Cookie: B3=dPrw0000000001xN; expires=Thu, 01-Mar-2012 13:04:32 GMT; domain=.serving-sys.com; path=/
+Set-Cookie: u2=685c655a-a29d-41f8-82b3-d7a3d533b9033Le020; expires=Thu, 01-Mar-2012 13:04:32 GMT; domain=.serving-sys.com; path=/
+Set-Cookie: C_5300=7371392
+Set-Cookie: r1=1322849072_1
+X-Powered-By: ASP.NET
+P3P: CP="NOI DEVa OUR BUS UNI"
+Date: Fri, 02 Dec 2011 18:04:32 GMT
+Connection: close
+

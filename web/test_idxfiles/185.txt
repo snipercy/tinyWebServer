@@ -1,0 +1,790 @@
+x-webobjects-loadaverage: 0
+Cache-Control: no-transform, max-age=60
+Date: Fri, 02 Dec 2011 18:04:33 GMT
+Connection: close
+X-Apple-Partner: origin.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.apple.com/itms/" lang="en">
+
+
+  <head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+    if (!window.its) window.its = {};
+    its.isDefined = function itsIsDefined(anObject) {
+        return typeof(anObject) != 'undefined';
+    }
+	its.isDefinedNonNull = function itsIsDefinedNonNull(anObject) {
+	  return (its.isDefined(anObject) && (anObject != null));
+	};
+</script>
+
+
+
+    <script>
+        if (!its.stats) its.stats = {};
+        its.stats.pageLoadStartTime = new Date().getTime();
+    </script>        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	<script>
+	     window._itsOnErrorCallbackRobust = function windowPrivateItsOnErrorCallbackRobust(message) {
+            try {            
+                if (window.ITSLogger && ITSLogger.isLoaded) {
+                    ITSLogger.logger(window.EXCEPTION_LOGGER_NAME).setMirrorToServer(true);
+                    ITSLogger.logger(window.EXCEPTION_LOGGER_NAME).setFractionOfRequestsToReport(its.property("ITSLogger.FractionOfRequestsToReport.ITSExceptionHandler"));
+                    ITSLogger.logger(window.EXCEPTION_LOGGER_NAME).error(message);
+                } else if (window.ITSLogger) {
+                    var fractionOfRequestsToReport = its.property ? its.property("ITSLogger.FractionOfRequestsToReport.ITSExceptionHandler") : null;
+                    ITSLogger.queueMessage(window.EXCEPTION_LOGGER_NAME, ITSLogger.ERROR, message, true, fractionOfRequestsToReport);
+                } else {
+                    window._itsOnErrorCallbackFailsafe(message);
+                }
+            } catch (anException) {
+                window._itsOnErrorCallbackFailsafe("Exception in exception logging: "+anException.toString()+", url:"+anException.sourceURL+", lineNumber:"+anException.line);
+            }
+	    }	
+	</script>
+	
+	<script>
+	    window.EXCEPTION_LOGGER_NAME = "ITSExceptionHandler"; // IMPORTANT: If you change this name, be sure to change the ITSLogger.FractionOfRequestsToReport.ITSExceptionHandler that may go along with it!
+	    window._itsComposeErrorMessage = function windowPrivateItsComposeErrorMessage(message, url, lineNumber, loggerName) {
+            var loggerNameString = "";
+            var urlString = "unknown (might be html-embedded script?)";
+            var lineNumberString = "unknown";
+	        
+            if (its.isDefinedNonNull(url) && (url != "") && (url != "undefined")) urlString = url;
+            if (its.isDefinedNonNull(lineNumber) && (lineNumber != "")) lineNumberString = lineNumber;
+            if (loggerName) loggerNameString = loggerName+":";
+	        var returnMessage = loggerNameString+"{message:\""+message+"\", url:\""+urlString+"\", lineNumber:\""+lineNumberString+"\"}";
+	        
+	        return returnMessage;
+	    }
+	    window._itsOnErrorCallback = function windowPrivateItsOnErrorCallback(message, url, lineNumber) {
+            var fullMessage = window._attemptedDelayedShowEarlyExceptionMessage; // Are we coming back here after a defer?
+            if (!fullMessage) {
+                fullMessage = window._itsComposeErrorMessage(message, url, lineNumber, window.EXCEPTION_LOGGER_NAME);
+            }
+	        if (window._itsOnErrorCallbackRobust) {
+	            window._itsOnErrorCallbackRobust(fullMessage);
+	        } else {
+                window._itsOnErrorCallbackFailsafe(fullMessage);
+	        }
+	        window._tryShowingErrorIndicator(fullMessage)
+	    }
+	    window._tryShowingErrorIndicator = function windowPrivateTryShowingErrorIndicator(message) {
+	        var NUM_RETRIES = 10;
+            if (window._attemptedShowErrorIndicator == null) window._attemptedShowErrorIndicator = 0;
+
+	        if (window._attemptedShowErrorIndicator < NUM_RETRIES) {
+	            if (window.ITSLogger && ITSLogger.showErrorIndicator) {
+	                window._attemptedShowErrorIndicator = NUM_RETRIES + 1; 
+	                ITSLogger.showErrorIndicator(message);
+	            } else if (window._attemptedShowErrorIndicator < NUM_RETRIES) {
+	                // I've seen this take over 3 seconds!
+	                window._attemptedShowErrorIndicator++;
+	                window.setTimeout(function anonymousTryShowingErrorIndicator() {window._tryShowingErrorIndicator(message);}, 1000);
+		        }
+		    }
+	    }
+	    window._itsOnErrorCallbackFailsafe = function windowPrivateItsOnErrorCallbackFailsafe(message) {
+            // We only get here if this error happens *very* *very* early on... before we've parsed any support code or even set up our basic message queue.
+            // So, before we completely bail with our failsafe, let's see if we can get the message out after a delay...
+	        if (window._attemptedDelayedShowEarlyExceptionMessage == null) {
+	            window._attemptedDelayedShowEarlyExceptionMessage = message;
+                window.setTimeout(window._itsOnErrorCallback, 1000);
+	        } else {
+                // We already tried deferring once... we now have no alternative but to simply spit the message to the console.
+		        var  loggingMethod = null;
+		        if (its.isDefined(iTunes) && iTunes.loggingEnabled && iTunes.log) {
+		            loggingMethod = function(message) {iTunes.log(message);};
+		        } else if (console && console.log) {
+		            loggingMethod = function(message) {console.log(message);};
+		        }
+		        if (loggingMethod) {
+		            loggingMethod(message);
+		        }
+		    }
+	    }
+	    window.onerror = window._itsOnErrorCallback;
+	</script>
+
+<!--     THIS CODE IS GOOD FOR TESTING THIS FEATURE ON ALL PLATRFORMS. IT FAKES IT ON iOS<5 AND HAS REAL ERRO ELSEWHERE -->
+<!--<script> -->                                                                                                    
+<!--    //badMethodInline(); -->                                                                                    
+<!--    window.setTimeout(function () { -->                                                                         
+<!--        if (('createTouch' in document) || (iTunes && iTunes.systemVersion && iTunes.systemVersion() < 5)) { -->
+<!--           // window.onerror("Pretend JavaScript exception description", "/some/Url/path/andFile.js", "23"); -->  
+<!--        } else { -->                                                                                            
+<!--            badMethodDeferred(); -->                                                                                    
+<!--        } -->                                                                                                   
+<!--    }, 5000); -->                                                                                               
+<!--</script> -->                                                                             
+              
+<!-- [code comments are here to avoid spitting out JS comments to client in production] -->
+<!-- ITSLogger (its-logger.js) INITIALIZATION (to be able to queue log messages before the logger has been loaded) -->
+<!-- Used during ITSLogger's real initialization to copy this minimal class definition. We can't assign earlyLoadITSLogger in its-logger.js because -->
+<!-- the interpreter will create the ITSLogger function (class) assignment before we get a chance to stash away that variable. -->
+<!-- NOTE: All of these will get overwritten when we load the real its-logger.js code, but -->
+<!-- this is defined here since we haven't included ITSLogger yet, but we want to start queueing up messages... -->
+<script>
+	if (!window.ITSLogger) {
+	    window.ITSLogger = {};
+	    window.earlyLoadITSLogger = window.ITSLogger;
+	    ITSLogger.DEBUG = 1;
+	    ITSLogger.INFO = 2;
+	    ITSLogger.WARN = 3;
+	    ITSLogger.ERROR = 4;
+        ITSLogger.STATS = 5; // (pseudo-level that logs to the statsServer (Hubble) and logs to the console at "ITSLogger.INFO" level)
+
+	    ITSLogger.queueMessage = function ITSLoggerQueueMessage(loggerName, loggingThreshold, message, mirrorToServer, fractionOfRequestsToReport) {
+	        if (arguments.length >= 3) {	        
+	            if (!ITSLogger._queuedMessages) ITSLogger._queuedMessages = [];
+	            ITSLogger._queuedMessages.push({
+	                loggerName: loggerName,
+	                loggingThreshold: loggingThreshold,
+                    message: message,
+	                mirrorToServer: mirrorToServer,
+	                fractionOfRequestsToReport: fractionOfRequestsToReport
+	            });
+	        }
+	    };
+        ITSLogger.possiblyWaitForQueueMessages = function ITSLoggerLookForQueueMessages() {
+            var timerInterval = its.property && its.property("itsLoggerQueueProcessingInterval");
+            timerInterval = timerInterval ? timerInterval : 100;
+		    if (ITSLogger._queuedMessages && ITSLogger._queuedMessages.length && timerInterval > 0) { 
+                ITSLogger._delayedProcessQueuedMessages(timerInterval);
+		    }
+        }
+        ITSLogger._processQueuedMessages = function ITSLoggerProcessQueuedMessages() {
+            ITSLogger.possiblyWaitForQueueMessages();
+        }
+		ITSLogger._delayedProcessQueuedMessages = function itsLoggerDelayedProcessQueuedMessages(delay) {
+		    window.setTimeout(ITSLogger._processQueuedMessages, delay);
+		}
+	}
+</script>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="NYTimes Real Estate, The New York Times Company, Lifestyle, Business, ios apps, app, appstore, app store, iphone, ipad, ipod touch, itouch, itunes" />
+<meta name="description" content="Read reviews, get customer ratings, see screenshots, and learn more about NYTimes Real Estate on the App Store. Download NYTimes Real Estate and enjoy it on your iPhone, iPad, and iPod touch." />
+
+<link rel="canonical" href="http://itunes.apple.com/us/app/nytimes-real-estate/id337316535?mt=8" />
+
+
+<title>App Store - NYTimes Real Estate</title>
+<link rel="stylesheet" type="text/css" href="http://r.mzstatic.com/htmlResources/880B/web-storefront-base.cssz" />
+<link rel="stylesheet" type="text/css" href="http://r.mzstatic.com/htmlResources/880B/web-storefront-preview.cssz" />
+
+
+
+
+<script type="text/javascript" charset="utf-8">its.serverData={"pageData": {},"constants": {"Urls": {"upgradeITunesUrl": "http://www.apple.com/itunes/download/","upgradeSafariUrl": "http://www.apple.com/safari/download/"},"MZMediaType": {"Music": {"id": 1},"Podcasts": {"id": 2},"Audiobooks": {"id": 3},"TVShows": {"id": 4},"MusicVideos": {"id": 5},"Movies": {"id": 6},"ClassicSoftware": {"id": 7},"MobileSoftware": {"id": 8},"Ringtones": {"id": 9},"iTunesU": {"id": 10},"EBooks": {"id": 11},"MacSoftware": {"id": 12}},"IXDisplayableKind": {"Song": {"id": 1,"cssClasses": ["song","music"]},"Album": {"id": 2,"cssClasses": ["album","music"]},"Book": {"id": 3,"cssClasses": ["audiobook"]},"Podcast": {"id": 4,"cssClasses": ["podcast"]},"MusicVideo": {"id": 5,"cssClasses": ["music-video","music","video"]},"TVEpisode": {"id": 6,"cssClasses": ["tv-episode","tv","video"]},"TVSeason": {"id": 7,"cssClasses": ["tv-season","tv","video"]},"ShortFilm": {"id": 8,"cssClasses": ["short-film","movie","video"]},"Movie": {"id": 9,"cssClasses": ["movie","video"]},"ClassicSoftware": {"id": 10,"cssClasses": ["ipod-game"]},"MobileSoftware": {"id": 11,"cssClasses": ["application"]},"MacSoftware": {"id": 30,"cssClasses": ["application","mac-application"]},"iTunesPass": {"id": 12,"cssClasses": ["itunes-pass","album","music"]},"Booklet": {"id": 13,"cssClasses": ["booklet","music"]},"Mix": {"id": 14,"cssClasses": ["mix","music"]},"PodcastEpisode": {"id": 15,"cssClasses": ["podcast-episode"]},"SoftwareAddOn": {"id": 16,"cssClasses": ["software-add-on","application"]},"iMix": {"id": 17,"cssClasses": ["imix","music"]},"ClassicSoftwarePackage": {"id": 18,"cssClasses": ["ipod-game"]},"WeMix": {"id": 19,"cssClasses": ["wemix","music"]},"Artist": {"id": 20,"cssClasses": []},"Ringtone": {"id": 21,"cssClasses": []},"RingtoneAlbum": {"id": 22,"cssClasses": []},"PreorderAlbum": {"id": 23,"cssClasses": ["album","music"]},"MovieBundle": {"id": 24,"cssClasses": ["bundle","movie","video"]},"EBook": {"id": 25,"cssClasses": ["ebook"]},"Concert": {"id": 26,"cssClasses": []},"RichPost": {"id": 29,"cssClasses": []},"SocialPerson": {"id": 27,"cssClasses": []},"SocialArtist": {"id": 28,"cssClasses": []},"Tone": {"id": 31,"cssClasses": []},"ToneAlbum": {"id": 32,"cssClasses": []},"TheyMix": {"id": 33,"cssClasses": []}},"SFSortOrder": {"Name": {"id": 0},"Featured": {"id": 1},"ReleaseDate": {"id": 2},"Popularity": {"id": 3},"PurchaseDate": {"id": 4},"TopRated": {"id": 5},"ExpirationDate": {"id": 6},"Price": {"id": 7},"ArtistName": {"id": 8},"PlaylistName": {"id": 9}}},"properties": {"ITSLogger.FractionOfRequestsToReport.Default": ".001","ITSLogger.FractionOfRequestsToReport.ITSExceptionHandler": ".01","ITSLogger.FractionOfRequestsToReport.ITSStats": ".001","clientStatsTimeoutSecondsForLoadReporting": "30","clientStatsLoadTimeGroup": "5","itsLoggerQueueProcessingInterval": 10000}}</script>
+<script type="text/javascript" charset="utf-8">
+if(typeof(iTSLocalization) == "undefined") { iTSLocalization = new Object(); }
+if(typeof(iTSLocalization._strings) == "undefined") { iTSLocalization._strings = new Object(); }
+iTSLocalization._strings.base = {"Js.iTunesStoreError.Message":"We could not complete your request.", "Js.iTunesStoreError.Explanation":"There was an error in the iTunes Store. Please try again later.  (@@errorNum@@)", "Js.TextTruncation.More":"More", "Js.TextLimit.Remaining":"@@count@@ characters remaining", "Js.Showcase.Next":"Next Item", "Js.InlineReview.1":"hate it", "Js.InlineReview.2":"don't like it", "Js.InlineReview.3":"it's ok", "Js.InlineReview.4":"it's good", "Js.InlineReview.5":"it's great", "Js.CreateAccount":"Create Account", "Js.InlineReview.SigninTitle":"Sign in to write a review.", "Js.InlineReview.SigninMessage":"Enter your Apple ID and password, then click Sign In.", "Js.InlineRating.SigninTitle":"Sign in to rate this item.", "Js.InlineRating.SigninMessage":"Sign in to continue.", "Js.ReportAConcern.SigninTitle":"Sign in to report a concern.", "Js.ReportAConcern.SigninMessage":"Enter your Apple ID and password, then click Sign In.", "Js.TellAFriend.SigninTitle":"Sign in to tell a friend.", "Js.TellAFriend.SigninMessage":"Enter your Apple ID and password, then click Sign In.", "Js.InlineReview.RateThis":"Rate this", "Js.InlineReview.ClickToRate":"Click to rate", "Js.InlineReview.Thanks":"Thanks!", "Js.InlineReview.Error":"Error", "Js.Pagination.PageNumber":"Page @@num@@", "Js.Pagination.PageNumberTitle":"page @@num@@", "Js.Pagination.PreviousPage":"Previous Page", "Js.Pagination.NextPage":"Next Page", "Js.Pagination.Next":"Next", "Js.Pagination.Back":"Back", "Js.Pagination.DisabledButtonText":"disabled @@button_text@@", "Js.QuickView.Unavailable.Title":"Quick View is currently unavailable for this item.", "Js.QuickView.Unavailable.Text":"Please try again later.", "Js.Search.HintsTitle":"Suggestions", "Js.Wishlist.RemoveTooltip":"Remove from Wish List", "Js.MyAlerts.ConfirmEmailSignUp.Message":"Are you sure you want to receive email alerts?", "Js.MyAlerts.ConfirmEmailSignUp.Explanation":"You can change this preference at any time from your My Alerts page.", "Js.MyAlerts.CancelEmailSignUp.Message":"Are you sure you want to stop receiving email alerts?", "Js.MyAlerts.CancelEmailSignUp.Explanation":"You can change this preference at any time from your My Alerts page.", "Js.MyAlerts.GeniusActivationNeeded.Message":"This requires Genius.", "Js.MyAlerts.GeniusActivationNeeded.Explanation":"Alerts based on your library content will not be enabled until you have turned on Genius. To learn more, click Go to Genius.", "Js.MyAlerts.GeniusActivationNeeded.Button":"Go to Genius", "Js.ManageArtistAlerts.UncheckAll.Artists":"Uncheck All Artists", "Js.ManageArtistAlerts.UncheckAll.Actors":"Uncheck All Actors", "Js.ManageArtistAlerts.UncheckAll":"Uncheck All", "Js.ManageArtistAlerts.CheckAll.Artists":"Check All Artists", "Js.ManageArtistAlerts.CheckAll.Actors":"Check All Actors", "Js.ManageArtistAlerts.CheckAll":"Check All", "Js.List.Item":"item", "Js.InlinePreview.PlayPreview":"Play preview of @@title@@", "Js.InlinePreview.StopPreview":"Stop preview of @@title@@", "Js.CNConnections.UserReview.YouLiked":"You Liked", "Js.CNConnections.PeoplePopupMore":"and @@count@@ other@@s@@...", "Js.CNConnections.Confirmed":"Confirmed", "Js.CNConnections.RequestSent":"Request sent", "Js.CNConnections.LoginRequired.Title":"Sign in to access Ping.", 
+"Js.CNConnections.LoginRequired.Message":"These features are only available to Ping members.  You can join Ping for free.  If you\u2019ve already joined Ping, just sign in using your Apple ID.", "Js.CNConnections.OptInRequired.Title":"Ping", 
+"Js.CNConnections.OptInRequired.Message":"These features are only available to Ping members. You can join Ping for free.  If you\u2019ve already joined Ping, just sign in using your Apple ID.", "Js.CNConnections.Dialog.Cancel":"Cancel", "Js.CNConnections.Dialog.GetStarted":"Get Started", "CNConnections.Dialog.PrivateUser.IllegalAction.Title":"Private users may not perform this action.", "CNConnections.Dialog.PrivateUser.IllegalAction.Message":"If you would like to perform this action, please change your privacy settings.", "CNConnections.Dialog.PrivateUser.LeakyAction.Title":"Are you sure you want to perform this action?", "CNConnections.Dialog.PrivateUser.LeakyAction.Message":"This action will make your profile photo and name visible to others.", "CNConnections.Dialog.StopFollowing.Title":"Are you sure you want to stop following @@fullName@@?", "CNConnections.Dialog.StopFollowing.Message":"CNConnections.Dialog.StopFollowing.Message", "CNConnections.Dialog.Like.Review.SignIn.Title":"Sign in to like a review.", "CNConnections.Dialog.Like.Review.SignIn.Message":"Enter your Apple ID or AOL screen name and your password, then click Sign In.", "CNConnections.Dialog.Post.Review.SignIn.Title":"Sign in to post.", "CNConnections.Dialog.Post.Review.SignIn.Message":"Enter your Apple ID or AOL screen name and your password, then click Sign In.", "CNConnections.Dialog.OptIn.Title":"This requires Ping.", "CNConnections.Dialog.OptIn.Message":"Join Ping to follow your friends and favorite artists, and join a worldwide conversation with music fans.", "CNConnections.Dialog.OptIn.ButtonSubmit":"Learn More", "CNConnections.Dialog.OptIn.ButtonCancel":"Cancel", "CNConnections.Dialog.OptIn.ButtonSignIn":"Sign In", "CNConnections.Upload.UploadErrorHeading":"There is a Problem With Your Upload", "CNConnections.Upload.UploadErrorMessage":"Sorry, there was an error during upload.", "CNConnections.Upload.MaxPhotosErrorMessage":"You can have no more than 20 photos in one post.", "JS.errors.requiredLite":"Please fill in all required fields.", "Buy":"Buy", "Update All":"Update All", "OK":"OK", "Cancel":"Cancel", "Done":"Done", "SignIn":"Sign In", "Yes":"Yes", "No":"No"}
+</script>
+
+
+<script type="text/javascript" charset="utf-8" src="http://r.mzstatic.com/htmlResources/880B/web-storefront-base.jsz"></script>
+<script type="text/javascript" charset="utf-8" src="http://r.mzstatic.com/htmlResources/880B/web-storefront-preview.jsz"></script>
+
+
+<link href="http://images.apple.com/global/nav/styles/navigation.css" id="globalheader-stylesheet" rel="stylesheet" type="text/css" />
+
+
+
+
+</head>
+ 
+  <body onload="detectAndOpenItunes();" class="software geo-us">
+  
+
+  
+  <script language ="javascript" type="text/javascript">
+    var iphoneLaunchStoreAppRedirectUrl = 'http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=337316535&cc=us&alreadyRedirected=1';
+    if (iphoneLaunchStoreAppRedirectUrl && (window.location.href != iphoneLaunchStoreAppRedirectUrl)
+      && ( ('iPod' == navigator.platform) || ('iPhone' == navigator.platform) || ('iPad' == navigator.platform) ) ) {
+      window.location.href = iphoneLaunchStoreAppRedirectUrl;
+    }
+  </script>
+
+  
+  <script type="text/javascript">
+	var searchSection = 'ipoditunes';
+	var searchCountry = 'us';
+</script>
+<script src="http://images.apple.com/global/nav/scripts/globalnav.js" type="text/javascript" charset="utf-8"></script>
+<div id="globalheader" class="itunes">
+	<!--googleoff: all-->
+	<ul id="globalnav">
+		<li id="gn-apple"><a href="http://www.apple.com/"><span>Apple</span></a></li>
+		<li id="gn-store"><a href="http://store.apple.com/"><span>Store</span></a></li>
+		<li id="gn-mac"><a href="http://www.apple.com/mac/"><span>Mac</span></a></li>
+		<li id="gn-ipod"><a href="http://www.apple.com/ipod/"><span>iPod</span></a></li>
+		<li id="gn-iphone"><a href="http://www.apple.com/iphone/"><span>iPhone</span></a></li>
+		<li id="gn-ipad"><a href="http://www.apple.com/ipad/"><span>iPad</span></a></li>
+		<li id="gn-itunes"><a href="http://www.apple.com/itunes/"><span>iTunes</span></a></li>
+		<li id="gn-support" class="gn-last"><a href="http://www.apple.com/support/"><span>Support</span></a></li>
+	</ul>
+	<!--googleon: all-->
+	<div id="globalsearch">
+		<form action="http://www.apple.com/search/" method="post" class="search" id="g-search"><div>
+			<label for="sp-searchtext"><input type="text" name="q" id="sp-searchtext" accesskey="s" /></label>
+		</div></form>
+		<div id="sp-magnify"><div class="magnify-searchmode"></div><div class="magnify"></div></div>
+		<div id="sp-results"></div>
+	</div>
+</div>
+<script type="text/javascript">
+	AC.GlobalNav.Instance = new AC.GlobalNav();
+</script>
+<div id="productheader">
+	<h2><img src="http://ax.phobos.apple.com.edgesuite.net/images/web/itunes_preview/itunespreview_en.png" alt="iTunes" height="32" width="263"></h2>
+	<ul>
+		<li id="pn-whats-new"><a href="http://www.apple.com/itunes/whats-new/">What’s New</a></li>
+		<li id="pn-whatis"><a href="http://www.apple.com/itunes/what-is/">What is iTunes</a></li>
+		<li id="pn-whatson"><a href="http://www.apple.com/itunes/whats-on/">What’s on iTunes</a></li>
+		<li id="pn-charts"><a href="http://www.apple.com/itunes/charts/">iTunes Charts</a></li>
+		<li id="pn-howto"><a href="http://www.apple.com/itunes/how-to/">How To</a></li>
+	</ul>
+</div>
+
+
+  <div id="main">
+    <div id="itunes-detector">
+  <div id="launching-itunes">
+
+    <div id="status">
+      <div class="opening-itunes"><span>Opening the iTunes Store.</span><span>If iTunes doesn't open, click the iTunes application icon in your Dock or on your Windows desktop.</span><span class="spinner">Progress Indicator</span></div>
+    </div>
+  </div>
+
+  <div id="itunes-client-required">
+    <div class="callout">
+      <div class="left">iTunes</div>
+
+      <h2>iTunes is the world's easiest way to organize and add to your digital media collection.</h2>
+
+      <p preview-capable-text="We are unable to find iTunes on your computer. To download the free app NYTimes Real Estate by The New York Times Company, get iTunes now." class="intro has-preview-capable-text">
+        We are unable to find iTunes on your computer. To download the free app NYTimes Real Estate by The New York Times Company, get iTunes now.          
+      </p>
+
+      <div class="download">
+        <p>Already have iTunes? Click I Have iTunes to open it now.</p>
+        <a class="i-have-itunes" onclick="its.detect.userOverrideSetItunesInstalled(); its.detect.openItunes(); return true;" href="#">
+          <img alt="I Have iTunes" src="/images/web/ihaveitunes.png" />
+        </a>
+        <a href="#" onclick="javascript:window.location='http://www.apple.com/itunes/affiliates/download/?id=337316535'; return true;"><img alt="Free Download" src="/images/web/freedownload.png" /></a>
+      </div>
+
+      <a class="macpc" href="#">iTunes for Mac + PC</a>
+    </div>
+  </div>
+</div>
+
+
+    
+    
+    
+    <script type="text/javascript">
+      deviceDetect();
+    </script>
+    <div id="desktopContentBlockId" class='platform-content-block display-block'>
+
+      <div id="content">
+        
+        <div class="padder">
+
+          <div id="title" class="intro ">
+            <h1>NYTimes Real Estate</h1>
+            <h2>By The New York Times Company</h2>
+            
+            <a href="http://itunes.apple.com/us/artist/the-new-york-times-company/id284862086" class="view-more">View More By This Developer</a>
+            <p>Open iTunes to buy and download apps.</p>
+            
+          </div>
+
+          <div class="center-stack">
+            
+            <div more-text="More" metrics-loc="Titledbox_Description" class="product-review">
+  
+    <h4>
+      
+      Description
+    </h4>
+    
+  
+  
+    <p>Navigate the real estate market with ease using our free New York Times Real Estate app for iPhone.<br /><br />Our application combines award-winning New York Times Real Estate articles with in-depth property search tools designed to surface listing details for the most desirable properties on the market.  The New York Times Real Estate app incorporates all of the cutting-edge mobile features that you would expect from the leader in New York City real estate.  A must-have for house hunters on the go!<br /><br />Key Features:<br /><br />• Browse fully illustrated listings (complete with photos and floor plans) in New York City, across the country and throughout the world<br />• Read the most current New York Times Real Estate news and share articles with friends<br />• Search for properties by keyword location, ZIP code, WebID or use the “Nearby” GPS feature to surface listings and open houses near you<br />• Refine listings by price reductions, for sale by owner, recently posted and more <br />• Calculate your potential monthly mortgage payment on the fly <br />• Research New York City sales activity and view nearby school information<br />• View property listings on a map and get directions<br />• Upload private photos and notes to any property listing <br />• View and manage your saved listings, searches, photos and notes on your iPhone or on the Web<br />• Sign up for e-mail alerts when new listings are posted and when your favorite listings have new open house times and/or price changes<br />• E-mail your favorite listings to a friend<br />• Contact real estate agents quickly and easily via one-touch dialing/e-mailing</p>
+  
+  
+</div>
+
+
+            
+            <div class="app-links"><a rel="nofollow" target="_blank" href="http://www.nytimes.com/services/mobile/index.html" class="see-all">The New York Times Company Web Site</a><a rel="nofollow" target="_blank" href="http://www.nytimes.com/membercenter/faq/" class="see-all">NYTimes Real Estate Support</a></div>
+
+            
+            <div more-text="More" metrics-loc="Titledbox_What&#39;s New in Version 1.1.1" class="product-review">
+  
+    <h4>
+      
+      What's New in Version 1.1.1
+    </h4>
+    
+  
+  
+    <p>• Optimized for iOS 5</p>
+  
+  
+</div>
+
+
+            
+            
+<div metrics-loc="Swoosh_" rows="1" class="swoosh lockup-container application large screenshots">
+
+  <div class="title">
+   
+   
+    <h2>iPhone Screenshots</h2>
+   
+       
+    
+    
+    
+  </div>
+
+  
+    
+    <div num-items="4" class="content iphone-screen-shots"><div><div class="lockup"><img alt="iPhone Screenshot 1" class="portrait" src="http://a1.mzstatic.com/us/r1000/062/Purple/e1/ff/b5/mzl.xamwgryn.320x480-75.jpg" /></div><div class="lockup"><img alt="iPhone Screenshot 2" class="portrait" src="http://a4.mzstatic.com/us/r1000/077/Purple/f5/bd/2c/mzl.gnwkpfgj.320x480-75.jpg" /></div><div class="lockup"><img alt="iPhone Screenshot 3" class="portrait" src="http://a5.mzstatic.com/us/r1000/119/Purple/f7/08/ee/mzl.ifwjjiqe.320x480-75.jpg" /></div><div class="lockup"><img alt="iPhone Screenshot 4" class="portrait" src="http://a4.mzstatic.com/us/r1000/097/Purple/f9/72/0a/mzl.buxrvyxr.320x480-75.jpg" /></div></div></div>
+  
+</div>
+
+
+            
+            <div class="customer-reviews">
+  <h4>Customer Reviews</h4>
+
+  
+    
+<div more-text="More" class="customer-review">
+  
+
+  
+    
+      
+      <h5>
+        
+        <span class="customerReviewTitle">Good application but bug with sending listings</span>
+        <div class='rating' role='img' tabindex='-1' aria-label='4 stars'><div><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star ghost">&nbsp;</span></div></div>
+
+      </h5>
+      
+      <span class="user-info">by
+        
+          Matthew Weinberg
+        
+        
+      </span>
+    
+
+    
+  
+
+  <p class="content" will-truncate-max-height="0" data-text-truncate-lines="5">
+    This is a good application, and very helpful, but in the current version there's a bug when sending listings by email. There's no slash between &quot;nytimes.com&quot; and &quot;sales&quot; in the URL it sends, so they aren't found. If this were fixed it'd be far less annoying. Other than that, though, this is very useful.
+  </p>
+
+  
+</div>
+
+  
+
+</div>
+
+            
+            
+<div metrics-loc="Swoosh_" rows="1" class="swoosh lockup-container application large">
+
+  <div class="title">
+   
+   
+    <h2>Customers Also Bought</h2>
+   
+       
+    
+    
+    
+  </div>
+
+  
+    
+    <div num-items="5" class="content"><div>
+<div rating-software="100,itunes-games" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="363337072" preview-artist="Gilt Groupe" aria-label="Gilt for iPad" preview-title="Gilt for iPad" class="lockup small application">
+  
+    <a href="http://itunes.apple.com/us/app/gilt-for-ipad/id363337072?mt=8" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="Gilt for iPad" class="artwork" src="http://a2.mzstatic.com/us/r1000/054/Purple/50/9a/5a/mzl.keytpdtu.100x100-75.jpg" /><span class="mask"></span></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+    <ul role="presentation" class="list"><li><a href="http://itunes.apple.com/us/app/gilt-for-ipad/id363337072?mt=8" class="name">Gilt for iPad</a></li><li><a href="http://itunes.apple.com/us/genre/ios-lifestyle/id6012?mt=8" class="genre">Lifestyle</a></li><li><a onclick="return its.detect.openItunes(&#39;http://itunes.apple.com/us/app/gilt-for-ipad/id363337072?mt=8&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-software="100,itunes-games" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="364381191" preview-artist="BigOven.com" aria-label="170,000+ Recipes : BigOven" preview-title="170,000+ Recipes : BigOven" class="lockup small application">
+  
+    <a href="http://itunes.apple.com/us/app/170-000-recipes-bigoven/id364381191?mt=8" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="170,000+ Recipes : BigOven" class="artwork" src="http://a2.mzstatic.com/us/r1000/092/Purple/fe/61/59/mzl.zbpznogg.100x100-75.jpg" /><span class="mask"></span></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+    <ul role="presentation" class="list"><li><a href="http://itunes.apple.com/us/app/170-000-recipes-bigoven/id364381191?mt=8" class="name">170,000+ Recipes : BigOven</a></li><li><a href="http://itunes.apple.com/us/genre/ios-lifestyle/id6012?mt=8" class="genre">Lifestyle</a></li><li><a onclick="return its.detect.openItunes(&#39;http://itunes.apple.com/us/app/170-000-recipes-bigoven/id364381191?mt=8&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-software="100,itunes-games" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="364304056" preview-artist="Control UI" aria-label="Control4 My Home for iPad" preview-title="Control4 My Home for iPad" class="lockup small application">
+  
+    <a href="http://itunes.apple.com/us/app/control4-my-home-for-ipad/id364304056?mt=8" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="Control4 My Home for iPad" class="artwork" src="http://a5.mzstatic.com/us/r1000/120/Purple/3c/70/4d/mzl.inrdzixh.100x100-75.jpg" /><span class="mask"></span></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+    <ul role="presentation" class="list"><li><a href="http://itunes.apple.com/us/app/control4-my-home-for-ipad/id364304056?mt=8" class="name">Control4 My Home for iPad</a></li><li><a href="http://itunes.apple.com/us/genre/ios-lifestyle/id6012?mt=8" class="genre">Lifestyle</a></li><li><a onclick="return its.detect.openItunes(&#39;http://itunes.apple.com/us/app/control4-my-home-for-ipad/id364304056?mt=8&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-software="100,itunes-games" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="326315083" preview-artist="JCPenney" aria-label="JCPenney Weekly Deals" preview-title="JCPenney Weekly Deals" class="lockup small application">
+  
+    <a href="http://itunes.apple.com/us/app/jcpenney-weekly-deals/id326315083?mt=8" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="JCPenney Weekly Deals" class="artwork" src="http://a5.mzstatic.com/us/r1000/081/Purple/4c/70/6d/mzl.zqmuhhos.100x100-75.jpg" /><span class="mask"></span></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+    <ul role="presentation" class="list"><li><a href="http://itunes.apple.com/us/app/jcpenney-weekly-deals/id326315083?mt=8" class="name">JCPenney Weekly Deals</a></li><li><a href="http://itunes.apple.com/us/genre/ios-lifestyle/id6012?mt=8" class="genre">Lifestyle</a></li><li><a onclick="return its.detect.openItunes(&#39;http://itunes.apple.com/us/app/jcpenney-weekly-deals/id326315083?mt=8&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-software="100,itunes-games" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="364906021" preview-artist="Andrew Shaw" aria-label="Ambient Alarm" preview-title="Ambient Alarm" class="lockup small application">
+  
+    <a href="http://itunes.apple.com/us/app/ambient-alarm/id364906021?mt=8" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="Ambient Alarm" class="artwork" src="http://a3.mzstatic.com/us/r1000/004/Purple/8d/62/33/mzl.svbusexe.100x100-75.jpg" /><span class="mask"></span></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+    <ul role="presentation" class="list"><li><a href="http://itunes.apple.com/us/app/ambient-alarm/id364906021?mt=8" class="name">Ambient Alarm</a></li><li><a href="http://itunes.apple.com/us/genre/ios-lifestyle/id6012?mt=8" class="genre">Lifestyle</a></li><li><a onclick="return its.detect.openItunes(&#39;http://itunes.apple.com/us/app/ambient-alarm/id364906021?mt=8&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+</div></div>
+  
+</div>
+
+          </div>
+
+          <div id="left-stack">
+            
+            <div rating-software="100,itunes-games" parental-rating="1" class="lockup product application">
+  <a href="http://itunes.apple.com/us/app/nytimes-real-estate/id337316535?mt=8"><div class="artwork"><img width="175" height="175" alt="NYTimes Real Estate" class="artwork" src="http://a4.mzstatic.com/us/r1000/098/Purple/cf/39/fe/mzl.zbsajmhh.175x175-75.jpg" /><span class="mask"></span></div></a>
+  <a onclick="return its.detect.openItunes(&#39;http://itunes.apple.com/us/app/nytimes-real-estate/id337316535?mt=8&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a>
+  <ul class="list"><li><div class="price">Free</div></li><li class="genre"><span class="label">Category: </span><a href="http://itunes.apple.com/us/genre/ios-lifestyle/id6012?mt=8">Lifestyle</a></li><li class="release-date"><span class="label">Updated: </span>Nov 21, 2011</li><li><span class="label">Version: </span>1.1.1</li><li><span class="label">Size: </span>6.0 MB</li><li class="language"><span class="label">Language: </span>English</li><li><span class="label">Seller: </span>The New York Times Company (iDP)</li><li class="copyright">© The New York Times Company</li></ul><div class="app-rating"><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/appRatings">Rated 4+</a></div><p><span class="app-requirements">Requirements: </span>Compatible with iPhone, iPod touch, and iPad. Requires iOS 3.1 or later</p>
+</div>
+
+            
+            
+<div class='extra-list customer-ratings'>
+  <h4>Customer Ratings</h4>
+
+  
+  
+
+  
+  We have not received enough ratings to display an average for the current version of this application.
+
+  
+    <div>All Versions:</div>
+    <div class='rating' role='img' tabindex='-1' aria-label='3 stars, 1036 Ratings'><div><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star ghost">&nbsp;</span><span class="rating-star ghost">&nbsp;</span></div><span class="rating-count">1036 Ratings</span>
+</div>
+
+    
+  
+
+</div>
+
+
+            
+            
+
+            
+            <div metrics-loc="Titledbox_More iPhone Apps by The New York Times Company" class="extra-list more-by">
+  
+    <h4>
+      
+      More iPhone Apps by The New York Times Company
+    </h4>
+    
+  
+  
+    <ul class="list"><li>
+<div rating-software="300,itunes-games" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="284862083" preview-artist="The New York Times Company" aria-label="NYTimes" preview-title="NYTimes" class="lockup small application newsstand">
+  
+    <a href="http://itunes.apple.com/us/app/nytimes/id284862083?mt=8" class="artwork-link"><div class="artwork"><img width="75" alt="NYTimes" class="artwork" src="http://a270.phobos.apple.com/us/r30/Newsstand/v4/72/94/f7/7294f793-7182-4176-4b32-6d7c6709cb88/desktop_swoosh.png" /><span class="mask"></span></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+    <ul role="presentation" class="list"><li><a href="http://itunes.apple.com/us/app/nytimes/id284862083?mt=8" class="name">NYTimes</a></li><li><a onclick="return its.detect.openItunes(&#39;http://itunes.apple.com/us/app/nytimes/id284862083?mt=8&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+</li><li>
+<div rating-software="100,itunes-games" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="337339643" preview-artist="The New York Times Company" aria-label="Learning English With The New York Times" preview-title="Learning English With The New York Times" class="lockup small application">
+  
+    <a href="http://itunes.apple.com/us/app/learning-english-with-the/id337339643?mt=8" class="artwork-link"><div class="artwork"><img width="75" height="75" alt="Learning English With The New York Times" class="artwork" src="http://a1.mzstatic.com/us/r1000/016/Purple/16/bf/71/mzi.sngcoerz.75x75-65.jpg" /><span class="mask"></span></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+    <ul role="presentation" class="list"><li><a href="http://itunes.apple.com/us/app/learning-english-with-the/id337339643?mt=8" class="name">Learning English With The New York Times</a></li><li><a onclick="return its.detect.openItunes(&#39;http://itunes.apple.com/us/app/learning-english-with-the/id337339643?mt=8&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+</li><li>
+<div rating-software="300,itunes-games" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="374981318" preview-artist="The New York Times Company" aria-label="NYTimes The Scoop NYC" preview-title="NYTimes The Scoop NYC" class="lockup small application">
+  
+    <a href="http://itunes.apple.com/us/app/nytimes-the-scoop-nyc/id374981318?mt=8" class="artwork-link"><div class="artwork"><img width="75" height="75" alt="NYTimes The Scoop NYC" class="artwork" src="http://a1.mzstatic.com/us/r1000/064/Purple/f4/de/ee/mzm.jhquhvlb.75x75-65.jpg" /><span class="mask"></span></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+    <ul role="presentation" class="list"><li><a href="http://itunes.apple.com/us/app/nytimes-the-scoop-nyc/id374981318?mt=8" class="name">NYTimes The Scoop NYC</a></li><li><a onclick="return its.detect.openItunes(&#39;http://itunes.apple.com/us/app/nytimes-the-scoop-nyc/id374981318?mt=8&#39;);" href="#" class="action view-in-itunes"><span>View In iTunes</span></a></li></ul>
+  </div>
+</div>
+</li></ul>
+  
+  
+</div>
+
+          </div>
+        </div> 
+
+        
+      </div>
+    </div>
+    
+  
+  </div>
+
+    
+    
+    
+    <object classID="CLSID:D719897A-B07A-4C0C-AEA9-9B663A28DFCB" width="1" height="1" id="iTunesDetectorIE" ></object>
+    <script type="text/javascript">itms.PageData.itunesDownloadUrl='http://www.apple.com/itunes/affiliates/download/?id=337316535';</script>
+
+  
+  
+  <div id="facebook">
+	<div class="fbfan">
+		<iframe src="http://www.facebook.com/plugins/likebox.php?id=100484820802&amp;width=230&amp;connections=0&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:230px; height:63px;" allowTransparency="true"></iframe>
+	</div>
+	<div class="fbfan last">
+		<iframe src="http://www.facebook.com/plugins/likebox.php?id=286893159420&amp;width=250&amp;connections=0&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; height:63px;" allowTransparency="true"></iframe>
+	</div>
+	<p>Become a fan of the iTunes and App Store pages on Facebook for exclusive offers, the inside scoop on new apps and more.</p>
+</div>
+
+<div id="globalfooter">
+	<div id="breadory">
+		<ol id="breadcrumbs">
+			<li class="home"><a href="http://www.apple.com/">Home</a></li>
+			<li>iTunes</li>
+		</ol>
+		<div id="directorynav" class="itunes">
+	<div id="dn-cola" class="column first">
+		<h3>iTunes</h3>
+		<ul>
+			<li><a href="http://www.apple.com/itunes/download/">Download iTunes 10</a></li>
+			<li><a href="http://www.apple.com/itunes/what-is/">What is iTunes?</a></li>
+			<li><a href="http://www.apple.com/itunes/whats-on/">What’s on iTunes</a></li>
+			<li><a href="http://www.apple.com/itunes/charts/songs/">iTunes Charts</a></li>
+			<li><a href="http://www.apple.com/itunes/features/">A-Z Features</a></li>
+			<li><a href="http://www.apple.com/itunes/how-to/">How Tos</a></li>
+		</ul>
+	</div>
+	<div id="dn-colb" class="column">
+		<h3>More iTunes</h3>
+		<ul>
+			<li><a href="http://www.apple.com/itunes/digital-music-basics/">Digital Music Basics</a></li>
+			<li><a href="http://www.apple.com/itunes/ping/">iTunes Ping</a></li>
+			<li><a href="http://www.apple.com/itunes/airplay/">AirPlay</a></li>
+			<li><a href="http://www.apple.com/itunes/gifts/">iTunes Gifts</a></li>
+			<li><a href="http://www.apple.com/support/ipod/">iPod + iTunes Support</a></li>
+			<li><a href="http://www.apple.com/accessibility/itunes/vision.html">Accessibility</a></li>
+		</ul>
+	</div>
+	<div id="dn-colc" class="column">
+		<h3>Partner Programs</h3>
+		<ul>
+			<li><a href="http://www.apple.com/itunes/companies/">Partner as a Company</a></li>
+			<li><a href="http://www.apple.com/itunes/content-providers/">Partner as a Content Provider</a></li>
+			<li><a href="http://www.apple.com/itunes/affiliates/">Join the Affiliate Program</a></li>
+			<li><a href="http://www.apple.com/itunes/link/">Linking Tools</a></li>
+			<li><a href="http://www.apple.com/itunes/lp-and-extras/">iTunes LP and iTunes Extras</a></li>
+			<li><a href="http://www.apple.com/itunes/education/">App Store Volume Purchase</a></li>
+		</ul>
+	</div>
+	<div id="dn-cold" class="column last">
+		<h3>iTunes Store</h3>
+		<ul>
+			<li><a href="http://itunes.apple.com/us/browse/">Browse iTunes Store</a></li>
+			<li><a href="http://itunes.apple.com/us/genre/mobile-software-applications/id36?mt=8">Browse App Store</a></li>
+			<li><a href="http://itunes.apple.com/us/store">Buy Music Now</a></li>
+			<li><a href="http://store.apple.com/us/browse/home/giftcards/itunes/gallery">Buy iTunes Gift Cards</a></li>
+			<li><a href="https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/redeemLandingPage">Redeem iTunes Gift Cards</a></li>
+			<li><a href="http://www.apple.com/itunes/corporatesales/">iTunes Corporate Sales</a></li>
+			<li><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewFeature?id=365729306">Free Single of the Week</a></li>
+			<li><a href=" http://www.apple.com/itunes/inside-itunes/">Inside iTunes</a></li>
+		</ul>
+	</div>
+	<div class="capbottom"></div>
+</div>
+
+	</div><!--/breadory-->
+<p class="gf-buy">Shop the <a href="http://www.apple.com/store/">Apple Online Store</a> (1-800-MY-APPLE), visit an <a href="http://www.apple.com/retail/">Apple Retail Store</a>, or find a <a href="http://www.apple.com/buy/">reseller</a>.</p>
+
+<ul class="gf-links piped">
+	<li><a href="http://www.apple.com/about/" class="first">Apple Info</a></li>
+	<li><a href="http://www.apple.com/sitemap/">Site Map</a></li>
+	<li><a href="http://www.apple.com/hotnews/">Hot News</a></li>
+	<li><a href="http://www.apple.com/rss/">RSS Feeds</a></li>
+	<li><a href="http://www.apple.com/contact/" class="contact_us">Contact Us</a></li>
+	<li><a href="http://www.apple.com/choose-your-country/" class="choose"><img src="http://images.apple.com/global/elements/flags/22x22/usa.png" alt="Choose your country or region" width="22" height="22" /></a></li>
+</ul>
+
+<div class="gf-sosumi">
+	<p>Copyright © 2011 Apple Inc. All rights reserved.</p>
+	<ul class="piped">
+		<li><a href="http://www.apple.com/legal/terms/site.html" class="first">Terms of Use</a></li>
+		<li><a href="http://www.apple.com/privacy/">Privacy Policy</a></li>
+	</ul>
+</div>
+
+</div><!--/globalfooter-->
+
+  <script language="JavaScript" type="text/javascript"><!--
+    
+    ITSMetrics.reportingSuite = "appleitmsna,appleitmsus";
+    ITSMetrics.omniture = ITSMetrics.createBaselineOmnitureObject();
+    
+    ITSMetrics.isPageMetricsEnabled=true;
+    
+    
+    
+    
+
+    /* Page Metrics */
+    ITSMetrics.omniture.pageName="SEO-Software-US-The New York Times Company-NYTimes Real Estate-337316535";
+ITSMetrics.omniture.channel="SEO";
+ITSMetrics.omniture.prop22="HTML";
+ITSMetrics.omniture.eVar22="HTML";
+ITSMetrics.omniture.products="The New York Times Company-NYTimes Real Estate-337316535";
+
+    
+    
+    
+    /* User Agent */
+    var userAgentForMetrics = ITSMetrics.userAgentForMetrics();
+    ITSMetrics.omniture.prop12 = userAgentForMetrics;
+    ITSMetrics.omniture.eVar12 = userAgentForMetrics;
+    
+    // check if Game Center
+    var gcUserAgent = "GameCenter";
+    var isGameCenter = userAgentForMetrics.length >= gcUserAgent.length && userAgentForMetrics.substr(0, gcUserAgent.length) == gcUserAgent;
+    if (isGameCenter) {
+        // prepend "GameCenter" to page and channel name
+        if (ITSMetrics.omniture.pageName) ITSMetrics.omniture.pageName = "GameCenter-" + ITSMetrics.omniture.pageName;
+        if (ITSMetrics.omniture.channel) ITSMetrics.omniture.channel = "GameCenter-" + ITSMetrics.omniture.channel;
+    }
+    
+    
+    /* Browser Plugins */
+    ITSMetrics.shouldTrackBrowserPlugins = false;
+    
+    /* Pass-thru query params */
+    ITSMetrics.processQueryParameterInfoInCurrentRequest(ITSMetrics.omniture);
+    
+    if (ITSMetrics.isPageMetricsEnabled) {
+        ITSMetrics.emitPagePing = function() {
+            var s_code=ITSMetrics.omniture.t();
+            if (s_code) {
+                // <rdar://problem/9175548> [investigate] Windows Customers with iTunes 9.x unable to load iTunes Store [4E]
+                // Don't do document.write() here because if it is not inline as part of the page load, it will wipe out the whole page (at least on iTunes 9)
+                // This is a much safer and more elegant/surgical way to do this.
+                var containingDiv = document.createElement('div');
+                containingDiv.innerHTML = s_code;
+                document.body.appendChild(containingDiv);
+            }
+        };
+        window.addEventListener('load', function() { window.setTimeout(ITSMetrics.emitPagePing, 1) }, false );
+    }
+
+--></script>
+
+
+</body>
+
+
+
+</html>

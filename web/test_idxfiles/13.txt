@@ -1,0 +1,2614 @@
+Set-cookie: RMID=0e1072ee18204ed9132d0db3; expires=Saturday, 01-Dec-2012 18:04:29 GMT; path=/; domain=.nytimes.com
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Today's Paper - The New York Times</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="noarchive">
+<meta name="description" content="Use the Today's Paper page to see all the headlines from the Final City Edition of The New York Times organized in the same sections as they appeared in print. You can also view a front page image and read the quote of the day. Use the calendar feature to see a previous day's headlines or use search to look for articles published in a specific past issue." />
+<meta name="keywords" content="Democratic Party,Income Inequality,Republican Party,Presidential Election of 2012,United States Politics and Government,Payroll Tax,Obama, Barack,Presidential Election of 2012,Romney, Mitt,Republican Party,Gingrich, Newt,Obama, Barack,Land Use Policies,Drilling and Boring,Wells,Cabot Oil &amp; Gas Corporation,Water,Chesapeake Energy Corporation,Oil (Petroleum) and Gasoline,Chefec, Joshua,Cheating,Education (K-12),Nassau County (NY),Eshaghoff, Samuel,ACT (Examination),SAT (College Admission Test),Germany,European Sovereign Debt Crisis (2010- ),Merkel, Angela,European Central Bank,European Union,Economic Conditions and Trends,Politics and Government,Sex Crimes,Marriages,Domestic Violence,Women and Girls,Karzai, Hamid,Afghanistan,Human Rights and Human Rights Violations,Women's Rights,Sentences (Criminal),Russia,Elections,Golos,Putin, Vladimir V,United Russia,European Sovereign Debt Crisis (2010- ),Economic Conditions and Trends,Di Rupo, Elio,Politics and Government,Belgium,Thein Sein,Myanmar,Embargoes and Economic Sanctions,United States International Relations,Foreign Aid,Clinton, Hillary Rodham,European Sovereign Debt Crisis (2010- ),Economic Conditions and Trends,Speeches and Statements,Sarkozy, Nicolas,Banking and Financial Institutions,European Commission,European Union,European Central Bank,Paris (France),United Nations,Middle East and North Africa Unrest (2010- ),Pillay, Navi,Embargoes and Economic Sanctions,Assad, Bashar Al-,Syria,Muslim Brotherhood (Egypt),Egypt,Elections,Politics and Government,Middle East and North Africa Unrest (2010- ),bin Laden, Osama,Al Qaeda,Zawahri, Ayman Al-,Weinstein, Warren,Terrorism,Hostages,Kidnapping,Pakistan,United States,Diplomatic Service, Embassies and Consulates,Embargoes and Economic Sanctions,Iran,European Union,Great Britain,International Relations,Demonstrations, Protests, and Riots,Iraq,Biden, Joseph R Jr,Iraq War (2003- ),Pakistan,Haqqani, Husain,Politics and Government,Appointments and Executive Changes,Zuma, Jacob G,African National Congress,Politics and Government,Simelane, Menzi,Decisions and Verdicts,South Africa,National Prosecuting Authority,Saleh, Ali Abdullah,Yemen,Middle East and North Africa Unrest (2010- ),Politics and Government,Bensouda, Fatou,International Criminal Court,International Relations,Appointments and Executive Changes,Europe,Humanitarian Aid,Food Aid,North Korea,United Nations,Nasrallah, Hassan,Beirut (Lebanon),Terrorism,Hezbollah,Hariri, Rafik,Bridges and Tunnels,Drugs (Pharmaceuticals),Tijuana (Mexico),Drug Abuse and Traffic,United States,Chemistry,Lawrence Livermore National Laboratory,Institute for Nuclear Research,International Union of Pure and Applied Chemistry,Science and Technology,Post-Traumatic Stress Disorder,United States Defense and Military Forces,Veterinary Medicine,Dogs,Afghanistan War (2001- ),Iraq War (2003- ),Rafferty, Brogan,Ohio,Beasley, Richard J.,Online Advertising,Murders and Attempted Murders,Classified Advertising,Labor and Jobs,Craigslist,Campaign Finance,Edwards, John,Sexual Harassment,Richardson, Bill,New Mexico,Drilling and Boring,Consumer Protection,Natural Gas,Wells,Land Use Policies,Clean Air Act,Regulation and Deregulation of Industry,Energy Department,Air Pollution,North American Electric Reliability Corp,Environmental Protection Agency,United States Politics and Government,Baby Boomers,Population,Elderly,Census Bureau,Presidential Election of 2012,Arizona,Hispanic-Americans,Obama, Barack,Cain, Herman,Presidential Election of 2012,United States Politics and Government,Los Angeles (Calif),Oxnard (Calif),Disasters and Emergencies,Pasadena (Calif),Wind,National Weather Service,Mines and Mining,Virginia Uranium,Virginia,Uranium,Water Pollution,Coles, Walter,Nuclear Energy,Layoffs and Job Reductions,Bing, Dave,Budgets and Budgeting,Snyder, Richard Dale,Detroit (Mich),Politics and Government,United States Defense and Military Forces,Law and Legislation,Al Qaeda,Terrorism,Senate,Detainees,United States Politics and Government,Campaign Finance,Elections,House of Representatives,Law and Legislation,Colleges and Universities,Champion, Robert,Marching Bands,Florida,Hazing,Florida A&amp;M University,Demonstrations, Protests, and Riots,Occupy Wall Street,Boston (Mass),Computers and the Internet,Entrepreneurship,Chicago (Ill),Domain Names (Internet),Emanuel, Rahm,Taxation,Chicago (Ill),Hotels and Motels,Budgets and Budgeting,Education (K-12),United States Politics and Government,Campaign Finance,Reform and Reorganization,Chicago (Ill),Stand for Children,Art,Graffiti,Chicago (Ill),Oakland (Calif),Pop-Up Stores and Restaurants,Shopping and Retail,Voting and Voters,San Francisco (Calif),San Francisco Board of Supervisors,Elections,Prices (Fares, Fees and Rates),Landlords,San Francisco (Calif),Real Estate and Housing (Residential),Renting and Leasing (Real Estate),University of California,Newsom, Gavin,California State University,California,Demonstrations, Protests, and Riots,Tuition,Economic Conditions and Trends,Foster Care,Poverty,Texas,Child Abuse and Neglect,Layoffs and Job Reductions,Finances,Texas,Decisions and Verdicts,Taxation,Education (K-12),Presidential Election of 2012,Voting and Voters,Primaries and Caucuses,Texas,Republican Party,Perry, Rick,United States Politics and Government,Dancing,Music,Austin (Tex),Tamales,Dallas (Tex),San Antonio (Tex),Holidays and Special Occasions,New York Times,Silverstein, Louis,Deaths (Obituaries),Art,Newspapers,Writing and Writers,East Germany,Holocaust and the Nazi Era,Cold War Era,Communism (Theory and Philosophy),Socialism (Theory and Philosophy),Books and Literature,Wolf, Christa,Berlin (Germany),Deaths (Obituaries),Fashion and Apparel,Lesage, Francois,Couture (Fashion),Chanel SA,Deaths (Obituaries),Federal Reserve System,European Sovereign Debt Crisis (2010- ),Credit and Debt,Banking and Financial Institutions,Economic Conditions and Trends,European Central Bank,Euro (Currency),Muslim Brotherhood (Egypt),Muslims and Islam,Elections,Egypt,Politics and Government,Holder, Eric H Jr,Stevens, Ted,Justice Department,Sullivan, Emmet G,Decisions and Verdicts,Classical Music,Bargemusic,Bloom, Olga,Brooklyn (NYC),European Sovereign Debt Crisis (2010- ),Europe,Euro (Currency),Credit and Debt,Budgets and Budgeting,Subprime Mortgage Crisis,Germany,Europe,European Union,Social Conditions and Trends,Economic Conditions and Trends,Russia,United States Defense and Military Forces,Afghanistan War (2001- ),Pakistan,Witnesses,Constitution (US),Forensic Science,Supreme Court,Rakoff, Jed S,Decisions and Verdicts,Citigroup Inc,Suits and Litigation,Securities and Commodities Violations,Solyndra Inc,Federal Aid (US),United States Politics and Government,House Committee on Energy and Commerce,Obama, Barack,Stearns, Clifford Bundy,Admissions Standards,University of Phoenix,Frauds and Swindling,For-Profit Schools,Social Conditions and Trends,Education (K-12),Lunch and Breakfast Programs,Same-Sex Marriage, Civil Unions and Domestic Partnerships,Cuomo, Andrew M,Campaign Finance,Politics and Government,Liquor,Gentrification,Harlem (NYC),Convenience Stores,Fire Department (NYC),Bronx (NYC),Seabrook, Larry B,Blacks,City Council (NYC),Frauds and Swindling,City Council (NYC),Patterson, Robert P Jr,Seabrook, Larry B,Frauds and Swindling,Bronx (NYC),Wildlife Conservation Society,Jenkins, Jerry,Global Warming,Adirondack Mountains (NY),Washington Heights (NYC),Crime and Criminals,Abortion,New Settlement Apartments,New York Times Neediest Cases Fund,Community Service Society of New York,Philanthropy,New York City,Kruger, Carl,Malinsky, Aaron,Bribery and Kickbacks,Corruption (Institutional),Politics and Government,Hermon, Ry-Ann,Bribery and Kickbacks,Boyland, William F Jr,Levy, Robert M,State Legislatures,Politics and Government,Brooklyn (NYC),Education (K-12),Education Department (NYC),Bronx (NYC),Smalls, Sharron,Jane Addams High School for Academic Careers,State Legislatures,Hermon, Ry-Ann,Witnesses,Bribery and Kickbacks,Boyland, William F Jr,Politics and Government,Massachusetts,Suits and Litigation,Banking and Financial Institutions,Subprime Mortgage Crisis,Wages and Salaries,Unemployment,Layoffs and Job Reductions,United States Economy,Rutgers, The State University of New Jersey,Labor and Jobs,European Sovereign Debt Crisis (2010- ),Government Bonds,European Central Bank,Draghi, Mario,Pensions and Retirement Plans,Integrated Management Resources Group,Insurance,Accounting and Accountants,Pension Benefit Guaranty Corp,Government Procurement,Federal Reserve System,Subprime Mortgage Crisis,United States Politics and Government,Real Estate and Housing (Residential),United States Economy,Automobiles,Luxury Goods,Lincoln Division of Ford Motor Co,Ford Motor Company,Airports,Drugs (Pharmaceuticals),London (England),Throat,Luden's,Drugs (Pharmaceuticals),Advertising and Marketing,Coughs,Research In Motion Ltd,Campbell, George Jr,Wilson, Paul,Air Canada,Suspensions, Dismissals and Resignations,Black Friday (Shopping),United States Economy,Sales,Shopping and Retail,Computers and the Internet,Google Inc,Shopping and Retail,Toyota Motor Corporation,Automobiles,Diesel Power,Electric and Hybrid Vehicles,Bayerische Motorenwerke AG,Chevrolet Division of General Motors Corp,Batteries,Recalls and Bans of Products,Automobile Safety Features and Defects,Electric and Hybrid Vehicles,Automobiles,Chrysler Group LLC,Toyota Motor Corporation,United States Economy,Sales,Honda Motor Co Ltd,General Motors,Andrew J. Kleinfeld,Decisions and Verdicts,Bone Marrow,Stem Cells,Transplants,Suits and Litigation,World Trade Organization,Decisions and Verdicts,Airbus Industrie,European Union,International Trade and World Market,Factories and Manufacturing,Unemployment,United States Economy,European Sovereign Debt Crisis (2010- ),Stocks and Bonds,Funkhouser, Cameron,BP,Lockouts,Wages and Salaries,New York Knicks,Williams, Deron,Paul, Chris,Basketball,Howard, Dwight,Stern, David,National Basketball Assn,Sex Crimes,College Athletics,Fine, Bernie,Davis, Bobby,Boeheim, Jim,Colleges and Universities,Basketball,Child Abuse and Neglect,Syracuse University,Football,Woodson, Charles,Rodgers, Aaron,Green Bay Packers,Nelson, Jordy,Duke University,College Athletics,Soccer,Alaska,Cobb, Kelly,National Collegiate Athletic Assn,Sex Crimes,Sandusky, Jerry,Suits and Litigation,Child Abuse and Neglect,Second Mile,Pennsylvania State University,Jones, Terrence,Calipari, John,Davis, Anthony,College Athletics,University of Kentucky,St John's University,Basketball,Football,Rodgers, Aaron,Green Bay Packers,New York Giants,Nicks, Hakeem,Coughlin, Tom,Manning, Eli,Cruz, Victor,Football,Schottenheimer, Brian,Kerley, Jeremy,Tomlinson, Ladainian,Ryan, Rex,New York Jets,Moore, Tom,Sanchez, Mark,Football,Oakland Raiders,Minnesota Vikings,McNabb, Donovan,Football,University of South Florida,College Athletics,West Virginia University,National Basketball Players Assn,Labor and Jobs,Basketball,Collective Bargaining,National Basketball Assn,New Orleans Hornets,Anthony, Carmelo,Lockouts,Trades (Sports),New York Knicks,Paul, Chris,Basketball,Choi, K. J.,Golf,Woods, Tiger,California,Nalbandian, David,Spain,Davis Cup,Argentina,Tennis,Baseball,New York Mets,Valentine, Bobby,Fenway Park (Boston),Boston Red Sox,Cherington, Ben,New York Yankees,Rivera, Mariano,Baseball,Coaches and Managers,Baseball,Valentine, Bobby,Boston Red Sox,Cherington, Ben,Lucchino, Larry,New York Rangers,Hockey, Ice,Hunter, Dale,Washington Capitals,Boudreau, Bruce,Crosby, Sidney,Hockey, Ice,Ovechkin, Alex,Wildhorn, Frank,Black, Don,Jordan, Jeremy,Osnes, Laura,Ost, Tobin,Theater,Menchell, Ivan,Movies,Fassbender, Michael,McQueen, Steve,Shakespeare, William,Movies,Butler, Gerard,Redgrave, Vanessa,Fiennes, Ralph,Chastain, Jessica,Music,Music,Grammy Awards,Music,Carnegie Hall,Dancing,Ailey, Alvin, American Dance Theater,Dancing,Joyce Theater,Shakers,Clarke, Martha,Movies,Na Hong-jin,Movies,Gunnarsson, Sturla,Documentary Films and Programs,Sustainable Living,Documentary Films and Programs,Movies,Burke, Martyn,News and News Media,Movies,Rwanda,War Crimes, Genocide and Crimes Against Humanity,Brown, Alrick,Documentary Films and Programs,Movies,Nuclear Energy,Sattel, Volker,Documentary Films and Programs,Marquet, Benjamin,Movies,Horse Racing,Movies,Leutwyler, Matthew,Cook, Dane,Sears, Mike,Movies,Lutz, Kellan,Documentary Films and Programs,Rosenmeier, Dina,Movies,Leigh, Julia,Movies,Browning, Emily,Sex,Sleep,Documentary Films and Programs,Movies,Oil (Petroleum) and Gasoline,Classical Music,Movies,Kitano, Takeshi,Music,Jazz,Wooley, Nate,Theater,Nightclubs and Cabarets,Romanian Film Festival (NYC),Cannes International Film Festival,Documentary Films and Programs,Nightclubs and Cabarets,Alice Tully Hall (NYC),Park Avenue Armory (NYC),Next Wave Festival,Metropolitan Museum of Art,Museums,Museum of Fine Arts (Houston),Tinterow, Gary,Scandinavia House,Art,Metropolitan Museum of Art,Art,Japan,Baldessari, John,Getty, J Paul, Museum,New Museum of Contemporary Art,Art,Art,Rauschenberg, Robert,Art,Art,Art,Art,Nasar, Sylvia,Books and Literature,Economics,Antiques,Art,Dancing,Birds,Audubon Society, New York City,September 11 (2001),Libraries and Librarians,Theater,Puppets" />
+<meta name="asset_id" content="">
+<meta name="CG" content="todayspaper">
+<meta name="SCG" content="">
+<meta name="PT" content="Section Front">
+<meta name="PST" content="">
+<link rel="canonical" href="http://www.nytimes.com/pages/todayspaper/index.html">
+<meta name="msapplication-starturl" content="http://www.nytimes.com/" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.nytimes.com/services/xml/rss/nyt/todayspaper.xml"/>
+
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/build/sectionfront/todayspaper/styles.css" />
+<link rel="stylesheet" type="text/css" media="print" href="http://graphics8.nytimes.com/css/0.1/print/styles.css">
+<!--[if IE]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie.css);
+	    </style>
+	<![endif]-->
+<!--[if IE 6]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie6.css);
+	    </style>
+	<![endif]-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/DropDown.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/util/tooltip.js"></script>
+<script type="text/JavaScript">
+		var static_kw = "Democratic Party;Income Inequality;Republican Party;Presidential Election of 2012;United States Politics and Government;Payroll Tax;Obama; Barack;Presidential Election of 2012;Romney; Mitt;Republican Party;Gingrich; Newt;Obama; Barack;Land Use Policies;Drilling and Boring;Wells;Cabot Oil & Gas Corporation;Water;Chesapeake Energy Corporation;Oil (Petroleum) and Gasoline;Chefec; Joshua;Cheating;Education (K-12);Nassau County (NY);Eshaghoff; Samuel;ACT (Examination);SAT (College Admission Test);Germany;European Sovereign Debt Crisis (2010- );Merkel; Angela;European Central Bank;European Union;Economic Conditions and Trends;Politics and Government;Sex Crimes;Marriages;Domestic Violence;Women and Girls;Karzai; Hamid;Afghanistan;Human Rights and Human Rights Violations;Women's Rights;Sentences (Criminal);Russia;Elections;Golos;Putin; Vladimir V;United Russia;European Sovereign Debt Crisis (2010- );Economic Conditions and Trends;Di Rupo; Elio;Politics and Government;Belgium;Thein Sein;Myanmar;Embargoes and Economic Sanctions;United States International Relations;Foreign Aid;Clinton; Hillary Rodham;European Sovereign Debt Crisis (2010- );Economic Conditions and Trends;Speeches and Statements;Sarkozy; Nicolas;Banking and Financial Institutions;European Commission;European Union;European Central Bank;Paris (France);United Nations;Middle East and North Africa Unrest (2010- );Pillay; Navi;Embargoes and Economic Sanctions;Assad; Bashar Al-;Syria;Muslim Brotherhood (Egypt);Egypt;Elections;Politics and Government;Middle East and North Africa Unrest (2010- );bin Laden; Osama;Al Qaeda;Zawahri; Ayman Al-;Weinstein; Warren;Terrorism;Hostages;Kidnapping;Pakistan;United States;Diplomatic Service; Embassies and Consulates;Embargoes and Economic Sanctions;Iran;European Union;Great Britain;International Relations;Demonstrations; Protests; and Riots;Iraq;Biden; Joseph R Jr;Iraq War (2003- );Pakistan;Haqqani; Husain;Politics and Government;Appointments and Executive Changes;Zuma; Jacob G;African National Congress;Politics and Government;Simelane; Menzi;Decisions and Verdicts;South Africa;National Prosecuting Authority;Saleh; Ali Abdullah;Yemen;Middle East and North Africa Unrest (2010- );Politics and Government;Bensouda; Fatou;International Criminal Court;International Relations;Appointments and Executive Changes;Europe;Humanitarian Aid;Food Aid;North Korea;United Nations;Nasrallah; Hassan;Beirut (Lebanon);Terrorism;Hezbollah;Hariri; Rafik;Bridges and Tunnels;Drugs (Pharmaceuticals);Tijuana (Mexico);Drug Abuse and Traffic;United States;Chemistry;Lawrence Livermore National Laboratory;Institute for Nuclear Research;International Union of Pure and Applied Chemistry;Science and Technology;Post-Traumatic Stress Disorder;United States Defense and Military Forces;Veterinary Medicine;Dogs;Afghanistan War (2001- );Iraq War (2003- );Rafferty; Brogan;Ohio;Beasley; Richard J.;Online Advertising;Murders and Attempted Murders;Classified Advertising;Labor and Jobs;Craigslist;Campaign Finance;Edwards; John;Sexual Harassment;Richardson; Bill;New Mexico;Drilling and Boring;Consumer Protection;Natural Gas;Wells;Land Use Policies;Clean Air Act;Regulation and Deregulation of Industry;Energy Department;Air Pollution;North American Electric Reliability Corp;Environmental Protection Agency;United States Politics and Government;Baby Boomers;Population;Elderly;Census Bureau;Presidential Election of 2012;Arizona;Hispanic-Americans;Obama; Barack;Cain; Herman;Presidential Election of 2012;United States Politics and Government;Los Angeles (Calif);Oxnard (Calif);Disasters and Emergencies;Pasadena (Calif);Wind;National Weather Service;Mines and Mining;Virginia Uranium;Virginia;Uranium;Water Pollution;Coles; Walter;Nuclear Energy;Layoffs and Job Reductions;Bing; Dave;Budgets and Budgeting;Snyder; Richard Dale;Detroit (Mich);Politics and Government;United States Defense and Military Forces;Law and Legislation;Al Qaeda;Terrorism;Senate;Detainees;United States Politics and Government;Campaign Finance;Elections;House of Representatives;Law and Legislation;Colleges and Universities;Champion; Robert;Marching Bands;Florida;Hazing;Florida A&M University;Demonstrations; Protests; and Riots;Occupy Wall Street;Boston (Mass);Computers and the Internet;Entrepreneurship;Chicago (Ill);Domain Names (Internet);Emanuel; Rahm;Taxation;Chicago (Ill);Hotels and Motels;Budgets and Budgeting;Education (K-12);United States Politics and Government;Campaign Finance;Reform and Reorganization;Chicago (Ill);Stand for Children;Art;Graffiti;Chicago (Ill);Oakland (Calif);Pop-Up Stores and Restaurants;Shopping and Retail;Voting and Voters;San Francisco (Calif);San Francisco Board of Supervisors;Elections;Prices (Fares; Fees and Rates);Landlords;San Francisco (Calif);Real Estate and Housing (Residential);Renting and Leasing (Real Estate);University of California;Newsom; Gavin;California State University;California;Demonstrations; Protests; and Riots;Tuition;Economic Conditions and Trends;Foster Care;Poverty;Texas;Child Abuse and Neglect;Layoffs and Job Reductions;Finances;Texas;Decisions and Verdicts;Taxation;Education (K-12);Presidential Election of 2012;Voting and Voters;Primaries and Caucuses;Texas;Republican Party;Perry; Rick;United States Politics and Government;Dancing;Music;Austin (Tex);Tamales;Dallas (Tex);San Antonio (Tex);Holidays and Special Occasions;New York Times;Silverstein; Louis;Deaths (Obituaries);Art;Newspapers;Writing and Writers;East Germany;Holocaust and the Nazi Era;Cold War Era;Communism (Theory and Philosophy);Socialism (Theory and Philosophy);Books and Literature;Wolf; Christa;Berlin (Germany);Deaths (Obituaries);Fashion and Apparel;Lesage; Francois;Couture (Fashion);Chanel SA;Deaths (Obituaries);Federal Reserve System;European Sovereign Debt Crisis (2010- );Credit and Debt;Banking and Financial Institutions;Economic Conditions and Trends;European Central Bank;Euro (Currency);Muslim Brotherhood (Egypt);Muslims and Islam;Elections;Egypt;Politics and Government;Holder; Eric H Jr;Stevens; Ted;Justice Department;Sullivan; Emmet G;Decisions and Verdicts;Classical Music;Bargemusic;Bloom; Olga;Brooklyn (NYC);European Sovereign Debt Crisis (2010- );Europe;Euro (Currency);Credit and Debt;Budgets and Budgeting;Subprime Mortgage Crisis;Germany;Europe;European Union;Social Conditions and Trends;Economic Conditions and Trends;Russia;United States Defense and Military Forces;Afghanistan War (2001- );Pakistan;Witnesses;Constitution (US);Forensic Science;Supreme Court;Rakoff; Jed S;Decisions and Verdicts;Citigroup Inc;Suits and Litigation;Securities and Commodities Violations;Solyndra Inc;Federal Aid (US);United States Politics and Government;House Committee on Energy and Commerce;Obama; Barack;Stearns; Clifford Bundy;Admissions Standards;University of Phoenix;Frauds and Swindling;For-Profit Schools;Social Conditions and Trends;Education (K-12);Lunch and Breakfast Programs;Same-Sex Marriage; Civil Unions and Domestic Partnerships;Cuomo; Andrew M;Campaign Finance;Politics and Government;Liquor;Gentrification;Harlem (NYC);Convenience Stores;Fire Department (NYC);Bronx (NYC);Seabrook; Larry B;Blacks;City Council (NYC);Frauds and Swindling;City Council (NYC);Patterson; Robert P Jr;Seabrook; Larry B;Frauds and Swindling;Bronx (NYC);Wildlife Conservation Society;Jenkins; Jerry;Global Warming;Adirondack Mountains (NY);Washington Heights (NYC);Crime and Criminals;Abortion;New Settlement Apartments;New York Times Neediest Cases Fund;Community Service Society of New York;Philanthropy;New York City;Kruger; Carl;Malinsky; Aaron;Bribery and Kickbacks;Corruption (Institutional);Politics and Government;Hermon; Ry-Ann;Bribery and Kickbacks;Boyland; William F Jr;Levy; Robert M;State Legislatures;Politics and Government;Brooklyn (NYC);Education (K-12);Education Department (NYC);Bronx (NYC);Smalls; Sharron;Jane Addams High School for Academic Careers;State Legislatures;Hermon; Ry-Ann;Witnesses;Bribery and Kickbacks;Boyland; William F Jr;Politics and Government;Massachusetts;Suits and Litigation;Banking and Financial Institutions;Subprime Mortgage Crisis;Wages and Salaries;Unemployment;Layoffs and Job Reductions;United States Economy;Rutgers; The State University of New Jersey;Labor and Jobs;European Sovereign Debt Crisis (2010- );Government Bonds;European Central Bank;Draghi; Mario;Pensions and Retirement Plans;Integrated Management Resources Group;Insurance;Accounting and Accountants;Pension Benefit Guaranty Corp;Government Procurement;Federal Reserve System;Subprime Mortgage Crisis;United States Politics and Government;Real Estate and Housing (Residential);United States Economy;Automobiles;Luxury Goods;Lincoln Division of Ford Motor Co;Ford Motor Company;Airports;Drugs (Pharmaceuticals);London (England);Throat;Luden's;Drugs (Pharmaceuticals);Advertising and Marketing;Coughs;Research In Motion Ltd;Campbell; George Jr;Wilson; Paul;Air Canada;Suspensions; Dismissals and Resignations;Black Friday (Shopping);United States Economy;Sales;Shopping and Retail;Computers and the Internet;Google Inc;Shopping and Retail;Toyota Motor Corporation;Automobiles;Diesel Power;Electric and Hybrid Vehicles;Bayerische Motorenwerke AG;Chevrolet Division of General Motors Corp;Batteries;Recalls and Bans of Products;Automobile Safety Features and Defects;Electric and Hybrid Vehicles;Automobiles;Chrysler Group LLC;Toyota Motor Corporation;United States Economy;Sales;Honda Motor Co Ltd;General Motors;Andrew J. Kleinfeld;Decisions and Verdicts;Bone Marrow;Stem Cells;Transplants;Suits and Litigation;World Trade Organization;Decisions and Verdicts;Airbus Industrie;European Union;International Trade and World Market;Factories and Manufacturing;Unemployment;United States Economy;European Sovereign Debt Crisis (2010- );Stocks and Bonds;Funkhouser; Cameron;BP;Lockouts;Wages and Salaries;New York Knicks;Williams; Deron;Paul; Chris;Basketball;Howard; Dwight;Stern; David;National Basketball Assn;Sex Crimes;College Athletics;Fine; Bernie;Davis; Bobby;Boeheim; Jim;Colleges and Universities;Basketball;Child Abuse and Neglect;Syracuse University;Football;Woodson; Charles;Rodgers; Aaron;Green Bay Packers;Nelson; Jordy;Duke University;College Athletics;Soccer;Alaska;Cobb; Kelly;National Collegiate Athletic Assn;Sex Crimes;Sandusky; Jerry;Suits and Litigation;Child Abuse and Neglect;Second Mile;Pennsylvania State University;Jones; Terrence;Calipari; John;Davis; Anthony;College Athletics;University of Kentucky;St John's University;Basketball;Football;Rodgers; Aaron;Green Bay Packers;New York Giants;Nicks; Hakeem;Coughlin; Tom;Manning; Eli;Cruz; Victor;Football;Schottenheimer; Brian;Kerley; Jeremy;Tomlinson; Ladainian;Ryan; Rex;New York Jets;Moore; Tom;Sanchez; Mark;Football;Oakland Raiders;Minnesota Vikings;McNabb; Donovan;Football;University of South Florida;College Athletics;West Virginia University;National Basketball Players Assn;Labor and Jobs;Basketball;Collective Bargaining;National Basketball Assn;New Orleans Hornets;Anthony; Carmelo;Lockouts;Trades (Sports);New York Knicks;Paul; Chris;Basketball;Choi; K. J.;Golf;Woods; Tiger;California;Nalbandian; David;Spain;Davis Cup;Argentina;Tennis;Baseball;New York Mets;Valentine; Bobby;Fenway Park (Boston);Boston Red Sox;Cherington; Ben;New York Yankees;Rivera; Mariano;Baseball;Coaches and Managers;Baseball;Valentine; Bobby;Boston Red Sox;Cherington; Ben;Lucchino; Larry;New York Rangers;Hockey; Ice;Hunter; Dale;Washington Capitals;Boudreau; Bruce;Crosby; Sidney;Hockey; Ice;Ovechkin; Alex;Wildhorn; Frank;Black; Don;Jordan; Jeremy;Osnes; Laura;Ost; Tobin;Theater;Menchell; Ivan;Movies;Fassbender; Michael;McQueen; Steve;Shakespeare; William;Movies;Butler; Gerard;Redgrave; Vanessa;Fiennes; Ralph;Chastain; Jessica;Music;Music;Grammy Awards;Music;Carnegie Hall;Dancing;Ailey; Alvin; American Dance Theater;Dancing;Joyce Theater;Shakers;Clarke; Martha;Movies;Na Hong-jin;Movies;Gunnarsson; Sturla;Documentary Films and Programs;Sustainable Living;Documentary Films and Programs;Movies;Burke; Martyn;News and News Media;Movies;Rwanda;War Crimes; Genocide and Crimes Against Humanity;Brown; Alrick;Documentary Films and Programs;Movies;Nuclear Energy;Sattel; Volker;Documentary Films and Programs;Marquet; Benjamin;Movies;Horse Racing;Movies;Leutwyler; Matthew;Cook; Dane;Sears; Mike;Movies;Lutz; Kellan;Documentary Films and Programs;Rosenmeier; Dina;Movies;Leigh; Julia;Movies;Browning; Emily;Sex;Sleep;Documentary Films and Programs;Movies;Oil (Petroleum) and Gasoline;Classical Music;Movies;Kitano; Takeshi;Music;Jazz;Wooley; Nate;Theater;Nightclubs and Cabarets;Romanian Film Festival (NYC);Cannes International Film Festival;Documentary Films and Programs;Nightclubs and Cabarets;Alice Tully Hall (NYC);Park Avenue Armory (NYC);Next Wave Festival;Metropolitan Museum of Art;Museums;Museum of Fine Arts (Houston);Tinterow; Gary;Scandinavia House;Art;Metropolitan Museum of Art;Art;Japan;Baldessari; John;Getty; J Paul; Museum;New Museum of Contemporary Art;Art;Art;Rauschenberg; Robert;Art;Art;Art;Art;Nasar; Sylvia;Books and Literature;Economics;Antiques;Art;Dancing;Birds;Audubon Society; New York City;September 11 (2001);Libraries and Librarians;Theater;Puppets";
+		var dynamic_kw = "Democratic+Party;Income+Inequality;Republican+Party;Presidential+Election+of+2012;United+States+Politics+and+Government;Payroll+Tax;Obama;+Barack;Presidential+Election+of+2012;Romney;+Mitt;Republican+Party;Gingrich;+Newt;Obama;+Barack;Land+Use+Policies;Drilling+and+Boring;Wells;Cabot+Oil+%26+Gas+Corporation;Water;Chesapeake+Energy+Corporation;Oil+%28Petroleum%29+and+Gasoline;Chefec;+Joshua;Cheating;Education+%28K-12%29;Nassau+County+%28NY%29;Eshaghoff;+Samuel;ACT+%28Examination%29;SAT+%28College+Admission+Test%29;Germany;European+Sovereign+Debt+Crisis+%282010-+%29;Merkel;+Angela;European+Central+Bank;European+Union;Economic+Conditions+and+Trends;Politics+and+Government;Sex+Crimes;Marriages;Domestic+Violence;Women+and+Girls;Karzai;+Hamid;Afghanistan;Human+Rights+and+Human+Rights+Violations;Women%27s+Rights;Sentences+%28Criminal%29;Russia;Elections;Golos;Putin;+Vladimir+V;United+Russia;European+Sovereign+Debt+Crisis+%282010-+%29;Economic+Conditions+and+Trends;Di+Rupo;+Elio;Politics+and+Government;Belgium;Thein+Sein;Myanmar;Embargoes+and+Economic+Sanctions;United+States+International+Relations;Foreign+Aid;Clinton;+Hillary+Rodham;European+Sovereign+Debt+Crisis+%282010-+%29;Economic+Conditions+and+Trends;Speeches+and+Statements;Sarkozy;+Nicolas;Banking+and+Financial+Institutions;European+Commission;European+Union;European+Central+Bank;Paris+%28France%29;United+Nations;Middle+East+and+North+Africa+Unrest+%282010-+%29;Pillay;+Navi;Embargoes+and+Economic+Sanctions;Assad;+Bashar+Al-;Syria;Muslim+Brotherhood+%28Egypt%29;Egypt;Elections;Politics+and+Government;Middle+East+and+North+Africa+Unrest+%282010-+%29;bin+Laden;+Osama;Al+Qaeda;Zawahri;+Ayman+Al-;Weinstein;+Warren;Terrorism;Hostages;Kidnapping;Pakistan;United+States;Diplomatic+Service;+Embassies+and+Consulates;Embargoes+and+Economic+Sanctions;Iran;European+Union;Great+Britain;International+Relations;Demonstrations;+Protests;+and+Riots;Iraq;Biden;+Joseph+R+Jr;Iraq+War+%282003-+%29;Pakistan;Haqqani;+Husain;Politics+and+Government;Appointments+and+Executive+Changes;Zuma;+Jacob+G;African+National+Congress;Politics+and+Government;Simelane;+Menzi;Decisions+and+Verdicts;South+Africa;National+Prosecuting+Authority;Saleh;+Ali+Abdullah;Yemen;Middle+East+and+North+Africa+Unrest+%282010-+%29;Politics+and+Government;Bensouda;+Fatou;International+Criminal+Court;International+Relations;Appointments+and+Executive+Changes;Europe;Humanitarian+Aid;Food+Aid;North+Korea;United+Nations;Nasrallah;+Hassan;Beirut+%28Lebanon%29;Terrorism;Hezbollah;Hariri;+Rafik;Bridges+and+Tunnels;Drugs+%28Pharmaceuticals%29;Tijuana+%28Mexico%29;Drug+Abuse+and+Traffic;United+States;Chemistry;Lawrence+Livermore+National+Laboratory;Institute+for+Nuclear+Research;International+Union+of+Pure+and+Applied+Chemistry;Science+and+Technology;Post-Traumatic+Stress+Disorder;United+States+Defense+and+Military+Forces;Veterinary+Medicine;Dogs;Afghanistan+War+%282001-+%29;Iraq+War+%282003-+%29;Rafferty;+Brogan;Ohio;Beasley;+Richard+J.;Online+Advertising;Murders+and+Attempted+Murders;Classified+Advertising;Labor+and+Jobs;Craigslist;Campaign+Finance;Edwards;+John;Sexual+Harassment;Richardson;+Bill;New+Mexico;Drilling+and+Boring;Consumer+Protection;Natural+Gas;Wells;Land+Use+Policies;Clean+Air+Act;Regulation+and+Deregulation+of+Industry;Energy+Department;Air+Pollution;North+American+Electric+Reliability+Corp;Environmental+Protection+Agency;United+States+Politics+and+Government;Baby+Boomers;Population;Elderly;Census+Bureau;Presidential+Election+of+2012;Arizona;Hispanic-Americans;Obama;+Barack;Cain;+Herman;Presidential+Election+of+2012;United+States+Politics+and+Government;Los+Angeles+%28Calif%29;Oxnard+%28Calif%29;Disasters+and+Emergencies;Pasadena+%28Calif%29;Wind;National+Weather+Service;Mines+and+Mining;Virginia+Uranium;Virginia;Uranium;Water+Pollution;Coles;+Walter;Nuclear+Energy;Layoffs+and+Job+Reductions;Bing;+Dave;Budgets+and+Budgeting;Snyder;+Richard+Dale;Detroit+%28Mich%29;Politics+and+Government;United+States+Defense+and+Military+Forces;Law+and+Legislation;Al+Qaeda;Terrorism;Senate;Detainees;United+States+Politics+and+Government;Campaign+Finance;Elections;House+of+Representatives;Law+and+Legislation;Colleges+and+Universities;Champion;+Robert;Marching+Bands;Florida;Hazing;Florida+A%26M+University;Demonstrations;+Protests;+and+Riots;Occupy+Wall+Street;Boston+%28Mass%29;Computers+and+the+Internet;Entrepreneurship;Chicago+%28Ill%29;Domain+Names+%28Internet%29;Emanuel;+Rahm;Taxation;Chicago+%28Ill%29;Hotels+and+Motels;Budgets+and+Budgeting;Education+%28K-12%29;United+States+Politics+and+Government;Campaign+Finance;Reform+and+Reorganization;Chicago+%28Ill%29;Stand+for+Children;Art;Graffiti;Chicago+%28Ill%29;Oakland+%28Calif%29;Pop-Up+Stores+and+Restaurants;Shopping+and+Retail;Voting+and+Voters;San+Francisco+%28Calif%29;San+Francisco+Board+of+Supervisors;Elections;Prices+%28Fares;+Fees+and+Rates%29;Landlords;San+Francisco+%28Calif%29;Real+Estate+and+Housing+%28Residential%29;Renting+and+Leasing+%28Real+Estate%29;University+of+California;Newsom;+Gavin;California+State+University;California;Demonstrations;+Protests;+and+Riots;Tuition;Economic+Conditions+and+Trends;Foster+Care;Poverty;Texas;Child+Abuse+and+Neglect;Layoffs+and+Job+Reductions;Finances;Texas;Decisions+and+Verdicts;Taxation;Education+%28K-12%29;Presidential+Election+of+2012;Voting+and+Voters;Primaries+and+Caucuses;Texas;Republican+Party;Perry;+Rick;United+States+Politics+and+Government;Dancing;Music;Austin+%28Tex%29;Tamales;Dallas+%28Tex%29;San+Antonio+%28Tex%29;Holidays+and+Special+Occasions;New+York+Times;Silverstein;+Louis;Deaths+%28Obituaries%29;Art;Newspapers;Writing+and+Writers;East+Germany;Holocaust+and+the+Nazi+Era;Cold+War+Era;Communism+%28Theory+and+Philosophy%29;Socialism+%28Theory+and+Philosophy%29;Books+and+Literature;Wolf;+Christa;Berlin+%28Germany%29;Deaths+%28Obituaries%29;Fashion+and+Apparel;Lesage;+Francois;Couture+%28Fashion%29;Chanel+SA;Deaths+%28Obituaries%29;Federal+Reserve+System;European+Sovereign+Debt+Crisis+%282010-+%29;Credit+and+Debt;Banking+and+Financial+Institutions;Economic+Conditions+and+Trends;European+Central+Bank;Euro+%28Currency%29;Muslim+Brotherhood+%28Egypt%29;Muslims+and+Islam;Elections;Egypt;Politics+and+Government;Holder;+Eric+H+Jr;Stevens;+Ted;Justice+Department;Sullivan;+Emmet+G;Decisions+and+Verdicts;Classical+Music;Bargemusic;Bloom;+Olga;Brooklyn+%28NYC%29;European+Sovereign+Debt+Crisis+%282010-+%29;Europe;Euro+%28Currency%29;Credit+and+Debt;Budgets+and+Budgeting;Subprime+Mortgage+Crisis;Germany;Europe;European+Union;Social+Conditions+and+Trends;Economic+Conditions+and+Trends;Russia;United+States+Defense+and+Military+Forces;Afghanistan+War+%282001-+%29;Pakistan;Witnesses;Constitution+%28US%29;Forensic+Science;Supreme+Court;Rakoff;+Jed+S;Decisions+and+Verdicts;Citigroup+Inc;Suits+and+Litigation;Securities+and+Commodities+Violations;Solyndra+Inc;Federal+Aid+%28US%29;United+States+Politics+and+Government;House+Committee+on+Energy+and+Commerce;Obama;+Barack;Stearns;+Clifford+Bundy;Admissions+Standards;University+of+Phoenix;Frauds+and+Swindling;For-Profit+Schools;Social+Conditions+and+Trends;Education+%28K-12%29;Lunch+and+Breakfast+Programs;Same-Sex+Marriage;+Civil+Unions+and+Domestic+Partnerships;Cuomo;+Andrew+M;Campaign+Finance;Politics+and+Government;Liquor;Gentrification;Harlem+%28NYC%29;Convenience+Stores;Fire+Department+%28NYC%29;Bronx+%28NYC%29;Seabrook;+Larry+B;Blacks;City+Council+%28NYC%29;Frauds+and+Swindling;City+Council+%28NYC%29;Patterson;+Robert+P+Jr;Seabrook;+Larry+B;Frauds+and+Swindling;Bronx+%28NYC%29;Wildlife+Conservation+Society;Jenkins;+Jerry;Global+Warming;Adirondack+Mountains+%28NY%29;Washington+Heights+%28NYC%29;Crime+and+Criminals;Abortion;New+Settlement+Apartments;New+York+Times+Neediest+Cases+Fund;Community+Service+Society+of+New+York;Philanthropy;New+York+City;Kruger;+Carl;Malinsky;+Aaron;Bribery+and+Kickbacks;Corruption+%28Institutional%29;Politics+and+Government;Hermon;+Ry-Ann;Bribery+and+Kickbacks;Boyland;+William+F+Jr;Levy;+Robert+M;State+Legislatures;Politics+and+Government;Brooklyn+%28NYC%29;Education+%28K-12%29;Education+Department+%28NYC%29;Bronx+%28NYC%29;Smalls;+Sharron;Jane+Addams+High+School+for+Academic+Careers;State+Legislatures;Hermon;+Ry-Ann;Witnesses;Bribery+and+Kickbacks;Boyland;+William+F+Jr;Politics+and+Government;Massachusetts;Suits+and+Litigation;Banking+and+Financial+Institutions;Subprime+Mortgage+Crisis;Wages+and+Salaries;Unemployment;Layoffs+and+Job+Reductions;United+States+Economy;Rutgers;+The+State+University+of+New+Jersey;Labor+and+Jobs;European+Sovereign+Debt+Crisis+%282010-+%29;Government+Bonds;European+Central+Bank;Draghi;+Mario;Pensions+and+Retirement+Plans;Integrated+Management+Resources+Group;Insurance;Accounting+and+Accountants;Pension+Benefit+Guaranty+Corp;Government+Procurement;Federal+Reserve+System;Subprime+Mortgage+Crisis;United+States+Politics+and+Government;Real+Estate+and+Housing+%28Residential%29;United+States+Economy;Automobiles;Luxury+Goods;Lincoln+Division+of+Ford+Motor+Co;Ford+Motor+Company;Airports;Drugs+%28Pharmaceuticals%29;London+%28England%29;Throat;Luden%27s;Drugs+%28Pharmaceuticals%29;Advertising+and+Marketing;Coughs;Research+In+Motion+Ltd;Campbell;+George+Jr;Wilson;+Paul;Air+Canada;Suspensions;+Dismissals+and+Resignations;Black+Friday+%28Shopping%29;United+States+Economy;Sales;Shopping+and+Retail;Computers+and+the+Internet;Google+Inc;Shopping+and+Retail;Toyota+Motor+Corporation;Automobiles;Diesel+Power;Electric+and+Hybrid+Vehicles;Bayerische+Motorenwerke+AG;Chevrolet+Division+of+General+Motors+Corp;Batteries;Recalls+and+Bans+of+Products;Automobile+Safety+Features+and+Defects;Electric+and+Hybrid+Vehicles;Automobiles;Chrysler+Group+LLC;Toyota+Motor+Corporation;United+States+Economy;Sales;Honda+Motor+Co+Ltd;General+Motors;Andrew+J.+Kleinfeld;Decisions+and+Verdicts;Bone+Marrow;Stem+Cells;Transplants;Suits+and+Litigation;World+Trade+Organization;Decisions+and+Verdicts;Airbus+Industrie;European+Union;International+Trade+and+World+Market;Factories+and+Manufacturing;Unemployment;United+States+Economy;European+Sovereign+Debt+Crisis+%282010-+%29;Stocks+and+Bonds;Funkhouser;+Cameron;BP;Lockouts;Wages+and+Salaries;New+York+Knicks;Williams;+Deron;Paul;+Chris;Basketball;Howard;+Dwight;Stern;+David;National+Basketball+Assn;Sex+Crimes;College+Athletics;Fine;+Bernie;Davis;+Bobby;Boeheim;+Jim;Colleges+and+Universities;Basketball;Child+Abuse+and+Neglect;Syracuse+University;Football;Woodson;+Charles;Rodgers;+Aaron;Green+Bay+Packers;Nelson;+Jordy;Duke+University;College+Athletics;Soccer;Alaska;Cobb;+Kelly;National+Collegiate+Athletic+Assn;Sex+Crimes;Sandusky;+Jerry;Suits+and+Litigation;Child+Abuse+and+Neglect;Second+Mile;Pennsylvania+State+University;Jones;+Terrence;Calipari;+John;Davis;+Anthony;College+Athletics;University+of+Kentucky;St+John%27s+University;Basketball;Football;Rodgers;+Aaron;Green+Bay+Packers;New+York+Giants;Nicks;+Hakeem;Coughlin;+Tom;Manning;+Eli;Cruz;+Victor;Football;Schottenheimer;+Brian;Kerley;+Jeremy;Tomlinson;+Ladainian;Ryan;+Rex;New+York+Jets;Moore;+Tom;Sanchez;+Mark;Football;Oakland+Raiders;Minnesota+Vikings;McNabb;+Donovan;Football;University+of+South+Florida;College+Athletics;West+Virginia+University;National+Basketball+Players+Assn;Labor+and+Jobs;Basketball;Collective+Bargaining;National+Basketball+Assn;New+Orleans+Hornets;Anthony;+Carmelo;Lockouts;Trades+%28Sports%29;New+York+Knicks;Paul;+Chris;Basketball;Choi;+K.+J.;Golf;Woods;+Tiger;California;Nalbandian;+David;Spain;Davis+Cup;Argentina;Tennis;Baseball;New+York+Mets;Valentine;+Bobby;Fenway+Park+%28Boston%29;Boston+Red+Sox;Cherington;+Ben;New+York+Yankees;Rivera;+Mariano;Baseball;Coaches+and+Managers;Baseball;Valentine;+Bobby;Boston+Red+Sox;Cherington;+Ben;Lucchino;+Larry;New+York+Rangers;Hockey;+Ice;Hunter;+Dale;Washington+Capitals;Boudreau;+Bruce;Crosby;+Sidney;Hockey;+Ice;Ovechkin;+Alex;Wildhorn;+Frank;Black;+Don;Jordan;+Jeremy;Osnes;+Laura;Ost;+Tobin;Theater;Menchell;+Ivan;Movies;Fassbender;+Michael;McQueen;+Steve;Shakespeare;+William;Movies;Butler;+Gerard;Redgrave;+Vanessa;Fiennes;+Ralph;Chastain;+Jessica;Music;Music;Grammy+Awards;Music;Carnegie+Hall;Dancing;Ailey;+Alvin;+American+Dance+Theater;Dancing;Joyce+Theater;Shakers;Clarke;+Martha;Movies;Na+Hong-jin;Movies;Gunnarsson;+Sturla;Documentary+Films+and+Programs;Sustainable+Living;Documentary+Films+and+Programs;Movies;Burke;+Martyn;News+and+News+Media;Movies;Rwanda;War+Crimes;+Genocide+and+Crimes+Against+Humanity;Brown;+Alrick;Documentary+Films+and+Programs;Movies;Nuclear+Energy;Sattel;+Volker;Documentary+Films+and+Programs;Marquet;+Benjamin;Movies;Horse+Racing;Movies;Leutwyler;+Matthew;Cook;+Dane;Sears;+Mike;Movies;Lutz;+Kellan;Documentary+Films+and+Programs;Rosenmeier;+Dina;Movies;Leigh;+Julia;Movies;Browning;+Emily;Sex;Sleep;Documentary+Films+and+Programs;Movies;Oil+%28Petroleum%29+and+Gasoline;Classical+Music;Movies;Kitano;+Takeshi;Music;Jazz;Wooley;+Nate;Theater;Nightclubs+and+Cabarets;Romanian+Film+Festival+%28NYC%29;Cannes+International+Film+Festival;Documentary+Films+and+Programs;Nightclubs+and+Cabarets;Alice+Tully+Hall+%28NYC%29;Park+Avenue+Armory+%28NYC%29;Next+Wave+Festival;Metropolitan+Museum+of+Art;Museums;Museum+of+Fine+Arts+%28Houston%29;Tinterow;+Gary;Scandinavia+House;Art;Metropolitan+Museum+of+Art;Art;Japan;Baldessari;+John;Getty;+J+Paul;+Museum;New+Museum+of+Contemporary+Art;Art;Art;Rauschenberg;+Robert;Art;Art;Art;Art;Nasar;+Sylvia;Books+and+Literature;Economics;Antiques;Art;Dancing;Birds;Audubon+Society;+New+York+City;September+11+%282001%29;Libraries+and+Librarians;Theater;Puppets";
+		var nyt_google_contents = dynamic_kw + static_kw;
+		var nyt_google_ad_channel = "todayspaper";
+	</script>
+<script type="text/javascript" src="http://use.typekit.com/fml4qar.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" src="http://js.nyt.com/js2/build/sitewide/sitewide.js"></script>
+<script type="text/javascript" src="http://js.nyt.com/js/app/lib/jquery/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+</head>
+<body>
+<a name="top"></a>
+<div id="shell">
+
+<ul id="memberTools">
+
+ 
+                        <li><a id="memberToolsLogin" href="https://myaccount.nytimes.com/auth/login">Log In</a></li>
+            <li><a href="https://myaccount.nytimes.com/gst/regi.html">Register Now</a></li>
+                            
+
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+</ul>
+<div class="tabsContainer">
+<ul id="mainTabs" class="tabs">
+<li class="first mainTabHome"><a href="http://www.nytimes.com">Home Page</a></li>
+<li class="selected mainTabTodaysPaper"><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+<li class="mainTabVideo"><a href="http://www.nytimes.com/video">Video</a></li>
+<li class="mainTabMostPopular"><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+<li class="mainTabTimesTopics"><a href="http://topics.nytimes.com/top/reference/timestopics">Times Topics</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+</script>	<div id="page" class="tabContent active">
+<div class="clearfix" id="masthead">
+
+<div id="searchWidget">
+<div class="inlineSearchControl">
+<form enctype="application/x-www-form-urlencoded" action="http://query.nytimes.com/search/sitesearch" method="get" name="searchForm" id="searchForm">
+<input type="hidden" value="full" name="date_select"/>
+<label for="searchQuery">Search All NYTimes.com</label>
+<input type="text" class="text" value="" size="" name="query" id="searchQuery"/>
+<input type="hidden" id="searchAll" name="type" value="nyt"/>
+<input type="image" id="searchSubmit" title="Search" alt="Search" width="22" height="19" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"/>
+</form>
+</div>
+</div>
+
+<div id="branding" >
+<a href="http://www.nytimes.com"><img src="http://graphics8.nytimes.com/images/misc/nytlogo152x23.gif" alt="New York Times" id="NYTLogo"/></a>
+</div>
+
+<div id="date">
+<p>
+Friday, December  2, 2011
+</p>
+</div>
+
+<h2>
+<a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a>
+</h2>
+
+</div>
+
+<div id="main">
+<div id="spanABCRegion">
+<div class="columnGroup first">				
+<div class="opposingFloatControl wrap">
+<div class="element1">
+<h3 class="sectionHeader">The Times in Print for Friday, December 02, 2011</h3>
+</div>
+<div class="element2">
+<div id="tools">
+ 
+<script type ="text/javascript" >
+var url = window.location;
+document.getElementById('EmailThis').href = "http://www.nytimes.com/auth/login?URI="+url;
+</script>
+<span class="icon email kicker"><a id ="EmailThis" href="">Sign In to E-Mail</a></span>
+
+   
+
+</div>
+</div>
+</div>
+<div class="singleRuleDivider flushTop"></div>
+</div>
+</div><!--close spanABC -->			<div class="spanAB wrap">
+<div class="wideA">
+<div class="abColumn">
+<div id="spanABTopRegion">
+<div class="columnGroup first">
+<div class="columnGroup">  
+<div class="jumpToModule">
+<div class="singleRuleDivider"></div>
+<div class=" runaroundLeft label">
+<h2 class="refer">Jump to: </h2>
+</div>
+<div class="inlineLabel refer">
+<a class="first" href="#nytfrontpage">Front Page </a>  |  
+<a href="#world">International</a>  |  
+<a href="#us">National</a>  |  
+<a href="#obituaries">Obituaries</a>  |  
+<a href="#opinion">Editorials, Op-Ed and Letters</a>  |  
+<a href="#nyregion">New York</a>  |  
+<a href="#business">Business<br/> Day</a>  |  
+<a href="#sports">Sports Friday</a>  |  
+<a href="#arts">Weekend Arts</a>  |
+<a href="#correction">Corrections</a>  |   
+</div>
+</div>
+</div>
+</div><!--end div.columnGroup -->
+<div class="columnGroup last">
+<script type="text/javascript" language="JavaScript" src="/js/app/todayspaper/todaysPaperDateUtil.js"></script>
+<div class="doubleRuleDivider"></div>
+<div class="sectionHeader"><a name="nytfrontpage"></a><b>THE FRONT PAGE</b></div>
+<div class="singleRuleDivider"></div>
+</div><!--end div.columnGroup -->
+</div><!--end #spanABTopRegion.opening -->
+<div class="aColumn">
+<!--cur:StandardThumb prev:-->
+<div class="columnGroup first">
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/12/02/us/politics/democrats-look-to-payroll-issue-for-upper-hand.html?ref=todayspaper">
+Democrats See an Advantage in Debate Over Payroll Tax</a></h3>
+<h6 class="byline">
+By JACKIE CALMES	    </h6>
+<p class="summary">
+Senate Democrats have put antitax Republicans in the position of opposing a tax cut for mostly middle-class Americans because it comes with a tax on a far smaller number of higher earners.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/us/politics/republican-leaders-still-seem-torn-about-mitt-romney.html?ref=todayspaper">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/us/JP-REPUBS-1/JP-REPUBS-1-thumbStandard.jpg" width="75" height="75" alt="Mitt Romney addressing supporters in Troy, Mich., last month. His effort to create an air of inevitability has been undercut." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/us/politics/republican-leaders-still-seem-torn-about-mitt-romney.html?ref=todayspaper">
+Republican Leaders Still Seem Torn About Romney</a></h3>
+<h6 class="byline">
+By JEFF ZELENY	    </h6>
+<p class="summary">
+Republicans, though bullish about their party’s chances of winning the White House, are coming to the conclusion that their nominee will carry substantial flaws into the general election.</p>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/top/reference/timestopics/people/r/mitt_romney/index.html">Times Topic: Mitt Romney</a>
+</li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">Drilling Down</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/us/drilling-down-fighting-over-oil-and-gas-well-leases.html?ref=todayspaper">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/us/Leases/Leases-thumbStandard.jpg" width="75" height="75" alt="Jared Ely near gas wells leased on his family's land near Dimock, Pa. His father, Scott, says the leases should have been clearer." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/us/drilling-down-fighting-over-oil-and-gas-well-leases.html?ref=todayspaper">
+Learning Too Late of Perils in Gas Well Leases</a></h3>
+<h6 class="byline">
+By IAN URBINA and JO CRAVEN McGINTY	    </h6>
+<p class="summary">
+Americans have signed millions of leases allowing oil and gas companies to drill on their land, but some landowners are finding out the hard way what their contracts actually say.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/12/02/us/drilling-down-laymans-guide-to-lease-terms.html">A Layman’s Guide to Lease Terms</a> | <a href="http://www.nytimes.com/interactive/2011/12/02/us/oil-and-gas-leases.html"><span class="icon document">Document Viewer</span>: Oil and Gas Leases</a></li>
+<li><a href="http://www.nytimes.com/interactive/us/DRILLING_DOWN_SERIES.html"> Previous Articles in the Series »</a></li>
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001202831" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/02/us/drilling-down-fighting-over-oil-and-gas-well-leases.html"></span></li>
+</ul>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/12/02/education/on-long-island-sat-cheating-was-hardly-a-secret.html?ref=todayspaper">
+Exam Cheating on Long Island Hardly a Secret</a></h3>
+<h6 class="byline">
+By JENNY ANDERSON and PETER APPLEBOME	    </h6>
+<p class="summary">
+Charges that 20 students took SAT or ACT tests for others, or paid a test-taker, reflect the college admissions rat race.</p>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/12/02/world/europe/haunted-by-20s-hyperinflation-germans-balk-at-euro-aid.html?ref=todayspaper">
+German Fears About Inflation Stall Bold Steps in Debt Crisis</a></h3>
+<h6 class="byline">
+By NICHOLAS KULISH	    </h6>
+<p class="summary">
+To German ears, bond purchases, or anything that smacks of printing money, sound like a recipe for skyrocketing prices.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/02/world/asia/for-afghan-woman-justice-runs-into-the-static-wall-of-custom.html?ref=todayspaper">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/world/02AFGHANISTAN1/02AFGHANISTAN1-thumbStandard-v2.jpg" width="75" height="75" alt="A United Nations mission found that acts of violence against women are seldom prosecuted in Afghanistan, despite existing laws." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/02/world/asia/for-afghan-woman-justice-runs-into-the-static-wall-of-custom.html?ref=todayspaper">
+For Afghan Woman, Justice Runs Into Unforgiving Wall of Custom</a></h3>
+<h6 class="byline">
+By ALISSA J. RUBIN	    </h6>
+<p class="summary">
+A pardon for an Afghan woman who was imprisoned for adultery after she reported being raped came with the expectation that she would marry her attacker.</p>
+</div>
+</div>
+<!--cur:StandardThumb prev:StandardThumb-->
+<div class="columnGroup last">
+<div class="singleRuleDivider"></div><div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/ref/multimedia/podcasts.html?ref=todayspaper">
+<img src="http://graphics8.nytimes.com//images/apps/podcasts/w75/frontpage.gif" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/ref/multimedia/podcasts.html?ref=todayspaper">
+Podcast: Front Page</a></h3>
+<h6 class="byline">
+</h6>
+<p class="summary">
+James Barron, a reporter at The New York Times, summarizes the top headlines every weekday.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/ref/multimedia/podcasts.html">How to Subscribe</a></li>
+</ul>
+</div>
+</div>
+<div id="adxSponLink" class="columnGroup singleRule"></div>
+</div><!--close .aColumn -->
+<div class="bColumn">
+<div class="columnGroup SectionFront3Col first">
+<script language="javascript" type="text/javascript">
+var www_host="http://www.nytimes.com";
+var date_uri="/2011/12/02";
+
+NYTD.TodaysPaper = {};
+NYTD.TodaysPaper.scanEdition = Class.create({
+
+/* Function to display the pop-up*/
+	popUpImage :function(www_host,date_uri, imageName) {
+pop_me_up2((www_host+"/images"+date_uri+"/nytfrontpage/"+imageName+".jpg"),'450_750', 'width=400,height=750,location=no,scrollbars=yes,toolbars=no,resizable=yes');
+} 	
+}); 
+var elements = ["nyEdition", "nyEditionImage","nationalEdition","nationalEditionImage"];
+
+/* Declare the method objects */
+Event.observe(window, 'load', function() {
+ NYTD.TodaysPaper.scanEdition= new NYTD.TodaysPaper.scanEdition();
+/**
+* Observing the event when the link or the image is clicked 
+* which displays the pop-up image
+**/
+for (i = 0; i < elements.length; i++) {
+  Event.observe((elements[i]), 'click', todaysPaperEdition);
+} 
+/*Function to call the popUpImage function based on the Ids*/
+	function todaysPaperEdition(event){
+		var imageName;
+		if(((event.target).id == 'nyEdition') || (event.target).id == 'nyEditionImage'){			
+			imageName = "scan";
+		} else {
+			imageName = "scannat";
+		}
+		NYTD.TodaysPaper.scanEdition.popUpImage(www_host,date_uri, imageName);
+	}
+});
+</script>
+<h3 class="sectionHeader">Today's Front Pages</h3>
+<div id="todaysFrontPagesContainer" class="todaysFrontPageModule">
+<ul class="box">
+<li class="first">
+<div class="editionType">
+<a><b>NYT - New York Edition</b></a>
+</div>
+<div class="editionContent">                
+<div class="runaroundRight flushTop flushBottom">
+<a class="enlargeThis icon" id="nyEdition" href="javascript:void(0);">Enlarge This Image</a>
+</div>
+<a class="enlargeThis" id="nyEditionImage" href="javascript:void(0);"><img id="nyEditionImage" src="http://graphics8.nytimes.com/images/2011/12/02/nytfrontpage/scan_paper.jpg" alt="New York Times Front Page" /></a>              
+</div>
+</li>
+<li>
+<div class="editionType">
+<a><b>NYT - National Edition</b></a>
+</div>
+<div class="editionContent">                
+<div class="runaroundRight flushTop flushBottom">
+<a class="enlargeThis icon" id="nationalEdition" href="javascript:void(0);">Enlarge This Image</a>
+</div>
+<a class="enlargeThis" id="nationalEditionImage" href="javascript:void(0);"><img id="nationalEditionImage" src="http://graphics8.nytimes.com/images/2011/12/02/nytfrontpage/scannat_paper.jpg" alt="New York Times Front Page" /></a>            </div>		
+</li>
+<li>		
+<div class="editionType">
+<a><b>IHT - Europe</b></a>
+</div>
+<div class="editionContent">                
+<div class="runaroundRight flushTop flushBottom">
+<a class="enlargeThis icon" href="http://graphics8.nytimes.com/images/ihtfrontpage/europefrontpage.pdf">Enlarge This Image</a>
+</div>
+<a class="enlargeThis" href="http://graphics8.nytimes.com/images/ihtfrontpage/europefrontpage.pdf" title="Click to view PDF of today's IHT Europe front page"><img src="http://graphics8.nytimes.com/images/ihtfrontpage/europefrontpage.jpg" alt="IHT Europe Front Page" /></a>                
+</div>
+</li>
+<li>
+<div class="editionType">
+<a><b>IHT - Asia</b></a>
+</div>
+<div class="editionContent">       
+<div class=" runaroundRight flushTop flushBottom">
+<a class="enlargeThis icon" href="http://graphics8.nytimes.com/images/ihtfrontpage/asiafrontpage.pdf">Enlarge This Image</a>
+</div>
+<a  class="enlargeThis" href="http://graphics8.nytimes.com/images/ihtfrontpage/asiafrontpage.pdf" title="Click to view PDF of today's IHT Asia front page"><img src="http://graphics8.nytimes.com/images/ihtfrontpage/asiafrontpage.jpg" alt="IHT Asia Front Page" /></a>                
+</div>
+</li>				
+</ul>
+</div><!--#todaysFrontPagesContainer -->
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/app/lib/scriptaculous/1.8.1/effects.js">
+</script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/app/lib/NYTD/0.0.1/accordion.js">
+</script>
+<script type="text/javascript">
+    Event.observe(window, 'load', function(){
+        var toggleMe = new NYTD_Util_Accordion('todaysFrontPagesContainer', 'editionType', 'editionContent', 1);
+    });
+</script>
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">Quotation of the Day</h6>
+<div style="font-style: italic; margin-bottom: 0pt; line-height: 1.25em; margin-top: 0pt; margin-right: 0pt; margin-left: 0pt; font-size: 12px;">"My rapist has destroyed my future. No one will marry me after what he has done to me. So I must marry my rapist for my child’s sake."</div>
+<div style="margin: 0pt 0pt 1em; line-height: 1.25em; font-size: 12px;">
+<a style="text-decoration:none; font-weight:bold; text-transform:uppercase;" href="http://www.nytimes.com/2011/12/02/world/middleeast/for-afghan-woman-justice-runs-into-the-static-wall-of-custom.html">GULNAZ</a>, a 19-year-old Afghan woman imprisoned for adultery after being raped, who has been pardoned on the condition that she marry the man who raped her.    </div>
+</div>
+<div class="columnGroup doubleRule last">
+<div class="calendarLinks box insetV wrap">
+<div class="inset">
+<h3 class="sectionHeader">The Times in Print</h3>
+</div>
+<div class="subColumns module">
+<div class="subColumnA">
+<div class="insetH">
+<h6 class="kicker">from the past 7 days</h6>
+<table cellspacing="5" cellpadding="0" class="TwoWeekCalendar" id="TwoWeekCalendar-ab">
+<tbody>
+<tr><th>S</th><th>M</th><th>T</th><th>W</th><th>T</th><th>F</th><th>S</th></tr>
+<tr>
+<td>20</td>
+<td>21</td>
+<td>22</td>
+<td>23</td>
+<td>24</td>
+<td>25</td>
+<td>
+<a class="currentWeek" href="http://www.nytimes.com/indexes/2011/11/26/todayspaper/index.html">26</a>
+</td>
+</tr>
+<tr>
+<td>
+<a class="currentWeek" href="http://www.nytimes.com/indexes/2011/11/27/todayspaper/index.html">27</a>
+</td>
+<td>
+<a class="currentWeek" href="http://www.nytimes.com/indexes/2011/11/28/todayspaper/index.html">28</a>
+</td>
+<td>
+<a class="currentWeek" href="http://www.nytimes.com/indexes/2011/11/29/todayspaper/index.html">29</a>
+</td>
+<td>
+<a class="currentWeek" href="http://www.nytimes.com/indexes/2011/11/30/todayspaper/index.html">30</a>
+</td>
+<td>
+<a class="currentWeek" href="http://www.nytimes.com/indexes/2011/12/01/todayspaper/index.html">1</a>
+</td>
+<td>
+<a class="currentDay" href="http://www.nytimes.com/indexes/2011/12/02/todayspaper/index.html">2</a>
+</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div><!--close subColumnA -->
+<div class="subColumnB">
+<div class="insetH">
+<div class="inlineSearchControl">
+<form id="searchForm" name="searchForm" method="get" action="http://query.nytimes.com/gst/sitesearch_selector.html" enctype="application/x-www-form-urlencoded">
+<label for="KeywordDate2" class="kicker">enter keyword or date</label>
+<input type="text" id="KeywordDate2" class="text" name="query" size="20"/><input type="hidden" name="date_select" value="full"/><input type="hidden" name="type" value="todayspaper"/> <input type="image" id="Go" title="Go" alt="Go" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"/>
+<div class="smallCaption">e.g. April 21, 2001</div>
+</form>
+</div><!--close inlineSearchControl -->
+</div>
+</div><!--close subColumnB -->
+</div>
+</div><!--close calendarLinks -->
+</div>
+</div><!--close .bColumn -->
+<div id="SpanABMiddleRegion" class="opening module">
+<div class="columnGroup">  
+<div class="jumpToModule">
+<div class="singleRuleDivider"></div>
+<div class=" runaroundLeft label">
+<h2 class="refer">Jump to: </h2>
+</div>
+<div class="inlineLabel refer">
+<a class="first" href="#nytfrontpage">Front Page </a>  |  
+<a href="#world">International</a>  |  
+<a href="#us">National</a>  |  
+<a href="#obituaries">Obituaries</a>  |  
+<a href="#opinion">Editorials, Op-Ed and Letters</a>  |  
+<a href="#nyregion">New York</a>  |  
+<a href="#business">Business<br/> Day</a>  |  
+<a href="#sports">Sports Friday</a>  |  
+<a href="#arts">Weekend Arts</a>  |
+<a href="#correction">Corrections</a>  |   
+</div>
+</div>
+</div>                
+<div class="columnGroup">
+<div class="doubleRuleDivider"></div>
+<div class="opposingFloatControl wrap">  
+<div class="element1">
+<h3 class="sectionHeader">   
+<a name='world'> </a> International 
+</h3>
+</div>
+<div  class = "element2 meta">
+<a href="#">Back to Top</a> 
+</div>
+</div>
+<div class="singleRuleDivider flushTop"></div>
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/world/europe/russia-puts-pressure-on-elections-monitor-golos.html?ref=todayspaper">
+Russian Authorities Pressure Elections Watchdog</a>
+<div class="moduleHeader runaroundRight">
+section A - page 6                    </div>
+<div class="byline">
+By ELLEN BARRY                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/world/europe/belgium-forms-government-with-elio-di-rupo-as-premier.html?ref=todayspaper">
+18 Months After Vote, Belgium Has Government</a>
+<div class="moduleHeader runaroundRight">
+section A - page 6                    </div>
+<div class="byline">
+By STEPHEN CASTLE                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/world/asia/us-will-relax-curbs-on-aid-to-myanmar.html?ref=todayspaper">
+Clinton Says U.S. Will Relax Some Restrictions on Myanmar</a>
+<div class="moduleHeader runaroundRight">
+section A - page 6                    </div>
+<div class="byline">
+By STEVEN LEE MYERS                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/world/europe/french-president-warns-of-dire-consequences-if-euro-crisis-goes-unsolved.html?ref=todayspaper">
+French President Warns of Dire Consequences if Euro Crisis Goes Unsolved</a>
+<div class="moduleHeader runaroundRight">
+section A - page 8                    </div>
+<div class="byline">
+By STEVEN ERLANGER                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/world/middleeast/united-nations-says-syrian-unrest-amounts-to-civil-war.html?ref=todayspaper">
+United Nations Says Unrest in Syria Amounts to Civil War</a>
+<div class="moduleHeader runaroundRight">
+section A - page 10                    </div>
+<div class="byline">
+By NADA BAKRI                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/world/middleeast/egypts-muslim-brotherhood-keeps-distance-from-salafis.html?ref=todayspaper">
+In Egypt, No Alliance With Ultraconservatives, Islamist Party Says</a>
+<div class="moduleHeader runaroundRight">
+section A - page 10                    </div>
+<div class="byline">
+By DAVID D. KIRKPATRICK                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/world/asia/leader-says-qaeda-holds-abducted-american-aid-worker.html?ref=todayspaper">
+Leader Says Qaeda Holds Abducted American Aid Worker</a>
+<div class="moduleHeader runaroundRight">
+section A - page 12                    </div>
+<div class="byline">
+By SCOTT SHANE                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/world/middleeast/britain-closure-embassy-iran-expel-diplomats.html?ref=todayspaper">
+West Tightens Iran Sanctions After Embassy Attack</a>
+<div class="moduleHeader runaroundRight">
+section A - page 12                    </div>
+<div class="byline">
+By RICK GLADSTONE and NICHOLAS KULISH                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/world/middleeast/in-iraq-biden-says-tide-of-conflict-is-receding.html?ref=todayspaper">
+In Iraq, Biden Says Tide of Conflict Is Receding</a>
+<div class="moduleHeader runaroundRight">
+section A - page 13                    </div>
+<div class="byline">
+By MARK LANDLER                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/world/asia/pakistani-court-bars-former-us-ambassador-from-leaving.html?ref=todayspaper">
+Pakistani Court Bars Former Ambassador to U.S. From Travel</a>
+<div class="moduleHeader runaroundRight">
+section A - page 14                    </div>
+<div class="byline">
+By SALMAN MASOOD                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/world/africa/south-african-court-rejects-menzi-simelane-top-prosecutor.html?ref=todayspaper">
+South African Court Invalidates a Presidential Pick</a>
+<div class="moduleHeader runaroundRight">
+section A - page 14                    </div>
+<div class="byline">
+By JOHN ELIGON                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/world/middleeast/yemen-agreement-is-reached-on-an-interim-government.html?ref=todayspaper">
+Yemen: Agreement Is Reached on an Interim Government</a>
+<div class="moduleHeader runaroundRight">
+section A - page 14                    </div>
+<div class="byline">
+By REUTERS                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/world/europe/the-hague-new-prosecutor-picked-for-international-criminal-court.html?ref=todayspaper">
+The Hague: New Prosecutor Picked for International Criminal Court</a>
+<div class="moduleHeader runaroundRight">
+section A - page 14                    </div>
+<div class="byline">
+By MARLISE SIMONS                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/world/asia/official-says-us-needs-time-to-assess-aid-to-north-korea.html?ref=todayspaper">
+Official Says U.S. Needs Time to Assess Aid to North Korea</a>
+<div class="moduleHeader runaroundRight">
+section A - page 14                    </div>
+<div class="byline">
+By CHOE SANG-HUN                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/world/middleeast/lebanon-sends-funds-to-court.html?ref=todayspaper">
+Lebanon Sends Funds to Court</a>
+<div class="moduleHeader runaroundRight">
+section A - page 14                    </div>
+<div class="byline">
+By MARLISE SIMONS                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/world/americas/despite-raids-tijuana-tunnels-keep-humming-underground.html?ref=todayspaper">
+Tijuana Journal: Raids Don’t Keep Tunnel City From Humming Underground</a>
+<div class="moduleHeader runaroundRight">
+section A - page 15                    </div>
+<div class="byline">
+By DAMIEN CAVE                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/science/names-proposed-for-new-elements-on-periodic-table.html?ref=todayspaper">
+Names Proposed for 2 New Elements on Periodic Table</a>
+<div class="moduleHeader runaroundRight">
+section A - page 15                    </div>
+<div class="byline">
+By KENNETH CHANG                    </div>
+</h6>
+</li>
+</ul>
+</div>
+<div class="columnGroup">  
+<div class="jumpToModule">
+<div class="singleRuleDivider"></div>
+<div class=" runaroundLeft label">
+<h2 class="refer">Jump to: </h2>
+</div>
+<div class="inlineLabel refer">
+<a class="first" href="#nytfrontpage">Front Page </a>  |  
+<a href="#world">International</a>  |  
+<a href="#us">National</a>  |  
+<a href="#obituaries">Obituaries</a>  |  
+<a href="#opinion">Editorials, Op-Ed and Letters</a>  |  
+<a href="#nyregion">New York</a>  |  
+<a href="#business">Business<br/> Day</a>  |  
+<a href="#sports">Sports Friday</a>  |  
+<a href="#arts">Weekend Arts</a>  |
+<a href="#correction">Corrections</a>  |   
+</div>
+</div>
+</div>                
+<div class="columnGroup">
+<div class="doubleRuleDivider"></div>
+<div class="opposingFloatControl wrap">  
+<div class="element1">
+<h3 class="sectionHeader">   
+<a name='us'> </a> National 
+</h3>
+</div>
+<div  class = "element2 meta">
+<a href="#">Back to Top</a> 
+</div>
+</div>
+<div class="singleRuleDivider flushTop"></div>
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/more-military-dogs-show-signs-of-combat-stress.html?ref=todayspaper">
+After Duty, Dogs Suffer Like Soldiers</a>
+<div class="moduleHeader runaroundRight">
+section A - page 16                    </div>
+<div class="byline">
+By JAMES DAO                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/three-lured-to-death-in-ohio-by-craigslist-job-ad.html?ref=todayspaper">
+Craigslist Used in Deadly Ploy to Lure Victims in Ohio</a>
+<div class="moduleHeader runaroundRight">
+section A - page 16                    </div>
+<div class="byline">
+By ERICA GOODE                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/ex-governor-bill-richardson-is-said-to-be-under-investigation.html?ref=todayspaper">
+Ex-Governor Is Said to Be Focal Point of Inquiry</a>
+<div class="moduleHeader runaroundRight">
+section A - page 16                    </div>
+<div class="byline">
+By MARC LACEY and DAN FROSCH                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/drilling-down-laymans-guide-to-lease-terms.html?ref=todayspaper">
+A Layman’s Guide to Lease Terms</a>
+<div class="moduleHeader runaroundRight">
+section A - page 18                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/science/earth/dispute-over-new-air-pollution-rules-for-power-plants.html?ref=todayspaper">
+New Air Quality Rules for Power Plants in Dispute</a>
+<div class="moduleHeader runaroundRight">
+section A - page 24                    </div>
+<div class="byline">
+By MATTHEW L. WALD                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/census-finds-larger-portion-of-older-people.html?ref=todayspaper">
+Older People Are a Larger Portion of U.S. Population</a>
+<div class="moduleHeader runaroundRight">
+section A - page 24                    </div>
+<div class="byline">
+By SABRINA TAVERNISE                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/politics/with-boom-in-hispanic-voters-obama-sees-opportunity-in-arizona.html?ref=todayspaper">
+Obama to Vie for Arizona as Latino Numbers Rise</a>
+<div class="moduleHeader runaroundRight">
+section A - page 25                    </div>
+<div class="byline">
+By HELENE COOPER                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/politics/the-tantalizing-lure-of-the-outsider-candidate.html?ref=todayspaper">
+Political Times: The Tantalizing Lure of the Outsider Candidate</a>
+<div class="moduleHeader runaroundRight">
+section A - page 26                    </div>
+<div class="byline">
+By MATT BAI                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/santa-ana-winds-buffet-california.html?ref=todayspaper">
+Santa Ana Winds, Unusually Strong, Rattle More Than Nerves in California</a>
+<div class="moduleHeader runaroundRight">
+section A - page 27                    </div>
+<div class="byline">
+By JENNIFER MEDINA                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/business/energy-environment/coles-hill-uranium-mine-proposal-divides-virginia-residents.html?ref=todayspaper">
+A Big Uranium Deposit, and a Big Debate on Mining It</a>
+<div class="moduleHeader runaroundRight">
+section A - page 27                    </div>
+<div class="byline">
+By THEO EMERY                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/in-detroit-a-bid-to-prevent-a-state-takeover.html?ref=todayspaper">
+In Detroit, an Effort to Prevent a State Takeover</a>
+<div class="moduleHeader runaroundRight">
+section A - page 27                    </div>
+<div class="byline">
+By MONICA DAVEY                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/senate-declines-to-resolve-issue-of-american-qaeda-suspects-arrested-in-us.html?ref=todayspaper">
+Senate Declines to Clarify Rights of American Qaeda Suspects Arrested in U.S.</a>
+<div class="moduleHeader runaroundRight">
+section A - page 28                    </div>
+<div class="byline">
+By CHARLIE SAVAGE                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/politics/house-votes-to-end-financing-for-presidential-campaigns.html?ref=todayspaper">
+House Votes to End Financing for Presidential Campaigns</a>
+<div class="moduleHeader runaroundRight">
+section A - page 28                    </div>
+<div class="byline">
+By THE ASSOCIATED PRESS                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/florida-4-students-dismissed-in-death.html?ref=todayspaper">
+Florida: 4 Students Dismissed in Death</a>
+<div class="moduleHeader runaroundRight">
+section A - page 28                    </div>
+<div class="byline">
+By THE ASSOCIATED PRESS                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/massachusetts-occupy-boston-camp-allowed-to-stay.html?ref=todayspaper">
+Massachusetts: Camp Allowed to Stay</a>
+<div class="moduleHeader runaroundRight">
+section A - page 28                    </div>
+<div class="byline">
+By JESS BIDGOOD                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/my-kind-of-town-and-now-maybe-your-kind-of-domain-name.html?ref=todayspaper">
+My Kind of Town, and Now Maybe Your Kind of Domain Name</a>
+<div class="moduleHeader runaroundRight">
+section A - page 25A                    </div>
+<div class="byline">
+By JAMES WARREN                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/as-tax-receipts-lag-another-hole-opens-in-budget.html?ref=todayspaper">
+As Tax Receipts Lag, Another Hole Opens in Budget</a>
+<div class="moduleHeader runaroundRight">
+section A - page 25B                    </div>
+<div class="byline">
+By DAN MIHALOPOULOS                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/education-group-tries-to-rebound-after-diatribe.html?ref=todayspaper">
+Education Group Tries to Rebound After Diatribe</a>
+<div class="moduleHeader runaroundRight">
+section A - page 25A                    </div>
+<div class="byline">
+By KRISTEN McQUEARY                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/formerly-graffiti-outlaws-now-artists-of-renown.html?ref=todayspaper">
+Formerly Outlaws, Now Artists of Renown</a>
+<div class="moduleHeader runaroundRight">
+section A - page 25A                    </div>
+<div class="byline">
+By MERIBAH KNIGHT                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/popuphood-opens-temporary-store-neighborhood-in-oakland.html?ref=todayspaper">
+A Few Temporary Stores or a Neighborhood</a>
+<div class="moduleHeader runaroundRight">
+section A - page 25A                    </div>
+<div class="byline">
+By JESSE HIRSCH and REYHAN HARMANCI                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/analysis-finds-incorrect-use-of-ranked-choice-voting.html?ref=todayspaper">
+Analysis Finds Incorrect Use of Ranked-Choice Voting</a>
+<div class="moduleHeader runaroundRight">
+section A - page 25A                    </div>
+<div class="byline">
+By SHANE SHIFFLETT                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/in-apartment-hunt-looking-isnt-free.html?ref=todayspaper">
+In Apartment Hunt, Looking Isn’t Free</a>
+<div class="moduleHeader runaroundRight">
+section A - page 25B                    </div>
+<div class="byline">
+By SCOTT JAMES                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/gavin-newsom-stakes-a-claim-with-student-protests.html?ref=todayspaper">
+Newsom Stakes a Claim With Student Protests</a>
+<div class="moduleHeader runaroundRight">
+section A - page 25A                    </div>
+<div class="byline">
+By JENNIFER GOLLAN and GERRY SHIH                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/poor-economy-leaves-more-children-at-risk.html?ref=todayspaper">
+Poor Economy Leaves More Children at Risk</a>
+<div class="moduleHeader runaroundRight">
+section A - page 25A                    </div>
+<div class="byline">
+By CLAIRE CARDONA                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/schools-are-resigned-to-robin-hood.html?ref=todayspaper">
+Schools Are Resigned to Robin Hood</a>
+<div class="moduleHeader runaroundRight">
+section A - page 25A                    </div>
+<div class="byline">
+By MORGAN SMITH                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/a-little-matter-of-11-weeks-that-could-change-voting-results.html?ref=todayspaper">
+A Little Matter of 11 Weeks That Could Change Voting Results</a>
+<div class="moduleHeader runaroundRight">
+section A - page 25A                    </div>
+<div class="byline">
+By ROSS RAMSEY                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/us/gtt.html?ref=todayspaper">
+GTT ★</a>
+<div class="moduleHeader runaroundRight">
+section A - page 25B                    </div>
+<div class="byline">
+By MICHAEL HOINSKI                    </div>
+</h6>
+</li>
+</ul>
+</div>
+<div class="columnGroup">  
+<div class="jumpToModule">
+<div class="singleRuleDivider"></div>
+<div class=" runaroundLeft label">
+<h2 class="refer">Jump to: </h2>
+</div>
+<div class="inlineLabel refer">
+<a class="first" href="#nytfrontpage">Front Page </a>  |  
+<a href="#world">International</a>  |  
+<a href="#us">National</a>  |  
+<a href="#obituaries">Obituaries</a>  |  
+<a href="#opinion">Editorials, Op-Ed and Letters</a>  |  
+<a href="#nyregion">New York</a>  |  
+<a href="#business">Business<br/> Day</a>  |  
+<a href="#sports">Sports Friday</a>  |  
+<a href="#arts">Weekend Arts</a>  |
+<a href="#correction">Corrections</a>  |   
+</div>
+</div>
+</div>                
+<div class="columnGroup">
+<div class="doubleRuleDivider"></div>
+<div class="opposingFloatControl wrap">  
+<div class="element1">
+<h3 class="sectionHeader">   
+<a name='obituaries'> </a> Obituaries 
+</h3>
+</div>
+<div  class = "element2 meta">
+<a href="#">Back to Top</a> 
+</div>
+</div>
+<div class="singleRuleDivider flushTop"></div>
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/nyregion/louis-silverstein-times-art-director-dies-at-92.html?ref=todayspaper">
+Louis Silverstein, Who Gave a Bolder and Airier Look to the Times, Dies at 92</a>
+<div class="moduleHeader runaroundRight">
+section B - page 16                    </div>
+<div class="byline">
+By DOUGLAS MARTIN                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/christa-wolf-dies-at-82-wrote-of-the-germanys.html?ref=todayspaper">
+Christa Wolf Dies at 82; Wrote of the Germanys</a>
+<div class="moduleHeader runaroundRight">
+section B - page 17                    </div>
+<div class="byline">
+By DAVID BINDER and BRUCE WEBER                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/style/francois-lesage-dies-at-82-led-couture-embroidery-atelier.html?ref=todayspaper">
+François Lesage, Who Led Embroidery Atelier, Dies at 82</a>
+<div class="moduleHeader runaroundRight">
+section B - page 17                    </div>
+<div class="byline">
+By ERIC WILSON                    </div>
+</h6>
+</li>
+</ul>
+</div>
+<div class="columnGroup">  
+<div class="jumpToModule">
+<div class="singleRuleDivider"></div>
+<div class=" runaroundLeft label">
+<h2 class="refer">Jump to: </h2>
+</div>
+<div class="inlineLabel refer">
+<a class="first" href="#nytfrontpage">Front Page </a>  |  
+<a href="#world">International</a>  |  
+<a href="#us">National</a>  |  
+<a href="#obituaries">Obituaries</a>  |  
+<a href="#opinion">Editorials, Op-Ed and Letters</a>  |  
+<a href="#nyregion">New York</a>  |  
+<a href="#business">Business<br/> Day</a>  |  
+<a href="#sports">Sports Friday</a>  |  
+<a href="#arts">Weekend Arts</a>  |
+<a href="#correction">Corrections</a>  |   
+</div>
+</div>
+</div>                
+<div class="columnGroup">
+<div class="doubleRuleDivider"></div>
+<div class="opposingFloatControl wrap">  
+<div class="element1">
+<h3 class="sectionHeader">   
+<a name='opinion'> </a> Editorials, Op-Ed and Letters 
+</h3>
+</div>
+<div  class = "element2 meta">
+<a href="#">Back to Top</a> 
+</div>
+</div>
+<div class="singleRuleDivider flushTop"></div>
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/opinion/the-fed-and-the-euro.html?ref=todayspaper">
+Editorial: The Fed and the Euro</a>
+<div class="moduleHeader runaroundRight">
+section A - page 38                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/opinion/egypts-vote.html?ref=todayspaper">
+Editorial: Egypt’s Vote</a>
+<div class="moduleHeader runaroundRight">
+section A - page 38                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/opinion/woeful-cynical-misconduct.html?ref=todayspaper">
+Editorial: Woeful, Cynical Misconduct</a>
+<div class="moduleHeader runaroundRight">
+section A - page 38                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/opinion/bach-to-brooklyn.html?ref=todayspaper">
+Editorial | Appreciations: Bach to Brooklyn</a>
+<div class="moduleHeader runaroundRight">
+section A - page 38                    </div>
+<div class="byline">
+By FRANCIS X. CLINES                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/opinion/krugman-killing-the-euro.html?ref=todayspaper">
+Paul Krugman: Killing the Euro</a>
+<div class="moduleHeader runaroundRight">
+section A - page 39                    </div>
+<div class="byline">
+By PAUL KRUGMAN                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/opinion/brooks-the-spirit-of-enterprise.html?ref=todayspaper">
+David Brooks: The Spirit of Enterprise</a>
+<div class="moduleHeader runaroundRight">
+section A - page 39                    </div>
+<div class="byline">
+By DAVID BROOKS                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/opinion/can-russia-help-us-withdraw-from-afghanistan.html?ref=todayspaper">
+Op-Ed Contributors: Can Russia Help Us Withdraw From Afghanistan?</a>
+<div class="moduleHeader runaroundRight">
+section A - page 39                    </div>
+<div class="byline">
+By DOV S. ZAKHEIM and PAUL J. SAUNDERS                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/opinion/forensic-analysts-should-defend-reports-in-court.html?ref=todayspaper">
+Op-Ed Contributor: The Bill of Rights Doesn’t Come Cheap</a>
+<div class="moduleHeader runaroundRight">
+section A - page 39                    </div>
+<div class="byline">
+By JEFFREY L. FISHER                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/opinion/punishing-wrongdoing-on-wall-street.html?ref=todayspaper">
+Letters: Punishing Wrongdoing on Wall Street</a>
+<div class="moduleHeader runaroundRight">
+section A - page 38                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/opinion/the-solyndra-loan-inquiry.html?ref=todayspaper">
+Letter: The Solyndra Loan Inquiry</a>
+<div class="moduleHeader runaroundRight">
+section A - page 38                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/opinion/for-profit-colleges.html?ref=todayspaper">
+Letter: For-Profit Colleges</a>
+<div class="moduleHeader runaroundRight">
+section A - page 38                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/opinion/school-lunches.html?ref=todayspaper">
+Letter: School Lunches</a>
+<div class="moduleHeader runaroundRight">
+section A - page 38                    </div>
+</h6>
+</li>
+</ul>
+</div>
+<div class="columnGroup">  
+<div class="jumpToModule">
+<div class="singleRuleDivider"></div>
+<div class=" runaroundLeft label">
+<h2 class="refer">Jump to: </h2>
+</div>
+<div class="inlineLabel refer">
+<a class="first" href="#nytfrontpage">Front Page </a>  |  
+<a href="#world">International</a>  |  
+<a href="#us">National</a>  |  
+<a href="#obituaries">Obituaries</a>  |  
+<a href="#opinion">Editorials, Op-Ed and Letters</a>  |  
+<a href="#nyregion">New York</a>  |  
+<a href="#business">Business<br/> Day</a>  |  
+<a href="#sports">Sports Friday</a>  |  
+<a href="#arts">Weekend Arts</a>  |
+<a href="#correction">Corrections</a>  |   
+</div>
+</div>
+</div>                
+<div class="columnGroup">
+<div class="doubleRuleDivider"></div>
+<div class="opposingFloatControl wrap">  
+<div class="element1">
+<h3 class="sectionHeader">   
+<a name='nyregion'> </a> New York 
+</h3>
+</div>
+<div  class = "element2 meta">
+<a href="#">Back to Top</a> 
+</div>
+</div>
+<div class="singleRuleDivider flushTop"></div>
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/nyregion/cuomo-fund-fills-with-money-from-thankful-gay-donors.html?ref=todayspaper">
+After Pushing Gay Marriage, Cuomo Is Thanked With Money</a>
+<div class="moduleHeader runaroundRight">
+section A - page 29                    </div>
+<div class="byline">
+By THOMAS KAPLAN                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/nyregion/in-reborn-harlem-liquor-store-draws-complaints.html?ref=todayspaper">
+As Tastes Change in Harlem, Old-Look Liquor Store Stirs a Fight</a>
+<div class="moduleHeader runaroundRight">
+section A - page 29                    </div>
+<div class="byline">
+By JOSEPH BERGER                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/nyregion/chicanery-far-beyond-a-156-bagel.html?ref=todayspaper">
+About New York: Chicanery Far Beyond a $156 Bagel</a>
+<div class="moduleHeader runaroundRight">
+section A - page 29                    </div>
+<div class="byline">
+By JIM DWYER                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://cityroom.blogs.nytimes.com/2011/12/01/kindles-ipads-bid-now-by-fax-or-mail-only/?ref=todayspaper">
+City Room: Kindles! iPods! Bid Now! (By Fax or Mail Only)</a>
+<div class="moduleHeader runaroundRight">
+section A - page 30                    </div>
+<div class="byline">
+By CHRISTINE HAUGHNEY                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/nyregion/defense-calls-case-against-larry-seabrook-speculation.html?ref=todayspaper">
+City Councilman’s Lawyer Calls Charges ‘Speculation’</a>
+<div class="moduleHeader runaroundRight">
+section A - page 30                    </div>
+<div class="byline">
+By COLIN MOYNIHAN                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/nyregion/fearing-climate-changes-effects-on-the-adirondacks.html?ref=todayspaper">
+Savoring Bogs and Moose, Fearing They’ll Vanish as the Adirondacks Warm</a>
+<div class="moduleHeader runaroundRight">
+section A - page 30                    </div>
+<div class="byline">
+By LISA W. FODERARO                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://cityroom.blogs.nytimes.com/2011/12/01/negotiations-under-way-for-special-session-in-albany-on-spending-cuts/?ref=todayspaper">
+City Room: Negotiations Under Way for Special Session in Albany on Budget Shortfall</a>
+<div class="moduleHeader runaroundRight">
+section A - page 32                    </div>
+<div class="byline">
+By THOMAS KAPLAN                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://cityroom.blogs.nytimes.com/2011/12/01/off-the-mat-into-court-lawsuit-pits-bikram-and-yoga-to-the-people/?ref=todayspaper">
+City Room: Off the Mat, Into Court: Lawsuit Pits Bikram and Yoga to the People</a>
+<div class="moduleHeader runaroundRight">
+section A - page 32                    </div>
+<div class="byline">
+By MEREDITH HOFFMAN                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/nyregion/self-abortion-charge-after-fetus-found-in-trash-in-washington-heights.html?ref=todayspaper">
+After Fetus Is Found in Trash, a Rare Charge of Self-Abortion</a>
+<div class="moduleHeader runaroundRight">
+section A - page 32                    </div>
+<div class="byline">
+By ANEMONA HARTOCOLLIS                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/nyregion/after-opening-a-door-watching-anxiety-fade.html?ref=todayspaper">
+The Neediest Cases: After Opening a Door, Watching Anxiety Fade</a>
+<div class="moduleHeader runaroundRight">
+section A - page 32                    </div>
+<div class="byline">
+By MATHEW R. WARREN                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/nyregion/in-transcript-details-on-why-developer-aaron-malinsky-was-dropped-from-kruger-case.html?ref=todayspaper">
+Insight Into Dropping of Charges for Developer</a>
+<div class="moduleHeader runaroundRight">
+section A - page 34                    </div>
+<div class="byline">
+By BENJAMIN WEISER                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/nyregion/boylands-chief-of-staff-arrested-in-bribery-case.html?ref=todayspaper">
+Assemblyman’s Chief of Staff Is Arrested in Bribery Case</a>
+<div class="moduleHeader runaroundRight">
+section A - page 34                    </div>
+<div class="byline">
+By MOSI SECRET                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://cityroom.blogs.nytimes.com/2011/12/01/carrion-is-fined-10000-for-conflict-over-architect/?ref=todayspaper">
+City Room: Carrión Is Fined $10,000 for Conflict Over Architect</a>
+<div class="moduleHeader runaroundRight">
+section A - page 34                    </div>
+<div class="byline">
+By ANDY NEWMAN                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/education/problems-with-credits-at-school-in-the-bronx.html?ref=todayspaper">
+Problems With Credits at School in the Bronx</a>
+<div class="moduleHeader runaroundRight">
+section A - page 34                    </div>
+<div class="byline">
+By ANNA M. PHILLIPS and HADAS GOSHEN                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/nyregion/excerpts-from-recordings-of-boylands-chief-of-staff.html?ref=todayspaper">
+‘Are We Getting Some Money?’</a>
+<div class="moduleHeader runaroundRight">
+section A - page 34                    </div>
+</h6>
+</li>
+</ul>
+</div>
+<div class="columnGroup">  
+<div class="jumpToModule">
+<div class="singleRuleDivider"></div>
+<div class=" runaroundLeft label">
+<h2 class="refer">Jump to: </h2>
+</div>
+<div class="inlineLabel refer">
+<a class="first" href="#nytfrontpage">Front Page </a>  |  
+<a href="#world">International</a>  |  
+<a href="#us">National</a>  |  
+<a href="#obituaries">Obituaries</a>  |  
+<a href="#opinion">Editorials, Op-Ed and Letters</a>  |  
+<a href="#nyregion">New York</a>  |  
+<a href="#business">Business<br/> Day</a>  |  
+<a href="#sports">Sports Friday</a>  |  
+<a href="#arts">Weekend Arts</a>  |
+<a href="#correction">Corrections</a>  |   
+</div>
+</div>
+</div>                
+<div class="columnGroup">
+<div class="doubleRuleDivider"></div>
+<div class="opposingFloatControl wrap">  
+<div class="element1">
+<h3 class="sectionHeader">   
+<a name='business'> </a> Business Day 
+</h3>
+</div>
+<div  class = "element2 meta">
+<a href="#">Back to Top</a> 
+</div>
+</div>
+<div class="singleRuleDivider flushTop"></div>
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/business/major-banks-face-new-foreclosure-suit.html?ref=todayspaper">
+Massachusetts Sues 5 Major Banks Over Foreclosure Practices</a>
+<div class="moduleHeader runaroundRight">
+section B - page 1                    </div>
+<div class="byline">
+By GRETCHEN MORGENSON                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/business/for-jobless-little-hope-of-full-recovery-study-says.html?ref=todayspaper">
+For Jobless, Little Hope of Restoring Better Days</a>
+<div class="moduleHeader runaroundRight">
+section B - page 1                    </div>
+<div class="byline">
+By MOTOKO RICH                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/business/global/draghi-hints-again-at-rate-cut-in-europe.html?ref=todayspaper">
+Central Bank Chief Hints at Stepping Up Euro Support</a>
+<div class="moduleHeader runaroundRight">
+section B - page 1                    </div>
+<div class="byline">
+By JACK EWING                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/business/contractors-work-for-us-pension-guarantor-was-flawed-audit-says.html?ref=todayspaper">
+Contractor’s Work Faulted at U.S. Pension Guarantor</a>
+<div class="moduleHeader runaroundRight">
+section B - page 1                    </div>
+<div class="byline">
+By MARY WILLIAMS WALSH                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/business/time-to-accelerate-the-housing-recovery-floyd-norris.html?ref=todayspaper">
+High & Low Finance: Time to Accelerate the Housing Recovery</a>
+<div class="moduleHeader runaroundRight">
+section B - page 1                    </div>
+<div class="byline">
+By FLOYD NORRIS                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/business/ford-seeks-to-glamorize-lincoln-vehicles.html?ref=todayspaper">
+Ford Strives for Elegance in Lincoln Brand</a>
+<div class="moduleHeader runaroundRight">
+section B - page 1                    </div>
+<div class="byline">
+By BILL VLASIC                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/business/as-a-financial-center-london-needs-an-air-hub.html?ref=todayspaper">
+As a Financial Center, London Needs an Air Hub</a>
+<div class="moduleHeader runaroundRight">
+section B - page 2                    </div>
+<div class="byline">
+By ROBERT COLE and ROBERT CYRAN                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/business/media/ludens-recasts-the-lozenge-emphasizing-taste.html?ref=todayspaper">
+Advertising: Luden’s Recasts the Lozenge, Emphasizing Taste and Versatility</a>
+<div class="moduleHeader runaroundRight">
+section B - page 2                    </div>
+<div class="byline">
+By ANDREW ADAM NEWMAN                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://dealbook.nytimes.com/2011/12/01/rajaratnam-loses-bid-to-remain-free-pending-appeal/?ref=todayspaper">
+DealBook: Prison for Rajaratnam During Appeal</a>
+<div class="moduleHeader runaroundRight">
+section B - page 3                    </div>
+<div class="byline">
+By PETER LATTMAN                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/business/research-in-motion-employees-fined-for-disruption-on-plane.html?ref=todayspaper">
+Two Research in Motion Employees Fined for Disruption on Plane</a>
+<div class="moduleHeader runaroundRight">
+section B - page 3                    </div>
+<div class="byline">
+By IAN AUSTEN and SUSANNE CRAIG                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/business/economy/retail-sales.html?ref=todayspaper">
+U.S. Retailers Meet Forecasts</a>
+<div class="moduleHeader runaroundRight">
+section B - page 3                    </div>
+<div class="byline">
+By STEPHANIE CLIFFORD                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/technology/companies/a-new-google-venture-nudges-web-boundaries.html?ref=todayspaper">
+A New Google Venture, and Another Web Boundary Line Is Nudged</a>
+<div class="moduleHeader runaroundRight">
+section B - page 3                    </div>
+<div class="byline">
+By CLAIRE CAIN MILLER and NICK BILTON                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/business/global/toyota-and-bmw-in-technology-alliance.html?ref=todayspaper">
+An Alliance for BMW and Toyota</a>
+<div class="moduleHeader runaroundRight">
+section B - page 4                    </div>
+<div class="byline">
+By HIROKO TABUCHI                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/business/gm-offers-to-buy-back-volts-over-fire-risk.html?ref=todayspaper">
+G.M. Offers to Buy Back Hybrid Volts From Owners</a>
+<div class="moduleHeader runaroundRight">
+section B - page 4                    </div>
+<div class="byline">
+By BILL VLASIC and NICK BUNKLEY                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/business/car-buyers-flock-to-us-showrooms.html?ref=todayspaper">
+Americans Flock to Car Showrooms With Wallets Open</a>
+<div class="moduleHeader runaroundRight">
+section B - page 4                    </div>
+<div class="byline">
+By NICK BUNKLEY                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/health/policy/some-stem-cell-donors-can-be-paid-court-rules.html?ref=todayspaper">
+Court Says Some Donors of Stem Cells Can Be Paid</a>
+<div class="moduleHeader runaroundRight">
+section B - page 5                    </div>
+<div class="byline">
+By ANDREW POLLACK                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/business/global/02iht-wto02.html?ref=todayspaper">
+Europe Says It Removed Subsidies for Airbus</a>
+<div class="moduleHeader runaroundRight">
+section B - page 5                    </div>
+<div class="byline">
+By THE ASSOCIATED PRESS                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/business/economy/claims-for-jobless-benefits-rose-last-week.html?ref=todayspaper">
+American Factories Are Busier, but Hiring Is Lagging</a>
+<div class="moduleHeader runaroundRight">
+section B - page 6                    </div>
+<div class="byline">
+By THE ASSOCIATED PRESS                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/business/daily-stock-market-activity.html?ref=todayspaper">
+Stocks on Wall Street Drift Slightly After Gains</a>
+<div class="moduleHeader runaroundRight">
+section B - page 6                    </div>
+<div class="byline">
+By BLOOMBERG NEWS                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://dealbook.nytimes.com/2011/12/01/for-wall-street-watchdog-all-grunt-work-little-glory/?ref=todayspaper">
+DealBook: For Wall Street Watchdog, All Grunt Work, Little Glory</a>
+<div class="moduleHeader runaroundRight">
+section B - page 7                    </div>
+<div class="byline">
+By BEN PROTESS                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://dealbook.nytimes.com/2011/12/01/regulators-pledge-new-rules-after-mf-globals-demise/?ref=todayspaper">
+DealBook: Regulators Pledge New Rules After MF Global's Demise</a>
+<div class="moduleHeader runaroundRight">
+section B - page 7                    </div>
+<div class="byline">
+By BEN PROTESS                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://dealbook.nytimes.com/2011/12/01/bp-to-sell-canadian-gas-group-for-1-67-billion/?ref=todayspaper">
+DealBook: BP to Sell Canadian Natural Gas Unit for $1.67 Billion</a>
+<div class="moduleHeader runaroundRight">
+section B - page 7                    </div>
+<div class="byline">
+By JULIA WERDIGIER                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://dealbook.nytimes.com/2011/12/01/ubs-chief-risk-officer-steps-down/?ref=todayspaper">
+DealBook: Chief Risk Officer Departs in UBS Shake-Up</a>
+<div class="moduleHeader runaroundRight">
+section B - page 7                    </div>
+<div class="byline">
+By JULIA WERDIGIER                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://mediadecoder.blogs.nytimes.com/2011/12/01/at-thomson-reuters-corporate-p-r-mirrors-real-life/?ref=todayspaper">
+Media Decoder Blog: Reuters Says New Chief Will Lead Turnaround</a>
+<div class="moduleHeader runaroundRight">
+section B - page 9                    </div>
+<div class="byline">
+By AMY CHOZICK                    </div>
+</h6>
+</li>
+</ul>
+</div>
+<div class="columnGroup">  
+<div class="jumpToModule">
+<div class="singleRuleDivider"></div>
+<div class=" runaroundLeft label">
+<h2 class="refer">Jump to: </h2>
+</div>
+<div class="inlineLabel refer">
+<a class="first" href="#nytfrontpage">Front Page </a>  |  
+<a href="#world">International</a>  |  
+<a href="#us">National</a>  |  
+<a href="#obituaries">Obituaries</a>  |  
+<a href="#opinion">Editorials, Op-Ed and Letters</a>  |  
+<a href="#nyregion">New York</a>  |  
+<a href="#business">Business<br/> Day</a>  |  
+<a href="#sports">Sports Friday</a>  |  
+<a href="#arts">Weekend Arts</a>  |
+<a href="#correction">Corrections</a>  |   
+</div>
+</div>
+</div>                
+<div class="columnGroup">
+<div class="doubleRuleDivider"></div>
+<div class="opposingFloatControl wrap">  
+<div class="element1">
+<h3 class="sectionHeader">   
+<a name='sports'> </a> Sports Friday 
+</h3>
+</div>
+<div  class = "element2 meta">
+<a href="#">Back to Top</a> 
+</div>
+</div>
+<div class="singleRuleDivider flushTop"></div>
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/sports/basketball/the-ball-still-belongs-to-the-stars.html?ref=todayspaper">
+On Basketball: The Ball Still Belongs to the Stars</a>
+<div class="moduleHeader runaroundRight">
+section B - page 11                    </div>
+<div class="byline">
+By HOWARD BECK                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/sports/ncaabasketball/syracuse-criticized-for-its-handling-of-sexual-abuse-case.html?ref=todayspaper">
+Syracuse Criticized for Its Handling of Sexual Abuse Case</a>
+<div class="moduleHeader runaroundRight">
+section B - page 11                    </div>
+<div class="byline">
+By PETE THAMEL                      </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/sports/football/jordy-nelson-of-packers-sneaks-up-on-defenses.html?ref=todayspaper">
+Sneaking Up on Defenses, Until He’s Past Them</a>
+<div class="moduleHeader runaroundRight">
+section B - page 11                    </div>
+<div class="byline">
+By PAT BORZI                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/sports/kelly-cobb-leads-duke-to-womens-national-semifinals.html?ref=todayspaper">
+Duke Freshman Bloomed in Unlikely Place</a>
+<div class="moduleHeader runaroundRight">
+section B - page 12                    </div>
+<div class="byline">
+By CLARE LOCHARY                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/sports/ncaafootball/lawsuit-is-settled-in-penn-state-case.html?ref=todayspaper">
+Lawsuit Is Settled in Penn State Case</a>
+<div class="moduleHeader runaroundRight">
+section B - page 12                    </div>
+<div class="byline">
+By BILL PENNINGTON                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/sports/ncaabasketball/kentucky-rolls-past-st-johns-81-59.html?ref=todayspaper">
+Kentucky 81, St. John's 59: Kentucky’s Freshmen Sink the Red Storm</a>
+<div class="moduleHeader runaroundRight">
+section B - page 12                    </div>
+<div class="byline">
+By CLAIRE NOVAK                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/sports/football/giants-hope-to-exploit-packers-big-play-weakness.html?ref=todayspaper">
+Giants See Opening vs. Packers: Vulnerability to Big Plays</a>
+<div class="moduleHeader runaroundRight">
+section B - page 13                    </div>
+<div class="byline">
+By SAM BORDEN                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/sports/football/jets-hope-a-savvy-consultant-can-help-treat-their-ailing-offense.html?ref=todayspaper">
+Help Line Open for Jets’ Ailing Offense</a>
+<div class="moduleHeader runaroundRight">
+section B - page 13                    </div>
+<div class="byline">
+By MARK VIERA                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/sports/football/nfl-football-roundup.html?ref=todayspaper">
+N.F.L. Roundup: Seattle and Lynch Send Eagles to 4-8</a>
+<div class="moduleHeader runaroundRight">
+section B - page 13                    </div>
+<div class="byline">
+By THE ASSOCIATED PRESS                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/sports/ncaafootball/west-virginia-tops-south-florida-30-27.html?ref=todayspaper">
+Mountaineers Win at the Wire</a>
+<div class="moduleHeader runaroundRight">
+section B - page 13                    </div>
+<div class="byline">
+By THE ASSOCIATED PRESS                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/sports/basketball/nba-players-will-re-form-union.html?ref=todayspaper">
+N.B.A. Players Union Set to Resume Business</a>
+<div class="moduleHeader runaroundRight">
+section B - page 14                    </div>
+<div class="byline">
+By HOWARD BECK                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/sports/basketball/for-knicks-anthony-a-lonely-workout.html?ref=todayspaper">
+Lots of Company After Lonely Session</a>
+<div class="moduleHeader runaroundRight">
+section B - page 14                    </div>
+<div class="byline">
+By STEVE ADAMEK                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/sports/golf/shades-of-the-old-woods-on-a-windy-day.html?ref=todayspaper">
+Shades of the Old Woods on a Windy Day</a>
+<div class="moduleHeader runaroundRight">
+section B - page 14                    </div>
+<div class="byline">
+By KAREN CROUSE                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/01/sports/tennis/01iht-srdchistory01.html?ref=todayspaper">
+David Nalbandian's Enduring 'Obsession'</a>
+<div class="moduleHeader runaroundRight">
+section B - page 15                    </div>
+<div class="byline">
+By CHRISTOPHER CLAREY                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/sports/baseball/valentine-and-red-sox-start-afresh.html?ref=todayspaper">
+On Baseball: Valentine and Red Sox Start Afresh</a>
+<div class="moduleHeader runaroundRight">
+section B - page 15                    </div>
+<div class="byline">
+By TYLER KEPNER                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/sports/baseball/yankees-rivera-to-have-surgery.html?ref=todayspaper">
+Yankees’ Rivera to Have Surgery</a>
+<div class="moduleHeader runaroundRight">
+section B - page 15                    </div>
+<div class="byline">
+By THE NEW YORK TIMES                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/sports/baseball/red-sox-front-office-describes-process-of-hiring-valentine.html?ref=todayspaper">
+Behind the Scenes of the Front Office’s Decision</a>
+<div class="moduleHeader runaroundRight">
+section B - page 15                    </div>
+<div class="byline">
+By DAVID WALDSTEIN                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/sports/hockey/nhl-hockey-roundup.html?ref=todayspaper">
+N.H.L. Roundup: Second-Period Outburst Powers Streaking Rangers</a>
+<div class="moduleHeader runaroundRight">
+section B - page 16                    </div>
+<div class="byline">
+By THE ASSOCIATED PRESS                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/sports/hockey/capitals-ovechkin-an-improvement-project-for-dale-hunter.html?ref=todayspaper">
+Penguins 2, Capitals 1: Coach’s Plan to Rouse Ovechkin Produces Little</a>
+<div class="moduleHeader runaroundRight">
+section B - page 16                    </div>
+<div class="byline">
+By JEFF Z. KLEIN                    </div>
+</h6>
+</li>
+</ul>
+</div>
+<div class="columnGroup">  
+<div class="jumpToModule">
+<div class="singleRuleDivider"></div>
+<div class=" runaroundLeft label">
+<h2 class="refer">Jump to: </h2>
+</div>
+<div class="inlineLabel refer">
+<a class="first" href="#nytfrontpage">Front Page </a>  |  
+<a href="#world">International</a>  |  
+<a href="#us">National</a>  |  
+<a href="#obituaries">Obituaries</a>  |  
+<a href="#opinion">Editorials, Op-Ed and Letters</a>  |  
+<a href="#nyregion">New York</a>  |  
+<a href="#business">Business<br/> Day</a>  |  
+<a href="#sports">Sports Friday</a>  |  
+<a href="#arts">Weekend Arts</a>  |
+<a href="#correction">Corrections</a>  |   
+</div>
+</div>
+</div>                
+<div class="columnGroup">
+<div class="doubleRuleDivider"></div>
+<div class="opposingFloatControl wrap">  
+<div class="element1">
+<h3 class="sectionHeader">   
+<a name='arts'> </a> Weekend Arts 
+</h3>
+</div>
+<div  class = "element2 meta">
+<a href="#">Back to Top</a> 
+</div>
+</div>
+<div class="singleRuleDivider flushTop"></div>
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://theater.nytimes.com/2011/12/02/theater/reviews/bonnie-clyde-with-laura-osnes-and-jeremy-jordan-review.html?ref=todayspaper">
+Theater Review | 'Bonnie & Clyde': Armed and Amorous, Committing Cold-Blooded Musical</a>
+<div class="moduleHeader runaroundRight">
+section C - page 1                    </div>
+<div class="byline">
+By BEN BRANTLEY                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/12/02/movies/shame-directed-by-steve-mcqueen-review.html?ref=todayspaper">
+Movie Review | 'Shame': Only One Thing on His Mind</a>
+<div class="moduleHeader runaroundRight">
+section C - page 1                    </div>
+<div class="byline">
+By A. O. SCOTT                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/12/02/movies/ralph-fiennes-and-vanessa-redgrave-in-coriolanus-review.html?ref=todayspaper">
+Movie Review | 'Coriolanus': He’s the Hero of the People, and He Hates It</a>
+<div class="moduleHeader runaroundRight">
+section C - page 1                    </div>
+<div class="byline">
+By MANOHLA DARGIS                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://artsbeat.blogs.nytimes.com/2011/12/01/talks-break-down-between-city-opera-and-unions/?ref=todayspaper">
+ArtsBeat Blog: Talks Break Down Between City Opera and Unions</a>
+<div class="moduleHeader runaroundRight">
+section C - page 2                    </div>
+<div class="byline">
+By DANIEL J. WAKIN                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://artsbeat.blogs.nytimes.com/2011/11/30/ebert-says-at-the-movies-will-take-hiatus/?ref=todayspaper">
+ArtsBeat Blog: Ebert Says 'At the Movies' Will Take Hiatus</a>
+<div class="moduleHeader runaroundRight">
+section C - page 2                    </div>
+<div class="byline">
+By DAVE ITZKOFF                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://artsbeat.blogs.nytimes.com/2011/12/01/15-million-gift-changes-miami-art-museum-to-jorge-m-perez-art-museum/?ref=todayspaper">
+ArtsBeat Blog: $15 Million Gift Changes Miami Art Museum to Jorge M. Pérez Art Museum</a>
+<div class="moduleHeader runaroundRight">
+section C - page 2                    </div>
+<div class="byline">
+By ROBIN POGREBIN                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://artsbeat.blogs.nytimes.com/2011/12/01/montclair-film-festival-gains-directors-and-a-cheerleader-named-stephen-colbert/?ref=todayspaper">
+ArtsBeat Blog: Montclair Film Festival Gains Directors, and a Cheerleader Named Stephen Colbert</a>
+<div class="moduleHeader runaroundRight">
+section C - page 2                    </div>
+<div class="byline">
+By DAVE ITZKOFF                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://artsbeat.blogs.nytimes.com/2011/12/01/victims-parents-say-west-memphis-three-documentary-shouldnt-receive-an-oscar/?ref=todayspaper">
+ArtsBeat Blog: Victim's Parents Say West Memphis Three Documentary Shouldn't Receive an Oscar</a>
+<div class="moduleHeader runaroundRight">
+section C - page 2                    </div>
+<div class="byline">
+By DAVE ITZKOFF                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://artsbeat.blogs.nytimes.com/2011/12/01/springsteen-to-make-trip-to-sxsw/?ref=todayspaper">
+ArtsBeat Blog: Springsteen to Make Trip to SXSW</a>
+<div class="moduleHeader runaroundRight">
+section C - page 2                    </div>
+<div class="byline">
+By LARRY ROHTER                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://artsbeat.blogs.nytimes.com/2011/12/01/judge-dismisses-suit-against-dallas-art-museum/?ref=todayspaper">
+ArtsBeat Blog: Judge Dismisses Suit Against Dallas Art Museum</a>
+<div class="moduleHeader runaroundRight">
+section C - page 2                    </div>
+<div class="byline">
+By ROBIN POGREBIN                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/music/michael-feinstein-and-barbara-cook-at-feinsteins-review.html?ref=todayspaper">
+Music Review: Benevolent Monarchs Of the Songbook Realm</a>
+<div class="moduleHeader runaroundRight">
+section C - page 3                    </div>
+<div class="byline">
+By STEPHEN HOLDEN                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/music/adele-bruno-mars-and-kanye-west-lead-grammy-nominations.html?ref=todayspaper">
+Pop Stars Dominate Major Grammy Categories</a>
+<div class="moduleHeader runaroundRight">
+section C - page 3                    </div>
+<div class="byline">
+By JAMES C. McKINLEY Jr.                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/music/new-york-womens-ensemble-at-carnegie-hall-review.html?ref=todayspaper">
+Music Review: Disparate Players, Evoking Familiar Sounds</a>
+<div class="moduleHeader runaroundRight">
+section C - page 4                    </div>
+<div class="byline">
+By STEVE SMITH                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/dance/alvin-ailey-american-dance-theater-at-city-center-review.html?ref=todayspaper">
+Dance Review: Starting a New Era With Graciousness, Taste and Tradition</a>
+<div class="moduleHeader runaroundRight">
+section C - page 5                    </div>
+<div class="byline">
+By BRIAN SEIBERT                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/dance/angel-reapers-at-joyce-theater-review.html?ref=todayspaper">
+Dance Review: The Physical Ecstasy of Worship, and the Travails of Those Who Tread Its Path</a>
+<div class="moduleHeader runaroundRight">
+section C - page 5                    </div>
+<div class="byline">
+By CLAUDIA LA ROCCO                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/12/02/movies/the-yellow-sea-from-south-korea-review.html?ref=todayspaper">
+Movie Review | 'The Yellow Sea': The Blood Runs Freely, but the Dogs Can’t</a>
+<div class="moduleHeader runaroundRight">
+section C - page 8                    </div>
+<div class="byline">
+By MANOHLA DARGIS                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/12/02/movies/force-of-nature-the-david-suzuki-movie-review.html?ref=todayspaper">
+Movie Review | 'Force of Nature: The David Suzuki Movie': Dear Humans: The Planet Needs Your Help</a>
+<div class="moduleHeader runaroundRight">
+section C - page 10                    </div>
+<div class="byline">
+By STEPHEN HOLDEN                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/12/02/movies/under-fire-journalists-in-combat-by-martyn-burke-review.html?ref=todayspaper">
+Movie Review | 'Under Fire: Journalists in Combat': Firsthand Dangers of Reporters in Combat Zones</a>
+<div class="moduleHeader runaroundRight">
+section C - page 10                    </div>
+<div class="byline">
+By RACHEL SALTZ                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/12/02/movies/kinyarwanda-about-1994-genocide-of-tutsis-in-rwanda.html?ref=todayspaper">
+Movie Review | 'Kinyarwanda': Linked Stories From the Months of the Rwanda Massacre</a>
+<div class="moduleHeader runaroundRight">
+section C - page 10                    </div>
+<div class="byline">
+By DAVID DeWITT                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/12/02/movies/under-control-documentary-on-german-nuclear-power-plants-review.html?ref=todayspaper">
+Movie Review | 'Under Control': An Intimate Tour of a Gleaming German Nuclear Plant</a>
+<div class="moduleHeader runaroundRight">
+section C - page 10                    </div>
+<div class="byline">
+By JEANNETTE CATSOULIS                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/12/02/movies/lads-jockeys-documentary-on-french-horse-racing-school.html?ref=todayspaper">
+Movie Review | 'Lads & Jockeys': First-Race Terrors and Last-Place Humiliations at a Horse-Racing School</a>
+<div class="moduleHeader runaroundRight">
+section C - page 10                    </div>
+<div class="byline">
+By JEANNETTE CATSOULIS                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/12/02/movies/answers-to-nothing-by-matthew-leutwyler-review.html?ref=todayspaper">
+Movie Review | 'Answers to Nothing': The Loneliness of a Brother’s Caregiver</a>
+<div class="moduleHeader runaroundRight">
+section C - page 10                    </div>
+<div class="byline">
+By NEIL GENZLINGER                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/12/02/movies/a-warriors-heart-with-kellan-lutz-and-ashley-greene.html?ref=todayspaper">
+Movie Review | 'A Warrior’s Heart': Lacrosse Player Comes Undone, and Grows</a>
+<div class="moduleHeader runaroundRight">
+section C - page 10                    </div>
+<div class="byline">
+By ANDY WEBSTER                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/12/02/movies/a-journey-in-my-mothers-footsteps-dina-rosenmeiers-documentary-review.html?ref=todayspaper">
+Movie Review | 'A Journey in My Mother’s Footsteps': Daughter’s Bittersweet Memoir of a Humanitarian Mother</a>
+<div class="moduleHeader runaroundRight">
+section C - page 10                    </div>
+<div class="byline">
+By PAUL BRUNICK                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/12/02/movies/julia-leighs-sleeping-beauty-review.html?ref=todayspaper">
+Movie Review | 'Sleeping Beauty': Objectification Is Also in the Eye of the Beheld</a>
+<div class="moduleHeader runaroundRight">
+section C - page 14                    </div>
+<div class="byline">
+By A. O. SCOTT                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/12/02/movies/the-big-fix-and-big-oil-review.html?ref=todayspaper">
+Movie Review | 'The Big Fix': Fury, Up Close and Personal, at the Lingering Effects From the BP Oil Spill</a>
+<div class="moduleHeader runaroundRight">
+section C - page 16                    </div>
+<div class="byline">
+By STEPHEN HOLDEN                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/music/moise-et-pharaon-at-carnegie-hall-review.html?ref=todayspaper">
+Music Review: An Illicit Romance, a Revenge Wrought and an Escape From Egypt</a>
+<div class="moduleHeader runaroundRight">
+section C - page 19                    </div>
+<div class="byline">
+By ZACHARY WOOLFE                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://movies.nytimes.com/2011/12/02/movies/outrage-directed-by-takeshi-kitano-review.html?ref=todayspaper">
+Movie Review | 'Outrage': The Violence That Japanese Gangsters Do: Betrayal Among the Yakuza</a>
+<div class="moduleHeader runaroundRight">
+section C - page 20                    </div>
+<div class="byline">
+By MANOHLA DARGIS                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/music/nate-wooley-quintet-omega-at-brooklyn-lyceum-review.html?ref=todayspaper">
+Songs About Friendship, Performed With His Pals</a>
+<div class="moduleHeader runaroundRight">
+section C - page 20                    </div>
+<div class="byline">
+By NATE CHINEN                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/theater/theater-listings-for-dec-2-8.html?ref=todayspaper">
+Theater Listings for Dec. 2 — 8</a>
+<div class="moduleHeader runaroundRight">
+section C - page 22                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/music/pop-and-rock-listings-for-dec-2-8.html?ref=todayspaper">
+Pop and Rock Listings for Dec. 2-8</a>
+<div class="moduleHeader runaroundRight">
+section C - page 23                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/movies/movie-listings-for-dec-2-8.html?ref=todayspaper">
+Movie Listings for Dec. 2-8</a>
+<div class="moduleHeader runaroundRight">
+section C - page 23                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/music/jazz-listings-for-dec-2-8.html?ref=todayspaper">
+Jazz Listings for Dec. 2-8</a>
+<div class="moduleHeader runaroundRight">
+section C - page 24                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/music/classical-music-opera-listings-for-dec-2-8.html?ref=todayspaper">
+Classical Music/Opera Listings for Dec. 2-8</a>
+<div class="moduleHeader runaroundRight">
+section C - page 24                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/dance/dance-listings-for-dec-2-8.html?ref=todayspaper">
+Dance Listings for Dec. 2-8</a>
+<div class="moduleHeader runaroundRight">
+section C - page 25                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/design/gary-tinterow-named-director-of-museum-of-fine-arts-houston.html?ref=todayspaper">
+Met Veteran Named Director of Houston Art Museum</a>
+<div class="moduleHeader runaroundRight">
+section C - page 27                    </div>
+<div class="byline">
+By CAROL VOGEL                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/design/luminous-modernism-at-scandinavia-house-review.html?ref=todayspaper">
+Art Review: Shadowy Lure of Scandinavia Fights the Bright Pull of Paris</a>
+<div class="moduleHeader runaroundRight">
+section C - page 27                    </div>
+<div class="byline">
+By KEN JOHNSON                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/design/storytelling-in-japanese-art-at-the-met-review.html?ref=todayspaper">
+Art Review: Unfurling a Thousand Years of Gods, Demons and Romance</a>
+<div class="moduleHeader runaroundRight">
+section C - page 27                    </div>
+<div class="byline">
+By ROBERTA SMITH                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/design/the-ungovernables-at-new-museum-a-manet-to-the-getty.html?ref=todayspaper">
+Inside Art: A Rising Generation of Artistic Resistance</a>
+<div class="moduleHeader runaroundRight">
+section C - page 28                    </div>
+<div class="byline">
+By CAROL VOGEL                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/design/selections-from-the-private-collection-of-robert-rauschenberg-at-gagosian-gallery.html?ref=todayspaper">
+Art Review: A Portrait of the Artist as Exuberant Collector</a>
+<div class="moduleHeader runaroundRight">
+section C - page 30                    </div>
+<div class="byline">
+By ROBERTA SMITH                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/design/ann-lislegaard-timemachine.html?ref=todayspaper">
+Ann Lislegaard: ‘TimeMachine’</a>
+<div class="moduleHeader runaroundRight">
+section C - page 31                    </div>
+<div class="byline">
+By KAREN ROSENBERG                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/design/mary-reid-kelley-the-syphilis-of-sisyphus.html?ref=todayspaper">
+Art In Review: Mary Reid Kelley: ‘The Syphilis of Sisyphus ’</a>
+<div class="moduleHeader runaroundRight">
+section C - page 31                    </div>
+<div class="byline">
+By KEN JOHNSON                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/design/shane-hope-transubstrational-as-a-smartmatter-of-nanofacture.html?ref=todayspaper">
+Art In Review: Shane Hope: ‘Transubstrational: As a Smartmatter of Nanofacture’</a>
+<div class="moduleHeader runaroundRight">
+section C - page 31                    </div>
+<div class="byline">
+By KEN JOHNSON                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/design/bianca-beck-body.html?ref=todayspaper">
+Art In Review: Bianca Beck: ‘Body’</a>
+<div class="moduleHeader runaroundRight">
+section C - page 31                    </div>
+<div class="byline">
+By KAREN ROSENBERG                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/books/grand-pursuit-by-sylvia-nasar-review.html?ref=todayspaper">
+Books of The Times: &lsquo;Grand Pursuit&rsquo; by Sylvia Nasar</a>
+<div class="moduleHeader runaroundRight">
+section C - page 33                    </div>
+<div class="byline">
+By MICHIKO KAKUTANI                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/design/madison-square-presbyterian-church-fragments-found.html?ref=todayspaper">
+Antiques: Madison Square Church Survives in Fragments</a>
+<div class="moduleHeader runaroundRight">
+section C - page 33                    </div>
+<div class="byline">
+By EVE M. KAHN                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/dance/clog-dancing-class-with-city-stompers-in-chelsea.html?ref=todayspaper">
+Foot Stomping in Bluegrass Time</a>
+<div class="moduleHeader runaroundRight">
+section C - page 36                    </div>
+<div class="byline">
+By MARGAUX LASKEY                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/nyregion/bird-watching-at-prospect-park-audubon-center.html?ref=todayspaper">
+Winged Migrants in Their Brooklyn Pied-à-Terre</a>
+<div class="moduleHeader runaroundRight">
+section C - page 37                    </div>
+<div class="byline">
+By JEFFREY MARCUS                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/walking-tours-in-central-park.html?ref=todayspaper">
+Weekend Miser</a>
+<div class="moduleHeader runaroundRight">
+section C - page 37                    </div>
+<div class="byline">
+By RACHEL LEE HARRIS                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/spare-times-for-dec-2-8.html?ref=todayspaper">
+Spare Times for Dec. 2-8</a>
+<div class="moduleHeader runaroundRight">
+section C - page 38                    </div>
+<div class="byline">
+By THOMAS GAFFNEY and NICOLE HIGGINS                    </div>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/arts/spare-times-for-children-for-dec-2-8.html?ref=todayspaper">
+Spare Times: For Children, for Dec. 2-8</a>
+<div class="moduleHeader runaroundRight">
+section C - page 38                    </div>
+<div class="byline">
+By LAUREL GRAEBER                    </div>
+</h6>
+</li>
+</ul>
+</div>
+<div class="columnGroup">  
+<div class="jumpToModule">
+<div class="singleRuleDivider"></div>
+<div class=" runaroundLeft label">
+<h2 class="refer">Jump to: </h2>
+</div>
+<div class="inlineLabel refer">
+<a class="first" href="#nytfrontpage">Front Page </a>  |  
+<a href="#world">International</a>  |  
+<a href="#us">National</a>  |  
+<a href="#obituaries">Obituaries</a>  |  
+<a href="#opinion">Editorials, Op-Ed and Letters</a>  |  
+<a href="#nyregion">New York</a>  |  
+<a href="#business">Business<br/> Day</a>  |  
+<a href="#sports">Sports Friday</a>  |  
+<a href="#arts">Weekend Arts</a>  |
+<a href="#correction">Corrections</a>  |   
+</div>
+</div>
+</div>                
+<div class="columnGroup">
+<div class="doubleRuleDivider"></div>
+<div class="opposingFloatControl wrap">  
+<div class="element1">
+<h3 class="sectionHeader">   
+<a name='correction'> </a> Corrections 
+</h3>
+</div>
+<div  class = "element2 meta">
+<a href="#">Back to Top</a> 
+</div>
+</div>
+<div class="singleRuleDivider flushTop"></div>
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://www.nytimes.com/2011/12/02/pageoneplus/corrections-december-2-2011.html?ref=todayspaper">
+Corrections: December 2, 2011</a>
+<div class="moduleHeader runaroundRight">
+section A - page 2                    </div>
+</h6>
+</li>
+</ul>
+</div>
+<div class="calendarLinks box insetV wrap">
+<div class="inset">
+<h3 class="sectionHeader">The Times in Print</h3>
+</div>
+<div class="subColumns module">
+<div class="subColumnA">
+<div class="insetH">
+<h6 class="kicker">from the past 7 days</h6>
+<table cellspacing="5" cellpadding="0" class="TwoWeekCalendar" id="TwoWeekCalendar-ab">
+<tbody>
+<tr><th>S</th><th>M</th><th>T</th><th>W</th><th>T</th><th>F</th><th>S</th></tr>
+<tr>
+<td>20</td>
+<td>21</td>
+<td>22</td>
+<td>23</td>
+<td>24</td>
+<td>25</td>
+<td>
+<a class="currentWeek" href="http://www.nytimes.com/indexes/2011/11/26/todayspaper/index.html">26</a>
+</td>
+</tr>
+<tr>
+<td>
+<a class="currentWeek" href="http://www.nytimes.com/indexes/2011/11/27/todayspaper/index.html">27</a>
+</td>
+<td>
+<a class="currentWeek" href="http://www.nytimes.com/indexes/2011/11/28/todayspaper/index.html">28</a>
+</td>
+<td>
+<a class="currentWeek" href="http://www.nytimes.com/indexes/2011/11/29/todayspaper/index.html">29</a>
+</td>
+<td>
+<a class="currentWeek" href="http://www.nytimes.com/indexes/2011/11/30/todayspaper/index.html">30</a>
+</td>
+<td>
+<a class="currentWeek" href="http://www.nytimes.com/indexes/2011/12/01/todayspaper/index.html">1</a>
+</td>
+<td>
+<a class="currentDay" href="http://www.nytimes.com/indexes/2011/12/02/todayspaper/index.html">2</a>
+</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div><!--close subColumnA -->
+<div class="subColumnB">
+<div class="insetH">
+<div class="inlineSearchControl">
+<form id="searchForm" name="searchForm" method="get" action="http://query.nytimes.com/gst/sitesearch_selector.html" enctype="application/x-www-form-urlencoded">
+<label for="KeywordDate2" class="kicker">enter keyword or date</label>
+<input type="text" id="KeywordDate2" class="text" name="query" size="20"/><input type="hidden" name="date_select" value="full"/><input type="hidden" name="type" value="todayspaper"/> <input type="image" id="Go" title="Go" alt="Go" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"/>
+<div class="smallCaption">e.g. April 21, 2001</div>
+</form>
+</div><!--close inlineSearchControl -->
+</div>
+</div><!--close subColumnB -->
+</div>
+</div><!--close calendarLinks -->
+</div><!--close #SpanABMiddleRegion -->
+</div><!--close .abColumn -->
+<div class="cColumn">
+<!--Ads  -->                    <div class="columnGroup first">
+
+</div>
+<!--Ads Ads -->                    <div class="columnGroup ">
+
+			
+<div class="bigAd" id="SFMiddle">
+<!-- ADXINFO classification="bigad" campaign="nyt2011-circ-spon2-weekndr-34J49-38R9U-AK"--><script type="text/javascript">
+   var movieWidth = 300;
+   var movieHeight = 250;
+   var altSrc = "http://graphics8.nytimes.com/adx/images/ADS/27/69/ad.276980/11-0920_HDWeekender2_300x250_AK.jpg";
+   var swfFile = "http://graphics8.nytimes.com/adx/images/ADS/27/69/ad.276980/11-0920_HDWeekender2_300x250_AK.swf";
+   var altClickThru = "http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/todayspaper/index.html&pos=SFMiddle&sn2=5b4e22a5/f76d030b&sn1=3fa3acc5/f2f3740c&camp=nyt2011-circ-spon2-weekndr-34J49-38R9U-AK&ad=092111-11-spon2-weekender-34J49-38R9U-AK&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DW19AA%26CMP%3D34J49";
+   var swfSrc = swfFile + "?clicktag=" + escape(altClickThru);
+</script>
+<script type="text/javascript" src="http://www.nytimes.com/ads/common/embed3.js">
+</script><div class='kj_cx'></div>
+<script type='text/javascript'>
+var kjData = {akin: 'NYT-IP-4d0abbb3a903e-lbh', adWidth: 300, adHeight: 250, btnStyle: 2, crnr: 'bl', padx: 20, pady: 4};
+if(!kjG){var kjG=[]}kjG.push(kjData);if(!kjLdr){var kjLdr={ld:function(){var b=document; var a=b.createElement('script');a.type='text/javascript';a.src='http://a.akncdn.com/adkeeper.1.0.js'; (b.getElementsByTagName('body')[0]||b.getElementsByTagName('head')[0]).appendChild(a) },init:function(){var a=window,b=document;if(b.addEventListener){a.addEventListener('load',this.ld,false) }else{if(a.attachEvent){a.attachEvent('onload',this.ld)}}}};kjLdr.init()}; </script>
+</div>
+
+
+
+
+</div>
+<!--Ads Ads -->                    <div class="columnGroup ">
+			
+
+
+
+
+<!--[TwoColumnAdLeft - Begin] -->
+<!--[TwoColumnAdLeft - End] -->
+<div class="advertisementColumnGroup">
+<!--[MarketPlaceGridAd - Begin] -->
+
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+    <!--[MarketPlaceGridAd - End] -->
+</div>
+</div>
+<!--Ads Ads -->                    <div class="columnGroup last">
+
+
+</div>
+</div><!--close cColumn -->
+</div><!--close wideA -->
+</div><!--close spanAB -->
+</div><!--close main -->
+<div id="footer">
+<ul class="first">
+<li class="first"><a href="http://www.nytimes.com">Home</a></li>
+<li >
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li>
+<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+</ul>    <ul>
+<li class="first"><a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&copy; 2011</a> <a href="http://www.nytco.com/">The New York Times Company</a></li>
+<li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Terms of Service</a></li>
+<li class="termsOfSale"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+<li><a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a></li>
+<li><a class="rssButton" href="http://www.nytimes.com/rss">RSS</a></li>
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+<li><a href="http://www.nytco.com/careers">Work for Us</a></li>
+<li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+</ul>
+</div>
+</div><!--close page -->
+</div><!--close shell -->
+
+
+
+
+
+
+
+<IMG SRC="/adx/bin/clientside/eba7e62Q2FQ27Q7EjlWVilQ7EcOQ3DjcQ3DQ3E@Q22Q3DcQ7Ei!Q3E" height="1" width="3">
+
+<script type="text/javascript" language="JavaScript">
+// Written by /usr/local/knews/bin/commentcount.pl Fri Dec  2 13:02:02 2011
+var NYTArticleCommentCounts = {
+"100000001190843":{count:147, commentsEnabled:false},
+"100000001190858":{count:204, commentsEnabled:false},
+"100000001190907":{count:49, commentsEnabled:false},
+"100000001191255":{count:237, commentsEnabled:false},
+"100000001191704":{count:133, commentsEnabled:false},
+"100000001191724":{count:100, commentsEnabled:false},
+"100000001191950":{count:122, commentsEnabled:false},
+"100000001192133":{count:307, commentsEnabled:false},
+"100000001192329":{count:76, commentsEnabled:false},
+"100000001190961":{count:19, commentsEnabled:false},
+"100000001177231":{count:1, commentsEnabled:true},
+"100000001177245":{count:74, commentsEnabled:true},
+"100000001179958":{count:24, commentsEnabled:false},
+"100000001180322":{count:227, commentsEnabled:true},
+"100000001183078":{count:44, commentsEnabled:false},
+"100000001183080":{count:327, commentsEnabled:false},
+"100000001183081":{count:7, commentsEnabled:false},
+"100000001183084":{count:235, commentsEnabled:false},
+"100000001183087":{count:11, commentsEnabled:false},
+"100000001183089":{count:14, commentsEnabled:false},
+"100000001183090":{count:11, commentsEnabled:false},
+"100000001183091":{count:3, commentsEnabled:false},
+"100000001183094":{count:14, commentsEnabled:false},
+"100000001184186":{count:79, commentsEnabled:false},
+"100000001184524":{count:149, commentsEnabled:false},
+"100000001186117":{count:1, commentsEnabled:false},
+"100000001186193":{count:12, commentsEnabled:true},
+"100000001186569":{count:190, commentsEnabled:false},
+"100000001189184":{count:49, commentsEnabled:false},
+"100000001190721":{count:71, commentsEnabled:false},
+"100000001191577":{count:224, commentsEnabled:false},
+"100000001191688":{count:28, commentsEnabled:false},
+"100000001191719":{count:107, commentsEnabled:false},
+"100000001191931":{count:121, commentsEnabled:false},
+"100000001191985":{count:110, commentsEnabled:false},
+"100000001192057":{count:211, commentsEnabled:false},
+"100000001192188":{count:141, commentsEnabled:false},
+"100000001192496":{count:52, commentsEnabled:false},
+"100000001192500":{count:206, commentsEnabled:false},
+"100000001192600":{count:224, commentsEnabled:false},
+"100000001192611":{count:167, commentsEnabled:false},
+"100000001193250":{count:67, commentsEnabled:false},
+"100000001193262":{count:37, commentsEnabled:false},
+"100000001193344":{count:98, commentsEnabled:false},
+"100000001193527":{count:27, commentsEnabled:false},
+"100000001193629":{count:10, commentsEnabled:false},
+"100000001193702":{count:17, commentsEnabled:false},
+"100000001193743":{count:108, commentsEnabled:false},
+"100000001193763":{count:516, commentsEnabled:false},
+"100000001193825":{count:86, commentsEnabled:false},
+"100000001193857":{count:48, commentsEnabled:false},
+"100000001193859":{count:160, commentsEnabled:false},
+"100000001193890":{count:117, commentsEnabled:false},
+"100000001193920":{count:44, commentsEnabled:false},
+"100000001193944":{count:303, commentsEnabled:false},
+"100000001193948":{count:7, commentsEnabled:false},
+"100000001194088":{count:51, commentsEnabled:false},
+"100000001194098":{count:17, commentsEnabled:true},
+"100000001194137":{count:109, commentsEnabled:false},
+"100000001194342":{count:159, commentsEnabled:false},
+"100000001194394":{count:68, commentsEnabled:false},
+"100000001194454":{count:36, commentsEnabled:false},
+"100000001194795":{count:192, commentsEnabled:false},
+"100000001194808":{count:628, commentsEnabled:false},
+"100000001194892":{count:125, commentsEnabled:false},
+"100000001195360":{count:33, commentsEnabled:false},
+"100000001195689":{count:178, commentsEnabled:false},
+"100000001195802":{count:10, commentsEnabled:false},
+"100000001195854":{count:304, commentsEnabled:false},
+"100000001195914":{count:48, commentsEnabled:false},
+"100000001195920":{count:17, commentsEnabled:false},
+"100000001195923":{count:44, commentsEnabled:false},
+"100000001195938":{count:138, commentsEnabled:false},
+"100000001195940":{count:10, commentsEnabled:false},
+"100000001195947":{count:92, commentsEnabled:false},
+"100000001195952":{count:162, commentsEnabled:false},
+"100000001195976":{count:141, commentsEnabled:false},
+"100000001195982":{count:283, commentsEnabled:false},
+"100000001196229":{count:42, commentsEnabled:false},
+"100000001196250":{count:104, commentsEnabled:true},
+"100000001196432":{count:333, commentsEnabled:false},
+"100000001196658":{count:42, commentsEnabled:false},
+"100000001196737":{count:28, commentsEnabled:true},
+"100000001196861":{count:18, commentsEnabled:false},
+"100000001196955":{count:71, commentsEnabled:true},
+"100000001196963":{count:143, commentsEnabled:false},
+"100000001197064":{count:68, commentsEnabled:false},
+"100000001197489":{count:3, commentsEnabled:false},
+"100000001197999":{count:75, commentsEnabled:false},
+"100000001198014":{count:290, commentsEnabled:false},
+"100000001198050":{count:69, commentsEnabled:true},
+"100000001198076":{count:32, commentsEnabled:true},
+"100000001198092":{count:204, commentsEnabled:false},
+"100000001198110":{count:424, commentsEnabled:false},
+"100000001198123":{count:343, commentsEnabled:false},
+"100000001198126":{count:62, commentsEnabled:false},
+"100000001198138":{count:163, commentsEnabled:false},
+"100000001198377":{count:143, commentsEnabled:true},
+"100000001198446":{count:23, commentsEnabled:true},
+"100000001198471":{count:52, commentsEnabled:true},
+"100000001198476":{count:157, commentsEnabled:true},
+"100000001198581":{count:48, commentsEnabled:true},
+"100000001198642":{count:253, commentsEnabled:false},
+"100000001199366":{count:136, commentsEnabled:true},
+"100000001199374":{count:114, commentsEnabled:true},
+"100000001199444":{count:155, commentsEnabled:false},
+"100000001199658":{count:4, commentsEnabled:true},
+"100000001200046":{count:884, commentsEnabled:true},
+"100000001200335":{count:165, commentsEnabled:false},
+"100000001200378":{count:192, commentsEnabled:false},
+"100000001200458":{count:77, commentsEnabled:false},
+"100000001200844":{count:23, commentsEnabled:true},
+"100000001201276":{count:88, commentsEnabled:true},
+"100000001201525":{count:188, commentsEnabled:true},
+"100000001202361":{count:0, commentsEnabled:true},
+"100000001202521":{count:27, commentsEnabled:true},
+"100000001202701":{count:270, commentsEnabled:false},
+"100000001202807":{count:17, commentsEnabled:true},
+"100000001202815":{count:116, commentsEnabled:false},
+"100000001202831":{count:232, commentsEnabled:true},
+"100000001202861":{count:95, commentsEnabled:true},
+"100000001202869":{count:39, commentsEnabled:true},
+"100000001202871":{count:23, commentsEnabled:true},
+"100000001202889":{count:54, commentsEnabled:true},
+"100000001202895":{count:33, commentsEnabled:true},
+"100000001202901":{count:90, commentsEnabled:true},
+"100000001203208":{count:19, commentsEnabled:true},
+"100000001203416":{count:220, commentsEnabled:true},
+"100000001203664":{count:0, commentsEnabled:true},
+"100000001188908":{count:16, commentsEnabled:true},
+"100000001194403":{count:0, commentsEnabled:true},
+"100000001194404":{count:0, commentsEnabled:true},
+"100000001194405":{count:71, commentsEnabled:true},
+"100000001194406":{count:0, commentsEnabled:true},
+"100000001194419":{count:1, commentsEnabled:true},
+"100000001194423":{count:58, commentsEnabled:true},
+"100000001194424":{count:0, commentsEnabled:true},
+"100000001194425":{count:0, commentsEnabled:true},
+"100000001194427":{count:0, commentsEnabled:true},
+"100000001194843":{count:51, commentsEnabled:true},
+"100000001197746":{count:1, commentsEnabled:true},
+"100000001201815":{count:0, commentsEnabled:true},
+"100000001201989":{count:0, commentsEnabled:true}
+};
+</script>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/homepage/articleCommentCounts.js"></script>
+<script type="text/javascript" language="JavaScript">
+    ArticleCommentCounts.apply()
+    </script>
+
+			
+		<!-- Start UPT call -->
+		<img height="1" width="3" border=0 src="http://up.nytimes.com/?d=0//&t=3&s=0&ui=&r=&u=www%2enytimes%2ecom%2fpages%2ftodayspaper%2findex%2ehtml%3fsrc%3dhp1%2d0%2dP">
+		<!-- End UPT call -->
+	
+		
+        <script language="JavaScript"><!--
+          var dcsvid="";
+          var regstatus="non-registered";
+        //--></script>
+        <script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+        <noscript>
+          <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div>
+        </noscript>
+   
+</body>
+</html>

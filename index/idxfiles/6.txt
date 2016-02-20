@@ -1,0 +1,1510 @@
+Connection: close
+Date: Wed, 03 Jun 2015 08:00:09 GMT
+Server: BWS/1.0
+
+Date: Wed, 03 Jun 2015 08:12:53 GMT
+Location: http://zhidao.baidu.com/search?ct=17&pn=0&tn=ikaslist&rn=10&word=&fr=wwwt
+P3p: CP=" OTI DSP COR IVA OUR IND COM "
+P3p: CP=" OTI DSP COR IVA OUR IND COM "
+Server: Apache
+Set-Cookie: BAIDUID=8B95370BD023F4581943BD74318FEDB2:FG=1; expires=Thu, 02-Jun-16 08:12:53 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+Set-Cookie: BAIDUID=370E2A8BF495696693784A37B013666E:FG=1; expires=Thu, 02-Jun-16 08:12:53 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+Tracecode: 07735389230557065738060316
+Content-Length: 178
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+Connection: close
+Date: Thu, 18 Feb 2016 15:09:56 GMT
+Server: apache
+
+<!DOCTYPE HTML> 
+<html  lang="zh-CN">
+<head> 
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta name="description" content="百度MP3，拥有丰富权威的华语音乐排行榜，帮您找到最新、最热的流行歌曲。音乐分类标签帮您挑歌，音乐随心听方便您听歌，更有个性化的私人推荐，音乐专题为您收集经典和天籁，音乐掌门人是强大的音乐分享平台。您会获得最动听的音乐享受。">
+<title>百度MP3——全球最大中文音乐搜索平台</title>
+<link rel="stylesheet" href="http://imgs.zhangmen.baidu.com/css/bXAzZ2xvYmFs/v2_0/core-source.min.css?v=20120815" type="text/css">
+<!--STATUS OK-->
+
+<script type="text/javascript">
+      window.location.href = "http://music.baidu.com/data/tomusic?from=old_mp3&ref=" + encodeURIComponent(document.location.href);
+      /*var host = document.location.host;
+      if(host == "list.mp3.baidu.com") {
+         var cookie = document.cookie.toLowerCase();
+            if(cookie.indexOf("baiduid") != -1 && cookie.indexOf("ismusic=false") == -1 ) {
+                  var arrCookie = cookie.split(";");
+                  var baiduid;
+                  for(var i = 0; i < arrCookie.length; i++) {
+                        var arr = arrCookie[i].split("=");
+                        if(arr[0].indexOf("baiduid") != -1) {
+                              baiduid = arr[1];
+                              break;
+                        }
+                  }
+                  var p = 100,
+                        random = parseInt(baiduid, 16) % 100;
+                  
+                  if(random < p) {
+
+                  }
+            }
+      }*/
+
+</script>
+
+
+<style type="text/css" media="all">
+.doodle{display:block;}
+
+.search .kw{background-color:#fff;}
+.ting-link { position:relative; padding-left:20px;}
+.ting-link img{ position:absolute; top:0; left:0;}
+.nav{ margin-bottom:0;}
+.additional-nav{display:block; height:30px;overflow:hidden; line-height:30px;  font-size:12px; color:#0043bd;}
+.additional-nav h2{ float:left;padding-left:9px; }
+.additional-nav ul{ float:left; margin-left:-10px;}
+.additional-nav li{ float:left; padding-left:9px; }
+.additional-nav li a{margin-left:1px;}
+.additional-nav .ecom-ad{ position:relative; left:10px; top:2px;}
+
+.main-body{ float:left; width:650px;}
+
+.top-list-wrap{ width:730px; padding-bottom:10px; margin-right:-80px;}
+.top-list{ float:left; width:208px; height:305px; margin:0 10px 0 0;}
+.music-list{ line-height:22px;}
+.music-list th{ padding-left:0;}
+.music-list .rank{ width:20px; font-size:10px; color:#666666;-webkit-text-size-adjust:none;}
+.music-list .champion td,
+.music-list .champion th{ padding-top:3px;}
+.music-list .champion .rank{ font-weight:700;}
+.music-list .more{ padding-left:8px;}
+.music-list .music-name{ width:128px;}
+.music-list .singer{ width:59px;}
+.music-list tfoot td{ padding-top:4px;}
+.music-list tfoot .btn{ position:relative; left:-6px; margin-right:0;}
+.singer-top table{ float:left; margin-top:3px;  }
+.singer-top .music-list .champion td,
+.singer-top .music-list .champion th{ padding-top:0;}
+.singer-top .singertop-ten{ width:107px;}
+.singer-top .music-name{ width:auto;}
+
+.ecom-ad{ margin-bottom:10px;}
+.ad-inner{ width:590px;  margin-bottom:6px; padding-left:10px;}
+.text-ad{ padding:0 20px 0 10px;}
+.text-ad .my-edit{ float:left; font-size:12px;}
+.text-ad .ecom-text{ float:right;}
+
+.recomm{ height:321px;}
+.recomm-album{ width:858px; margin:10px -230px 10px 10px;}
+.recomm-album li{ position:relative; float:left; width:88px; margin-right:47px; padding-top:94px; line-height:20px; text-align:center;font-size:12px;}
+.recomm-album li .play{ display:block; white-space:nowrap; text-align:center; padding-left:0; background:none;font-size:14px;}
+.recomm-album li .play .img{ position:absolute; top:0; left:0; display:block; border-bottom:1px solid #eeeeee; cursor:pointer;}
+.recomm-album li .play .img .first-release{ display:none; position:absolute; top:4px; left:4px;}
+.recomm-album li .play .img .play-btn-wrap{ position:absolute; bottom:5px; right:5px; width:21px; height:22px; overflow:hidden;}
+.recomm-album li .play:hover{zoom:1;}
+.recomm-album li .play:hover .play-btn{margin-top:-30px;}
+.recomm-album li .play img{width:80px; height:80px;}
+.recomm-album li .music-name{ display:block; text-align:center; font-size:14px;}
+.recomm-album li .nm{ white-space:nowrap;}
+.recomm-album li .release-date{ color:#666;}
+.recomm-single-wp{ width:748px; margin-right:-100px; }
+.recomm-single{ display:inline; float:left;  width:205px; margin:10px 0 0 10px; line-height:24px;}
+.recomm-single li{position:relative; float:left; width:100%;padding-bottom:4px; color:#999999;}
+.recomm-single li .play-btn-mu{float:left;position:relative; top:2px;_margin-right:2px;}
+.recomm-single li .music-name{ float:left;width:120px;height:20px;overflow:hidden;white-space: nowrap;text-overflow: ellipsis;}
+.recomm-single li .status{display:inline-block;}
+.recomm-single li .singer{ float:right;width:60px;height:20px;overflow:hidden;white-space: nowrap;text-overflow: ellipsis;}
+
+
+.control{ height:191px;}
+.control-list{ display:inline; float:left; width:310px; margin:10px 0 0 10px;}
+.control-list .img{ float:left; margin:0 12px 7px 0; _margin-right:9px;}
+.control-list .img img{width:80px;height:80px;}
+.control-list .name{ margin-bottom:10px; overflow:hidden;zoom:1;}
+.control-list p{ font-size:12px; line-height:19px; color:#666666;}
+.control-list p em{ color:#999999;}
+.control-item{ clear:both; line-height:24px;}
+.control-item li{ float:left; width:50%;}
+
+.sidebar{ position:relative; z-index:2; float:right; width:310px; padding:5px; background:#f9f9f9;}
+.mp3-fm{ width:308px; height:218px; margin-bottom:10px; border:1px solid #eee; background:#F6FAFC url(http://static.mp3.baidu.com/imgs/bXAzaW5kZXg-/v2_0/mp3-fm-v4.png) no-repeat;}
+.mp3-fm h2{ padding:11px 90px 10px 105px;}
+.mp3-fm h2 a{ display:block; width:100%; height:35px; overflow:hidden; text-indent:-99em;}
+
+.fm-channel{ padding:0 0 0 14px; }
+.fm-channel li{ float:left; width:70px; line-height:26px; font-size:14px; }
+
+.topics{ clear:both; height:279px; overflow:hidden;}
+.topics-cont{ padding:2px 10px 0;}
+.topics-cont .info-link{font-weight:700;}
+.topics-cont .info-link img{ display:block; width:288px; height:108px; margin:0 -1px 10px; border:1px solid #dddddd; }
+.topics-info{ padding:5px 0 0 0; font-size:12px; color:#666666; }
+.topics-list-wrap{ margin-top:7px; padding-top:1px; background-position:0 -200px; background-repeat:repeat-x; zoom:1;}
+.topics-list{ width:318px;  margin-right:-30px;}
+.topics-list li{ float:left; width:158px; color:#cccccc; line-height:26px;*line-height:27px;}
+.topics-list li em{ font-size:10px;-webkit-text-size-adjust:none;}
+
+.music-tags{ height:268px; overflow:hidden;clear:both;}
+.tags-cont{ padding:7px 0 10px 4px; line-height:125%; font-size:13px; color:#cccccc;}
+.tags-cont p{ padding-bottom:9px;*padding-bottom:8px;padding-bottom:8px\0;}
+.tags-cont a{ display:inline-block; margin:0 6px; text-decoration:none;}
+.tags-cont a:hover{ text-decoration:underline;}
+
+.ad{ height:68px;}
+.r-b-ad{ margin-bottom:0;}
+.banner-ad{height:auto;}
+.fm-union{ display:none; height:85px; margin-bottom:0;}
+.fm-union ul{ padding:6px 0 0 10px; margin-right:-50px; width:348px;}
+.fm-union ul li { float:left; margin-right:23px;white-space:nowrap;}
+.fm-union ul a{ text-decoration:none; }
+.fm-union ul a span{ text-decoration:underline;}
+.fm-union ul a img{ position:relative; top:2px; margin-right:7px;}
+
+.loding{padding-left:20px; background:url(http://imgs.zhangmen.baidu.com/imgs/bXAzaW5kZXg-/v2_0/loading.gif) no-repeat}
+.recomm .nodata{padding-top:54px; text-align:center;}
+
+
+.lk a.mp3-mobile-app{ display:inline-block; color:red !important; margin-left:10px; text-decoration:none; font-size:12px; }
+
+ #dialogBoxBG{ position: absolute; top: 0px; left: 0px; width: 100%; z-index: 10001; opacity: 0.4; background-color: rgb(238, 238, 238); height: 1235px;filter: alpha(opacity=40); }
+ #dialogCase  a{ cursor:pointer; }
+ #dialogCase .dialogBox{border: none; z-index: 10003; width:668px; height:360px; position: absolute; left: 330px; top: 89px;    }
+ #dialogCase .close{ background: url('http://imgs.zhangmen.baidu.com/imgs/bXAzaW5kZXg-/v2_0/close.png');	float: right;	height: 27px;	width: 27px;	margin-top: 15px;	margin-right: 13px; }
+ #dialogCase .site{ position: absolute;	bottom: 20px;	right: 15px;  }
+ #dialogCase .desc{	position: absolute;	top: 100px;	left: 34px;	width: 668px;	line-height: 25px;	font-size: 12px; }
+ #dialogCase .back{ position: absolute;top: 10px;left: 5px;height: 31px;width: 72px;border-radius: 0 6px 6px 0; }
+ #dialogCase .f14{ font-size: 14px; font-family:"宋体";  }
+ #dialogBox_1{ background-image: url('http://imgs.zhangmen.baidu.com/imgs/bXAzaW5kZXg-/v2_0/bg-app-1.png');  }
+ #dialogBox_1 .det{    position: absolute;	top: 260px;	width: 234px;	text-align: center; }
+ #dialogBox_1 .dl{ top: 184px;height: 75px;border-radius: 5px;text-decoration:none;} 
+ #dialogBox_1 .adr{	left: 67px; }
+ #dialogBox_1 .app{ left: 362px;  }
+ #dialogBox_2{     background-image: url('http://imgs.zhangmen.baidu.com/imgs/bXAzaW5kZXg-/v2_0/bg-app-2.png');  }
+ #dialogBox_3{     background-image: url('http://imgs.zhangmen.baidu.com/imgs/bXAzaW5kZXg-/v2_0/bg-app-3.png');height:413px !important;  }
+ #dialogBox_3 .dapp{  position: absolute;bottom: 36px;width: 97px;height: 29px;left: 33px;border-radius: 1px;text-decoration:none;}
+
+#userbar  .tips { right: 0px;line-height: 18px; position: absolute;top: 22px;padding: 10px 30px 10px 10px;border: 1px solid #ffe8a1;background: #fff9db; filter: Alpha(opacity=95);opacity:0.95;}
+#userbar .tips .triangle-bg, .tips .triangle{border-style: none dashed solid;border-width: 6px;height: 0px;	left: 80%;	margin-left: -6px;	overflow: hidden;	position: absolute;	width: 0px;}
+#userbar .tips .triangle-bg {   border-color: #ffe8a1 transparent;	top: -6px;}
+#userbar .tips .triangle {    border-color: #fff9db transparent;	top: -5px;}
+#userbar .tips span{ color:#666; display:block; text-align:left; }
+#userbar .tips .close {	position: absolute;	top: 7px;right: 10px;color:#CCC;font-size: 16px;font-family: 微软雅黑;	font-weight: 500;	cursor: pointer;}
+#userbar .tips a{    display: block;	text-align:left;	text-decoration: none;	margin-left: 0px;}
+
+</style>
+<script type="text/javascript">
+var arrBaiduAds = new Array();
+function baiduAdsDisplay(index){
+if(typeof(arrBaiduAds[index])!="undefined" && arrBaiduAds[index]!=""){
+    document.write(arrBaiduAds[index]);
+}
+}
+</script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+
+
+</head>
+<body class="mp3-index">
+<div class="wp">
+ <div class="hd"  monkey="hd" id="search" d="d">
+ <!--   <img class="doodle" src="http://imgs.zhangmen.baidu.com/imgs/bXAzaW5kZXg-/v2_0/ad/mp3index-1001.png" alt="国庆" />-->
+<a href="http://music.baidu.com/mobile?fr=mp3banner"><img class="doodle" src="http://imgs.zhangmen.baidu.com/imgs/bXAzaW5kZXg-/v2_0/ad/ad-head-mobileapp.png" alt="百度音乐手机版" /></a>
+
+    <div class="lg"> <a href="http://mp3.baidu.com" target="_self"><img src="http://list.mp3.baidu.com/images/bXAzaW5kZXg-/v2_0/mp3-logo.png?v=20120625" alt="百度MP3"></a> </div>
+    <div class="search-wrap">
+      <div class="lk"> <a href="http://news.baidu.com/" target="_self" onClick="s(this)">新闻</a><a target="_self" href="http://www.baidu.com/" onClick="s(this)">网页</a><a target="_self" href="http://tieba.baidu.com/" onClick="s(this)">贴吧</a><a target="_self" href="http://zhidao.baidu.com/" onClick="s(this)">知道</a><span>MP3</span><a target="_self" href="http://image.baidu.com/" onClick="s(this)">图片</a><a href="http://video.baidu.com/" onClick="s(this)" target="_self">视频</a><a href="http://map.baidu.com/" onClick="s(this)" target="_self">地图</a><a href="http://baike.baidu.com/" onClick="s(this)" >百科</a><a   href="http://wenku.baidu.com/" onClick="s(this)" >文库</a></div>
+<form name="f1" action="http://mp3.baidu.com/m" target="_self" onSubmit="return syn(this)">
+    <input type="hidden" name="f" value="ms">
+    <input type="hidden" name="rf" value="idx">
+    <input type="hidden" name="tn" value="baidump3">
+    <input type="hidden" name="ct" value="134217728">
+    <input type="hidden" name="lf">
+    <input type="hidden" name="rn">
+      <div class="search">
+        <span class="s_ipt_wr"><input type="text" name="word" id="ww" class="kw s_ipt" size="42" maxlength="100" autocomplete="off"></span><span class="s_btn_wr"><input type="submit" value="百度一下" class="s_btn" onmousedown="this.className='s_btn s_btn_h'" onmouseout="this.className='s_btn'"></span><span class="s_tools"><a style="color:red;"  onclick="return mobileApp.showMobileApp(this);" href="javascript:;" class="mobile-4-index">手机听音乐</a>|<a style="color:red;" href="http://ttplayer.qianqian.com/download_new/index_default.html">千千静听</a>|<a href="http://mp3.baidu.com/advanced.html" target="_self">高级</a></span> </div>
+      <div class="cate">
+        <label for="aM">
+          <input name="lm" type="radio" value="-1" id="aM" checked>歌曲 </label>
+          <label for="aW">
+          <input name="lm" type="radio" value="-1" id="aW">歌词 </label>
+      </div>
+        </form>
+        
+    </div>
+  
+  <form name="vform" id="vform" target="_blank" action="http://video.baidu.com/v">
+    <input type=hidden name=ct value="301989888">
+    <input type="hidden" name="rn" value="20">
+    <input type="hidden" name="pn" value="0">
+    <input type="hidden" name="db" value="0">
+    <input type="hidden" name="s" value="3">
+    <input type="hidden" name="word" value="">
+  </form>
+</div>
+<div id="userbar"></div>
+<script type="text/javascript" src="http://passport.baidu.com/js/pass_uni_loginWrapper.js"></script>
+<script type="text/javascript">
+function G(a){return document.getElementById(a)}function syn(a){if(a.lm[1].checked){setInput(a,"baidump3lyric","150994944","10",false)}else{setInput(a,"baidump3","134217728",false,false)}return true}function setInput(d,a,e,c,b){d.tn.value=a;d.ct.value=e;d.rn.value=c?c:"";d.action=b?b:"http://mp3.baidu.com/m"}function setVideoForm(a){G("vform").word.value=a.word.value;G("vform").submit()}function gg(){var a=location.search;if(a.indexOf("q=")!=-1){try{var c=(a.match(new RegExp("q=[^&$]*")).toString());document.f1.word.value=decodeURIComponent(c.substr(2))}catch(b){}}}function s(c){if(document.f1.word.value.length>0){var d=c.href;var e=encodeURIComponent(document.f1.word.value);if(d.indexOf("q=")!=-1){c.href=d.replace(new RegExp("q=[^&$]*"),"q="+e)}else{if(d.indexOf("ting")!=-1){var b=c.href.split("?");c.href=b[0]+"search?key="+e+"&"+b[1]}else if(d.indexOf("baike")!=-1){var b=c.href.split("?");c.href=b[0]+"search/word?word="+e+"&"+b[1]+ "&enc=utf8"}else{var a="?";c.href=c.href+a+"q="+e}}}}function cc(b){if(G(b)){var c=G(b);if(navigator.appName=="Netscape"){c.focus()}else{c.focus();var a=c.createTextRange();a.collapse(false);a.select()}}}window.onunload=function(){};cc("ww");gg();document.f1.word.focus();
+
+var enterState = (function( sUsrBarWapperID ) {
+  var oUserInfo, oTemplateMap, sLocation, eUsrBar, bBindUserBar, fEnterState, oMusicTxt,fCheckMusic, fCheckClose;
+	sLocation = encodeURIComponent( location.href );
+	oUserInfo = {
+		 "sTemplate": "guest",
+		 "sUserName": '',
+		"sSpaceLink": '',
+   	   "sProfileURL": 'http://passport.baidu.com/#0,1',
+		 "sBaiduURL": 'http://www.baidu.com',
+		 "sLoginURL": 'javascript:;',
+		   "sRegURL": 'http://passport.baidu.com/v2/?reg&tpl=mp&u=' + sLocation,
+		"sLogoutURL": 'http://passport.baidu.com/?logout&tpl=mp&u=' + sLocation,
+		 'sOpenMbox': '<a href="###" onclick="return omb(),false">音乐盒</a>',
+		 'sMusicURL':'http://music.baidu.com/?from=new_mp3 '
+	};
+        oMusicTxt = ['丰富的歌曲资源，满足你的多种需求',
+				 '第一时间听尽新歌热歌',
+				 '界面清新，给你优秀的浏览体验',
+				 '强大的音乐管理功能，我的音乐我做主',
+				 '各大热门榜单一网打尽',
+				 '收藏、下载一步到位',
+				 '丰富的音乐专题，多元选择',
+				 '手机端的歌曲，新版都可以听',
+				 '好歌不间断，播放不卡带',
+				 '新增歌曲信息页，更专业的音乐展现',
+				 '关注新专辑？来看全面的专辑介绍',
+				 '丰富的推荐内容，更人性化的体验',
+				 '有89757个人正在收听最炫民族风，听听看',
+				 '完善的分享功能，让朋友们知道我在听什么'];
+	oTemplateMap = {
+		"guest": '<ul><li>#{sOpenMbox}</li><li class="line">|</li><li><a href="#{sBaiduURL}">百度首页</a></li><li class="line">|</li><li><a id="loginbtn" href="#{sLoginURL}" onclick="initLogin();" target="_self">登录</a><a href="#{sRegURL}" target="_blank">注册</a></li></ul>',
+		"user": '<ul><li class="uname mn-lk-w"><a id="anchor-user-name" class="mn-lk" href="###" onclick="return false;" target="_blank">#{sUserName}</a><div id="menu-user"  style="display:none" class="mn-tip" style=" width:75px; right:0;"><ul class="mn"><li><a target="_blank" classs="my-info" href="#{sProfileURL}">个人资料</a></li><li><a href="#{sLogoutURL}" class="logout" target="_self">退出</a></li></ul></div></li><li class="line">|</li><li>#{sOpenMbox}</li><li class="line">|</li><li><a href="#{sBaiduURL}">百度首页</a></li></ul>',
+               "guest_new": '<ul><li>#{sOpenMbox}</li><li class="line">|</li><li><a href="#{sBaiduURL}">百度首页</a></li><li class="line">|</li><li><a id="loginbtn" href="#{sLoginURL}" onclick="initLogin();" target="_self">登录</a><a href="#{sRegURL}" target="_blank">注册</a></li><li class="line">|</li><li><a href="#{sMusicURL}"  onclick="logoutMp3(this);return true;">百度音乐新版</a></li></ul><div id="mtips" class="tips tips-a"><i class="triangle-bg"></i><i class="triangle"></i><i class="close" onclick="closeMTips(this)">x</i><span id="inner_txt"></span><a href="#{sMusicURL}" onclick="logoutMp3(this);return true;">进入新版百度音乐!</a></div>',
+               "user_new":'<ul><li class="uname mn-lk-w"><a id="anchor-user-name" class="mn-lk" href="###" onclick="return false;" target="_blank">#{sUserName}</a><div id="menu-user"  style="display:none" class="mn-tip" style=" width:75px; right:0;"><ul class="mn"><li><a target="_blank" classs="my-info" href="#{sProfileURL}">个人资料</a></li><li><a href="#{sLogoutURL}" class="logout" target="_self">退出</a></li></ul></div></li><li class="line">|</li><li>#{sOpenMbox}</li><li class="line">|</li><li><a href="#{sBaiduURL}">百度首页</a></li><li class="line">|</li><li><a href="#{sMusicURL}"  onclick="logoutMp3(this);return true;">百度音乐新版</a></li></ul><div id="mtips" class="tips tips-a"><i class="triangle-bg"></i><i class="triangle"></i><i class="close" onclick="closeMTips(this)">x</i><span id="inner_txt"></span><a href="#{sMusicURL}" onclick="logoutMp3(this);return true;">进入新版百度音乐!</a></div>'
+	};
+
+	oCallbacks = {
+		"guest": function() {
+                                var innerTxt = document.getElementById('inner_txt');
+				if(innerTxt){
+				    if( !fCheckClose() ){
+					  innerTxt.innerHTML = oMusicTxt[ (new Date()).getDate() % oMusicTxt.length ] ;					 
+				    }else{
+					    document.getElementById('mtips').style.display="none";
+					} 
+				}
+                 },
+		"user": function() {
+			var eAnchorUserName, eMenu, iWatchID, iWatchInterval, bAllowHideMenu, bMenuShow;
+
+			eAnchorUserName = document.getElementById( 'anchor-user-name' );
+			eMenu = document.getElementById( 'menu-user' );
+			iWatchID = -1;
+			iWatchInterval = 500;
+			bAllowHideMenu = false;
+			bMenuShow = false;
+
+			function hideMenu() {
+				if( bAllowHideMenu )
+				{
+					if( bMenuShow )
+					{
+						eMenu.style.display = "none";
+						bMenuShow = false;
+
+						clearInterval( iWatchID );
+						iWatchID = -1;
+					}
+				}
+			}
+
+			eAnchorUserName.onmouseover = function() {
+				if( !bMenuShow )
+				{
+					eMenu.style.display = "block";
+					bMenuShow = true;
+					bAllowHideMenu = false;
+
+					if( iWatchID<0 )
+					{
+						iWatchID = setInterval( hideMenu, iWatchInterval );
+					}
+				} else {
+					hideMenu();
+				}
+				return false
+			};
+
+			eAnchorUserName.onmouseout = function() {
+				bAllowHideMenu = true;
+			};
+
+			eMenu.onmouseover = function() {
+				bAllowHideMenu = false;
+			};
+
+			eMenu.onmouseout = function() {
+				bAllowHideMenu = true;
+			};
+                        var innerTxt = document.getElementById('inner_txt');
+				if(innerTxt){
+				    if( !fCheckClose() ){
+					  innerTxt.innerHTML = oMusicTxt[ (new Date()).getDate() % oMusicTxt.length ] ;					 
+				    }else{
+					    document.getElementById('mtips').style.display="none";
+					} 
+			}
+			oCallbacks.invoked = true;
+		}
+	};
+	
+	function formatTpl(source, opts) {
+	    source = String(source);
+	    var data = Array.prototype.slice.call(arguments,1), toString = Object.prototype.toString;
+	    if(data.length){
+		    data = data.length == 1 ? 
+		    	/* ie 下 Object.prototype.toString.call(null) == '[object Object]' */
+		    	(opts !== null && (/\[object Array\]|\[object Object\]/.test(toString.call(opts))) ? opts : data) 
+		    	: data;
+	    	return source.replace(/#\{(.+?)\}/g, function (match, key){
+		    	var replacer = data[key];
+		    	// chrome 下 typeof /a/ == 'function'
+		    	if('[object Function]' == toString.call(replacer)){
+		    		replacer = replacer(key);
+		    	}
+		    	return ('undefined' == typeof replacer ? '' : replacer);
+	    	});
+	    }
+	    return source;
+	};
+        /**
+        *   check music location  
+        */
+       fCheckMusic = function( tpl ){
+	    var cookie = document.cookie.toLowerCase();
+		var bodyClass = !(document.body.className.indexOf('mp3-index') < 0);
+		if( cookie.indexOf('ismusic=false') >= 0 && bodyClass){
+		   return tpl+'_new';
+		}else{
+		   return tpl;
+		}
+	}
+        /**
+        *   check close  music tips
+        */ 
+	fCheckClose = function(){
+	   var cookie = document.cookie.toLowerCase();
+		if( cookie.indexOf('closemtips=true') >= 0 ){
+		   return true;
+		}else{
+		   return false;
+		} 
+	}
+	fEnterState = function( _oUserInfo ) {
+		_oUserInfo = _oUserInfo || {};
+
+		for( var i in oUserInfo )
+		{
+			if( _oUserInfo.hasOwnProperty( i ) )
+			{
+				continue;
+			}
+			_oUserInfo[i] = oUserInfo[i];
+		}
+
+		eUsrBar = document.getElementById( sUsrBarWapperID );
+                sTemplate = fCheckMusic( _oUserInfo['sTemplate'] );
+		eUsrBar.innerHTML = formatTpl( oTemplateMap[sTemplate], _oUserInfo );
+		oCallbacks[ _oUserInfo['sTemplate'] ]();
+		return false
+	};
+	
+	/*
+	@cache bdErrCode
+	@cache uName
+	@cache isOnline
+	@cache isSpaceUser
+	*/
+	function updateUserState( _oUserInfo) {
+		var sUserName, oRtUserInfo;
+
+		sUserName = _oUserInfo.uName + '';
+		oRtUserInfo = {};
+
+		if( sUserName.length>0 )
+		{
+			oRtUserInfo.sTemplate = 'user';
+			oRtUserInfo.sUserName = sUserName;
+		} else {
+			oRtUserInfo.sTemplate = 'guest';
+		}
+
+		return fEnterState( oRtUserInfo );
+	}
+	
+	function initUserBar() {
+		var sc = "http://mp3.baidu.com/dev/api/?tn=checkuser&callback=enterState&r=" + +new Date(),
+			d = document.getElementsByTagName( 'head' )[ 0 ], s;
+			
+		s = document.createElement( 'script' );
+		s.src = sc;
+			
+		d.appendChild( s );
+	}
+	
+	if( !window.attachEvent )
+	{
+		window.addEventListener( 'load', initUserBar, false );
+	} else {
+		window.attachEvent( 'onload', initUserBar );
+	}
+
+	return updateUserState;
+})( 'userbar' );
+
+/* init loginPop*/
+function initLogin  (){
+       var ret = bdPass.pop.init({
+              id:'loginbtn',
+             staticpage: 'http://'+ window.location.host+ '/cms/static/html/jump/v2jump.html',
+             onLoginSuccess: function() {
+                window.location.reload()
+              }
+        });
+
+        setTimeout(function(){
+ret.show(); 
+},0);
+
+ }
+/* closetips */
+function closeMTips(){
+    var date = new Date(), ms = 24*60*60*1000;
+    date.setTime(date.getTime() + ms);
+    document.cookie = 'CLOSEMTIPS=true;expires=' + date.toGMTString();
+    document.getElementById('mtips').style.display = 'none';	
+}
+/* to new music */
+function logoutMp3(obj){
+    var date = new Date(), ms = 90*24*60*60*1000;
+    date.setTime(date.getTime() + ms);
+    document.cookie = 'ISMUSIC=TRUE;expires=' + date.toGMTString();
+	
+}
+/* start open mobile app */
+var mobileApp = mobileApp || {};
+mobileApp = (function(){
+    var _getEl = function(param){
+	    if(typeof param === 'string'){
+		   return document.getElementById(param);
+		}else{
+		   return param;
+		}
+	}, _show=function(el){	el.style.display='block';	},
+	_hide = function(el){	el.style.display='none';	},
+	_reset = function(){
+		    _hide( _getEl("dialogBox_2") );
+			_hide( _getEl("dialogBox_3") );
+			_show( _getEl("dialogBox_1") );
+	},
+	_log = function(key){
+	   var n = "r=" + Math.random(),url = "http://imgs.zhangmen.baidu.com/wd/mp3-app.jpg?id=app&"+ n +"&type=";;
+	   var i = window[n] = new Image();
+		i.onload = i.onerror = function(){
+			window[n] = null;
+		};
+		i.src = url + key;
+		i = null;
+	};
+	
+    return {
+	    log: function(key){
+		   _log(key);
+		},
+	    showMobileApp: function(obj){
+		    _show( _getEl('dialogCase') );
+			_log('getin');
+		},
+		showAd: function(){
+		    _hide( _getEl("dialogBox_1") );
+		    _show( _getEl("dialogBox_2") );
+			_log('android');
+			return ;
+		},
+		showAp: function(){
+		    _hide( _getEl("dialogBox_1") );
+		    _show( _getEl("dialogBox_3") );
+			_log('apple');
+			return ;
+		},
+		backup: function(obj){
+			var parent = obj.parentNode;
+		    if(parent && parent.nodeType===1){
+			    _hide(parent);
+				_show( _getEl("dialogBox_1") );
+			}
+			return ;
+		},
+		close: function(){
+		    _reset();
+			_hide( _getEl('dialogCase') ) ;
+		},
+                init: function(){
+                     _hide( _getEl("dialogBox_2"));
+                     _hide( _getEl("dialogBox_3"));
+                }
+		
+	}
+})();
+/* end open mobile app */
+</script>
+
+ <map name="map">
+  <div class="nav" monkey="nav">
+    <i class="nav-l"></i>
+    <i class="nav-r"></i>
+    <ul class="main-nav">
+      <li class="home"><a href="http://mp3.baidu.com" target="_self"><i>首页</i></a></li>
+      <li class="rank"><a href="http://list.mp3.baidu.com/index.html" target="_self"><i>榜单</i></a></li>
+      <li class="singer"><a href="http://list.mp3.baidu.com/top/singer/A.html" target="_self"><i>歌手列表</i></a></li>
+      <li class="music-cate"><a href="http://list.mp3.baidu.com/zt/2010/taste/index.html" target="_self"><i>音乐分类</i></a></li>
+      <li class="zhangmen"><a href="http://zhangmen.baidu.com" target="_blank"><i>音乐掌门人</i></a></li>
+      <li class="suixin"><a href="http://fm.mp3.baidu.com" target="_blank"><i>百度随心听</i></a></li>
+    </ul>
+<ul class="sub-nav">
+       <li><a href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%BE%AD%B5%E4%C0%CF%B8%E8&lm=-1&fr=nav&rf=idxtag#1" target="_blank">经典老歌</a></li>
+       <li><a href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%E6%83%85%E6%AD%8C%E5%AF%B9%E5%94%B1&lm=-1&ie=utf-8&fr=nav&rf=idxtag#1" target="_blank">情歌对唱</a></li>
+       <li><a target="_blank" href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%CD%F8%C2%E7%B8%E8%C7%FA&lm=-1&fr=nav&rf=idxtag#1">网络歌曲</a></li>
+       <li><a target="_blank" href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%D3%B0%CA%D3%BD%F0%C7%FA&lm=-1&fr=nav&rf=idxtag#1">影视金曲</a></li>
+       <li><a href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%E8%BD%BB%E9%9F%B3%E4%B9%90&lm=-1&ie=utf-8&fr=nav&rf=idxtag#1" target="_blank">轻音乐</a></li>
+       <li><a href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%B6%F9%B8%E8&lm=-1&fr=nav&rf=idxtag#1" target="_blank">儿歌</a></li>
+       <li><a href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=dj&lm=-1&fr=nav&rf=idxtag#1" target="_blank">DJ</a></li>
+      <li><a href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%E5%8A%B2%E7%88%86&lm=-1&ie=utf-8&fr=nav&rf=idxtag#1" target="_blank">劲爆</a></li>
+
+  </ul>
+  </div>
+ </map>
+<div class="additional-nav" monkey="additional-nav">
+<h2><a href="http://list.mp3.baidu.com/index.html" target="_self">榜单</a>：</h2>
+    <ul>
+      <li><a href="http://list.mp3.baidu.com/top/top100.html" target="_self">新歌top100</a></li>
+      <li><a href="http://list.mp3.baidu.com/top/top500.html" target="_self">歌曲top500</a></li>
+      <li><a href="http://list.mp3.baidu.com/top/bangping.html" target="_self">中文金曲榜</a></li>
+      <li><a href="http://list.mp3.baidu.com/top/oumei.html" target="_self">欧美金曲</a></li>
+      <li><a href="http://list.mp3.baidu.com/top/rihan.html" target="_self">日韩流行风</a></li>
+      <li><a href="http://list.mp3.baidu.com/top/top200.html" target="_self">歌手top200</a></li>
+      <li><a href="http://list.mp3.baidu.com/top/oumeigeshou.html" target="_self">欧美热门歌手</a></li>
+      <li><a href="http://list.mp3.baidu.com/top/rihangeshou.html" target="_self">日韩热门歌手</a></li>
+    </ul>
+    <!-- 广告位：MP3 - 首页 - 二级导航右侧广告 -->
+<script type="text/javascript">BAIDU_CLB_fillSlot("303035");</script>
+</div>
+ <div class="main-body">
+  <div class="top-list-wrap clearfix">
+   <div class="module top-list" monkey="rank-top100">
+   <div class="title">
+     <h2><a href="http://list.mp3.baidu.com/top/top100.html">新歌TOP100</a></h2>
+   </div>
+<table class="music-list">
+    <tbody>
+        
+    <tr class="champion">
+    	<th class="rank"><em class="orange f14">1</em></th>
+    	<td class="music-name"><a class="play bold" onclick="return omb(10,'新歌TOP100',0)" href="#" >回来</a></td>
+    	<td class="singer"><a target="_blank" href="http://mp3.baidu.com/singerlist/梁博.html" >梁博</a></td>
+    </tr>
+    <tr class="runner-up">
+    	<th class="rank"><em class="orange ">2</em></th>
+    	<td class="music-name"><a class="play " onclick="return omb(10,'新歌TOP100',1)" href="#" >拉过勾的</a></td>
+    	<td class="singer"><a target="_blank" href="http://mp3.baidu.com/singerlist/陆虎.html" >陆虎</a></td>
+    </tr>
+    <tr class="third-place">
+    	<th class="rank"><em class="orange ">3</em></th>
+    	<td class="music-name"><a class="play " onclick="return omb(10,'新歌TOP100',2)" href="#"  title='我想大声告诉你' >我想大声告...</a></td>
+    	<td class="singer"><a target="_blank" href="http://mp3.baidu.com/singerlist/金志文.html" >金志文</a></td>
+    </tr>
+    <tr>
+    	<th class="rank"><em>4</em></th>
+    	<td class="music-name"><a class="play " onclick="return omb(10,'新歌TOP100',3)" href="#" >不要怕</a></td>
+    	<td class="singer"><a target="_blank" href="http://mp3.baidu.com/singerlist/吉克隽逸.html" title='吉克隽逸'>吉克隽...</a></td>
+    </tr>
+    <tr>
+    	<th class="rank"><em>5</em></th>
+    	<td class="music-name"><a class="play " onclick="return omb(10,'新歌TOP100',4)" href="#"  title='请不要对我说sorry' >请不要对我...</a></td>
+    	<td class="singer"><a target="_blank" href="http://mp3.baidu.com/singerlist/何洁.html" >何洁</a></td>
+    </tr>
+    <tr>
+    	<th class="rank"><em>6</em></th>
+    	<td class="music-name"><a class="play " onclick="return omb(10,'新歌TOP100',5)" href="#" >私奔</a></td>
+    	<td class="singer"><a target="_blank" href="http://mp3.baidu.com/singerlist/梁博.html" >梁博</a></td>
+    </tr>
+    <tr>
+    	<th class="rank"><em>7</em></th>
+    	<td class="music-name"><a class="play " onclick="return omb(10,'新歌TOP100',6)" href="#" >淋雨一直走</a></td>
+    	<td class="singer"><a target="_blank" href="http://mp3.baidu.com/singerlist/张韶涵.html" >张韶涵</a></td>
+    </tr>
+    <tr>
+    	<th class="rank"><em>8</em></th>
+    	<td class="music-name"><a class="play " onclick="return omb(10,'新歌TOP100',7)" href="#" >幼稚完</a></td>
+    	<td class="singer"><a target="_blank" href="http://mp3.baidu.com/singerlist/林峰.html" >林峰</a></td>
+    </tr>
+    <tr>
+    	<th class="rank"><em>9</em></th>
+    	<td class="music-name"><a class="play " onclick="return omb(10,'新歌TOP100',8)" href="#"  title='十三号星期舞' >十三号星期...</a></td>
+    	<td class="singer"><a target="_blank" href="http://mp3.baidu.com/singerlist/蔡依林.html" >蔡依林</a></td>
+    </tr>
+    <tr>
+    	<th class="rank"><em>10</em></th>
+    	<td class="music-name"><a class="play " onclick="return omb(10,'新歌TOP100',9)" href="#" >欢颜</a></td>
+    	<td class="singer"><a target="_blank" href="http://mp3.baidu.com/singerlist/平安.html" >平安</a></td>
+    </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="2"><a target="_blank" href="http://list.mp3.baidu.com/top/top100.html" class="more">更多&gt;&gt;</a></td>
+            <td><a href="#" class="btn" onClick="return omb(10,'新歌TOP100',0)"><span>试听全部</span></a></td>
+        </tr>
+    </tfoot>
+</table>
+<!--MONITOR XINGETOP 10 OK-->
+   </div>
+   <div class="module  top-list" monkey="rank-top500">
+   <div class="title">
+     <h2><a href="http://list.mp3.baidu.com/top/top500.html">歌曲TOP500</a></h2>
+   </div>
+<table class="music-list">
+    <tbody>
+        
+    <tr class="champion">
+    	<th class="rank"><em class="orange f14">1</em></th>
+    	<td class="music-name"><a class="play bold" onclick="return omb(10,'歌曲TOP500',0)" href="#" >江南style</a></td>
+    	<td class="singer"><a target="_blank" href="http://mp3.baidu.com/singerlist/psy.html" >psy</a></td>
+    </tr>
+    <tr class="runner-up">
+    	<th class="rank"><em class="orange ">2</em></th>
+    	<td class="music-name"><a class="play " onclick="return omb(10,'歌曲TOP500',1)" href="#" >我的歌声里</a></td>
+    	<td class="singer"><a target="_blank" href="http://mp3.baidu.com/singerlist/曲婉婷.html" >曲婉婷</a></td>
+    </tr>
+    <tr class="third-place">
+    	<th class="rank"><em class="orange ">3</em></th>
+    	<td class="music-name"><a class="play " onclick="return omb(10,'歌曲TOP500',2)" href="#" >最炫民族风</a></td>
+    	<td class="singer"><a target="_blank" href="http://mp3.baidu.com/singerlist/凤凰传奇.html" title='凤凰传奇'>凤凰传...</a></td>
+    </tr>
+    <tr>
+    	<th class="rank"><em>4</em></th>
+    	<td class="music-name"><a class="play " onclick="return omb(10,'歌曲TOP500',3)" href="#" >我的好兄弟</a></td>
+    	<td class="singer"><a target="_blank" href="http://mp3.baidu.com/singerlist/高进.html" >高进</a></td>
+    </tr>
+    <tr>
+    	<th class="rank"><em>5</em></th>
+    	<td class="music-name"><a class="play " onclick="return omb(10,'歌曲TOP500',4)" href="#" >北京北京</a></td>
+    	<td class="singer"><a target="_blank" href="http://mp3.baidu.com/singerlist/汪峰.html" >汪峰</a></td>
+    </tr>
+    <tr>
+    	<th class="rank"><em>6</em></th>
+    	<td class="music-name"><a class="play " onclick="return omb(10,'歌曲TOP500',5)" href="#" >伤不起</a></td>
+    	<td class="singer"><a target="_blank" href="http://mp3.baidu.com/singerlist/王麟.html" >王麟</a></td>
+    </tr>
+    <tr>
+    	<th class="rank"><em>7</em></th>
+    	<td class="music-name"><a class="play " onclick="return omb(10,'歌曲TOP500',6)" href="#" >朋友的酒</a></td>
+    	<td class="singer"><a target="_blank" href="http://mp3.baidu.com/singerlist/李晓杰.html" >李晓杰</a></td>
+    </tr>
+    <tr>
+    	<th class="rank"><em>8</em></th>
+    	<td class="music-name"><a class="play " onclick="return omb(10,'歌曲TOP500',7)" href="#" >洋葱</a></td>
+    	<td class="singer"><a target="_blank" href="http://mp3.baidu.com/singerlist/平安.html" >平安</a></td>
+    </tr>
+    <tr>
+    	<th class="rank"><em>9</em></th>
+    	<td class="music-name"><a class="play " onclick="return omb(10,'歌曲TOP500',8)" href="#" >如果没有你</a></td>
+    	<td class="singer"><a target="_blank" href="http://mp3.baidu.com/singerlist/郑虹,李代沫.html" title='郑虹,李代沫'>郑虹,...</a></td>
+    </tr>
+    <tr>
+    	<th class="rank"><em>10</em></th>
+    	<td class="music-name"><a class="play " onclick="return omb(10,'歌曲TOP500',9)" href="#" >父亲</a></td>
+    	<td class="singer"><a target="_blank" href="http://mp3.baidu.com/singerlist/筷子兄弟.html" title='筷子兄弟'>筷子兄...</a></td>
+    </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="2"><a target="_blank" href="http://list.mp3.baidu.com/top/top500.html" class="more">更多&gt;&gt;</a></td>
+            <td><a href="#" class="btn" onClick="return omb(10,'歌曲TOP500',0)"><span>试听全部</span></a></td>
+        </tr>
+    </tfoot>
+</table>
+<!--MONITOR GEQUTOP 10 OK-->
+   </div>
+   <div class="module  top-list singer-top" monkey="rank-top200">
+   <div class="title">
+     <h2><a href="http://list.mp3.baidu.com/top/top200.html">歌手TOP200</a></h2>
+   </div>
+
+<table class="music-list singertop-ten">
+    <tbody>    
+    <tr class="champion">
+    	<th class="rank"><em class="orange f14">1</em></th>
+    	<td class="music-name"><a href="http://mp3.baidu.com/singerlist/凤凰传奇.html" class="bold" >凤凰传奇</a><a  href="http://ting.baidu.com/artist/1490?fr=mp3-top200" class="ting-singer-ico" title="ta的热歌">ta的热歌</a></td>
+    </tr>
+
+    <tr class="runner-up">
+    	<th class="rank"><em class="orange ">2</em></th>
+    	<td class="music-name"><a href="http://mp3.baidu.com/singerlist/psy.html"  >psy</a></td>
+    </tr>
+
+    <tr class="third-place">
+    	<th class="rank"><em class="orange ">3</em></th>
+    	<td class="music-name"><a href="http://mp3.baidu.com/singerlist/刘德华.html"  >刘德华</a><a  href="http://ting.baidu.com/artist/1224?fr=mp3-top200" class="ting-singer-ico" title="ta的热歌">ta的热歌</a></td>
+    </tr>
+
+    <tr>
+    	<th class="rank"><em>4</em></th>
+    	<td class="music-name"><a href="http://mp3.baidu.com/singerlist/汪峰.html"  >汪峰</a><a  href="http://ting.baidu.com/artist/1157?fr=mp3-top200" class="ting-singer-ico" title="ta的热歌">ta的热歌</a></td>
+    </tr>
+
+    <tr>
+    	<th class="rank"><em>5</em></th>
+    	<td class="music-name"><a href="http://mp3.baidu.com/singerlist/金志文.html"  >金志文</a></td>
+    </tr>
+
+    <tr>
+    	<th class="rank"><em>6</em></th>
+    	<td class="music-name"><a href="http://mp3.baidu.com/singerlist/陈奕迅.html"  >陈奕迅</a><a  href="http://ting.baidu.com/artist/1077?fr=mp3-top200" class="ting-singer-ico" title="ta的热歌">ta的热歌</a></td>
+    </tr>
+
+    <tr>
+    	<th class="rank"><em>7</em></th>
+    	<td class="music-name"><a href="http://mp3.baidu.com/singerlist/梁博.html"  >梁博</a></td>
+    </tr>
+
+    <tr>
+    	<th class="rank"><em>8</em></th>
+    	<td class="music-name"><a href="http://mp3.baidu.com/singerlist/吉克隽逸.html"  >吉克隽逸</a></td>
+    </tr>
+
+    <tr>
+    	<th class="rank"><em>9</em></th>
+    	<td class="music-name"><a href="http://mp3.baidu.com/singerlist/Adam Lambert.html"  title='Adam Lambert'>Adam L...</a><a  href="http://ting.baidu.com/artist/104622?fr=mp3-top200" class="ting-singer-ico" title="ta的热歌">ta的热歌</a></td>
+    </tr>
+
+    <tr>
+    	<th class="rank"><em>10</em></th>
+    	<td class="music-name"><a href="http://mp3.baidu.com/singerlist/刀郎.html"  >刀郎</a><a  href="http://ting.baidu.com/artist/1056?fr=mp3-top200" class="ting-singer-ico" title="ta的热歌">ta的热歌</a></td>
+    </tr>
+    </tbody>
+    <tfoot>
+        <tr><td colspan="2"><a href="http://list.mp3.baidu.com/top/top200.html" class="more">更多&gt;&gt;</a></td></tr>
+    </tfoot>
+</table>
+<table class="music-list">
+    <tbody>
+
+    <tr>
+    	<th class="rank"><em>11</em></th>
+    	<td class="music-name"><a href="http://mp3.baidu.com/singerlist/S.H.E.html"  >S.H.E</a><a  href="http://ting.baidu.com/artist/2511?fr=mp3-top200" class="ting-singer-ico" title="ta的热歌">ta的热歌</a></td>
+    </tr>
+
+    <tr>
+    	<th class="rank"><em>12</em></th>
+    	<td class="music-name"><a href="http://mp3.baidu.com/singerlist/小沈阳.html"  >小沈阳</a><a  href="http://ting.baidu.com/artist/55198?fr=mp3-top200" class="ting-singer-ico" title="ta的热歌">ta的热歌</a></td>
+    </tr>
+
+    <tr>
+    	<th class="rank"><em>13</em></th>
+    	<td class="music-name"><a href="http://mp3.baidu.com/singerlist/郑源.html"  >郑源</a><a  href="http://ting.baidu.com/artist/1086?fr=mp3-top200" class="ting-singer-ico" title="ta的热歌">ta的热歌</a></td>
+    </tr>
+
+    <tr>
+    	<th class="rank"><em>14</em></th>
+    	<td class="music-name"><a href="http://mp3.baidu.com/singerlist/Lady GaGa.html"  title='Lady GaGa'>Lady G...</a><a  href="http://ting.baidu.com/artist/6792?fr=mp3-top200" class="ting-singer-ico" title="ta的热歌">ta的热歌</a></td>
+    </tr>
+
+    <tr>
+    	<th class="rank"><em>15</em></th>
+    	<td class="music-name"><a href="http://mp3.baidu.com/singerlist/邓丽君.html"  >邓丽君</a><a  href="http://ting.baidu.com/artist/1091?fr=mp3-top200" class="ting-singer-ico" title="ta的热歌">ta的热歌</a></td>
+    </tr>
+
+    <tr>
+    	<th class="rank"><em>16</em></th>
+    	<td class="music-name"><a href="http://mp3.baidu.com/singerlist/周杰伦.html"  >周杰伦</a><a  href="http://ting.baidu.com/artist/7994?fr=mp3-top200" class="ting-singer-ico" title="ta的热歌">ta的热歌</a></td>
+    </tr>
+
+    <tr>
+    	<th class="rank"><em>17</em></th>
+    	<td class="music-name"><a href="http://mp3.baidu.com/singerlist/王麟.html"  >王麟</a><a  href="http://ting.baidu.com/artist/1842?fr=mp3-top200" class="ting-singer-ico" title="ta的热歌">ta的热歌</a></td>
+    </tr>
+
+    <tr>
+    	<th class="rank"><em>18</em></th>
+    	<td class="music-name"><a href="http://mp3.baidu.com/singerlist/张学友.html"  >张学友</a><a  href="http://ting.baidu.com/artist/2507?fr=mp3-top200" class="ting-singer-ico" title="ta的热歌">ta的热歌</a></td>
+    </tr>
+
+    <tr>
+    	<th class="rank"><em>19</em></th>
+    	<td class="music-name"><a href="http://mp3.baidu.com/singerlist/王菲.html"  >王菲</a><a  href="http://ting.baidu.com/artist/45561?fr=mp3-top200" class="ting-singer-ico" title="ta的热歌">ta的热歌</a></td>
+    </tr>
+
+    <tr>
+    	<th class="rank"><em>20</em></th>
+    	<td class="music-name"><a href="http://mp3.baidu.com/singerlist/张惠妹.html"  >张惠妹</a><a  href="http://ting.baidu.com/artist/1071?fr=mp3-top200" class="ting-singer-ico" title="ta的热歌">ta的热歌</a></td>
+    </tr>
+    </tbody>
+    <tfoot>
+        <tr><th></th><td class="all-singer"><a href="http://list.mp3.baidu.com/top/singer/A.html">全部歌手</a></td></tr>
+    </tfoot>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--MONITOR SINGER 20 OK-->
+   </div>
+  </div>
+  <div class="ecom-ad"  monkey="ecom-ad">
+    <div class="ecom-ad">
+   <div class="ad-inner">
+        </div>
+   <div class="text-ad clearfix">
+   <div class="my-edit"><!-- 广告位：MP3 - 首页 - 左侧广告 -->
+<script type="text/javascript">BAIDU_CLB_fillSlot("370801");</script><script type="text/javascript">BAIDU_CLB_fillSlot("370790");</script></div>
+   <p class="ecom-text"></p>
+   </div>
+ </div>
+  </div>
+  <div class="module recomm"  monkey="recomm">
+   <div  class="title">
+<h2><a target="_blank"  href="http://jinqu.mp3.baidu.com">新歌推荐</a></h2><a target="_blank"  href="http://jinqu.mp3.baidu.com" class="more">更多&gt;&gt;</a>
+</div>
+   <div class="recomm-cont">
+   <ul class="recomm-album clearfix" id="recommAlbum">
+<li><a onclick="ombd('album1',-1); return false;" class="play" href="#" title="播放专辑：中国好声音总决赛 - 张惠妹"><span class="img"><sup class="first-release">首发</sup><em title="播放专辑：中国好声音总决赛 - 张惠妹" class="play-btn-wrap"><i class="play-btn"></i></em><img title="播放专辑：中国好声音总决赛 - 张惠妹"  alt="中国好声音总决赛" src="http://qukufile2.qianqian.com/data2/pic/27857241/27857241.jpg"></span></a><span class="music-name"><a onclick="ombd('album1',-1); return false;" href="#" title="播放专辑：中国好声音总决赛 - 张惠妹">中国好声...</a></span><a class="nm" target="_blank"  href="http://mp3.baidu.com/singerlist/张惠妹.html">张惠妹</a><div class="release-date"></div></li>
+<li><a onclick="ombd('album2',-1); return false;" class="play" href="#" title="播放专辑：有形的翅膀 - 张韶涵"><span class="img"><sup class="first-release">首发</sup><em title="播放专辑：有形的翅膀 - 张韶涵" class="play-btn-wrap"><i class="play-btn"></i></em><img title="播放专辑：有形的翅膀 - 张韶涵"  alt="有形的翅膀" src="http://qukufile2.qianqian.com/data2/pic/27856500/27856500.jpg"></span></a><span class="music-name"><a onclick="ombd('album2',-1); return false;" href="#" title="播放专辑：有形的翅膀 - 张韶涵">有形的翅膀</a></span><a class="nm" target="_blank"  href="http://mp3.baidu.com/singerlist/张韶涵.html">张韶涵</a><div class="release-date"></div></li>
+<li><a onclick="ombd('album3',-1); return false;" class="play" href="#" title="播放专辑：新白发魔女 电视原声带 - 吴奇隆,严艺丹"><span class="img"><sup class="first-release">首发</sup><em title="播放专辑：新白发魔女 电视原声带 - 吴奇隆,严艺丹" class="play-btn-wrap"><i class="play-btn"></i></em><img title="播放专辑：新白发魔女 电视原声带 - 吴奇隆,严艺丹"  alt="新白发魔女 电视原声带" src="http://qukufile2.qianqian.com/data2/pic/27731421/27731421.jpg"></span></a><span class="music-name"><a onclick="ombd('album3',-1); return false;" href="#" title="播放专辑：新白发魔女 电视原声带 - 吴奇隆,严艺丹">新白发魔...</a></span><a class="nm" target="_blank"  href="http://mp3.baidu.com/singerlist/吴奇隆,严艺丹.html">吴奇隆,...</a><div class="release-date"></div></li>
+<li><a onclick="ombd('album4',-1); return false;" class="play" href="#" title="播放专辑：单细胞 - 严爵"><span class="img"><sup class="first-release">首发</sup><em title="播放专辑：单细胞 - 严爵" class="play-btn-wrap"><i class="play-btn"></i></em><img title="播放专辑：单细胞 - 严爵"  alt="单细胞" src="http://qukufile2.qianqian.com/data2/pic/27851602/27851602.jpg"></span></a><span class="music-name"><a onclick="ombd('album4',-1); return false;" href="#" title="播放专辑：单细胞 - 严爵">单细胞</a></span><a class="nm" target="_blank"  href="http://mp3.baidu.com/singerlist/严爵.html">严爵</a><div class="release-date"></div></li>
+<li><a onclick="ombd('album5',-1); return false;" class="play" href="#" title="播放专辑：The 2nd Law - muse"><span class="img"><sup class="first-release">首发</sup><em title="播放专辑：The 2nd Law - muse" class="play-btn-wrap"><i class="play-btn"></i></em><img title="播放专辑：The 2nd Law - muse"  alt="The 2nd Law" src="http://qukufile2.qianqian.com/data2/pic/27856398/27856398.jpg"></span></a><span class="music-name"><a onclick="ombd('album5',-1); return false;" href="#" title="播放专辑：The 2nd Law - muse">The 2nd L...</a></span><a class="nm" target="_blank"  href="http://mp3.baidu.com/singerlist/muse.html">muse</a><div class="release-date"></div></li>
+</ul>
+   </div>
+   <div class="dividing-line"></div>
+   <div class="nodata" id="recommLoding"><span class="loding">加载中...</span></div>  
+ <div class="recomm-single-wp clearfix"  id="recommData">
+   <ul class="recomm-single" id="newMusic">
+     
+   </ul>
+   <ul class="recomm-single" id="hotMusic">
+    
+   </ul>
+   <ul class="recomm-single" id="musicReport">
+
+   </ul>
+   </div>
+  </div>
+  <div class="module control"  monkey="control">
+   <div  class="title">
+<h2><a target="_blank"  href="http://zhangmen.baidu.com/">音乐掌门人</a></h2><a target="_blank"  href="http://zhangmen.baidu.com/" class="more">更多&gt;&gt;</a>
+</div>
+<div class="control-list">
+   <span class="img"><a target="_blank"  href="http://zhangmen.baidu.com/%B2%C8%C9%AB%C3%B5%B9%E5/1979370.html">
+<img src="http://imgs.zhangmen.baidu.com/r/image/2012-10-09/be567096ba2005925d547f0a9beddcdd.jpg" 
+alt="请记得 曾经爱过你的人有我" /></a></span>
+   <h3 class="name"><a target="_blank"  href="http://zhangmen.baidu.com/%B2%C8%C9%AB%C3%B5%B9%E5/1979370.html">请记得 曾经爱过你的人有我</a></h3>
+   <p><em>掌门人：</em><a target="_blank"  href="http://zhangmen.baidu.com/%B2%C8%C9%AB%C3%B5%B9%E5">踩色玫瑰</a></p>
+   <p>岁月曾让你喜欢过一个人，又要让你不得不放下这个人，奈何岁月无情...[<a target="_blank"  href="http://zhangmen.baidu.com/%B2%C8%C9%AB%C3%B5%B9%E5/1979370.html">详情</a>]</p>
+   <ul class="control-item clearfix">
+     <li><a href="#" class="play" onclick="return omb(1979370,4)">小情歌</a> -- <a target="_blank"  href="http://mp3.baidu.com/singerlist/苏打绿.html">苏打绿</a></li>
+     <li><a href="#" class="play" onclick="return omb(1979370,5)">等你的季节</a> -- <a target="_blank"  href="http://mp3.baidu.com/singerlist/刘诗诗.html">刘诗诗</a></li>
+     <li><a href="#" class="play" onclick="return omb(1979370,0)">那些年</a> -- <a target="_blank"  href="http://mp3.baidu.com/singerlist/胡夏.html">胡夏</a></li>
+     <li><a href="#" class="play" onclick="return omb(1979370,9)">这样爱了</a> -- <a target="_blank"  href="http://mp3.baidu.com/singerlist/张婧.html">张婧</a></li>
+   </ul>
+   </div>
+   <div class="control-list">
+   <span class="img"><a target="_blank"  href="http://zhangmen.baidu.com/%CE%A2%D0%A6%A9f%B7%F3%D1%DC%D0%C4/1978662.html">
+<img src="http://imgsrc.baidu.com/zhangmen/abpic/item/95eef01f3a292df564bb8a9cbc315c6034a8733a.jpg" 
+alt="终于明白 当时的你有多伤" /></a></span>
+   <h3 class="name"><a target="_blank"  href="http://zhangmen.baidu.com/%CE%A2%D0%A6%A9f%B7%F3%D1%DC%D0%C4/1978662.html">终于明白 当时的你有多伤</a></h3>
+   <p><em>掌门人：</em><a target="_blank"  href="http://zhangmen.baidu.com/%CE%A2%D0%A6%A9f%B7%F3%D1%DC%D0%C4">微笑ゝ敷衍心</a></p>
+   <p>那是我最想抓住，却留不住的时光，我们还是朋友，那种最遥远的朋友...[<a target="_blank"  href="http://zhangmen.baidu.com/%CE%A2%D0%A6%A9f%B7%F3%D1%DC%D0%C4/1978662.html">详情</a>]</p>
+   <ul class="control-item clearfix">
+     <li><a href="#" class="play" onclick="return omb(1978662,3)">十年</a> -- <a target="_blank"  href="http://mp3.baidu.com/singerlist/陈奕迅.html">陈奕迅</a></li>
+     <li><a href="#" class="play" onclick="return omb(1978662,5)">我怀念的</a> -- <a target="_blank"  href="http://mp3.baidu.com/singerlist/孙燕姿.html">孙燕姿</a></li>
+     <li><a href="#" class="play" onclick="return omb(1978662,1)">灰色头像</a> -- <a target="_blank"  href="http://mp3.baidu.com/singerlist/许嵩.html">许嵩</a></li>
+     <li><a href="#" class="play" onclick="return omb(1978662,4)"><em title="蒲公英的约定">蒲公英的..</em></a> -- <a target="_blank"  href="http://mp3.baidu.com/singerlist/周杰伦.html">周杰伦</a></li>
+   </ul>
+   </div>
+  </div>
+ </div>
+<div class="sidebar">
+  <div class="mp3-fm" monkey="mp3-fm">
+   <h2><a target="_blank" href="http://fm.baidu.com/" title="即刻打开，享受更多精彩音乐！">随心听</a></h2>
+<ul class="fm-channel clearfix" id="fmChannel">
+    <li><a target="_blank" href="http://fm.baidu.com/#/channel/public_shiguang_70hou">70后</a></li>
+      <li><a target="_blank" href="http://fm.baidu.com/#/channel/public_shiguang_80hou">80后</a></li>
+      <li><a target="_blank" href="http://fm.baidu.com/#/channel/public_shiguang_90hou">90后</a></li>
+      <li><a target="_blank" href="http://fm.baidu.com/#/channel/public_tuijian_suibiantingting" class="bold">随便听听</a></li>
+      <!--<li><a target="_blank" href="http://fm.baidu.com/#/channel/public_yuzhong_huayu">华语</a></li>-->
+<li><a target="_blank" href="http://fm.baidu.com/#/channel/public_tuijian_qingge">情歌</a></li>
+      <li><a target="_blank" href="http://fm.baidu.com/#/channel/public_yuzhong_oumei">欧美</a></li>
+      <li><a target="_blank" href="http://fm.baidu.com/#/channel/public_xinqing_jimo" >寂寞电波</a></li>      
+      <li><a target="_blank" href="http://fm.baidu.com/#/channel/public_shiguang_jingdianlaoge">经典老歌</a></li>
+      <li><a target="_blank" href="http://fm.baidu.com/#/channel/public_fengge_liuxing">流行</a></li>
+      <li><a target="_blank" href="http://fm.baidu.com/#/channel/public_tuijian_wangluo">网络</a></li>
+      <li><a target="_blank" href="http://fm.baidu.com/#/channel/public_xinqing_huankuai">快乐旋律</a></li>
+      <li><a target="_blank" href="http://fm.baidu.com/#/channel/public_tuijian_yonglanwuhou">慵懒午后</a></li>
+      <li><a target="_blank" href="http://fm.baidu.com/#/channel/public_tuijian_yingshi">影视</a></li>
+      <li><a target="_blank" href="http://fm.baidu.com/#/channel/public_fengge_qingyinyue">轻音乐</a></li>
+      <li><a target="_blank" href="http://fm.baidu.com/#/channel/public_fengge_dj">DJ舞曲</a></li>
+      <li><a target="_blank" href="http://fm.baidu.com/#/channel/public_xinqing_shuhuan">舒缓节奏</a></li>
+      <li><a target="_blank" href="http://fm.baidu.com/#/channel/public_shiguang_yedian">夜店</a></li>
+      <li><a target="_blank" href="http://fm.baidu.com/#/channel/public_fengge_yaogun">摇滚</a></li>
+      <li><a target="_blank" href="http://fm.baidu.com/#/channel/public_fengge_zhongguofeng" >中国风</a></li>
+      <li><a target="_blank" href="http://fm.baidu.com/#/channel/public_xinqing_tianmi">甜蜜感受</a></li>
+      <li><a target="_blank" href="http://fm.baidu.com/#/channel/public_shiguang_xinge">新歌</a></li>
+      <!--li><a target="_blank" href="http://fm.baidu.com/#/channel/public_tuijian_lvxing">旅行</a></li-->
+      <!--li><a target="_blank" href="http://fm.baidu.com/#/channel/public_tuijian_kaiche">开车</a></li-->
+<li><a target="_blank" href="http://fm.baidu.com/#/channel/public_tuijian_ktv">KTV金曲</a></li>      
+<li><a target="_blank" href="http://fm.baidu.com/#/channel/public_tuijian_chengmingqu"  >成名曲</a></li>
+      <!--li><a target="_blank" href="http://fm.baidu.com/#/channel/public_xinqing_shanggan">伤感调频</a></li-->
+<li><a target="_blank" href="http://fm.baidu.com/#/channel/public_xinqing_qingsongjiari">轻松假日</a></li>
+</ul>
+  </div>
+   <div class="ad"  monkey="ting-fm"><!-- 广告位：MP3 - 首页 - 右侧随心听下方广告 -->
+<script type="text/javascript">BAIDU_CLB_fillSlot("302907");</script></div>
+  <div class="module music-tags"  monkey="music-tags">
+      
+<div  class="title">
+<h2><a target="_blank" href="http://list.mp3.baidu.com/zt/2010/taste/index.html">音乐标签</a></h2><a target="_blank" href="http://list.mp3.baidu.com/zt/2010/taste/index.html" class="more">更多&gt;&gt;</a>
+</div>
+   <div class="tags-cont">
+     <p><a target="_blank" href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%CE%E8%C7%FA&lm=-1&rf=idxtag&fr=index">舞曲</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=3&tn=baidump3&ct=134217728&lf=&rn=&word=%BE%A2%B1%AC&lm=-1&rf=idxtag&fr=index" class="bold green">劲爆</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%C3%F1%B8%E8&lm=-1&rf=idxtag&fr=index">民歌</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=3&tn=baidump3&ct=134217728&lf=&rn=&word=%B8%D6%C7%D9&lm=-1&rf=idxtag&fr=index">钢琴</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%B9%C5%B5%E4%D2%F4%C0%D6&lm=-1&rf=idxtag&fr=index" class="bold orange">古典音乐</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%C7%E1%C8%E1&lm=-1&rf=idxtag&fr=index">轻柔</a></p>
+     <p><a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%C0%D6%C6%F7&lm=-1&rf=idxtag&fr=index">乐器</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%B6%FE%C8%CB%D7%AA&lm=-1&rf=idxtag&fr=index">二人转</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%CD%F8%C2%E7%B8%E8%C7%FA&lm=-1&rf=idxtag&fr=index" class="f16 red bold">网络歌曲</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%BD%D6%CE%E8&lm=-1&rf=idxtag&fr=index" class="bold green">街舞</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%C5%AE%B8%DF%D2%F4&lm=-1&rf=idxtag&fr=index">女高音</a></p>
+      <p><a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%F3%EF&lm=-1&rf=idxtag&fr=index">箫</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=80%BA%F3&lm=-1&rf=idxtag&fr=index">80后</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%B8%E3%D0%A6&lm=-1&rf=idxtag&fr=index">搞笑</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%C7%E9%B8%E8%B6%D4%B3%AA&lm=-1&rf=idxtag&fr=index" class="bold">情歌对唱</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%BE%AD%B5%E4&lm=-1&rf=idxtag&fr=index">经典</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%C0%CF%B8%E8&lm=-1&rf=idxtag&fr=index">老歌</a></p>
+      <p><a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%B1%B3%BE%B0%D2%F4%C0%D6&lm=-1&rf=idxtag&fr=index" class="f16 red bold">背景音乐</a>|<a  target="_blank" href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%D0%A3%D4%B0%B8%E8%C7%FA&lm=-1&rf=idxtag&fr=index">校园歌曲</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%C9%CB%B8%D0&lm=-1&rf=idxtag&fr=index">伤感</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=90%BA%F3&lm=-1&rf=idxtag&fr=index">90后</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%BE%A2%CE%E8&lm=-1&rf=idxtag&fr=index" class="bold orange">劲舞</a></p>
+      <p><a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%BC%C5%C4%AF&lm=-1&rf=idxtag&fr=index">寂寞</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%BE%AD%B5%E4%C1%F7%D0%D0&lm=-1&rf=idxtag&fr=index" class="bold green">经典流行</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%B6%AF%C2%FE&lm=-1&rf=idxtag&fr=index">动漫</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%B0%AE%C7%E9&lm=-1&rf=idxtag&fr=index" class="bold orange">爱情</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%D3%CE%CF%B7&lm=-1&rf=idxtag&fr=index">游戏</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%C1%E5%C9%F9&lm=-1&rf=idxtag&fr=index">铃声</a></p>
+      <p><a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=hiphop&lm=-1&rf=idxtag&fr=index">Hip-Hop</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%B4%BF%D2%F4%C0%D6&lm=-1&rf=idxtag&fr=index" class="f16 red bold">纯音乐</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%D2%B9%B5%EA&lm=-1&rf=idxtag&fr=index" class="bold orange">夜店</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%BE%A2%CE%E8%CD%C5&lm=-1&rf=idxtag&fr=index">劲舞团</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%BE%AD%B5%E4%C0%CF%B8%E8&lm=-1&rf=idxtag&fr=index" class="bold green">经典老歌</a></p>
+      <p><a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%BC%A4%C7%E9&lm=-1&rf=idxtag&fr=index">激情</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%D3%B0%CA%D3&lm=-1&rf=idxtag&fr=index">影视</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%C2%FD%D2%A1&lm=-1&rf=idxtag&fr=index" class="bold orange">慢摇</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%BA%C3%CC%FD&lm=-1&rf=idxtag&fr=index">好听</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%CC%EC%F4%A5%D6%AE%C9%F9&lm=-1&rf=idxtag&fr=index" class="f16 red bold">天籁之声</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%C0%F8%D6%BE&lm=-1&rf=idxtag&fr=index">励志</a></p>
+      <p><a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%C5%B7%C3%C0&lm=-1&rf=idxtag&fr=index">欧美</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%C7%E1%BF%EC&lm=-1&rf=idxtag&fr=index">轻快</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%BB%E9%C0%F1&lm=-1&rf=idxtag&fr=index">婚礼</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%BA%EC%B8%E8&lm=-1&rf=idxtag&fr=index"class="bold orange">红歌</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%D0%C4%CB%E9%C7%E9%B8%E8&lm=-1&rf=idxtag&fr=index">心碎情歌</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=70%BA%F3&lm=-1&rf=idxtag&fr=index">70后</a></p>
+      <p><a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%B5%E7%D7%D3%CE%E8%C7%FA&lm=-1&rf=idxtag&fr=index" class="bold">电子舞曲</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%C7%E1%D2%F4%C0%D6&lm=-1&rf=idxtag&fr=index">轻音乐</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=DJ&lm=-1&rf=idxtag&fr=index"class="f16 red bold">DJ</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%CE%E8%B6%AF%BE%AB%C1%E9&lm=-1&rf=idxtag&fr=index">舞动精灵</a>|<a target="_blank"  href="http://mp3.baidu.com/m?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%B5%E7%CA%D3%BE%E7&lm=-1&rf=idxtag&fr=index">电视剧</a></p>
+   </div>
+
+  </div>
+  <div class="module topics" monkey="music-zt">
+      
+<div  class="title">
+<h2><a target="_blank"  href="http://music.baidu.com/topic">音乐专题</a></h2><a target="_blank"  href="http://music.baidu.com/topic" class="more">更多&gt;&gt;</a>
+</div>
+   <div class="topics-cont">
+     <!-- 广告位：MP3 - 首页 - 右侧专题广告 -->
+<script type="text/javascript">BAIDU_CLB_fillSlot("303032");</script>
+   </div>
+
+  </div>
+     <div class="ad r-b-ad"  monkey="right-ad1"><!-- 广告位：mp3 - 首页 - 右下角广告位 -->
+<script type="text/javascript">BAIDU_CLB_fillSlot("302906");</script></div>
+  <div class="module fm-union"  monkey="fm-union">
+      <div class="title">
+<h2><a href="http://data.yule.baidu.com/index_radio.html">百度电台联盟</a></h2>
+</div>
+   <ul class="clearfix">
+     <li><a href="http://data.yule.baidu.com/radio/%E5%8A%A8%E6%84%9F101"><img src="http://static.mp3.baidu.com/imgs/bXAzaW5kZXg-/v2_0/tj-news.jpg" alt="动感101 " /><span>上海动感101 </span></a></li>
+     <li><a href="http://data.yule.baidu.com/radio/%E5%9F%8E%E5%B8%82%E4%B9%8B%E9%9F%B3-%E5%9B%9B%E5%B7%9D"><img src="http://static.mp3.baidu.com/imgs/bXAzaW5kZXg-/v2_0/sc-travel.jpg" alt="四川旅游生活广播" /><span>四川城市之音</span></a></li>
+   </ul>
+  </div>
+ </div>
+ <div class="ad banner-ad"  monkey="banner-ad">
+      <script type="text/javascript" src="http://a.baidu.com/ecom?&di=578&tm=baiduASPGBannerTRH&word=MP3首页底部通栏"></script>
+<script type="text/javascript">
+baiduAdsDisplay(578);
+</script>
+ </div>
+ 
+ <div class="ft" monkey="ft">
+    <p> <a target="_blank"  href="http://tousu.baidu.com/mp3/add" target="_blank">意见反馈</a> | <a   href="#" onclick="try{this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.baidu.com')}catch(e){};return false">把百度设为首页</a> | <a target="_blank"  href="http://top.baidu.com">搜索风云榜</a> | <a target="_blank"  href=" http://home.baidu.com/">关于百度</a></p>
+<p>&copy;2012 Baidu <a target="_blank"  href="http://www.baidu.com/duty/">使用百度前必读</a></p>
+<p>文网文[2010]197号</p>
+<div id="dialogCase" style="display:none; text-align:left;">
+ <div id="dialogBoxBG"> </div>
+	 <div id="dialogBox_1" class="dialogBox"> 
+	      <a class="close" title="关闭" onclick="return mobileApp.close();">&nbsp;</a>
+	      <span class="desc">百度音乐“夏日清凉版”全新上线，给您最冰爽的音乐冲浪之旅。<br/>
+		  百度音乐是一款专为手机用户定制全新一代的免费音乐软件。提供百万首歌曲、手机铃声免费试听下载。
+	     </span>
+		  <span class="det adr">百万歌曲，一键分享</span>
+		  <span class="det app">免费听歌，一键下载</span>
+		  <a href="http://ting.baidu.com/mobile/BaiduMusic_Android_0-2-0-0_mp3fuceng.apk" onclick = "mobileApp.showAd();" target="_blank" class="det dl adr">&nbsp;</a>
+		  <a href="http://itunes.apple.com/cn/app/id468623917" onclick = "mobileApp.showAp();" target="_blank" class="det dl app">&nbsp;</a>
+		  <a href="http://music.baidu.com/mobile" target="_blank" class="site">百度音乐手机官网</a>
+	 </div>
+	 <div id="dialogBox_2" class="dialogBox" style=""> 
+	     <a class="close" title="关闭" onclick="return mobileApp.close();">&nbsp;</a>
+		 <a class="back" title="返回" onclick="return mobileApp.backup(this);">&nbsp;</a>
+	      <span class="desc f14">下载会自动在几秒钟内开始，如果浏览器长时间没有响应，<a href="http://ting.baidu.com/mobile/BaiduMusic_Android_0-2-0-0_mp3fuceng.apk"  onclick="return mobileApp.log('adrlink');">请点击这里下载</a></span>
+		  <a href="http://music.baidu.com/mobile" target="_blank" class="site">百度音乐手机官网</a>
+	 </div>
+	  <div id="dialogBox_3" class="dialogBox" style=""> 
+	     <a class="close" title="关闭" onclick="return mobileApp.close();">&nbsp;</a>
+		 <a class="back" title="返回" onclick="return mobileApp.backup(this);">&nbsp;</a>
+	     <span class="desc f14">已自动转入App Store,您可以通过App Store下载，如果浏览器长时间没有响应，<a href="http://itunes.apple.com/cn/app/id468623917" target="_blank" onclick="return mobileApp.log('applink');">请点击这里下载</a></span>
+		 <a class="dapp" title="下载到电脑" href="http://music.baidu.com/cms/mobile/static/ipa/Baidu_Music_MP3.ipa">&nbsp;</a>
+		 <a href="http://music.baidu.com/mobile" target="_blank" class="site" onclick="return mobileApp.log('mlink');" >百度音乐手机官网</a>
+	 </div>
+ </div>
+<script type="text/javascript">
+    mobileApp.init();
+</script>
+ </div>
+</div><!-- wp end -->
+<img id="mp3Log" src="" style="display:none">
+
+<script type="text/javascript" src="http://imgs.zhangmen.baidu.com/js/bXAzZ2xvYmFs/v2_0/tangram-custom.js"></script>
+<script type="text/javascript">var commonHeaderConf = {sugProdName: "mp3",searchInputId: "ww"};if (navigator.cookieEnabled && !/sug?=0/.test(document.cookie)){document.write('<script src="http://imgs.zhangmen.baidu.com/js/bXAzZ2xvYmFs/v2_0/sug-3.0.js?v=ns3.0"></'+'script>')};</script>
+<script type="text/javascript">
+if(/^http:\/\/geci\./.test(location.href)){G('aW').checked=true; }
+/* extends */
+String.prototype.format = function(opts){
+   if (opts) {
+		if ('[object Object]' == Object.prototype.toString.call(opts)) {
+			return this.replace(/#\{(.+?)\}/g, function (match, key) {
+				var replacer = opts[key];
+				if ('function' == typeof replacer){
+					replacer = replacer(key);
+				};
+				return ('undefined' == typeof replacer ? '' : replacer);
+			});
+		}else{
+			var data = arguments, len = data.length;
+			return this.replace(/#\{(\d+)\}/g, function (match, index) {
+				index = parseInt(index, 10);
+				return (index >= len ? match : data[index]);
+			});
+		}
+	}
+};
+
+String.prototype.trim = function(){
+        return this.replace(/^[\s|\u3000]+/g, '').replace(/[\s|\u3000]+$/g, '');
+};
+
+function ox(B,C){
+	var A,
+
+	A=window.open(C.href,"bdxinge");
+	B=window.event||B;
+
+	B.returnValue=false;
+	A.focus();
+	return false;
+}
+var mp3 = mp3 || {};
+mp3.database = (function(){
+	var _config = {
+		xingeData : [
+			{
+				"id":"newMusic",
+				"data":[{ "title":"打扰爱情$$周传雄$$$$" },{ "title":"那时的我们$$董洁$$$$" },{ "title":"吊丝很疲惫$$黄征$$$$" },{ "title":"v space$$魏晨$$$$" }],
+				
+				"type":"single"
+			},
+			{
+				"id":"hotMusic",
+				"data":[{ "title":"山水缘$$汤潮$$$$" },{ "title":"女人的美$$龙梅子$$$$" },{ "title":"你懂得$$小沈阳,沈春阳$$$$" },{ "title":"high歌$$张玮,黄龄$$$$" }],
+				"type":"single"
+			},
+			{
+				"id":"musicReport",
+				"data":[{ "title":"无底线$$本兮$$$$" },{ "title":"baha$$0086男团$$$$" },{ "title":"想你的夜$$关喆$$$$" },{ "title":"划清界限$$袁晓婕$$$$" }],
+				"type":"single"
+			}
+		],
+		xingeItemTpl : "<li>\
+		                          <div class='play-btn-mu'><i class='play-ico' onclick='ombd(\"#{type}\",#{index}); return false;'></i></div>\
+					   <div class='music-name'><a title='#{songname}' href='#' onclick='ombd(\"#{type}\",#{index}); return false;'>#{songname}</a> </div>\
+		                           <div class='singer'><a target='_blank' title='#{singer}' href='http://mp3.baidu.com/singerlist/#{singerEnc}.html'>#{singer}</a></div>\
+					</li>",
+		recommAlbum : document.getElementById("recommAlbum"),
+		frEleConfig : [{"firstre":"yes","releaseDate":"2012-09-30"},{"firstre":"no","releaseDate":"2012-10-12"},{"firstre":"no","releaseDate":"2012-09-20"},{"firstre":"no","releaseDate":"2012-09-28"},{"firstre":"no","releaseDate":"2012-10-02"}],
+		fmChannel    : document.getElementById("fmChannel"),
+		mp3Log : document.getElementById("mp3Log"),
+                recommLoding : document.getElementById("recommLoding")
+
+	};
+
+	var _initTopList = function(arr){
+			_runData( arr , _config.xingeItemTpl );
+	};
+
+	var _runData = function(arr , itemTpl){
+		var index = 0,
+			obj={};
+		for(var i = 0; i < arr.length; i++){
+			var data = arr[i].data,
+				html = [],
+				str = itemTpl;
+
+			for (var j = 0 ;j < data.length; j++) {
+				obj = _replaceData({
+					j: j,
+					arr: arr[i],
+					data: data[j]
+				});
+				obj.index = index;
+				index++;
+				html.push(str.format( obj ));
+			};
+
+			document.getElementById(arr[i].id).innerHTML = html.join( '' );	
+			};
+                       _config.recommLoding.style.display = "none";
+	};
+
+	var _replaceData =  function (config){
+		return {
+			n:config.j+1,
+			index: config.j,
+			type:config.arr.type,
+			songname: config.data.title.split('$$')[0],
+			songnameEnc: encodeURIComponent(config.data.title.split('$$')[0]),
+			singer: config.data.title.split('$$')[1],
+			singerEnc: encodeURIComponent(config.data.title.split('$$')[1])
+				};
+		};
+
+	var _initAlbum = function ( ){
+		var frEle     = _config.recommAlbum.getElementsByTagName("sup"),
+			releDatas = _config.recommAlbum.getElementsByTagName("div");
+
+		for(var i = 0, r; i <_config.frEleConfig.length; i++){
+			r = _config.frEleConfig[i];
+			if(frEle[i].className == "first-release"){
+				if(r.firstre == "yes"){
+					frEle[i].style.display = "block";
+				}
+			}
+			if(releDatas[i].className = "release-date"){
+				if(r.releaseDate == ""){
+					releDatas[i].innerHTML = "今天发行";
+				}else{
+					releDatas[i].innerHTML = r.releaseDate;
+				}
+			}
+		}
+	};
+
+	var _initFm = function () {
+         var link   = _config.fmChannel.getElementsByTagName("a"),
+             value  = "",
+             argArr = [];
+             expires = new Date();
+        	 expires.setTime(expires.getTime() + 365*24*36000);
+        for(var i = 0; i < link.length; i++){
+               link[i].onclick = function(){
+                  argArr = this.href.split("/");
+                  document.cookie ="fm_dc=" + argArr[argArr.length-1]
+                                   + "; domain = baidu.com"
+                                   + "; expires = " +expires.toGMTString();
+               }
+        }
+	};
+
+	var _mp3Log = function () {
+             	_config.mp3Log.src = "http://imgs.zhangmen.baidu.com/wd/mp3-index.jpg?date=" + Math.random() ;
+
+	}
+
+	return{
+		init : function(){
+			_initAlbum();
+			_initTopList(_config.xingeData);
+			_initFm();
+			_mp3Log();
+		}
+
+	}
+
+})();
+
+mp3.database.init();
+
+/* open mbox */
+var openBox = (function() {
+	var sPref, sWinName;
+	sWinName = 'baidumb';
+	sPref = 'width=870,height=650,top=0,left=0,scrollbars=0,resizable=0,status=1';
+	return function( url, pref ) {
+		var oWin;		
+		if(typeof pref ==="undefined" || pref.length<1 ){
+			pref = sPref;
+		}
+		oWin = window.open( url, sWinName, pref );
+		if( oWin ){
+			oWin.focus();
+		}
+		return false;
+	}
+})();
+
+/* listen */
+var omb = (function( sBaseURL ) {
+	var aPref;
+	/* create pair */
+	function p( k, v ){
+        return ( v || v == 0 ) ? ( "&" + k + "=" + encodeURIComponent( v ) ) : "";
+    }
+	
+/* @function getLid */
+function getLid(list){
+	var map={"热门对唱":"503","歌曲TOP500":"403","新歌TOP100":"402","经典老歌":"502","中文金曲榜":"401","影视金曲":"500","摇滚歌曲榜":"510","轻音乐":"405","欧美金曲":"512","日韩流行风":"513","流金岁月":"507","相声曲艺":"406","dj舞曲":"404","少儿歌曲":"407","校园民谣":"506","中国民乐":"408","分类试听dj":"417","":""};
+	return map[list];
+}
+	
+	return function() {
+		var sURL, aAgs, oMapArgs, sType;
+
+		aAgs = arguments;
+		sType = arguments[0];
+		sURL = sBaseURL + '/m?rf=idx&ct=134217728&tn=baidumt';
+
+		oMapArgs = {
+			"ls": sBaseURL + [ '/m?ct=134217728&tn=baidumt&gate=10&rf=', '&s_o=' + aAgs[2], '&c_n=' + encodeURI( aAgs[4] ).trim(), '&a_n=' + encodeURI( aAgs[1] ).trim(), '&s_n=' + encodeURI( aAgs[3] ).trim() ].join( '' ),
+			"10": sURL + [ "&gate=10&c_n=mp3order", p( "l_id", getLid( aAgs[1] )), p( "l_n", aAgs[1] ), p( "s_o", aAgs[2] )].join( '' ),
+			"11": sURL + [ "&gate=11&d_s=1&s_o=0&c_n=%E4%B8%93%E8%BE%91%E8%AF%95%E5%90%AC", p( "l_i", aAgs[1]), p( "a_n", aAgs[2] )].join( '' ),
+			"100": sURL + [ "&gate=10&c_n=mp3%E9%A6%96%E9%A1%B5&a_n=%E9%9A%8F%E4%BE%BF%E5%90%AC%E5%90%AC&s_n=", aAgs[1], p( "s_o", aAgs[2] )].join( '' ),
+			"less3": sURL + [ "&gate=4", p( 'id' , aAgs[0] ), p( 's_o', aAgs[1] )].join( '' ),
+			"other": sURL + '&gate=5'
+		};
+
+		if( aAgs.length>0 ){
+			if( sType != 'ls' && aAgs.length<3 ){
+				sType = 'less3'
+			}
+		} else {
+			sType = 'other'
+		}
+		return openBox( oMapArgs[ sType ] );
+	}
+})( 'http://box.zhangmen.baidu.com' );
+
+/* playlist */
+function ombd( key, fix ){
+  	var sMboxURLTemplate, oJsonURLMap, aPref;
+	sMboxURLTemplate = 'http://box.zhangmen.baidu.com/m?tn=baidumt&gate=cb&from=xgtj&src=mp3_index&l_cb=#{callback}&s_o=#{fix}';
+	oJsonURLMap = {
+		"single": 'http://static.mp3.baidu.com/v2/index/music_recomm.txt',
+		"album1": 'http://list.mp3.baidu.com/music_recomm/music_album1.txt',
+		"album2": 'http://list.mp3.baidu.com/music_recomm/music_album2.txt',
+		"album3": 'http://list.mp3.baidu.com/music_recomm/music_album3.txt',
+		"album4": 'http://list.mp3.baidu.com/music_recomm/music_album4.txt',
+		"album5": 'http://list.mp3.baidu.com/music_recomm/music_album5.txt'
+	};
+
+	aPref = [
+		'width=870',
+		'height=650',
+		'left=' + (screen.width > 800 )?100:0,
+		'top=0',
+		'scrollbars=0',
+		'resizable=0',
+		'status=1'
+	];
+
+	openBox( sMboxURLTemplate.format({
+		"callback": encodeURIComponent( oJsonURLMap[key] + '?v=data' + +10*Math.random() ),
+		"fix": fix
+	}), aPref.join() );
+	return false
+}
+/* end open mbox */
+
+/* plug-ins*/
+/* click monkey */
+var ClickMonkey=(function(){var B="http://nsclick.baidu.com/h.gif?pid=106&v=mp3-v2-indexnew",$="bd_clickmonkey",C=function(C){var _=(new Date()).getTime(),D=window[$+_]=new Image(),A="";for(var E in C)A+=("&"+E+"="+C[E]);D.src=B+"&r="+_+A;D.onload=D.onerror=function(){D=null}},E="",A=function($,C){C=C||[];E=$.monkey||$.getAttribute("monkey")||E;if($.parentNode&&$.parentNode.tagName.toUpperCase()!="BODY")C=A($.parentNode,C);if($.previousSibling){var _=1,B=$.previousSibling;do{if(B.nodeType==1&&B.nodeName==$.nodeName)_++;B=B.previousSibling}while(B)}if($.nodeType==1)C.push($.nodeName.toLowerCase()+(_>1?_:""));return C},D=function(_,C,B,$){if(_.addEventListener){_.addEventListener(C,B,$);return true}else if(_.attachEvent){var A=_.attachEvent("on"+C,B);return A}},F=function($){return encodeURIComponent($)};D(document.body,"mousedown",function($){var $=window.event||$,_=$.srcElement||$.target;if(_.tagName.toUpperCase()!="A")if(_.parentNode.tagName.toUpperCase()=="A")_=_.parentNode;else if(!(_.tagName.toUpperCase()=="INPUT"&&(_.type.toLowerCase()=="checkbox"||_.type.toLowerCase()=="radio")))return;E="";var D=A(_).join("-"),B={xp:D},G=_.getAttribute("href",2);if(G&&!(/^javascript|#/.test(G)))B.objurl=F(G);else B.objurl="none";if(_.innerHTML&&!(/^s*</i.test(_.innerHTML))&&!(/>s*$/i.test(_.innerHTML)))B.title=F(_.innerHTML);else B.title="none";if(E)B.monkey=E;if(E=="randL"||E=="ecom")B.objurl=B.title="none";C(B)});var _=function(_,$,A){var B={xp:"_"+_+"_"};if($)B.objurl=F($);else B.objurl="none";if(A)B.title=F(A);else B.title="none";C(B)};return{log:_}})();
+function onItemClick(e){
+    ClickMonkey.log('wall_'+(e+1));
+}
+
+/* ua2 */
+var UA2Config = {"id": "mp3-index","action": "http://imgs.zhangmen.baidu.com/wd/","rate": 100};
+document.write( '<'+ 'script type="text\/javascript" src="http:\/\/imgs.zhangmen.baidu.com\/m3lib\/ua2-1.1.js"' + '><' + '\/script' + '>' );
+
+</script>
+</body>
+</html>

@@ -1,0 +1,277 @@
+date: Fri, 02 Dec 2011 18:04:34 GMT
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+server: IBM_HTTP_Server
+x-old-content-length: 9222
+cache-control: no-cache="set-cookie, set-cookie2"
+expires: Thu, 01 Dec 1994 16:00:00 GMT
+Set-Cookie: JSESSIONID=0001FNjSiuCIRFQlqW5RvKxwiHv:-4G9JRD; Path=/
+Set-Cookie: IVR-session=a02fa8c000005000; Max-age=300
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+           
+                                                         
+<html>              
+         
+   
+<!------- Begin Head ------->   
+      
+<head>                 
+	<title>Advertising in The New York Times</title>
+	<link href='/was/ATWWeb/public/common/styles/Styles.css' rel="styleSheet" type="text/css">
+	<link href='/was/ATWWeb/public/home/styles/Styles.css' rel="styleSheet" type="text/css">
+	<SCRIPT language="Javascript" src="/was/ATWWeb/public/common/js/ATWCommon.js"></SCRIPT>
+
+<SCRIPT language="JavaScript">
+<!-- 
+document.cookie = "IV_JCT=%2Fwas; path=/";
+//--> 
+</SCRIPT>
+</head>          
+                 
+<!------- End Head ------->
+<!------- Begin Body ------->       
+
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+	<table width="754" cellpadding="0" cellspacing="0" border="0">
+		<tr>
+			<td colspan="2">
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+
+<!------- Begin Header ------->
+
+<table width="754" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+	<tr>  
+		<td><img src="/was/ATWWeb/common/images/logo_left.gif"/></td>
+		<td><img src="/was/ATWWeb/common/images/logo_right.gif"/></td>
+		<td><img src="/was/ATWWeb/common/images/black_space.gif"/></td>
+		<td width="442" align="right">
+			<table border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td class="globalNav">
+						
+									<a href='https://www.nytadvertising.com/wass/ATWWeb/ProcessorAction.do' class="globalNav">Login</a>
+								
+	   					| <a href='http://www.nytadvertising.nytimes.com/adonis/ExtranetHomeServlet?opcode=ViewExtranetHome' class="globalNav">Display Login</a> 
+						| <a href='https://www.nytadvertising.com/was/ATWWeb/public/screens/pages/sitemap.jsp' class="globalNav">Site Map</a> 
+						| <a href='http://www.nytmarketing.com/mediakit2/contacts.html' class="globalNav">Contact Us</a>
+						<!--| <a href='/screens/pages/search.jsp' class="globalNav">Search</a> -->
+					</td>
+					<td><img src="/was/ATWWeb/common/images/shim.gif" width="10" height="1"></td>
+				</tr>
+				
+			</table>
+		</td>
+	</tr>
+</table>
+
+<!------- End Header ------->
+</td>
+		</tr>
+		<tr>
+			<td colspan="2"><!------- Begin Banner ------->
+
+<table width="754" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+	<tr>
+		<td><img src="/was/ATWWeb/public/common/images/shim.gif" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td><img src="/was/ATWWeb/public/home/images/banner_left.gif" alt="Advertising in The New York Times"/></td>
+		<td><img src="/was/ATWWeb/public/common/images/banner_right_home.gif"/></td>
+	</tr>
+</table>  
+
+<!------- End Banner -------></td>
+		</tr>
+		<tr>
+			<td colspan="2"><!------- Begin 1st level Navigation ------->
+  
+
+	
+	
+<!-- create TopMenuHelperNew to enforce the jsp to look for the new class ->
+	<!-- jsp:useBean id="topMenu" 
+	class="com.nytimes.atw.content.utils.TopMenuHelperNew" scope="request" / -->
+	
+
+
+
+ 
+<table width="754" cellpadding="0" cellspacing="0">  
+   <tr class="navbg"> 		
+	<td class="navbg"><img src="/was/ATWWeb/public/common/images/shim.gif" width="140" height="18"></td>
+		
+		<td class="inactiveTab"><a href="http://www.nytimes.whsites.net/mediakit/n_editorial.html" class="inactiveTabLink"><nobr>THE NEWSPAPER</nobr></a></td>														
+		
+        <td valign="bottom" class="navbg"><img src="/was/ATWWeb/public/common/images/shim.gif" width="2" height="1"></td>
+		
+		<td class="inactiveTab"><a href="http://www.nytimes.whsites.net/mediakit/m_editorial.html" class="inactiveTabLink"><nobr>THE MAGAZINE</nobr></a></td>														
+		
+        <td valign="bottom" class="navbg"><img src="/was/ATWWeb/public/common/images/shim.gif" width="2" height="1"></td>
+		
+		<td class="inactiveTab"><a href="http://www.nytimes.whsites.net/mediakit/m_circ.html" class="inactiveTabLink"><nobr>CIRCULATION</nobr></a></td>														
+		
+        <td valign="bottom" class="navbg"><img src="/was/ATWWeb/public/common/images/shim.gif" width="2" height="1"></td>
+		
+		<td class="inactiveTab"><a href="https://www.nytadvertising.com/was/ATWWeb/public/displayads/pages/contentDisplayAds.jsp?l1Id=6" class="inactiveTabLink"><nobr>DISPLAY ADS</nobr></a></td>														
+		
+        <td valign="bottom" class="navbg"><img src="/was/ATWWeb/public/common/images/shim.gif" width="2" height="1"></td>
+		
+		<td class="inactiveTab"><a href="https://www.nytadvertising.com/was/ATWWeb/public/classifiedads/pages/contentClassifiedAds.jsp?l1Id=7" class="inactiveTabLink"><nobr>CLASSIFIED ADS</nobr></a></td>														
+		
+        <td valign="bottom" class="navbg"><img src="/was/ATWWeb/public/common/images/shim.gif" width="2" height="1"></td>
+		
+		<td class="inactiveTab"><a href="http://www.nytmediakit.com" class="inactiveTabLink"><nobr>AD COMMUNITY</nobr></a></td>														
+		
+        <td valign="bottom" class="navbg"><img src="/was/ATWWeb/public/common/images/shim.gif" width="50" height="1"></td>
+				
+	
+   </tr>      
+</table>
+<!------- End 1st level Navigation ------->
+	
+<!-- Begin 2nd level navigation: -->
+
+
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+
+</table>
+
+
+</td>
+			
+		</tr>
+		<tr>			
+			<td height="425"><table width="100%" cellpadding="0" cellspacing="0" border="0"
+	height="425">
+
+	<tr valign="top">
+		<td colspan="2">
+		<table width="100%" cellpadding="0" cellspacing="0" border="0">
+			<tr>
+				<td valign="top" width="140" rowspan="3">
+				 <img
+					src="/was/ATWWeb/public/home/images/lc_new.jpg" width="140" />
+				
+
+				</td>
+				<!-- Begin Center content -->
+				<td class="content" valign="top" width="452"><table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td><img src="/was/files/images/Home_unauth_user.jpg" /></td>
+<td valign="top"><a href="https://www.nytadvertising.com/was/ATWWeb/ProcessorAction.do?l1Id=7&l2Id=45&pubContextPath=/VignetteWebApp"><img src="/was/files/images/Place_Classified_Ad.gif" border="0" /></a><br />
+<img src="/was/files/images/7px.gif" /><br />
+<img height="122" src="/was/files/images/QuicklinksBox.gif" width="162" usemap="#Map" border="0" /><br />
+<img src="/was/files/images/7px.gif" /><br />
+<a href="http://nytimes.com/travelshow/index.html" target="new"></a>&#160; <map id="Map" name="Map">
+<area shape="RECT" coords="9,37,122,55" href="http://www.nytadvertising.com/was/ATWWeb/public/displayads/pages/contentDisplayAds.jsp?l1Id=6&l2Id=1150" />
+<area shape="RECT" coords="6,57,143,74" href="http://www.nytadvertising.com/was/ATWWeb/public/displayads/pages/contentDisplayAds.jsp?l1Id=6&l2Id=31&HLId=163" />
+<area shape="RECT" coords="6,76,152,91" href="http://nytmarketing.com/cgi-bin/index.cgi?month_filter=0&pub_filter=1&file=n_editorial_cal" />
+<area shape="RECT" coords="7,92,148,113" href="http://nytmarketing.com/cgi-bin/index.cgi?month_filter=0&pub_filter=2&file=m_editorial_cal" />
+</map><br /><A href="https://www.nytadvertising.com/was/ATWWeb/ProcessorAction.do?l1Id=6&l2Id=1040&pubContextPath=/VignetteWebApp"><img src="/was/files/images/display.jpeg" border="0"/></A></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<a><img src="/was/files/images/quicklink_newsize.gif" usemap="#quicklink_newsize" border="0"/></a>
+<map id="quicklink_newsize" name="quicklink_newsize">
+<area shape="rect" alt="" coords="23,55,126,71" href="/was/files/others/NYT_Broadsheet.pdf" title="" />
+<area shape="rect" alt="" coords="23,75,125,89" href="/was/files/others/NYT_Tabloid.pdf" title="" />
+<area shape="rect" alt="" coords="23,93,124,120" href="/was/files/others/NYT_Classified.pdf" title="" />
+<area shape="default" nohref="nohref" alt="" />
+</map>
+</td>
+</tr>
+
+</tbody>
+</table>
+</td>
+				<!-- End center Content -->
+				<!-- Begin Personalize -->
+				<td width="162"></td>
+				<!-- End Personalize -->
+			</tr>
+		</table>
+		</td>
+
+	</tr>
+	<tr>
+		<td colspan="2"><img src="/was/ATWWeb/public/common/images/shim.gif"
+			height="40"></td>
+	</tr>
+</table></td>			
+		</tr>
+		<tr>
+			<td colspan="2"><!------- Begin Footer ------->
+<table width="754" bgcolor="#000000">
+	<tr>
+	    <td><img src="/was/ATWWeb/public/common/images/shim.gif" width="1" height="1"></td>
+  	</tr>
+	<tr>
+		<td align="center" class="footer">
+			<a href="/was/ATWWeb/public/screens/pages/privacyPolicy.jsp" class="footer">Privacy Policy</a>
+			| <a href="/was/ATWWeb/public/screens/pages/copyright.jsp" class="footer">Copyright Info</a>
+			| <a href="javascript:var win=openCenteredWindow('http://www.nytimes.com/adinfo',400,700,'prev_win_with','scrollbars=yes, resizable=yes');" class="footer">NYTimes.com Media Kit</a>			 		
+			<br>
+			<a href="/was/ATWWeb/public/screens/pages/aboutNYT.jsp" class="footer">About The New York Times</a>
+			| <a href="/was/ATWWeb/public/screens/pages/otherNYT.jsp" class="footer">Other New York Times Company Properties</a>
+			| <a href="javascript:var win=openCenteredWindow('http://www.nytimes.com/homedelivery-subscribe',400,700,'prev_win_with','scrollbars=yes, resizable=yes, toolbar=yes');" class="footer">Subscribe to The New York Times</a>
+		</td>	
+	</tr>
+  	<tr>
+    	<td><img src="/was/ATWWeb/public/common/images/shim.gif" width="1" height="1"></td>
+  	</tr>	
+</table>
+
+<!------- End Footer -------></td>
+		</tr>	
+	</table>
+</body>
+
+<!------- End Body ------->
+
+</html>

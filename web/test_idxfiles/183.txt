@@ -1,0 +1,603 @@
+Set-Cookie: ASPSESSIONIDAASCBQCD=BLMHEEBAEHIKIBBEKJEAHMLM; path=/
+Cache-control: private
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+	<title>Real Estate - Sell or Rent a Home or Apartment - New York Times</title>
+
+
+<meta http-equiv="Expires" content="now">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta name="robots" content="noarchive">
+
+<meta name="keywords" content="for sale by owner, post a real estate ad, selling my home, selling my home new york, selling your own home, selling home new jersey, selling home connecticut, renting home new york, apartment for rent new york">
+<meta name="Description" content="Selling your home or apartment?  Looking to rent your home or apartment?  List your property for sale or rent on NYTimes.com now and reach over 1.1 million prospective home buyers and home renters in the New York are and nationwide today!">
+
+<link rel="stylesheet" type="text/css" href="/css/global.css">
+<link rel="stylesheet" type="text/css" href="/css/general.css">
+<link rel="stylesheet" type="text/css" href="/css/paint.css">
+
+<!-- <link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/common/global.css">
+<style type="text/css">
+@import url(http://graphics8.nytimes.com/css/common/screen/general.css);
+</style> -->
+
+<!--Begin common script tags-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/browserSize.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/Tacoda_AMS_DDC_Header.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/DropDown.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/modifyNavigationDisplay.js"></script>
+<script type="text/javascript" type="text/javascript" src="http://graphics8.nytimes.com/js/fileit.js"></script>
+<script type="text/javascript" type="text/javascript">
+function linkbox(url, winName) {
+	window.open(url, winName, 
+	"location=yes,directories=yes,menubar=yes,toolbar=yes,status=yes,resizable=yes,scrollbars=yes");
+}
+</script>
+<!--End common script tags-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/todays_date.js"></script>
+<script src="http://graphics8.nytimes.com/js/article_dhtml.js" type="text/javascript"></script>
+		
+
+<link rel="stylesheet" type="text/css" href="/css/gabriels.css">
+<script type="text/javascript" src="/js/gabriels.js"></script>
+
+
+</head>
+<body>
+
+<div id="shell">
+
+<div id="login">
+ <ul id="memberTools">
+  <li><iframe height="16" width="480" scrolling="no" frameborder="0"  src="http://www.nytimes.com/export_html/common/new_login_iframe.html"></iframe></li>
+ </ul>
+ <ul class="tabs">
+  <li><a href="http://www.nytimes.com">Home Page</a></li>
+  <li><a href="http://my.nytimes.com">My Times</a></li>
+  <li><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+  <li><a href="http://www.nytimes.com/video">Video</a></li>
+  <li><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+  <li><a href="http://www.nytimes.com/timestopics">Times Topics</a></li>
+ </ul>
+</div><!-- end #login -->
+
+<div id="page">
+
+ <div id="masthead">
+  <form id="searchForm" name="searchForm" method="GET" action="http://query.nytimes.com/gst/sitesearch_selector.html" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="date_select" value="full"><div id="searchWidget">
+<input id="searchQuery" type="text" name="query" size="20" value=""><div id="searchInputs">
+<input type="image" src="http://graphics8.nytimes.com/images/global/global_search/search_button40x19.gif" alt="Search" title="Search" id="searchSubmit">
+<input id="searchAll" type="hidden" name="type" value="nyt">
+</ul>
+</div>
+
+</div>
+</form>
+  <a href="http://www.nytimes.com"><img id="NYTLogo" alt="New York Times" title="New York Times" src="http://graphics8.nytimes.com/images/misc/nytlogo153x23.gif" border="0"></a>
+  <div id="date"><script type="text/javascript">document.write(day + " " + month + " " + myweekday + ", " + year);</script></div>
+	
+		<h1><a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a></h1>
+	
+ </div><!-- end #masthead -->
+
+ <div id="navigation"><ul class="tabs">
+<li id="navWorld"><a href="http://www.nytimes.com/pages/world/index.html">World</a></li>
+<li id="navUS"><a href="http://www.nytimes.com/pages/national/index.html">U.S.</a></li>
+<li id="navNYRegion"><a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a></li>
+<li id="navBusiness"><a href="http://www.nytimes.com/pages/business/index.html">Business</a></li>
+<li id="navTechnology"><a href="http://tech.nytimes.com/pages/technology/index.html">Technology</a></li>
+
+<li id="navScience"><a href="http://www.nytimes.com/pages/science/index.html">Science</a></li>
+<li id="navHealth"><a href="http://www.nytimes.com/pages/health/index.html">Health</a></li>
+<li id="navSports"><a href="http://www.nytimes.com/pages/sports/index.html">Sports</a></li>
+
+<li id="navOpinion"><a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a></li>
+<li id="navArts"><a href="http://www.nytimes.com/pages/arts/index.html">Arts</a></li>
+<li id="navStyle"><a href="http://www.nytimes.com/pages/style/index.html">Style</a></li>
+<li id="navTravel"><a href="http://travel.nytimes.com/pages/travel/index.html">Travel</a></li>
+<li id="navJobs"><a href="http://jobmarket.nytimes.com/pages/jobs/index.html">Jobs</a></li>
+
+<li class="selected" id="navRealestate">
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a><ul>
+<li class="selected"><a href="http://www.nytimes.com/realestate/">Property Search</a></li>
+<li><a href="http://www.nytimes.com/pages/realestate/communities/index.html">Communities</a></li>
+
+<li><a href="http://www.nytimes.com/pages/realestate/mortgage/ ">Mortgages</a></li>
+<!--<li><a href="http://homefinance.nytimes.com/nyt">Home Finance Center</a></li>-->
+<li><a href="http://www.nytimes.com/pages/great-homes-and-destinations/">Great Homes</a></li>
+<li><a href="http://www.nytimes.com/pages/realestate/commercial/index.html">Commercial</a></li>
+<li><a href="http://listings.nytimes.com/classifiedsmarketplace/">All Classifieds</a></li>
+
+</ul>
+</li>
+<li id="navAutos"><a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a></li>
+</ul></div>
+
+ <script type="text/javascript">modifyNavigationDisplay();</script>
+
+
+
+<div id="main">
+
+
+
+
+<script type="text/javascript">
+//-------------------------------------------------------------------------
+var source = "NYT";
+function AddListing(n) {
+	document.SelectType.source.value = source;
+	document.SelectType.adType.value = n;
+	if ((n == '2') || (n == '3')) {
+		document.SelectType.action = "http://209.11.106.130/NYTPackage/Registration/PackageRegistration.asp"
+	}
+	else {
+		document.SelectType.action = "step2.asp";
+	}
+	if ((n=='20') || (n=='21'))
+		document.SelectType.RoS.value = "R";
+	else
+		document.SelectType.RoS.value = "S";
+					
+	if ((n=='10') || (n=='21') || (n=='13') || (n=='15') || (n=='17')) {
+		document.SelectType.PrintAd.value = "Y";
+	}
+	
+	document.SelectType.submit();
+}
+//-------------------------------------------------------------------------
+</script>
+
+<link rel="stylesheet" type="text/css" href="/css/paint.css">
+<script type="text/javascript" src="/js/boxOver.js"></script>
+
+<div id="page_header" class="clearfix">
+	<div class="left">
+        
+   			<h1>Post a Real Estate Ad (Tri-State)</h1>
+		
+
+		<h3>
+            Choose the option that's right for you. 
+            
+                For outside the Tri-State area, <a href="?source=GH">post a nationwide ad</a>.
+            
+        </h3>
+	</div>
+	<div class="right">
+		<ul>
+			<li class="first"><a href="/edit/user_login.asp">Manage My Listings</a></li><li><a href="javascript:openHelp('/help.asp#contactus')">Contact Us</a></li><li><a id="_lpChatBtn" href='http://server.iad.liveperson.net/hc/17743901/?cmd=file&file=visitorWantsToChat&site=17743901&byhref=1&imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1b' target='chat17743901' onClick="javascript:window.open('http://server.iad.liveperson.net/hc/17743901/?cmd=file&file=visitorWantsToChat&site=17743901&imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1b&referrer='+escape(document.location),'chat17743901','width=475,height=400,resizable=yes');return false;">Live Chat</a></li>
+		</ul>
+	</div>
+</div>
+
+<form name="SelectType" action="/step2.asp" method="post">
+
+<div id="page_body" class="clearfix sectionfront">
+	<div class="left">
+	<h2 id="title_for_sale">For Sale</h2>
+    
+
+
+    	<div id="for_sale_tristate" class="price_box">
+			<h3>New York, New Jersey &amp; Connecticut</h3>
+			<ul>
+          		<li>Add up to 10 photos and 5 floorplans</li>
+          		<li>45 lines of text included</li>
+          		<li>Include websites, email addresses, open house information and more.</li>
+          		<li>Print ads include 4 lines of text in the National edition of the next Sunday New York Times.
+					<h6>*Ad must be completed by Wed. at 5:00PM ET</h6></li>
+				<li class="learn"><a href="javaScript:openExample('information.asp')">Learn more and see an example &raquo;</a></li>
+			</ul>
+            <ul class="price_option clearfix">
+                <li class="ad_type">Online</li>
+                <li class="ad_price">$130</li>
+                <li class="ad_duration">14 days</li>
+                <li class="ad_btn"><a href="javascript:AddListing('1')"><img src="/images/btn_for_sale_online.gif" alt="List your Property" /></a></li>
+            </ul>
+            <ul class="price_option2 clearfix">
+                <li class="ad_type">Online<br />and Print</li>
+                <li class="ad_price">$280</li>
+                <li class="ad_duration">14 days</li>
+                <li class="ad_btn"><a href="javascript:AddListing('10')"><img src="/images/btn_for_sale_onlineprint.gif" alt="List your Property" /></a></li>
+            </ul>
+            <div class="off">plus 1 Sunday in print</div>
+	  </div>
+
+
+           
+
+		<h2 id="title_more_options">More Options</h2>
+		
+		
+        
+        <div id="nationwide_listing" class="option_box clearfix">
+			<div class="btn_go"><a href="?source=GH"><img src="/images/btn_more_go.gif" alt="" /></a></div>
+			<h3><a href="?source=GH">Nationwide Listings</a></h3>
+			<p>Additional posting options if your property lies outside of the Tri-State Area (NY, NJ and CT).</p>
+		</div>
+        
+		<div id="bulk_package" class="option_box clearfix">
+			<div class="btn_go"><a href="http://realestateads.nytimes.com/packages/"><img src="/images/btn_more_go.gif" alt="" /></a></div>
+			<h3><a href="http://realestateads.nytimes.com/packages/">Bulk Online Only Packages</a></h3>
+			<p>Brand your listings with your own logo and save money when you buy in bulk</p>
+		</div>
+		
+		
+        
+		<div id="print_package" class="option_box clearfix">
+			<div class="btn_go"><a href="http://www.cityfeet.com/Advertise/DefaultP.aspx?PartnerPath=nytimes/"><img src="/images/btn_more_go.gif" alt="" /></a></div>
+			<h3><a href="http://www.cityfeet.com/Advertise/DefaultP.aspx?PartnerPath=nytimes/">Commercial Real Estate</a></h3>
+			<p>Post a commercial real estate listing on Nytimes.com and Cityfeet.com.</p>
+		</div>
+        
+		<div id="print_package" class="option_box clearfix">
+			<div class="btn_go"><a href="https://www.nytadvertising.com/was/ATWWeb/ProcessorAction.do"><img src="/images/btn_more_go.gif" alt="" /></a></div>
+			<h3><a href="https://www.nytadvertising.com/was/ATWWeb/ProcessorAction.do">Print Ads</a></h3>
+			<p>To place your ad in the New York Times Newspaper, please call <strong>1-800-AD-TIMES</strong> or use the <a href="https://www.nytadvertising.com/was/ATWWeb/ProcessorAction.do">Online Ad Portal</a></p>
+		</div>
+		
+	</div>
+
+<div class="right">
+	<h2 id="title_for_rent">For Rent</h2>
+	
+
+        
+		<div id="for_rent_tristate" class="price_box">
+			<h3>New York, New Jersey &amp; Connecticut</h3>
+			<ul>
+          		<li>Add up to 10 photos and 5 floorplans</li>
+          		<li>45 lines of text included</li>
+          		<li>Include websites, email addresses, open house information and more.</li>
+          		<li>Print ads include 4 lines of text in the National edition of the next Sunday New York Times.
+					<h6>*Ad must be completed by Wed. at 5:00PM ET</h6></li>
+				<li class="learn"><a href="javaScript:openExample('information.asp')">Learn more and see an example &raquo;</a></li>
+			</ul>
+            <ul class="price_option clearfix">
+                <li class="ad_type">Online</li>
+                <li class="ad_price">$99</li>
+                <li class="ad_duration">14 days</li>
+                <li class="ad_btn"><a href="javascript:AddListing('20')"><img src="/images/btn_for_rent_online.gif" alt="List your Property" /></a></li>
+            </ul>
+            <ul class="price_option2 clearfix">
+                <li class="ad_type">Online<br />and Print</li>
+                <li class="ad_price">$249</li>
+                <li class="ad_duration">14 days</li>
+                <li class="ad_btn"><a href="javascript:AddListing('21')"><img src="/images/btn_for_rent_onlineprint.gif" alt="List your Property" /></a></li>
+            </ul>
+            <div class="off">plus 1 Sunday in print</div>
+		</div>
+
+
+		<div id="vacation_rental" class="price_box">
+			<h3>New York, New Jersey &amp; Connecticut</h3>
+			<ul>
+          		<li>Add up to 5 photos</li>
+          		<li>Up to 3000 characters</li>
+          		<li>Make your listing featured or premium</li>
+				<li class="learn"><a href="javascript:openHelp('https://placead.nytimes.com/help.asp?CategoryID=NYTWTS#ExampleAd');">Learn more and see an example &raquo;</a></li>
+			</ul>
+            
+            <ul class="price_option clearfix">
+                <li class="ad_type">Starting At</li>
+                <li class="ad_price">$60</li>
+                <li class="ad_duration">30 days</li>
+                <li class="ad_btn"><a href="https://placead.nytimes.com/default.asp?CategoryID=NYTWTS&Source=NYT"><img src="/images/btn_vacation_rental_online.gif" alt="List your Property" /></a></li>
+            </ul>
+            
+		</div>
+		
+	</div>
+</div>
+
+   <input type="hidden" name="adType" value="">
+   <input type="hidden" name="source" value="NYT">	
+   <input type="hidden" name="UserPwd" value="">
+   <input type="hidden" name="UserEmail" value="">
+   <input type="hidden" name="UserId" value="111202718">
+   <input type="hidden" name="ListingId" value="NS111202653">
+   <input type="hidden" name="RoS" value="">                   
+   <input type="hidden" name="txtBuilt" value="">  
+   <input type="hidden" name="txtBTYpe" value="">  
+   <input type="hidden" name="txtBName" value="">  
+   <input type="hidden" name="txtCity" value="">  
+   <input type="hidden" name="txtSt" value="">  
+   <input type="hidden" name="IntlState" value="">  
+   <input type="hidden" name="chkITFlag" value="N">  
+   <input type="hidden" name="txtZipCode" value="">  
+   <input type="hidden" name="txtFloors" value="">  
+   <input type="hidden" name="txtUnit" value="">  
+   <input type="hidden" name="txtUnits" value="">  
+   <input type="hidden" name="txtHouseNbr" value="">  
+   <input type="hidden" name="txtStreetName" value="">  
+   <input type="hidden" name="txtCrossSt" value="">  
+   <input type="hidden" name="txtDispAddress" value="">  
+   <input type="hidden" name="txtContact1" value="">  
+   <input type="hidden" name="txtPhone1" value="">  
+   <input type="hidden" name="txtCellPhone1" value="">  
+   <input type="hidden" name="txtEmail1" value="">  
+   <input type="hidden" name="txtPicture1" value="">  
+   <input type="hidden" name="txtLtType1" value="">  
+   <input type="hidden" name="txtContact2" value="">  
+   <input type="hidden" name="txtPhone2" value="">  
+   <input type="hidden" name="txtCellPhone2" value="">  
+   <input type="hidden" name="txtEmail2" value="">  
+   <input type="hidden" name="txtPicture2" value="">  
+   <input type="hidden" name="txtLtType2" value="">                
+   <input type="hidden" name="txtAgentIpixMediaSet" value="">                
+   <input type="hidden" name="txtAgentIpixToken" value="">                
+   <input type="hidden" name="txtPrice" value="">  
+   <input type="hidden" name="drpBedRooms" value="">  
+   <input type="hidden" name="drpRooms" value="">  
+   <input type="hidden" name="txtBath" value="">  
+   <input type="hidden" name="txtSquarefeet" value="">  
+   <input type="hidden" name="txtCCMaint" value="">  
+   <input type="hidden" name="txtRETax" value="">  
+   <input type="hidden" name="Prewar" value="">  
+   <input type="hidden" name="Loft" value="">  
+   <input type="hidden" name="LiveWork" value="">  
+   <input type="hidden" name="Doorman" value="">  
+   <input type="hidden" name="FitnessCenter" value="">  
+   <input type="hidden" name="Pool" value="">  
+   <input type="hidden" name="Elevator" value="">  
+   <input type="hidden" name="Garage" value="">  
+   <input type="hidden" name="NoFee" value="">  
+   <input type="hidden" name="Terrace" value="">  
+   <input type="hidden" name="Balcony" value="">  
+   <input type="hidden" name="GardenPatio" value="">  
+   <input type="hidden" name="Multilevel" value="">  
+   <input type="hidden" name="DiningRoom" value="">  
+   <input type="hidden" name="FirePlace" value="">  
+   <input type="hidden" name="Washerdryer" value="">  
+   <input type="hidden" name="Furnished" value="">  
+   <input type="hidden" name="drpPetId" value="5">  
+   <input type="hidden" name="texShortComments" value="">  
+   <input type="hidden" name="texComments" value="">  
+   <input type="hidden" name="txtWebsite" value="">  
+
+   <input type="hidden" name="OhDay1" value=""> 
+   <input type="hidden" name="OhMonth1" value=""> 
+   <input type="hidden" name="OhYear1" value=""> 
+   <input type="hidden" name="OhTime1" value=""> 
+   <input type="hidden" name="OhFromTime1" value=""> 
+   <input type="hidden" name="OhToTime1" value=""> 
+   <input type="hidden" name="OhAppointment1" value=""> 
+   
+   <input type="hidden" name="OhDay2" value="">
+   <input type="hidden" name="OhMonth2" value="">
+   <input type="hidden" name="OhYear2" value="">
+   <input type="hidden" name="OhTime2" value="">
+   <input type="hidden" name="OhFromTime2" value="">
+   <input type="hidden" name="OhToTime2" value="">
+   <input type="hidden" name="OhAppointment2" value="">
+
+   <input type="hidden" name="OpHouse" value=""> 
+   <input type="hidden" name="LuxHome" value=""> 
+   <input type="hidden" name="Vacation" value=""> 
+   <input type="hidden" name="Resort" value=""> 
+   <input type="hidden" name="Ski" value=""> 
+   <input type="hidden" name="Beach" value=""> 
+   <input type="hidden" name="Golf" value=""> 
+   <input type="hidden" name="Sublet" value=""> 
+   <input type="hidden" name="LakeFront" value=""> 
+   <input type="hidden" name="Mountain" value=""> 
+   <input type="hidden" name="Timeshare" value=""> 
+   <input type="hidden" name="AdultCommunities" value=""> 
+   <input type="hidden" name="CorporateApartments" value=""> 
+   <input type="hidden" name="Metropolitan" value=""> 
+   <input type="hidden" name="International" value=""> 
+   <input type="hidden" name="NewDevelopments" value=""> 
+   <input type="hidden" name="InvestmentProperties" value=""> 
+   <input type="hidden" name="Photo1" value=""> 
+   <input type="hidden" name="Photo2" value=""> 
+   <input type="hidden" name="Photo3" value=""> 
+   <input type="hidden" name="Photo4" value=""> 
+   <input type="hidden" name="Photo5" value=""> 
+   <input type="hidden" name="Photo6" value=""> 
+   <input type="hidden" name="Photo7" value=""> 
+   <input type="hidden" name="txtPhotoIpixMediaSet" value="">                
+   <input type="hidden" name="txtPhotoIpixToken" value="">                
+   <input type="hidden" name="FPlan1" value="">                
+   <input type="hidden" name="FPlan2" value="">                
+   <input type="hidden" name="FPlan3" value="">                
+   <input type="hidden" name="FPlan4" value="">                
+   <input type="hidden" name="FPlan5" value="">                
+   <input type="hidden" name="txtVirtualtour" value="">
+   <input type="hidden" name="PrintAd" value=""> 
+   <input type="hidden" name="PreView" value="">
+   <input type="hidden" name="PictureFlag" value="">
+    <input type="hidden" name="AmenityCodes" value="">  
+   </form>
+   
+
+</div><!-- close main -->
+<div id="footer" class="footer" style="font-size:11px">
+    <div class="footerRow">
+    <a href="http://www.nytimes.com">Home</a>
+	<ul>
+	<li><a href="http://www.nytimes.com/pages/world/index.html">World</a></li>
+	<li><a href="http://www.nytimes.com/pages/national/index.html">U.S.</a></li>
+
+	<li><a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y./Region</a></li>
+	<li><a href="http://www.nytimes.com/pages/business/index.html">Business</a></li>
+	<li><a href="http://tech.nytimes.com/pages/technology/index.html">Technology</a></li>
+	<li><a href="http://www.nytimes.com/pages/science/index.html">Science</a></li>
+	<li><a href="http://www.nytimes.com/pages/health/index.html">Health</a></li>
+	<li><a href="http://www.nytimes.com/pages/sports/index.html">Sports</a></li>
+	<li><a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a></li>
+	<li><a href="http://www.nytimes.com/pages/arts/index.html">Arts</a></li>
+	<li><a href="http://www.nytimes.com/pages/style/index.html">Style</a></li>
+
+	<li><a href="http://travel.nytimes.com/pages/travel/index.html">Travel</a></li>
+	<li><a href="http://jobmarket.nytimes.com/pages/jobs/index.html">Jobs</a></li>
+	<li><a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a></li>
+	<li><a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a></li>
+	<li><a href="#top">Back to Top</a></li>
+	</ul>
+    </div><!-- close footerRow -->
+    <a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&copy;<script type="text/javascript">var date = new Date(); document.write(date.getFullYear());</script></a>&nbsp;<a href="http://www.nytco.com/">The 
+	New York Times Company</a>
+
+	<ul>
+	<li><a href="http://www.nytimes.com/privacy">Privacy Policy</a></li>
+	<li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>
+	<!--<li><a href="http://www.nytimes.com/search">Search</a></li>-->
+	<li><a href="http://www.nytimes.com/corrections.html">Corrections</a></li>
+	<li><a href="http://www.nytimes.com/rss" class="rssButton">RSS</a></li>
+	<li><a href="http://firstlook.nytimes.com">First Look</a></li>
+	<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+	<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">
+	Contact Us</a></li>
+	<li><a href="http://www.nytdigital.com/careers">Work for Us</a></li>
+
+	<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+	</ul>
+</div><!--footer-->
+
+<!--original code:
+<TABLE WIDTH="768" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+ <TR>
+  <TD><div class="b20"><img src="/images/spacer.gif" height="1" width="1"></div></TD>
+ </TR>
+ <tr>
+  <td width="768" align="center" class="footer">
+   <a href="http://www.nytimes.com/classifieds/">Classifieds Marketplace</a> |
+   
+   
+   <a href="/edit/user_login.asp">Manage Your Listings</a> |
+   
+   
+   <a href="http://listings.nytimes.com/ClassifiedsMarketplace/default.asp?DTab=2">Post a Classified Ad</a>
+  </td>
+ </TR>
+</TABLE>
+
+
+<TABLE WIDTH="768" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+ <tr>
+  <td colspan="2"><img src="/images/spacer.gif" width="1" height="10" border="0" /></td>
+ </TR>
+ <tr>
+  <td colspan="2" bgcolor="#CCCCCC"><img src="/images/spacer.gif" width="1" height="1" border="0" /></td>
+ </TR>
+ <tr bgcolor="#EBEBEB">
+  <td width="14"><img src="/images/spacer.gif" width="14" height="27" border="0" /></td>
+  <td width="764" valign="middle" class="footer">
+   <a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">Copyright 2011</a>
+   <a href="http://www.nytco.com">The New York Times Company</a> |
+   <a href="http://www.nytimes.com/ref/membercenter/help/privacy.html">Privacy Policy</a> |
+   <a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a> |
+   <a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a>
+  </td>
+ </TR>
+</TABLE>
+
+<table width="768" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+  <td align="center">
+  <script src=https://seal.verisign.com/getseal?host_name=placead.nytimes.com&size=S&use_flash=NO&use_transparent=YES&lang=en></script>
+  </td>
+ </tr>
+</table>-->
+
+</div><!-- close page -->
+</div><!--close shell -->
+
+
+
+<!-- SiteCatalyst code version: G.6.
+Copyright 1997-2004 Omniture, Inc. More info available at
+http://www.omniture.com --><script language="JavaScript"><!--
+var s_account="nytrealestate"
+var s_pageName="Default.asp"
+var s_server="realestateads.nytimes.com"
+var s_channel="real estate"
+var s_pageType=""
+var s_prop1=""
+var s_prop2=""
+var s_prop3=""
+var s_prop4=""
+var s_prop5=""
+var s_prop6=""
+var s_prop7=""
+var s_prop8=""
+var s_prop9=""
+var s_prop10=""
+var s_campaign=""
+var s_state=""
+var s_zip=""
+var s_events=""
+var s_products=""
+var s_purchaseID=""
+var s_eVar1=""
+var s_eVar2=""
+var s_eVar3=""
+var s_eVar4=""
+var s_eVar5=""
+var s_eVar6=""
+var s_eVar7=""
+var s_eVar8=""
+var s_eVar9=""
+var s_eVar10=""
+var s_code=' '//--></script>
+<script language="JavaScript" src="https://partners.nytimes.com/js/s_code_1to1.js"></script>
+<script language="JavaScript"><!-- 
+var s_wd=window,s_tm=new Date;if(s_code!=' '){s_code=s_dc(
+s_account);if(s_code)document.write(s_code)}else
+document.write('<im'+'g src="https://ssl.o.nytimes.com/b/ss/'+s_account+'/1/G.6--FB/s'+s_tm.getTime()+'?[AQB]'
++'&j=1.0&[AQE]" height="1" width="1" border="0" alt="" />')
+//--></script><script language="JavaScript"><!-- 
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img 
+src="https://ssl.o.nytimes.com/b/ss/nytrealestate/1/G.6--NS/0" 
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: G.6. -->
+
+<!-- SiteCatalyst code version: G.5.
+Copyright 1997-2003 Omniture, Inc. More info available at
+http://www.omniture.com --><script language="JavaScript"><!--
+var s_account="nytimesglobal"
+var s_pageName="Default.asp"
+var s_server="realestateads.nytimes.com"
+var s_channel="real estate"
+var s_formOnPage=""
+var s_pageType=""
+var s_prop1=""
+var s_prop2=""
+var s_prop3=""
+var s_prop4=""
+var s_prop5=""
+var s_prop6=""
+var s_prop7=""
+var s_prop8=""
+var s_prop9=""
+var s_prop10=""
+var s_campaign=""
+var s_state=""
+var s_zip=""
+var s_events=""
+var s_products=""
+var s_purchaseID=""
+var s_eVar1=""
+var s_eVar2=""
+var s_eVar3=""
+var s_eVar4=""
+var s_eVar5=""
+var s_eVar6=""
+var s_eVar7=""
+var s_eVar8=""
+var s_eVar9=""
+var s_eVar10=""
+//--></script><script language="JavaScript" src="https://partners.nytimes.com/js/s_code_sampling.js"></script>
+<!-- End SiteCatalyst code version: G.5. -->

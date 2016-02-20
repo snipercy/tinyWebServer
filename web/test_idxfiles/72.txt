@@ -1,0 +1,1587 @@
+Set-cookie: RMID=32356e00447e4ed9132e7cf3; expires=Saturday, 01-Dec-2012 18:04:30 GMT; path=/; domain=.nytimes.com
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+Set-cookie: adxcs=s*2814a=0:1; path=/; domain=.nytimes.com
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-control: no-cache
+Pragma: no-cache
+Connection: close
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Health News - The New York Times</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="noarchive">
+<meta name="description" content="Find breaking news &amp; health news on medicine, fitness, nutrition, health care, mental health, drugs, diet, pregnancy, babies, cancer, AIDS, allergies &amp; asthma." />
+<meta name="keywords" content="Acquired Immune Deficiency Syndrome,Global Fund to Fight AIDS, Tuberculosis and Malaria,Obama, Barack,Renting and Leasing (Real Estate),Series,Wells,Hydraulic Fracturing,Chesapeake Energy Corporation,Oil (Petroleum) and Gasoline,Water Pollution,Land Use Policies,Drilling and Boring,Cabot Oil &amp; Gas Corporation,Water,Natural Gas,Andrew J. Kleinfeld,Decisions and Verdicts,Bone Marrow,Stem Cells,Transplants,Suits and Litigation,Recipes,Medicine and Health,Fish and Other Marine Life,Diet and Nutrition,Genetics and Heredity,DNA (Deoxyribonucleic Acid),National Human Genome Research Institute,Computers and the Internet,Biotechnology,Beijing Genomics Institute,Research,Data Storage,Chafee, Lincoln,Washington (State),Medical Marijuana,Law and Legislation,Gregoire, Christine O,Drug Enforcement Administration,Drug Abuse and Traffic,Rhode Island,Regulation and Deregulation of Industry,Health and Mental Hygiene Department (NYC),Acquired Immune Deficiency Syndrome,Farley, Thomas,Cholesterol,Grassley, Charles E,Pfizer Inc,Drugs (Pharmaceuticals),Kohl, Herbert H,Baucus, Max,Generic Brands and Products,Lipitor (Drug),Drugs (Pharmaceuticals),Pfizer Inc,Watson Pharmaceuticals Inc,Lipitor (Drug),Ranbaxy Laboratories,Generic Brands and Products,Owens, Derek,Suits and Litigation,Turner, Mark,Football,Concussions,Arrington, Adrian,Sports Injuries,Soccer,College Athletics,Football (College),National Collegiate Athletic Assn,Palacios, Angela,Fear (Emotion),Witnesses,Memory,Decisions and Verdicts,False Arrests, Convictions and Imprisonments,Medicine and Health,Supreme Court,Acquired Immune Deficiency Syndrome,Genetics and Heredity,Drugs (Pharmaceuticals),Genetic Engineering,Science and Technology,Karlawish, Jason,Books and Literature,Beaumont, William,Doctors,Fluorides,Medicine and Health,Teeth and Dentistry,Pneumonia,Children and Childhood,Hospitals,Medicine and Health,Lancet, The (Journal),Pakistan,Pregnancy and Obstetrics,Medicine and Health,Research,Iron (Nutrient),BMJ (Journal),Babies and Infants,Blood,Hysterectomies,Obstetrics &amp; Gynecology (Journal),Women and Girls,Menopause,Medicine and Health,Ovaries,Medicine and Health,Families and Family Life,Coma,Drugs (Pharmaceuticals),Swimming,Exercise,Nyad, Diana,Diet and Nutrition,Elderly,Memory,Vitamins,Vitamin B12,Alzheimer's Disease,Medicine and Health,Weight,Medicine and Health,Exercise,Trucks and Trucking,Tumors,Prostate Cancer,Cervical Cancer,Cancer,Breast Cancer,Mammography,Medicine and Health,Workplace Environment,Brain,Productivity,Psychology and Psychologists,Whistle-Blowers,Cain, Herman,Psychology and Psychologists,Pennsylvania State University,Research,Ethics (Personal),Medicine and Health,Tissue (Human),Eyes and Eyesight,Age, Chronological,Lobbying and Lobbyists,Center for Health Transformation,Presidential Election of 2012,Electronic Health Records,Gingrich, Newt,Health Insurance and Managed Care,Medicare,Federal Budget (US),Joint Select Committee on Deficit Reduction,Hensarling, Jeb,Rivlin, Alice M,United States Politics and Government,Appointments and Executive Changes,Berwick, Donald M,Centers for Medicare and Medicaid Services,Tavenner, Marilyn B,Obama, Barack,Suspensions, Dismissals and Resignations,Journal of the American Medical Assn,Medicine and Health,Heart,Diet and Nutrition,Salt,South Africa,Acquired Immune Deficiency Syndrome,University of Pittsburgh,Research,Uganda,Zimbabwe,Women and Girls,Medicine and Health,Appointments and Executive Changes,Global Fund to Fight AIDS, Tuberculosis and Malaria,Brain,Stroke,Medicine and Health,Neurology (Journal),Mental Health and Disorders,Cod (Fish),Recipes,Medicine and Health,Fish and Other Marine Life,Diet and Nutrition,Recipes,Medicine and Health,Diet and Nutrition,Fish and Other Marine Life,Recipes,Cod (Fish),Medicine and Health,Fish and Other Marine Life,Diet and Nutrition,Medicine and Health,Diet and Nutrition,Fish and Other Marine Life,Recipes,Medicine and Health,Sickle Cell Anemia,Children and Youth" />
+<meta name="asset_id" content="">
+<meta name="CG" content="health">
+<meta name="SCG" content="">
+<meta name="PT" content="Section Front">
+<meta name="PST" content="">
+<link rel="canonical" href="http://www.nytimes.com/pages/health/index.html">
+<meta name="msapplication-starturl" content="http://www.nytimes.com/" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.nytimes.com/services/xml/rss/nyt/Health.xml"/>
+
+<link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/0.1/screen/build/sectionfront/health/styles.css" />
+<link rel="stylesheet" type="text/css" media="print" href="http://graphics8.nytimes.com/css/0.1/print/styles.css">
+<!--[if IE]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie.css);
+	    </style>
+	<![endif]-->
+<!--[if IE 6]>
+	    <style type="text/css">
+	        @import url(http://graphics8.nytimes.com/css/0.1/screen/common/ie6.css);
+	    </style>
+	<![endif]-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/common/screen/DropDown.js"></script>
+<script type="text/javascript" src="http://graphics8.nytimes.com/js/util/tooltip.js"></script>
+<script type="text/JavaScript">
+		var static_kw = "Acquired Immune Deficiency Syndrome;Global Fund to Fight AIDS; Tuberculosis and Malaria;Obama; Barack;Renting and Leasing (Real Estate);Series;Wells;Hydraulic Fracturing;Chesapeake Energy Corporation;Oil (Petroleum) and Gasoline;Water Pollution;Land Use Policies;Drilling and Boring;Cabot Oil & Gas Corporation;Water;Natural Gas;Andrew J. Kleinfeld;Decisions and Verdicts;Bone Marrow;Stem Cells;Transplants;Suits and Litigation;Recipes;Medicine and Health;Fish and Other Marine Life;Diet and Nutrition;Genetics and Heredity;DNA (Deoxyribonucleic Acid);National Human Genome Research Institute;Computers and the Internet;Biotechnology;Beijing Genomics Institute;Research;Data Storage;Chafee; Lincoln;Washington (State);Medical Marijuana;Law and Legislation;Gregoire; Christine O;Drug Enforcement Administration;Drug Abuse and Traffic;Rhode Island;Regulation and Deregulation of Industry;Health and Mental Hygiene Department (NYC);Acquired Immune Deficiency Syndrome;Farley; Thomas;Cholesterol;Grassley; Charles E;Pfizer Inc;Drugs (Pharmaceuticals);Kohl; Herbert H;Baucus; Max;Generic Brands and Products;Lipitor (Drug);Drugs (Pharmaceuticals);Pfizer Inc;Watson Pharmaceuticals Inc;Lipitor (Drug);Ranbaxy Laboratories;Generic Brands and Products;Owens; Derek;Suits and Litigation;Turner; Mark;Football;Concussions;Arrington; Adrian;Sports Injuries;Soccer;College Athletics;Football (College);National Collegiate Athletic Assn;Palacios; Angela;Fear (Emotion);Witnesses;Memory;Decisions and Verdicts;False Arrests; Convictions and Imprisonments;Medicine and Health;Supreme Court;Acquired Immune Deficiency Syndrome;Genetics and Heredity;Drugs (Pharmaceuticals);Genetic Engineering;Science and Technology;Karlawish; Jason;Books and Literature;Beaumont; William;Doctors;Fluorides;Medicine and Health;Teeth and Dentistry;Pneumonia;Children and Childhood;Hospitals;Medicine and Health;Lancet; The (Journal);Pakistan;Pregnancy and Obstetrics;Medicine and Health;Research;Iron (Nutrient);BMJ (Journal);Babies and Infants;Blood;Hysterectomies;Obstetrics & Gynecology (Journal);Women and Girls;Menopause;Medicine and Health;Ovaries;Medicine and Health;Families and Family Life;Coma;Drugs (Pharmaceuticals);Swimming;Exercise;Nyad; Diana;Diet and Nutrition;Elderly;Memory;Vitamins;Vitamin B12;Alzheimer's Disease;Medicine and Health;Weight;Medicine and Health;Exercise;Trucks and Trucking;Tumors;Prostate Cancer;Cervical Cancer;Cancer;Breast Cancer;Mammography;Medicine and Health;Workplace Environment;Brain;Productivity;Psychology and Psychologists;Whistle-Blowers;Cain; Herman;Psychology and Psychologists;Pennsylvania State University;Research;Ethics (Personal);Medicine and Health;Tissue (Human);Eyes and Eyesight;Age; Chronological;Lobbying and Lobbyists;Center for Health Transformation;Presidential Election of 2012;Electronic Health Records;Gingrich; Newt;Health Insurance and Managed Care;Medicare;Federal Budget (US);Joint Select Committee on Deficit Reduction;Hensarling; Jeb;Rivlin; Alice M;United States Politics and Government;Appointments and Executive Changes;Berwick; Donald M;Centers for Medicare and Medicaid Services;Tavenner; Marilyn B;Obama; Barack;Suspensions; Dismissals and Resignations;Journal of the American Medical Assn;Medicine and Health;Heart;Diet and Nutrition;Salt;South Africa;Acquired Immune Deficiency Syndrome;University of Pittsburgh;Research;Uganda;Zimbabwe;Women and Girls;Medicine and Health;Appointments and Executive Changes;Global Fund to Fight AIDS; Tuberculosis and Malaria;Brain;Stroke;Medicine and Health;Neurology (Journal);Mental Health and Disorders;Cod (Fish);Recipes;Medicine and Health;Fish and Other Marine Life;Diet and Nutrition;Recipes;Medicine and Health;Diet and Nutrition;Fish and Other Marine Life;Recipes;Cod (Fish);Medicine and Health;Fish and Other Marine Life;Diet and Nutrition;Medicine and Health;Diet and Nutrition;Fish and Other Marine Life;Recipes;Medicine and Health;Sickle Cell Anemia;Children and Youth";
+		var dynamic_kw = "Acquired+Immune+Deficiency+Syndrome;Global+Fund+to+Fight+AIDS;+Tuberculosis+and+Malaria;Obama;+Barack;Renting+and+Leasing+%28Real+Estate%29;Series;Wells;Hydraulic+Fracturing;Chesapeake+Energy+Corporation;Oil+%28Petroleum%29+and+Gasoline;Water+Pollution;Land+Use+Policies;Drilling+and+Boring;Cabot+Oil+%26+Gas+Corporation;Water;Natural+Gas;Andrew+J.+Kleinfeld;Decisions+and+Verdicts;Bone+Marrow;Stem+Cells;Transplants;Suits+and+Litigation;Recipes;Medicine+and+Health;Fish+and+Other+Marine+Life;Diet+and+Nutrition;Genetics+and+Heredity;DNA+%28Deoxyribonucleic+Acid%29;National+Human+Genome+Research+Institute;Computers+and+the+Internet;Biotechnology;Beijing+Genomics+Institute;Research;Data+Storage;Chafee;+Lincoln;Washington+%28State%29;Medical+Marijuana;Law+and+Legislation;Gregoire;+Christine+O;Drug+Enforcement+Administration;Drug+Abuse+and+Traffic;Rhode+Island;Regulation+and+Deregulation+of+Industry;Health+and+Mental+Hygiene+Department+%28NYC%29;Acquired+Immune+Deficiency+Syndrome;Farley;+Thomas;Cholesterol;Grassley;+Charles+E;Pfizer+Inc;Drugs+%28Pharmaceuticals%29;Kohl;+Herbert+H;Baucus;+Max;Generic+Brands+and+Products;Lipitor+%28Drug%29;Drugs+%28Pharmaceuticals%29;Pfizer+Inc;Watson+Pharmaceuticals+Inc;Lipitor+%28Drug%29;Ranbaxy+Laboratories;Generic+Brands+and+Products;Owens;+Derek;Suits+and+Litigation;Turner;+Mark;Football;Concussions;Arrington;+Adrian;Sports+Injuries;Soccer;College+Athletics;Football+%28College%29;National+Collegiate+Athletic+Assn;Palacios;+Angela;Fear+%28Emotion%29;Witnesses;Memory;Decisions+and+Verdicts;False+Arrests;+Convictions+and+Imprisonments;Medicine+and+Health;Supreme+Court;Acquired+Immune+Deficiency+Syndrome;Genetics+and+Heredity;Drugs+%28Pharmaceuticals%29;Genetic+Engineering;Science+and+Technology;Karlawish;+Jason;Books+and+Literature;Beaumont;+William;Doctors;Fluorides;Medicine+and+Health;Teeth+and+Dentistry;Pneumonia;Children+and+Childhood;Hospitals;Medicine+and+Health;Lancet;+The+%28Journal%29;Pakistan;Pregnancy+and+Obstetrics;Medicine+and+Health;Research;Iron+%28Nutrient%29;BMJ+%28Journal%29;Babies+and+Infants;Blood;Hysterectomies;Obstetrics+%26+Gynecology+%28Journal%29;Women+and+Girls;Menopause;Medicine+and+Health;Ovaries;Medicine+and+Health;Families+and+Family+Life;Coma;Drugs+%28Pharmaceuticals%29;Swimming;Exercise;Nyad;+Diana;Diet+and+Nutrition;Elderly;Memory;Vitamins;Vitamin+B12;Alzheimer%27s+Disease;Medicine+and+Health;Weight;Medicine+and+Health;Exercise;Trucks+and+Trucking;Tumors;Prostate+Cancer;Cervical+Cancer;Cancer;Breast+Cancer;Mammography;Medicine+and+Health;Workplace+Environment;Brain;Productivity;Psychology+and+Psychologists;Whistle-Blowers;Cain;+Herman;Psychology+and+Psychologists;Pennsylvania+State+University;Research;Ethics+%28Personal%29;Medicine+and+Health;Tissue+%28Human%29;Eyes+and+Eyesight;Age;+Chronological;Lobbying+and+Lobbyists;Center+for+Health+Transformation;Presidential+Election+of+2012;Electronic+Health+Records;Gingrich;+Newt;Health+Insurance+and+Managed+Care;Medicare;Federal+Budget+%28US%29;Joint+Select+Committee+on+Deficit+Reduction;Hensarling;+Jeb;Rivlin;+Alice+M;United+States+Politics+and+Government;Appointments+and+Executive+Changes;Berwick;+Donald+M;Centers+for+Medicare+and+Medicaid+Services;Tavenner;+Marilyn+B;Obama;+Barack;Suspensions;+Dismissals+and+Resignations;Journal+of+the+American+Medical+Assn;Medicine+and+Health;Heart;Diet+and+Nutrition;Salt;South+Africa;Acquired+Immune+Deficiency+Syndrome;University+of+Pittsburgh;Research;Uganda;Zimbabwe;Women+and+Girls;Medicine+and+Health;Appointments+and+Executive+Changes;Global+Fund+to+Fight+AIDS;+Tuberculosis+and+Malaria;Brain;Stroke;Medicine+and+Health;Neurology+%28Journal%29;Mental+Health+and+Disorders;Cod+%28Fish%29;Recipes;Medicine+and+Health;Fish+and+Other+Marine+Life;Diet+and+Nutrition;Recipes;Medicine+and+Health;Diet+and+Nutrition;Fish+and+Other+Marine+Life;Recipes;Cod+%28Fish%29;Medicine+and+Health;Fish+and+Other+Marine+Life;Diet+and+Nutrition;Medicine+and+Health;Diet+and+Nutrition;Fish+and+Other+Marine+Life;Recipes;Medicine+and+Health;Sickle+Cell+Anemia;Children+and+Youth";
+		var nyt_google_contents = dynamic_kw + static_kw;
+		var nyt_google_ad_channel = "health";
+	</script>
+<script type="text/javascript" src="http://use.typekit.com/fml4qar.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" src="http://js.nyt.com/js2/build/sitewide/sitewide.js"></script>
+<script type="text/javascript" src="http://js.nyt.com/js/app/lib/jquery/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+</head>
+<body>
+<a name="top"></a>
+<div id="shell">
+
+<ul id="memberTools">
+
+<!-- start text link -->
+<li class="cColumn-TextAdsHeader">Subscribe:
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/health/index.html&pos=Bar1&sn2=4802686d/839ef026&sn1=2407a328/96bf5462&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-digi-hd-d3847U-h3847W&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fsubscriptions%2FMultiproduct%2Flp5558%2Ehtml%3Fadxc%3D162578%26adxa%3D267524%26page%3Dwww.nytimes.com/pages/health/index.html%26pos%3DBar1%26campaignId%3D3847U" target="_blank">
+Digital</a> / <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/health/index.html&pos=Bar1&sn2=4802686d/839ef026&sn1=8c0204ae/f0584be3&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-digi-hd-d3847U-h3847W&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DW47AF%26CMP%3D3847W" target="_blank">Home Delivery</a>
+</li>
+<!-- end text link -->
+
+ 
+                        <li><a id="memberToolsLogin" href="https://myaccount.nytimes.com/auth/login">Log In</a></li>
+            <li><a href="https://myaccount.nytimes.com/gst/regi.html">Register Now</a></li>
+                            
+
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+</ul>
+<div class="tabsContainer">
+<ul id="mainTabs" class="tabs">
+<li class="first mainTabHome"><a href="http://www.nytimes.com">Home Page</a></li>
+<li class="mainTabTodaysPaper"><a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a></li>
+<li class="mainTabVideo"><a href="http://www.nytimes.com/video">Video</a></li>
+<li class="mainTabMostPopular"><a href="http://www.nytimes.com/mostpopular">Most Popular</a></li>
+<li class="mainTabTimesTopics"><a href="http://topics.nytimes.com/top/reference/timestopics">Times Topics</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+</script>	<div id="page" class="tabContent active">
+<div class="clearfix" id="masthead">
+
+<div class="singleAd" id="Middle1C">
+<!-- ADXINFO classification="button" campaign="ING_DirectSiteSearchQ111_1694929-nyt1"--><A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/health/index.html&pos=Middle1C&sn2=e8dc0bc7/b9a39c8e&sn1=59756299/46b02203&camp=ING_DirectSiteSearchQ111_1694929-nyt1&ad=NEW.88x31.SiteSearch.Wizard&goto=http://ad.doubleclick.net/jump/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.30" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N3282.nytimes.comSD6440/B3948326.5;sz=88x31;pc=nyt158517A252821;ord=2011.12.02.18.04.30"
+ BORDER=0 WIDTH=88 HEIGHT=31
+ ALT="Click Here"></A>
+</div>
+
+<div id="searchWidget">
+<div class="inlineSearchControl">
+<form enctype="application/x-www-form-urlencoded" action="http://query.nytimes.com/search/sitesearch" method="get" name="searchForm" id="searchForm">
+<input type="hidden" value="full" name="date_select"/>
+<label for="searchQuery">Search All NYTimes.com</label>
+<input type="text" class="text" value="" size="" name="query" id="searchQuery"/>
+<input type="hidden" id="searchAll" name="type" value="nyt"/>
+<input type="image" id="searchSubmit" title="Search" alt="Search" width="22" height="19" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"/>
+</form>
+</div>
+</div>
+
+<div id="branding" >
+<a href="http://www.nytimes.com"><img src="http://graphics8.nytimes.com/images/misc/nytlogo152x23.gif" alt="New York Times" id="NYTLogo"/></a>
+</div>
+
+<div id="date">
+<p>
+Friday, December  2, 2011
+</p>
+</div>
+
+<h2>
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</h2>
+
+</div>
+<div class="navigation tabsContainer">
+<ul class="tabs">
+<li id="navWorld" class="first ">
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>	<li id="navUs" >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>	<li id="navNyregion" >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>	<li id="navBusiness" >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>	<li id="navTechnology" >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>	<li id="navScience" >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>	<li id="navHealth" class="selected">
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>	<li id="navSports" >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>	<li id="navOpinion" >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>	<li id="navArts" >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>	<li id="navStyle" >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>	<li id="navTravel" >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>	<li id="navJobs" >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>	<li id="navRealestate" >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>	<li id="navAutomobiles" >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li></ul>
+</div>
+<div class="subNavigation tabContent active">
+<div class="column first">
+<div class="columnGroup">
+<div class="inlineSearchControl">
+<form enctype="application/x-www-form-urlencoded" action="http://query.nytimes.com/search/sitesearch" method="get" name="searchForm">
+<div id="health_search" class="clearfix">
+<label for="term">Search Health <span class="destinationCount timestamp"><a href="http://health.nytimes.com/health/guides/index.html">3,000+</a> <span>Topics</span></span></label>
+<input id="query_all" name="query" type="text" value="" class="text" autocomplete="off"><input type="image" title="Search" alt="Search" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"/>
+<div class="auto_complete" id="query_suggestions"></div>
+</div>
+<script type="text/javascript">
+						Event.observe(window, "load", function(e) {
+							if (navigator.userAgent.match('Opera') == null) {
+								var oSuggest = new Autocompleter.Local('query_all', 'query_suggestions', suggestions, {minChars:3,choices:15,partialSearch:true});
+								oSuggest.serverType = 'production';
+							}
+						});
+					</script>
+</form>
+</div>
+</div>
+</div>
+<div class="column last">
+<div class="columnGroup">
+<h5 class="sectionHeader">Inside Health</h5>
+<ul>
+<li class="firstItem">
+<a href="/pages/health/research/index.html">Research</a>
+</li>
+<li>
+<a href="/pages/health/nutrition/index.html">Fitness &amp; Nutrition</a>
+</li>
+<li>
+<a href="/pages/health/policy/index.html">Money &amp; Policy</a>
+</li>
+<li>
+<a href="/pages/health/views/index.html">Views</a>
+</li>
+<li class="lastItem">
+<a href="http://health.nytimes.com/health/guides/index.html">Health Guide</a>
+</li>
+</ul>
+</div>
+</div>
+</div>		    		          
+
+<div class="singleAd" id="TopAd">
+<!-- ADXINFO classification="leaderboard_728" campaign="Optum_Nov_Dec_2011_1781690-nyt7"--><SCRIPT type="text/javascript" SRC="http://ad.doubleclick.net/adj/N2434.NYT.com/B6085580.11;sz=728x90;pc=nyt174129A284837;ord=2011.12.02.18.04.30?;click=http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/health/index.html&pos=TopAd&camp=Optum_Nov_Dec_2011_1781690-nyt7&ad=Optum_Health_728x90_B6085580.11&sn2=f9401480/7e848e6b&snr=doubleclick&snx=1322848858&sn1=49d5315b/b57f6189&goto=">
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/health/index.html&pos=TopAd&sn2=f9401480/7e848e6b&sn1=21be9619/6f6ad886&camp=Optum_Nov_Dec_2011_1781690-nyt7&ad=Optum_Health_728x90_B6085580.11&goto=http://ad.doubleclick.net/jump/N2434.NYT.com/B6085580.11;sz=728x90;pc=nyt174129A284837;ord=2011.12.02.18.04.30?" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/N2434.NYT.com/B6085580.11;sz=728x90;pc=nyt174129A284837;ord=2011.12.02.18.04.30?"
+ BORDER=0 WIDTH=728 HEIGHT=90
+ ALT="Click Here"></A>
+</NOSCRIPT>
+</div>
+
+<div id="main">
+<div class="spanAB wrap">
+<div class="wideA">
+<div class="abColumn">
+<div class="aColumn">
+<!--cur:StandardThumb prev:-->
+<div class="columnGroup first">
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/12/02/us/politics/obama-says-he-will-seek-more-money-for-aids-programs.html?ref=health">
+Obama Says He Will Seek More Money for AIDS Programs</a></h3>
+<h6 class="byline">
+By JACKIE CALMES	    </h6>
+<p class="summary">
+The action won praise for the president from activists who have criticized him in the past.</p>
+</div>
+</div>
+<!--cur:LedeStory395 prev:StandardThumb-->
+<div class="columnGroup singleRule ">
+<div class="ledeStory">
+<div class="storyHeader">
+<h6 class="kicker">Drilling Down</h6>
+<h1><a href="http://www.nytimes.com/2011/12/02/us/drilling-down-fighting-over-oil-and-gas-well-leases.html?ref=health">
+Learning Too Late of Perils in Gas Well Leases</a></h1>
+<h6 class="byline">
+By IAN URBINA and JO CRAVEN McGINTY            </h6>
+</div>
+<div class="ledePhoto">
+<div class="image">
+<a href="http://www.nytimes.com/2011/12/02/us/drilling-down-fighting-over-oil-and-gas-well-leases.html?ref=health"><img src="http://graphics8.nytimes.com/images/2011/12/02/us/Leases/Leases-sfSpan.jpg" border="0" width="395" height="245" alt="Jared Ely near gas wells leased on his family's land near Dimock, Pa. His father, Scott, says the leases should have been clearer." /></a>
+</div>
+<h6 class="credit">Ruth Fremson/The New York Times</h6>
+<p class="caption">Jared Ely near gas wells leased on his family's land near Dimock, Pa. His father, Scott, says the leases should have been clearer.</p>
+</div>
+<p class="summary">
+Americans have signed millions of leases allowing oil and gas companies to drill on their land, but some landowners are finding out the hard way what their contracts actually say.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/interactive/2011/12/02/us/oil-and-gas-leases.html"><span class="icon document">Document Viewer</span>: Oil and Gas Leases</a></li>
+<li><a href="http://www.nytimes.com/interactive/us/DRILLING_DOWN_SERIES.html"> Previous Articles in the Series »</a></li>
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001202831" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/02/us/drilling-down-fighting-over-oil-and-gas-well-leases.html"></span></li>
+</ul>
+</div>
+</div>
+<!--cur:StandardThumb prev:LedeStory395-->
+<div class="columnGroup ">
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/12/02/health/policy/some-stem-cell-donors-can-be-paid-court-rules.html?ref=health">
+Court Says Some Donors of Stem Cells Can Be Paid</a></h3>
+<h6 class="byline">
+By ANDREW POLLACK	    </h6>
+<p class="summary">
+An appeals court says a law prohibiting payment for donated organs did not apply to stem cells extracted from circulating blood.</p>
+</div>
+</div>
+<!--cur:LedeStory395 prev:StandardThumb-->
+<div class="columnGroup singleRule ">
+<div class="ledeStory">
+<div class="storyHeader">
+<h6 class="kicker">Recipes for Health</h6>
+<h1><a href="http://www.nytimes.com/2011/12/02/health/nutrition/albacore-steaks-with-simmered-fennel-recipes-for-health.html?ref=health">
+Albacore Steaks With Simmered Fennel</a></h1>
+<h6 class="byline">
+By MARTHA ROSE SHULMAN            </h6>
+</div>
+<div class="ledePhoto">
+<div class="image">
+<a href="http://www.nytimes.com/2011/12/02/health/nutrition/albacore-steaks-with-simmered-fennel-recipes-for-health.html?ref=health"><img src="http://graphics8.nytimes.com/images/2011/11/29/science/02recipehealth/02recipehealth-sfSpan.jpg" border="0" width="395" height="250" alt="Albacore Steaks With Simmered Fennel" /></a>
+</div>
+<h6 class="credit">Andrew Scrivani for The New York Times</h6>
+<p class="caption">Albacore Steaks With Simmered Fennel</p>
+</div>
+<p class="summary">
+This fragrant pairing brings to mind Provence and Italy.</p>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/top/news/health/series/recipes_for_health/index.html">See All Recipes for Health » </a></li>
+</ul>
+</div>
+</div>
+<!--cur:StandardThumb prev:LedeStory395-->
+<div class="columnGroup ">
+<div class="story">
+<h6 class="kicker">Doctor and Patient</h6>
+<h3><a href="http://well.blogs.nytimes.com/2011/12/01/the-doctor-as-poet/?ref=health">
+The Doctor as Poet</a></h3>
+<h6 class="byline">
+By PAULINE W. CHEN, M.D.	    </h6>
+<p class="summary">
+A medical school poetry contest that elicited a surprising 160 entries has prompted a discussion about the value of medical poetry, which physicians say can help address the emotional demands of doctoring.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/01/business/dna-sequencing-caught-in-deluge-of-data.html?ref=health">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/business/GENE/GENE-thumbStandard.jpg" width="75" height="75" alt="W. Richard McCombie, a professor of human genetics at the Cold Spring Harbor Laboratory, examining DNA samples." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/01/business/dna-sequencing-caught-in-deluge-of-data.html?ref=health">
+DNA Sequencing Caught in Deluge of Data</a></h3>
+<h6 class="byline">
+By ANDREW POLLACK	    </h6>
+<p class="summary">
+DNA sequencing is becoming faster and cheaper, outrunning the ability to store, transmit and analyze the data.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/01/us/federal-marijuana-classification-should-change-gregoire-and-chafee-say.html?ref=health">
+<img src="http://graphics8.nytimes.com/images/2011/12/01/us/POT1/POT1-thumbStandard.jpg" width="75" height="75" alt="Gov. Lincoln Chafee of Rhode Island, which is among the 16 states that now allow medical marijuana." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/01/us/federal-marijuana-classification-should-change-gregoire-and-chafee-say.html?ref=health">
+2 Governors Asking U.S. to Ease Rules on Marijuana to Allow for Its Medical Use</a></h3>
+<h6 class="byline">
+By MICHAEL COOPER	    </h6>
+<p class="summary">
+The governors of Washington and Rhode Island say states that allow medical marijuana are not able to regulate the industry.</p>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/top/reference/timestopics/subjects/m/marijuana/index.html">Times Topic: Marijuana and Medical Marijuana</a></li>
+<li><a href="http://www.nytimes.com/2011/12/01/us/federal-marijuana-classification-should-change-gregoire-and-chafee-say.html#postcomment"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="Comment" style="margin-right: 3px; padding-top: 3px;" border="0">Post a Comment</a> | <a href="http://www.nytimes.com/2011/12/01/us/federal-marijuana-classification-should-change-gregoire-and-chafee-say.html#commentsContainer">Read</a></li>
+</ul>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/12/01/nyregion/to-stop-aids-nyc-wants-drugs-given-sooner-for-hiv.html?ref=health">
+Seeing Chance to End Spread of H.I.V., City’s Health Chief Pushes Earlier Drug Treatment</a></h3>
+<h6 class="byline">
+By ANEMONA HARTOCOLLIS	    </h6>
+<p class="summary">
+New York City’s health commissioner is pushing an aggressive change in the city policy toward the virus that causes AIDS, saying his recommendation to doctors will reduce transmission.</p>
+</div>
+<div class="story">
+<h3><a href="http://www.nytimes.com/2011/12/01/health/senators-question-plan-to-stall-generic-lipitor.html?ref=health">
+Senators Question Deals to Block Generic Lipitor</a></h3>
+<h6 class="byline">
+By DUFF WILSON	    </h6>
+<p class="summary">
+Three senators asked Pfizer to detail their agreements to block prescriptions of generic versions of Lipitor, saying they were against the idea of drug makers manipulating the marketplace.</p>
+</div>
+<div class="story">
+<h6 class="kicker">Phys Ed</h6>
+<div class="thumbnail">
+<a href="http://well.blogs.nytimes.com/2011/11/30/how-exercise-benefits-the-brain/?ref=health">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/health/30well_physed/30well_physed-thumbStandard.jpg" width="75" height="75" alt="Does exercise strengthen your brain while it builds muscle?" border="0" />
+</a>
+</div>
+<h3><a href="http://well.blogs.nytimes.com/2011/11/30/how-exercise-benefits-the-brain/?ref=health">
+How Exercise Benefits the Brain</a></h3>
+<h6 class="byline">
+By GRETCHEN REYNOLDS	    </h6>
+<p class="summary">
+New research suggests that surges in a brain protein after exercise may play a particular role in improving memory and recall.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/30/health/generic-lipitor-sets-off-an-aggressive-push-by-pfizer.html?ref=health">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/business/LIPITOR/LIPITOR-thumbStandard.jpg" width="75" height="75" alt="Lipitor, made by Pfizer, was the first drug to exceed $10 billion a year in sales." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/30/health/generic-lipitor-sets-off-an-aggressive-push-by-pfizer.html?ref=health">
+Facing Generic Lipitor Rivals, Pfizer Battles to Protect Its Cash Cow</a></h3>
+<h6 class="byline">
+By DUFF WILSON	    </h6>
+<p class="summary">
+Pfizer’s aggressive strategy may offer lessons for drug makers facing similar losses of patent protection for other blockbuster drugs over the next few years.</p>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/30/sports/ncaafootball/college-players-move-concussions-issue-into-the-courtroom.html?ref=health">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/sports/CONCUSSIONS2/CONCUSSIONS2-thumbStandard.jpg" width="75" height="75" alt="Derek Owens, injured while playing for Central Arkansas last year, has suffered from headaches and depression." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/30/sports/ncaafootball/college-players-move-concussions-issue-into-the-courtroom.html?ref=health">
+College Athletes Move Concussions Into the Courtroom</a></h3>
+<h6 class="byline">
+By GEORGE VECSEY	    </h6>
+<p class="summary">
+A class-action suit filed in Illinois claims the N.C.A.A. has been negligent regarding awareness and treatment of brain injuries to athletes.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/11/30/sports/ncaafootball/college-players-move-concussions-issue-into-the-courtroom.html#postcomment"><img
+src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="Comment" style="margin-right: 3px; padding-top: 3px;" border="0"> Post a Comment</a> | <a href="http://www.nytimes.com/2011/11/30/sports/ncaafootball/college-players-move-concussions-issue-into-the-courtroom.html#commentsContainer">Read</a> </li>
+</ul>
+</div>
+</div>
+<!--cur:HeadlineOnly prev:StandardThumb-->
+<div class="columnGroup singleRule last">
+<ul class="headlinesOnly multiline flush">
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/29/health/the-certainty-of-memory-has-its-day-in-court.html?ref=health">
+The Certainty of Memory Has Its Day in Court</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/29/health/new-hope-of-a-cure-for-hiv.html?ref=health">
+New Hope of a Cure for H.I.V.</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/29/health/views/open-wound-book-review-doctor-and-patient-bound-together.html?ref=health">
+Books: Doctor and Patient, Bound by Mutual Dependency</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/29/health/a-closer-look-at-teeth-may-mean-more-fillings-by-dentists.html?ref=health">
+A Closer Look at Teeth May Mean More Fillings</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/29/health/home-care-best-for-child-pneumonia-in-study.html?ref=health">
+Global Update: Pakistan: Children With Pneumonia Fare Better With Home Treatment, Study Finds</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/29/health/research/delay-in-clamping-umbilical-cord-has-benefits-months-later.html?ref=health">
+Vital Signs: Childbirth: Benefits Seen in Clamping the Cord Later</a>
+</h6>
+</li>
+<li>
+<h6><a href="http://www.nytimes.com/2011/11/29/health/research/partial-hysterectomies-still-increase-early-menopause-risk.html?ref=health">
+Vital Signs: Risks: Partial Hysterectomies Affect Menopause</a>
+</h6>
+</li>
+</ul>
+</div>
+</div><!--close .aColumn -->
+<div class="bColumn">
+<div class="columnGroup SectionFront3ColABSpanMiddle first">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://well.blogs.nytimes.com/" title="Well">
+<img src="http://graphics8.nytimes.com/images/blogs_v3/well/well_thanksgiving_190.jpg" alt="Well"/>
+</a> 
+</h3> <div class="story first">
+<h3><a href="http://well.blogs.nytimes.com/2011/12/01/dogs-and-post-traumatic-stress-disorder/?ref=health">Dogs and Post-Traumatic Stress Disorder</a></h3>
+<p class="date">December 1, 2011 <span class="timestamp">4:07 PM ET</span></p>
+</div><div class="story">
+<h3><a href="http://well.blogs.nytimes.com/2011/12/01/depression-may-slow-exercise-recovery/?ref=health">Depression May Slow Exercise Recovery</a></h3>
+<p class="date">December 1, 2011 <span class="timestamp"></span></p>
+</div><div class="story">
+<h3><a href="http://well.blogs.nytimes.com/2011/11/30/lessons-in-home-cooking-from-star-chefs/?ref=health">Lessons in Home Cooking From Star Chefs</a></h3>
+<p class="date">November 30, 2011 <span class="timestamp"></span></p>
+</div><div class="story">
+<h3><a href="http://well.blogs.nytimes.com/2011/11/29/more-parents-skip-childhood-vaccines/?ref=health">More Parents Skip Childhood Vaccines</a></h3>
+<p class="date">November 29, 2011 <span class="timestamp"></span></p>
+</div><div class="story">
+<h3><a href="http://well.blogs.nytimes.com/2011/11/28/are-dentists-overtreating-your-teeth/?ref=health">Are Dentists Overtreating Your Teeth?</a></h3>
+<p class="date">November 28, 2011 <span class="timestamp"></span></p>
+</div><p class="refer">
+<a href="http://well.blogs.nytimes.com/" title="Go to the Well Blog">Go to the Well Blog &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<div class="columnGroup first">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/2011/12/02/health/20111202_healthquiz.html?ref=health">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/health/quiz_190.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay interactive">Interactive Feature</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/interactive/2011/12/02/health/20111202_healthquiz.html?ref=health">
+The Weekly Health Quiz</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+In the news: dental work, sustainable fish and childbirth. Test your knowledge of this week’s health news.</p>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<div class="columnGroup first">
+<a href="http://www.nytimes.com/2011/08/07/health/07lives.html?pagewanted=all"><img src="http://graphics8.nytimes.com/packages/flash/health/photo/livesrestored.gif"/></a>        	</div>
+<div class="columnGroup singleRule last">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/2011/11/26/health/man-uses-his-schizophrenia-to-gather-clues-for-daily-living.html?ref=health">
+<img src="http://graphics8.nytimes.com/images/2011/12/02/health/mlit_190.jpg" width="190" height="126" alt="" border="0" />
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/2011/11/26/health/man-uses-his-schizophrenia-to-gather-clues-for-daily-living.html?ref=health">
+</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Profiles about people who are functioning normally despite severe mental illness.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/11/26/health/man-uses-his-schizophrenia-to-gather-clues-for-daily-living.html">Finding Purpose After Living With Delusion</a></li></li>
+<li><a href="http://www.nytimes.com/2011/10/23/health/23lives.html">A High-Profile Executive Job as Defense Against Mental Ills</a></li>
+<li><a href="http://www.nytimes.com/2011/06/23/health/23lives.html?ref=health">Expert on Mental Illness Reveals Her Own Fight</a></li>
+<li><a href="http://www.nytimes.com/2011/08/07/health/07lives.html">Learning to Cope With a Mind’s Taunting Voices</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://newoldage.blogs.nytimes.com/" title="The New Old Age Blog">
+<img src="http://graphics8.nytimes.com/images/blogs/new-old-age/new-old-age_190.gif" alt="The New Old Age Blog"/>
+</a> 
+</h3> <div class="story first">
+<h3><a href="http://newoldage.blogs.nytimes.com/2011/12/02/we-are-everywhere/?ref=health">We Are Everywhere</a></h3>
+<p class="date">December 2, 2011 <span class="timestamp">22 minutes ago</span></p>
+</div><div class="story">
+<h3><a href="http://newoldage.blogs.nytimes.com/2011/12/01/sharper-than-a-serpents-tooth/?ref=health">Sharper Than a Serpent's Tooth</a></h3>
+<p class="date">December 1, 2011 <span class="timestamp"></span></p>
+</div><div class="story">
+<h3><a href="http://newoldage.blogs.nytimes.com/2011/11/30/a-contract-to-stop-driving/?ref=health">A Contract to Stop Driving</a></h3>
+<p class="date">November 30, 2011 <span class="timestamp"></span></p>
+</div><div class="story">
+<h3><a href="http://newoldage.blogs.nytimes.com/2011/11/25/the-holiday-reality-check/?ref=health">The Holiday Reality Check</a></h3>
+<p class="date">November 25, 2011 <span class="timestamp"></span></p>
+</div><p class="refer">
+<a href="http://newoldage.blogs.nytimes.com/" title="Go to Blog">Go to Blog &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">From The Magazine</h6><div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/04/magazine/can-ambien-wake-minimally-conscious.html?ref=health">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/magazine/04Conscious1/04Conscious1-thumbStandard.jpg" width="75" height="75" alt="Chris Cox in a moment of connection." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/04/magazine/can-ambien-wake-minimally-conscious.html?ref=health">
+A Drug That Wakes the Near Dead</a></h3>
+<h6 class="byline">
+By JENEEN INTERLANDI	    </h6>
+<p class="summary">
+A surprising drug has brought a kind of consciousness to patients once considered vegetative — and changed the debate over pulling the plug.</p>
+<ul class="refer">
+<li><a href="http://video.nytimes.com/video/2011/12/01/multimedia/100000001200115/ambiens-wakeful-effect.html"><span class="icon video">Video</span>: Ambien’s Power to Awaken</a></li>
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001194405" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/04/magazine/can-ambien-wake-minimally-conscious.html"></span></li>
+</ul>
+</div>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/04/magazine/marathon-swimmer-diana-nyad.html?ref=health">
+<img src="http://graphics8.nytimes.com/images/2011/12/04/magazine/04nyad1/mag-04Nyad-t_CA0-thumbStandard.jpg" width="75" height="75" alt="Diana Nyad, three days after her September attempt to swim from Cuba to Florida." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/04/magazine/marathon-swimmer-diana-nyad.html?ref=health">
+Marathon Swimmer Diana Nyad Takes On the Demons of the Sea</a></h3>
+<h6 class="byline">
+By ELIZABETH WEIL	    </h6>
+<p class="summary">
+Why the 62-year-old can’t stay out of the water. Despite the jellyfish.</p>
+<ul class="refer">
+<li style="background-image: none; padding-left: 0pt;"><img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="comment icon" style="margin-right: 3px; padding-top: 3px;" border="0"><span class="commentCountLink" articleid="100000001194419" overflowurl="http://community.nytimes.com/comments/www.nytimes.com/2011/12/04/magazine/marathon-swimmer-diana-nyad.html"></span></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">Columns</h6><div class="story">
+<h6 class="kicker">Personal Health</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/29/health/vitamin-b12-deficiency-can-cause-symptoms-that-mimic-aging.html?ref=health">
+<img src="http://graphics8.nytimes.com/images/2011/11/29/science/29BROD/29BROD-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/29/health/vitamin-b12-deficiency-can-cause-symptoms-that-mimic-aging.html?ref=health">
+It Could Be Old Age, or It Could Be Low B12</a></h3>
+<h6 class="byline">
+By JANE E. BRODY	    </h6>
+<p class="summary">
+Low levels of the essential vitamin can bring on symptoms including muscle weakness, fatigue, shakiness, unsteady gait, incontinence, low blood pressure and depression.</p>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/topics/news/health/columns/personalhealth/index.html">More Personal Health Columns »</a></li>
+</ul>
+</div>
+<div class="story">
+<h6 class="kicker">Really?</h6>
+<div class="thumbnail">
+<a href="http://well.blogs.nytimes.com/2011/11/28/really-the-claim-coffee-can-prevent-some-medications-from-working/?ref=health">
+<img src="http://graphics8.nytimes.com/images/2010/12/21/health/21really/21really-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://well.blogs.nytimes.com/2011/11/28/really-the-claim-coffee-can-prevent-some-medications-from-working/?ref=health">
+The Claim: Coffee Can Prevent Some Medications From Working</a></h3>
+<h6 class="byline">
+By ANAHAD O'CONNOR	    </h6>
+<p class="summary">
+Coffee and espresso can have consequences in people taking certain medications, by either blocking their absorption or enhancing their effects.</p>
+</div>
+</div>
+<div class="columnGroup doubleRule last">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<h6 class="sectionHeader flushBottom">Multimedia</h6>
+<div class="columnGroup firstArticleInline">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://www.nytimes.com/interactive/2011/11/22/health/20111122_trucker-health.html?ref=health">
+<img src="http://graphics8.nytimes.com/images/2011/11/22/health/trucker_190.jpg" width="190" height="126" alt="" border="0" />
+<span class="mediaOverlay interactive">Interactive Feature</span>
+</a>
+</div>
+<h5><a href="http://www.nytimes.com/interactive/2011/11/22/health/20111122_trucker-health.html?ref=health">
+The Long Haul</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Between sitting all day, eating fast food and sleeping poorly, truckers have major challenges when it comes to staying healthy. Here, five truckers speak about what they are doing to try to drop few pounds and get fit.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/11/22/health/a-hard-turn-truck-drivers-try-steering-from-bad-diets.html">Related Article: A Hard Turn: Steering Away From Bad Diets</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div><!--close .bColumn -->
+<div id="SpanABMiddleRegion" class="opening module">
+<div id="insideNYTimes" class="doubleRule">
+<script language="JavaScript" type="text/javascript" src="http://graphics8.nytimes.com/js/app/moth/moth.js"></script>
+<div id="insideNYTimesHeader">     
+<h4>
+Inside Health  
+</h4>
+</div>
+<div class="leftPanel"><span id="leftArrow"><img id="mothReverse" src="http://graphics8.nytimes.com/images/global/buttons/moth_reverse.gif" /></span></div>    
+<div id="insideNYTimesScrollWrapper">
+<table id="insideNYTimesBrowser" cellspacing="0">
+<tbody>
+<tr>
+<td class="first">
+<div class="story">
+<h6 class="kicker"><a href="http://www.nytimes.com/2011/09/27/health/27cancer.html?ref=health">Small Fixes »</a></h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/2011/09/27/health/27cancer.html?ref=health"><img src="http://graphics8.nytimes.com/images/2011/10/10/health/fixes_MOTH/fixes_MOTH-moth.jpg" alt="Fighting Cervical Cancer With Vinegar and Ingenuity" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/09/27/health/27cancer.html?ref=health">Fighting Cervical Cancer With Vinegar and Ingenuity</a></h6>
+</div>
+</td>
+<td>
+<div class="story">
+<h6 class="kicker"><a href="http://topics.nytimes.com/top/news/health/series/the_vanishing_mind/index.html">The Vanishing Mind »</a></h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/2010/06/02/health/02alzheimers.html?ref=thevanishingmind"><img src="http://graphics8.nytimes.com/images/2011/10/07/health/alzheimers_MOTH/alzheimers_MOTH-moth.jpg" alt="Alzheimer&rsquo;s Stalks a Colombian Family" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2010/06/02/health/02alzheimers.html?ref=thevanishingmind">Alzheimer&rsquo;s Stalks a Colombian Family</a></h6>
+</div>
+</td>
+<td>
+<div class="story">
+<h6 class="kicker"><a href="http://www.nytimes.com/pages/health/index.html">Health &raquo;</a></h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/interactive/2010/04/02/health/healthguide/TE_autism.html"><img src="http://graphics8.nytimes.com/images/2011/02/08/health/PV_AUTISM_MOTH/PV_AUTISM_MOTH-moth.jpg" alt="Patient Voices: Autism" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/interactive/2010/04/02/health/healthguide/TE_autism.html">Patient Voices: Autism</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker"><a href="http://www.nytimes.com/pages/health/index.html">Health &raquo;</a></h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/interactive/2010/04/08/health/cancer-survivor-photos.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/08/30/health/cancer_face_moth/cancer_face_moth-moth.jpg" alt="Picture Your Life After Cancer" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/interactive/2010/04/08/health/cancer-survivor-photos.html">Picture Your Life After Cancer</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker"><a href="http://www.nytimes.com/2011/06/23/health/23lives.html?ref=health">Lives Restored »</a></h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/2011/06/23/health/23lives.html?ref=health"><span class="img" src="http://graphics8.nytimes.com/images/2011/10/07/health/lives_MOTH/lives_MOTH-moth.jpg" alt="Expert on Mental Illness Reveals Her Own Fight" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/2011/06/23/health/23lives.html?ref=health">Expert on Mental Illness Reveals Her Own Fight</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker"><a href="http://www.nytimes.com/pages/health/nutrition/index.html">Nutrition »</a></h6>		<div class="mothImage">
+<a href="http://topics.nytimes.com/top/news/health/series/recipes_for_health/index.html"><span class="img" src="http://graphics8.nytimes.com/images/2010/01/06/health/Recipes_MOTH/Recipes_MOTH-moth-v2.jpg" alt="Recipes for Health" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://topics.nytimes.com/top/news/health/series/recipes_for_health/index.html">Recipes for Health</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">Special Section</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/yourhealth"><span class="img" src="http://graphics8.nytimes.com/images/2008/10/09/health/decodingMOTH.jpg" alt="Decoding Your Health" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/yourhealth">Decoding Your Health</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">Cancer Journal</h6>		<div class="mothImage">
+<a href="http://well.blogs.nytimes.com/tag/jennings/"><span class="img" src="http://graphics8.nytimes.com/images/2009/04/01/health/dana_151.jpg" alt="One Man&rsquo;s Story of Living With Prostate Cancer" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://well.blogs.nytimes.com/tag/jennings/">One Man&rsquo;s Story of Living With Prostate Cancer</a></h6>
+</div>
+</td>
+<td class="hidden">
+<div class="story">
+<h6 class="kicker">Multimedia</h6>		<div class="mothImage">
+<a href="http://www.nytimes.com/interactive/2008/12/03/health/healthguide/TE_MULTIPLESCLEROSIS.html"><span class="img" src="http://graphics8.nytimes.com/images/2008/12/11/health/MS_pVMOTH.jpg" alt="Patient Voices: MS" width="151" height="151" /></a>
+</div>
+<h6 class="headline"><a href="http://www.nytimes.com/interactive/2008/12/03/health/healthguide/TE_MULTIPLESCLEROSIS.html">Patient Voices: MS</a></h6>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="rightPanel"><span id="rightArrow"><img id="mothForward" src="http://graphics8.nytimes.com/images/global/buttons/moth_forward.gif" /></span></div>
+</div><!--end #insideNYTimes -->
+<div class="doubleRuleDivider insetH flushTop"></div>
+</div><!--close #SpanABMiddleRegion -->					<div class="aColumn">
+<!--cur:SingleThumbandHeadlines prev:-->
+<div class="columnGroup first">
+<h6 class="sectionHeader">Views »</h6>
+<div class="story">
+<h6 class="kicker">Essay</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/22/health/cancer-by-any-other-name-would-not-be-as-terrifying.html?ref=health">
+<img src="http://graphics8.nytimes.com/images/2011/11/22/science/22CANC_SPAN/22JPCANC-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/22/health/cancer-by-any-other-name-would-not-be-as-terrifying.html?ref=health">
+‘Cancer’ or ‘Weird Cells’: Which Sounds Deadlier?</a></h3>
+<h6 class="byline">
+By GINA KOLATA	    </h6>
+<p class="summary">
+“Cancer,” some medical experts say, is an imprecise term that is used too loosely these days.</p>
+<ul class="refer">
+<li><a href="http://well.blogs.nytimes.com/2011/11/21/finding-a-better-name-for-certain-cancers/?ref=health"> <img src="http://graphics8.nytimes.com/images/section/opinion/comment_icon.gif" alt="Comment" width="9" height="11" border="0"> Post a Comment</a></li>
+</ul>
+</div>
+<ul class="headlinesOnly multiline flush"><li>
+<h6><a href="http://well.blogs.nytimes.com/2011/11/21/really-the-claim-chewing-gum-can-prevent-ear-infections/?ref=health">
+Really?: The Claim: Chewing Gum Can Prevent Ear Infections</a>
+</h6>
+</li>
+</ul>	<ul class="headlinesOnly multiline flush"><li>
+<h6><a href="http://www.nytimes.com/2011/11/20/jobs/to-avoid-distractions-at-work-hit-the-reset-button.html?ref=health">
+Career Couch: Distracted? It’s Time to Hit the Reset Button</a>
+</h6>
+</li>
+</ul>	<ul class="headlinesOnly multiline flush"><li>
+<h6><a href="http://www.nytimes.com/2011/11/19/your-money/why-doing-the-ethical-thing-isnt-automatic.html?ref=health">
+Shortcuts: Doing the Ethical Thing May Be Right, but It Isn’t Automatic</a>
+</h6>
+</li>
+</ul>	<ul class="headlinesOnly multiline flush"><li>
+<h6><a href="http://www.nytimes.com/2011/11/08/health/fast-action-can-save-sight-if-retina-is-detached-or-blocked.html?ref=health">
+Personal Health: Act Fast to Save Sight if Signs of Danger to the Retina Appear</a>
+</h6>
+</li>
+</ul>	</div>
+<!--cur:SingleThumbandHeadlines prev:SingleThumbandHeadlines-->
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">Money & Policy »</h6>
+<div class="story">
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/11/30/us/politics/gingrich-gave-push-to-clients-not-just-ideas.html?ref=health">
+<img src="http://graphics8.nytimes.com/images/2011/11/30/us/jp-30gingrich/jp-30gingrich-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/11/30/us/politics/gingrich-gave-push-to-clients-not-just-ideas.html?ref=health">
+Gingrich Gave Push to Clients, Not Just Ideas</a></h3>
+<h6 class="byline">
+By MIKE McINTIRE and JIM RUTENBERG	    </h6>
+<p class="summary">
+Newt Gingrich is adamant that he is not a lobbyist, but in the eight years since he started his health care consultancy, he has made millions of dollars while helping companies promote their services.</p>
+<ul class="refer">
+<li><a href="http://www.nytimes.com/2011/11/29/us/politics/newt-gingrich-a-student-of-history-is-determined-to-influence-it.html">Gingrich Wields History, Seeking to Add Chapter</a></li>
+<li><a href="http://www.nytimes.com/2011/11/30/us/politics/gingrich-gave-push-to-clients-not-just-ideas.html #postcomment"><img src="http://graphics.nytimes.com/images/section/opinion/comment_icon.gif" alt="Comment" width="9" height="11" border="0"> Post a Comment</a> | <a href="http://www.nytimes.com/2011/11/30/us/politics/gingrich-gave-push-to-clients-not-just-ideas.html #commentsContainer">Read</a></li>
+</ul>
+</div>
+<ul class="headlinesOnly multiline flush"><li>
+<h6><a href="http://www.nytimes.com/2011/11/25/us/politics/support-builds-for-premium-support-plan-for-medicare.html?ref=health">
+Support Builds for a Plan to Rein In Medicare Costs</a>
+</h6>
+</li>
+</ul>	<ul class="headlinesOnly multiline flush"><li>
+<h6><a href="http://www.nytimes.com/2011/11/24/health/policy/dr-donald-m-berwick-resigns-as-head-of-medicare-and-medicaid.html?ref=health">
+Obama’s Pick to Head Medicare and Medicaid Resigns Post</a>
+</h6>
+</li>
+</ul>	</div>
+<!--cur:SingleThumbandHeadlines prev:SingleThumbandHeadlines-->
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader"><a href="http://www.nytimes.com/research">Research »</a></h6>
+<div class="story">
+<h6 class="kicker">Vital Signs</h6>
+<h3><a href="http://www.nytimes.com/2011/11/29/health/research/for-heart-health-less-sodium-isnt-always-better.html?ref=health">
+Patterns: Less Salt Isn’t Always Better for the Heart</a></h3>
+<h6 class="byline">
+By NICHOLAS BAKALAR	    </h6>
+<p class="summary">
+A study of 28,880 people showed that people who consumed too little sodium were at greater risk for heart problems than people who took in a moderate amount.</p>
+<ul class="refer">
+<li><a href="http://health.nytimes.com/health/guides/disease/heart-disease/overview.html?WT.z_gsac=1">Health Guide: Heart Disease »</a></li>
+<li><a href="http://topics.nytimes.com/top/news/health/columns/vitalsigns/">More Vital Signs Columns »</a></li>
+</ul>
+</div>
+<ul class="headlinesOnly multiline flush"><li>
+<h6><a href="http://www.nytimes.com/2011/11/26/health/research/anti-hiv-gel-trial-is-canceled-in-africa.html?ref=health">
+Anti-H.I.V. Trial in Africa Canceled Over Failure to Prevent Infection</a>
+</h6>
+</li>
+</ul>	<ul class="headlinesOnly multiline flush"><li>
+<h6><a href="http://www.nytimes.com/2011/11/24/health/global-aids-fund-cancels-fund-raising-and-seeks-new-manager.html?ref=health">
+Global Fund Will Pause New Grants and Seek New Manager</a>
+</h6>
+</li>
+</ul>	<ul class="headlinesOnly multiline flush"><li>
+<h6><a href="http://www.nytimes.com/2011/11/22/health/research/risk-factors-for-stroke-can-also-warn-of-cognitive-problems.html?ref=health">
+Vital Signs: Prognosis: Stroke’s Risk Factors Warn of Mental Harm</a>
+</h6>
+</li>
+</ul>	</div>
+<!--cur:SingleThumbandHeadlines prev:SingleThumbandHeadlines-->
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader"><a href="http://www.nytimes.com/nutrition">Fitness & Nutrition »</a></h6>
+<div class="story">
+<h6 class="kicker">Recipes for Health</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/2011/12/01/health/nutrition/steamed-cod-or-sea-bass-salad-recipes-for-health.html?ref=health">
+<img src="http://graphics8.nytimes.com/images/2011/11/29/science/01recipehealth/01recipehealth-thumbStandard.jpg" width="75" height="75" alt="" border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/2011/12/01/health/nutrition/steamed-cod-or-sea-bass-salad-recipes-for-health.html?ref=health">
+Steamed Cod or Sea Bass Salad With Red Peppers, Cilantro and Mint</a></h3>
+<h6 class="byline">
+By MARTHA ROSE SHULMAN	    </h6>
+<p class="summary">
+A refreshing first course or light main dish, this salad has vivid Middle Eastern flavors.</p>
+<ul class="refer">
+<li><a href="http://topics.nytimes.com/top/news/health/series/recipes_for_health/index.html">See All Recipes for Health » </a></li>
+</ul>
+</div>
+<ul class="headlinesOnly multiline flush"><li>
+<h6><a href="http://www.nytimes.com/2011/11/30/health/nutrition/halibut-chard-and-potato-casserole-recipes-for-health.html?ref=health">
+Recipes for Health: Halibut, Chard and Potato Casserole</a>
+</h6>
+</li>
+</ul>	<ul class="headlinesOnly multiline flush"><li>
+<h6><a href="http://www.nytimes.com/2011/11/29/health/nutrition/pacific-cod-ceviche-recipes-for-health.html?ref=health">
+Recipes for Health: Pacific Cod Ceviche</a>
+</h6>
+</li>
+</ul>	<ul class="headlinesOnly multiline flush"><li>
+<h6><a href="http://www.nytimes.com/2011/11/28/health/nutrition/flavorful-and-sustainable-fish-recipes-for-health.html?ref=health">
+Recipes for Health: Flavorful and Sustainable Fish</a>
+</h6>
+</li>
+</ul>	</div>
+<!--cur:StandardThumb prev:SingleThumbandHeadlines-->
+<div class="columnGroup singleRule last">
+<div id="multiPlayer" style="padding-top: 5px;">
+<!--bright cove code starts here  09/30/08 build//-->
+<script type="text/javascript" src="http://graphics8.nytimes.com/bcvideo/1.0/iframe/embed.js"></script>
+<script type="text/javascript">
+	NYT_VideoPlayerStart( {
+	   playerType  : "section",
+	   playlistId  : "1194811622287"
+	} );
+</script>
+<!--bright cove code ends here //-->
+</div>
+<div class="calendarLinks box insetV wrap">
+<div class="inset">
+<h3 class="sectionHeader">Health Headlines</h3>
+</div>
+<div class="subColumns module">
+<div class="subColumnA">
+<div class="insetH">
+<h6 class="kicker">from the past 7 days</h6>
+<table cellspacing="5" cellpadding="0" class="TwoWeekCalendar" id="TwoWeekCalendar-ab">
+<tbody>
+<tr><th>S</th><th>M</th><th>T</th><th>W</th><th>T</th><th>F</th><th>S</th></tr>
+<tr>
+<td>20</td>
+<td>21</td>
+<td>22</td>
+<td>23</td>
+<td>24</td>
+<td>25</td>
+<td>
+<a class="currentWeek" href="http://query.nytimes.com/search/query?query=November+26+2011&d=nytdsection%2b&o=e%2b&v=Health%2b&c=a">26</a>
+</td>
+</tr>
+<tr>
+<td>
+<a class="currentWeek" href="http://query.nytimes.com/search/query?query=November+27+2011&d=nytdsection%2b&o=e%2b&v=Health%2b&c=a">27</a>
+</td>
+<td>
+<a class="currentWeek" href="http://query.nytimes.com/search/query?query=November+28+2011&d=nytdsection%2b&o=e%2b&v=Health%2b&c=a">28</a>
+</td>
+<td>
+<a class="currentWeek" href="http://query.nytimes.com/search/query?query=November+29+2011&d=nytdsection%2b&o=e%2b&v=Health%2b&c=a">29</a>
+</td>
+<td>
+<a class="currentWeek" href="http://query.nytimes.com/search/query?query=November+30+2011&d=nytdsection%2b&o=e%2b&v=Health%2b&c=a">30</a>
+</td>
+<td>
+<a class="currentWeek" href="http://query.nytimes.com/search/query?query=December+01+2011&d=nytdsection%2b&o=e%2b&v=Health%2b&c=a">1</a>
+</td>
+<td>
+<a class="currentDay" href="http://query.nytimes.com/search/query?query=December+02+2011&d=nytdsection%2b&o=e%2b&v=Health%2b&c=a">2</a>
+</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div><!--close subColumnA -->
+<div class="subColumnB">
+<div class="insetH">
+<div class="inlineSearchControl">
+<form id="searchForm" name="searchForm" method="get" action="http://query.nytimes.com/gst/sitesearch_selector.html" enctype="application/x-www-form-urlencoded">
+<label for="KeywordDate2" class="kicker">enter keyword or date</label>
+<input type="text" id="KeywordDate2" class="text" name="query" size="20"/><input type="hidden" name="date_select" value="full"/><input type="hidden" name="type" value="health"/> <input type="image" id="Go" title="Go" alt="Go" src="http://graphics8.nytimes.com/images/global/buttons/go.gif"/>
+<div class="smallCaption">e.g. April 21, 2001</div>
+</form>
+</div><!--close inlineSearchControl -->
+</div>
+</div><!--close subColumnB -->
+</div>
+</div><!--close calendarLinks -->
+</div>						<div id="adxSponLink" class="columnGroup"></div>
+</div><!--close second .aColumn -->
+<div class="bColumn">
+<div class="columnGroup first">
+<script type="text/javascript">
+        if (typeof NYTDVideoManager != "undefined") {
+            NYTDVideoManager.setAllowMultiPlayback(false);
+        }
+        
+        function displayCompanionBanners(banners, tracking) {
+            tmDisplayBanner(banners, "videoAdContent", 300, 250, null, tracking);
+        }
+        </script> 
+<div class="columnGroup first">
+<div class="story">  
+<div class="wideThumb">
+<a href="http://consults.blogs.nytimes.com/2011/09/21/experimental-treatments-for-macular-degeneration/?ref=health">
+<img src="http://graphics8.nytimes.com/images/blogs/consults/consults190.jpg" width="190" height="30" alt="" border="0" />
+</a>
+</div>
+<h5><a href="http://consults.blogs.nytimes.com/2011/09/21/experimental-treatments-for-macular-degeneration/?ref=health">
+Experimental Treatments for Macular Degeneration</a></h5>
+<h6 class="byline">
+</h6>
+<p class="summary">
+Dr. Stephen Rose of the Foundation Fighting Blindness responds to readers’ questions about the genetics of macular degeneration.</p>
+<ul class="refer">
+<li><a href="http://consults.blogs.nytimes.com/2010/07/26/can-foods-trigger-migraines/">Can Foods Trigger Migraines?</a></li>
+<li><a href="http://consults.blogs.nytimes.com/2010/07/02/when-good-sleep-habits-arent-enough/">When Good Sleep Habits Aren't Enough</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="columnGroup doubleRule ">
+<div class="relatedStories">
+<div class="kicker"></div>
+<h3 class="sectionHeader">
+<a href="http://prescriptions.blogs.nytimes.com/" title="Prescriptions Blog">
+<img src="http://graphics8.nytimes.com/images/blogs_v3/prescriptions/prescriptions190.gif" alt="Prescriptions Blog"/>
+</a> 
+</h3> <div class="story first">
+<h3><a href="http://prescriptions.blogs.nytimes.com/2011/11/30/a-look-at-berwicks-tenure-as-medicare-chief/?ref=health">A Look at Berwick's Tenure as Medicare Chief</a></h3>
+</div><div class="story">
+<h3><a href="http://prescriptions.blogs.nytimes.com/2011/11/29/states-receive-health-care-grants/?ref=health">States Receive Health Care Grants</a></h3>
+</div><p class="refer">
+<a href="http://prescriptions.blogs.nytimes.com/" title="Go to Blog">Go to Blog &#187;</a> 
+</p>
+</div><!--close div.relatedStories -->
+</div>
+<div class="columnGroup doubleRule ">
+<h6 class="sectionHeader">Times Essentials</h6><div class="story">
+<h6 class="kicker">Reporter's File</h6>
+<div class="thumbnail">
+<a href="http://www.nytimes.com/ref/health/healthguide/esn-sickle-cell-ess.html?ref=health">
+<img src="http://graphics8.nytimes.com/images/2011/06/28/health/Giovanna-Poli-Sickle-Cell/Giovanna-Poli-Sickle-Cell-thumbStandard.jpg" width="75" height="75" alt="Giovanna Poli is living with sickle cell disease." border="0" />
+</a>
+</div>
+<h3><a href="http://www.nytimes.com/ref/health/healthguide/esn-sickle-cell-ess.html?ref=health">
+Making Sickle Cell Disease a Manageable Illness</a></h3>
+<h6 class="byline">
+By CAROLYN SAYRE	    </h6>
+<p class="summary">
+On most days Giovanna Poli acts like a typical 12-year-old, but she is living with sickle cell disease.</p>
+<ul class="refer">
+<li><a href="http://consults.blogs.nytimes.com/2011/06/29/an-expert-talks-about-sickle-cell-disease/">Expert Q & A</a></li>
+<li><a href="http://health.nytimes.com/ref/health/healthguide/esn-sickle-cell-questions.html">What to Ask About Sickle Cell Disease</a></li>
+<li><a href="http://www.nytimes.com/ref/health/healthguide/esn-sickle-cell-know.html">5 Things to Know About Sickle Cell Disease</a></li>
+</ul>
+</div>
+</div>
+<div class="columnGroup doubleRule last">
+
+
+<div class="singleAd" id="Box2">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/health/index.html&pos=Box2&sn2=8c04d0aa/c39e8c27&sn1=38d43609/ab3147cd&camp=nyt2011-circ-120x90-weekender-36H38&ad=071511-120x90-weekender-36H38&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DWC7AA%26CMP%3D36H38" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/13/ad.271312/11-0920_HDWeekender2_120x90.jpg" width="120" height="90" border="0"></a>
+
+</div>
+
+</div>					</div><!--close second .bColumn -->
+</div><!--close .abColumn -->
+<div class="cColumn">
+<!--Ads  -->                    <div class="columnGroup first">
+
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<div class="columnGroup fullWidth">
+<div class="columnGroup">
+<a href="http://health.nytimes.com/health/guides/index.html"><IMG src="http://www.nytimes.com/images/2007/10/01/health/guidepromo.190.jpg" border="0" title="Times Health Guide"></IMG></a>
+<p class="summary">More than 3,000 topics described, illustrated and investigated</p>
+</div>
+<div class="columnGroup">
+<div class="story">
+<div class="runaroundLeft">
+<a href="http://www.nytimes.com/interactive/2010/04/08/health/cancer-survivor-photos.html#/all/"><IMG src="http://graphics8.nytimes.com/images/2011/10/25/health/picture-your-life/picture-your-life-thumbWide-v2.jpg" border="0" height="126" width="190"></IMG></a>
+</div>
+<h6 class="kicker">Multimedia</h6>
+<h5><a href="http://www.nytimes.com/interactive/2010/04/08/health/cancer-survivor-photos.html#/all/">Picture Your Life After Cancer</a></h5>
+<p>Your photos and insights about life after cancer.<br/><br/> Add your photo to the collage <a href="http://submit.nytimes.com/after-cancer">here</a>.</p>
+</div>
+</div>
+<div class="singleRule"></div>
+<div class="subColumn-2 wrap">
+<div class="column">
+<div class="columnGroup">
+<div class="story">
+<div class="runaroundRight">
+<a href="http://www.nytimes.com/interactive/2009/09/10/health/Patient_Voices.html"><IMG src="http://graphics8.nytimes.com/images/2011/10/25/health/picture-your-life/picture-your-life-custom1.jpg" border="0" height="46" width="46"></IMG></a>
+</div>
+<h6 class="kicker">Mulitmedia</h6>
+<h5><img src="http://graphics.nytimes.com/images/multimedia/icons/audio_icon.gif" alt="Audio" width="13" height="10" border="0"/> <a href="http://www.nytimes.com/interactive/2009/09/10/health/Patient_Voices.html">Patient Voices</a></h5>
+<ul><li><a href="http://www.nytimes.com/interactive/2009/02/12/health/healthguide/TE_EPILEPSY.html">Epilepsy</a></li>
+<li><a href="http://www.nytimes.com/interactive/2010/06/02/health/te_alzheimers.html">Alzheimer's</a></li>
+<li><a href="http://www.nytimes.com/interactive/2009/12/15/health/healthguide/TE_migraine.html">Migraines</a></li>
+<li><a href="http://www.nytimes.com/interactive/2009/09/10/health/Patient_Voices.html">See All »</a></li></ul>
+<a href="http://www.facebook.com/#!/pages/Healthy-Living-The-New-York-Times/127071440681805" target="_blank"> <IMG src="http://graphics8.nytimes.com/images/article/functions/facebook.gif" border="0" height="16" width="16"> Follow us on Facebook. </IMG></a>
+</div>
+</div>
+</div>
+<div class="column last">
+<div class="columnGroup">
+<div class="story">
+<div class="runaroundRight">
+<a href="http://consults.blogs.nytimes.com/"><IMG src="http://graphics8.nytimes.com/images/2010/04/30/health/consult_45/consult_45-custom1.jpg" border="0" height="46" width="46"></IMG></a>
+</div>
+<h6 class="kicker">Consults</h6>
+<h5><a href="http://consults.blogs.nytimes.com/">Your Health Questions Answered</a></h5>
+<ul><li><a href="http://consults.blogs.nytimes.com/2010/12/27/expert-answers-on-alopecia/">Expert Answers on Alopecia</a></li>
+<li><a href="http://consults.blogs.nytimes.com/2010/11/01/seeking-help-for-gambling-addiction/">Seeking Help for Gambling Addiction</a></li></ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--Ads Simple -->                    <div class="columnGroup ">
+
+			
+<div class="bigAd" id="SFMiddle">
+<!-- ADXINFO classification="bigad" campaign="Citi_NatContContextAddress_1778555-nyt1"--><script language="JavaScript" type="text/javascript" src="http://view.atdmt.com/NYC/jview/359855727/direct;wi.300;hi.250;pc.172969_282783/01/2011.12.02.18.04.30?click=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fadx%2Fbin%2Fadx%5Fclick%2Ehtml%3Ftype%3Dgoto%26opzn%26page%3Dwww.nytimes.com/pages/health/index.html%26pos%3DSFMiddle%26camp%3DCiti%5FNatContContextAddress%5F1778555%2Dnyt1%26ad%3Datlas%2D359855727%5F300x250%5FROS%26sn2%3D144b6fa8/4751346d%26snr%3Ddoubleclick%26snx%3D1322848862%26sn1%3D26f51d78%2Fd13be956%26goto%3D">
+</script><noscript><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/health/index.html&pos=SFMiddle&sn2=144b6fa8/4751346d&sn1=e849ee2e/f8a3456d&camp=Citi_NatContContextAddress_1778555-nyt1&ad=atlas-359855727_300x250_ROS&goto=http%3A%2F%2Fclk%2Eatdmt%2Ecom%2FNYC%2Fgo%2F359855727%2Fdirect%3Bwi%2E300%3Bhi%2E250%3Bpc%2E172969%5F282783%2F01%2F2011.12.02.18.04.30%2F" target="_blank"><img border="0" src="http://view.atdmt.com/NYC/view/359855727/direct;wi.300;hi.250;pc.172969_282783/01/2011.12.02.18.04.30/" /></a></noscript>
+</div>
+
+
+
+<div class="singleAd" id="Box3">
+<!-- ADXINFO classification="feature_squares" campaign="nyt2011-regilite-P1-TimesLimited-ros"--><iframe title="regilite" src="https://myaccount.nytimes.com/regilite?product=LT" width="336" height="90" marginheight="0" marginwidth="0" frameborder="0" vspace="0" hspace="0" scrolling="no"></iframe>
+</div>
+
+
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<div id="mostPopWidget" class="singleRule"> 
+
+      <!-- MOST POPULAR MODULE STARTS -->
+      <h4>MOST POPULAR - HEALTH</h4>
+         <div id="tabsContainer">
+         <ul class="tabs">
+            <li class="selected"><a href="#">E-Mailed</a></li>
+            <li><a href="#">Blogged</a></li>
+            
+            <li><a href="#">Viewed</a></li>
+            
+         </ul>
+         </div>
+            <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"></HEAD><div class="tabContent tabContentActive" id="mostEmailed"><ol>
+<li img="http://graphics8.nytimes.com/images/2011/11/29/science/29BROD/29BROD-thumbStandard.jpg"  kicker="Personal Health"><a href="http://www.nytimes.com/2011/11/29/health/vitamin-b12-deficiency-can-cause-symptoms-that-mimic-aging.html?src=me&amp;ref=health" title="Click to go to this article">Personal Health: It Could Be Old Age, or It Could Be Low B12</a></li>
+<li kicker="Well"><a href="http://well.blogs.nytimes.com/2011/11/30/how-exercise-benefits-the-brain/?src=me&amp;ref=health" title="Click to go to this article">Well: How Exercise Benefits the Brain</a></li>
+<li kicker="Well"><a href="http://well.blogs.nytimes.com/2011/12/01/the-doctor-as-poet/?src=me&amp;ref=health" title="Click to go to this article">Well: The Doctor as Poet</a></li>
+<li kicker="Well"><a href="http://well.blogs.nytimes.com/2011/12/01/depression-may-slow-exercise-recovery/?src=me&amp;ref=health" title="Click to go to this article">Well: Depression May Slow Exercise Recovery</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/26/us/JP-LIVES-1/JP-LIVES-1-thumbStandard.jpg"  kicker="Lives Restored"><a href="http://www.nytimes.com/2011/11/26/health/man-uses-his-schizophrenia-to-gather-clues-for-daily-living.html?src=me&amp;ref=health" title="Click to go to this article">Lives Restored: Finding Purpose After Living With Delusion</a></li>
+<li kicker="Well"><a href="http://well.blogs.nytimes.com/2011/11/28/really-the-claim-coffee-can-prevent-some-medications-from-working/?src=me&amp;ref=health" title="Click to go to this article">Well: Really? The Claim: Coffee Can Prevent Some Medications From Working</a></li>
+<li kicker=""><a href="http://www.nytimes.com/2011/11/29/health/a-closer-look-at-teeth-may-mean-more-fillings-by-dentists.html?src=me&amp;ref=health" title="Click to go to this article">A Closer Look at Teeth May Mean More Fillings</a></li>
+<li kicker="Well"><a href="http://well.blogs.nytimes.com/2011/12/01/dogs-and-post-traumatic-stress-disorder/?src=me&amp;ref=health" title="Click to go to this article">Well: Dogs and Post-Traumatic Stress Disorder</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/29/science/01recipehealth/01recipehealth-thumbStandard.jpg"  kicker="Recipes for Health"><a href="http://www.nytimes.com/2011/12/01/health/nutrition/steamed-cod-or-sea-bass-salad-recipes-for-health.html?src=me&amp;ref=health" title="Click to go to this article">Recipes for Health: Steamed Cod or Sea Bass Salad With Red Peppers, Cilantro and Mint</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/29/science/02recipehealth/02recipehealth-thumbStandard.jpg"  kicker="Recipes for Health"><a href="http://www.nytimes.com/2011/12/02/health/nutrition/albacore-steaks-with-simmered-fennel-recipes-for-health.html?src=me&amp;ref=health" title="Click to go to this article">Recipes for Health: Albacore Steaks With Simmered Fennel</a></li>
+</ol>
+        <a class="more" href="http://www.nytimes.com/gst/mostemailed.html">Go to Complete List &#x00bb;</a>
+        </div><!-- #most emailed top10 -->
+
+            <div class="tabContent" id="mostBlogged">
+<ol>
+<li><a href="http://www.nytimes.com/2011/11/26/health/research/anti-hiv-gel-trial-is-canceled-in-africa.html?bl" title="Click to go to this article">Anti-H.I.V. Gel Trial Is Canceled in Africa</a></li>
+<li><a href="http://www.nytimes.com/2011/11/29/health/the-certainty-of-memory-has-its-day-in-court.html?bl" title="Click to go to this article">The Certainty of Memory Has Its Day in Court</a></li>
+<li><a href="http://www.nytimes.com/2011/11/29/health/new-hope-of-a-cure-for-hiv.html?bl" title="Click to go to this article">New Hope of a Cure for H.I.V.</a></li>
+<li><a href="http://www.nytimes.com/2011/11/29/health/a-closer-look-at-teeth-may-mean-more-fillings-by-dentists.html?bl" title="Click to go to this article">A Closer Look at Teeth May Mean More Fillings by Dentists</a></li>
+<li><a href="http://www.nytimes.com/2011/11/29/health/vitamin-b12-deficiency-can-cause-symptoms-that-mimic-aging.html?bl" title="Click to go to this article">Vitamin B12 Deficiency Can Cause Symptoms That Mimic Aging</a></li>
+<li><a href="http://www.nytimes.com/2005/08/16/health/16emot.html?bl" title="Click to go to this article">Emotions: Keeping Up With the Joneses' Bank Account</a></li>
+</ol>
+<a class="more" href="http://www.nytimes.com/gst/mostblogged.html">Go to Complete List &#x00bb;</a>
+</div><!-- #most blogged top10 -->
+
+            
+            <div class="tabContent" id="mostViewed"><ol>
+<li kicker="Well"><a href="http://well.blogs.nytimes.com/2011/11/30/how-exercise-benefits-the-brain/?src=mv&amp;ref=health" title="Click to go to this article">Well: How Exercise Benefits the Brain</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/29/science/29BROD/29BROD-thumbStandard.jpg"  kicker="Personal Health"><a href="http://www.nytimes.com/2011/11/29/health/vitamin-b12-deficiency-can-cause-symptoms-that-mimic-aging.html?src=mv&amp;ref=health" title="Click to go to this article">Personal Health: It Could Be Old Age, or It Could Be Low B12</a></li>
+<li kicker="Well"><a href="http://well.blogs.nytimes.com/2011/12/01/depression-may-slow-exercise-recovery/?src=mv&amp;ref=health" title="Click to go to this article">Well: Depression May Slow Exercise Recovery</a></li>
+<li kicker="Well"><a href="http://well.blogs.nytimes.com/2011/12/01/the-doctor-as-poet/?src=mv&amp;ref=health" title="Click to go to this article">Well: The Doctor as Poet</a></li>
+<li kicker="Well"><a href="http://well.blogs.nytimes.com/2011/11/28/really-the-claim-coffee-can-prevent-some-medications-from-working/?src=mv&amp;ref=health" title="Click to go to this article">Well: Really? The Claim: Coffee Can Prevent Some Medications From Working</a></li>
+<li kicker="Well"><a href="http://well.blogs.nytimes.com/2011/12/01/dogs-and-post-traumatic-stress-disorder/?src=mv&amp;ref=health" title="Click to go to this article">Well: Dogs and Post-Traumatic Stress Disorder</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/29/science/29JPHIV/29JPHIV-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/11/29/health/new-hope-of-a-cure-for-hiv.html?src=mv&amp;ref=health" title="Click to go to this article">New Hope of a Cure for H.I.V.</a></li>
+<li kicker=""><a href="http://www.nytimes.com/2011/12/01/health/senators-question-plan-to-stall-generic-lipitor.html?src=mv&amp;ref=health" title="Click to go to this article">Senators Question Deals to Block Generic Lipitor</a></li>
+<li img="http://graphics8.nytimes.com/images/2011/11/29/science/29MEMO/29MEMO-thumbStandard.jpg"  kicker=""><a href="http://www.nytimes.com/2011/11/29/health/the-certainty-of-memory-has-its-day-in-court.html?src=mv&amp;ref=health" title="Click to go to this article">The Certainty of Memory Has Its Day in Court</a></li>
+<li kicker="Well"><a href="http://well.blogs.nytimes.com/2011/11/28/are-dentists-overtreating-your-teeth/?src=mv&amp;ref=health" title="Click to go to this article">Well: Are Dentists Overtreating Your Teeth?</a></li>
+</ol>
+        </div><!-- #most viewed top10 -->
+
+            
+         <script type="text/javascript">new Accordian("mostPopWidget");</script>
+      <!-- MOST POPULAR MODULE ENDS -->
+   
+
+</div><!--close mostPopWidget -->
+<div class="singleRuleDivider"></div>
+<div class="columnGroup fullWidth">
+<div class="subColumn-2 wrap">
+<h3 class="sectionHeader insetH">Times Health Reporters</h3>
+<div class="column">
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://topics.nytimes.com/topics/reference/timestopics/people/b/pam_belluck/index.html"><img src="http://graphics8.nytimes.com/images/2011/03/29/health/health_writers/health_writers-custom2-v2.jpg" width="50" height="50" alt="" /></a></div>
+<h5><a href="http://topics.nytimes.com/topics/reference/timestopics/people/b/pam_belluck/index.html">Pam Belluck</a></h5>
+<span class="caption">Email: <a href="mailto:belluck@nytimes.com">belluck @nytimes.com</a> <br/>Twitter: <a href="http://twitter.com/PamBelluck">PamBelluck</a></span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://topics.nytimes.com/topics/reference/timestopics/people/c/benedict_carey/index.html"><img src="http://graphics8.nytimes.com/images/2011/04/04/health/ben/ben-custom1.jpg" width="50" height="50" alt="" /></a></div>
+<h5><a href="http://topics.nytimes.com/topics/reference/timestopics/people/c/benedict_carey/index.html">Benedict Carey</a></h5>
+<span class="caption">Email: <a href="mailto:bencarey@nytimes.com">bencarey @nytimes.com</a><br/><br/></span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://topics.nytimes.com/topics/reference/timestopics/people/g/denise_grady/index.html"><img src="http://graphics8.nytimes.com/images/2011/03/29/health/denise/denise-custom1.jpg" width="50" height="50" alt="" /></a></div>
+<h5><a href="http://topics.nytimes.com/topics/reference/timestopics/people/g/denise_grady/index.html">Denise Grady</a></h5>
+<span class="caption">Email: <a href="mailto:grady@nytimes.com">grady @nytimes.com</a><br/><br/></span>
+</div></div>
+</div>
+<div class="column last">
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://topics.nytimes.com/topics/reference/timestopics/people/h/gardiner_harris/index.html"><img src="http://graphics8.nytimes.com/images/2011/03/30/health/gardiner/gardiner-custom1.jpg" width="50" height="50" alt="" /></a></div>
+<h5><a href="http://topics.nytimes.com/topics/reference/timestopics/people/h/gardiner_harris/index.html">Gardiner Harris</a></h5>
+<span class="caption">Email: <a href="mailto:gardiner@nytimes.com">gardiner @nytimes.com</a></span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://topics.nytimes.com/topics/reference/timestopics/people/k/gina_kolata/index.html"><img src="http://graphics8.nytimes.com/images/2011/03/29/health/gina/gina-custom1.jpg" width="50" height="50" alt=""></a></div>
+<h5><a href="http://topics.nytimes.com/topics/reference/timestopics/people/k/gina_kolata/index.html">Gina Kolata</a></h5>
+<span class="caption">Email: <a href="mailto:kolata@nytimes.com">kolata @nytimes.com</a><br/> Twitter: <a href="http://twitter.com/ginakolata">ginakolata</a></span>
+</div></div>
+<div class="columnGroup"><div class="story">
+<div class="runaroundRight"><a href="http://topics.nytimes.com/topics/reference/timestopics/people/m/donald_g_jr_mcneil/index.html"><img src="http://graphics8.nytimes.com/images/2011/03/29/health/donald/donald-custom1.jpg" width="50" height="50" alt=""></a></div>
+<h5><a href="http://topics.nytimes.com/top/reference/timestopics/people/m/donald_g_jr_mcneil/index.html">Donald G. McNeil Jr.</a></h5>
+<span class="caption">Email: <a href="mailto:mcneil@nytimes.com">mcneil @nytimes.com</a></span>
+</div></div>
+</div></div></div>        	</div>
+<!--Ads Simple -->                    <div class="columnGroup ">
+			
+
+<div class="bigAd" id="Box1">
+<!-- ADXINFO classification="Module" campaign="nyt2011_module_biz_piers_morgan_hp_ros_db"--><!-- MARKETING MODULE -->
+<div style="border:solid #999;border-width:1px;font-family:Arial,sans-serif;text-align:left; width:334px;background:#fff;" class="clearfix wrap">
+  <a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/health/index.html&pos=Box1&sn2=8c04d0a9/c39e8827&sn1=3cd7b396/8bf4d3f&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://mediadecoder.blogs.nytimes.com/2011/11/30/piers-morgan-struggles-to-beat-kings-ratings/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-PH%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm11/business_120211.jpg" width="334" height="154" border="0" alt=""></a> 
+  <div style="padding:7px 9px 0;background:#fff">
+      <h2 style="font-size:22px;line-height:24px; margin:0;padding:0 0 4px;"><a style="color:#004276;" target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/health/index.html&pos=Box1&sn2=8c04d0a9/c39e8827&sn1=3cd7b396/8bf4d3f&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://mediadecoder.blogs.nytimes.com/2011/11/30/piers-morgan-struggles-to-beat-kings-ratings/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-HDR%26WT.mc_ev=click%26WT.mc_c=174041">Piers Morgan's struggle</a></h2>
+
+      <p style="margin:0 0 3px; padding:0;font-size: 11px;"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/health/index.html&pos=Box1&sn2=8c04d0a9/c39e8827&sn1=dcca9a23/ff2c3589&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://nytimes.com/business/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-URL%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank" style="font-size:11px;margin:3px 0;padding:0;font-family:Arial,sans-serif;  color:#000; text-transform:uppercase;">Also in Business &raquo;</a></p>
+      <ul style="font-size:12px;margin:0; padding-bottom: 10px; border-bottom:1px solid #ccc;" class="refer">
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/health/index.html&pos=Box1&sn2=8c04d0a9/c39e8827&sn1=7ddbcc18/6dfb3f78&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://dealbook.nytimes.com/2011/11/30/american-wont-be-the-last-airline-bankruptcy/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-L1%26WT.mc_ev=click%26WT.mc_c=174041" style="color: #004276">American won't be the last airline bankruptcy</a></li>
+        <li style="font-size:12px"><a target="_blank" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/health/index.html&pos=Box1&sn2=8c04d0a9/c39e8827&sn1=aada211/3630bfe3&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://www.nytimes.com/2011/11/30/business/media/pepto-bismol-highlights-overindulging-in-latest-campaign.html%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-L2%26WT.mc_ev=click%26WT.mc_c=174041" style="color: #004276">A look at Pepto-Bismol's new holiday commercials</a></li>
+      </ul>
+    </div>
+ 
+ <div style="padding:5px 9px; float:left; width:316px; background:#fff"> <a style="float:left" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/health/index.html&pos=Box1&sn2=8c04d0a9/c39e8827&sn1=dcca9a23/ff2c3589&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://nytimes.com/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-LOGO%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/nytimes.gif" alt="nytimes.com" width="116" height="18" border="0"></a><a style="float:right" href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/health/index.html&pos=Box1&sn2=8c04d0a9/c39e8827&sn1=dcca9a23/ff2c3589&camp=nyt2011_module_biz_piers_morgan_hp_ros_db&ad=BU-D-I-NYT-MOD-MOD-M230t-ROS-121&goto=http://nytimes.com/business/%3FWT.mc_id=BU-D-I-NYT-MOD-MOD-M230t-ROS-1211-VRT%26WT.mc_ev=click%26WT.mc_c=174041" target="_blank"><img src="http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/verticals_business.gif" alt="Business" width="120" height="18" border="0"></a></div><br clear="all">
+
+</div>
+  <!-- /MARKETING MODULE -->
+
+</div>
+
+
+<div class="singleAd" id="Middle5">
+<!-- ADXINFO classification="feature_position" campaign="nyt2011-circ-middle5_promise-36H3U-38R9W-AK"--><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/health/index.html&pos=Middle5&sn2=e68e71c5/2e12a35e&sn1=4d66a43a/361c78b4&camp=nyt2011-circ-middle5_promise-36H3U-38R9W-AK&ad=092111-11a-middle5_promise-AK&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DW42CS%26CMP%3D36H3U" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/71/ad.277135/11-0922_HDGenericD2_336x79_AK.jpg" width="336" height="79" border="0"></a><div class='kj_cx'></div>
+<script type='text/javascript'>
+var kjData = {akin: 'NYT-IP-4d0abbb3acf67-y05', adWidth: 336, adHeight: 79, btnStyle: 2, crnr: 'bl'};
+if(!kjG){var kjG=[]}kjG.push(kjData);if(!kjLdr){var kjLdr={ld:function(){var b=document; var a=b.createElement('script');a.type='text/javascript';a.src='http://a.akncdn.com/adkeeper.1.0.js'; (b.getElementsByTagName('body')[0]||b.getElementsByTagName('head')[0]).appendChild(a) },init:function(){var a=window,b=document;if(b.addEventListener){a.addEventListener('load',this.ld,false) }else{if(a.attachEvent){a.attachEvent('onload',this.ld)}}}};kjLdr.init()}; </script>
+
+
+</div>
+
+
+
+<!--[TwoColumnAdLeft - Begin] -->
+	<div class="adHeader">
+<h4>
+Advertisements	    </h4>
+</div>
+<div class="cColumn-TextAdsBox">
+	<div class="cColumn-TextAdsLeft">
+<div class="cColumn-TextAd">
+<!-- ADXINFO classification="SiteForADay" campaign="nyt2011-mktg-arts_and_ents-s4d_ros"--><div style="width:320px; height:60px;"> 
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/health/index.html&pos=Right5A&sn2=9c6184c4/336dc4aa&sn1=6a1102ca/9e7f5eda&camp=nyt2011-mktg-arts_and_ents-s4d_ros&ad=AR-D-I-NYT-AD-S4D-AandE-ROS-1211-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fevents%2Findex%2Ehtml%3FWT%2Emc%5Fid%3DAR%2DD%2DI%2DNYT%2DAD%2DS4D%2DAandE%2DROS%2D1211%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D175108" target="_blank"> 
+<img style="float:left; margin-right:10px;" src="http://graphics8.nytimes.com/adx/images/ADS/28/59/ad.285977/11-2187_ArtsEntertainment_86x60.gif" width="86" height="60" border="0" style="vertical-align:text-top;"></a>
+
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/health/index.html&pos=Right5A&sn2=9c6184c4/336dc4aa&sn1=6a1102ca/9e7f5eda&camp=nyt2011-mktg-arts_and_ents-s4d_ros&ad=AR-D-I-NYT-AD-S4D-AandE-ROS-1211-NA&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fevents%2Findex%2Ehtml%3FWT%2Emc%5Fid%3DAR%2DD%2DI%2DNYT%2DAD%2DS4D%2DAandE%2DROS%2D1211%2DNA%26WT%2Emc%5Fev%3Dclick%26WT%2Emc%5Fc%3D175108" target="_blank">  <br />Introducing: The Interactive Arts & Entertainment Guide</a>
+</div>
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+<div class="cColumn-TextAd">
+			</div>
+</div>
+	</div>
+<!--[TwoColumnAdLeft - End] -->
+<div class="advertisementColumnGroup">
+<!--[MarketPlaceGridAd - Begin] -->
+
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+<div class="wrap">
+                   
+                   
+                   
+</div>
+    <!--[MarketPlaceGridAd - End] -->
+</div>
+</div>
+<!--Simple Ads -->                    <div class="columnGroup ">
+<h3 class="sectionHeader">Health Around the Web</h3>
+<div class="healthBlogrunner">
+<script
+src="http://service.blogrunner.com/fetch/?u=http://www.blogrunner.com/snapshot/topics/3/8/46A0F9B60C30B638/inbox.xml&o=nyt,js&f=nyt_health&n=3">		</script>
+</div>
+<div class="poweredBy">
+<a href="http://www.blogrunner.com/snapshot/topics/2/0/42EB90D608E1420B/" target="_blank" class="byline">Powered by BlogRunner</a>
+</div>
+<style type="text/css" media="screen">
+	.healthBlogrunner h3 { font-size:1.2em; }
+	.poweredBy { text-align:right; padding-top:5px; }
+</style>
+</div>
+<!--Ads Simple -->                    <div class="columnGroup last">
+
+<div class="singleAd" id="Feature1">
+<!-- ADXINFO classification="hp-module" campaign="feature1-1280FifthAve-18-1712178-cla"--><!--Ad Template Begins Here -->
+<div class="story advertisement">
+<div class="callout">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/health/index.html&pos=Feature1&sn2=b61399e2/839c3937&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/15/ad.271512/7.23.11_BRK11-2614_1280_nyt.com_module_update2.jpg" width="173" height="98" border="0" alt="Click for Details"></a>
+</div>
+<h5>
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/health/index.html&pos=Feature1&sn2=b61399e2/839c3937&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank"></a>
+</h5>
+<p class="summary"><a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/health/index.html&pos=Feature1&sn2=b61399e2/839c3937&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank">Designed by<br>Robert&nbsp;&nbsp;A.M. Stern<br>Overlooking Central Park<br>Up to 5 Bedrooms</a></p>
+<div class="adCreative">
+<a href="http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/pages/health/index.html&pos=Feature1&sn2=b61399e2/839c3937&sn1=37b3fd06/161daeaf&camp=feature1-1280FifthAve-18-1712178-cla&ad=7.23.11-1280FifthAve-173x98-SFM&goto=http%3A%2F%2Fwww%2E1280fifth%2Ecom" target="_blank">
+<img src="http://graphics8.nytimes.com/adx/images/ADS/27/15/ad.271512/5.19.11_1280_logo_78x36.jpg" width="78" height="36"></a>
+</div>
+</div>
+<!--Ad Template Ends Here -->
+</div>
+
+
+<div class="singleAd" id="SponLink">
+<script language="JavaScript" type="text/javascript">
+    
+    // Sponlink_short
+
+    NYTD.GoogleAds.getGoogleAds("AFC", { 
+        google_ad_client:'nytimes_section_var',
+        ad_target_list:'sponLink'
+    });
+</script>
+</div>
+
+</div>
+</div><!--close cColumn -->
+</div><!--close wideA -->
+</div><!--close spanAB -->
+</div><!--close main -->
+<div id="footer">
+<ul class="first">
+<li class="first"><a href="http://www.nytimes.com">Home</a></li>
+<li >
+<a href="http://www.nytimes.com/pages/world/index.html">World</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y. / Region</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/opinion/index.html">Opinion</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/arts/index.html">Arts</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/style/index.html">Style</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/jobs/index.html">Jobs</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+</li>
+<li >
+<a href="http://www.nytimes.com/pages/automobiles/index.html">Autos</a>
+</li>
+<li><a href="http://spiderbites.nytimes.com/">Site Map</a></li>
+</ul>    <ul>
+<li class="first"><a href="http://www.nytimes.com/ref/membercenter/help/copyright.html">&copy; 2011</a> <a href="http://www.nytco.com/">The New York Times Company</a></li>
+<li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/privacy.html#pp">Your Ad Choices</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Terms of Service</a></li>
+<li class="termsOfSale"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+<li><a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a></li>
+<li><a class="rssButton" href="http://www.nytimes.com/rss">RSS</a></li>
+<li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+<li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+<li><a href="http://www.nytco.com/careers">Work for Us</a></li>
+<li><a href="http://www.nytimes.whsites.net/mediakit/">Advertise</a></li>
+</ul>
+</div>
+</div><!--close page -->
+</div><!--close shell -->
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/section/health/autocomplete/autoComplete.js"></script>
+
+
+
+
+
+
+
+<IMG SRC="/adx/bin/clientside/289ccbb2Q2F@L5Q25Q25cBQ25LZQ3CU5Q20K1WwUKQ25BJ1" height="1" width="3">
+
+<script type="text/javascript" language="JavaScript">
+// Written by /usr/local/knews/bin/commentcount.pl Fri Dec  2 13:02:02 2011
+var NYTArticleCommentCounts = {
+"100000001190843":{count:147, commentsEnabled:false},
+"100000001190858":{count:204, commentsEnabled:false},
+"100000001190907":{count:49, commentsEnabled:false},
+"100000001191255":{count:237, commentsEnabled:false},
+"100000001191704":{count:133, commentsEnabled:false},
+"100000001191724":{count:100, commentsEnabled:false},
+"100000001191950":{count:122, commentsEnabled:false},
+"100000001192133":{count:307, commentsEnabled:false},
+"100000001192329":{count:76, commentsEnabled:false},
+"100000001190961":{count:19, commentsEnabled:false},
+"100000001177231":{count:1, commentsEnabled:true},
+"100000001177245":{count:74, commentsEnabled:true},
+"100000001179958":{count:24, commentsEnabled:false},
+"100000001180322":{count:227, commentsEnabled:true},
+"100000001183078":{count:44, commentsEnabled:false},
+"100000001183080":{count:327, commentsEnabled:false},
+"100000001183081":{count:7, commentsEnabled:false},
+"100000001183084":{count:235, commentsEnabled:false},
+"100000001183087":{count:11, commentsEnabled:false},
+"100000001183089":{count:14, commentsEnabled:false},
+"100000001183090":{count:11, commentsEnabled:false},
+"100000001183091":{count:3, commentsEnabled:false},
+"100000001183094":{count:14, commentsEnabled:false},
+"100000001184186":{count:79, commentsEnabled:false},
+"100000001184524":{count:149, commentsEnabled:false},
+"100000001186117":{count:1, commentsEnabled:false},
+"100000001186193":{count:12, commentsEnabled:true},
+"100000001186569":{count:190, commentsEnabled:false},
+"100000001189184":{count:49, commentsEnabled:false},
+"100000001190721":{count:71, commentsEnabled:false},
+"100000001191577":{count:224, commentsEnabled:false},
+"100000001191688":{count:28, commentsEnabled:false},
+"100000001191719":{count:107, commentsEnabled:false},
+"100000001191931":{count:121, commentsEnabled:false},
+"100000001191985":{count:110, commentsEnabled:false},
+"100000001192057":{count:211, commentsEnabled:false},
+"100000001192188":{count:141, commentsEnabled:false},
+"100000001192496":{count:52, commentsEnabled:false},
+"100000001192500":{count:206, commentsEnabled:false},
+"100000001192600":{count:224, commentsEnabled:false},
+"100000001192611":{count:167, commentsEnabled:false},
+"100000001193250":{count:67, commentsEnabled:false},
+"100000001193262":{count:37, commentsEnabled:false},
+"100000001193344":{count:98, commentsEnabled:false},
+"100000001193527":{count:27, commentsEnabled:false},
+"100000001193629":{count:10, commentsEnabled:false},
+"100000001193702":{count:17, commentsEnabled:false},
+"100000001193743":{count:108, commentsEnabled:false},
+"100000001193763":{count:516, commentsEnabled:false},
+"100000001193825":{count:86, commentsEnabled:false},
+"100000001193857":{count:48, commentsEnabled:false},
+"100000001193859":{count:160, commentsEnabled:false},
+"100000001193890":{count:117, commentsEnabled:false},
+"100000001193920":{count:44, commentsEnabled:false},
+"100000001193944":{count:303, commentsEnabled:false},
+"100000001193948":{count:7, commentsEnabled:false},
+"100000001194088":{count:51, commentsEnabled:false},
+"100000001194098":{count:17, commentsEnabled:true},
+"100000001194137":{count:109, commentsEnabled:false},
+"100000001194342":{count:159, commentsEnabled:false},
+"100000001194394":{count:68, commentsEnabled:false},
+"100000001194454":{count:36, commentsEnabled:false},
+"100000001194795":{count:192, commentsEnabled:false},
+"100000001194808":{count:628, commentsEnabled:false},
+"100000001194892":{count:125, commentsEnabled:false},
+"100000001195360":{count:33, commentsEnabled:false},
+"100000001195689":{count:178, commentsEnabled:false},
+"100000001195802":{count:10, commentsEnabled:false},
+"100000001195854":{count:304, commentsEnabled:false},
+"100000001195914":{count:48, commentsEnabled:false},
+"100000001195920":{count:17, commentsEnabled:false},
+"100000001195923":{count:44, commentsEnabled:false},
+"100000001195938":{count:138, commentsEnabled:false},
+"100000001195940":{count:10, commentsEnabled:false},
+"100000001195947":{count:92, commentsEnabled:false},
+"100000001195952":{count:162, commentsEnabled:false},
+"100000001195976":{count:141, commentsEnabled:false},
+"100000001195982":{count:283, commentsEnabled:false},
+"100000001196229":{count:42, commentsEnabled:false},
+"100000001196250":{count:104, commentsEnabled:true},
+"100000001196432":{count:333, commentsEnabled:false},
+"100000001196658":{count:42, commentsEnabled:false},
+"100000001196737":{count:28, commentsEnabled:true},
+"100000001196861":{count:18, commentsEnabled:false},
+"100000001196955":{count:71, commentsEnabled:true},
+"100000001196963":{count:143, commentsEnabled:false},
+"100000001197064":{count:68, commentsEnabled:false},
+"100000001197489":{count:3, commentsEnabled:false},
+"100000001197999":{count:75, commentsEnabled:false},
+"100000001198014":{count:290, commentsEnabled:false},
+"100000001198050":{count:69, commentsEnabled:true},
+"100000001198076":{count:32, commentsEnabled:true},
+"100000001198092":{count:204, commentsEnabled:false},
+"100000001198110":{count:424, commentsEnabled:false},
+"100000001198123":{count:343, commentsEnabled:false},
+"100000001198126":{count:62, commentsEnabled:false},
+"100000001198138":{count:163, commentsEnabled:false},
+"100000001198377":{count:143, commentsEnabled:true},
+"100000001198446":{count:23, commentsEnabled:true},
+"100000001198471":{count:52, commentsEnabled:true},
+"100000001198476":{count:157, commentsEnabled:true},
+"100000001198581":{count:48, commentsEnabled:true},
+"100000001198642":{count:253, commentsEnabled:false},
+"100000001199366":{count:136, commentsEnabled:true},
+"100000001199374":{count:114, commentsEnabled:true},
+"100000001199444":{count:155, commentsEnabled:false},
+"100000001199658":{count:4, commentsEnabled:true},
+"100000001200046":{count:884, commentsEnabled:true},
+"100000001200335":{count:165, commentsEnabled:false},
+"100000001200378":{count:192, commentsEnabled:false},
+"100000001200458":{count:77, commentsEnabled:false},
+"100000001200844":{count:23, commentsEnabled:true},
+"100000001201276":{count:88, commentsEnabled:true},
+"100000001201525":{count:188, commentsEnabled:true},
+"100000001202361":{count:0, commentsEnabled:true},
+"100000001202521":{count:27, commentsEnabled:true},
+"100000001202701":{count:270, commentsEnabled:false},
+"100000001202807":{count:17, commentsEnabled:true},
+"100000001202815":{count:116, commentsEnabled:false},
+"100000001202831":{count:232, commentsEnabled:true},
+"100000001202861":{count:95, commentsEnabled:true},
+"100000001202869":{count:39, commentsEnabled:true},
+"100000001202871":{count:23, commentsEnabled:true},
+"100000001202889":{count:54, commentsEnabled:true},
+"100000001202895":{count:33, commentsEnabled:true},
+"100000001202901":{count:90, commentsEnabled:true},
+"100000001203208":{count:19, commentsEnabled:true},
+"100000001203416":{count:220, commentsEnabled:true},
+"100000001203664":{count:0, commentsEnabled:true},
+"100000001188908":{count:16, commentsEnabled:true},
+"100000001194403":{count:0, commentsEnabled:true},
+"100000001194404":{count:0, commentsEnabled:true},
+"100000001194405":{count:71, commentsEnabled:true},
+"100000001194406":{count:0, commentsEnabled:true},
+"100000001194419":{count:1, commentsEnabled:true},
+"100000001194423":{count:58, commentsEnabled:true},
+"100000001194424":{count:0, commentsEnabled:true},
+"100000001194425":{count:0, commentsEnabled:true},
+"100000001194427":{count:0, commentsEnabled:true},
+"100000001194843":{count:51, commentsEnabled:true},
+"100000001197746":{count:1, commentsEnabled:true},
+"100000001201815":{count:0, commentsEnabled:true},
+"100000001201989":{count:0, commentsEnabled:true}
+};
+</script>
+<script type="text/javascript" language="JavaScript" src="http://graphics8.nytimes.com/js/app/homepage/articleCommentCounts.js"></script>
+<script type="text/javascript" language="JavaScript">
+    ArticleCommentCounts.apply()
+    </script>
+
+			
+		<!-- Start UPT call -->
+		<img height="1" width="3" border=0 src="http://up.nytimes.com/?d=0/18/&t=3&s=0&ui=&r=&u=www%2enytimes%2ecom%2fpages%2fhealth%2findex%2ehtml%3f">
+		<!-- End UPT call -->
+	
+		
+        <script language="JavaScript"><!--
+          var dcsvid="";
+          var regstatus="non-registered";
+        //--></script>
+        <script src="http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js" type="text/javascript"></script>
+        <noscript>
+          <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7"/></div>
+        </noscript>
+   
+</body>
+</html>
