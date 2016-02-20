@@ -1,3 +1,4 @@
 *.o
 myInverteIndexer.*
 *.dSYM
+temp
