@@ -1,4 +1,5 @@
 *.o
 myInverteIndexer.*
 *.dSYM
+*.swp
 temp

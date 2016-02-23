@@ -9,8 +9,8 @@ TINY = lib/tiny.o
 CPP = g++
 CC  = gcc
 DEBUG = -g
-CFLAGS = -Wall -c $(DEBUG)
-LFLAGS = -pthread -Wall $(DEBUG)
+CFLAGS = -Wall -c -g
+LFLAGS = -pthread -Wall -g
 
 IDXRP = InvIndexer
 URLTP = urltest
@@ -44,7 +44,7 @@ spidey: $(OBJS) $(SPID)
 	$(CPP) $(LFLAGS) $(OBJS) $(SPID) -o $(SPIDP) $(RT)
 
 tiny: $(OBJS) $(TINY)
-	$(CPP) $(LFLAGS) $(OBJS) $(TINY) -o $(TINYP) $(RT)
+	$(CPP) $(LFLAGS) -g $(OBJS) $(TINY) -o $(TINYP) $(RT)
 
 run: all
 	./InvIndexer files.txt

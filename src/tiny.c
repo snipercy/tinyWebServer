@@ -66,11 +66,13 @@ void doit(int fd)
     Rio_readinitb(&rio, fd);
     Rio_readlineb(&rio, buf, MAXLINE);
     sscanf(buf, "%s %s %s", method, uri, version);
+    printf("file:%s, line:%d, buf:%s\n",__FILE__, __LINE__,buf);
     if (strcasecmp(method, "GET")) { 
         clienterror(fd, method, "501", "Not Implemented",
                     "Tiny does not implement this method");
         return;
     }
+
     read_requesthdrs(&rio);
 
     /* Parse URI from GET request */
@@ -90,29 +92,26 @@ void doit(int fd)
                         "Tiny couldn't read the file");
             return;
         }
+        
+        printf("is_static uri:%s, filename:%s,cgi:%s\n", uri, filename, cgiargs);
+
         // Serve the static file:
         serve_static(fd, filename, sbuf.st_size);
     }
 
 
     else if(is_static == 2){ /*server search*/
-         // Is it a regular file with owner read permissions?
              serve_search(fd,filename,cgiargs);
     }
-
-    else if(is_static == 3){ /*server search*/
-         // Is it a regular file with owner read permissions?
+    else if(is_static == 3){ /*server spider*/
              serve_spider(fd,filename,cgiargs);
     }
-
-
     else { /* Serve dynamic content */
         if (stat(filename, &sbuf) < 0) {
             clienterror(fd, filename, "404", "Not found",
                         "Tiny couldn't find this file");
             return;
         }
-        
         if (!(S_ISREG(sbuf.st_mode)) || !(S_IRUSR & sbuf.st_mode)) {
             clienterror(fd, filename, "403", "Forbidden",
                         "Tiny couldn't read the file");
@@ -133,8 +132,9 @@ void read_requesthdrs(rio_t *rp)
     char buf[MAXLINE];
 
     Rio_readlineb(rp, buf, MAXLINE);
-    while(strcmp(buf, "\r\n")) 
+    while(strcmp(buf, "\r\n")) {
         Rio_readlineb(rp, buf, MAXLINE);
+    }
     return;
 }
 /* $end read_requesthdrs */
@@ -146,7 +146,7 @@ void read_requesthdrs(rio_t *rp)
 /* $begin parse_uri */
 int parse_uri(char *uri, char *filename, char *cgiargs) 
 {
-    char *ptr;
+    char *ptr = NULL;
     if (strstr(uri, "cgi-bin")) {  /* Dynamic content */
         ptr = index(uri, '?');
        if (ptr) {
@@ -165,34 +165,35 @@ int parse_uri(char *uri, char *filename, char *cgiargs)
         if (ptr) {
             strcpy(cgiargs, ptr+1);
             *ptr = '\0';
-        }
-        else 
+        } else {
             strcpy(cgiargs, "");
+        }
         strcpy(filename, "./web/");
         strcat(filename, uri);
+
+        // for debug
+        printf("FILE:%s, LINE:%d,filename:\n", __FILE__, __LINE__,filename);
         return 2;
-    }    
- else if (strstr(uri, "spider")) {
+    } else if (strstr(uri, "spider")) {
         ptr = index(uri, '?');
         if (ptr) {
             strcpy(cgiargs, ptr+1);
             *ptr = '\0';
+        } else {
+            strcpy(cgiargs, "");
         }
-        else 
-        strcpy(cgiargs, "");
         strcpy(filename, "./web/");
         strcat(filename, uri);
         return 3;
-    }  
-    else {  /* Static content */
+    }  else {  /* Static content */
         strcpy(cgiargs, "");
         strcpy(filename, "./web/");
         strcat(filename, uri);
         if (uri[strlen(uri)-1] == '/')
             strcat(filename, "home.html");
+
         return 1;
     }
-
 }
 /* $end parse_uri */
 
@@ -241,10 +242,11 @@ printf("cgiargs:%s\n",cgiargs);
         }
     }
 
-printf("res:%s\n",res);
+printf("res111:%s\n",res);
     sprintf(buf,"<html><head><title>Search</title></head><body>\n");
     
     url_list* urls_searched = search_index(res);
+printf("res222:%s\n",res);
 
     int urlnums=0;
     url_list* head = urls_searched;
@@ -413,10 +415,13 @@ void serve_spider(int fd, char *filename, char *cgiargs) {
         {
              res = replace(ptr+1,"%2F","/");
         }
-       printf("res:%s LINE:%d\n",res,__LINE__);  //www.***/**/.com
-printf("ptr:%s LINE:%d\n",ptr,__LINE__);  //www.***/**/.com
+        
+        // for debug
+        printf("res:%s LINE:%d\n",res,__LINE__);  
+        printf("ptr:%s LINE:%d\n",ptr,__LINE__); 
     }
-printf("res:%s LINE:%d\n",res,__LINE__);  //www.***/**/.com
+
+printf("res:%s LINE:%d\n",res,__LINE__);
 
     //if(sscanf(cgiargs, "addr=%s&thread=%c&depth=%c",&addr,&t,&d)==3){
     //sscanf("addr=www.bvai.com","addr=%s\n",&addr);
@@ -446,9 +451,9 @@ printf("res:%s LINE:%d\n",res,__LINE__);  //www.***/**/.com
  
     
     sprintf(buf,"<html><head><title>Search</title></head><body>\n");
-    sprintf(buf,"%s<h1 href='toogle.html'>already,enjoy search~</h1>\n",buf);
+    sprintf(buf,"%s<h1 href='toogle.html'>already,then u can enjoy the search~</h1>\n",buf);
     sprintf(buf,"%s<ul>\n",buf);
-    sprintf(buf,"%s<li> <a href=\"/spidy.html\">back to spidy~</a></li>\n",buf);
+    sprintf(buf,"%s<li> <a href=\"/crawler.html\">back to crawler~</a></li>\n",buf);
     sprintf(buf,"%s<li> <a href=\"/home.html\">back to home</a></li></body></html>\n",buf);
     
     // Send response headers to client 
